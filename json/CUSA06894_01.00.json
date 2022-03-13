@@ -1,0 +1,1 @@
+{"name":"SUPERBEAT: XONiC","id":"CUSA06894","version":"01.00","process":"eboot.bin","mods":[{"name":"Auto play with Superbeat","type":"checkbox","memory":[{"offset":"80216BA1","on":"4831C941894F409090","off":"3948180F86E2030000"}]}],"credits":["Fullcodes"]}

@@ -1,0 +1,1 @@
+{"name":"Peggle 2","id":"CUSA00743","version":"01.00","process":"eboot.bin","mods":[{"name":"Have 99 Balls","type":"checkbox","memory":[{"offset":"C03C13","on":"B8620000004189842410090000E9A0DA61FF","off":"000000000000000000000000000000000000"},{"offset":"2216BD","on":"E951259E00909090","off":"4189842410090000"}]}],"credits":["Molly"]}

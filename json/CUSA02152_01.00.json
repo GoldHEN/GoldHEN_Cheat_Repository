@@ -1,0 +1,1 @@
+{"name":"Middle-earth™: Shadow of Mordor™ - Game of the Year Edition","id":"CUSA02152","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Focus","type":"checkbox","memory":[{"offset":"24C9DD","on":"9090909090","off":"C5FA114B54"}]},{"name":"Infinite Arrows","type":"checkbox","memory":[{"offset":"24CAA6","on":"909090","off":"894350"}]}],"credits":["Talixme"]}

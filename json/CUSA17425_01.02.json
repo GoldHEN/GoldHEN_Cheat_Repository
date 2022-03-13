@@ -1,0 +1,1 @@
+{"name":"SnowRunner","id":"CUSA17425","version":"01.02","process":"eboot.bin","mods":[{"name":"Infinite Fuel","type":"checkbox","memory":[{"offset":"1EC5500","on":"C5FA1087A4050000C5FA1187A0050000E9752322FF","off":"000000000000000000000000000000000000000000"},{"offset":"10E7882","on":"E979DCDD00909090","off":"C5FA1187A0050000"}]}],"credits":["TylerMods"]}

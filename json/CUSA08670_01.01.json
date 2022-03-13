@@ -1,0 +1,1 @@
+{"name":"Battlefield™ V","id":"CUSA08670","version":"01.01","process":"eboot.bin","mods":[{"name":"infi ammo","type":"checkbox","memory":[{"offset":"27FE2F2","on":"909090909090","off":"898344020000"}]}],"credits":["AhmadCH"]}

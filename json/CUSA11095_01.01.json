@@ -1,0 +1,1 @@
+{"name":"Paw Patrol: On a Roll!","id":"CUSA11095","version":"01.01","process":"eboot.bin","mods":[{"name":"Max Pup Bones ~Grab One~","type":"checkbox","memory":[{"offset":"1557800","on":"0F84233ACB7EB8C800000041894610E9123ACB7E","off":"0000000000000000000000000000000000000000"},{"offset":"8020B21C","on":"E9DFC534819090909090","off":"0F840D00000041894610"}]}],"credits":["Molly"]}

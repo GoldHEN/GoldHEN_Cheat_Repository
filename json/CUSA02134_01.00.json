@@ -1,0 +1,1 @@
+{"name":"Killing Floor 2","id":"CUSA02134","version":"01.00","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"A883E1","on":"E90F34460190","off":"418B072B45C8"},{"offset":"1EEB7F5","on":"418B072B45C8BE64000000413977040F85DDCBB9FEE9DBCBB9FE","off":"0000000000000000000000000000000000000000000000000000"}]}],"credits":["DeathRGH"]}

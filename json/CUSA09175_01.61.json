@@ -1,0 +1,84 @@
+{
+	"name": "DAYS GONE",
+	"id": "CUSA09175",
+	"version": "01.61",
+	"process": "eboot.bin",
+	"mods": [{
+		"name": "Infinite Stamina",
+		"type": "checkbox",
+		"memory": [{
+			"offset": "1286B97",
+			"on": "90909090",
+			"off": "488914C1"
+		}]
+	}, {
+		"name": "Bottomless Clip",
+		"type": "checkbox",
+		"memory": [{
+			"offset": "15C6C3F",
+			"on": "9090",
+			"off": "FF0B"
+		}]
+	}, {
+		"name": "Infinite Ammo",
+		"type": "checkbox",
+		"memory": [{
+			"offset": "12756C3",
+			"on": "9090",
+			"off": "29D0"
+		}, {
+			"offset": "1277087",
+			"on": "9090",
+			"off": "29D1"
+		}]
+	}, {
+		"name": "Infinite Items",
+		"type": "checkbox",
+		"memory": [{
+			"offset": "12795E0",
+			"on": "C3",
+			"off": "55"
+		}]
+	}, {
+		"name": "Molotov: Ignore Crafting Limit",
+		"type": "checkbox",
+		"memory": [{
+			"offset": "01278C95",
+			"on": "9090",
+			"off": "29C3"
+		}]
+	}, {
+		"name": "Infinite Weapon Durability",
+		"type": "checkbox",
+		"memory": [{
+			"offset": "015E2417",
+			"on": "C5F828C1",
+			"off": "C5F25CC0"
+		}]
+	}, {
+		"name": "Infinite Nitrogen",
+		"type": "checkbox",
+		"memory": [{
+			"offset": "01525696",
+			"on": "90909090",
+			"off": "C5FA5CC1"
+		}]
+	}, {
+		"name": "Infinite Motor Oil",
+		"type": "checkbox",
+		"memory": [{
+			"offset": "014F2D42",
+			"on": "C5F828C1",
+			"off": "C5F25CC0"
+		}]
+	}, {
+		"name": "Infinite Silencer",
+		"type": "checkbox",
+		"memory": [{
+			"offset": "01612A7E",
+			"on": "898370030000",
+			"off": "898B70030000"
+		}]
+	}],
+	"credits": ["TLH"]
+}

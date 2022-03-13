@@ -1,0 +1,1 @@
+{"name":"NieR:Automata","id":"CUSA04551","version":"01.00","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"2DA35E","on":"018310060100","off":"898310060100"}]},{"name":"Max Level","type":"button","memory":[{"offset":"696B16","on":"B87F96980089C190","off":"B87F96980089C190"}]}],"credits":["Weysincha"]}

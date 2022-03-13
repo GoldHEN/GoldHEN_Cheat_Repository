@@ -1,0 +1,75 @@
+{
+    "name": "KINGDOM HEARTS Ⅲ",
+    "id": "CUSA12025",
+    "version": "01.06",
+    "process": "eboot.bin",
+    "mods": [
+        {
+            "name": "Infinite Money",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "8493800",
+                    "on": "8B9F100C0000899F0C0C0000E9D214B7F8",
+                    "off": "0000000000000000000000000000000000"
+                },
+                {
+                    "offset": "1004CDD",
+                    "on": "E91EEB480790",
+                    "off": "899F0C0C0000"
+                }
+            ]
+        },
+        {
+            "name": "Max XP all characters",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "8493800",
+                    "on": "418B8E0A0C000041898E080C0000E90DF7B6F8",
+                    "off": "00000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "1002F19",
+                    "on": "E9E20849079090",
+                    "off": "41898E080C0000"
+                }
+            ]
+        },
+        {
+            "name": "Infinite SORA HP",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "8493800",
+                    "on": "6641C786E4050000FA00E9DE5B22F8",
+                    "off": "000000000000000000000000000000"
+                },
+                {
+                    "offset": "6B93E6",
+                    "on": "E915A4DD079090",
+                    "off": "418B86E4050000"
+                }
+            ]
+        },
+        {
+            "name": "Infinite SORA MP",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "849380F",
+                    "on": "66C787EC050000FA00E9ED5B21F8",
+                    "off": "0000000000000000000000000000"
+                },
+                {
+                    "offset": "6A9404",
+                    "on": "E906A4DE0790",
+                    "off": "8B87EC050000"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "IMnoob"
+    ]
+}

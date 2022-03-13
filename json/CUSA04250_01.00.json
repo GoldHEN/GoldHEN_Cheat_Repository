@@ -1,0 +1,1 @@
+{"name":"Aegis of Earth: Protonovus Assault","id":"CUSA04250","version":"01.00","process":"eboot.bin","mods":[{"name":"Get Money For Spending it","type":"checkbox","memory":[{"offset":"99F352","on":"44017818","off":"44897818"}]}],"credits":["DeathRGH"]}

@@ -1,0 +1,130 @@
+{
+    "name": "Red Dead Redemption 2",
+    "id": "CUSA08519",
+    "version": "01.13",
+    "process": "eboot.bin",
+    "mods": [
+	    {
+            "name": "Player/Horse Infinite Health/Stamina/Deadeye",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "962B27",
+                    "on": "90909090",
+                    "off": "C5FA1110"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Ammo",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "2A4B3A5",
+                    "on": "9090909090",
+                    "off": "44897C081C"
+                },
+                {
+                    "offset": "2A94964",
+                    "on": "9090909090",
+                    "off": "42895C2018"
+                }
+            ]
+        },
+        {
+            "name": "No Reload",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "2A94964",
+                    "on": "42895C2020",
+                    "off": "42895C2018"
+                }
+            ]
+        },
+		        {
+            "name": "Infinite Money",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "C04BDB",
+                    "on": "31F69090",
+                    "off": "48894318"
+                }
+            ]
+        },
+        {
+            "name": "Max Money",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "6D1F800",
+                    "on": "E8E5F9ECF948C7C0FFE0F50548894318E9CA53EEF9",
+                    "off": "000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "C04BD6",
+                    "on": "E925AC110690909090",
+                    "off": "E815A6FEFF48894318"
+                }
+            ]
+        },
+		        {
+            "name": "Max Item",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "6D1F800",
+                    "on": "490F44C648C7C00A00000048894328E9008FEDF9",
+                    "off": "0000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "BF870C",
+                    "on": "E9EF701206909090",
+                    "off": "490F44C648894328"
+                }
+            ]
+        },
+		        {
+            "name": "Infinite Items",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "BF8710",
+                    "on": "48894330",
+                    "off": "48894328"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Max Objects",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "BF8701",
+                    "on": "4889C8",
+                    "off": "4C89F0"
+                }
+            ]
+        },
+        {
+            "name": "Extra horse affinity gain",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "6D1F810",
+                    "on": "410F4ECC418B572C458B5F2CE9B1110BFA",
+                    "off": "0000000000000000000000000000000000"
+                },
+                {
+                    "offset": "DD09CA",
+                    "on": "E941EEF405909090",
+                    "off": "410F4ECC458B1C89"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "E A Z Y and drakaz and IMnoob"
+    ]
+}

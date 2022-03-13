@@ -1,0 +1,1 @@
+{"name":"World War Z","id":"CUSA13930","version":"01.21","process":"eboot.bin","mods":[{"name":"inf ammo","type":"checkbox","memory":[{"section":"18","offset":"8D3F1F","on":"90909090","off":"418A4608"}]}],"credits":["hp"]}

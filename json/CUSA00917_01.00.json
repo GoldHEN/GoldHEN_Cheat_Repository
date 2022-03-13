@@ -1,0 +1,1 @@
+{"name":"Uncharted™ 4: A Thief’s End","id":"CUSA00917","version":"01.00","process":"eboot.bin","mods":[{"name":"Enable Debug Menu","type":"button","memory":[{"offset":"12EA2D","on":"C5FA1184243007000080B89D2E0000000F85150E0000C680952E000001EB04080E0000","off":"C5FA1184243007000080B89D2E0000000F85150E0000C680952E000001EB04080E0000"}]}],"credits":["DeathRGH"]}

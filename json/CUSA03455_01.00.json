@@ -1,0 +1,1 @@
+{"name":"7 Days to Die","id":"CUSA03455","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Health / Stamina","type":"checkbox","memory":[{"offset":"804901BB","on":"909090909090","off":"F3450F117F24"}]},{"name":"Get Skillpoints For Spending Them","type":"checkbox","memory":[{"offset":"8075ACA9","on":"01C8","off":"2BC1"}]}],"credits":["DeathRGH"]}

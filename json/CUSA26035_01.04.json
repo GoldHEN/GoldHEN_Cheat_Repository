@@ -1,0 +1,1 @@
+{"name":"Solar Ash","id":"CUSA26035","version":"01.04","process":"eboot.bin","mods":[{"name":"Pink Orb Multiplier When Repairing","type":"checkbox","memory":[{"offset":"188DF5E","on":"018718030000","off":"898718030000"}]}],"credits":["Wander"]}

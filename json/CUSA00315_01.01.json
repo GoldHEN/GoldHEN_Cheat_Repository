@@ -1,0 +1,1 @@
+{"name":"The Swapper","id":"CUSA00315","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite Clones","type":"checkbox","memory":[{"offset":"733B1","on":"41FF87B8030000","off":"41FF8FB8030000"}]}],"credits":["DeathRGH"]}

@@ -1,0 +1,1 @@
+{"name":"Ratchet & Clank™","id":"CUSA01073","version":"01.07","process":"eboot.bin","mods":[{"name":"Max ammo","type":"checkbox","memory":[{"offset":"4BB1B8","on":"C5FA5FC1","off":"C5FA5DC1"}]}],"credits":["George and TLH"]}

@@ -1,0 +1,1 @@
+{"name":"Horizon Chase Turbo","id":"CUSA11275","version":"02.01","process":"eboot.bin","mods":[{"name":"Infinite Fuel","type":"checkbox","memory":[{"section":"14","offset":"3D647A","on":"9090909090","off":"C5FA114B28"}]},{"name":"Infinite Nitro Turbo","type":"checkbox","memory":[{"section":"14","offset":"3B4970","on":"909090","off":"897720"}]}],"credits":["Olecram"]}

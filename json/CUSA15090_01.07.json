@@ -1,0 +1,1 @@
+{"name":"Need for Speed™ Heat","id":"CUSA15090","version":"01.07","process":"eboot.bin","mods":[{"name":"Inf Money","type":"checkbox","memory":[{"offset":"4B48500","on":"4C89E7C7413800247449E90DE8B5FC","off":"000000000000000000000000000000"},{"offset":"16A6D15","on":"E9E6174A039090","off":"4C89E748895138"}]}],"credits":["Saso"]}

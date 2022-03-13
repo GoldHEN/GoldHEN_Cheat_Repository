@@ -1,0 +1,1 @@
+{"name":"MONOPOLY PLUS","id":"CUSA00773","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite Money","type":"checkbox","memory":[{"offset":"380","on":"909090","off":"897708"}]}],"credits":["haxso"]}

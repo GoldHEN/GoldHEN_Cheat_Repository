@@ -1,0 +1,1 @@
+{"name":"RESIDENT EVIL 2","id":"CUSA09171","version":"1.01","process":"eboot.bin","mods":[{"name":"God Mode","type":"checkbox","memory":[{"offset":"10662B1","on":"909090","off":"894858"}]}],"credits":["EAZY"]}

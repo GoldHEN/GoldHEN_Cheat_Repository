@@ -1,0 +1,1 @@
+{"name":"Uncharted The Lost Legacy","id":"CUSA07875","version":"01.00","process":"eboot.bin","mods":[{"name":"Dev Menu = L3 + L Touch Pad","hint":null,"type":"checkbox","memory":[{"offset":"1FDD35","on":"C680F92E000001","off":"C680F92E000000"}]}],"credits":["hejran7"]}

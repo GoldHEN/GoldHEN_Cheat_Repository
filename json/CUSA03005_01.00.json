@@ -1,0 +1,1 @@
+{"name":"Call of Duty®: Black Ops III","id":"CUSA03005","version":"1.00","process":"eboot.bin","mods":[{"name":"no reload","type":"checkbox","memory":[{"offset":"110F01D","on":"909090","off":"448921"}]}],"credits":["gokusuper"]}

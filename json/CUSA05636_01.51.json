@@ -1,0 +1,1 @@
+{"name":"ACE COMBAT™ 7: SKIES UNKNOWN","id":"CUSA05636","version":"01.51","process":"eboot.bin","mods":[{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"4ECEAA0","on":"4A8D442B08FFCAC700D2040000E949E981FC","off":"000000000000000000000000000000000000"},{"offset":"16ED3F2","on":"E9A9167E0390909090","off":"4A8D442B08FFCA8910"}]}],"credits":["TylerMods"]}

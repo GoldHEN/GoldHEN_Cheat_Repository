@@ -1,0 +1,22 @@
+{
+    "name": "Streets of Rage 4",
+    "id": "CUSA16221",
+    "version": "01.01",
+    "process": "eboot.bin",
+    "mods": [
+        {
+            "name": "P1 and P2 one hit to added one lives",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "32539B",
+                    "on": "9090",
+                    "off": "7F76"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "Ali Pashaei"
+    ]
+}

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hellpoint" Moder="Saso" Cusa="CUSA17806" Version="01.21" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Health / 1 Hit (Master Code)">
+    <Cheatline>
+      <Offset>18FDF00</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7B-10-00-74-0A-C5-FA-11-53-1C-E9-0A-DF-C3-7F-C5-FA-11-43-1C-E9-00-DF-C3-7F-C5-F8-57-C0-EB-F0</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8153BE15</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E6-20-3C-80</ValueOn>
+      <ValueOff>C5-FA-11-43-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill (MC)">
+    <Cheatline>
+      <Offset>18FDF04</Offset>
+      <Section>0</Section>
+      <ValueOn>74-14</ValueOn>
+      <ValueOff>74-0A</ValueOff>
+    </Cheatline>
+  </Cheat>
+ <Cheat Text="Energy">
+    <Cheatline>
+      <Offset>18FD600</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-38-C5-FA-11-43-34-E9-DA-F1-C3-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8153C7E4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-17-0E-3C-80</ValueOn>
+      <ValueOff>C5-FA-11-43-34</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stamina">
+    <Cheatline>
+      <Offset>18FDFA0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-48-C5-FA-11-43-44-E9-5E-EA-C3-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8153CA08</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-93-15-3C-80</ValueOn>
+      <ValueOff>C5-FA-11-43-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Axions (On Get)">
+       <Cheatline>
+      <Offset>18FE000</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-FF-C9-9A-3B-41-89-86-A0-00-00-00-E9-56-27-81-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81110760</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9B-D8-7E-80-90-90</ValueOn>
+      <ValueOff>41-89-86-A0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+ </Trainer>

@@ -1,0 +1,206 @@
+{
+    "name": "Persona 5 Royal",
+    "id": "CUSA17419",
+    "version": "01.01",
+    "process": "eboot.bin",
+    "mods": [
+        {
+            "name": "Infinite HP",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "1A27800",
+                    "on": "0F4FD84189460C895F0CE92CA049FF",
+                    "off": "000000000000000000000000000000"
+                },
+                {
+                    "offset": "EC1834",
+                    "on": "E9C75FB6009090",
+                    "off": "0F4FD841895E0C"
+                }
+            ]
+        },
+        {
+            "name": "Infinte HP + 1hit kill (no reward)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "1A2780F",
+                    "on": "0F4FD84189460CC6470C00E91CA049FF",
+                    "off": "00000000000000000000000000000000"
+                },
+                {
+                    "offset": "EC1834",
+                    "on": "E9D65FB6009090",
+                    "off": "0F4FD841895E0C"
+                }
+            ]
+        },
+        {
+            "name": "Change Enemy Code +1 turn off after (Caution)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "EC1837",
+                    "on": "FE470890",
+                    "off": "41895E0C"
+                }
+            ]
+        },
+        {
+            "name": "Change Enemy Code -1 turn off after (Caution)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "EC1837",
+                    "on": "FE4F0890",
+                    "off": "41895E0C"
+                }
+            ]
+        },
+        {
+            "name": "Infinite SP",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "380F44",
+                    "on": "0F4ED8",
+                    "off": "0F4FD8"
+                }
+            ]
+        },
+        {
+            "name": "99 item",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "EBC37C",
+                    "on": "B26390",
+                    "off": "0F42D6"
+                }
+            ]
+        },
+        {
+            "name": "Max Exp + Persona + 99 Stats (hit hero)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "1A27825",
+                    "on": "0F4FD841895E0C41C7461C7F96980041C7464C7F96980041C746606363636341C6466463E9D2A449FF",
+                    "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "EC1D19",
+                    "on": "E9075BB6009090",
+                    "off": "0F4FD841895E0C"
+                }
+            ]
+        },
+        {
+            "name": "Yen",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "EC1B00",
+                    "on": "0F4EC7",
+                    "off": "0F4DC7"
+                }
+            ]
+        },
+        {
+            "name": "Ammo",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "47D54C",
+                    "on": "66899E94020000",
+                    "off": "66899694020000"
+                }
+            ]
+        },
+        {
+            "name": "Change Persona code +1 (hit hero)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "1A2784F",
+                    "on": "0F4FD841895E0C41FE4646E9C1A449FF",
+                    "off": "00000000000000000000000000000000"
+                },
+                {
+                    "offset": "EC1D19",
+                    "on": "E9315BB6009090",
+                    "off": "0F4FD841895E0C"
+                }
+            ]
+        },
+        {
+            "name": "Change Persona Code -1 (hit hero)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "1A2785F",
+                    "on": "0F4FD841895E0C41FE4E46E9B1A449FF",
+                    "off": "00000000000000000000000000000000"
+                },
+                {
+                    "offset": "EC1D19",
+                    "on": "E9415BB6009090",
+                    "off": "0F4FD841895E0C"
+                }
+            ]
+        },
+        {
+            "name": "Morning",
+            "type": "button",
+            "memory": [
+                {
+                    "offset": "D08C0B",
+                    "on": "40B70190",
+                    "off": "4080FF06"
+                }
+            ]
+        },
+        {
+            "name": "Afternoon",
+            "type": "button",
+            "memory": [
+                {
+                    "offset": "D08C0B",
+                    "on": "40B70390",
+                    "off": "4080FF06"
+                }
+            ]
+        },
+        {
+            "name": "Evening",
+            "type": "button",
+            "memory": [
+                {
+                    "offset": "D08C0B",
+                    "on": "40B70590",
+                    "off": "4080FF06"
+                }
+            ]
+        },
+        {
+            "name": "Max Social Stats",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "1A2786F",
+                    "on": "42C6845A4C390100C0E9D5C6BBFF",
+                    "off": "0000000000000000000000000000"
+                },
+                {
+                    "offset": "15E3F49",
+                    "on": "E92139440090909090",
+                    "off": "664289B45A4C390100"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "d01v"
+    ]
+}

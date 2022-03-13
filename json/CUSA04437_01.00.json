@@ -1,0 +1,64 @@
+{
+    "name": "Resident Evil 5",
+    "id": "CUSA04437",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [
+        {
+            "name": "Infinite Health",
+            "hint": null,
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "6161B4",
+                    "on": "90909090909090",
+                    "off": "66898B681E0000"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Mercenaries Time",
+            "hint": null,
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "4621F",
+                    "on": "C5FA11ABA0070000",
+                    "off": "C5FA1183A0070000"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Ammo",
+            "hint": null,
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "7381E5",
+                    "on": "909090",
+                    "off": "29560c"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Money",
+            "hint": null,
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "C0B21D",
+                    "on": "E95E5B6D0090",
+                    "off": "898794010000"
+                },
+                {
+                    "offset": "EE0D80",
+                    "on": "C7879401000060B74700",
+                    "off": "C7879401000060B74700"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "TylerMods"
+    ]
+}
