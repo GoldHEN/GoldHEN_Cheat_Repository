@@ -1,0 +1,26 @@
+name: Push commit
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push events but only for the main branch
+  push:
+    branches: [ main ]
+
+jobs:
+  gamelist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Create list files
+        run: |
+          gcc list_files.c
+          ./a.out json '"name"' > json.txt
+          ./a.out shn Game > shn.txt
+      - name: Commit list files
+        run: |
+          git config --global user.name 'bucanero'
+          git config --global user.email 'bucanero@users.noreply.github.com'
+          git add json.txt
+          git add shn.txt
+          git commit -am "Cheat lists update"
+          git push
