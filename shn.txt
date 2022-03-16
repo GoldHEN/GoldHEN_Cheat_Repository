@@ -1,5 +1,5 @@
-CUSA15161_01.01.shn=(null)
-CUSA29199_01.00.shn=(null)
+CUSA15161_01.01.shn=Chronos Before the Ashes
+CUSA29199_01.00.shn=Tormented souls
 CUSA17806_01.21.shn=Hellpoint
 CUSA10227_01.15.shn=Torchlight III
 CUSA16296_01.00.shn=Doom 64
