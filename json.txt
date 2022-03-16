@@ -324,6 +324,7 @@ CUSA00411_01.23.json=Grand Theft Auto V
 CUSA00315_01.01.json=The Swapper
 CUSA05625_01.41.json=Assassin's Creed® Origins
 CUSA20469_01.01_2.json=Cuphead (7.55)
+CUSA19640_01.00.json=Persona 5 Striker
 CUSA19637_01.01.json=The Legend of Heroes: Trails of Cold Steel IV
 CUSA00557_01.09.json=The Last of Us™ Remastered
 CUSA10326_01.02.json=Far Cry® 3 Classic Edition
