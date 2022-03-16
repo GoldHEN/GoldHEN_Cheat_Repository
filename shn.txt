@@ -1,6 +1,7 @@
 CUSA15161_01.01.shn=(null)
 CUSA29199_01.00.shn=(null)
 CUSA17806_01.21.shn=Hellpoint
+CUSA10227_01.15.shn=Torchlight III
 CUSA16296_01.00.shn=Doom 64
 CUSA25617_01.00.shn=Big Rumble Boxing Creed Champions
 CUSA19072_01.03.shn=GOD EATER 2 RAGE BURST
