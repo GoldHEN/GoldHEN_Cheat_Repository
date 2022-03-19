@@ -1,0 +1,53 @@
+name: Add PS4 Cheats
+description: Upload a PlayStation 4 cheat file
+title: "[Add cheats]"
+labels: ["PS4"]
+assignees:
+  - kmeps4
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to upload cheats!
+  - type: input
+    id: game
+    attributes:
+      label: Game name
+      description: Insert Game Title
+      placeholder: ex. Uncharted
+    validations:
+      required: true
+  - type: input
+    id: titleid
+    attributes:
+      label: Title ID
+      description: Insert Title ID
+      placeholder: ex. CUSA12345
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Game Version
+      description: Insert Game Version
+      placeholder: ex. 1.23
+    validations:
+      required: true
+  - type: textarea
+    id: json
+    attributes:
+      label: Cheats JSON data
+      description: Insert JSON file
+      render: json
+      placeholder: Tell us about the save
+      value: '{"example":"Paste JSON cheat file content"}'
+    validations:
+      required: true
+  - type: input
+    id: zipurl
+    attributes:
+      label: Zip link
+      description: (Optional) Insert link to .Zip file
+      placeholder: ex. http://mediafire.com/...
+    validations:
+      required: false
