@@ -61,6 +61,7 @@ CUSA03952_01.38.json=No Man's Sky
 CUSA02821_01.29.json=Tom Clancy's Ghost Recon® Wildlands
 CUSA00004_01.07.json=inFAMOUS™ Second Son
 CUSA24095_01.01.json=NINJA GAIDEN 3: Razor's Edge
+CUSA09175_01.81.json=DAYS GONE
 CUSA00556_01.09.json=The Last of Us™ Remastered
 CUSA13115_01.02_2.json=Watch Dogs®: Legion
 CUSA07188_01.00.json=Bulletstorm: Full Clip Edition
