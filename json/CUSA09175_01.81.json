@@ -47,7 +47,7 @@
 		"name": "Infinite Stamina",
 		"type": "checkbox",
 		"memory": [{
-			"offset": "2422F48",
+			"offset": "2422F48", 
 			"on": "90909090",
 			"off": "C5FA1106"
 		}]
@@ -103,6 +103,14 @@
 			"on": "909090909090",
 			"off": "2b9180000000"
 		}]
+	}, {
+		"name": "Infinite Weapon Durability",
+		"type": "checkbox",
+		"memory": [{
+			"offset": "15E475E",
+			"on": "C5F828C1",
+			"off": "C5F25CC0"
+		}]
 	}],
-	"credits": ["Mikey", "SiSTRo", "kameleon"]
+	"credits": ["Mikey", "SiSTRo"]
 }

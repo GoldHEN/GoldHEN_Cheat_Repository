@@ -1,1 +1,1 @@
-{"name":"CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS","id":"CUSA14896","version":"1.02","process":"eboot.bin","mods":[{"name":"Infinite Money","type":"checkbox","memory":[{"offset":"38E659","on":"9090909090","off":"050F42C889"}]}],"credits":["AhmadCH"]}
+{"name":"CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS","id":"CUSA14896","version":"01.02","process":"eboot.bin","mods":[{"name":"Infinite Money","type":"checkbox","memory":[{"offset":"38E659","on":"9090909090","off":"050F42C889"}]}],"credits":["AhmadCH"]}
