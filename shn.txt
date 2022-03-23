@@ -1,11 +1,3 @@
-CUSA15161_01.01.shn=Chronos Before the Ashes
-CUSA29199_01.00.shn=Tormented souls
-CUSA17806_01.21.shn=Hellpoint
-CUSA10227_01.15.shn=Torchlight III
 CUSA16296_01.00.shn=Doom 64
-CUSA25617_01.00.shn=Big Rumble Boxing Creed Champions
-CUSA27387_01.03.shn=Hades
-CUSA16221_01.06.shn=Streets Of Rage 4
-CUSA27306_01.31.shn=DEMON SLAYER
 CUSA19072_01.03.shn=GOD EATER 2 RAGE BURST
 CUSA04841_03.05.shn=No Man's Sky
