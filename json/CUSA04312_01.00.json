@@ -1,0 +1,1 @@
+{"name":"Ghostbusters","id":"CUSA04312","version":"01.00","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"37d7c01","on":"C7406C0000FA44C5FA10406CE9DCADE5FD90","off":"000000000000000000000000000000000000"},{"offset":"16329e9","on":"E913521A02","off":"C5FA10406C"}]}],"credits":["PS4Guru","Shiningami"]}

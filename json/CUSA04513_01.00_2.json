@@ -1,0 +1,1 @@
+{"name":"Dead Rising","id":"CUSA04513","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Pictures (Camera Battery)","type":"checkbox","memory":[{"offset":"b0350","on":"41FFC5","off":"41FFCD"}]},{"name":"Max PP Multiplier","type":"button","memory":[{"offset":"b0350","on":"4181C600CA9A3B90","off":"4181C600CA9A3B90"}]}],"credits":["DeathRGH"]}
