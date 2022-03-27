@@ -212,7 +212,6 @@ CUSA16458_01.01.json=Atelier Ryza: Ever Darkness & the Secret Hideout
 CUSA14619_01.08.json=Sniper Ghost Warrior Contracts
 CUSA13285_01.02.json=Hollow Knight
 CUSA02557_01.00.json=Fallout 4
-CUSA18278_01.05.json=Cyberpunk 2077
 CUSA12567_01.03.json=The Surge 2
 CUSA06924_01.00.json=Alchemic Jousts
 CUSA15526_01.08.json=Nioh 2
