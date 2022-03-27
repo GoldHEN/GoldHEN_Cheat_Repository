@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Cyberpunk 2077" Moder="Saso" Cusa="CUSA18278" Version="01.05" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="FPS" />
+  <Items />
+  <Cheat Text="Inf Health / Stamina">
+    <Cheatline>
+      <Offset>48F0230</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-57-10-39-17-74-37-81-7F-60-5A-22-19-F3-75-10-C5-FA-10-87-88-01-00-00-C5-FA-11-87-90-01-00-00-81-7F-60-1F-7B-CD-F2-75-15-C5-FA-10-87-88-01-00-00-C5-FA-11-87-90-01-00-00-E9-9C-A3-0D-FD-C5-FA-11-87-90-01-00-00-E9-8F-A3-0D-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>19CA602</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-29-5C-F2-02-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-90-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money/Ammo/Med Kit/Craft Res">
+    <Cheatline>
+      <Offset>48F0200</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-3F-42-0F-00-41-89-4E-78-E9-82-39-EA-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1793B89</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-72-C6-15-03-90-90</ValueOn>
+      <ValueOff>0F-4E-C8-41-89-4E-78</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Character Building Points (Disable B4 Confirm)">
+    <Cheatline>
+      <Offset>48F02A0</Offset>
+      <Section>0</Section>
+      <ValueOn>4D-85-F6-B8-1E-00-00-00-41-89-04-24-E9-AD-80-77-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>68357</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-44-7F-88-04-90-90</ValueOn>
+      <ValueOff>4D-85-F6-41-89-04-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>48F02C0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-24-40-03-00-00-63-00-00-00-E9-1A-E8-26-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1B5EAE3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D8-17-D9-02-90-90-90</ValueOn>
+      <ValueOff>41-89-9C-24-40-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Attribute /Perks Points (Disable After Maxed)">
+    <Cheatline>
+      <Offset>48F02E0</Offset>
+      <Section>0</Section>
+      <ValueOn>4D-85-F6-B8-63-00-00-00-41-89-04-24-E9-6D-80-77-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>68357</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-84-7F-88-04-90-90</ValueOn>
+      <ValueOff>4D-85-F6-41-89-04-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
