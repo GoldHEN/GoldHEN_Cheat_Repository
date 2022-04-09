@@ -32,6 +32,14 @@
 			"off": "C5FA5C8548FFFFFF"
 		}]
 	}, {
+		"name": "Lock Credits/Money",
+		"type": "checkbox",
+		"memory": [{
+			"offset": "1179CCF",
+			"on": "90909090",
+			"off": "41894774"
+		}]
+	}, {
 		"name": "Infinite Ammo",
 		"type": "checkbox",
 		"memory": [{
@@ -43,7 +51,8 @@
 			"on": "9090",
 			"off": "29D1"
 		}]
-	}, {
+	}, 
+	{
 		"name": "Infinite Stamina",
 		"type": "checkbox",
 		"memory": [{
@@ -112,5 +121,5 @@
 			"off": "C5F25CC0"
 		}]
 	}],
-	"credits": ["Mikey", "SiSTRo"]
+	"credits": ["Mikey", "SiSTRo", "Kameleon"]
 }
