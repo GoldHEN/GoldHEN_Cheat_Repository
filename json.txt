@@ -326,6 +326,7 @@ CUSA04893_01.00_ScimitarACR.elf.json=Assassin's Creed The Ezio Collection
 CUSA09450_01.16.json=MLB® The Show™ 18
 CUSA06782_01.00.json=ARK: Survival Evolved
 CUSA11993_01.17.json=Marvel's Spider-Man
+CUSA11456_02.13.json=Ghost of Tsushima
 CUSA03991_01.00_2.json=Dying Light
 CUSA07875_01.00.json=Uncharted The Lost Legacy
 CUSA12351_01.06.json=Sniper Elite V2 Remastered
