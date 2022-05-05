@@ -1,0 +1,80 @@
+{
+    "name": "Far Cry® 3 Classic Edition",
+    "id": "CUSA10326",
+    "version": "01.02",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Health Syringes",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5AE10",
+            "on": "C7839000000003000000E96BB76B81",
+            "off": "000000000000000000000000000000"
+        }, {
+            "offset": "1316584",
+            "on": "E98748947E90",
+            "off": "898390000000"
+        }]
+    }, {
+        "name": "Infinite Ammo",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5A750",
+            "on": "D841034618E9D7566181",
+            "off": "0000000000000000000000"
+        }, {
+            "offset": "126FE2C",
+            "on": "E91FA99E7E90",
+            "off": "29D841894618"
+        }]
+    }, {
+        "name": "No Reload",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5BDC0",
+            "on": "0391D8000000E95B215481",
+            "off": "0000000000000000000000"
+        }, {
+            "offset": "119DF20",
+            "on": "E99BDEAB7E90",
+            "off": "8991D8000000"
+        }]
+    }, {
+        "name": "Infinite Throwables (After Getting Throwables)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5AB90",
+            "on": "488945D0037370E95AA46681",
+            "off": "000000000000000000000000"
+        }, {
+            "offset": "12C4FEF",
+            "on": "E99C5B997E9090",
+            "off": "488945D0897370"
+        }]
+    }, {
+        "name": "Max/Infinite Money On First Buy",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5BCA0",
+            "on": "8B470889F8E93BA76381",
+            "off": "00000000000000000000"
+        }, {
+            "offset": "12963E0",
+            "on": "E9BB589C7E",
+            "off": "8B470829F0"
+        }]
+    }, {
+        "name": "Max/Infinite Skill Points",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5AE50",
+            "on": "FFC941894764E915095280",
+            "off": "0000000000000000000000"
+        }, {
+            "offset": "17B76A",
+            "on": "E9E1F6AD7F90",
+            "off": "FFC941894F64"
+        }]
+    }],
+    "credits": ["Celogamez"]
+}

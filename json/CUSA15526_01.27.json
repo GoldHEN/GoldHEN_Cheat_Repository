@@ -1,1 +1,128 @@
-{"name":"Nioh 2","id":"CUSA15526","version":"01.27","process":"eboot.bin","mods":[{"name":"Infinite Amirta","type":"checkbox","memory":[{"offset":"D35267","on":"490107","off":"498907"}]},{"name":"Infinite Gold","type":"checkbox","memory":[{"offset":"D35267","on":"490107","off":"498907"}]},{"name":"Infinite KI","type":"checkbox","memory":[{"offset":"A677E4","on":"9090909090","off":"C5FA115F08"}]},{"name":"Infinite Anima","type":"checkbox","memory":[{"offset":"A6B57E","on":"C5FA118B58010000","off":"C5FA11A358010000"}]},{"name":"Infinite Shortcut Items","type":"checkbox","memory":[{"offset":"D586B9","on":"9090909090909090","off":"66899C06745D1000"}]},{"name":"Infinite Items","type":"checkbox","memory":[{"offset":"D586B9","on":"9090909090909090","off":"66899C06745D1000"}]},{"name":"Infinite Yokai Shift Duration","type":"checkbox","memory":[{"offset":"B18740","on":"C5FA11BBC4000000","off":"C5FA118BC4000000"}]}],"credits":["M3hdi PS"]}
+{
+    "name": "Nioh 2",
+    "id": "CUSA15526",
+    "version": "01.27",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "INF Amirta",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "D35267",
+            "on": "490107",
+            "off": "498907"
+        }]
+    }, {
+        "name": "INF Gold",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "D35267",
+            "on": "490107",
+            "off": "498907"
+        }]
+    }, {
+        "name": "INF KI",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "A677E4",
+            "on": "9090909090",
+            "off": "C5FA115F08"
+        }]
+    }, {
+        "name": "Infinite Anima",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "A6B57E",
+            "on": "C5FA118B58010000",
+            "off": "C5FA11A358010000"
+        }]
+    }, {
+        "name": "Infinite Shortcut Items",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "D586B9",
+            "on": "9090909090909090",
+            "off": "66899C06745D1000"
+        }]
+    }, {
+        "name": "Infinite Items",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "D586B9",
+            "on": "9090909090909090",
+            "off": "66899C06745D1000"
+        }]
+    }, {
+        "name": "Infinite Yokai Shift Duration",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "B18740",
+            "on": "C5FA11BBC4000000",
+            "off": "C5FA118BC4000000"
+        }]
+    }, {
+        "name": "Infinite Talisman",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "E33512",
+            "on": "6644019C16F43111",
+            "off": "6644899C16F43111"
+        }]
+    }, {
+        "name": "Max Yokai Shift Gauge",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "A9C732",
+            "on": "C5FA118864010000",
+            "off": "C5FA118064010000"
+        }]
+    }, {
+        "name": "Infinite Arrow-Bullet-Divine Rice ",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "D586B9",
+            "on": "9090909090909090",
+            "off": "66899C06745D1000"
+        }]
+    }, {
+        "name": "Max Weapon Proficiency",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "D36077",
+            "on": "410107",
+            "off": "418907"
+        }]
+    }, {
+        "name": "Max Level",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "D356E7",
+            "on": "410107",
+            "off": "418907"
+        }]
+    }, {
+        "name": "Infinite Sentience",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "A88C7B",
+            "on": "9090909090",
+            "off": "C5FA11430C"
+        }]
+    }, {
+        "name": "Max Weapon Familiarity",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1175649",
+            "on": "4989470C",
+            "off": "4589770C"
+        }]
+    }, {
+        "name": "Infinite Glory",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "E23A01",
+            "on": "018BBC040000",
+            "off": "898BBC040000"
+        }]
+    }],
+    "credits": ["M3hdi PS"]
+}
