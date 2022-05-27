@@ -1,0 +1,1 @@
+{"name":"Planet Coaster","id":"CUSA17602","version":"01.00","process":"eboot.bin","mods":[{"name":"Max Money","type":"checkbox","memory":[{"offset":"7FC5FAB0","on":"48C78380020000FFE0F505E97B8F3081","off":"00000000000000000000000000000000"},{"offset":"F68A34","on":"E97770CF7E9090","off":"48898380020000"}]}],"credits":["Wander_9.00"]}
