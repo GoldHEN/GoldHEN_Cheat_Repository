@@ -702,6 +702,7 @@ CUSA18534_05.10.json=Assassin's Creed® Valhalla
 CUSA06447_01.00.json=Euro Fishing
 CUSA09263_01.00_dmc2.elf.json=Devil May Cry™ HD Collection
 CUSA02762_01.00.json=Divinity : Original Sin Enhanced Edition
+CUSA01067_01.00.json=Resident Evil™
 CUSA25132_01.05.json=Scarlet Nexus
 CUSA04482_01.00.json=Prey
 CUSA05133_01.05.json=YAKUZA 0
