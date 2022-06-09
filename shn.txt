@@ -1,5 +1,8 @@
 CUSA18278_01.05.shn=Cyberpunk 2077
 CUSA10249_01.09.shn=The Last of Us Part: II
+CUSA08060_01.11.shn=Gravity Daze 2
 CUSA04841_03.05.shn=No Man's Sky
+CUSA03694_01.11.shn=Gravity Rush 2
+CUSA04943_01.11.shn=Gravity Rush 2
 CUSA16296_01.00.shn=Doom 64
 CUSA19072_01.03.shn=GOD EATER 2 RAGE BURST
