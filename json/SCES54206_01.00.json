@@ -1,0 +1,46 @@
+{
+   "name":"God of War II",
+   "id":"SCES54206",
+   "version":"01.00",
+   "process":"eboot.bin",
+   "mods":[
+      {
+         "name":"Max Red-Orb",
+         "type":"checkbox",
+         "memory":[
+            {
+               "offset":"807FF35250",
+               "on":"66666666",
+               "off":"66666666"
+            }
+         ]
+      },
+	  {
+         "name":"Infinite Magic",
+         "type":"checkbox",
+         "memory":[
+            {
+               "offset":"807FED8038",
+               "on":"00000001",
+               "off":"00000001"
+            }
+         ]
+      },
+	  {
+         "name":"Infinite Health",
+         "type":"checkbox",
+         "memory":[
+            {
+               "offset":"808065C5BA",
+               "on":"43480000",
+               "off":"43480000"
+            }
+         ]
+      }
+	  
+	  
+   ],
+   "credits":[
+      "Ali-mk"
+   ]
+}
