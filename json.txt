@@ -447,6 +447,7 @@ CUSA25000_01.13.json=Kena: Bridge of Spirits
 CUSA09537_01.00.json=Secret of Mana
 CUSA07384_01.07.json=Wolfenstein® II: The New Colossus™
 CUSA05347_01.00_2.json=Darksiders Warmastered Edition
+CUSA28863_01.05.json=ELDEN RING
 CUSA04802_01.00.json=2Dark
 SCES53135_01.00.json=God of War
 CUSA02320_01.02.json=Uncharted: The Nathan Drake Collection™ (Drakes Fortune)
