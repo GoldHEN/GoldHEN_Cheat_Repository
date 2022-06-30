@@ -1,0 +1,1 @@
+{"name":"Uncharted: The Lost Legacy™","id":"CUSA07737","version":"01.09","process":"eboot.bin","mods":[{"name":"Enable Dev Menu","type":"checkbox","memory":[{"offset":"1FE1A5","on":"C680F92E000001","off":"80B8F92E000000"},{"offset":"1FE1AC","on":"EB0490240000","off":"0F8490240000"}]}],"credits":["Celogamez_9.00"]}
