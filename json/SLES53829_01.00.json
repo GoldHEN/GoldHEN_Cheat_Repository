@@ -1,0 +1,43 @@
+{
+   "name":"Raiden III",
+   "id":"SLES53829",
+   "version":"01.00",
+   "process":"eboot.bin",
+   "mods":[
+      {
+         "name":"Infinite-lives",
+         "type":"checkbox",
+         "memory":[
+            {
+               "offset":"807FED7458",
+               "on":"09",
+               "off":"09"
+            },
+			{
+               "offset":"807FED7459",
+               "on":"09",
+               "off":"09"
+            }
+         ]
+      },
+	  {
+         "name":"Infinite-Bomb",
+         "type":"checkbox",
+         "memory":[
+            {
+               "offset":"807FED74BD",
+               "on":"09",
+               "off":"09"
+            },
+		    {
+               "offset":"807FED74BC",
+               "on":"09",
+               "off":"09"
+            }
+         ]
+      }
+   ],
+   "credits":[
+      "Ali-mk"
+   ]
+}
