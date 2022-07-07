@@ -1,0 +1,163 @@
+{
+  "name": "Back 4 Blood",
+  "id": "CUSA14275",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2879DB5",
+          "on": "C5FA1090D8070000",
+          "off": "C5FA1090D8070000"
+        },
+        {
+          "offset": "9647971",
+          "on": "C5FA1090D807000048A3F0FFAE0A00000000E9352423F9",
+          "off": "C5FA1090D807000048A3F0FFAE0A00000000E9352423F9"
+        },
+        {
+          "offset": "2879DB5",
+          "on": "E9B7DBDC06909090",
+          "off": "E9B7DBDC06909090"
+        },
+        {
+          "offset": "2A3C07C",
+          "on": "C5FA118BD8070000",
+          "off": "C5FA118BD8070000"
+        },
+        {
+          "offset": "9647930",
+          "on": "48C7C7F0FFAE0A488B3F4839FB4889DF7519C78778070000F0237449C787D8070000F0237449E929473FF9C5FA118BD8070000E91C473FF9",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A3C07C",
+          "on": "E9AFB8C006909090",
+          "off": "C5FA118BD8070000"
+        }
+      ]
+    },
+    {
+      "name": "Bot Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+		{
+          "offset": "2879DB5",
+          "on": "C5FA1090D8070000",
+          "off": "C5FA1090D8070000"
+        },
+        {
+          "offset": "9647971",
+          "on": "C5FA1090D807000048A3F0FFAE0A00000000E9352423F9",
+          "off": "C5FA1090D807000048A3F0FFAE0A00000000E9352423F9"
+        },
+        {
+          "offset": "2879DB5",
+          "on": "E9B7DBDC06909090",
+          "off": "E9B7DBDC06909090"
+        },
+        {
+          "offset": "2F0A3B1",
+          "on": "C5FA1080D8070000",
+          "off": "C5FA1080D8070000"
+        },
+        {
+          "offset": "96479B7",
+          "on": "49C7C5F0FFAE0A4D8B6D004C39E87414C78078070000F0237449C780D8070000F0237449C5FA1080D8070000E9D1298CF9",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2F0A3B1",
+          "on": "E901D67306909090",
+          "off": "C5FA1080D8070000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo & Accessories",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2B31C87",
+          "on": "909090",
+          "off": "4429F8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2F5AE68",
+          "on": "C4C17A5F8E90010000",
+          "off": "C4C17A5D8E90010000"
+        },
+        {
+          "offset": "2F5BF74",
+          "on": "C5FA5FD2",
+          "off": "C5FA5DD2"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money",
+      "hint": "Buy something to max out your money.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2ABF0EE",
+          "on": "BE3F420F00",
+          "off": "C4E270F2F0"
+        }
+      ]
+    },
+    {
+      "name": "One-Hit Kill",
+      "hint": "Warning: This can randomly kill bots.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2879DB5",
+          "on": "C5FA1090D8070000",
+          "off": "C5FA1090D8070000"
+        },
+        {
+          "offset": "9647971",
+          "on": "C5FA1090D807000048A3F0FFAE0A00000000E9352423F9",
+          "off": "C5FA1090D807000048A3F0FFAE0A00000000E9352423F9"
+        },
+        {
+          "offset": "2879DB5",
+          "on": "E9B7DBDC06909090",
+          "off": "E9B7DBDC06909090"
+        },
+        {
+          "offset": "2A3C073",
+          "on": "C5FAC2C601",
+          "off": "C5FAC2C601"
+        },
+        {
+          "offset": "9647988",
+          "on": "C5FAC2C601C5F855C948C7C7F0FFAE0A488B3F4839FB4889DF740FC787D807000000000000E9D2463FF9E9C1463FF9",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A3C073",
+          "on": "E910B9C006",
+          "off": "C5FAC2C601"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

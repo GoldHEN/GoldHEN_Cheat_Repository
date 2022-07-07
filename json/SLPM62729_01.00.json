@@ -1,0 +1,22 @@
+{
+   "name":"Akumajou Dracula",
+   "id":"SLPM62729",
+   "version":"01.00",
+   "process":"eboot.bin",
+   "mods":[
+      {
+         "name":"Infinite-Energy",
+         "type":"checkbox",
+         "memory":[
+            {
+               "offset":"807FEF607C",
+               "on":"FF",
+               "off":"FF"
+            }
+         ]
+      }
+   ],
+   "credits":[
+      "Your_Name_Here"
+   ]
+}
