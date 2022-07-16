@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lord of the Rings, The - The Return of the King" Moder="Ali-mk" Cusa="SLUS20770" Version="01.00" Process="eboot.bin">
+  <Genres Name="Platformer" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>80809EAE20</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-FF</ValueOn>
+      <ValueOff>FF-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80809EAE21</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-FF</ValueOn>
+      <ValueOff>FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Arrows-99">
+    <Cheatline>
+      <Offset>80809ECDA8</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>63</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

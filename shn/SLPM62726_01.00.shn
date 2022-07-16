@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Shooting Love-Trizeal" Moder="Ali-mk" Cusa="SLPM62726" Version="01.00" Process="eboot.bin">
+  <Genres Name="Platformer" />
+  <Items />
+  <Cheat Text="FUIL-power">
+    <Cheatline>
+      <Offset>807FFC71F4</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-09</ValueOn>
+      <ValueOff>00-00-00-09</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FFC71F8</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-09</ValueOn>
+      <ValueOff>00-00-00-09</ValueOff>
+	</Cheatline>
+    <Cheatline>
+      <Offset>807FFC71FC</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-09</ValueOn>
+      <ValueOff>00-00-00-09</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Lives-Player 1">
+    <Cheatline>
+      <Offset>807FFC7200</Offset>
+      <Section>0</Section>
+      <ValueOn>63-00-00--00</ValueOn>
+      <ValueOff>63-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FFC71C5</Offset>
+      <Section>0</Section>
+      <ValueOn>66-00-00-00</ValueOn>
+      <ValueOff>63-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Bombs-Player 1">
+    <Cheatline>
+      <Offset>807FFC7200</Offset>
+      <Section>0</Section>
+      <ValueOn>63-00-00-00</ValueOn>
+      <ValueOff>63-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Credits">
+    <Cheatline>
+      <Offset>808004B240</Offset>
+      <Section>0</Section>
+      <ValueOn>63-00-00-00</ValueOn>
+      <ValueOff>63-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

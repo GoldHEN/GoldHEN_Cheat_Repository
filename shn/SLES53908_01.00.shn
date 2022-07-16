@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lara Croft Tomb Raider-Legend" Moder="Ali-mk" Cusa="SLES53908" Version="01.00" Process="eboot.bin">
+  <Genres Name="Platformer" />
+  <Items />
+  <Cheat Text="Inf-Health-Packs-999">
+    <Cheatline>
+      <Offset>808157D534</Offset>
+      <Section>0</Section>
+      <ValueOn>63-00-00-00</ValueOn>
+      <ValueOff>63-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>808157D535</Offset>
+      <Section>0</Section>
+      <ValueOn>99-00-00-00</ValueOn>
+      <ValueOff>99-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Ammo">
+    <Cheatline>
+      <Offset>807FE8D110</Offset>
+      <Section>0</Section>
+      <ValueOn>24-A2</ValueOn>
+      <ValueOff>24-A2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Air-Never Drown">
+    <Cheatline>
+      <Offset>807FEC27AC</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Time-Trials">
+    <Cheatline>
+      <Offset>807FF923A0</Offset>
+      <Section>0</Section>
+      <ValueOn>46-FA-B1-6F</ValueOn>
+      <ValueOff>46-FA-B1-6F</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="All-Weapons-Press-Down">
+    <Cheatline>
+      <Offset>807FFE405C</Offset>
+      <Section>0</Section>
+      <ValueOn>BF-FF</ValueOn>
+      <ValueOff>BF-FF</ValueOff>
+	</Cheatline>
+    <Cheatline>
+      <Offset>807FFB928E</Offset>
+      <Section>0</Section>
+      <ValueOn>08-00</ValueOn>
+      <ValueOff>08-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>807FFB900E</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-08</ValueOn>
+      <ValueOff>00-00-00-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
