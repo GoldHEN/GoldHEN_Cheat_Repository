@@ -1,1 +1,0 @@
-{"name":"The Pathless","id":"CUSA14330","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"12071F2","on":"909090909090909090","off":"C4C17A118590000000"}]}],"credits":["Wander"]}

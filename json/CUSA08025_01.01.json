@@ -1,1 +1,0 @@
-{"name":"Borderlands® 3","id":"CUSA08025","version":"01.01","process":"eboot.bin","mods":[{"name":"money never decrease","type":"checkbox","memory":[{"offset":"4EE8B4D","on":"909090","off":"4C3818"}]}],"credits":["Mogu"]}

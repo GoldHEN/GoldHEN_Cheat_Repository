@@ -1,1 +1,0 @@
-{"name":"Far Cry® 6","id":"CUSA15778","version":"01.06","process":"eboot.bin","mods":[{"name":"Full Ammo (On Weapon change)","type":"checkbox","memory":[{"offset":"131F3BF","on":"894354","off":"895354"}]},{"name":"Infinite item on use/sell (Heal/Ammo/Materials)","type":"checkbox","memory":[{"offset":"131F333","on":"4401F0","off":"4429F0"}]}],"credits":["Aran"]}

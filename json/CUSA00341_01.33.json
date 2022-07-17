@@ -1,1 +1,0 @@
-{"name":"Uncharted 4: A Thief’s End™","id":"CUSA00341","version":"01.33","process":"eboot.bin","mods":[{"name":"Enable Dev Menu","type":"checkbox","memory":[{"offset":"1F54C2","on":"C680792E000001","off":"80B8792E000000"},{"offset":"1F54C9","on":"EB04CA220000","off":"0F84CA220000"}]}],"credits":["Celogamez_9.00"]}

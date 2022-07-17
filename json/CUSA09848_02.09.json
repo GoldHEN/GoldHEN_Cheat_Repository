@@ -1,1 +1,0 @@
-{"name":"Biomutant","id":"CUSA09848","version":"02.09","process":"eboot.bin","mods":[{"name":"stats points active after getting points ","type":"checkbox","memory":[{"offset":"34A172","on":"909090909090","off":"FF8EE80C0000"}]}],"credits":["wander"]}

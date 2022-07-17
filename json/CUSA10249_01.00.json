@@ -1,1 +1,0 @@
-{"name":"The Last of Us™ Part II","id":"CUSA10249","version":"01.00","process":"eboot.bin","mods":[{"name":"Enable Dev Menu","type":"checkbox","memory":[{"offset":"256260","on":"C680A13A000001","off":"80B8A13A000000"}]}],"credits":["illusion"]}

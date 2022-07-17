@@ -1,1 +1,0 @@
-{"name":"DEAD OR ALIVE 6","id":"CUSA12116","version":"01.18","process":"eboot.bin","mods":[{"name":"Infinite health","type":"checkbox","memory":[{"offset":"1413432","on":"66898B52050000","off":"66898B50050000"}]},{"name":"Max Gauge Bar","type":"checkbox","memory":[{"offset":"14B8BB9","on":"41894F22","off":"41894F20"}]}],"credits":["dbzgts"]}

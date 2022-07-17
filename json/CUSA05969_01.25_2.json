@@ -1,1 +1,0 @@
-{"name":"Call of Duty®: WWII (Multiplayer)","id":"CUSA05969","version":"1.25","process":"default_mp.elf","mods":[{"name":"Infinite Ammo / Throwables","type":"checkbox","memory":[{"offset":"744308","on":"90909090","off":"29548810"}]},{"name":"Infinite HP","type":"checkbox","memory":[{"offset":"971C13","on":"90909090909090","off":"410187DC020000"}]}],"credits":["M3hdi PS_9.00"]}

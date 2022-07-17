@@ -1,1 +1,0 @@
-{"name":"Fallout 4","id":"CUSA02557","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"8B3269","on":"01D3","off":"89D3"}]}],"credits":["DeathRGH"]}

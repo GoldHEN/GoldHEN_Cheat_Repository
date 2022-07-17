@@ -1,1 +1,0 @@
-{"name":"Outlast 2","id":"CUSA06633","version":"01.03","process":"eboot.bin","mods":[{"name":"Infinite Battery","type":"checkbox","memory":[{"offset":"1ABDC48","on":"909090909090909090","off":"C4C17A118F1C830000"}]}],"credits":["Weysincha"]}

@@ -1,1 +1,0 @@
-{"name":"Sniper Ghost Warrior Contracts","id":"CUSA14619","version":"01.08","process":"eboot.bin","mods":[{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"1A44C78","on":"90909090","off":"44897808"}]},{"name":"Infinite Money","type":"checkbox","memory":[{"offset":"5E737F","on":"9090909090909090","off":"C5FA118700030000"}]}],"credits":["wild31"]}

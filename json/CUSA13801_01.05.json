@@ -1,1 +1,0 @@
-{"name":"Sekiro™: Shadows Die Twice","id":"CUSA13801","version":"01.05","process":"eboot.bin","mods":[{"name":"Infinite Items","type":"checkbox","memory":[{"offset":"1083059","on":"9090","off":"7513"}]},{"name":"Infinite Money","type":"checkbox","memory":[{"offset":"19472D5","on":"90","off":"90"}]}],"credits":["leon99"]}

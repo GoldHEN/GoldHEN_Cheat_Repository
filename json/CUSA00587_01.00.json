@@ -1,1 +1,0 @@
-{"name":"Rogue Legacy","id":"CUSA00587","version":"01.00","process":"eboot.bin","mods":[{"name":"Max Coins (On Gain)","type":"checkbox","memory":[{"offset":"9F3F50","on":"0F49C6C7471C7F969800E99BED87FF","off":"000000000000000000000000000000"},{"offset":"272CF4","on":"E95712780090","off":"0F49C689471C"}]}],"credits":["Wander"]}

@@ -1,1 +1,0 @@
-{"name":"ELDEN RING™ Network Test Ver.","id":"CUSA18880","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite Soul Point","type":"checkbox","memory":[{"offset":"13554E8","on":"89406C","off":"89786C"}]},{"name":"Infinite Item","type":"checkbox","memory":[{"offset":"DDF530","on":"488911","off":"448931"}]}],"credits":["Aran"]}

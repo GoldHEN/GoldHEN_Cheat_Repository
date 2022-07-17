@@ -1,1 +1,0 @@
-{"name":"Bulletstorm: Full Clip Edition","id":"CUSA07188","version":"01.00","process":"eboot.bin","mods":[{"name":"2x Exp After Use","type":"checkbox","memory":[{"offset":"2F1834","on":"03","off":"2B"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"18A4382","on":"90909090909090","off":"29948BE8170000"}]}],"credits":["Talixme"]}

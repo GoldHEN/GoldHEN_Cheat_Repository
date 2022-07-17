@@ -1,1 +1,0 @@
-{"name":"Just Cause 4","id":"CUSA09264","version":"01.31","process":"eboot.bin","mods":[{"name":"inf. health","type":"checkbox","memory":[{"offset":"203E2B9","on":"90909090909090","off":"C7434000000000"}]},{"name":"inf. secondary fire","type":"checkbox","memory":[{"offset":"19591E3","on":"4189BC8748020000","off":"4589AC8748020000"}]}],"credits":["sili"]}

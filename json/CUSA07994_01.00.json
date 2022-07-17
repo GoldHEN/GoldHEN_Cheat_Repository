@@ -1,1 +1,0 @@
-{"name":"Fifa 18","id":"CUSA07994","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Transfer Budget","hint":null,"type":"checkbox","memory":[{"offset":"5553387","on":"9090","off":"8932"}]},{"name":"x2 Transfer Budget","hint":null,"type":"checkbox","memory":[{"offset":"5553387","on":"0132","off":"8932"}]}],"credits":["Sean"]}

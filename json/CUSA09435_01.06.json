@@ -1,1 +1,0 @@
-{"name":"Trials Rising(TM)","id":"CUSA09435","version":"01.06","process":"eboot.bin","mods":[{"name":"Freeze Timer","type":"checkbox","memory":[{"offset":"1C9873E","on":"9090909090909090","off":"41898C24B0000000"}]},{"name":"Freeze Crash Counter","type":"checkbox","memory":[{"offset":"1C01AF4","on":"909090909090","off":"89B3E80C0000"}]}],"credits":["sili"]}

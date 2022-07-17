@@ -1,1 +1,0 @@
-{"name":"Zombie Army Trilogy","id":"CUSA01345","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"4ecc2d","on":"909090909090","off":"8987BC010000"}]},{"name":"Infinite Grenades","type":"checkbox","memory":[{"offset":"4f8346","on":"909090","off":"897744"}]}],"credits":["DeathRGH"]}

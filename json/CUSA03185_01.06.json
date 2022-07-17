@@ -1,1 +1,0 @@
-{"name":"DIGIMON STORY CYBER SLEUTH","id":"CUSA03185","version":"01.06","process":"eboot.bin","mods":[{"name":"Items Never Decrease","type":"checkbox","memory":[{"offset":"5B193","on":"909090","off":"885014"}]},{"name":"Max Exp","type":"checkbox","memory":[{"offset":"4C19F","on":"41894671","off":"41894670"}]}],"credits":["Skal"]}

@@ -1,1 +1,0 @@
-{"name":"HITMAN™ 2","id":"CUSA12401","version":"01.21","process":"eboot.bin","mods":[{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"336C57","on":"90909090","off":"44893488"}]}],"credits":["Priisxm1337"]}

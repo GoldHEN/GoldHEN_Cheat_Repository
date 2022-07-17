@@ -1,1 +1,0 @@
-{"name":"Wolfenstein: The New Order","id":"CUSA00320","version":"01.00","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"866aff","on":"9090909090","off":"C5FA114308"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"c942a1","on":"909090","off":"294320"}]}],"credits":["DeathRGH"]}

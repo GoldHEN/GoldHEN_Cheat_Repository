@@ -1,1 +1,0 @@
-{"name":"Until Dawn™: Rush of Blood","id":"CUSA02350","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Ammo/No Reload","type":"checkbox","memory":[{"offset":"BC9CD2","on":"9090","off":"FFC8"}]}],"credits":["Cissa"]}
