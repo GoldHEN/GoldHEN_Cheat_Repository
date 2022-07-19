@@ -1,0 +1,33 @@
+{
+   "name":"Sonic Chapolin",
+   "id":"SLUS18251",
+   "version":"01.00",
+   "process":"eboot.bin",
+   "mods":[
+      {
+         "name":"In-lives-99",
+         "type":"checkbox",
+         "memory":[
+            {
+               "offset":"8080849952",
+               "on":"63",
+               "off":"63"
+            }
+         ]
+      },
+	  {
+         "name":"RINGS-255",
+         "type":"checkbox",
+         "memory":[
+            {
+               "offset":"8080849961",
+               "on":"FF",
+               "off":"FF"
+            }
+         ]
+      }
+   ],
+   "credits":[
+      "Ali-mk"
+   ]
+}
