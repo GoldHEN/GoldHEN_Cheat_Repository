@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Metal Slug 5" Moder="Ali-mk" Cusa="SLUS20990" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf-All-Weapon">
+    <Cheatline>
+      <Offset>808069BACC</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-00-00-00</ValueOn>
+      <ValueOff>FF-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>808069BACD</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-00-00-00</ValueOn>
+      <ValueOff>FF-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-lives">
+    <Cheatline>
+      <Offset>80806D4295</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-00-00-00</ValueOn>
+      <ValueOff>FF-00-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>80806D4296</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-00-00-00</ValueOn>
+      <ValueOff>FF-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-bomb-99">
+    <Cheatline>
+      <Offset>808069BAC7</Offset>
+      <Section>0</Section>
+      <ValueOn>63-00-00-00</ValueOn>
+      <ValueOff>63-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

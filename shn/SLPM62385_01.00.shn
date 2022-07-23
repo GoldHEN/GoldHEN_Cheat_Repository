@@ -4,10 +4,10 @@
   <Items />
   <Cheat Text="Infinite Credit">
     <Cheatline>
-      <Offset>8081C00121</Offset>
+      <Offset>807FEE8388</Offset>
       <Section>0</Section>
-      <ValueOn>00-00-00-00</ValueOn>
-      <ValueOff>00-00-00-00</ValueOff>
+      <ValueOn>00-00-00-63</ValueOn>
+      <ValueOff>00-00-00-63</ValueOff>
     </Cheatline>
   </Cheat>
   <Cheat Text="Invincible">

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Crisis Evil 2 Remake" Moder="Ali-mk" Cusa="SLUS42112" Version="01.11" Process="eboot.bin">
+  <Genres Name="Platformer" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>80801A99A4</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80801A99A5</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-lives-99">
+    <Cheatline>
+      <Offset>807FD5C3FC</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>63-</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-credits">
+    <Cheatline>
+      <Offset>807FD530B8</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>63-</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

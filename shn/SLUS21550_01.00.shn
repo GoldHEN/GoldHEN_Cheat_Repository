@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Metal Slug Anthology" Moder="Ali-mk" Cusa="SLUS21550" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Metal-Slug-1-Inf-All-Weapon">
+    <Cheatline>
+      <Offset>80814244CA</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80814244CB</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Metal-Slug-1-Inf-lives">
+    <Cheatline>
+      <Offset>808142437E</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>63</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Metal-Slug-1-Infinite-Bomb">
+    <Cheatline>
+      <Offset>80814244C9</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>63</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Metal-Slug-2-Inf-All-Weapon">
+    <Cheatline>
+      <Offset>8081530354</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>8081530355</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+      <Cheat Text="Metal-Slug-2-Inf-lives">
+    <Cheatline>
+      <Offset>808152527F</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>63</ValueOff>
+    </Cheatline>
+  </Cheat>
+       <Cheat Text="Metal-Slug-2-Inf-Bomb">
+    <Cheatline>
+      <Offset>8081530351</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>63</ValueOff>
+    </Cheatline>
+  </Cheat>
+      <Cheat Text="Metal-Slug-3-Inf-All-Weapon">
+    <Cheatline>
+      <Offset>8081992B82</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>8081992B83</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+      <Cheat Text="Metal-Slug-3-Inf-lives">
+    <Cheatline>
+      <Offset>8081984342</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>63</ValueOff>
+    </Cheatline>
+  </Cheat>
+      <Cheat Text="Metal-Slug-3-Inf-Bomb">
+    <Cheatline>
+      <Offset>8081992B7C</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>63</ValueOff>
+    </Cheatline>
+  </Cheat>
+      <Cheat Text="Metal-Slug-4-Inf-All-Weapon">
+    <Cheatline>
+      <Offset>8081792E7A</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8081792E7B</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+      <Cheat Text="Metal-Slug-4-Inf-lives">
+    <Cheatline>
+      <Offset>8081784B10</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>63</ValueOff>
+    </Cheatline>
+  </Cheat>
+      <Cheat Text="Metal-Slug-4-Inf-Bomb">
+    <Cheatline>
+      <Offset>8081792E74</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>63</ValueOff>
+    </Cheatline>
+  </Cheat>
+      <Cheat Text="Metal-Slug-5-Inf-All-Weapon">
+    <Cheatline>
+      <Offset>8081731464</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8081731465</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+      <Cheat Text="Metal-Slug-5-Inf-lives">
+    <Cheatline>
+      <Offset>8081724A48</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>63</ValueOff>
+    </Cheatline>
+  </Cheat>
+      <Cheat Text="Metal-Slug-5-Inf-Bomb">
+    <Cheatline>
+      <Offset>808173145E</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>63</ValueOff>
+    </Cheatline>
+  </Cheat>
+      <Cheat Text="Metal-Slug-X-Inf-All-Weapon">
+    <Cheatline>
+      <Offset>808153072C</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>808153072D</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+      <Cheat Text="Metal-Slug-X-Inf-lives">
+    <Cheatline>
+      <Offset>8081525291</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>63</ValueOff>
+    </Cheatline>
+  </Cheat>
+      <Cheat Text="Metal-Slug-X-Inf-Bomb">
+    <Cheatline>
+      <Offset>8081525297</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>63</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

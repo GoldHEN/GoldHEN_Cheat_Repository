@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Metal Slug 3" Moder="Ali-mk" Cusa="SLES52599" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>808027A92C</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-00-00-00</ValueOn>
+      <ValueOff>FF-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>808027A92D</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-00-00-00</ValueOn>
+      <ValueOff>FF-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Weapon-ALL-Gun">
+    <Cheatline>
+      <Offset>8080288ECA</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-00-00-00</ValueOn>
+      <ValueOff>FF-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080288ECB</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-00-00-00</ValueOn>
+      <ValueOff>FF-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-lives">
+    <Cheatline>
+      <Offset>808027A667</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-00-00-00</ValueOn>
+      <ValueOff>FF-00-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>808027A668</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-00-00-00</ValueOn>
+      <ValueOff>FF-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Bomb-99">
+    <Cheatline>
+      <Offset>8080288EC5</Offset>
+      <Section>0</Section>
+      <ValueOn>63-00-00-00</ValueOn>
+      <ValueOff>63-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
