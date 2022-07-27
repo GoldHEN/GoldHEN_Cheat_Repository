@@ -6,6 +6,7 @@ SLES53908_01.00.shn=Lara Croft Tomb Raider-Legend
 SLPS66666_01.00.shn=Metal Slug 4
 SLPM62385_01.00.shn=Golden Axe
 CUSA04943_01.11.shn=Gravity Rush 2
+SLUS20040_01.00.shn=Gradius III and IV
 SLES53548_01.00.shn=GigaWing Generations
 CUSA03694_01.11.shn=Gravity Rush 2
 CUSA04841_03.05.shn=No Man's Sky
