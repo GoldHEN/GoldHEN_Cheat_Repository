@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Gradius III and IV" Moder="Ali-mk" Cusa="SLUS20040" Version="01.11" Process="eboot.bin">
+  <Genres Name="Platformer" />
+  <Items />
+  <Cheat Text="Gradius-III-Inf-lives">
+    <Cheatline>
+      <Offset>8080C01050</Offset>
+      <Section>0</Section>
+      <ValueOn>63-00-00-00</ValueOn>
+      <ValueOff>63-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Gradius-III-Inf-SPEED-UP">
+    <Cheatline>
+      <Offset>8080C0106A</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>01-</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Gradius-III-Inf-MISSILE">
+    <Cheatline>
+      <Offset>8080C0106A</Offset>
+      <Section>0</Section>
+      <ValueOn>02</ValueOn>
+      <ValueOff>02-</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Gradius-III-Inf-DOUBLE">
+    <Cheatline>
+      <Offset>8080C0106A</Offset>
+      <Section>0</Section>
+      <ValueOn>03</ValueOn>
+      <ValueOff>03-</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Gradius-III-Inf-LASER">
+    <Cheatline>
+      <Offset>8080C0106A</Offset>
+      <Section>0</Section>
+      <ValueOn>04</ValueOn>
+      <ValueOff>04-</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Gradius-III-Inf-OPTIONS">
+    <Cheatline>
+      <Offset>8080C0106A</Offset>
+      <Section>0</Section>
+      <ValueOn>05</ValueOn>
+      <ValueOff>05-</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Gradius-III-Inf-FUIL-POWER">
+    <Cheatline>
+      <Offset>8080C0106A</Offset>
+      <Section>0</Section>
+      <ValueOn>06</ValueOn>
+      <ValueOff>06-</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Gradius-IV-Inf-lives">
+    <Cheatline>
+      <Offset>8080496008</Offset>
+      <Section>0</Section>
+      <ValueOn>63-00-00-00</ValueOn>
+      <ValueOff>63-00-00-00-</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Gradius-IV-Inf-SPEED-UP">
+    <Cheatline>
+      <Offset>8080496042</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>01-</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Gradius-IV-Inf-MISSILE">
+    <Cheatline>
+      <Offset>8080496042</Offset>
+      <Section>0</Section>
+      <ValueOn>02</ValueOn>
+      <ValueOff>02-</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Gradius-IV-Inf-DOUBLE">
+    <Cheatline>
+      <Offset>8080496042</Offset>
+      <Section>0</Section>
+      <ValueOn>03</ValueOn>
+      <ValueOff>03-</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Gradius-IV-Inf-LASER">
+    <Cheatline>
+      <Offset>8080496042</Offset>
+      <Section>0</Section>
+      <ValueOn>04</ValueOn>
+      <ValueOff>04-</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Gradius-IV-Inf-OPTIONS">
+    <Cheatline>
+      <Offset>8080496042</Offset>
+      <Section>0</Section>
+      <ValueOn>05</ValueOn>
+      <ValueOff>05-</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Gradius-IV-Inf-FUIL-POWER">
+    <Cheatline>
+      <Offset>8080496042</Offset>
+      <Section>0</Section>
+      <ValueOn>06</ValueOn>
+      <ValueOff>06-</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

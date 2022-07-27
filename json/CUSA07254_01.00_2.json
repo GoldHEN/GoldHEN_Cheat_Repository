@@ -1,0 +1,1 @@
+{"name":"Stellaris: Console Edition","id":"CUSA07254","version":"1.00","process":"eboot.bin","mods":[{"name":"Max All Resources","type":"checkbox","memory":[{"offset":"1D1F800","on":"C700FFE0F5058B104883C004E9E510B7FE","off":"0000000000000000000000000000000000"},{"offset":"8908F0","on":"E90BEF480190","off":"8B104883C004"}]}],"credits":["d01v_9.00"]}
