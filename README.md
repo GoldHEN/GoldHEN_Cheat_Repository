@@ -12,9 +12,6 @@ _Thanks to PS4Trainer For Initial Trainers Database and all Cheats Creators._
 The Cheat Menu is experimental, use with caution.  
 Please report cheat related issues to the cheat author(s).
 
-### Known Issues:
-- UI is not rendered correctly for `MasterCode` enabled cheats.
-
 ### Disclaimer:
 While we make every effort to deliver high quality products, we do not guarantee that our products are free from defects. Our software is provided 'as is' and you use the software at your own risk.
 
@@ -27,13 +24,15 @@ While we make every effort to deliver high quality products, we do not guarantee
 - Use `FTP` to upload cheat files to:
   - `/user/data/GoldHEN/cheats/json/`
   - `/user/data/GoldHEN/cheats/shn/`
-- Naming convension: `{titleid}_{version}.{format}`
+- Naming conversion for cheats that attach to eboot.bin process: `{titleid}_{version}.{format}`
   - e.g. `CUSA001234_01.01.json`
   - e.g. `CUSA001234_01.01.shn`
+- Naming conversion for cheats that attach to a non eboot.bin process (usually on collection games): `{titleid}_{version}_{process}.{format}`
+  - e.g. `CUSA001234_01.01_example.elf.json`
+  - e.g. `CUSA001234_01.01_example.elf.shn`
  - **Note:** Only one file format per `titleid` and `version` is currently supported.
 
 ### To Do:
-- Improve `MasterCode` support.
 - Add multiple cheats support.
 - Add more formats.
 
