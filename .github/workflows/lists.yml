@@ -1,6 +1,6 @@
 name: Push commit
 
-# Controls when the workflow will run
+# Controls when the workflow will run -- Made by Bucanero
 on:
   # Triggers the workflow on push events but only for the main branch
   push:
@@ -18,8 +18,8 @@ jobs:
           ./a.out shn Game > shn.txt
       - name: Commit list files
         run: |
-          git config --global user.name 'bucanero'
-          git config --global user.email 'bucanero@users.noreply.github.com'
+          git config --global user.name 'kmeps4'
+          git config --global user.email 'kmeps4@users.noreply.github.com'
           git add json.txt
           git add shn.txt
           git commit -am "Cheat lists update"
