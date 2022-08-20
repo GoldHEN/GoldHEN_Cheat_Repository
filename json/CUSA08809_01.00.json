@@ -1,1 +1,35 @@
-{"name":"SHADOW OF THE COLOSSUS™","id":"CUSA08809","version":"01.00","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"3265C78","on":"0000C842","off":"0000C842"}]},{"name":"Infinite Resistance","type":"checkbox","memory":[{"offset":"3265C90","on":"0000C842","off":"0000C842"}]}],"credits":["Talixme"]}
+{
+  "name": "Shadow of the Colossus",
+  "id": "CUSA08809",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3665C78",
+          "on": "0000C842",
+          "off": "0000C842"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Resistance",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3665C90",
+          "on": "0000C842",
+          "off": "0000C842"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

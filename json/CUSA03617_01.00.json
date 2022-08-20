@@ -1,1 +1,47 @@
-{"name":"Mafia III","id":"CUSA03617","version":"01.00","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"2C7823B","on":"909090909090909090909090909090909090909090909090909090909090","off":"C4C17A104510C5F82ED0733FC5FA5CC2C5F82E0525F99E01C4C17A114510"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"261C54D","on":"909090","off":"897004"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"261E30B","on":"909090","off":"894118"}]}],"credits":["Talixme"]}
+{
+  "name": "Mafia III",
+  "id": "CUSA03617",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "307823B",
+          "on": "909090909090909090909090909090909090909090909090909090909090",
+          "off": "C4C17A104510C5F82ED0733FC5FA5CC2C5F82E0525F99E01C4C17A114510"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A1C54D",
+          "on": "909090",
+          "off": "897004"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A1E30B",
+          "on": "909090",
+          "off": "894118"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

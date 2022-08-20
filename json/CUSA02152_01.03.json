@@ -1,1 +1,53 @@
-{"name":"Middle-earth™: Shadow of Mordor™ - Game of the Year Edition","id":"CUSA02152","version":"01.03","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"1BA7C01","on":"41C787640100000000C842C4C17A108764010000E933F476FE","off":"00000000000000000000000000000000000000000000000000"},{"offset":"317044","on":"E9B80B890190909090","off":"C4C17A108764010000"}]},{"name":"Infinite Arrows","type":"checkbox","memory":[{"offset":"2D77D9","on":"909090","off":"894350"}]},{"name":"Infinite Focus","type":"checkbox","memory":[{"offset":"2D7747","on":"9090909090","off":"C5FA114B54"}]}],"credits":["Weysincha","Shiningami"]}
+{
+  "name": "Middle-Earth: Shadow of Mordor",
+  "id": "CUSA02152",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FA7C01",
+          "on": "41C787640100000000C842C4C17A108764010000E933F476FE",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "717044",
+          "on": "E9B80B890190909090",
+          "off": "C4C17A108764010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Arrows",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6D77D9",
+          "on": "909090",
+          "off": "894350"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Focus",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6d7747",
+          "on": "9090909090",
+          "off": "C5FA114B54"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha",
+    "Shiningami"
+  ]
+}

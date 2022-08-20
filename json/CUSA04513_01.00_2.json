@@ -1,1 +1,96 @@
-{"name":"Dead Rising","id":"CUSA04513","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Pictures (Camera Battery)","type":"checkbox","memory":[{"offset":"b0350","on":"41FFC5","off":"41FFCD"}]},{"name":"Max PP Multiplier","type":"button","memory":[{"offset":"b0350","on":"4181C600CA9A3B90","off":"4181C600CA9A3B90"}]}],"credits":["DeathRGH"]}
+{
+  "name": "Dead Rising 1 ",
+  "id": "CUSA04513",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1FC5B",
+          "on": "508B83F01200008983F412000058E93C4FA7FE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "694BA4",
+          "on": " E9B2B0580190",
+          "off": "8983F4120000"
+        }
+      ]
+    },
+    {
+      "name": "99 Batteries",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1FC15",
+          "on": "41BD630000004489A8F0920000E90DA494FE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "56A02D",
+          "on": " E9E35B6B019090",
+          "off": "4489A8F0920000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo \"Gun\"",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1FC28",
+          "on": "90E9825E9EFE",
+          "off": "000000000000"
+        },
+        {
+          "offset": "605AA9",
+          "on": " E97AA161019090",
+          "off": "66FF8B3C2E0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo Throwables & Sparyables",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1FC2E",
+          "on": "90E9953D9EFE",
+          "off": "000000000000"
+        },
+        {
+          "offset": "6039C1",
+          "on": " E968C26101909090",
+          "off": "664489B33C2E0000"
+        }
+      ]
+    },
+    {
+      "name": "Quick Level Up",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1FC3E",
+          "on": "41BEFFC99A3B4489732CE91A0789FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "4B035F",
+          "on": " E9DAF87601909090",
+          "off": "440F4FF14489732C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

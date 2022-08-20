@@ -1,1 +1,47 @@
-{"name":"Titan Quest","id":"CUSA08366","version":"01.00","process":"eboot.bin","mods":[{"name":"Doubles Every Time U Spend A Skill Point","type":"checkbox","memory":[{"offset":"52d9d9","on":"014748C39090908B","off":"894748C39090908B"}]},{"name":"Doubles Every Time U Spend Money","type":"checkbox","memory":[{"offset":"46747d","on":"0187B40F0000C390","off":"8987B40F0000C390"}]},{"name":"Click On Every Couple Kills Your XP Doubles","type":"checkbox","memory":[{"offset":"52d71d","on":"440163408B7B3C48","off":"448963408B7B3C48"}]}],"credits":["PS4Guru"]}
+{
+  "name": "Titan Quest",
+  "id": "CUSA08366",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Doubles Every Time U Spend A Skill Point",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "92D9D9",
+          "on": "014748C39090908B",
+          "off": "894748C39090908B"
+        }
+      ]
+    },
+    {
+      "name": "Doubles Every Time U Spend Money",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "86747D",
+          "on": "0187B40F0000C390",
+          "off": "8987B40F0000C390"
+        }
+      ]
+    },
+    {
+      "name": "Click On Every Couple Kills Your XP Doubles",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "92D71D",
+          "on": "440163408B7B3C48",
+          "off": "448963408B7B3C48"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "PS4Guru"
+  ]
+}

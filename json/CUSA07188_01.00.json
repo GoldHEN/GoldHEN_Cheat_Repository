@@ -1,1 +1,59 @@
-{"name":"Bulletstorm: Full Clip Edition","id":"CUSA07188","version":"01.00","process":"eboot.bin","mods":[{"name":"2x Exp After Use","type":"checkbox","memory":[{"offset":"2F1834","on":"03","off":"2B"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"18A4382","on":"90909090909090","off":"29948BE8170000"}]}],"credits":["Talixme"]}
+{
+  "name": "Bulletstorm",
+  "id": "CUSA07188",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "@4350B40_3_2070B40+8+120+40+3C8+78+280+0+168+10+3B8",
+          "on": "",
+          "off": ""
+        }
+      ]
+    },
+    {
+      "name": "2x Exp After Use",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6F1834",
+          "on": "03",
+          "off": "2B"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CA4382",
+          "on": "90909090909090",
+          "off": "29948BE8170000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Super Attack",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "@4426220_3_2146220+80+100+10+270+5E0",
+          "on": "",
+          "off": ""
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

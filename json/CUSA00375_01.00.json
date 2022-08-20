@@ -1,1 +1,74 @@
-{"name":"The Evil Within","id":"CUSA00375","version":"01.00","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"3EF291","on":"E98A052B01909090","off":"C5FA1187BC080000"},{"offset":"169F820","on":"817F00909ADC010F8505000000E967FAD4FEC5FA1187BC080000E95AFAD4FE","off":"00000000000000000000000000000000000000000000000000000000000000"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"63AFA8","on":"909090","off":"894810"},{"offset":"63AFD4","on":"909090","off":"897010"}]},{"name":"Infinite Gel","type":"checkbox","memory":[{"offset":"638990","on":"81C6FFFFFF00","off":"037710897710"}]},{"name":"Infinite Items","type":"checkbox","memory":[{"offset":"638A10","on":"90909090","off":"41895E10"},{"offset":"638A43","on":"90909090","off":"41894E10"}]}],"credits":["Talixme"]}
+{
+  "name": "The Evil Within",
+  "id": "CUSA00375",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7EF291",
+          "on": "E98A052B01909090",
+          "off": "C5FA1187BC080000"
+        },
+        {
+          "offset": "1A9F820",
+          "on": "817F00909ADC010F8505000000E967FAD4FEC5FA1187BC080000E95AFAD4FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A3AFA8",
+          "on": "909090",
+          "off": "894810"
+        },
+        {
+          "offset": "A3AFD4",
+          "on": "909090",
+          "off": "897010"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gel",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A38990",
+          "on": "81C6FFFFFF00",
+          "off": "037710897710"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A38A10",
+          "on": "90909090",
+          "off": "41895E10"
+        },
+        {
+          "offset": "A38A43",
+          "on": "90909090",
+          "off": "41894E10"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

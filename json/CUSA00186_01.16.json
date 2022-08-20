@@ -1,1 +1,23 @@
-{"name":"Zen Pinball 2","id":"CUSA00186","version":"01.16","process":"eboot.bin","mods":[{"name":"Remove Score-Limit For Demo Levels","type":"checkbox","memory":[{"offset":"193F2E","on":"90909090","off":"48894350"}]}],"credits":["DeathRGH"]}
+{
+  "name": "Zen Pinball 2",
+  "id": "CUSA00186",
+  "version": "01.16",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Remove Score-Limit For Demo Levels",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "593F2E",
+          "on": "90909090",
+          "off": "48894350"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

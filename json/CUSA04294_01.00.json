@@ -1,1 +1,64 @@
-{"name":"WATCH_DOGS® 2","id":"CUSA04294","version":"01.00","process":"eboot.bin","mods":[{"name":"Earn Money on Spend","type":"checkbox","memory":[{"offset":"169399A","on":"4F01A4EF90060000","off":"4F29A4EF90060000"}]},{"name":"Infinite Hack","type":"checkbox","memory":[{"offset":"DD358C","on":"9090909090","off":"C5FA114774"}]},{"name":"God Mode","type":"checkbox","memory":[{"offset":"281AFC3","on":"E9B850440290","off":"C4C17A114E18"},{"offset":"4C60080","on":"41817E1C0000C8420F8505000000E936AFBBFDC4C17A114E18E92BAFBBFD","off":"000000000000000000000000000000000000000000000000000000000000"}]},{"name":"Infinite Ammo/Throwables","type":"checkbox","memory":[{"offset":"1211AFA","on":"909090","off":"894110"}]}],"credits":["Talixme"]}
+{
+  "name": "Watch Dogs 2",
+  "id": "CUSA04294",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2C1AFC3",
+          "on": "E9B850440290",
+          "off": "C4C17A114E18"
+        },
+        {
+          "offset": "5060080",
+          "on": "41817E1C0000C8420F8505000000E936AFBBFDC4C17A114E18E92BAFBBFD",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Hack",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11D358C",
+          "on": "9090909090",
+          "off": "C5FA114774"
+        }
+      ]
+    },
+    {
+      "name": "999999 Money",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "@2003D7CA8_18_1C3CA8+18",
+          "on": "",
+          "off": ""
+        }
+      ]
+    },
+    {
+      "name": "5800000 Followers",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "@6358EA8_3_5CEA8+138+70+18+C8+0+50+B0+18+0+60+20",
+          "on": "",
+          "off": ""
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

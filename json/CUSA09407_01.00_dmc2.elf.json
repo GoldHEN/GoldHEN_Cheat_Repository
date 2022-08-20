@@ -1,0 +1,1 @@
+{"name":"Devil May Cry™ HD Collection","id":"CUSA09407","version":"01.00","process":"dmc2.elf","mods":[{"name":"Infinite red Orb (Increase It First)","type":"checkbox","memory":[{"offset":"1904A4","on":"909090","off":"895078"}]},{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"391A3","on":"90909090","off":"418A4606"}]}],"credits":["haxso"]}

@@ -1,1 +1,57 @@
-{"name":"This War of Mine: The Little Ones","id":"CUSA02646","version":"01.00","process":"eboot.bin","mods":[{"name":"Inf Items Backpack","type":"checkbox","memory":[{"offset":"787C01","on":"51428B4C3B2042894C3B2059E993C7A6FF","off":"0000000000000000000000000000000000"},{"offset":"1F43A0","on":"E95C385900","off":"4289443B20"}]},{"name":"Inf Ammo and Items Consumables","type":"checkbox","memory":[{"offset":"787FF0","on":"51418B4F0841894F0859E98E0FD1FF","off":"000000000000000000000000000000"},{"offset":"498F88","on":"E963F02E00","off":"29C8418907"}]},{"name":"Day never increased (Use after Day1)","type":"checkbox","memory":[{"offset":"2A4546","on":"9090","off":"FFC2"}]}],"credits":["Vampirexx"]}
+{
+  "name": "This War of Mine",
+  "id": "CUSA02646",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Items Backpack",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87C01",
+          "on": "51428B4C3B2042894C3B2059E993C7A6FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "5F43A0",
+          "on": "E95C385900",
+          "off": "4289443B20"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo and Items Consumables",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87FF0",
+          "on": "51418B4F0841894F0859E98E0FD1FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "898F88",
+          "on": "E963F02E00",
+          "off": "29C8418907"
+        }
+      ]
+    },
+    {
+      "name": "Day never increased",
+      "hint": "Use after Day 1.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6A4546",
+          "on": "9090",
+          "off": "FFC2"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Vampirexx"
+  ]
+}

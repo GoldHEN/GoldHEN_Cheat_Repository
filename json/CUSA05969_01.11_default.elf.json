@@ -1,1 +1,52 @@
-{"name":"Call of Duty®: WWII","id":"CUSA05969","version":"01.11","process":"default.elf","mods":[{"name":"God Mode","type":"checkbox","memory":[{"offset":"C73800","on":"B80F2700004189812C020000E9A13E9BFF","off":"0000000000000000000000000000000000"},{"offset":"6276AB","on":"E950C164009090","off":"418B812C020000"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"933902","on":"89C0909090","off":"4189442410"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"9261D7","on":"4529E49090","off":"4429648810"}]},{"name":"Infinite Throwables","type":"checkbox","memory":[{"offset":"8FFFFC","on":"909090","off":"FF4810"}]},{"name":"Infinite Medkits","type":"checkbox","memory":[{"offset":"726D47","on":"4589F690","off":"45897704"}]},{"name":"Infinite AA Gun Health","type":"checkbox","memory":[{"offset":"C73800","on":"4589AF30020000452BAF2C020000E906EB9DFF","off":"00000000000000000000000000000000000000"},{"offset":"652312","on":"E9E91462009090","off":"4529AF2C020000"}]}],"credits":["Rizla"]}
+{
+  "name": "COD: World War II (Campaign)",
+  "id": "CUSA05969",
+  "version": "01.11",
+  "process": "default.elf",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BFC006C",
+          "on": "7FFFFFFF",
+          "off": "64"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D261D7",
+          "on": "9090909090",
+          "off": "4429648810"
+        },
+        {
+          "offset": "CFFFFC",
+          "on": "909090",
+          "off": "FF4810"
+        }
+      ]
+    },
+    {
+      "name": "Laser",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C5215A6",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

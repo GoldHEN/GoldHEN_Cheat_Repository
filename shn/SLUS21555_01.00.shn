@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lara Croft Tomb Raider-Anniversary" Moder="Ali-mk" Cusa="SLUS21555" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>807FFBFDF8</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080095469</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>80800955E9</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Med-packs">
+    <Cheatline>
+      <Offset>807FE69FB8</Offset>
+      <Section>0</Section>
+      <ValueOn>24-A2-00-00</ValueOn>
+      <ValueOff>24-A2-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>807FE69E20</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FE69E18</Offset>
+      <Section>0</Section>
+      <ValueOn>24-02-00-63</ValueOn>
+      <ValueOff>24-02-00-63</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Ammo/Never Reload">
+    <Cheatline>
+      <Offset>807FE83B7C</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>807FE83D18</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FE83B78</Offset>
+      <Section>0</Section>
+      <ValueOn>24-02-00-63</ValueOn>
+      <ValueOff>24-02-00-63</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Air">
+    <Cheatline>
+      <Offset>807FEC1700</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>807FEC18A0</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

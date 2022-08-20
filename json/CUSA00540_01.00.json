@@ -1,1 +1,35 @@
-{"name":"Tiny Troopers Joint Ops","id":"CUSA00540","version":"01.00","process":"eboot.bin","mods":[{"name":"Get Money For Buying","type":"checkbox","memory":[{"offset":"A085E8","on":"030C24","off":"2B0C24"}]},{"name":"Get Medals For Buying","type":"checkbox","memory":[{"offset":"993D76","on":"03C8","off":"2BC8"}]}],"credits":["DeathRGH"]}
+{
+  "name": "Tiny Troopers",
+  "id": "CUSA00540",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Get Money For Buying",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E085E8",
+          "on": "030C24",
+          "off": "2B0C24"
+        }
+      ]
+    },
+    {
+      "name": "Get Medals For Buying",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D93D76",
+          "on": "03C8",
+          "off": "2BC8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

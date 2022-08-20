@@ -1,1 +1,35 @@
-{"name":"Resident Evil 4","id":"CUSA04885","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"208A26","on":"90909090909090","off":"66898818500000"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"2e208e","on":"909090","off":"894306"}]},{"name":"Infinite Inventory Ammo","type":"checkbox","memory":[{"offset":"2e0dee","on":"6641014f02","off":"6641894f02"}]},{"name":"99999999 PTAS","type":"button","memory":[{"offset":"1031C7C","on":"FFE0F505","off":"FFE0F505"}]},{"name":"Infinite Inventory Ammo (NOP)","type":"checkbox","memory":[{"offset":"2E0DEC","on":"9090","off":"29C1"}]}],"credits":["TylerMods"]}
+{
+  "name": "Resident Evil 4",
+  "id": "CUSA04885",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "608A26",
+          "on": "909090909090900F",
+          "off": "668988185000000F"
+        }
+      ]
+    },
+    {
+      "name": "Modded Stock Ammo",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6E0DEE",
+          "on": "6641014F02E9E002",
+          "off": "6641894F02E9E002"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "PS4Guru"
+  ]
+}

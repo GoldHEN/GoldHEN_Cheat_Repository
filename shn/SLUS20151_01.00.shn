@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Klonoa 2-Lunatea's Veil" Moder="Ali-mk" Cusa="SLUS20151" Version="01.11" Process="eboot.bin">
+  <Genres Name="Platformer" />
+  <Items />
+  <Cheat Text="RETURN-Energy">
+    <Cheatline>
+      <Offset>807FF66850</Offset>
+      <Section>0</Section>
+      <ValueOn>04-00-00-00</ValueOn>
+      <ValueOff>04-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FF66851</Offset>
+      <Section>0</Section>
+      <ValueOn>04-00-00-00</ValueOn>
+      <ValueOff>04-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-lives">
+    <Cheatline>
+      <Offset>807FF66858</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-63</ValueOn>
+      <ValueOff>00-00-00-63</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Jump-in-Midair">
+    <Cheatline>
+      <Offset>807FDA8D20</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,1 +1,146 @@
-{"name":"Call of Duty®: Black Ops III","id":"CUSA02624","version":"01.26","process":"eboot.bin","mods":[{"name":"All Client Infinite Ammo","type":"checkbox","memory":[{"offset":"11719DA","on":"909090","off":"448928"}]},{"name":"All Client Godmode","type":"checkbox","memory":[{"offset":"99D06F","on":"9090909090909090","off":"43898435C8020000"}]},{"name":"Give Points (Player 1)","type":"button","memory":[{"offset":"8050A94","on":"90D00300","off":"90D00300"}]},{"name":"Give Points (Player 2)","type":"button","memory":[{"offset":"8067CA4","on":"90D00300","off":"90D00300"}]},{"name":"Give Points (Player 3)","type":"button","memory":[{"offset":"807EEB4","on":"90D00300","off":"90D00300"}]},{"name":"Give Points (Player 4)","type":"button","memory":[{"offset":"80960C4","on":"90D00300","off":"90D00300"}]}],"credits":["DeathRGH"]}
+{
+  "name": "COD: Black Ops III",
+  "id": "CUSA02624",
+  "version": "01.26",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "All Client Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D9BF80",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    },
+	{
+      "name": "All Client Demi Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D9D06F",
+          "on": "9090909090909090",
+          "off": "43898435C8020000"
+        }
+      ]
+    },
+	{
+      "name": "All Client Infinite Ammo",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15719DA",
+          "on": "909090",
+          "off": "448928"
+        },
+		{
+          "offset": "DA7DD8",
+          "on": "9090",
+          "off": "8918"
+        }
+      ]
+    },
+	{
+      "name": "Bypass Death Barriers",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+		{
+          "offset": "184F843",
+          "on": "C783CC020000FFFFFF7F8B83CC0200008983C8020000E9C72652FF",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D71F1F",
+          "on": "E91FD9AD0090",
+          "off": "8B83C8020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jetpack",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "96ABDC",
+          "on": "9090909090909090",
+          "off": "C5FA118384080000"
+        },
+        {
+          "offset": "96A63C",
+          "on": "9090909090909090",
+          "off": "C5FA118084080000"
+        }
+      ]
+    },
+	{
+      "name": "Super Jump",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1693570",
+          "on": "00C07944",
+          "off": "00001C42"
+        }
+      ]
+    },
+    {
+      "name": "Player 1 Give Points (Zombies)",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "8450A94",
+          "on": "90D00300",
+          "off": "90D00300"
+        }
+      ]
+    },
+    {
+      "name": "Player 2 Give Points (Zombies)",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "8467CA4",
+          "on": "90D00300",
+          "off": "90D00300"
+        }
+      ]
+    },
+    {
+      "name": "Player 3 Give Points (Zombies)",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "847EEB4",
+          "on": "90D00300",
+          "off": "90D00300"
+        }
+      ]
+    },
+    {
+      "name": "Player 4 Give Points (Zombies)",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "84960C4",
+          "on": "90D00300",
+          "off": "90D00300"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

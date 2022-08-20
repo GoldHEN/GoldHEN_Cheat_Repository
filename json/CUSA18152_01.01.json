@@ -1,1 +1,67 @@
-{"name":"Stranded Deep","id":"CUSA18152","version":"01.01","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"80a4ad4d","on":"909090909090","off":"C4C17A11464C"}]},{"name":"No Hunger","type":"checkbox","memory":[{"offset":"80765e07","on":"909090909090","off":"C4C17A114650"},{"offset":"807660b5","on":"9090909090","off":"C5FA114B50"},{"offset":"807660fb","on":"9090909090","off":"C5FA114350"}]},{"name":"No Thirst","type":"checkbox","memory":[{"offset":"80765d97","on":"909090909090","off":"C4C17A114654"},{"offset":"80766326","on":"9090909090","off":"C5FA114B54"},{"offset":"8076636c","on":"9090909090","off":"C5FA114354"}]}],"credits":["DeathRGH"]}
+{
+  "name": "Stranded Deep",
+  "id": "CUSA18152",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+		{
+          "offset": "80E4AD4D",
+          "on": "909090909090",
+          "off": "C4C17A11464C"
+        }
+      ]
+    },
+	{
+      "name": "No Hunger",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+		{
+          "offset": "80B65E07",
+          "on": "909090909090",
+          "off": "C4C17A114650"
+        },
+        {
+          "offset": "80B660B5",
+          "on": "9090909090",
+          "off": "C5FA114B50"
+        },
+		{
+          "offset": "80B660FB",
+          "on": "9090909090",
+          "off": "C5FA114350"
+        }
+      ]
+    },
+	{
+      "name": "No Thirst",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+		{
+          "offset": "80B65D97",
+          "on": "909090909090",
+          "off": "C4C17A114654"
+        },
+        {
+          "offset": "80B66326",
+          "on": "9090909090",
+          "off": "C5FA114B54"
+        },
+		{
+          "offset": "80B6636C",
+          "on": "9090909090",
+          "off": "C5FA114354"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

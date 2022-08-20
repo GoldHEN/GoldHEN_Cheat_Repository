@@ -1,1 +1,59 @@
-{"name":"Gravity Rush™ Remastered","id":"CUSA01113","version":"01.00","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"8169A","on":"909090","off":"895720"}]},{"name":"Infinite Gravity","type":"checkbox","memory":[{"offset":"8169A","on":"9090909090909090","off":"C5FA1183780A0000"}]},{"name":"Infinite Gems","type":"checkbox","memory":[{"offset":"104777","on":"0117","off":"2917"}]},{"name":"Always Have Super Attack","type":"checkbox","memory":[{"offset":"2E2030","on":"9090909090909090","off":"418B8424280A0000"}]}],"credits":["Talixme"]}
+{
+  "name": "Gravity Rush Remastered",
+  "id": "CUSA01113",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "48169A",
+          "on": "909090",
+          "off": "895720"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gravity",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "48169A",
+          "on": "9090909090909090",
+          "off": "C5FA1183780A0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gems",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "504777",
+          "on": "0117",
+          "off": "2917"
+        }
+      ]
+    },
+    {
+      "name": "Always Have Super Attack",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6E2030",
+          "on": "9090909090909090",
+          "off": "418B8424280A0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

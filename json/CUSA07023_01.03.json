@@ -1,1 +1,88 @@
-{"name":"Sonic Mania","id":"CUSA07023","version":"01.03","process":"eboot.bin","mods":[{"name":"Infinite Rings","type":"checkbox","memory":[{"offset":"50759","on":"C683EC000000FF","off":"488983EC000000"},{"offset":"A5975","on":"66C783EC000000E703909090","off":"8B88B4030000018BEC000000"}]},{"name":"Infinite Lives","type":"checkbox","memory":[{"offset":"AA374","on":"909090909090","off":"8983F8000000"}]},{"name":"Enable Super Sonic","type":"checkbox","memory":[{"offset":"64415C","on":"01","off":"02"}]},{"name":"Disable Super Sonic","type":"button","memory":[{"offset":"64415C","on":"03","off":"03"}]},{"name":"Super Speed","type":"button","memory":[{"offset":"644180","on":"00000F0000400000","off":"00000F0000400000"}]},{"name":"All Silver Medals","type":"button","memory":[{"offset":"1FFC36604","on":"20","off":"20"}]}],"credits":["Talixme"]}
+{
+  "name": "Sonic Mania",
+  "id": "CUSA07023",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Rings",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "450759",
+          "on": "C683EC000000FF",
+          "off": "488983EC000000"
+        },
+        {
+          "offset": "4A5975",
+          "on": "66C783EC000000E703909090",
+          "off": "8B88B4030000018BEC000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Lives",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AA374",
+          "on": "909090909090",
+          "off": "8983F8000000"
+        }
+      ]
+    },
+    {
+      "name": "Enable Super Sonic",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A4415C",
+          "on": "01",
+          "off": "02"
+        }
+      ]
+    },
+    {
+      "name": "Disable Super Sonic",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "A4415C",
+          "on": "03",
+          "off": "03"
+        }
+      ]
+    },
+    {
+      "name": "Super Speed",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "A44180",
+          "on": "00000F0000400000",
+          "off": "00000F0000400000"
+        }
+      ]
+    },
+    {
+      "name": "All Silver Medals",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "200036604",
+          "on": "20",
+          "off": "20"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

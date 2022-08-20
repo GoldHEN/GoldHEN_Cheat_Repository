@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Suffering, The - Ties That Bind" Moder="Ali-mk" Cusa="SLUS21189" Version="01.11" Process="eboot.bin">
+  <Genres Name="Platformer" />
+  <Items />
+  <Cheat Text="Inf-AMMO-ShotGun">
+    <Cheatline>
+      <Offset>80806F9024</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80806F9025</Offset>
+      <Section>0</Section>
+      <ValueOn>55</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>807FED1A80</Offset>
+      <Section>0</Section>
+      <ValueOn>24-05-00-00</ValueOn>
+      <ValueOff>24-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Ammo-Gun-Cdt-1911/No-Reloads">
+    <Cheatline>
+      <Offset>808130AB94</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>808130AB95</Offset>
+      <Section>0</Section>
+      <ValueOn>55</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FED1A80</Offset>
+      <Section>0</Section>
+      <ValueOn>24-05-00-00</ValueOn>
+      <ValueOff>24-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

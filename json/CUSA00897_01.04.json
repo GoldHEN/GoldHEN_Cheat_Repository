@@ -1,1 +1,76 @@
-{"name":"inFAMOUS™ First Light","id":"CUSA00897","version":"01.04","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"261B01","on":"909090909090909090","off":"C4C17A119618FA0100"}]},{"name":"Infinite Energy","type":"checkbox","memory":[{"offset":"257DA9","on":"90909090909090909090","off":"C4C17A11842408A30100"}]},{"name":"Infinite Special Skill","type":"checkbox","memory":[{"offset":"225540","on":"9090909090909090","off":"C5FA118700010000"},{"offset":"1112DF0","on":"0000A041","off":"0000A041"}]},{"name":"Infinite Skillpoints","type":"checkbox","memory":[{"offset":"2241B4","on":"BBE7030000899FFC0000009090","off":"899FFC00000080BF510D020000"}]},{"name":"Infinite Melee Finisher","type":"checkbox","memory":[{"offset":"2254C8","on":"BE0200000089B7F80000009090","off":"89B7F800000080BF510D020000"}]}],"credits":["Weysincha"]}
+{
+  "name": "inFAMOUS: First Light",
+  "id": "CUSA00897",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "661B01",
+          "on": "909090909090909090",
+          "off": "C4C17A119618FA0100"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "657DA9",
+          "on": "90909090909090909090",
+          "off": "C4C17A11842408A30100"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Special Skill",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "625540",
+          "on": "9090909090909090",
+          "off": "C5FA118700010000"
+        },
+        {
+          "offset": "1512DF0",
+          "on": "0000A041",
+          "off": "0000A041"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skillpoints",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6241B4",
+          "on": "BBE7030000899FFC0000009090",
+          "off": "899FFC00000080BF510D020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Melee Finisher",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6254C8",
+          "on": "BE0200000089B7F80000009090",
+          "off": "89B7F800000080BF510D020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}

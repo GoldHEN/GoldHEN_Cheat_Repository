@@ -1,1 +1,47 @@
-{"name":"The Binding of Isaac: Rebirth","id":"CUSA01344","version":"01.06","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"7FF7FDB5","on":"90909090909090","off":"418987B0120000"}]},{"name":"Infinite Bombs","type":"checkbox","memory":[{"offset":"7FF8EA76","on":"909090909090","off":"FF8BCC120000"}]},{"name":"Infinite Coins","type":"checkbox","memory":[{"offset":"7FF6E88C","on":"B863000000","off":"85F60F4FC1"}]}],"credits":["Weysincha"]}
+{
+  "name": "The Binding of Isaac Rebirth",
+  "id": "CUSA01344",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8037FDB5",
+          "on": "90909090909090",
+          "off": "418987B0120000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Bombs",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8038EA76",
+          "on": "909090909090",
+          "off": "FF8BCC120000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Coins",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8036E88C",
+          "on": "B863000000",
+          "off": "85F60F4FC1"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}

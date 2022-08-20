@@ -1,1 +1,132 @@
-{"name":"Crash Bandicoot N. Sane Trilogy","id":"CUSA07399","version":"01.00","process":"eboot.bin","mods":[{"name":"Godmode","type":"button","memory":[{"offset":"2583CC1A0","on":"E7030000","off":"E7030000"}]},{"name":"Set Apples to 99","type":"button","memory":[{"offset":"2583CD8E0","on":"63000000","off":"63000000"}]},{"name":"Set Lives to 999","type":"button","memory":[{"offset":"24F5EA114","on":"E7030000","off":"E7030000"}]},{"name":"Set Boxes to 999","type":"button","memory":[{"offset":"2583CC0E0","on":"E7030000","off":"E7030000"}]},{"name":"Set Diamonds to 99","type":"button","memory":[{"offset":"24F5EA11C","on":"63000000","off":"63000000"}]},{"name":"Set Platin to 99","type":"button","memory":[{"offset":"24F5EA128","on":"63000000","off":"63000000"}]},{"name":"Set Gold to 99","type":"button","memory":[{"offset":"24F5EA124","on":"63000000","off":"63000000"}]},{"name":"Set Saphir to 99","type":"button","memory":[{"offset":"24F5EA120","on":"63000000","off":"63000000"}]},{"name":"Set Keys to 99","type":"button","memory":[{"offset":"24F5EA118","on":"63000000","off":"63000000"}]},{"name":"Set Crystals to 99","type":"button","memory":[{"offset":"24F5EA12C","on":"63000000","off":"63000000"}]}],"credits":["Weysincha","Talixme"]}
+{
+  "name": "Crash Bandicoot N Sane Trilogy",
+  "id": "CUSA07399",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": "Activate On Each Level.",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "2587CC1A0",
+          "on": "E7030000",
+          "off": "E7030000"
+        }
+      ]
+    },
+    {
+      "name": "Set Apples to 99",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "2587CD8E0",
+          "on": "63000000",
+          "off": "63000000"
+        }
+      ]
+    },
+    {
+      "name": "Set Lives to 999",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "24F9EA114",
+          "on": "E7030000",
+          "off": "E7030000"
+        }
+      ]
+    },
+    {
+      "name": "Set Boxes to 999",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "2587CC0E0",
+          "on": "E7030000",
+          "off": "E7030000"
+        }
+      ]
+    },
+    {
+      "name": "Set Diamonds to 99",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "24F9EA11C",
+          "on": "63000000",
+          "off": "63000000"
+        }
+      ]
+    },
+    {
+      "name": "Set Platin to 99",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "24F9EA128",
+          "on": "63000000",
+          "off": "63000000"
+        }
+      ]
+    },
+    {
+      "name": "Set Gold to 99",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "24F9EA124",
+          "on": "63000000",
+          "off": "63000000"
+        }
+      ]
+    },
+    {
+      "name": "Set Saphir to 99",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "24F9EA120",
+          "on": "63000000",
+          "off": "63000000"
+        }
+      ]
+    },
+    {
+      "name": "Set Keys to 99",
+      "hint": "Only for Crash Bandicoot 1.",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "24F9EA118",
+          "on": "63000000",
+          "off": "63000000"
+        }
+      ]
+    },
+    {
+      "name": "Set Crystals to 99",
+      "hint": "only for Crash Bandicoot 2 and 3.",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "24F9EA12C",
+          "on": "63000000",
+          "off": "63000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha",
+    "Talixme"
+  ]
+}

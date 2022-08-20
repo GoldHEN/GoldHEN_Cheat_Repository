@@ -1,1 +1,35 @@
-{"name":"Prey","id":"CUSA04482","version":"01.00","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"1A18A71","on":"9090909090","off":"C5FA114340"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"1B75179","on":"90909090909090","off":"4189B724040000"}]}],"credits":["Weysincha"]}
+{
+  "name": "Prey",
+  "id": "CUSA04482",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E18A71",
+          "on": "9090909090",
+          "off": "C5FA114340"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F75179",
+          "on": "90909090909090",
+          "off": "4189B724040000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tekken Tag Tournamen" Moder="Ali-mk" Cusa="SLUS20001" Version="01.11" Process="eboot.bin">
+  <Genres Name="Platformer" />
+  <Items />
+  <Cheat Text="Infinite-Health-P1">
+    <Cheatline>
+      <Offset>8080479A34</Offset>
+      <Section>0</Section>
+      <ValueOn>61-93-15</ValueOn>
+      <ValueOff>61-93-15</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080479A38</Offset>
+      <Section>0</Section>
+      <ValueOn>61-93-15</ValueOn>
+      <ValueOff>61-93-15</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlock-Characters">
+    <Cheatline>
+      <Offset>8080039C70</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-FF-FF-FF</ValueOn>
+      <ValueOff>FF-FF-FF-FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>8080039C74</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-FF-FF-FF</ValueOn>
+      <ValueOff>FF-FF-FF-FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>8080039C78</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-FF-FF-FF</ValueOn>
+      <ValueOff>FF-FF-FF-FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>8080039C82</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-01-03</ValueOn>
+      <ValueOff>00-00-01-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

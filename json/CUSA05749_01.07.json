@@ -1,1 +1,40 @@
-{"name":"STAR WARS™ Battlefront™ II","id":"CUSA05749","version":"01.07","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"2184D35","on":"E9F6E28401909090","off":"C5FA1045C04889DF"},{"offset":"39D3030","on":"C5FA1045C04889DFBE1028BE0439B3300100000F85F41C7BFEE9F41C7BFE","off":"00000000000000000000000000000000000000000000000000000000000000"}]},{"name":"Infinite Ammo / No overheat","type":"checkbox","memory":[{"offset":"23BEAA5","on":"9090909090909090","off":"C5FA1183CC010000"}]}],"credits":["Talixme"]}
+{
+  "name": "STAR WARS Battlefront II",
+  "id": "CUSA05749",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2584D35",
+          "on": "E9F6E28401909090",
+          "off": "C5FA1045C04889DF"
+        },
+        {
+          "offset": "3DD3030",
+          "on": "C5FA1045C04889DFBE1028BE0439B3300100000F85F41C7BFEE9F41C7BFE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo / No overheat",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27BEAA5",
+          "on": "9090909090909090",
+          "off": "C5FA1183CC010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

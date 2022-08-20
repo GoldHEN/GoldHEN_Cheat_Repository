@@ -1,1 +1,82 @@
-{"name":"FINAL FANTASY XV","id":"CUSA01615","version":"01.23","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"84B933","on":"B80F270000","off":"85FF0F49C2"}]},{"name":"Infinite MP","type":"checkbox","memory":[{"offset":"70FFCD","on":"909090909090","off":"8988DC010000"}]},{"name":"Infinite FP/AP","type":"checkbox","memory":[{"offset":"4F0F03C","on":"39C80F49D6BA0F270000C3","off":"0000000000000000000000"},{"offset":"1000DC0","on":"E877E2F003","off":"39C80F49D6"}]},{"name":"Infinite Money/Gil","type":"checkbox","memory":[{"offset":"4F0F000","on":"4439E00F49CAB97F969800C3","off":"000000000000000000000000"},{"offset":"1CE4B58","on":"E8A3A4220390","off":"4439E00F49CA"}]},{"name":"Infinite Exp","type":"checkbox","memory":[{"offset":"F82D96","on":"4189C790","off":"440F4FF8"}]}],"credits":["Weysincha ","KingJojo"]}
+{
+  "name": "Final Fantasy XV",
+  "id": "CUSA01615",
+  "version": "01.23",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C4B933",
+          "on": "B80F270000",
+          "off": "85FF0F49C2"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B0FFCD",
+          "on": "909090909090",
+          "off": "8988DC010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite FP/AP",
+      "hint": "Spend FP/AP to Get 9.999.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "530F03C",
+          "on": "39C80F49D6BA0F270000C3",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "1400DC0",
+          "on": "E877E2F003",
+          "off": "39C80F49D6"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money/Gil",
+      "hint": "Spend Gil/Money to get 9.999.999.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "530F000",
+          "on": "4439E00F49CAB97F969800C3",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "20E4B58",
+          "on": "E8A3A4220390",
+          "off": "4439E00F49CA"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Exp",
+      "hint": "Earn Exp to get Max Exp.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1382D96",
+          "on": "4189C790",
+          "off": "440F4FF8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha ",
+    "KingJojo"
+  ]
+}

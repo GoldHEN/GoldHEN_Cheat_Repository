@@ -1,0 +1,65 @@
+{"name":"Horizon Forbidden West","id":"CUSA28561","version":"01.17","process":"eboot.bin",
+"mods":[{
+    "name": "Infinite Health",
+    "type": "checkbox",
+    "memory": [
+        {
+            "offset": "7FC5FC70",
+            "on": "4180BDBC010000137505E976B62181C4C17A114574E96BB62181",
+            "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+            "offset": "E7B2EF",
+            "on": "E97C49DE7E90",
+            "off": "C4C17A114574"
+        }
+    ]	
+},
+{
+    "name": "OneHit Kills",
+    "type": "checkbox",
+    "memory": [
+        {
+            "offset": "7FC5FB00",
+            "on": "4180BDD8000000137411C5FA1085FCFEFFFFC5FA5CC0E993B32181C5FA1085FCFEFFFFC5FA5CC2E982B32181",
+            "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+            "offset": "E7AEA2",
+            "on": "E9594CDE7E909090",
+            "off": "C5FA1085FCFEFFFF"
+        }
+    ]	
+},
+{
+    "name": "TwoHit Kills",
+    "type": "checkbox",
+    "memory": [
+        {
+            "offset": "7FC5FB00",
+            "on": "4180BDD8000000137411C5FA1085FCFEFFFFC5FA5CC4E993B32181C5FA1085FCFEFFFFC5FA5CC2E982B32181",
+            "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+            "offset": "E7AEA2",
+            "on": "E9594CDE7E909090",
+            "off": "C5FA1085FCFEFFFF"
+        }
+    ]	
+},
+{
+    "name": "Damage x2",
+    "type": "checkbox",
+    "memory": [
+        {
+            "offset": "7FC5FB00",
+            "on": "4180BDD8000000137415C5FA1085FCFEFFFFC5FA5CC2C5FA5CC2E98FB32181C5FA1085FCFEFFFFC5FA5CC2E97EB32181",
+            "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+            "offset": "E7AEA2",
+            "on": "E9594CDE7E909090",
+            "off": "C5FA1085FCFEFFFF"
+        }
+    ]	
+}],"credits":["FloDoc"]}

@@ -1,0 +1,154 @@
+{
+  "name": "How to Survive 2",
+  "id": "CUSA07006",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7468D7",
+          "on": "C78378300000ABEB32F990",
+          "off": "35ABEBBEBA898378300000"
+        },
+        {
+          "offset": "746911",
+          "on": "90909090909090909090",
+          "off": "C78378300000ABEBBEBA"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76879D",
+          "on": "90909090C5FA1113",
+          "off": "C5EA5CC9C5FA110B"
+        }
+      ]
+    },
+    {
+      "name": "No Hunger",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7624DD",
+          "on": "41C746240000803F9090",
+          "off": "C5F25FC0C4C17A114624"
+        }
+      ]
+    },
+    {
+      "name": "No Thirst",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "762550",
+          "on": "41C7463C0000803F9090",
+          "off": "C5F25FC0C4C17A11463C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Backpack Space (Weight)",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B6414",
+          "on": "41C7442460000000009090",
+          "off": "C5EA5CC0C4C17A11442460"
+        },
+        {
+          "offset": "5B6173",
+          "on": "41C745600000000090909090",
+          "off": "C4C17A584560C4C17A114560"
+        },
+        {
+          "offset": "5B6247",
+          "on": "0F57C0909090",
+          "off": "C4C17A584560"
+        }
+      ]
+    },
+    {
+      "name": "XP Multiplier x999.999.999",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "73FC56",
+          "on": "89F3",
+          "off": "89F3"
+        },
+        {
+          "offset": "73FC37",
+          "on": "BEFFC99A3B89F3EB18",
+          "off": "660F1F840000000000"
+        },
+        {
+          "offset": "73FC56",
+          "on": "EBDF",
+          "off": "89F3"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items/Ammo",
+      "hint": "Crafting or upgrading does not use items.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B63DB",
+          "on": "909090",
+          "off": "4429FA"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Building Durability",
+      "hint": "Buildings also repair themselves when damaged.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6EAD97",
+          "on": "C5FA5C85ACFDFFFF",
+          "off": "C5FA5C85ACFDFFFF"
+        },
+        {
+          "offset": "94F070",
+          "on": "41837C241004750F418B542420418954242CE91FBDD9FFC5FA5C85ACFDFFFFC4C17A1144242CE90BBDD9FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6EAD97",
+          "on": "E9D4422600909090",
+          "off": "C5FA5C85ACFDFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Instant Target Lockon",
+      "hint": "You do not have to wait for bows and guns to focus.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76034B",
+          "on": "C743100000803F90909090",
+          "off": "C5E25DD2C5FA1153107204"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

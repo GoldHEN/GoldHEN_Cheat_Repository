@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Teenage Mutant Ninja Turtles 2" Moder="Ali-mk" Cusa="SLUS20981" Version="01.11" Process="eboot.bin">
+  <Genres Name="Platformer" />
+  <Items />
+  <Cheat Text="RETURN-Health">
+    <Cheatline>
+      <Offset>8080170B68</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080170B69</Offset>
+      <Section>0</Section>
+      <ValueOn>3F</ValueOn>
+      <ValueOff>3F</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>8080170B6A</Offset>
+      <Section>0</Section>
+      <ValueOn>7A</ValueOn>
+      <ValueOff>7A</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="RETURN-Shurikens">
+    <Cheatline>
+      <Offset>808038DCA8</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-63</ValueOn>
+      <ValueOff>00-00-00-63</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

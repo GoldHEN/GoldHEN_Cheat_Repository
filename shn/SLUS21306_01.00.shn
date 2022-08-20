@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ghost Rider" Moder="Ali-mk" Cusa="SLUS21306" Version="01.11" Process="eboot.bin">
+  <Genres Name="Platformer" />
+  <Items />
+  <Cheat Text="Return-to-Health">
+    <Cheatline>
+      <Offset>8081126380</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-FF</ValueOn>
+      <ValueOff>00-00-00-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8081126381</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-FF</ValueOn>
+      <ValueOff>00-00-00-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8081126382</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-FF</ValueOn>
+      <ValueOff>00-00-00-FF-</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-SOULS-(9999999)">
+    <Cheatline>
+      <Offset>808112636C</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF-</ValueOff>
+	</Cheatline>
+    <Cheatline>
+      <Offset>808112636D</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+	</Cheatline>
+    <Cheatline>
+      <Offset>808112636E</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+	</Cheatline>
+    <Cheatline>
+      <Offset>808112636F</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>63</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Health-2">
+    <Cheatline>
+      <Offset>8080BC25F2</Offset>
+      <Section>0</Section>
+      <ValueOn>99</ValueOn>
+      <ValueOff>99-</ValueOff>
+	</Cheatline>
+    <Cheatline>
+      <Offset>8080BC25F3</Offset>
+      <Section>0</Section>
+      <ValueOn>55</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

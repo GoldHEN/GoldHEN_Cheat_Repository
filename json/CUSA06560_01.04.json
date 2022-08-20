@@ -1,1 +1,59 @@
-{"name":"Prey","id":"CUSA06560","version":"01.04","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"1A34B01","on":"9090909090","off":"C5FA114340"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"1B94599","on":"90909090909090","off":"4189B724040000"}]},{"name":"Infinite Items","type":"checkbox","memory":[{"offset":"1418970","on":"90909090","off":"41895E54"}]},{"name":"2x Duplicate Items After Use","type":"checkbox","memory":[{"offset":"1418970","on":"41015E54","off":"41895E54"}]}],"credits":["Talixme"]}
+{
+  "name": "Prey",
+  "id": "CUSA06560",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E34B01",
+          "on": "9090909090",
+          "off": "C5FA114340"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F94599",
+          "on": "90909090909090",
+          "off": "4189B724040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1818970",
+          "on": "90909090",
+          "off": "41895E54"
+        }
+      ]
+    },
+    {
+      "name": "2x Duplicate Items After Use",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1818970",
+          "on": "41015E54",
+          "off": "41895E54"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

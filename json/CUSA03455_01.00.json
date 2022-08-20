@@ -1,1 +1,52 @@
-{"name":"7 Days To Die","id":"CUSA03455","version":"01.00","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"804901b6","on":"E945EEDC80","off":"F2440F5AF8"},{"offset":"125f000","on":"F2440F5AF8BE000000004139B7240100000F84A411237FE9A511237F","off":"00000000000000000000000000000000000000000000000000000000"}]},{"name":"Get Skillpoints For Spending Them","type":"checkbox","memory":[{"offset":"8075aca9","on":"01C8","off":"2BC1"}]},{"name":"Infinite Health / Stamina","type":"checkbox","memory":[{"offset":"804901bb","on":"909090909090","off":"F3450F117F24"}]}],"credits":["DeathRGH"]}
+{
+  "name": "7 Days To Die",
+  "id": "CUSA03455",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808901B6",
+          "on": "E945EEDC80",
+          "off": "F2440F5AF8"
+        },
+        {
+          "offset": "165F000",
+          "on": "F2440F5AF8BE000000004139B7240100000F84A411237FE9A511237F",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Get Skillpoints For Spending Them",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80B5ACA9",
+          "on": "01C8",
+          "off": "2BC1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health / Stamina",
+      "hint": "This will affect all creatures aswell. If a new zombie spawns it, will instantly die.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808901BB",
+          "on": "909090909090",
+          "off": "F3450F117F24"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

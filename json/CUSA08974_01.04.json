@@ -1,1 +1,47 @@
-{"name":"The Evil Within® 2","id":"CUSA08974","version":"01.04","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"F284F6","on":"9090909090909090","off":"C5FA118FCC0B0000"}]},{"name":"Infinite Resistance","type":"checkbox","memory":[{"offset":"10648DA","on":"909090909090909090","off":"C4CA7A1185E0170000"}]},{"name":"All Items To The Max","type":"checkbox","memory":[{"offset":"119F72D","on":"6641C7441C2CFFFF","off":"4C89304D896C1C2C"}]}],"credits":["Talixme"]}
+{
+  "name": "The Evil Within 2 ",
+  "id": "CUSA08974",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13284F6",
+          "on": "9090909090909090",
+          "off": "C5FA118FCC0B0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Resistance",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14648DA",
+          "on": "909090909090909090",
+          "off": "C4CA7A1185E0170000"
+        }
+      ]
+    },
+    {
+      "name": "All Items To The Max",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "159F72D",
+          "on": "6641C7441C2CFFFF",
+          "off": "4C89304D896C1C2C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

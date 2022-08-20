@@ -1,1 +1,23 @@
-{"name":"7 Days to Die","id":"CUSA03455","version":"01.18","process":"eboot.bin","mods":[{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"804a60fb","on":"909090909090","off":"F3450F117F24"}]}],"credits":["DeathRGH"]}
+{
+  "name": "7 Days to Die",
+  "id": "CUSA03455",
+  "version": "01.18",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Stamina",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808A60FB",
+          "on": "909090909090",
+          "off": "F3450F117F24"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

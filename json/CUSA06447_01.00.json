@@ -1,1 +1,35 @@
-{"name":"Euro Fishing","id":"CUSA06447","version":"01.00","process":"eboot.bin","mods":[{"name":"Buy An Item Money Doubles","type":"checkbox","memory":[{"offset":"1d1f70","on":"44017040B9010000","off":"44297040B9010000"}]},{"name":"Click On Gain XP Before Releasing Fish Click Off And On","type":"checkbox","memory":[{"offset":"21feed","on":"01F3837F58007408","off":"89F3837F58007408"}]}],"credits":["PS4Guru"]}
+{
+  "name": "Euro Fishing",
+  "id": "CUSA06447",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Buy An Item Money Doubles",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5D1F70",
+          "on": "44017040B9010000",
+          "off": "44297040B9010000"
+        }
+      ]
+    },
+    {
+      "name": "Click On Gain XP Before Releasing Fish Click Off And On",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61FEED",
+          "on": "01F3837F58007408",
+          "off": "89F3837F58007408"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "PS4Guru"
+  ]
+}

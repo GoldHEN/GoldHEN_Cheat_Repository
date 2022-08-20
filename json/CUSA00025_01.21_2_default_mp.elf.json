@@ -1,0 +1,47 @@
+{
+  "name": "COD: Ghosts (MP)",
+  "id": "CUSA00025",
+  "version": "01.21",
+  "process": "default_mp.elf",
+  "mods": [
+    {
+      "name": "All Client Infinite Ammo",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "526396",
+          "on": "9090909090",
+          "off": "44297C8108"
+        }
+      ]
+    },
+    {
+      "name": "All Client Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6D6705",
+          "on": "9090909090909090",
+          "off": "41299C24DC010000"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C29088",
+          "on": "00C07944",
+          "off": "00001C42"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

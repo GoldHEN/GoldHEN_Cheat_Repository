@@ -1,1 +1,35 @@
-{"name":"Alchemic Jousts","id":"CUSA06924","version":"01.00","process":"eboot.bin","mods":[{"name":"Get Reagents For Spending Them","type":"checkbox","memory":[{"offset":"30D6A5","on":"410186A8000000","off":"412986A8000000"}]},{"name":"Get Clues For Spending Them","type":"checkbox","memory":[{"offset":"30F238","on":"41FF85AC000000","off":"41FF8DAC000000"}]}],"credits":["DeathRGH"]}
+{
+  "name": "Alchemic Jousts",
+  "id": "CUSA06924",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Get Reagents For Spending Them",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "70D6A5",
+          "on": "410186A8000000",
+          "off": "412986A8000000"
+        }
+      ]
+    },
+    {
+      "name": "Get Clues For Spending Them",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "70F238",
+          "on": "41FF85AC000000",
+          "off": "41FF8DAC000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

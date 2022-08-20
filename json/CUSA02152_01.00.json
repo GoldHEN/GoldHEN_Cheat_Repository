@@ -1,1 +1,47 @@
-{"name":"Middle-earth™: Shadow of Mordor™ - Game of the Year Edition","id":"CUSA02152","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Focus","type":"checkbox","memory":[{"offset":"24C9DD","on":"9090909090","off":"C5FA114B54"}]},{"name":"Infinite Arrows","type":"checkbox","memory":[{"offset":"24CAA6","on":"909090","off":"894350"}]}],"credits":["Talixme"]}
+{
+  "name": "Middle-Earth: Shadow of Mordor",
+  "id": "CUSA02152",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "@21F9AD0_2_101AD0+0+100+0+0+10+E0+20+40+8+24",
+          "on": "",
+          "off": ""
+        }
+      ]
+    },
+    {
+      "name": "Infinite Focus",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "64C9DD",
+          "on": "9090909090",
+          "off": "C5FA114B54"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Arrows",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "64CAA6",
+          "on": "909090",
+          "off": "894350"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

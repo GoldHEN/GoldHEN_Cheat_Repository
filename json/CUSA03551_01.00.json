@@ -1,1 +1,23 @@
-{"name":"Bully","id":"CUSA03551","version":"01.00","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"8031869748","on":"0024F4490024F449","off":"0000484300004843"}]}],"credits":["DeathRGH"]}
+{
+  "name": "Bully",
+  "id": "CUSA03551",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8031C69748",
+          "on": "0024F4490024F449",
+          "off": "0000484300004843"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

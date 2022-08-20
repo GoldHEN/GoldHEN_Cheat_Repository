@@ -1,1 +1,40 @@
-{"name":"Bastion","id":"CUSA02057","version":"01.00","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"10EEBED","on":"E92EB2AB0090","off":"898860030000"},{"offset":"1BA9E20","on":"66817850981C0F8505000000E9C24D54FF898860030000E9B74D54FF","off":"00000000000000000000000000000000000000000000000000000000"}]},{"name":"Infinite Special","type":"checkbox","memory":[{"offset":"F31EF5","on":"90909090","off":"41894668"}]}],"credits":["Talixme"]}
+{
+  "name": "Bastion",
+  "id": "CUSA02057",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14EEBED",
+          "on": "E92EB2AB0090",
+          "off": "898860030000"
+        },
+        {
+          "offset": "1FA9E20",
+          "on": "66817850981C0F8505000000E9C24D54FF898860030000E9B74D54FF",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Special",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1331EF5",
+          "on": "90909090",
+          "off": "41894668"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

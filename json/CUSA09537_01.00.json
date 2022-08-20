@@ -1,1 +1,59 @@
-{"name":"Secret of Mana","id":"CUSA09537","version":"01.00","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"1426D1","on":"90909090909090","off":"4429BB28010000"}]},{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"125E62","on":"9090909090909090909090","off":"C784013001000000000000"}]},{"name":"Max Exp/Level","type":"checkbox","memory":[{"offset":"34C656","on":"B87F969800","off":"3D7F969800"}]},{"name":"Set GM (Money) to 9.999.999","type":"button","memory":[{"offset":"BCD65C","on":"7F969800","off":"7F969800"}]}],"credits":["Weysincha"]}
+{
+  "name": "Secret of Mana",
+  "id": "CUSA09537",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5426D1",
+          "on": "90909090909090",
+          "off": "4429BB28010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "525e62",
+          "on": "9090909090909090909090",
+          "off": "C784013001000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Exp/Level",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "74c656",
+          "on": "B87F969800",
+          "off": "3D7F969800"
+        }
+      ]
+    },
+    {
+      "name": "Set GM (Money) to 9.999.999",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "FCD65C",
+          "on": "7F969800",
+          "off": "7F969800"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}

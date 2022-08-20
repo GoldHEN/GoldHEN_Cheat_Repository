@@ -1,1 +1,23 @@
-{"name":"A Pixel Story","id":"CUSA05957","version":"01.00","process":"eboot.bin","mods":[{"name":"Double Rings On Pick Up","type":"checkbox","memory":[{"offset":"80177423","on":"410187B40100004D","off":"418987B40100004D"}]}],"credits":["PS4Guru"]}
+{
+  "name": "A Pixel Story",
+  "id": "CUSA05957",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Double Rings On Pick Up",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80577423",
+          "on": "410187B40100004D",
+          "off": "418987B40100004D"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "PS4Guru"
+  ]
+}

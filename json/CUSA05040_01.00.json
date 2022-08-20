@@ -1,1 +1,35 @@
-{"name":"NBA 2K17","id":"CUSA05040","version":"01.00","process":"eboot.bin","mods":[{"name":"Max Attributes","type":"button","memory":[{"offset":"3C739542","on":"19191919191919191919","off":"19191919191919191919"}]},{"name":"Max Money","type":"button","memory":[{"offset":"3C4F0274","on":"7F969800","off":"7F969800"}]}],"credits":["Weysincha"]}
+{
+  "name": "NBA 2K17",
+  "id": "CUSA05040",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Attributes",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3CB39542",
+          "on": "19191919191919191919",
+          "off": "19191919191919191919"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3C8F0274",
+          "on": "7F969800",
+          "off": "7F969800"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}

@@ -1,1 +1,29 @@
-{"name":"STAR WARS Jedi: Fallen Order™","id":"CUSA12529","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite Force","type":"checkbox","memory":[{"offset":"20D1018","on":"90909090","off":"C5F82ED0"}]}],"credits":["wild31"]}
+{
+  "name": "Star Wars Jedi Fallen Order",
+  "id": "CUSA12529",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "656B000",
+          "on": "669C817B0848000400750F9090909090909090669DE93AB144FB669DC5FA1183B4010000E92BB144FB",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+		{
+          "offset": "19B614C",
+          "on": "E9AF4EBB04909090",
+          "off": "C5FA1183B4010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha",
+	"DeathRGH"
+  ]
+}

@@ -1,1 +1,263 @@
-{"name":"METAL GEAR SOLID V: THE PHANTOM PAIN","id":"CUSA01140","version":"01.16","process":"eboot.bin","mods":[{"name":"Max GMP","type":"button","memory":[{"offset":"37E78D4","on":"500000","off":"500000"}]},{"name":"Max Fuel Resources","type":"button","memory":[{"offset":"37F5D60","on":"100000","off":"100000"}]},{"name":"Max Biological Material","type":"button","memory":[{"offset":"37F5D64","on":"100000","off":"100000"}]},{"name":"Max Common Metal","type":"button","memory":[{"offset":"37F5D68","on":"100000","off":"100000"}]},{"name":"Max Minor Metal","type":"button","memory":[{"offset":"37F5D6C","on":"100000","off":"100000"}]},{"name":"Max Precious Metal","type":"button","memory":[{"offset":"37F5D70","on":"100000","off":"100000"}]},{"name":"Max Wormwood","type":"button","memory":[{"offset":"37F5D74","on":"1200","off":"1200"}]},{"name":"Max Black Carrot","type":"button","memory":[{"offset":"37F5D78","on":"1200","off":"1200"}]},{"name":"Max Golden Crescent","type":"button","memory":[{"offset":"37F5D7C","on":"1200","off":"1200"}]},{"name":"Max Tarragon","type":"button","memory":[{"offset":"37F5D80","on":"1200","off":"1200"}]},{"name":"Max African Peach","type":"button","memory":[{"offset":"37F5D84","on":"1200","off":"1200"}]},{"name":"Max Digitalis Purpurea","type":"button","memory":[{"offset":"37F5D88","on":"1200","off":"1200"}]},{"name":"Max Digitalis Lutea","type":"button","memory":[{"offset":"37F5D8C","on":"1200","off":"1200"}]},{"name":"Max Haoma","type":"button","memory":[{"offset":"37F5D90","on":"1200","off":"1200"}]},{"name":"Mist Parasites","type":"button","memory":[{"offset":"37F5DD8","on":"6000","off":"6000"}]},{"name":"Camouflage Parasites","type":"button","memory":[{"offset":"37F5DDC","on":"6000","off":"6000"}]},{"name":"Armor Parasites","type":"button","memory":[{"offset":"37F5DE0","on":"6000","off":"6000"}]},{"name":"CCCP-WG TYPE-C","type":"button","memory":[{"offset":"37F5DC0","on":"6000","off":"6000"}]},{"name":"CCCP-WG TYPE-A","type":"button","memory":[{"offset":"37F5DC4","on":"6000","off":"6000"}]},{"name":"CFA-WG TYPE-C","type":"button","memory":[{"offset":"37F5DC8","on":"6000","off":"6000"}]},{"name":"CFA-WG TYPE-A","type":"button","memory":[{"offset":"37F5DCC","on":"6000","off":"6000"}]}],"credits":["hejran7"]}
+{
+  "name": "Metal Gear Solid V: Phantom Pain",
+  "id": "CUSA01140",
+  "version": "01.16",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max GMP",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BE78D4",
+          "on": "4C4B40",
+          "off": "4C4B40"
+        }
+      ]
+    },
+    {
+      "name": "Max Fuel Resources",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5D60",
+          "on": "F4240",
+          "off": "F4240"
+        }
+      ]
+    },
+    {
+      "name": "Max Biological Material",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5D64",
+          "on": "F4240",
+          "off": "F4240"
+        }
+      ]
+    },
+    {
+      "name": "Max Common Metal",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5D68",
+          "on": "F4240",
+          "off": "F4240"
+        }
+      ]
+    },
+    {
+      "name": "Max Minor Metal",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5D6C",
+          "on": "F4240",
+          "off": "F4240"
+        }
+      ]
+    },
+    {
+      "name": "Max Precious Metal",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5D70",
+          "on": "F4240",
+          "off": "F4240"
+        }
+      ]
+    },
+    {
+      "name": "Max Wormwood",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5D74",
+          "on": "2EE0",
+          "off": "2EE0"
+        }
+      ]
+    },
+    {
+      "name": "Max Black Carrot",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5D78",
+          "on": "2EE0",
+          "off": "2EE0"
+        }
+      ]
+    },
+    {
+      "name": "Max Golden Crescent",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5D7C",
+          "on": "2EE0",
+          "off": "2EE0"
+        }
+      ]
+    },
+    {
+      "name": "Max Tarragon",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5D80",
+          "on": "2EE0",
+          "off": "2EE0"
+        }
+      ]
+    },
+    {
+      "name": "Max African Peach",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5D84",
+          "on": "2EE0",
+          "off": "2EE0"
+        }
+      ]
+    },
+    {
+      "name": "Max Digitalis Purpurea",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5D88",
+          "on": "2EE0",
+          "off": "2EE0"
+        }
+      ]
+    },
+    {
+      "name": "Max Digitalis Lutea",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5D8C",
+          "on": "2EE0",
+          "off": "2EE0"
+        }
+      ]
+    },
+    {
+      "name": "Max Haoma",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5D90",
+          "on": "2EE0",
+          "off": "2EE0"
+        }
+      ]
+    },
+    {
+      "name": "Mist Parasites",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5DD8",
+          "on": "1770",
+          "off": "1770"
+        }
+      ]
+    },
+    {
+      "name": "Camouflage Parasites",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5DDC",
+          "on": "1770",
+          "off": "1770"
+        }
+      ]
+    },
+    {
+      "name": "Armor Parasites",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5DE0",
+          "on": "1770",
+          "off": "1770"
+        }
+      ]
+    },
+    {
+      "name": "CCCP-WG TYPE-C",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5DC0",
+          "on": "1770",
+          "off": "1770"
+        }
+      ]
+    },
+    {
+      "name": "CCCP-WG TYPE-A",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5DC4",
+          "on": "1770",
+          "off": "1770"
+        }
+      ]
+    },
+    {
+      "name": "CFA-WG TYPE-C",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5DC8",
+          "on": "1770",
+          "off": "1770"
+        }
+      ]
+    },
+    {
+      "name": "CFA-WG TYPE-A",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3BF5DCC",
+          "on": "1770",
+          "off": "1770"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

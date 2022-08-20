@@ -1,1 +1,40 @@
-{"name":"The Binding of Isaac: Afterbirth+","id":"CUSA10195","version":"01.00","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"17EC3C","on":"909090909090","off":"898A98270000"}]},{"name":"Infinite Bombs/ Coins/ Keys","type":"checkbox","memory":[{"offset":"527000","on":"41C785B82700006300000041C785B02700006300000041C785BC27000063000000C3","off":"00000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"19479B","on":"E8602839009090","off":"41FF8DB8270000"}]}],"credits":["Weysincha"]}
+{
+  "name": "The Binding of Isaac Afterbirth Plus",
+  "id": "CUSA10195",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "57EC3C",
+          "on": "909090909090",
+          "off": "898A98270000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Bombs/ Coins/ Keys",
+      "hint": "Use 1 bomb to activate.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "927000",
+          "on": "41C785B82700006300000041C785B02700006300000041C785BC27000063000000C3",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "59479B",
+          "on": "E8602839009090",
+          "off": "41FF8DB8270000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}

@@ -1,1 +1,52 @@
-{"name":"Ratchet & Clank™","id":"CUSA01047","version":"01.00","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"1023F92","on":"E91963C601909090","off":"C5FA1183C4030000"},{"offset":"2C8A2B0","on":"C5FA1183C4030000BEFFFFFFFF39B3840600000F85D19C39FEE9D49C39FE","off":"000000000000000000000000000000000000000000000000000000000000"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"4D2177","on":"9090909090909090","off":"C5FA118B50040000"}]},{"name":"Max Bolts / Raritanium / Gold Bolts On Pickup","type":"button","memory":[{"offset":"105DC6A","on":"41BF7F96980090909090","off":"41BF7F96980090909090"}]}],"credits":["DeathRGH"]}
+{
+  "name": "Ratchet & Clank",
+  "id": "CUSA01047",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1423F92",
+          "on": "E91963C601909090",
+          "off": "C5FA1183C4030000"
+        },
+        {
+          "offset": "308A2B0",
+          "on": "C5FA1183C4030000BEFFFFFFFF39B3840600000F85D19C39FEE9D49C39FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8D2177",
+          "on": "9090909090909090",
+          "off": "C5FA118B50040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Bolts / Raritanium / Gold Bolts On Pickup",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "145DC6A",
+          "on": "41BF7F96980090909090",
+          "off": "41BF7F96980090909090"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

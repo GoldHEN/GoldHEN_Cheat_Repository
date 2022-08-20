@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil-Survivor 2" Moder="Ali-mk" Cusa="SLES50650" Version="01.00" Process="eboot.bin">
+  <Genres Name="Platformer" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>80801B12BC</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80801B12BD</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-ammo-ak-47">
+    <Cheatline>
+      <Offset>80801B1480</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>80801B1481</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Ammo-Magnum">
+    <Cheatline>
+      <Offset>80801B147E</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>80801B147F</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Ammo-ShotGun">
+    <Cheatline>
+      <Offset>80801B1482</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>80801B1483</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

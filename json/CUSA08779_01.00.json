@@ -1,1 +1,64 @@
-{"name":"Dishonored®: Death of the Outsider™","id":"CUSA08779","version":"01.00","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"32EE820","on":"BEFFFFFFFF3973780F845FEA8CFEC5FA114320E955EA8CFE","off":"000000000000000000000000000000000000000000000000"},{"offset":"1BBD288","on":"E993157301","off":"C5FA114320"}]},{"name":"Infinite Money","type":"checkbox","memory":[{"offset":"18675A2","on":"4589BF7C010000","off":"4501B77C010000"}]},{"name":"Infinite Mana","type":"checkbox","memory":[{"offset":"1C1A966","on":"9090909090","off":"C5FA114320"}]},{"name":"Infinite Items/Ammo","type":"checkbox","memory":[{"offset":"891C3120","on":"90909090","off":"90909090"}]}],"credits":["TLH"]}
+{
+  "name": "Dishonored: Death of the Outsider",
+  "id": "CUSA08779",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "36EE820",
+          "on": "BEFFFFFFFF3973780F845FEA8CFEC5FA114320E955EA8CFE",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1FBD288",
+          "on": "E993157301",
+          "off": "C5FA114320"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C675A2",
+          "on": "4589BF7C010000",
+          "off": "4501B77C010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mana",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "201A966",
+          "on": "9090909090",
+          "off": "C5FA114320"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items/Ammo",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "895C3120",
+          "on": "90909090",
+          "off": "90909090"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

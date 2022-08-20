@@ -1,1 +1,107 @@
-{"name":"Dying Light","id":"CUSA03991","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"A659DE","on":"C5FA1193F4110000","off":"C5FA1183F4110000"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"5FCB31","on":"9090909090","off":"E87AD2EB00"}]},{"name":"Infinite Grappling Stamina","type":"checkbox","memory":[{"offset":"C36FD8","on":"9090909090","off":"C5FA114340"}]},{"name":"Buy To Earn Money","type":"checkbox","memory":[{"offset":"B86DC9","on":"4401F8","off":"4429F8"}]},{"name":"Infinite Weapon Durability","type":"checkbox","memory":[{"offset":"5FCF76","on":"9090909090","off":"E87AD2EB00"}]},{"name":"Infinite Items","type":"checkbox","memory":[{"offset":"5FCB3B","on":"909090","off":"458937"}]},{"name":"Weather Change","type":"checkbox","memory":[{"offset":"10EC12D","on":"C5FA1108","off":"C5FA1100"}]},{"name":"Wall Hack","type":"checkbox","memory":[{"offset":"10EC12D","on":"C5F82912","off":"C5F82902"}]},{"name":"Scramble Menu Text","type":"checkbox","memory":[{"offset":"7FD769A3","on":"909090","off":"668932"}]}],"credits":["TylerMods"]}
+{
+  "name": "Dying Light",
+  "id": "CUSA03991",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E659DE",
+          "on": "C5FA1193F4110000",
+          "off": "C5FA1183F4110000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F87602",
+          "on": "9090909090",
+          "off": "44897C0804"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9FCB31",
+          "on": "9090909090",
+          "off": "E87AD2EB00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapon Durability",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9FCF76",
+          "on": "9090909090",
+          "off": "C5FA114304"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Grappling Hook Stamina",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1036FD8",
+          "on": "9090909090",
+          "off": "C5FA114340"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Part / Item Count",
+      "hint": "This option can be used to duplicate items by enabling it and, dropping items, disabling it and picking the items back up.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9FCB3B",
+          "on": "909090",
+          "off": "458937"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "hint": "Pickup money to max it out.",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "F86B8F",
+          "on": "909090",
+          "off": "909090"
+        }
+      ]
+    },
+    {
+      "name": "Max XP",
+      "hint": "Earn xp for each category once to max it out.",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "EE36BA",
+          "on": "4C01F9",
+          "off": "4C01F9"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

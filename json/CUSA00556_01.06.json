@@ -1,1 +1,23 @@
-{"name":"The Last of Us™ Remastered","id":"CUSA00556","version":"01.06","process":"eboot.bin","mods":[{"name":"Enable Debug Menu","type":"button","memory":[{"offset":"3C75","on":"C681812E000001EB04","off":"C681812E000001EB04"}]}],"credits":["XRaze"]}
+{
+  "name": "The Last Of Us Remastered",
+  "id": "CUSA00556",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Enable Debug Menu",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "403C75",
+          "on": "C681812E000001EB04",
+          "off": "C681812E000001EB04"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "XRaze"
+  ]
+}
