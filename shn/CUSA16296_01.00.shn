@@ -147,7 +147,7 @@
       <ValueOff>0F-84-97-00-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Enemies Don't Move (-MAP 28)">
+  <Cheat Text="Enemies Dont Move (-MAP 28)">
     <Cheatline>
       <Offset>837230</Offset>
       <Section>0</Section>
