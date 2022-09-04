@@ -1,1 +1,1 @@
-{"name":"sifu","id":"CUSA25761","version":"01.11","process":"eboot.bin","mods":[{"name":"inf energy","type":"checkbox","memory":[{"section":"1","offset":"270D641","on":"9090909090909090","off":"C5FA118BB8090000"}]}],"credits":["LMN"]}
+{"name":"sifu","id":"CUSA25761","version":"01.11","process":"eboot.bin","mods":[{"name":"Infinite Energy","type":"checkbox","memory":[{"section":"1","offset":"270D641","on":"9090909090909090","off":"C5FA118BB8090000"}]}],"credits":["LMN"]}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Silpheed-The Lost Planet" Moder="Ali-mk" Cusa="SLES50193" Version="01.11" Process="eboot.bin">
+  <Genres Name="Platformer" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>807FEBF2D4</Offset>
+      <Section>0</Section>
+      <ValueOn>65-53-70</ValueOn>
+      <ValueOff>65-53-70</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>807FEBF32E</Offset>
+      <Section>0</Section>
+      <ValueOn>20-99-2</ValueOn>
+      <ValueOff>20-99-2</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
