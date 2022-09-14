@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="BloodRayne" Moder="Ali-mk" Cusa="SLUS20461" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>808068CC37</Offset>
+      <Section>0</Section>
+      <ValueOn>55</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-AMMO-Lightest-Guns">
+    <Cheatline>
+      <Offset>80805D04F4</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>80805D04F5</Offset>
+      <Section>0</Section>
+      <ValueOn>55</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-AMMO-Heaviest-Guns">
+    <Cheatline>
+      <Offset>80805CFF34</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>80805CFF35</Offset>
+      <Section>0</Section>
+      <ValueOn>55</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-AMMO-Special">
+    <Cheatline>
+      <Offset>80805D2F0C</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>80805D2F0D</Offset>
+      <Section>0</Section>
+      <ValueOn>55</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

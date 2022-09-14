@@ -1,1 +1,93 @@
-{"name":"Devil May Cry® HD Collection","id":"CUSA09407","version":"01.00","process":"dmc3.elf","mods":[{"name":"Infinite Health/1 Hit Kill (Master Code DMC3)","type":"checkbox","memory":[{"offset":"7FC5BA80","on":"4181FD002AB400750DC5FA115208E977E541800F57D2C5FA115208E96AE54180","off":"0000000000000000000000000000000000000000000000000000000000000000"},{"offset":"7A005","on":"E9761ABE7F","off":"C5FA115208"}]},{"name":"Infinite Health (DMC3)","type":"checkbox","memory":[{"section":"4","offset":"5BA89","on":"C5FA105208","off":"C5FA115208"}]},{"name":"1 Hit Kill (DMC3)","type":"checkbox","memory":[{"section":"4","offset":"5BA87","on":"750A","off":"750D"}]},{"name":"Infinite Devil Trigger (DMC3)","type":"checkbox","memory":[{"offset":"7FC5BEC0","on":"C787783E000000401C46E9E9905E80","off":"000000000000000000000000000000"},{"offset":"244FB0","on":"E90B6FA17F909090","off":"C5FA1187783E0000"}]},{"name":"Max/Infinite Red Orbs (DMC3)","type":"checkbox","memory":[{"offset":"7FC5BEA0","on":"8B0482C741383F420F00E9C5E95A80","off":"000000000000000000000000000000"},{"offset":"20A86E","on":"E92D16A57F90","off":"8B0482014138"},{"offset":"7FC5B970","on":"85C0C741083F420F00E9F2B16B80","off":"0000000000000000000000000000"},{"offset":"316B6B","on":"E9004E947F","off":"85C0895108"}]}],"credits":["Celogamez"]}
+{
+    "name": "Devil May Cry® HD Collection (3)",
+    "id": "CUSA09407",
+    "version": "01.00",
+    "process": "dmc3.elf",
+    "mods": [
+        {
+            "name": "Infinite Health/1 Hit Kill (Master Code DMC3)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "7FC5BA80",
+                    "on": "4181FD002AB400750DC5FA115208E977E541800F57D2C5FA115208E96AE54180",
+                    "off": "0000000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "7A005",
+                    "on": "E9761ABE7F",
+                    "off": "C5FA115208"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Health (DMC3)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "section": "4",
+                    "offset": "5BA89",
+                    "on": "C5FA105208",
+                    "off": "C5FA115208"
+                }
+            ]
+        },
+        {
+            "name": "1 Hit Kill (DMC3)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "section": "4",
+                    "offset": "5BA87",
+                    "on": "750A",
+                    "off": "750D"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Devil Trigger (DMC3)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "7FC5BEC0",
+                    "on": "C787783E000000401C46E9E9905E80",
+                    "off": "000000000000000000000000000000"
+                },
+                {
+                    "offset": "244FB0",
+                    "on": "E90B6FA17F909090",
+                    "off": "C5FA1187783E0000"
+                }
+            ]
+        },
+        {
+            "name": "Max/Infinite Red Orbs (DMC3)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "7FC5BEA0",
+                    "on": "8B0482C741383F420F00E9C5E95A80",
+                    "off": "000000000000000000000000000000"
+                },
+                {
+                    "offset": "20A86E",
+                    "on": "E92D16A57F90",
+                    "off": "8B0482014138"
+                },
+                {
+                    "offset": "7FC5B970",
+                    "on": "85C0C741083F420F00E9F2B16B80",
+                    "off": "0000000000000000000000000000"
+                },
+                {
+                    "offset": "316B6B",
+                    "on": "E9004E947F",
+                    "off": "85C0895108"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "Celogamez"
+    ]
+}

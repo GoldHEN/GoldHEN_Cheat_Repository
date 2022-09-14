@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="BloodRayne-2" Moder="Ali-mk" Cusa="SLUS20862" Version="01.11" Process="eboot.bin">
+  <Genres Name="Platformer" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>808008DCB8</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-01</ValueOn>
+      <ValueOff>00-00-00-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlimited-Rage">
+    <Cheatline>
+      <Offset>807FD3844C</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-01</ValueOn>
+      <ValueOff>00-00-00-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlimited-Rage">
+    <Cheatline>
+      <Offset>808008DD00</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-01</ValueOn>
+      <ValueOff>00-00-00-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Debug-Mode/All-Cheats">
+    <Cheatline>
+      <Offset>808015FA0C</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-01</ValueOn>
+      <ValueOff>00-00-00-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
