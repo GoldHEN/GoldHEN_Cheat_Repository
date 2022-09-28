@@ -1,0 +1,1 @@
+{"name":"Assassin’s Creed® Chronicles: Trilogy Pack","id":"CUSA03440","version":"01.00","process":"eboot.bin","mods":[{"name":"Infnite Items use (have 1 at least)","type":"checkbox","memory":[{"offset":"7FC4EA20","on":"C683F000000002E95B42D180","off":"000000000000000000000000"},{"offset":"962C80","on":"E99BBD2E7F9090","off":"4489B3F0000000"}]}],"credits":["Wander FW9.00"]}
