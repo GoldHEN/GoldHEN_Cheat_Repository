@@ -1,0 +1,1 @@
+{"name":"Detroit: Become Human™","id":"CUSA00717","version":"01.08","process":"eboot.bin","mods":[{"name":"Max Bonuspoints ( Unlock all Extras )","type":"checkbox","memory":[{"offset":"1B33800","on":"4889DEC7000F2700008B10E94F5FC3FE","off":"00000000000000000000000000000000"},{"offset":"76975A","on":"E9A1A03C01","off":"4889DE8B10"}]}],"credits":["Reddevil82"]}
