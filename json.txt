@@ -430,6 +430,7 @@ CUSA11712_01.02.json=SENRAN KAGURA Burst Re:Newal
 CUSA13228_01.06.json=Gene Rain : Wind Tower
 CUSA27578_01.12.json=Blaster Master Zero 3
 CUSA05986_01.10.json=Need for Speed™ Payback
+CUSA05786_01.04_kingdom2.elf.json=KINGDOM HEARTS - HD 1.5+2.5 ReMIX -
 CUSA15361_01.01.json=Yakuza 4
 CUSA02290_01.26.json=Call of Duty®: Black Ops III
 CUSA18534_05.00_2.json=Assassins Creed® Valhalla
