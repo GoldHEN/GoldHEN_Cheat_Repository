@@ -1,0 +1,1 @@
+{"name":"GRID Legends","id":"CUSA28261","version":"03.11","process":"eboot.bin","mods":[{"name":"Max Cash (After Winning the Race)","type":"checkbox","memory":[{"offset":"2603B90","on":"C780400100007F969800E9BC4E2CFE","off":"000000000000000000000000000000"},{"offset":"8C8A55","on":"E936B1D30190","off":"899840010000"}]}],"credits":["Wander FW9.00"]}
