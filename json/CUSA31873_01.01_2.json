@@ -1,0 +1,1 @@
+{"name":"FIFA 23","id":"CUSA31873","version":"01.01","process":"eboot.bin","mods":[{"name":"Max Fund","type":"checkbox","memory":[{"offset":"B800000","on":"48C1FA20480110C700FFC99A3BE91AA2E9FD","off":"000000000000000000000000000000000000"},{"offset":"969A225","on":"E9D65D16029090","off":"48C1FA20480110"}]}],"credits":["Veronika1"]}
