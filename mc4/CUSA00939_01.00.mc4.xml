@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00939" Game="Saints Row Gat Outa Hell" Moder="GoldZ" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Cheat Control="Toggel" Text="HEALTH">
+
+
+</Cheat>
+<Cheat Control="Toggel" Text="CASH">
+
+
+</Cheat>
+<Cheat Control="Toggel" Text="ORBS">
+
+
+</Cheat>
+<Cheat Control="Toggel" Text="XP LEVEL">
+
+
+</Cheat>
+</Trainer>

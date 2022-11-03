@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00938" Game="Homefront:The Revolution" Moder="Fullcodes" Process="eboot.bin" Version="01.12" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Cheat Control="Toggel" Text="Infinite Player Health">
+
+
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Item and Ammo">
+
+</Cheat>
+<Cheat Control="Toggel" Text="No Reload">
+
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Hack Time">
+
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Money and Unlock Points Usage">
+
+</Cheat>
+</Trainer>

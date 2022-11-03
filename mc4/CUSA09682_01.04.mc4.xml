@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA09682" Game="Kingdom Come: Deliverance" Moder="Rizla" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Infinite Health">
+
+
+</Cheat>
+<Cheat Text="Infinite Stamina">
+
+
+</Cheat>
+<Cheat Text="Infinite Energy">
+
+
+</Cheat>
+<Cheat Text="Infinite Nourishment">
+
+
+</Cheat>
+<Cheat Text="0 Weight">
+
+</Cheat>
+<Cheat Text="Max Money On Buy/Sell">
+
+
+</Cheat>
+<Cheat Text="x2 Money/Items on Spend/Drop">
+
+</Cheat>
+</Trainer>

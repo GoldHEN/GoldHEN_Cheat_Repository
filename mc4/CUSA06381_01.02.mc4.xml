@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA06381" Game="Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto" Moder="Weysincha" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Fighting"/>
+<Items/>
+<Cheat Text="Godmode Left Player">
+
+
+</Cheat>
+<Cheat Text="Infinite Chakra Left Player">
+
+
+</Cheat>
+<Cheat Text="Infinite Money / Ryo">
+
+
+
+
+</Cheat>
+</Trainer>

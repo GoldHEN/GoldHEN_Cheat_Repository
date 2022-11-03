@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00103" Game="Mad Max" Moder="hejran7" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<StartUP Text="Master Code 1">
+
+
+</StartUP>
+<StartUP Text="Master Code 2">
+
+
+</StartUP>
+<Cheat Description="" Text="Max Inf HP">
+
+</Cheat>
+<Cheat Description="" Text="Max Fury R3+L2 On R3+R2 Off">
+
+
+</Cheat>
+<Cheat Description="" Text="Max Inf Fury">
+
+
+</Cheat>
+<Cheat Description="" Text="Max Inf Ammo">
+
+
+
+
+
+
+</Cheat>
+<Cheat Description="" Text="No Reload">
+
+
+</Cheat>
+<Cheat Description="" Text="Max Inf Canteen">
+
+</Cheat>
+<Cheat Description="" Text="Max Inf Fuel">
+
+</Cheat>
+<Cheat Description="" Text="Max Inf Scraps">
+
+</Cheat>
+<Cheat Description="" Text="Inf Car Health">
+
+
+</Cheat>
+<Cheat Description="" Text="Inf Griffa Tokens x1">
+
+
+</Cheat>
+<Cheat Description="" Text="Inf Griffa Tokens x5">
+
+
+</Cheat>
+<Cheat Description="" Text="Inf Enemy HP">
+
+</Cheat>
+</Trainer>

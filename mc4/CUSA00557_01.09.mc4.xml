@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00557" Game="The Last Of Us" Moder="Cosmaty" Process="eboot.bin" Version="01.09" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="RPG"/>
+<Items/>
+<StartUP Text="Code">
+
+
+</StartUP>
+<Cheat Text="God Mode">
+
+</Cheat>
+<Cheat Text="Easy Kill">
+
+</Cheat>
+<Cheat Text="Inf Ammo">
+
+</Cheat>
+<Cheat Text="Inf Item">
+
+
+
+
+</Cheat>
+<Cheat Text="Debug Mode">
+
+
+</Cheat>
+</Trainer>

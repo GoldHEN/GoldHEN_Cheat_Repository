@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA05469" Game="Digimon Next Order" Moder="Molly" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Max Stats &amp;quot;After Training&amp;quot;">
+
+
+
+
+
+
+
+
+
+
+
+
+</Cheat>
+<Cheat Text="Max Bits">
+
+
+</Cheat>
+<Cheat Text="Quick Level Up Tamer">
+
+
+</Cheat>
+<Cheat Text="Max TP &amp;quot;After Use&amp;quot;">
+
+
+</Cheat>
+<Cheat Text="Max Friendship">
+
+
+
+
+</Cheat>
+<Cheat Text="Max Item &amp;quot;Open Storage Move 1 Item&amp;quot;">
+
+
+</Cheat>
+</Trainer>

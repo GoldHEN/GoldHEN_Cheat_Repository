@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA06014" Game="Tekken 7" Moder="TLH" Process="eboot.bin" Version="01.12" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Fighting"/>
+<Items/>
+<StartUP Text="Health" description="">
+
+
+
+</StartUP>
+<Cheat Description="" Text="Infinite Money">
+
+
+
+</Cheat>
+<Cheat Description="" Text="Player 1: Infinite Health">
+
+</Cheat>
+<Cheat Description="" Text="Player 2: Infinite Health">
+
+</Cheat>
+<Cheat Description="" Text="Player 1: 1-Hit K.O.">
+
+</Cheat>
+<Cheat Description="" Text="Player 2: 1-Hit K.O.">
+
+</Cheat>
+</Trainer>

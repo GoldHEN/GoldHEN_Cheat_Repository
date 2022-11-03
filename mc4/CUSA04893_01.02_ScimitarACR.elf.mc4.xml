@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA04893" Game="Assassin\'s Creed: The Ezio Collection [Assasins Creed Revelations]" Moder="TLH" Process="ScimitarACR.elf" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Educational"/>
+<Genres Name="RPG"/>
+<Cheat Description="" Text="Infinite Health">
+
+
+
+
+</Cheat>
+<Cheat Description="" Text="Infinite Money/Items">
+
+
+</Cheat>
+</Trainer>

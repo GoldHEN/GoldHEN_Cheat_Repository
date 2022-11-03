@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA11687" Game="Extinction" Moder="Rizla" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health">
+
+
+</Cheat>
+<Cheat Text="Infinite Rune Energy">
+
+
+</Cheat>
+<Cheat Text="Max Skill points">
+
+
+</Cheat>
+<Cheat Text="Earn SP on Spend">
+
+</Cheat>
+<Cheat Text="Freeze Mission Timer">
+
+</Cheat>
+</Trainer>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA02871" Game="Shadow of the Beast" Moder="Togaman Rizla" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Inf Health">
+
+</Cheat>
+<Cheat Text="Inf Blood">
+
+
+</Cheat>
+<Cheat Text="Inf Wrath of Aarbron">
+
+</Cheat>
+<Cheat Text="Inf Mana (Enable only in Wisdom of Shadows)">
+
+
+</Cheat>
+<Cheat Text="Inf Elixir">
+
+
+</Cheat>
+<Cheat Text="Inf Shadow Stone">
+
+</Cheat>
+</Trainer>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA01135" Game="Trine Enchanted Edition" Moder="Vampirexx" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Arcade"/>
+<Genres Name="Platformer"/>
+<Genres Name="Puzzele"/>
+<Items/>
+<Cheat Description="God Mode" Text="God Mode">
+
+
+</Cheat>
+<Cheat Description="Inf Mana" Text="Inf Mana">
+
+</Cheat>
+<Cheat Description="Easy Level Up (activate pick a potion then deactivate)" Text="Easy Level Up (activate pick a potion then deactivate)">
+
+
+</Cheat>
+</Trainer>

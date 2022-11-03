@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA01875" Game="Final Fantasy 7" Moder="Molly" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Quick Level Up">
+
+
+</Cheat>
+<Cheat Text="Max Ap ~After Battle~">
+
+
+</Cheat>
+<Cheat Text="Max Money ~After Buy or Sell~">
+
+
+
+
+
+
+</Cheat>
+<Cheat Text="Max Items/Accessories ~Buy 1 Potion~ ~Do Not Use With Have All Weapons~">
+
+
+</Cheat>
+<Cheat Text="Have All Weapons ~Buy 1 Potion~ ~Do Not Use With Max Items~">
+
+
+</Cheat>
+<Cheat Text="Save Anytime ~Leave Any Area~">
+
+
+</Cheat>
+<Cheat Text="Have Sephiroth In Slot 3 ~Swap Character From Slot 2 To Slot 3~">
+
+
+</Cheat>
+<Cheat Text="Max Stats ~After Level Up~">
+
+
+
+
+
+
+</Cheat>
+<Cheat Text="Max Hp//MP ~After Level Up~">
+
+
+</Cheat>
+<Cheat Text="Unlock Limit Breaks ~Select Limit Level Go Into Battle To Unlock~ ~2 battles~">
+
+
+</Cheat>
+<Cheat Text="Always Have Limit break ~In Battle~">
+
+
+</Cheat>
+<Cheat Text="Have All Materia ~Buy One Materia~">
+
+
+</Cheat>
+</Trainer>

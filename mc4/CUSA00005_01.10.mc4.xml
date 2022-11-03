@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00005" Game="Resogun" Moder="Weysincha" Process="eboot.bin" Version="01.10" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Arcade"/>
+<Cheat Text="Inf Lives ">
+
+
+</Cheat>
+<Cheat Text="Inf Bombs">
+
+
+</Cheat>
+<Cheat Text="Inf Boost">
+
+</Cheat>
+<Cheat Text="Instant laser by using">
+
+</Cheat>
+<Cheat Text="Full laser bar by 1 point">
+
+</Cheat>
+</Trainer>

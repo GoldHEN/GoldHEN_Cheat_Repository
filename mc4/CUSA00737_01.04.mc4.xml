@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00737" Game="Terraria" Moder="Molly+hejran7" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Description="" Text="Inf HP">
+
+
+
+</Cheat>
+<Cheat Description="" Text="Inf Mana">
+
+</Cheat>
+<Cheat Description="" Text="Inf Oxygen">
+
+</Cheat>
+<Cheat Description="" Text="Max Items On Take">
+
+</Cheat>
+<Cheat Description="" Text="One Hit Kill">
+
+
+
+
+</Cheat>
+<Cheat Description="" Text="Freeze Timer">
+
+</Cheat>
+<Cheat Description="" Text="Switch to Day Time">
+
+
+</Cheat>
+<Cheat Description="" Text="Switch to Night Time">
+
+
+</Cheat>
+<Cheat Description="" Text="Hide Background">
+
+</Cheat>
+<Cheat Description="" Text="Freeze The Sun">
+
+</Cheat>
+</Trainer>

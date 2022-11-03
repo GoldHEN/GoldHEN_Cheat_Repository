@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA10299" Game="de blob 2" Moder="Weysincha" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Inf Color Points">
+
+
+</Cheat>
+<Cheat Text="Max Color Score">
+
+
+</Cheat>
+<Cheat Text="Freeze Time">
+
+</Cheat>
+</Trainer>

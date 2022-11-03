@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA02231" Game="Dishonored (Definitive Edition)" Moder="TLH" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Fighting"/>
+<Genres Name="RPG"/>
+<Items/>
+<StartUP Text="Health Pointer" description="">
+
+
+</StartUP>
+<StartUP Text="Health / 1 Hit" description="">
+
+
+</StartUP>
+<Cheat Description="" Text="Infinite Health">
+
+
+</Cheat>
+<Cheat Description="" Text="1 Hit Kill">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Mana">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Breath">
+
+</Cheat>
+<Cheat Description="" Text="Bottomless Clip">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Ammo">
+
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Items">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Money">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Runes">
+
+</Cheat>
+<Cheat Description="" Text="Stealth">
+
+
+</Cheat>
+<Cheat Description="" Text="Infinite Dark Vision">
+
+</Cheat>
+<Cheat Description="" Text="No Cooldown: Blink">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Possession">
+
+</Cheat>
+<Cheat Description="" Text="Instant Choke">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Adrenaline">
+
+
+
+
+</Cheat>
+<Cheat Description="" Text="Wheels Instant Turn">
+
+
+</Cheat>
+<Cheat Description="" Text="Safe always Open">
+
+
+</Cheat>
+<Cheat Description="" Text="Perfect Stats">
+
+
+</Cheat>
+</Trainer>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA01644" Game="Arcania: The Complete Tale" Moder="Rizla" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="RPG"/>
+<Items/>
+<StartUP Text="MasterCode">
+
+
+</StartUP>
+<Cheat Text="Infinite Health">
+
+</Cheat>
+<Cheat Text="Infinite Stamina">
+
+</Cheat>
+<Cheat Text="Infinite Mana">
+
+</Cheat>
+<Cheat Text="Mana OHK (Works in Tutorial)">
+
+
+</Cheat>
+<Cheat Text="Infinite Items">
+
+</Cheat>
+<Cheat Text="Max Gold">
+
+
+</Cheat>
+<Cheat Text="Easy Level Up">
+
+
+</Cheat>
+<Cheat Text="Infinite Skill Points">
+
+
+</Cheat>
+<Cheat Text="Infinite Crafting">
+
+</Cheat>
+<Cheat Text="Always Move Faster (Rune of the Four Winds)">
+
+</Cheat>
+</Trainer>

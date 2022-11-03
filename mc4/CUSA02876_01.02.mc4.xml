@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA02876" Game="Aeterno Blade" Moder="Rizla" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health">
+
+
+
+
+</Cheat>
+<Cheat Text="Infinite MP">
+
+
+
+
+
+
+
+
+</Cheat>
+<Cheat Text="Infinite UP on Gain">
+
+
+
+
+</Cheat>
+<Cheat Text="One Hit Kill">
+
+
+</Cheat>
+<Cheat Text="Max Orbs on Spend">
+
+
+</Cheat>
+<Cheat Text="Max Relics on Pickup/Sell/Use">
+
+
+</Cheat>
+</Trainer>

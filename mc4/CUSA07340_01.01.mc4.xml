@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA07340" Game="Dragon\'s Dogma: Dark Arisen" Moder="Rizla" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Infinite Health">
+
+
+</Cheat>
+<Cheat Text="Infinite Pawn Health">
+
+
+</Cheat>
+<Cheat Text="Infinite Stamina">
+
+
+</Cheat>
+<Cheat Text="Infinite Pawn Stamina">
+
+
+</Cheat>
+<Cheat Text="Player/Pawn Level Up on XP Gain">
+
+
+</Cheat>
+<Cheat Text="One/Two Hit Kill">
+
+
+</Cheat>
+<Cheat Text="Player/Pawn 0 Weight">
+
+
+</Cheat>
+<Cheat Text="Max Items on Use">
+
+
+</Cheat>
+<Cheat Text="x2 Items on Use">
+
+</Cheat>
+<Cheat Text="Max RC on Spend">
+
+
+</Cheat>
+<Cheat Text="x2 RC on Spend">
+
+</Cheat>
+<Cheat Text="Max Gold on Spend">
+
+
+</Cheat>
+<Cheat Text="x2 Gold on Spend">
+
+</Cheat>
+<Cheat Text="Player/Pawn Max Vocation Rank on Gain">
+
+
+</Cheat>
+<Cheat Text="Max Discipline on Spend">
+
+
+</Cheat>
+<Cheat Text="x2 Discipline on Spend">
+
+</Cheat>
+</Trainer>

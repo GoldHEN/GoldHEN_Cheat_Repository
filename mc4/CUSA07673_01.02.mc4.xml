@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA07673" Game="Raiden V Directors Cut " Moder="Molly" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="Infinite bombs">
+
+
+</Cheat>
+<Cheat Text="Max Player Score">
+
+
+</Cheat>
+<Cheat Text="Max Stage Score">
+
+
+</Cheat>
+<Cheat Text="Max Cheer Call Gauge">
+
+
+
+
+</Cheat>
+<Cheat Text="Godmode">
+
+
+</Cheat>
+</Trainer>

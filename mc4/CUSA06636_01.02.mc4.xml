@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA06636" Game="Syndrome" Moder="Vampirexx" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="FPS"/>
+<Genres Name="Horror"/>
+<Items/>
+<Cheat Description="God Mode1" Text="God Mode">
+
+
+</Cheat>
+<Cheat Description="Inf Stamina" Text="Inf Stamina">
+
+</Cheat>
+<Cheat Description="Inf Ammo Gun" Text="Inf Ammo Gun">
+
+</Cheat>
+<Cheat Description="Inf Ammo ShotGun" Text="Inf Ammo ShotGun">
+
+</Cheat>
+<Cheat Description="Inf Ammo Bazooka" Text="Inf Ammo Bazooka">
+
+</Cheat>
+</Trainer>

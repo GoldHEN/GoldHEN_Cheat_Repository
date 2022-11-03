@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA07651" Game="Gundam Breaker 3 Break Edition" Moder="Weysincha" Process="eboot.bin" Version="1.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Fighting"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="Inf Boost">
+
+
+</Cheat>
+<Cheat Text="Inf Health">
+
+
+</Cheat>
+<Cheat Text="Inf Max Ace points">
+
+</Cheat>
+</Trainer>

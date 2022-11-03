@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA05533" Game="The King of Fighters XIV" Moder="Vampirexx" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Arcade"/>
+<Genres Name="Fighting"/>
+<Items/>
+<Cheat Description="Inf Health 1P" Text="Inf Health 1P">
+
+
+</Cheat>
+<Cheat Description="Max Inf Power Bar on Hit 1P" Text="Max Inf Power Bar on Hit 1P">
+
+
+</Cheat>
+<Cheat Description="Inf SuperMode 1P (Press R3 to deplete)" Text="Inf SuperMode 1P (Press R3 to deplete)">
+
+
+</Cheat>
+</Trainer>

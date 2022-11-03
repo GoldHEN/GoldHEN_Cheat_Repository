@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00937" Game="Final Fantasy Type 0 HD" Moder="Weysincha" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Godmode">
+
+
+</Cheat>
+<Cheat Text="Infinite MP">
+
+
+</Cheat>
+<Cheat Text="Infinite AP">
+
+
+</Cheat>
+<Cheat Text="Infinite Money/ Gil/ VP">
+
+
+</Cheat>
+</Trainer>

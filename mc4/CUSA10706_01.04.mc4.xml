@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA10706" Game="Yakuza Kiwami 2" Moder="TLH" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Arcade"/>
+<Genres Name="Fighting"/>
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Description="" Text="Infinite Health">
+
+</Cheat>
+<Cheat Description="" Text="1 Hit Kill">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Heat">
+
+</Cheat>
+<Cheat Description="" Text="Max Money, Skillpoints, Easy Completition">
+
+</Cheat>
+<Cheat Description="" Text="Max Items">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Items">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Weapon Durability">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Enhancements">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Challenge Time">
+
+</Cheat>
+<Cheat Description="" Text="Golf: Easy Score">
+
+
+
+
+</Cheat>
+<Cheat Description="" Text="Golf: Perfect Swing">
+
+</Cheat>
+<Cheat Description="" Text="Golf: Slowdown">
+
+
+</Cheat>
+<Cheat Description="" Text="Casino: Max Wooden Tags">
+
+</Cheat>
+<Cheat Description="" Text="Koi-Koi: Max Points">
+
+
+</Cheat>
+</Trainer>

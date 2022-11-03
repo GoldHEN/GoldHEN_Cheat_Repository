@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA04630" Game="Grand Kingdom" Moder="Molly" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Max Money ">
+
+
+
+
+</Cheat>
+<Cheat Text="Max Action Points">
+
+
+</Cheat>
+<Cheat Text="Have All Items ~After Buy No Weapos Or Gear~">
+
+
+</Cheat>
+<Cheat Text="Max Tp">
+
+
+
+
+</Cheat>
+<Cheat Text="Max Morale">
+
+
+</Cheat>
+<Cheat Text="Inf Bonus Points">
+
+
+</Cheat>
+<Cheat Text="Quick Level Up">
+
+
+</Cheat>
+</Trainer>

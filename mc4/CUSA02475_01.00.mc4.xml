@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA02475" Game="Matterfall" Moder="Vampirexx" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Arcade"/>
+<Genres Name="Platformer"/>
+<Items/>
+<Cheat Description="" Text="Max Score after 1 Kill (Do not use with other cheats)">
+
+
+</Cheat>
+<Cheat Description="" Text="Godmode">
+
+</Cheat>
+<Cheat Text="Max Overcharge on Pickup">
+
+</Cheat>
+<Cheat Description="" Text="Inf Overcharge Keep Pressin UP to deplete">
+
+
+</Cheat>
+<Cheat Description="" Text="Inf Special Weapons">
+
+</Cheat>
+</Trainer>

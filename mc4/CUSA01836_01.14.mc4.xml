@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA01836" Game="Deus Ex: Mankind Divided" Moder="Rizla" Process="eboot.bin" Version="01.14" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Infinite Health/Energy">
+
+
+</Cheat>
+<Cheat Text="Infinite Health Boost">
+
+
+
+</Cheat>
+<Cheat Text="Inf/Max Energy Meter on Use">
+
+
+</Cheat>
+<Cheat Text="Inf Ammo/Items/Parts on Pickup/Use">
+
+
+</Cheat>
+<Cheat Text="Stealth">
+
+
+
+
+</Cheat>
+<Cheat Text="Quick Praxis/Max XP">
+
+
+</Cheat>
+<Cheat Text="Infinite Praxis">
+
+</Cheat>
+<Cheat Text="Max Credits on Buy/Sell">
+
+
+</Cheat>
+<Cheat Text="Infinite Hacking Attempts">
+
+
+</Cheat>
+<Cheat Text="Multi-Tool Instant Hack (Use on Laptops)">
+
+
+</Cheat>
+</Trainer>

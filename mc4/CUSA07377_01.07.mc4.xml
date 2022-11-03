@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA07377" Game="Wolfenstein II: The New Colossus" Moder="Rizla" Process="eboot.bin" Version="01.07" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="FPS"/>
+<Items/>
+<Cheat Text="Infinite Health">
+
+
+</Cheat>
+<Cheat Text="Infinite Armour">
+
+
+</Cheat>
+<Cheat Text="Infinite Ammo">
+
+</Cheat>
+<Cheat Text="No Reload">
+
+</Cheat>
+<Cheat Text="Infinite Throwables">
+
+
+</Cheat>
+<Cheat Text="One Hit Kill">
+
+
+</Cheat>
+<Cheat Text="Max Enigma Codes/Upgrades on Use">
+
+
+</Cheat>
+<Cheat Text="Venus Suit Never Overheats">
+
+
+</Cheat>
+<Cheat Text="Infinite Health (3D Minigame)">
+
+
+</Cheat>
+<Cheat Text="Infinite Lives (3D Minigame)">
+
+</Cheat>
+<Cheat Text="Infinite Ammo (3D Minigame)">
+
+</Cheat>
+<Cheat Text="Max Score on Gain (3D Minigame)">
+
+
+
+
+</Cheat>
+</Trainer>

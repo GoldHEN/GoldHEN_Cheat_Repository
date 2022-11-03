@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA02429" Game="Battlefield 1" Moder="Fullcodes" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Cheat Control="Toggel" Text="No Reload">
+
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Ammo and Grenade Usage">
+
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Player Health">
+
+</Cheat>
+<Cheat>
+
+</Cheat>
+</Trainer>

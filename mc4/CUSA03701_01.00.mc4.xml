@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA03701" Game="fallout 4" Moder="cjwine" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="skill inf">
+
+
+</Cheat>
+<Cheat Text="max level(god mode)when u get xp">
+
+
+</Cheat>
+<Cheat Text="inf ammo">
+
+</Cheat>
+<Cheat Text="x999999 item each use and deactivate">
+
+
+</Cheat>
+<Cheat Text="x2 Item Each use (Use and deactivate)">
+
+</Cheat>
+</Trainer>

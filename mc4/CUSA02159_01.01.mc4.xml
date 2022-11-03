@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA02159" Game="Onechanbara Z2: Chaos" Moder="GamerX2" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Cheat Control="Button" Text="Max Money and Skill points">
+
+</Cheat>
+<Cheat Control="Button" Text="Max Cure Gem">
+
+</Cheat>
+<Cheat Control="Button" Text="Max Goddess Statue Shard">
+
+</Cheat>
+<Cheat Control="Button" Text="Max Power Gem">
+
+</Cheat>
+</Trainer>

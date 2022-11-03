@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA09171" Game="Resident Evil 2" Moder="TLH, hejran7, KevinTamvan" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Fighting"/>
+<Genres Name="Shooter"/>
+<Items/>
+<StartUP Text="SpeedHack Code">
+
+
+</StartUP>
+<Cheat Description="" Text="Infinite Health">
+
+
+</Cheat>
+<Cheat Description="" Text="1 Hit Kills">
+
+</Cheat>
+<Cheat Description="" Text="Bottomless Clip">
+
+</Cheat>
+<Cheat Description="" Text="Max Clip Ammo">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Ammo">
+
+
+</Cheat>
+<Cheat Description="" Text="Max Ammo on Reload">
+
+</Cheat>
+<Cheat Description="" Text="Max Items on Move (Storage)">
+
+
+</Cheat>
+<Cheat Description="" Text="Max Items on Combine/Get">
+
+</Cheat>
+<Cheat Description="" Text="Max Items on Get">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Items">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Items (Dupe into Storage)">
+
+</Cheat>
+<Cheat Description="" Text="Items swap 1st Aid Spray on Get or Move">
+
+
+</Cheat>
+<Cheat Description="" Text="Short Animationtime for Aiming">
+
+</Cheat>
+<Cheat Description="" Text="Instant Gun-Focus">
+
+
+
+</Cheat>
+<Cheat Text="Zombies Can't Grab Player">
+
+</Cheat>
+<Cheat Description="" Text="20 Inventory Slots">
+
+
+</Cheat>
+<Cheat Description="" Text="Speed Hack">
+
+</Cheat>
+</Trainer>

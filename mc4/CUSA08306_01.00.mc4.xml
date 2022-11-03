@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA08306" Game="One Piece - Unlimited World (Red Deluxe Edition)" Moder="TLH" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Arcade"/>
+<Genres Name="Fighting"/>
+<Genres Name="RPG"/>
+<Items/>
+<StartUP Text="Health + 1 Hit Kills" description="">
+
+
+</StartUP>
+<Cheat Description="" Text="Infinite Health">
+
+</Cheat>
+<Cheat Description="" Text="1 Hit Kills">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Gauge">
+
+</Cheat>
+<Cheat Description="" Text="Max Items (Storage)">
+
+
+</Cheat>
+<Cheat Description="" Text="Max Items (Inventory)">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Items (Sale)">
+
+</Cheat>
+<Cheat Description="" Text="Max Berry on Get">
+
+
+</Cheat>
+<Cheat Description="" Text="Infinite Berry">
+
+</Cheat>
+<Cheat Description="" Text="Max Pirate Points">
+
+</Cheat>
+</Trainer>

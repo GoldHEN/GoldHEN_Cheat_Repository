@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA01837" Game="Zombie Army Trilogy" Moder="Rizla" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="Infinite Health">
+
+
+</Cheat>
+<Cheat Text="One Hit Kill">
+
+
+</Cheat>
+<Cheat Text="Infinite Ammo">
+
+</Cheat>
+<Cheat Text="No Reload">
+
+
+</Cheat>
+<Cheat Text="Infinite Equipment">
+
+
+</Cheat>
+<Cheat Text="No Spread">
+
+
+
+
+</Cheat>
+<Cheat Text="Infinite Focus">
+
+
+
+
+
+
+</Cheat>
+</Trainer>

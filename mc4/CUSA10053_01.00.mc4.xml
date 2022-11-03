@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA10053" Game="Hokuto ga Gotoku" Moder="Vampirexx" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Arcade"/>
+<Genres Name="Fighting"/>
+<Genres Name="Racing"/>
+<Items/>
+<Cheat Description="God Mode" Text="God Mode">
+
+
+</Cheat>
+<Cheat Description="1 hit Max Aura" Text="1 hit Max Aura">
+
+
+</Cheat>
+<Cheat Description="Inf Aura" Text="Inf Aura">
+
+</Cheat>
+<Cheat Description="Inf Hokuto Mode" Text="Inf Hokuto Mode">
+
+</Cheat>
+<Cheat Description="Max Skills Points after spent" Text="Max Skills Points after spent">
+
+</Cheat>
+<Cheat Description="Max Fiches and Money after spent" Text="Max Fiches and Money after spent">
+
+</Cheat>
+<Cheat Description="Inf items" Text="Inf items">
+
+</Cheat>
+<Cheat Description="Inf Car Boost" Text="Inf Car Boost">
+
+</Cheat>
+<Cheat Description="Inf Car Durability" Text="Inf Car Durability">
+
+</Cheat>
+<Cheat Description="Inf Car Fuel" Text="Inf Car Fuel">
+
+</Cheat>
+<Cheat Description="Inf Talismans Time" Text="Inf Talismans Time">
+
+</Cheat>
+</Trainer>

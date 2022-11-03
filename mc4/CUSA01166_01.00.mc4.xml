@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA01166" Game="Akibas Trip: Undead and Undressed" Moder="TLH" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Cheat Control="Toggel" Text="Infinite Money">
+
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Exp">
+
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Unison Strip Gauge">
+
+
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Strip Skill Exp">
+
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Weapon Enhancement">
+
+
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Gear Enhancement">
+
+
+</Cheat>
+</Trainer>

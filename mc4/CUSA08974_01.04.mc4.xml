@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA08974" Game="The Evil Within 2 " Moder="Talixme" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Cheat Control="Toggel" Text="Godmode">
+
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Resistance">
+
+</Cheat>
+<Cheat Control="Toggel" Text="All Items To The Max">
+
+</Cheat>
+</Trainer>

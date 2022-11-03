@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA09052" Game="Beast Quest" Moder="Vampirexx-" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Godmode">
+
+
+</Cheat>
+<Cheat Text="Inf Brave Power Meter">
+
+</Cheat>
+<Cheat Text="Inf PA Orbs">
+
+</Cheat>
+<Cheat Text="Inf Gold">
+
+</Cheat>
+<Cheat Text="Inf Health Potions">
+
+</Cheat>
+</Trainer>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA05087" Game="Earth\'s Dawn" Moder="Rizla" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health">
+
+
+</Cheat>
+<Cheat Text="Infinite Exceed Gauge (Gain for Max)">
+
+
+
+
+</Cheat>
+<Cheat Text="Infinite Ammo">
+
+</Cheat>
+<Cheat Text="Infinite Boost">
+
+
+</Cheat>
+<Cheat Text="Infinite Lives">
+
+</Cheat>
+<Cheat Text="One Hit Kill">
+
+
+</Cheat>
+<Cheat Text="Max EXP on Kill">
+
+
+</Cheat>
+<Cheat Text="Max LVL on LVL Up">
+
+
+</Cheat>
+<Cheat Text="Max EN Points on Spend">
+
+
+</Cheat>
+<Cheat Text="Max All Current Materials">
+
+
+</Cheat>
+<Cheat Text="x2 Materials on Buy">
+
+</Cheat>
+<Cheat Text="Freeze Counteroffensive Timer">
+
+</Cheat>
+</Trainer>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00135" Game="Batman : Arkham Knight" Moder="Talixme" Process="eboot.bin" Version="01.14" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Cheat Control="Toggel" Text="Godmode">
+
+
+</Cheat>
+<Cheat Control="Toggel" Text="1 Hit Kill">
+
+
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Skills Points">
+
+
+</Cheat>
+</Trainer>

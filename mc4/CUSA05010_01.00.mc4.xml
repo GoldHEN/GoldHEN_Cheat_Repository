@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA05010" Game="OCEANHORN" Moder="Weysincha" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Genres Name="Arcade"/>
+<Items/>
+<Cheat Text="Inf Health (need at least 1 hearts)">
+
+
+</Cheat>
+<Cheat Text="Inf Exp/Gold/Max Lvl">
+
+
+</Cheat>
+</Trainer>

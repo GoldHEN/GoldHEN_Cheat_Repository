@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA03173" Game="Bloodborne GOTY" Moder="hejran7" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Description="" Text="Infinity HP">
+
+</Cheat>
+<Cheat Description="" Text="One Hit Kill">
+
+</Cheat>
+<Cheat Description="" Text="Inf HP + OHK">
+
+</Cheat>
+<Cheat Description="" Text="Poison Resistance">
+
+
+</Cheat>
+<Cheat Description="" Text="Inf Stamina">
+
+
+</Cheat>
+<Cheat Description="" Text="Inf Blood Echoes On Spend">
+
+</Cheat>
+<Cheat Description="" Text="Never Lose Blood Echoes">
+
+
+</Cheat>
+<Cheat Description="" Text="Inf Insight On Spend">
+
+</Cheat>
+<Cheat Description="" Text="Inf Items On Use">
+
+</Cheat>
+<Cheat Description="" Text="Dupe Anything In Storage Box">
+
+</Cheat>
+<Cheat Description="" Text="Inf Weapon Durability">
+
+</Cheat>
+</Trainer>

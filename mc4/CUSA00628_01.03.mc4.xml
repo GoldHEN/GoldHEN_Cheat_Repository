@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00628" Game="Shadow Warrior" Moder="TLH" Process="eboot.bin" Version="01.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Fighting"/>
+<Genres Name="FPS"/>
+<Genres Name="RPG"/>
+<Genres Name="Shooter"/>
+<Genres Name="Simulation"/>
+<Items/>
+<Cheat Description="" Text="Infinite Stamina">
+
+
+</Cheat>
+</Trainer>

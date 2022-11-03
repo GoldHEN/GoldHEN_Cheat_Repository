@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA08070" Game="Nanatsu no Taizai (Seven Deadly Sins) - Knights of Britannia" Moder="TLH" Process="eboot.bin" Version="01.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Fighting"/>
+<Items/>
+<Cheat Description="" Text="Infinite Health">
+
+
+
+</Cheat>
+<Cheat Description="" Text="1 Hit Kills">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Magic">
+
+</Cheat>
+<Cheat Description="" Text="Score x1">
+
+
+</Cheat>
+<Cheat Description="" Text="Score x2">
+
+
+</Cheat>
+<Cheat Description="" Text="Score x10">
+
+
+</Cheat>
+<Cheat Description="" Text="Score x20">
+
+
+</Cheat>
+<Cheat Description="" Text="Score x100">
+
+
+</Cheat>
+<Cheat Description="" Text="Max Items for Collection Quests">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Time">
+
+</Cheat>
+<Cheat Description="" Text="Max Magic Crystalls on Get">
+
+</Cheat>
+<Cheat Description="" Text="Unlock Magic Items">
+
+
+</Cheat>
+<Cheat Description="" Text="99x Combo">
+
+</Cheat>
+</Trainer>

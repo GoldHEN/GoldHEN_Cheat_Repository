@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA01064" Game="inFAMOUS: First Light" Moder="Fullcodes������ԭ����" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Cheat Control="Toggel" Text="Skill Point 999">
+
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Player Health">
+
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Neon Energy Usage">
+
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Neon Singularity Usage">
+
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Melee Finisher Ammo Usage">
+
+</Cheat>
+<Cheat Control="Toggel" Text="Easy to Complete Challenges">
+
+</Cheat>
+<Cheat Control="Toggel" Text="Unlock All Abilities">
+
+
+</Cheat>
+</Trainer>

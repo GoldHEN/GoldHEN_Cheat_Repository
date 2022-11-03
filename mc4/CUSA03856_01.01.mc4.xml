@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA03856" Game="Resident Evil 6" Moder="TLH" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Fighting"/>
+<Genres Name="FPS"/>
+<Genres Name="Horror"/>
+<Genres Name="RPG"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Description="" Text="Infinite Health">
+
+
+</Cheat>
+<Cheat Description="" Text="Infinite Stamina/Air">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Ammo/Items">
+
+
+
+</Cheat>
+<Cheat Description="" Text="Max Skillpoints">
+
+</Cheat>
+<Cheat Description="" Text="Easy QTE">
+
+
+
+</Cheat>
+<Cheat Description="" Text="Infinite Time">
+
+</Cheat>
+<Cheat Description="" Text="Max Score">
+
+</Cheat>
+<Cheat Description="" Text="Max Combo">
+
+
+</Cheat>
+<Cheat Description="" Text="Infinite Abilitypoints">
+
+</Cheat>
+</Trainer>

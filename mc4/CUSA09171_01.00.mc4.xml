@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA09171" Game="Resident Evil 2" Moder="TLH" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Fighting"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Description="" Text="Infinite Health">
+
+</Cheat>
+<Cheat Description="" Text="Bottomless Clip">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Ammo">
+
+</Cheat>
+<Cheat Description="" Text="Max Ammo">
+
+</Cheat>
+<Cheat Description="" Text="Max Clip Ammo">
+
+</Cheat>
+<Cheat Description="" Text="Infinite (Stackable-)Items">
+
+
+
+
+
+</Cheat>
+<Cheat Description="" Text="Max Items on Move (Storage)">
+
+
+</Cheat>
+<Cheat Description="" Text="Max Items on get">
+
+</Cheat>
+<Cheat Description="" Text="Short Animationtime for Aiming">
+
+</Cheat>
+<Cheat Description="" Text="Instant Gun-Focus">
+
+
+
+</Cheat>
+<Cheat Description="" Text="Max Items on Use">
+
+</Cheat>
+</Trainer>

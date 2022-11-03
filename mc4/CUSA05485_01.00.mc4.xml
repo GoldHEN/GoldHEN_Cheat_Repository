@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA05485" Game="South Park The Fractured But Whole" Moder="Molly" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Quick Special">
+
+
+</Cheat>
+<Cheat Text="Max Money ~Go To Any Shop~">
+
+
+</Cheat>
+<Cheat Text="Max Items ~Go To Any Shop~">
+
+
+</Cheat>
+<Cheat Text="Quick Level Up">
+
+
+</Cheat>
+<Cheat Text="Quickly Level Up Crafting">
+
+
+</Cheat>
+</Trainer>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA03535" Game="Zombi" Moder="Rizla" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="FPS"/>
+<Genres Name="Horror"/>
+<Items/>
+<Cheat Text="Infinite Health">
+
+
+</Cheat>
+<Cheat Text="One Hit Kill">
+
+
+</Cheat>
+<Cheat Text="Infinite Ammo">
+
+
+</Cheat>
+<Cheat Text="No Reload">
+
+
+</Cheat>
+<Cheat Text="Infinite Stamina">
+
+
+
+
+</Cheat>
+<Cheat Text="Infinite Flashlight">
+
+
+</Cheat>
+<Cheat Text="Infinite Scanner">
+
+
+</Cheat>
+<Cheat Text="Infinite Turrent Ammo">
+
+</Cheat>
+<Cheat Text="No Turrent Overheat">
+
+
+</Cheat>
+</Trainer>

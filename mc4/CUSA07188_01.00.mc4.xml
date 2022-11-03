@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA07188" Game="Bulletstorm" Moder="Talixme" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Cheat Control="Toggel" Text="2x Exp After Use">
+
+</Cheat>
+<Cheat Control="Toggel" Text="No Reload">
+
+</Cheat>
+</Trainer>

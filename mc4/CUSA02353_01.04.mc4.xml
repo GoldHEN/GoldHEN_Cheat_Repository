@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA02353" Game="Salt and Sanctuary" Moder="Vampirexx" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Arcade"/>
+<Genres Name="Platformer"/>
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Description="Inf Stamina" Text="Inf Stamina">
+
+
+
+
+</Cheat>
+<Cheat Description="Inf Focus" Text="Inf Focus">
+
+
+</Cheat>
+<Cheat Description="Max Salt on Pickup" Text="Max Salt on Pickup">
+
+
+</Cheat>
+<Cheat Description="Max Money on Pickup" Text="Max Money on Pickup">
+
+
+</Cheat>
+<Cheat Description="Inf Items and Weapons (L3 Pressed while save to avoid freeze)" Text="Inf Items and Weapons (L3 Pressed while save to avoid freeze)">
+
+
+</Cheat>
+<Cheat Description="Inf Upgrade Points" Text="Inf Upgrade Points">
+
+</Cheat>
+<Cheat Description="God Mode" Text="God Mode">
+
+
+</Cheat>
+</Trainer>

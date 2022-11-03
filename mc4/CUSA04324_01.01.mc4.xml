@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA04324" Game="Zenith " Moder="Weysincha" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Inf Heal Potion">
+
+
+</Cheat>
+<Cheat Text="Inf HP (leave your max HP at 250)">
+
+
+</Cheat>
+<Cheat Text="Inf Money / Gold">
+
+
+</Cheat>
+</Trainer>

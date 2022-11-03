@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA07406" Game="Berserk and the Band of the Hawk" Moder="Vampirexx" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Arcade"/>
+<Items/>
+<Cheat Description="God Mode" Text="God Mode">
+
+
+</Cheat>
+<Cheat Description="Max Frenzy Mode after 1 hit" Text="Max Frenzy Mode after 1 hit">
+
+
+</Cheat>
+<Cheat Description="Inf Frenzy Mode hold CIRCLE to Deplete" Text="Inf Frenzy Mode hold CIRCLE to Deplete">
+
+
+</Cheat>
+<Cheat Description="Max Death Blown after 1 hit" Text="Max Death Blown after 1 hit">
+
+
+</Cheat>
+<Cheat Description="Inf Death Blown" Text="Inf Death Blown">
+
+</Cheat>
+<Cheat Description="Inf Ammo Secondary Weapon" Text="Inf Ammo Secondary Weapon">
+
+</Cheat>
+<Cheat Description="Inf Secondary Objects" Text="Inf Secondary Objects">
+
+</Cheat>
+<Cheat Description="Endless Powerup Items" Text="Endless Powerup Items">
+
+</Cheat>
+<Cheat Description="No Cooldown Berserk Weapon" Text="No Cooldown Berserk Weapon">
+
+</Cheat>
+<Cheat Description="No cooldown Weapons / items" Text="No cooldown Weapons / items">
+
+</Cheat>
+<Cheat Description="Inf Money on Level Up" Text="Inf Money on Level Up">
+
+</Cheat>
+<Cheat Description="Gain Money after Shop" Text="Gain Money after Shop">
+
+</Cheat>
+<Cheat Description="Maximize Item after Level UP Slot1" Text="Maximize Item after Level UP Slot1">
+
+
+</Cheat>
+<Cheat Description="Maximize Item after Level UP Slot2" Text="Maximize Item after Level UP Slot2">
+
+
+</Cheat>
+<Cheat Description="Maximize Item after Level UP Slot3" Text="Maximize Item after Level UP Slot3">
+
+
+</Cheat>
+<Cheat Description="Inf Enhancements Stones" Text="Inf Enhancements Stones">
+
+</Cheat>
+</Trainer>

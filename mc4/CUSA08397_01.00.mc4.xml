@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA08397" Game="dragon quest xi" Moder="cjwine" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="god mode">
+
+
+</Cheat>
+<Cheat Text="money max">
+
+
+</Cheat>
+<Cheat Text="one hit kill">
+
+
+</Cheat>
+<Cheat Text="inf mp">
+
+</Cheat>
+<Cheat Text="max lv99">
+
+
+</Cheat>
+<Cheat Text="add point after used">
+
+</Cheat>
+<Cheat Text="item buy get max">
+
+
+</Cheat>
+<Cheat Text="item  used get more">
+
+
+</Cheat>
+<Cheat Text="SPPED UP">
+
+
+</Cheat>
+<Cheat Text="fly to sky (wall pass)">
+
+
+</Cheat>
+</Trainer>

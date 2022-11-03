@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA01395" Game="Watch Dogs (Complete Edition)" Moder="Weysincha, TLH" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="RPG"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Description="" Text="Infinite Health">
+
+
+</Cheat>
+<Cheat Description="" Text="Infinite Battery">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Focus">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Ammo">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Skillpoints/Money">
+
+</Cheat>
+<Cheat Description="" Text="Max XP/Money/Skillpoints on Get">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Resources/Gadgets">
+
+</Cheat>
+<Cheat Description="" Text="Max Resources">
+
+
+</Cheat>
+<Cheat Description="" Text="Wanted Level doesnt Increase">
+
+
+</Cheat>
+<Cheat Description="" Text="Alignment: Good">
+
+
+</Cheat>
+<Cheat Description="" Text="Alignment: Neutral">
+
+
+</Cheat>
+<Cheat Description="" Text="Alignment: Evil">
+
+
+</Cheat>
+</Trainer>

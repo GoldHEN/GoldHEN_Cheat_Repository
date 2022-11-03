@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA06623" Game="outlast2" Moder="cjwine" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text=" bandage  inf">
+
+</Cheat>
+<Cheat Text="Battery time inf">
+
+</Cheat>
+<Cheat Text="god mode(not close)">
+
+
+</Cheat>
+</Trainer>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA05088" Game="Dragon Ball Xenoverse 2" Moder="Rizla" Process="eboot.bin" Version="01.15" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Fighting"/>
+<Genres Name="RPG"/>
+<Items/>
+<StartUP Text="MasterCode1">
+
+
+</StartUP>
+<StartUP Text="MasterCode2">
+
+
+</StartUP>
+<Cheat Text="Max Zeni on Spend">
+
+
+</Cheat>
+<Cheat Text="Max TP on Spend">
+
+
+</Cheat>
+<Cheat Text="Max Points on Use (Back Out to See)">
+
+
+</Cheat>
+<Cheat Text="Max Item on Buy (Back Out to See)">
+
+
+</Cheat>
+<Cheat Text="Infinite Health">
+
+
+</Cheat>
+<Cheat Text="Infinite KI">
+
+
+</Cheat>
+<Cheat Text="Infinite Stamina">
+
+
+</Cheat>
+<Cheat Text="Freeze Timer">
+
+</Cheat>
+</Trainer>

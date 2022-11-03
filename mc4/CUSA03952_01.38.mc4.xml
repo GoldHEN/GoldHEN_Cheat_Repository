@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA03952" Game="No Man's Sky" Moder="DreamRunner" Process="eboot.bin" Version="01.38" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="set 99999 resources (craft)">
+
+
+</Cheat>
+<Cheat Text="set 99999 res (tools) ">
+
+
+</Cheat>
+</Trainer>

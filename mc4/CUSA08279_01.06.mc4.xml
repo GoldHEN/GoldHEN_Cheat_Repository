@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA08279" Game="Gintama Rumble" Moder="Vampirexx" Process="eboot.bin" Version="01.06" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Arcade"/>
+<Items/>
+<Cheat Description="Inf Health" Text="Inf Health">
+
+</Cheat>
+<Cheat Description="Max Special Moves Gauge after 1 hit" Text="Max Special Moves Gauge after 1 hit">
+
+</Cheat>
+<Cheat Description="Inf Special Moves Gauge" Text="Inf Special Moves Gauge">
+
+</Cheat>
+<Cheat Description="Max Awakening Rumble Gauge after 1 hit" Text="Max Awakening Rumble Gauge after 1 hit">
+
+</Cheat>
+<Cheat Description="Inf Awakening Rumble Gauge" Text="Inf Awakening Rumble Gauge">
+
+</Cheat>
+<Cheat Description="Awakening always ON after 1 hit" Text="Awakening always ON after 1 hit">
+
+
+</Cheat>
+<Cheat Description="Awakening always Active" Text="Awakening always Active">
+
+</Cheat>
+<Cheat Description="Inf Pachi after Shop (USE IT ALONE)" Text="Inf Pachi after Shop (USE IT ALONE)">
+
+
+</Cheat>
+<Cheat Description="Max CP After Level-Up (USE IT ALONE)" Text="Max CP After Level-Up (USE IT ALONE)">
+
+
+</Cheat>
+<Cheat Description="Max Combo" Text="Max Combo">
+
+
+</Cheat>
+<Cheat Description="Max Kills" Text="Max Kills">
+
+
+</Cheat>
+</Trainer>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA09243" Game="Ni no Kuni 2 - Revenant Kingdom" Moder="TLH" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Fighting"/>
+<Genres Name="RPG"/>
+<Items/>
+<StartUP Text="Health / 1 Hit" description="">
+
+
+</StartUP>
+<Cheat Description="" Text="Infinite Health">
+
+</Cheat>
+<Cheat Description="" Text="1 Hit Kill">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Items">
+
+</Cheat>
+<Cheat Description="" Text="Max Money on Get">
+
+</Cheat>
+</Trainer>

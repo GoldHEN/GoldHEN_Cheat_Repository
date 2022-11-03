@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA02166" Game="Mitsurugi Kamae Hikae" Moder="Vampirexx" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Arcade"/>
+<Genres Name="Fighting"/>
+<Items/>
+<Cheat Description="Max Combo" Text="Max Combo">
+
+</Cheat>
+<Cheat Description="Max SP on Pickup" Text="Max SP on Pickup">
+
+</Cheat>
+<Cheat Description="Inf Katana Meter" Text="Inf Katana Meter">
+
+</Cheat>
+<Cheat Description="Inf Health" Text="Inf Health">
+
+</Cheat>
+</Trainer>

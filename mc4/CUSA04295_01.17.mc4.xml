@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA04295" Game="Watch Dogs 2" Moder="TLH, Rizla" Process="eboot.bin" Version="01.17" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Arcade"/>
+<Genres Name="Fighting"/>
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Description="" Text="Infinite Health">
+
+
+</Cheat>
+<Cheat Description="" Text="Infinite Botnet">
+
+</Cheat>
+<Cheat Description="" Text="Bottomless Clip">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Ammo">
+
+</Cheat>
+<Cheat Description="" Text="Never Wanted">
+
+
+</Cheat>
+<Cheat Description="" Text="Max Money on Gain/Use">
+
+
+</Cheat>
+<Cheat Description="" Text="Max Followers on 2nd Gain">
+
+
+</Cheat>
+<Cheat Description="" Text="Max Followers After Missions">
+
+
+</Cheat>
+</Trainer>

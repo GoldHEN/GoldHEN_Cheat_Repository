@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA08992" Game="Dragonball FighterZ" Moder="TLH" Process="eboot.bin" Version="01.05" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Arcade"/>
+<Genres Name="Fighting"/>
+<Items/>
+<Cheat Description="" Text="Max Zeni on Use">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Zeni">
+
+</Cheat>
+<Cheat Description="" Text="Max Premium-Z Coins on Use">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Premium-Z Coins">
+
+</Cheat>
+<Cheat Description="" Text="Easy Max Level">
+
+
+</Cheat>
+</Trainer>

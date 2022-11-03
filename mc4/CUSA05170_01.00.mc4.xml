@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA05170" Game="Dragon Quest Builders" Moder="Molly" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Max Items">
+
+
+</Cheat>
+<Cheat Text="Godmode">
+
+
+</Cheat>
+</Trainer>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA06740" Game="Dragon Quest Heroes II" Moder="Molly " Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Quick Level Up ~Leave Area To See Effect~">
+
+
+
+
+</Cheat>
+<Cheat Text="Max Money">
+
+
+
+
+</Cheat>
+<Cheat Text="Max MP">
+
+
+</Cheat>
+<Cheat Text="Max Skill Points">
+
+
+
+
+</Cheat>
+<Cheat Text="Max Items">
+
+
+
+
+</Cheat>
+<Cheat Text="Max Tension On Hit">
+
+
+</Cheat>
+</Trainer>

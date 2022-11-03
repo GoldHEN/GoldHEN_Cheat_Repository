@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA10168" Game="Sword art Online - Fatal Bullet" Moder="TLH" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Fighting"/>
+<Genres Name="RPG"/>
+<Genres Name="Shooter"/>
+<Items/>
+<StartUP Text="PlayerBase">
+
+
+</StartUP>
+<StartUP Text="Health / 1 Hit Kills">
+
+
+</StartUP>
+<Cheat Description="" Text="Infinite Health">
+
+</Cheat>
+<Cheat Description="" Text="1 Hit Kills">
+
+</Cheat>
+<Cheat Description="" Text="Bottomless Clip">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Ammo">
+
+</Cheat>
+<Cheat Description="" Text="Max Ammo on Pick">
+
+</Cheat>
+<Cheat Description="" Text="Max Money on Spend">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Money">
+
+</Cheat>
+<Cheat Description="" Text="Ignore Money on Buy">
+
+
+
+
+</Cheat>
+<Cheat Description="" Text="Instant Max Weapon Gauge">
+
+
+</Cheat>
+<Cheat Description="" Text="Max Level on LevelUp">
+
+</Cheat>
+<Cheat Description="" Text="Max CP on LevelUp">
+
+</Cheat>
+<Cheat Description="" Text="Infinite CP">
+
+
+</Cheat>
+<Cheat Description="" Text="Raise CP-Cap from 24520 to 65535">
+
+</Cheat>
+<Cheat Description="" Text="Easy Quests">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Items">
+
+</Cheat>
+<Cheat Description="" Text="20k XP each Kill">
+
+</Cheat>
+<Cheat Description="" Text="Max Medals on Get">
+
+</Cheat>
+<Cheat Description="" Text="Max Medals on Use">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Medals">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Chest-Loot">
+
+</Cheat>
+<Cheat Description="" Text="Max Box Items">
+
+</Cheat>
+<Cheat Description="" Text="All Stats 255">
+
+
+</Cheat>
+<Cheat Description="" Text="All Stats 65535">
+
+
+</Cheat>
+</Trainer>

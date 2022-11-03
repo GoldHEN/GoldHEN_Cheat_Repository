@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA08948" Game="Attack on Titan 2" Moder="Weysincha" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Infinite Gas">
+
+
+
+
+</Cheat>
+<Cheat Text="Infinite Blade Bar">
+
+
+</Cheat>
+<Cheat Text="Infinite Money">
+
+
+
+
+
+
+
+
+</Cheat>
+<Cheat Text="Infinite Usage Items">
+
+
+</Cheat>
+<Cheat Text="Always 99 Titan Kills">
+
+
+</Cheat>
+</Trainer>

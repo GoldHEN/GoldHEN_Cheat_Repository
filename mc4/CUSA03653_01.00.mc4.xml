@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA03653" Game="Earth Defense Force 5" Moder="Molly" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="Godmode">
+
+
+</Cheat>
+<Cheat Text="Infinite Wing Energy">
+
+
+</Cheat>
+<Cheat Text="Max Ammo + Rapid Fire">
+
+
+</Cheat>
+<Cheat Text="Max Armor Upgrades [Have to open each classes Armor screen]">
+
+
+</Cheat>
+<Cheat Text="Max All Weapon Star Level">
+
+
+</Cheat>
+</Trainer>

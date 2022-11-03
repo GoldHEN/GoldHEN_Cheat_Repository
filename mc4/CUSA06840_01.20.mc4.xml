@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA06840" Game="Stardew Valley" Moder="Molly" Process="eboot.bin" Version="01.20" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="RPG"/>
+<Genres Name="Simulation"/>
+<Items/>
+<Cheat Text="Max Money">
+
+
+</Cheat>
+<Cheat Text="Max Items ">
+
+
+
+
+</Cheat>
+<Cheat Text="Unlimited Stamina">
+
+
+</Cheat>
+<Cheat Text="Max Total Earnings">
+
+
+</Cheat>
+<Cheat Text="Unlimited Watering Can">
+
+
+
+
+</Cheat>
+</Trainer>

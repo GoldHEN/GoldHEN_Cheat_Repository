@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA03467" Game="EARTH DEFENSE FORCE 4.1 The Shadow of New Despair" Moder="Molly" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Godmode">
+
+
+</Cheat>
+<Cheat Text="Max Wingdiver-Engery">
+
+
+</Cheat>
+<Cheat Text="2x armor pick up">
+
+
+</Cheat>
+<Cheat Text="INF Ammo + Rapidfire">
+
+
+
+
+</Cheat>
+<Cheat Description="" Text="Unlock Every Weapon">
+
+
+</Cheat>
+</Trainer>

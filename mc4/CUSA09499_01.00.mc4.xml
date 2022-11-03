@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA09499" Game="Cat Quest" Moder="DeathRGH" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Cheat Control="Button" Text="Max Money">
+
+</Cheat>
+<Cheat Control="Button" Text="Fill Health">
+
+</Cheat>
+<Cheat Control="Button" Text="Fill Mana">
+
+</Cheat>
+<Cheat Control="Button" Text="Max Health Capacity">
+
+</Cheat>
+<Cheat Control="Button" Text="Max Attack Value">
+
+</Cheat>
+<Cheat Control="Button" Text="Max Mana Attack Value">
+
+</Cheat>
+<Cheat Control="Button" Text="Max XP">
+
+</Cheat>
+</Trainer>

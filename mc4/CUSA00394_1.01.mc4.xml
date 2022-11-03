@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00394" Game="The Amazing Spider-Man 2" Moder="Rizla" Process="eboot.bin" Version="1.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Description="" Text="Infinite Health">
+
+</Cheat>
+<Cheat Description="" Text="Infinite Spider Suit Health">
+
+</Cheat>
+<Cheat Description="" Text="Never Spotted Before Attacking">
+
+</Cheat>
+<Cheat Description="" Text="Freeze Upgrade Points (UnPause Then Pause)">
+
+</Cheat>
+<Cheat Description="" Text="Freeze Mission Timer">
+
+
+</Cheat>
+<Cheat Description="" Text="Heroic Level Don\'t Decrease">
+
+
+</Cheat>
+</Trainer>

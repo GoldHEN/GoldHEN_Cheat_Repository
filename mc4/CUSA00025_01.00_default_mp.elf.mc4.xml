@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00025" Game="COD: Ghosts" Moder="DeathRGH" Process="default_mp.elf" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Cheat Control="Toggel" Text="All Client Infinite Ammo">
+
+</Cheat>
+<Cheat Control="Toggel" Text="All Client Godmode">
+
+</Cheat>
+</Trainer>
