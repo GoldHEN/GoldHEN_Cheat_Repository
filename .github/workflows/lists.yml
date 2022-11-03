@@ -22,5 +22,5 @@ jobs:
           git config --global user.email 'kmeps4@users.noreply.github.com'
           git add json.txt
           git add shn.txt
-          git commit -am "Cheat lists update"
+          git commit -am "Cheat lists update" || true
           git push || true
