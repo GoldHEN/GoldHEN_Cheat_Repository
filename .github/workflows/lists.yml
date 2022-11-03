@@ -23,4 +23,4 @@ jobs:
           git add json.txt
           git add shn.txt
           git commit -am "Cheat lists update"
-          git push
+          git push || true
