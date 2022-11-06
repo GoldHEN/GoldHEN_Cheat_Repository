@@ -1,8 +1,8 @@
 {
-  "name": "Harry Potter Years 1-4",
-  "id": "CUSA05935",
+  "name": "Harry Potter Years 5-7",
+  "id": "CUSA05954",
   "version": "01.00",
-  "process": "harry1.elf",
+  "process": "harry2.elf",
   "mods": [
     {
       "name": "Godmode",
@@ -10,14 +10,14 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "DEFC01",
-          "on": "0FB6BE3E160000C7863E16000004040000E9AD1CB7FF90",
+          "offset": "116BC01",
+          "on": "418B8D3012000041C7853012000008080000E9FF42C3FF",
           "off": "0000000000000000000000000000000000000000000000"
         },
         {
-          "offset": "9618BD",
-          "on": "E93FE348009090",
-          "off": "0FB6BE3E160000"
+          "offset": "D9FF0F",
+          "on": "E9EDBC3C00909090",
+          "off": "410FB68D30120000"
         }
       ]
     }
