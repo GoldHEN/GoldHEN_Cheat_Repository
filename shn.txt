@@ -18,6 +18,7 @@ CUSA03694_01.11.shn=Gravity Rush 2
 CUSA04943_01.11.shn=Gravity Rush 2
 CUSA18278_01.05.shn=Cyberpunk 2077
 SLPM62726_01.00.shn=Shooting Love-Trizeal
+SLUS21168_01.00.shn=Castlevania-Curse of Darkness
 CUSA08060_01.11.shn=Gravity Daze 2
 SLUS62390_01.00.shn=Super Mario -64
 SLPS66666_01.00.shn=Metal Slug 4
