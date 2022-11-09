@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA31561" Game="Imp Of The Sun" Moder="Anon  Wander FW9.00" Process="eboot.bin" Version="1.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Genres Name="Platformer"/>
+<Items/>
+<Cheat Text="Infinite Sun Power (for healing only)">
+</Cheat>
+<Cheat Text="Max Embers (on collect)">
+</Cheat>
+</Trainer>

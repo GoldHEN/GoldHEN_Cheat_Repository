@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00018" Game="Call Of Duty Ghosts" Moder="Celogamez" Process="default.elf" Version="01.21" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health/1 Hit Kill (Master Code/Must Be On)">
+</Cheat>
+<Cheat Text="Infinite Health (Enable MC)">
+</Cheat>
+<Cheat Text="1 Hit Kill (Enable MC)">
+</Cheat>
+<Cheat Text="Infinite Ammo">
+</Cheat>
+<Cheat Text="No Reload/Grenades">
+</Cheat>
+</Trainer>
