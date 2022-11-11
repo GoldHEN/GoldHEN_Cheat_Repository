@@ -1,4 +1,4 @@
-# GoldHEN Cheat Menu
+# GoldHEN Cheat Database
 _Cheat Menu allows you bring up a Menu while in-game for you to select cheats._
 
 # Initial Cheats Credits
