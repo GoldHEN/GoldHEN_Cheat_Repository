@@ -11,7 +11,7 @@ _Thanks to PS4Trainer For Initial Trainers Database and all Cheats Creators._
 
 ### :warning: Warnings
 The Cheat Menu is experimental, use with caution.  
-Please report cheat related issues to the cheat author(s).
+Please report cheat related issues to the cheat author(s) and/or go to https://github.com/GoldHEN/GoldHEN_Cheat_Repository/discussions/42 and follow instructions.
 
 ### Disclaimer:
 While we make every effort to deliver high quality products, we do not guarantee that our products are free from defects. Our software is provided 'as is' and you use the software at your own risk.
