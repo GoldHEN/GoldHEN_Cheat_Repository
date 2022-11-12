@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA34390" Game="God of War Ragnarok" Moder="Wander Fw9.00" Process="eboot.bin" Version="02.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Infinite Health Kratos (turn off Rage)">
+</Cheat>
+<Cheat Text="Infinite Rage (turn off Kratos Health)">
+</Cheat>
+<Cheat Text="Infinite Health Atreus (turn off Kratos Health)">
+</Cheat>
+<Cheat Text="Experience/HackSilver/resources(on get and spend)">
+</Cheat>
+</Trainer>
