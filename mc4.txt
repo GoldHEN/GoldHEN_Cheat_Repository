@@ -193,6 +193,7 @@ CUSA02962_01.22.mc4.xml=Fallout 4 (Game Of The Year Edition)
 CUSA03991_01.06.mc4.xml=Dying Light: The Following Enhanced Edition
 CUSA04294_01.15.mc4.xml=Watch Dogs 2
 CUSA01618_01.00.mc4.xml=Yu Gi Oh Legacy of the Duelist
+CUSA34384_02.00.mc4.xml=God of War Ragnarok
 CUSA09977_01.00.mc4.xml=Digimon Story Cyber Sleuth - Hacker\'s Memory
 CUSA08558_01.01.mc4.xml=Dead Rising 4: Frank\'s Big Package
 CUSA05010_01.00.mc4.xml=OCEANHORN
