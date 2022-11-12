@@ -31,6 +31,7 @@ CUSA03450_01.20.mc4.xml=Fallout 4
 CUSA03455_01.00.mc4.xml=7 Days To Die
 CUSA07773_01.00.mc4.xml=Cursed Castilla
 CUSA01778_01.02.mc4.xml=Dead or Alive 5 - Last Round
+CUSA34388_02.00.mc4.xml=God of War Ragnarok
 CUSA08558_01.00.mc4.xml=Dead Rising 4: Frank\'s Big Package
 CUSA00737_01.04.mc4.xml=Terraria
 CUSA00004_01.07.mc4.xml=inFAMOUS: Second Son
