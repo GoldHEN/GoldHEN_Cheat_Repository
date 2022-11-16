@@ -1,0 +1,109 @@
+{
+  "name": "God of War Ragnarok",
+  "id": "CUSA34390",
+  "version": "02.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Cheat Activator",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "172B628",
+          "on": "669C50664181FBB0CE7447664181FB00B07448664181FB90CC7437664181FB08B67438664181FB58A9745281FE809AFDC07441664181FB10E47442664181FB10547421C4C17A114C242858669DE9BDDC2BFF803DA703000000EB31803D9F03000000EB28803D970300000074D6B800000000EB12803D8803000000EB0F803D8003000000EB06F30F2AC8EBB774B5C5FA104B14EBAE4A757374476F74656E6B73",
+          "off": "669C50664181FBB0CE7447664181FB00B07448664181FB90CC7437664181FB08B67438664181FB58A9745281FE809AFDC07441664181FB10E47442664181FB10547421C4C17A114C242858669DE9BDDC2BFF803DA703000000EB31803D9F03000000EB28803D970300000074D6B800000000EB12803D8803000000EB0F803D8003000000EB06F30F2AC8EBB774B5C5FA104B14EBAE4A757374476F74656E6B73"
+        },
+        {
+          "offset": "9E9330",
+          "on": "E9F322D4009090",
+          "off": "C4C17A114C2428"
+        }
+      ]
+    },
+    {
+      "name": "Godmode*",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "172BA28",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Rage*",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "172BA29",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "One-hit Kill*",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "172BA2A",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Instant R3*",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "172BA2B",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Arrows*",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "172BA2C",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A47102",
+          "on": "C5FA104D809090",
+          "off": "C4C17A104C2438"
+        }
+      ]
+    },
+    {
+      "name": "Infinite XP/HS/Resources (99,999)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "172B828",
+          "on": "B99F860100898D40FFFFFF890EE91A054FFF9090",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C1BD4C",
+          "on": "E9D7FAB000909090",
+          "off": "898D40FFFFFF890E"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "JustGotenks"
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA16275" Game="Blasphemous" Moder="Celogamez" Process="eboot.bin" Version="01.08" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Fervor">
+</Cheat>
+<Cheat Text="Blood Penitence On Use x9999 (Disable Fervor)">
+</Cheat>
+</Trainer>
