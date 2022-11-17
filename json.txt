@@ -155,6 +155,7 @@ CUSA06511_01.02.json=LEGO® CITY UNDERCOVER
 CUSA34390_02.00.json=God of War Ragnarok
 CUSA12566_01.00.json=The Legend of Heroes: Trails of Cold Steel II
 CUSA03522_01.13_default.elf.json=Call of Duty®: Modern Warfare® Remastered
+CUSA17160_01.02.json=The TakeOver
 CUSA09660_01.05.json=Yakuza 6
 CUSA24216_01.04.json=Cyber Shadow
 CUSA00025_01.20_default_mp.elf.json=COD: Ghosts (MP)
