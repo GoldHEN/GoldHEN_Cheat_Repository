@@ -16,8 +16,8 @@ jobs:
 
       - name: Create list files
         run: |
-          python normalize-json.py
-          clang list_files.c
+          python .ci/normalize-json.py
+          clang .ci/list_files.c
           ./a.out json '"name"' > json.txt
           ./a.out shn Game > shn.txt
           mkdir xml && mv mc4/*.xml xml/
@@ -25,7 +25,7 @@ jobs:
           mv xml/* mc4/ && rmdir xml
           git config --global user.name 'kmeps4'
           git config --global user.email 'kmeps4@users.noreply.github.com'
-          
+
       - name: Commit normalized json data
         run: |
           git add json/*.json
