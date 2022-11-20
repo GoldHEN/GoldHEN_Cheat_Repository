@@ -8,6 +8,5 @@ if __name__ == '__main__':
     with open(file_in, 'r', encoding='utf-8') as fr:
       cont = json.load(fr)
       with open(file_in, 'w', encoding='utf-8') as fw:
-        write_data_ = json.dumps(cont, indent=2, ensure_ascii=True)
-        write_data = (f'{write_data_}\n')
+        write_data = (f'{json.dumps(cont, indent=2, ensure_ascii=False)}\n')
         fw.write(write_data)
