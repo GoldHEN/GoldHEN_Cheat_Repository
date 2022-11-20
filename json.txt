@@ -124,6 +124,7 @@ CUSA05935_01.00_harry1.elf.json=Harry Potter Years 1-4
 CUSA00433_01.00.json=Diablo III: Reaper of Souls – Ultimate Evil Edition
 CUSA27306_01.51.json=Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles
 SLUS20306_01.00.json=Contra-Shattered Soldier
+CUSA16273_01.06.json=The Survivalists
 CUSA14020_01.12.json=Just Dance® 2019 (Demo)
 CUSA08161_01.01.json=Devil May Cry 5
 CUSA04273_01.02.json=Dead Rising 2: Off The Record
