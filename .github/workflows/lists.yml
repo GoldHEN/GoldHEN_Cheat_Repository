@@ -5,7 +5,7 @@ name: Push commit
 
 on:
   push:
-    #branches: [ main ]
+    branches: [ main ]
 
 jobs:
   gamelist:
@@ -20,9 +20,11 @@ jobs:
           clang .ci/list_files.c
           ./a.out json '"name"' > json.txt
           ./a.out shn Game > shn.txt
-          mkdir xml && mv mc4/*.xml xml/
+          mkdir xml
+          mv mc4/*.xml xml/
           ./a.out xml Game > mc4.txt
-          mv xml/* mc4/ && rmdir xml
+          mv xml/* mc4/
+          rmdir xml
           git config --global user.name 'kmeps4'
           git config --global user.email 'kmeps4@users.noreply.github.com'
 
