@@ -14,9 +14,11 @@ jobs:
       - name: Checkout files
         uses: actions/checkout@v3
 
+      - name: Normalize json data
+        run: python .ci/normalize-json.py
+
       - name: Create list files
         run: |
-          python .ci/normalize-json.py
           clang .ci/list_files.c
           ./a.out json '"name"' > json.txt
           ./a.out shn Game > shn.txt
