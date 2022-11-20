@@ -3,9 +3,7 @@
 
 name: Push commit
 
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push events but only for the main branch
   push:
     branches: [ main ]
 
@@ -14,23 +12,29 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout files
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Create list files
         run: |
-          gcc list_files.c
+          python normalize-json.py
+          clang list_files.c
           ./a.out json '"name"' > json.txt
           ./a.out shn Game > shn.txt
           mkdir xml && mv mc4/*.xml xml/
           ./a.out xml Game > mc4.txt
           mv xml/* mc4/ && rmdir xml
+          git config --global user.name 'kmeps4'
+          git config --global user.email 'kmeps4@users.noreply.github.com'
+          
+      - name: Commit normalized json data
+        run: |
+          git add json/*.json
+          git commit -m "Normalize json data" || true
 
       - name: Commit list files
         run: |
-          git config --global user.name 'kmeps4'
-          git config --global user.email 'kmeps4@users.noreply.github.com'
           git add json.txt
           git add shn.txt
           git add mc4.txt
-          git commit -am "Cheat lists update" || true
+          git commit -m "Cheat lists update" || true
           git push || true
