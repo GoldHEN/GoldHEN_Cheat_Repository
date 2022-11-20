@@ -1,1 +1,53 @@
-{"name":"Little Dragons Café","id":"CUSA12545","version":"01.02","process":"eboot.bin","mods":[{"name":"Unlock All Ingredients","type":"checkbox","memory":[{"offset":"12CB811","on":"0F8470FAFF7EC7461063000000837E1000E962FAFF7E","off":"00000000000000000000000000000000000000000000"},{"offset":"802CB283","on":"E98905008190","off":"7408837E1000"},{"offset":"12CB800","on":"C6401063448B6010488B5A18E9D2C5027F","off":"0000000000000000000000000000000000"},{"offset":"802F7DDB","on":"E9203AFD80909090","off":"448B6010488B5A18"}]},{"name":"Dragons Hp","type":"checkbox","memory":[{"offset":"12CB827","on":"0F85B139F67E41C7472064000000458B7720E95E39F67E","off":"0000000000000000000000000000000000000000000000"},{"offset":"8022F196","on":"E98CC6098190","off":"754C458B7720"}]}],"credits":["Molly"]}
+{
+  "name": "Little Dragons Café",
+  "id": "CUSA12545",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Unlock All Ingredients",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12CB811",
+          "on": "0F8470FAFF7EC7461063000000837E1000E962FAFF7E",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "802CB283",
+          "on": "E98905008190",
+          "off": "7408837E1000"
+        },
+        {
+          "offset": "12CB800",
+          "on": "C6401063448B6010488B5A18E9D2C5027F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "802F7DDB",
+          "on": "E9203AFD80909090",
+          "off": "448B6010488B5A18"
+        }
+      ]
+    },
+    {
+      "name": "Dragons Hp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12CB827",
+          "on": "0F85B139F67E41C7472064000000458B7720E95E39F67E",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8022F196",
+          "on": "E98CC6098190",
+          "off": "754C458B7720"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

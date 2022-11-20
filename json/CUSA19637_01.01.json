@@ -1,1 +1,44 @@
-{"name":"The Legend of Heroes: Trails of Cold Steel IV","id":"CUSA19637","version":"01.01","process":"eboot.bin","mods":[{"name":"Sephit","type":"checkbox","memory":[{"offset":"3175E8","on":"9090","off":"8908"}]},{"name":"Item","type":"checkbox","memory":[{"offset":"30FDD3","on":"909090","off":"668938"}]},{"name":"Item1","type":"checkbox","memory":[{"offset":"30FCF8","on":"90909090","off":"4883C020"}]}],"credits":["SunRise01"]}
+{
+  "name": "The Legend of Heroes: Trails of Cold Steel IV",
+  "id": "CUSA19637",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Sephit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3175E8",
+          "on": "9090",
+          "off": "8908"
+        }
+      ]
+    },
+    {
+      "name": "Item",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "30FDD3",
+          "on": "909090",
+          "off": "668938"
+        }
+      ]
+    },
+    {
+      "name": "Item1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "30FCF8",
+          "on": "90909090",
+          "off": "4883C020"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "SunRise01"
+  ]
+}

@@ -1,1 +1,45 @@
-{"name":"Freedom Finger","id":"CUSA18507","version":"01.04","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"17502F0","on":"41C787E001000000000C42E92B50697F","off":"00000000000000000000000000000000"},{"section":"16","offset":"8E9322","on":"E9C9AF968090909090","off":"F3450F11BFE0010000"},{"offset":"1750330","on":"52697A6C61904973904964696F749090","off":"00000000000000000000000000000000"}]},{"name":"Infinite Shield","type":"checkbox","memory":[{"section":"16","offset":"8F864B","on":"9090","off":"FFC8"}]}],"credits":["Saso"]}
+{
+  "name": "Freedom Finger",
+  "id": "CUSA18507",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17502F0",
+          "on": "41C787E001000000000C42E92B50697F",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "section": "16",
+          "offset": "8E9322",
+          "on": "E9C9AF968090909090",
+          "off": "F3450F11BFE0010000"
+        },
+        {
+          "offset": "1750330",
+          "on": "52697A6C61904973904964696F749090",
+          "off": "00000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Shield",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "16",
+          "offset": "8F864B",
+          "on": "9090",
+          "off": "FFC8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

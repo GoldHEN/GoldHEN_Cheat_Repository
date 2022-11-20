@@ -1,130 +1,130 @@
 {
-   "name":"Sengoku Anthology",
-   "id":"SLES55512",
-   "version":"01.00",
-   "process":"eboot.bin",
-   "mods":[
-      {
-         "name":"Sengoku-Inf-lives",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"80816032E7",
-               "on":"09",
-               "off":"09"
-            },
-		    {
-               "offset":"80816032E8",
-               "on":"09",
-               "off":"09"
-            }
-         ]
-      },
-	  {
-         "name":"Sengoku-Inf-Energy",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"8081603539",
-               "on":"06",
-               "off":"06"
-            },
-		    {
-               "offset":"808160353A",
-               "on":"06",
-               "off":"06"
-            }
-         ]
-      },
-	  {
-         "name":"Sengoku-2-Rest-Energy",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"8081605F27",
-               "on":"06",
-               "off":"06"
-            }
-         ]
-      },
-	  {
-         "name":"Sengoku-2-Inf-lives",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"80816033E3",
-               "on":"63",
-               "off":"63"
-            }
-         ]
-      },
-	  {
-         "name":"Sengoku-3-Invincible",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"8081605E90",
-               "on":"63",
-               "off":"63"
-            },
-	        {
-               "offset":"8081605E91",
-               "on":"FF",
-               "off":"FF"
-            }
-         ]
-      },
-	  {
-         "name":"Sengoku-3-Inf-lives",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"808160B615",
-               "on":"63",
-               "off":"63"
-            }
-         ]
-      },
-	  {
-         "name":"Sengoku-3-Inf-Energy ",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"8081605E4C",
-               "on":"63",
-               "off":"63"
-            },
-		    {
-               "offset":"8081605E4D",
-               "on":"FF",
-               "off":"FF"
-            }
-         ]
-      },
-	  {
-         "name":"Sengoku-3-Inf-credits",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"8081603238",
-               "on":"63",
-               "off":"63"
-            }
-         ]
-      },
-	  {
-         "name":"Sengoku-3-Rest-shurikens",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"808160B61F",
-               "on":"09",
-               "off":"09"
-            }
-         ]
-      }
-   ],
-   "credits":[
-      "Ali-mk"
-   ]
+  "name": "Sengoku Anthology",
+  "id": "SLES55512",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Sengoku-Inf-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80816032E7",
+          "on": "09",
+          "off": "09"
+        },
+        {
+          "offset": "80816032E8",
+          "on": "09",
+          "off": "09"
+        }
+      ]
+    },
+    {
+      "name": "Sengoku-Inf-Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8081603539",
+          "on": "06",
+          "off": "06"
+        },
+        {
+          "offset": "808160353A",
+          "on": "06",
+          "off": "06"
+        }
+      ]
+    },
+    {
+      "name": "Sengoku-2-Rest-Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8081605F27",
+          "on": "06",
+          "off": "06"
+        }
+      ]
+    },
+    {
+      "name": "Sengoku-2-Inf-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80816033E3",
+          "on": "63",
+          "off": "63"
+        }
+      ]
+    },
+    {
+      "name": "Sengoku-3-Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8081605E90",
+          "on": "63",
+          "off": "63"
+        },
+        {
+          "offset": "8081605E91",
+          "on": "FF",
+          "off": "FF"
+        }
+      ]
+    },
+    {
+      "name": "Sengoku-3-Inf-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808160B615",
+          "on": "63",
+          "off": "63"
+        }
+      ]
+    },
+    {
+      "name": "Sengoku-3-Inf-Energy ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8081605E4C",
+          "on": "63",
+          "off": "63"
+        },
+        {
+          "offset": "8081605E4D",
+          "on": "FF",
+          "off": "FF"
+        }
+      ]
+    },
+    {
+      "name": "Sengoku-3-Inf-credits",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8081603238",
+          "on": "63",
+          "off": "63"
+        }
+      ]
+    },
+    {
+      "name": "Sengoku-3-Rest-shurikens",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808160B61F",
+          "on": "09",
+          "off": "09"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

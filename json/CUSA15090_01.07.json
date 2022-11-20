@@ -1,1 +1,123 @@
-{"name":"Need for Speed™ Heat","id":"CUSA15090","version":"01.07","process":"eboot.bin","mods":[{"name":"Unlock All Cars","type":"checkbox","memory":[{"offset":"4B483FB","on":"41817EF2556E6C6F752541817EF6636B416C751B41817EFA6C43617275115648BE54727565000000004989365EEB054C29F085D2E9393203FD","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"1B7B668","on":"E98ECDFC02","off":"4C29F085D2"}]},{"name":"Max Money","type":"checkbox","memory":[{"offset":"4B4843A","on":"4C89E7C74138FFE0F505E9D3E8B5FC","off":"000000000000000000000000000000"},{"offset":"16A6D15","on":"E920174A039090","off":"4C89E748895138"}]},{"name":"No Damage (not working on cops)","type":"checkbox","memory":[{"offset":"4B4844F","on":"41C7000000803F41C740100000803FC4C17A106010E979DD97FD","off":"0000000000000000000000000000000000000000000000000000"},{"offset":"24C61DC","on":"E96E22680290","off":"C4C17A106010"}]},{"name":"Disable Garage Teleport when Busted (single cheat)","type":"checkbox","memory":[{"offset":"4B4846F","on":"81784847617261751E81784C6765416675155648BE66616C7365000000488B50204889325EEB074889DE488B5020E9592703FD","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"1B7ABF4","on":"E976D8FC029090","off":"4889DE488B5020"}]},{"name":"Disable Reset Damage (Make Impact to cops / Single Cheat)","type":"checkbox","memory":[{"offset":"4B484A8","on":"81784473655265751E81784C616D616775155648BE302E303000000000488B50204889325EEB074889DE488B5020E9202703FD","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"1B7ABF4","on":"E9AFD8FC029090","off":"4889DE488B5020"}]},{"name":"Health 9999 (Enter Garage and exit, finish loading turn off cheat)","type":"checkbox","memory":[{"offset":"4B484E1","on":"81783063657248751981783465616C7475108178386850726F750766C7000F27EB08C5EA2A084883C010E9388D98FD","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"24D1240","on":"E99C726702909090","off":"C5EA2A084883C010"}]},{"name":"Infinite Nitro (Press Nitro Button)","type":"checkbox","memory":[{"offset":"4B48516","on":"4180BF0801000001750E41C7070000803FC4C17A1007EB08C5FA118314040000E99F9197FD","off":"00000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"24C16D2","on":"E93F6E6802909090","off":"C5FA118314040000"}]}],"credits":["d01v_9.00"]}
+{
+  "name": "Need for Speed™ Heat",
+  "id": "CUSA15090",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Unlock All Cars",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B483FB",
+          "on": "41817EF2556E6C6F752541817EF6636B416C751B41817EFA6C43617275115648BE54727565000000004989365EEB054C29F085D2E9393203FD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B7B668",
+          "on": "E98ECDFC02",
+          "off": "4C29F085D2"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B4843A",
+          "on": "4C89E7C74138FFE0F505E9D3E8B5FC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "16A6D15",
+          "on": "E920174A039090",
+          "off": "4C89E748895138"
+        }
+      ]
+    },
+    {
+      "name": "No Damage (not working on cops)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B4844F",
+          "on": "41C7000000803F41C740100000803FC4C17A106010E979DD97FD",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "24C61DC",
+          "on": "E96E22680290",
+          "off": "C4C17A106010"
+        }
+      ]
+    },
+    {
+      "name": "Disable Garage Teleport when Busted (single cheat)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B4846F",
+          "on": "81784847617261751E81784C6765416675155648BE66616C7365000000488B50204889325EEB074889DE488B5020E9592703FD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B7ABF4",
+          "on": "E976D8FC029090",
+          "off": "4889DE488B5020"
+        }
+      ]
+    },
+    {
+      "name": "Disable Reset Damage (Make Impact to cops / Single Cheat)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B484A8",
+          "on": "81784473655265751E81784C616D616775155648BE302E303000000000488B50204889325EEB074889DE488B5020E9202703FD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B7ABF4",
+          "on": "E9AFD8FC029090",
+          "off": "4889DE488B5020"
+        }
+      ]
+    },
+    {
+      "name": "Health 9999 (Enter Garage and exit, finish loading turn off cheat)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B484E1",
+          "on": "81783063657248751981783465616C7475108178386850726F750766C7000F27EB08C5EA2A084883C010E9388D98FD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "24D1240",
+          "on": "E99C726702909090",
+          "off": "C5EA2A084883C010"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Nitro (Press Nitro Button)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B48516",
+          "on": "4180BF0801000001750E41C7070000803FC4C17A1007EB08C5FA118314040000E99F9197FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "24C16D2",
+          "on": "E93F6E6802909090",
+          "off": "C5FA118314040000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v_9.00"
+  ]
+}

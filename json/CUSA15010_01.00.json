@@ -16,7 +16,7 @@
         }
       ]
     },
-	{
+    {
       "name": "All Client Infinite Ammo",
       "hint": null,
       "type": "checkbox",
@@ -28,7 +28,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Infinite Points",
       "hint": null,
       "type": "checkbox",
@@ -40,7 +40,7 @@
         }
       ]
     },
-	{
+    {
       "name": "1-Hit Kill",
       "hint": null,
       "type": "checkbox",
@@ -52,7 +52,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Load Zombies Step 1",
       "hint": "Go to the main menu and navigate to \"Multiplayer\"\nthen hit Step 1.",
       "type": "button",
@@ -64,7 +64,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Load Zombies Step 2",
       "hint": "Wait for the error to pop up then hit Step 2.",
       "type": "button",
@@ -74,26 +74,26 @@
           "on": "646973636F6E6E65637400",
           "off": "646973636F6E6E65637400"
         },
-		{
+        {
           "offset": "28705EC",
           "on": "0A",
           "off": "0A"
         }
       ]
     },
-	{
+    {
       "name": "Load Zombies Step 3",
       "hint": "Close the error popup then hit Step 3.",
       "type": "button",
       "memory": [
-		{
+        {
           "offset": "B994B58",
           "on": "00",
           "off": "00"
         }
       ]
     },
-	{
+    {
       "name": "Load Zombies Step 4",
       "hint": "Navigate to \"Setup Game\" > \"Change Mode\" >\n\"Round Based\" > \"Round Based\".\nConfirm the selection and then hit Step 4.",
       "type": "button",
@@ -103,14 +103,14 @@
           "on": "646973636F6E6E65637400",
           "off": "646973636F6E6E65637400"
         },
-		{
+        {
           "offset": "28705EC",
           "on": "0A",
           "off": "0A"
         }
       ]
     },
-	{
+    {
       "name": "Load Zombies Step 5",
       "hint": "Wait for the black screen to end then hit Step 5.",
       "type": "button",
@@ -120,7 +120,7 @@
           "on": "6C6F6262794C61756E636847616D6500",
           "off": "6C6F6262794C61756E636847616D6500"
         },
-		{
+        {
           "offset": "28705EC",
           "on": "0F",
           "off": "0F"

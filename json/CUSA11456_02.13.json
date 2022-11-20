@@ -1,1 +1,75 @@
-{"name":"Ghost of Tsushima","id":"CUSA11456","version":"02.13","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"7FEA1D00","on":"813F185682017512C7873019000000007A44C5FA108730190000C5FA118734190000E9ED02F880C7873419000000000000E9DE02F880","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"E2200C","on":"E9EFFC077F909090","off":"C5FA118734190000"}]},{"name":"Infinite Resolve","type":"checkbox","memory":[{"offset":"7FEA1D70","on":"C7875443000000002041E9223B8980","off":"000000000000000000000000000000"},{"offset":"735899","on":"E9D2C4767F909090","off":"C5FA118754430000"}]},{"name":"Max Resource (On Get)","type":"checkbox","memory":[{"offset":"7FEA1DD0","on":"42C744A8080F270000E909D98380","off":"0000000000000000000000000000"},{"offset":"6DF6E2","on":"E9E9267C7F","off":"42895CA808"}]},{"name":"Infinite Tech Points (Enable After Earn 1 point)","type":"checkbox","memory":[{"offset":"13333A0","on":"43C644AC5800E96EEE3AFF","off":"0000000000000000000000"},{"offset":"6E2214","on":"E98711C500","off":"430174AC58"}]}],"credits":["Saso"]}
+{
+  "name": "Ghost of Tsushima",
+  "id": "CUSA11456",
+  "version": "02.13",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA1D00",
+          "on": "813F185682017512C7873019000000007A44C5FA108730190000C5FA118734190000E9ED02F880C7873419000000000000E9DE02F880",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E2200C",
+          "on": "E9EFFC077F909090",
+          "off": "C5FA118734190000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Resolve",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA1D70",
+          "on": "C7875443000000002041E9223B8980",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "735899",
+          "on": "E9D2C4767F909090",
+          "off": "C5FA118754430000"
+        }
+      ]
+    },
+    {
+      "name": "Max Resource (On Get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA1DD0",
+          "on": "42C744A8080F270000E909D98380",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "6DF6E2",
+          "on": "E9E9267C7F",
+          "off": "42895CA808"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Tech Points (Enable After Earn 1 point)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13333A0",
+          "on": "43C644AC5800E96EEE3AFF",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "6E2214",
+          "on": "E98711C500",
+          "off": "430174AC58"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

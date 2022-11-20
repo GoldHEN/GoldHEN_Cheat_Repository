@@ -9,19 +9,19 @@
       "hint": null,
       "type": "checkbox",
       "memory": [
-		{
+        {
           "offset": "80E4AD4D",
           "on": "909090909090",
           "off": "C4C17A11464C"
         }
       ]
     },
-	{
+    {
       "name": "No Hunger",
       "hint": null,
       "type": "checkbox",
       "memory": [
-		{
+        {
           "offset": "80B65E07",
           "on": "909090909090",
           "off": "C4C17A114650"
@@ -31,19 +31,19 @@
           "on": "9090909090",
           "off": "C5FA114B50"
         },
-		{
+        {
           "offset": "80B660FB",
           "on": "9090909090",
           "off": "C5FA114350"
         }
       ]
     },
-	{
+    {
       "name": "No Thirst",
       "hint": null,
       "type": "checkbox",
       "memory": [
-		{
+        {
           "offset": "80B65D97",
           "on": "909090909090",
           "off": "C4C17A114654"
@@ -53,7 +53,7 @@
           "on": "9090909090",
           "off": "C5FA114B54"
         },
-		{
+        {
           "offset": "80B6636C",
           "on": "9090909090",
           "off": "C5FA114354"

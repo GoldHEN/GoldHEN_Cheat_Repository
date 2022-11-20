@@ -4,7 +4,7 @@
   "version": "01.00",
   "process": "eboot.bin",
   "mods": [
-	{
+    {
       "name": "Godmode",
       "hint": null,
       "type": "checkbox",
@@ -14,7 +14,7 @@
           "on": "837F1C007405E9BD2A9EFBC5FA118BA0000000E9B02A9EFB",
           "off": "000000000000000000000000000000000000000000000000"
         },
-		{
+        {
           "offset": "4DCDAC0",
           "on": "E93BD56104909090",
           "off": "C5FA118BA0000000"
@@ -31,14 +31,14 @@
           "on": "9090909090909090",
           "off": "C5FA118BA0000000"
         },
-		{
+        {
           "offset": "53F6B6D",
           "on": "90909090909090",
           "off": "418987B0010000"
         }
       ]
     },
-	{
+    {
       "name": "Infinite Money",
       "hint": null,
       "type": "checkbox",
@@ -50,7 +50,7 @@
         }
       ]
     },
-	{
+    {
       "name": "5000x XP",
       "hint": null,
       "type": "checkbox",
@@ -60,14 +60,14 @@
           "on": "69D2881300008993C4010000E9695402F8",
           "off": "0000000000000000000000000000000000"
         },
-		{
+        {
           "offset": "141048C",
           "on": "E987ABFD0790",
           "off": "8993C4010000"
         }
       ]
     },
-	{
+    {
       "name": "Infinite Skillpoints",
       "hint": null,
       "type": "checkbox",
@@ -77,7 +77,7 @@
           "on": "41C7866001000010270000E9F0BC9AF7",
           "off": "00000000000000000000000000000000"
         },
-		{
+        {
           "offset": "D96D22",
           "on": "E9024365089090",
           "off": "41898E60010000"

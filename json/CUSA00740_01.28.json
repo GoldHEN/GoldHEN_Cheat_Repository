@@ -1,1 +1,71 @@
-{"name":"Terraria","id":"CUSA00740","version":"01.28","process":"eboot.bin","mods":[{"name":"Inf item on crafting","type":"checkbox","memory":[{"offset":"18FDFC0","on":"4489F88983CC000000E9D733217F","off":"0000000000000000000000000000"},{"offset":"80B1139F","on":"E91CCCDE8090","off":"8983CC000000"}]},{"name":"Inf Item Use","type":"checkbox","memory":[{"offset":"80A82DED","on":"9090","off":"FFC8"}]},{"name":"Max item on split","type":"checkbox","memory":[{"offset":"80CE7D4F","on":"B8FF00000090","off":"8B80CC000000"}]},{"name":"inf health","type":"checkbox","memory":[{"offset":"80A166AC","on":"90909090909090","off":"41299FCC060000"}]},{"name":"Infinite Mana","type":"checkbox","memory":[{"offset":"80AF9849","on":"90909090909090","off":"418989D0060000"}]}],"credits":["aran"]}
+{
+  "name": "Terraria",
+  "id": "CUSA00740",
+  "version": "01.28",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf item on crafting",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18FDFC0",
+          "on": "4489F88983CC000000E9D733217F",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "80B1139F",
+          "on": "E91CCCDE8090",
+          "off": "8983CC000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Item Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80A82DED",
+          "on": "9090",
+          "off": "FFC8"
+        }
+      ]
+    },
+    {
+      "name": "Max item on split",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80CE7D4F",
+          "on": "B8FF00000090",
+          "off": "8B80CC000000"
+        }
+      ]
+    },
+    {
+      "name": "inf health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80A166AC",
+          "on": "90909090909090",
+          "off": "41299FCC060000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mana",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80AF9849",
+          "on": "90909090909090",
+          "off": "418989D0060000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "aran"
+  ]
+}

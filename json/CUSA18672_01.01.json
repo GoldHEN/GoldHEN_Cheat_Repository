@@ -1,1 +1,76 @@
-{"name":"Crysis2® Remastered","id":"CUSA18672","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite Health / 1 Hit (Master Code)","type":"checkbox","memory":[{"offset":"25D9600","on":"66817B107777752BC5FA118B6C030000E9CBDE60FF81BB6C0300000000083F7E12C7836C0300000000003FC5FA10836C030000C5FA11836C030000E9A0DE60FF","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"1BE74D8","on":"E923219F00909090","off":"C5FA11836C030000"}]},{"name":"1 Hit Kill (MC)","type":"checkbox","memory":[{"offset":"25D9606","on":"750D","off":"752B"}]},{"name":"Infinite Energy","type":"checkbox","memory":[{"offset":"1DF4DDC","on":"C4C17A10842460010000","off":"C4C17A5D842460010000"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"1FC85BE","on":"909090","off":"448939"}]},{"name":"Max Nano Catalyst","type":"checkbox","memory":[{"offset":"25D96F0","on":"66C78130020000FFFFE9629197FF","off":"0000000000000000000000000000"},{"offset":"1F5285A","on":"E9916E680090","off":"018130020000"}]}],"credits":["Saso_9.00"]}
+{
+  "name": "Crysis2® Remastered",
+  "id": "CUSA18672",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health / 1 Hit (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25D9600",
+          "on": "66817B107777752BC5FA118B6C030000E9CBDE60FF81BB6C0300000000083F7E12C7836C0300000000003FC5FA10836C030000C5FA11836C030000E9A0DE60FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1BE74D8",
+          "on": "E923219F00909090",
+          "off": "C5FA11836C030000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25D9606",
+          "on": "750D",
+          "off": "752B"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DF4DDC",
+          "on": "C4C17A10842460010000",
+          "off": "C4C17A5D842460010000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FC85BE",
+          "on": "909090",
+          "off": "448939"
+        }
+      ]
+    },
+    {
+      "name": "Max Nano Catalyst",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25D96F0",
+          "on": "66C78130020000FFFFE9629197FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1F5285A",
+          "on": "E9916E680090",
+          "off": "018130020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

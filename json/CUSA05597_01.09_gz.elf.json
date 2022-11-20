@@ -1,1 +1,33 @@
-{"name":"METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE","id":"CUSA05597","version":"01.09","process":"gz.elf","mods":[{"name":"Infinite Silencer","type":"checkbox","memory":[{"offset":"D240EE","on":"90909090909090","off":"66898798030000"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"B03C91","on":"9090","off":"8938"}]}],"credits":["haxso"]}
+{
+  "name": "METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE",
+  "id": "CUSA05597",
+  "version": "01.09",
+  "process": "gz.elf",
+  "mods": [
+    {
+      "name": "Infinite Silencer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D240EE",
+          "on": "90909090909090",
+          "off": "66898798030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B03C91",
+          "on": "9090",
+          "off": "8938"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "haxso"
+  ]
+}

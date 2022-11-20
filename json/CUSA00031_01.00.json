@@ -1,1 +1,76 @@
-{"name":"Rayman® Legends","id":"CUSA00031","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Live","type":"checkbox","memory":[{"offset":"F3A54","on":"9090","off":"29F0"}]},{"name":"9.999 Lums ( per Level )","type":"checkbox","memory":[{"offset":"143B840","on":"89F1C704880F270000E96B51CBFE","off":"0000000000000000000000000000"},{"offset":"F09B3","on":"E988AE340190","off":"89F144013488"},{"offset":"475723","on":"B80F2700009090","off":"418B85D0000000"}]},{"name":"9.999.999 Lums ( Unlocked all Character - Main Menu )","type":"checkbox","memory":[{"offset":"1493EC0","on":"C780000200007F96980003B000020000E991BD5DFF","off":"000000000000000000000000000000000000000000"},{"offset":"A6FC60","on":"E95B42A20090","off":"03B000020000"}]},{"name":"Infinite Lucky Tickets","type":"checkbox","memory":[{"offset":"1493EE0","on":"C780640300000F270000448BB064030000E905D603FF","off":"00000000000000000000000000000000000000000000"},{"offset":"4D14F4","on":"E9E729FC009090","off":"448BB064030000"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "Rayman® Legends",
+  "id": "CUSA00031",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Live",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F3A54",
+          "on": "9090",
+          "off": "29F0"
+        }
+      ]
+    },
+    {
+      "name": "9.999 Lums ( per Level )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "143B840",
+          "on": "89F1C704880F270000E96B51CBFE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "F09B3",
+          "on": "E988AE340190",
+          "off": "89F144013488"
+        },
+        {
+          "offset": "475723",
+          "on": "B80F2700009090",
+          "off": "418B85D0000000"
+        }
+      ]
+    },
+    {
+      "name": "9.999.999 Lums ( Unlocked all Character - Main Menu )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1493EC0",
+          "on": "C780000200007F96980003B000020000E991BD5DFF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A6FC60",
+          "on": "E95B42A20090",
+          "off": "03B000020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Lucky Tickets",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1493EE0",
+          "on": "C780640300000F270000448BB064030000E905D603FF",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4D14F4",
+          "on": "E9E729FC009090",
+          "off": "448BB064030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

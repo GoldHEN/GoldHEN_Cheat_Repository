@@ -1,1 +1,43 @@
-{"name":"WWE 2K15","id":"CUSA00781","version":"01.00","process":"eboot.bin","mods":[{"name":"Max SP (on slide to the left in Attribute)","type":"checkbox","memory":[{"offset":"7FC497B0","on":"418187840100007F969800E9536B0A81","off":"00000000000000000000000000000000"},{"offset":"CF030C","on":"E99F94F57E9090","off":"41018784010000"}]},{"name":"Max VC (on spent)","type":"checkbox","memory":[{"offset":"7FC49880","on":"C787C0C10000FFC99A3BE97EA7E581","off":"000000000000000000000000000000"},{"offset":"1AA4007","on":"E974581A7E90","off":"8987C0C10000"}]}],"credits":["Wander_9.00"]}
+{
+  "name": "WWE 2K15",
+  "id": "CUSA00781",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max SP (on slide to the left in Attribute)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC497B0",
+          "on": "418187840100007F969800E9536B0A81",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "CF030C",
+          "on": "E99F94F57E9090",
+          "off": "41018784010000"
+        }
+      ]
+    },
+    {
+      "name": "Max VC (on spent)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC49880",
+          "on": "C787C0C10000FFC99A3BE97EA7E581",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1AA4007",
+          "on": "E974581A7E90",
+          "off": "8987C0C10000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander_9.00"
+  ]
+}

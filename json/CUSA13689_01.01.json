@@ -1,1 +1,22 @@
-{"name":"The Outer Worlds","id":"CUSA13689","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"1E77DBE","on":"9090","off":"29C1"}]}],"credits":["Mogu"]}
+{
+  "name": "The Outer Worlds",
+  "id": "CUSA13689",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E77DBE",
+          "on": "9090",
+          "off": "29C1"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Mogu"
+  ]
+}

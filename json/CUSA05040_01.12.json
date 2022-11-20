@@ -1,1 +1,38 @@
-{"name":"NBA 2K17","id":"CUSA05040","version":"01.12","process":"eboot.bin","mods":[{"name":"Make Most Shots Hold Left Dpad","type":"checkbox","memory":[{"offset":"3343800","on":"BA0000000048B98883400008000000488B094881E1800000000F85EBF62EFEE9FDF52EFE","off":"000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"1632E1C","on":"E9DF09D101","off":"BA00000000"}]},{"name":"1.25x Game Clock And Shot Clock","type":"checkbox","memory":[{"offset":"18D3284","on":"48B80000A03F09000000","off":"48B80000803F0900"}]}],"credits":["nolberto82"]}
+{
+  "name": "NBA 2K17",
+  "id": "CUSA05040",
+  "version": "01.12",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Make Most Shots Hold Left Dpad",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3343800",
+          "on": "BA0000000048B98883400008000000488B094881E1800000000F85EBF62EFEE9FDF52EFE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1632E1C",
+          "on": "E9DF09D101",
+          "off": "BA00000000"
+        }
+      ]
+    },
+    {
+      "name": "1.25x Game Clock And Shot Clock",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18D3284",
+          "on": "48B80000A03F09000000",
+          "off": "48B80000803F0900"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "nolberto82"
+  ]
+}

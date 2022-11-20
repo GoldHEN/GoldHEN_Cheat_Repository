@@ -1,1 +1,121 @@
-{"name":"Dying Light 2: Stay Human","id":"CUSA12555","version":"01.01","process":"eboot.bin","mods":[{"name":"God Mode","type":"checkbox","memory":[{"offset":"2641262","on":"9090909090","off":"E859E2C6FF"}]},{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"267866D","on":"9090909090","off":"C5FA114310"}]},{"name":"Infinite Immunity","type":"checkbox","memory":[{"offset":"2648851","on":"909090909090","off":"C4C17A11472C"}]},{"name":"Items Multiplier(Turn Off After Use)","type":"checkbox","memory":[{"offset":"235BC5D","on":"44013B","off":"44893B"}]},{"name":" Infinite Items Usage","type":"checkbox","memory":[{"offset":"25F3F89","on":"9090909090","off":"E8C27BD6FF"}]},{"name":"Infinite Consumables Usage","type":"checkbox","memory":[{"offset":"25F40FF","on":"9090909090","off":"E84C7AD6FF"}]},{"name":"Money Multiplier","type":"checkbox","memory":[{"offset":"25F21DB","on":"015734","off":"895734"}]},{"name":"Infinite Melee Durability (Do Not Use with Dev Menu)","type":"checkbox","memory":[{"offset":"2319676","on":"9090909090909090","off":"C5FA1183A8000000"}]},{"name":"Experience Parkour/Combat Inhabitor Multiplier","type":"checkbox","memory":[{"offset":"27FBA9A","on":"4901442418","off":"4989442418"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"27D1C97","on":"9090909090","off":"E8B49EB8FF"}]}],"credits":["WanderLMN"]}
+{
+  "name": "Dying Light 2: Stay Human",
+  "id": "CUSA12555",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2641262",
+          "on": "9090909090",
+          "off": "E859E2C6FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "267866D",
+          "on": "9090909090",
+          "off": "C5FA114310"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Immunity",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2648851",
+          "on": "909090909090",
+          "off": "C4C17A11472C"
+        }
+      ]
+    },
+    {
+      "name": "Items Multiplier(Turn Off After Use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "235BC5D",
+          "on": "44013B",
+          "off": "44893B"
+        }
+      ]
+    },
+    {
+      "name": " Infinite Items Usage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25F3F89",
+          "on": "9090909090",
+          "off": "E8C27BD6FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Consumables Usage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25F40FF",
+          "on": "9090909090",
+          "off": "E84C7AD6FF"
+        }
+      ]
+    },
+    {
+      "name": "Money Multiplier",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25F21DB",
+          "on": "015734",
+          "off": "895734"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Melee Durability (Do Not Use with Dev Menu)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2319676",
+          "on": "9090909090909090",
+          "off": "C5FA1183A8000000"
+        }
+      ]
+    },
+    {
+      "name": "Experience Parkour/Combat Inhabitor Multiplier",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27FBA9A",
+          "on": "4901442418",
+          "off": "4989442418"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27D1C97",
+          "on": "9090909090",
+          "off": "E8B49EB8FF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "WanderLMN"
+  ]
+}

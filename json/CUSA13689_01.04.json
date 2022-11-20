@@ -1,1 +1,146 @@
-{"name":"The Outer Worlds","id":"CUSA13689","version":"01.04","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"66FCBA0","on":"813B9863E306750DC5FA1183C8010000E92614E6FAC5FA118BC8010000E91914E6FA","off":"00000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"155DFD3","on":"E9C8EB1905909090","off":"C5FA118BC8010000"}]},{"name":"Infinite Energy","type":"checkbox","memory":[{"offset":"1890EF8","on":"C5FA118380010000","off":"C5FA118B80010000"}]},{"name":"Weapon Durability (%100)","type":"checkbox","memory":[{"offset":"17BB251","on":"C5FA119714010000","off":"C5FA118714010000"}]},{"name":"Infinite Ammo / No Reload","type":"checkbox","memory":[{"offset":"1F1BB7E","on":"9090","off":"29C1"}]},{"name":"Skill Points 99 (on Spend)","type":"checkbox","memory":[{"offset":"66FCBE0","on":"BA6300000089977C070000E9741C1CFB","off":"00000000000000000000000000000000"},{"offset":"18BE85E","on":"E97DE3E30490","off":"29977C070000"}]},{"name":"Perks Points 99 (on Spend)","type":"checkbox","memory":[{"offset":"66FCC20","on":"B86300000041898514030000E9977FDDFA","off":"0000000000000000000000000000000000"},{"offset":"14D4BC1","on":"E95A8022059090","off":"41898514030000"}]},{"name":"Fast Lvl Up / XP","type":"checkbox","memory":[{"offset":"66FCC00","on":"F7E041898578070000E9E27017FB","off":"0000000000000000000000000000"},{"offset":"1873CE9","on":"E9128FE8049090","off":"41898578070000"}]},{"name":"Max All (on Spend)","type":"checkbox","memory":[{"offset":"66FCC50","on":"418B0C24B90F270000E95C9408FB","off":"0000000000000000000000000000"},{"offset":"17860B3","on":"E9986BF7049090","off":"418B0C244429E9"}]},{"name":"Weight 0 (on Pick)","type":"checkbox","memory":[{"offset":"1792CB6","on":"C5FA11A328030000","off":"C5FA118328030000"}]},{"name":"Weight 0 (on Drop)","type":"checkbox","memory":[{"offset":"1792D1B","on":"C5FA11A328030000","off":"C5FA118328030000"}]}],"credits":["Saso"]}
+{
+  "name": "The Outer Worlds",
+  "id": "CUSA13689",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66FCBA0",
+          "on": "813B9863E306750DC5FA1183C8010000E92614E6FAC5FA118BC8010000E91914E6FA",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "155DFD3",
+          "on": "E9C8EB1905909090",
+          "off": "C5FA118BC8010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1890EF8",
+          "on": "C5FA118380010000",
+          "off": "C5FA118B80010000"
+        }
+      ]
+    },
+    {
+      "name": "Weapon Durability (%100)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17BB251",
+          "on": "C5FA119714010000",
+          "off": "C5FA118714010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo / No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F1BB7E",
+          "on": "9090",
+          "off": "29C1"
+        }
+      ]
+    },
+    {
+      "name": "Skill Points 99 (on Spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66FCBE0",
+          "on": "BA6300000089977C070000E9741C1CFB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "18BE85E",
+          "on": "E97DE3E30490",
+          "off": "29977C070000"
+        }
+      ]
+    },
+    {
+      "name": "Perks Points 99 (on Spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66FCC20",
+          "on": "B86300000041898514030000E9977FDDFA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "14D4BC1",
+          "on": "E95A8022059090",
+          "off": "41898514030000"
+        }
+      ]
+    },
+    {
+      "name": "Fast Lvl Up / XP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66FCC00",
+          "on": "F7E041898578070000E9E27017FB",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1873CE9",
+          "on": "E9128FE8049090",
+          "off": "41898578070000"
+        }
+      ]
+    },
+    {
+      "name": "Max All (on Spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66FCC50",
+          "on": "418B0C24B90F270000E95C9408FB",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "17860B3",
+          "on": "E9986BF7049090",
+          "off": "418B0C244429E9"
+        }
+      ]
+    },
+    {
+      "name": "Weight 0 (on Pick)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1792CB6",
+          "on": "C5FA11A328030000",
+          "off": "C5FA118328030000"
+        }
+      ]
+    },
+    {
+      "name": "Weight 0 (on Drop)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1792D1B",
+          "on": "C5FA11A328030000",
+          "off": "C5FA118328030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

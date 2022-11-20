@@ -1,1 +1,129 @@
-{"name":"Kingdom Come: Deliverance Royal Edition","id":"CUSA15436","version":"1.04","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"431B8B1","on":"C7871C05000000C07944C5FA10871C050000E9BA474AFC","off":"0000000000000000000000000000000000000000000000"},{"offset":"7C007A","on":"E932B8B503909090","off":"C5FA10871C050000"}]},{"name":"Infinite Stamina + 999","type":"checkbox","memory":[{"offset":"431B8D0","on":"41C784242005000000C07944C4C1782E84242005000090E9DFFCD4FC","off":"00000000000000000000000000000000000000000000000000000000"},{"offset":"106B5C1","on":"E90A032B039090909090","off":"C4C1782E842420050000"}]},{"name":"Infinite Energy","type":"checkbox","memory":[{"offset":"431B900","on":"41C7852405000000C07944C4C17A10852405000090E9BA3FDAFC","off":"0000000000000000000000000000000000000000000000000000"},{"offset":"10BF8CB","on":"E930C0250390909090","off":"C4C17A108524050000"}]},{"name":"Infinite Nourishment","type":"checkbox","memory":[{"offset":"431B920","on":"41C785280500000000C842C4C17A10852805000090E95E3FDAFC","off":"0000000000000000000000000000000000000000000000000000"},{"offset":"10BF88F","on":"E98CC0250390909090","off":"C4C17A108528050000"}]},{"name":"Weight","type":"checkbox","memory":[{"offset":"10B03DC","on":"909090909090","off":"C4C17A11461C"}]},{"name":"99 items","type":"checkbox","memory":[{"offset":"431B940","on":"4889DFC64038638B703890E94EC8AAFC","off":"00000000000000000000000000000000"},{"offset":"DC8198","on":"E9A337550390","off":"4889DF8B7038"}]},{"name":"Groschen 9m","type":"checkbox","memory":[{"offset":"431B960","on":"C74138FFE0F5058B4138418907E91EB685FC","off":"000000000000000000000000000000000000"},{"offset":"B76F8A","on":"E9D1497A0390","off":"8B4138418907"}]},{"name":"Bleed Disabled","type":"checkbox","memory":[{"offset":"114C674","on":"909090","off":"488930"}]}],"credits":["d01v_9.00"]}
+{
+  "name": "Kingdom Come: Deliverance Royal Edition",
+  "id": "CUSA15436",
+  "version": "1.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B8B1",
+          "on": "C7871C05000000C07944C5FA10871C050000E9BA474AFC",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7C007A",
+          "on": "E932B8B503909090",
+          "off": "C5FA10871C050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina + 999",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B8D0",
+          "on": "41C784242005000000C07944C4C1782E84242005000090E9DFFCD4FC",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "106B5C1",
+          "on": "E90A032B039090909090",
+          "off": "C4C1782E842420050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B900",
+          "on": "41C7852405000000C07944C4C17A10852405000090E9BA3FDAFC",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "10BF8CB",
+          "on": "E930C0250390909090",
+          "off": "C4C17A108524050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Nourishment",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B920",
+          "on": "41C785280500000000C842C4C17A10852805000090E95E3FDAFC",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "10BF88F",
+          "on": "E98CC0250390909090",
+          "off": "C4C17A108528050000"
+        }
+      ]
+    },
+    {
+      "name": "Weight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10B03DC",
+          "on": "909090909090",
+          "off": "C4C17A11461C"
+        }
+      ]
+    },
+    {
+      "name": "99 items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B940",
+          "on": "4889DFC64038638B703890E94EC8AAFC",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "DC8198",
+          "on": "E9A337550390",
+          "off": "4889DF8B7038"
+        }
+      ]
+    },
+    {
+      "name": "Groschen 9m",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B960",
+          "on": "C74138FFE0F5058B4138418907E91EB685FC",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B76F8A",
+          "on": "E9D1497A0390",
+          "off": "8B4138418907"
+        }
+      ]
+    },
+    {
+      "name": "Bleed Disabled",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "114C674",
+          "on": "909090",
+          "off": "488930"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v_9.00"
+  ]
+}

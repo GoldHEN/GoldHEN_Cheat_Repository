@@ -1,1 +1,27 @@
-{"name":"The Last of Us™ Remastered","id":"CUSA00552","version":"01.10","process":"eboot.bin","mods":[{"name":"L3 + Upper L or Upper R Touch Pad","type":"checkbox","memory":[{"offset":"1473800","on":"48BA8883400008000000488B124883E202750CC681812E000000E9F008B9FEC681812E000001E9E408B9FE","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"4108","on":"E9F3F646019090","off":"80B9812E000000"}]}],"credits":["hejran7"]}
+{
+  "name": "The Last of Us™ Remastered",
+  "id": "CUSA00552",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "L3 + Upper L or Upper R Touch Pad",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1473800",
+          "on": "48BA8883400008000000488B124883E202750CC681812E000000E9F008B9FEC681812E000001E9E408B9FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4108",
+          "on": "E9F3F646019090",
+          "off": "80B9812E000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

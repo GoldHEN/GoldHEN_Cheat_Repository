@@ -1,1 +1,124 @@
-{"name":"Ancestors: The Humankind Odyssey","id":"CUSA13248","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"6A43C4","on":"9090909090909090","off":"C5FA1183A0000000"}]},{"name":"Infinite Energy","type":"checkbox","memory":[{"offset":"6A46AC","on":"9090909090909090","off":"C5FA11879C000000"}]},{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"370BB57","on":"9090909090","off":"C5FA114354"}]},{"name":"Infinite Broken bones Protection","type":"checkbox","memory":[{"offset":"7FC5E890","on":"66C783B0000000CF02E968D2A480","off":"0000000000000000000000000000"},{"offset":"6ABAFF","on":"E98C2D5B7F9090","off":"488983B0000000"}]},{"name":"Infinite Cold  Protection","type":"checkbox","memory":[{"offset":"7FC5E8B0","on":"66C787F4000000CF02E9A1F1A380","off":"0000000000000000000000000000"},{"offset":"69DA59","on":"E9520E5C7F90","off":"8987F4000000"}]},{"name":"Infinite Food Poisoning/ Venom Protection","type":"checkbox","memory":[{"offset":"7FC5E8F0","on":"66C787D0000000CF02E92152A080","off":"0000000000000000000000000000"},{"offset":"663B18","on":"E9D3AD5F7F9090","off":"488987D0000000"}]},{"name":"Infinite Bleeding Protection","type":"checkbox","memory":[{"offset":"7FC5E910","on":"66C78330010000CF02E93C3F9A80","off":"0000000000000000000000000000"},{"offset":"602853","on":"E9B8C0657F9090","off":"48898330010000"}]},{"name":"Minimum negative effect ","type":"checkbox","memory":[{"offset":"7FC5E8D0","on":"C687C800000001E92599A080","off":"000000000000000000000000"},{"offset":"6681FA","on":"E9D1665F7F9090","off":"48898FC8000000"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Ancestors: The Humankind Odyssey",
+  "id": "CUSA13248",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6A43C4",
+          "on": "9090909090909090",
+          "off": "C5FA1183A0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6A46AC",
+          "on": "9090909090909090",
+          "off": "C5FA11879C000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "370BB57",
+          "on": "9090909090",
+          "off": "C5FA114354"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Broken bones Protection",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E890",
+          "on": "66C783B0000000CF02E968D2A480",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "6ABAFF",
+          "on": "E98C2D5B7F9090",
+          "off": "488983B0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Cold  Protection",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E8B0",
+          "on": "66C787F4000000CF02E9A1F1A380",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "69DA59",
+          "on": "E9520E5C7F90",
+          "off": "8987F4000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Food Poisoning/ Venom Protection",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E8F0",
+          "on": "66C787D0000000CF02E92152A080",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "663B18",
+          "on": "E9D3AD5F7F9090",
+          "off": "488987D0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Bleeding Protection",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E910",
+          "on": "66C78330010000CF02E93C3F9A80",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "602853",
+          "on": "E9B8C0657F9090",
+          "off": "48898330010000"
+        }
+      ]
+    },
+    {
+      "name": "Minimum negative effect ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E8D0",
+          "on": "C687C800000001E92599A080",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "6681FA",
+          "on": "E9D1665F7F9090",
+          "off": "48898FC8000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

@@ -1,1 +1,43 @@
-{"name":"STAR WARS Jedi: Fallen Order™","id":"CUSA12529","version":"01.12","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"7FC5FE10","on":"817B0848000400750CC783B401000000004843EB08C5FA1183B4010000E902479481","off":"00000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"15A452C","on":"E9DFB86B7E909090","off":"C5FA1183B4010000"}]},{"name":"Infinite Force","type":"checkbox","memory":[{"offset":"7FC5FDB0","on":"C783740100000000C842E98BA44682","off":"000000000000000000000000000000"},{"offset":"20CA242","on":"E9695BB97D909090","off":"C5FA119374010000"}]}],"credits":["Wander_9.00"]}
+{
+  "name": "STAR WARS Jedi: Fallen Order™",
+  "id": "CUSA12529",
+  "version": "01.12",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FE10",
+          "on": "817B0848000400750CC783B401000000004843EB08C5FA1183B4010000E902479481",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15A452C",
+          "on": "E9DFB86B7E909090",
+          "off": "C5FA1183B4010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Force",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FDB0",
+          "on": "C783740100000000C842E98BA44682",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "20CA242",
+          "on": "E9695BB97D909090",
+          "off": "C5FA119374010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander_9.00"
+  ]
+}

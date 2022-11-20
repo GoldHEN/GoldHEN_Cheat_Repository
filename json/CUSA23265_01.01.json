@@ -1,1 +1,22 @@
-{"name":"Need for Speed™ Hot Pursuit Remastered","id":"CUSA23265","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite Nitrous","type":"checkbox","memory":[{"offset":"1DFB5D","on":"9090909090","off":"C5FA114B0C"}]}],"credits":["ULTRA 85"]}
+{
+  "name": "Need for Speed™ Hot Pursuit Remastered",
+  "id": "CUSA23265",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Nitrous",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DFB5D",
+          "on": "9090909090",
+          "off": "C5FA114B0C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "ULTRA 85"
+  ]
+}

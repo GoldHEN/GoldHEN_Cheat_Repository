@@ -1,1 +1,91 @@
-{"name":"Wolfenstein®: The Old Blood","id":"CUSA01540","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"7FC4BFC0","on":"C5FA104308E90AD5A780","off":"00000000000000000000"},{"offset":"6C94CF","on":"E9EC2A587F","off":"C5FA114308"}]},{"name":"Infinite Gold Health","type":"checkbox","memory":[{"offset":"7FC4BF80","on":"C5FA104B08E93ED4A780","off":"00000000000000000000"},{"offset":"6C93C3","on":"E9B82B587F","off":"C5FA114B08"}]},{"name":"Infinite Armor","type":"checkbox","memory":[{"offset":"7FC4BFA0","on":"C5FA104B10E9E4D4A780","off":"00000000000000000000"},{"offset":"6C9489","on":"E9122B587F","off":"C5FA114B10"}]},{"name":"Infinite Ammo/Granades/No Reload","type":"checkbox","memory":[{"offset":"7FC4BFE0","on":"448B63502B4320E95A56E180","off":"000000000000000000000000"},{"offset":"A6163F","on":"E99CA91E7F9090","off":"448B6350294320"}]},{"name":"Infinite Knife","type":"checkbox","memory":[{"offset":"7FC4BF60","on":"440F49F8448B7B20E938CFE080","off":"00000000000000000000000000"},{"offset":"A58E9D","on":"E9BE301F7F909090","off":"440F49F844897B20"}]}],"credits":["Celogamez"]}
+{
+  "name": "Wolfenstein®: The Old Blood",
+  "id": "CUSA01540",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BFC0",
+          "on": "C5FA104308E90AD5A780",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "6C94CF",
+          "on": "E9EC2A587F",
+          "off": "C5FA114308"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gold Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BF80",
+          "on": "C5FA104B08E93ED4A780",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "6C93C3",
+          "on": "E9B82B587F",
+          "off": "C5FA114B08"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Armor",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BFA0",
+          "on": "C5FA104B10E9E4D4A780",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "6C9489",
+          "on": "E9122B587F",
+          "off": "C5FA114B10"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/Granades/No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BFE0",
+          "on": "448B63502B4320E95A56E180",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "A6163F",
+          "on": "E99CA91E7F9090",
+          "off": "448B6350294320"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Knife",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BF60",
+          "on": "440F49F8448B7B20E938CFE080",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "A58E9D",
+          "on": "E9BE301F7F909090",
+          "off": "440F49F844897B20"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

@@ -1,1 +1,22 @@
-{"name":"Jurassic World Evolution 2","id":"CUSA27319","version":"01.03","process":"eboot.bin","mods":[{"name":"Max Money (Buy 2 Roads)","type":"checkbox","memory":[{"offset":"1782D6E","on":"4D01A6B8000000","off":"4D89A6B8000000"}]}],"credits":["Wander"]}
+{
+  "name": "Jurassic World Evolution 2",
+  "id": "CUSA27319",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money (Buy 2 Roads)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1782D6E",
+          "on": "4D01A6B8000000",
+          "off": "4D89A6B8000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander"
+  ]
+}

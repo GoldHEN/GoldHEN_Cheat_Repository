@@ -1,1 +1,59 @@
-{"name":"Far Cry® 5","id":"CUSA05904","version":"01.12","process":"eboot.bin","mods":[{"name":"Infinite ammo + No Reload","type":"checkbox","memory":[{"offset":"5FCF800","on":"41BF630000004489BB88010000E9EC308AFD","off":"000000000000000000000000000000000000"},{"offset":"38728F7","on":"E904CF75029090","off":"4489BB88010000"}]},{"name":"Max Infinite All usable Items","type":"checkbox","memory":[{"offset":"5FCF812","on":"4429F0B83F420F0089434CE9A83B1AFB","off":"00000000000000000000000000000000"},{"offset":"11733C4","on":"E949C4E50490","off":"4429F089434C"}]},{"name":"Max Infinite Perks Points (Enable Only In Perks Screen","type":"checkbox","memory":[{"offset":"5FCF800","on":"C783E0000000E7030000E9E43A46FD","off":"000000000000000000000000000000"},{"offset":"34332EC","on":"E90FC5B9029090","off":"4429BBE0000000"}]}],"credits":["ADI"]}
+{
+  "name": "Far Cry® 5",
+  "id": "CUSA05904",
+  "version": "01.12",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite ammo + No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5FCF800",
+          "on": "41BF630000004489BB88010000E9EC308AFD",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "38728F7",
+          "on": "E904CF75029090",
+          "off": "4489BB88010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Infinite All usable Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5FCF812",
+          "on": "4429F0B83F420F0089434CE9A83B1AFB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "11733C4",
+          "on": "E949C4E50490",
+          "off": "4429F089434C"
+        }
+      ]
+    },
+    {
+      "name": "Max Infinite Perks Points (Enable Only In Perks Screen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5FCF800",
+          "on": "C783E0000000E7030000E9E43A46FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "34332EC",
+          "on": "E90FC5B9029090",
+          "off": "4429BBE0000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "ADI"
+  ]
+}

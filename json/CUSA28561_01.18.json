@@ -1,1 +1,192 @@
-{"name":"Horizon Forbbiden West","id":"CUSA28561","version":"01.18","process":"eboot.bin","mods":[{"name":"Infinite Health/1 Hit Kill (Master Code)","type":"checkbox","memory":[{"offset":"2BDBB10","on":"4180BDD800000013750EC4C17A114574E9701A2AFE0F57C0C4C17A114574E9621A2AFE","off":"0000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"E7D58F","on":"E97CE5D50190","off":"C4C17A114574"}]},{"name":"Infinite Health (Need MC)","type":"checkbox","memory":[{"offset":"2BDBB1A","on":"C4C17A104574","off":"C4C17A114574"}]},{"name":"1 Hit Kill Need MC)","type":"checkbox","memory":[{"offset":"2BDBB18","on":"750B","off":"750E"}]},{"name":"Max/Infinite All Items/Resources","type":"checkbox","memory":[{"offset":"7FC5E0C0","on":"0F4CF041C74650E7030000E9F7092982","off":"00000000000000000000000000000000"},{"offset":"1EEEAC0","on":"E9FBF5D67D9090","off":"0F4CF041897650"},{"offset":"7FC5E890","on":"29C841C74050E7030000E914EB2882","off":"000000000000000000000000000000"},{"offset":"1EED3AD","on":"E9DE14D77D90","off":"29C841894050"},{"offset":"7FC5E360","on":"440F4EE141C74250E7030000E9454E2982","off":"0000000000000000000000000000000000"},{"offset":"1EF31AE","on":"E9ADB1D67D909090","off":"440F4EE145896250"}]},{"name":"Infinite Boltblast Ammo","type":"checkbox","memory":[{"offset":"7FC5E230","on":"90E929FF3D82","off":"000000000000"},{"offset":"203E157","on":"E9D400C27D909090","off":"41898C2490000000"}]},{"name":"Max/Infinite Shards On Gain","type":"checkbox","memory":[{"offset":"7FC5FF70","on":"41C744DB100F270000E935E7A081","off":"0000000000000000000000000000"},{"offset":"166E6AE","on":"E9BD185F7E","off":"450174DB10"}]},{"name":"Infinite Aim Focus","type":"checkbox","memory":[{"offset":"7FC5E130","on":"C4C17A10455CE98FC1C981","off":"0000000000000000000000"},{"offset":"18FA2C4","on":"E9673E367E90","off":"C4C17A11455C"}]},{"name":"Infinite Weapon Stamina/Breath","type":"checkbox","memory":[{"offset":"7FC5F600","on":"C5FA104350E936BF1782","off":"00000000000000000000"},{"offset":"1DDB53B","on":"E9C040E87D","off":"C5FA114350"}]},{"name":"Instant Valor Surge Fill","type":"checkbox","memory":[{"offset":"7FC5E630","on":"C787800000000000FA43E93965EB81","off":"000000000000000000000000000000"},{"offset":"1B14B70","on":"E9BB9A147E909090","off":"C5FA118F80000000"}]},{"name":"Max/Infinite Valor Surge (Activate Valor First)","type":"checkbox","memory":[{"offset":"7FC5E8F0","on":"C5F25CC0C7060000FA43E98B08EC81","off":"000000000000000000000000000000"},{"offset":"1B1F182","on":"E969F7137E909090","off":"C5F25CC0C5FA1106"}]},{"name":"Lot Of Infinite Skill Points","type":"checkbox","memory":[{"offset":"1F6FF68","on":"41895670","off":"41894E70"}]}],"credits":["Celogamez"]}
+{
+  "name": "Horizon Forbbiden West",
+  "id": "CUSA28561",
+  "version": "01.18",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit Kill (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BDBB10",
+          "on": "4180BDD800000013750EC4C17A114574E9701A2AFE0F57C0C4C17A114574E9621A2AFE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E7D58F",
+          "on": "E97CE5D50190",
+          "off": "C4C17A114574"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (Need MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BDBB1A",
+          "on": "C4C17A104574",
+          "off": "C4C17A114574"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill Need MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BDBB18",
+          "on": "750B",
+          "off": "750E"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite All Items/Resources",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E0C0",
+          "on": "0F4CF041C74650E7030000E9F7092982",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1EEEAC0",
+          "on": "E9FBF5D67D9090",
+          "off": "0F4CF041897650"
+        },
+        {
+          "offset": "7FC5E890",
+          "on": "29C841C74050E7030000E914EB2882",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1EED3AD",
+          "on": "E9DE14D77D90",
+          "off": "29C841894050"
+        },
+        {
+          "offset": "7FC5E360",
+          "on": "440F4EE141C74250E7030000E9454E2982",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1EF31AE",
+          "on": "E9ADB1D67D909090",
+          "off": "440F4EE145896250"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Boltblast Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E230",
+          "on": "90E929FF3D82",
+          "off": "000000000000"
+        },
+        {
+          "offset": "203E157",
+          "on": "E9D400C27D909090",
+          "off": "41898C2490000000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Shards On Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FF70",
+          "on": "41C744DB100F270000E935E7A081",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "166E6AE",
+          "on": "E9BD185F7E",
+          "off": "450174DB10"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Aim Focus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E130",
+          "on": "C4C17A10455CE98FC1C981",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "18FA2C4",
+          "on": "E9673E367E90",
+          "off": "C4C17A11455C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapon Stamina/Breath",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F600",
+          "on": "C5FA104350E936BF1782",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "1DDB53B",
+          "on": "E9C040E87D",
+          "off": "C5FA114350"
+        }
+      ]
+    },
+    {
+      "name": "Instant Valor Surge Fill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E630",
+          "on": "C787800000000000FA43E93965EB81",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1B14B70",
+          "on": "E9BB9A147E909090",
+          "off": "C5FA118F80000000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Valor Surge (Activate Valor First)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E8F0",
+          "on": "C5F25CC0C7060000FA43E98B08EC81",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1B1F182",
+          "on": "E969F7137E909090",
+          "off": "C5F25CC0C5FA1106"
+        }
+      ]
+    },
+    {
+      "name": "Lot Of Infinite Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F6FF68",
+          "on": "41895670",
+          "off": "41894E70"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

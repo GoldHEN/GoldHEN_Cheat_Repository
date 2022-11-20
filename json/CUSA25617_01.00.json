@@ -1,1 +1,71 @@
-{"name":"Big Rumble Boxing Creed Champions","id":"CUSA25617","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Health (Master Code)","type":"checkbox","memory":[{"offset":"697B800","on":"483DE06AE106755C50488B4518817810650061007423EB4B817810750070007418EB4081781061007500740DEB35817810740061007402EB2A498B86F00100004883F800741D83787002751758C7470800004843C5FA104708C5FA114708E9666F72F958C5FA114708E95B6F72F958817F080000C8417EECC747080000C841C5FA104708EBDE","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"A27C4","on":"E937908D06","off":"C5FA114708"}]},{"name":"Infinite Super +  (MC)","type":"checkbox","memory":[{"offset":"697B816","on":"9090","off":"EB4B"}]},{"name":"Infinite Guard + (MC)","type":"checkbox","memory":[{"offset":"697B821","on":"9090","off":"EB40"}]},{"name":"Infinite Stamina + (MC)","type":"checkbox","memory":[{"offset":"697B82C","on":"9090","off":"EB35"}]},{"name":"Opponent Bars Always 25% +(MC)","type":"checkbox","memory":[{"offset":"697B84A","on":"7522","off":"7517"}]}],"credits":["Saso"]}
+{
+  "name": "Big Rumble Boxing Creed Champions",
+  "id": "CUSA25617",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "697B800",
+          "on": "483DE06AE106755C50488B4518817810650061007423EB4B817810750070007418EB4081781061007500740DEB35817810740061007402EB2A498B86F00100004883F800741D83787002751758C7470800004843C5FA104708C5FA114708E9666F72F958C5FA114708E95B6F72F958817F080000C8417EECC747080000C841C5FA104708EBDE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A27C4",
+          "on": "E937908D06",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Super +  (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "697B816",
+          "on": "9090",
+          "off": "EB4B"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Guard + (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "697B821",
+          "on": "9090",
+          "off": "EB40"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina + (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "697B82C",
+          "on": "9090",
+          "off": "EB35"
+        }
+      ]
+    },
+    {
+      "name": "Opponent Bars Always 25% +(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "697B84A",
+          "on": "7522",
+          "off": "7517"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

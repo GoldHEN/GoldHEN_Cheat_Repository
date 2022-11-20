@@ -1,1 +1,43 @@
-{"name":"Dark Thrones","id":"CUSA27656","version":"01.00","process":"eboot.bin","mods":[{"name":"9,999,999 Coins on Gain","type":"checkbox","memory":[{"offset":"18D5B40","on":"8B4C24F4C7406C7F969800E9F50A287F","off":"00000000000000000000000000000000"},{"offset":"80B5663E","on":"E9FDF4D7809090","off":"8B4C24F489486C"}]},{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"18D5B80","on":"8B4C24F4C7407402000000E9356E297F","off":"00000000000000000000000000000000"},{"offset":"80B6C9BE","on":"E9BD91D6809090","off":"8B4C24F4894874"}]}],"credits":["TylerMods_9.00"]}
+{
+  "name": "Dark Thrones",
+  "id": "CUSA27656",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "9,999,999 Coins on Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18D5B40",
+          "on": "8B4C24F4C7406C7F969800E9F50A287F",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80B5663E",
+          "on": "E9FDF4D7809090",
+          "off": "8B4C24F489486C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18D5B80",
+          "on": "8B4C24F4C7407402000000E9356E297F",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80B6C9BE",
+          "on": "E9BD91D6809090",
+          "off": "8B4C24F4894874"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TylerMods_9.00"
+  ]
+}

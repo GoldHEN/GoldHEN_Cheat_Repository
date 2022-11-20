@@ -1,1 +1,44 @@
-{"name":"Rise of the Tomb Raider: 20 Year Celebration","id":"CUSA05716","version":"01.06","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"3a3789","on":"9090909090","off":"C5FA114F28"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"88750c","on":"90909090","off":"6689580C"}]},{"name":"Get Skillpoints For Spending Them","type":"checkbox","memory":[{"offset":"be0f7f","on":"4401F1","off":"4429F1"}]}],"credits":["Weysincha"]}
+{
+  "name": "Rise of the Tomb Raider: 20 Year Celebration",
+  "id": "CUSA05716",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3a3789",
+          "on": "9090909090",
+          "off": "C5FA114F28"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "88750c",
+          "on": "90909090",
+          "off": "6689580C"
+        }
+      ]
+    },
+    {
+      "name": "Get Skillpoints For Spending Them",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "be0f7f",
+          "on": "4401F1",
+          "off": "4429F1"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}

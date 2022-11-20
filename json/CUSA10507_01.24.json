@@ -1,1 +1,97 @@
-{"name":"Remnant: From the Ashes","id":"CUSA10507","version":"01.24","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"7FC5E950","on":"80BB7802000000750CC783700800000000FA44EB08C5FA118B70080000E9EBC1BF80","off":"00000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"85AB55","on":"E9F63D407F909090","off":"C5FA118B70080000"}]},{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"83EB47","on":"9090909090909090","off":"C5FA118B40010000"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"9639F6","on":"90909090","off":"44297654"}]},{"name":"Scraps/items (on get find 2 at least)","type":"checkbox","memory":[{"offset":"7FC5E980","on":"01D8C7472C9F860100E92004CF80","off":"0000000000000000000000000000"},{"offset":"94EDA9","on":"E9D2FB307F","off":"01D889472C"}]},{"name":"Max Experience (kill 2 enemies)","type":"checkbox","memory":[{"offset":"7FC5E9F0","on":"8183240100003F420F00E99FEAD580","off":"000000000000000000000000000000"},{"offset":"9BD497","on":"E954152A7F9090","off":"4401B324010000"}]},{"name":"Infinite Upgrade items (on use)","type":"checkbox","memory":[{"offset":"7FC5EA10","on":"31F6C7472C9F860100E9B018CF80","off":"0000000000000000000000000000"},{"offset":"9502C9","on":"E942E7307F","off":"31F689472C"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Remnant: From the Ashes",
+  "id": "CUSA10507",
+  "version": "01.24",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E950",
+          "on": "80BB7802000000750CC783700800000000FA44EB08C5FA118B70080000E9EBC1BF80",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "85AB55",
+          "on": "E9F63D407F909090",
+          "off": "C5FA118B70080000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83EB47",
+          "on": "9090909090909090",
+          "off": "C5FA118B40010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9639F6",
+          "on": "90909090",
+          "off": "44297654"
+        }
+      ]
+    },
+    {
+      "name": "Scraps/items (on get find 2 at least)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E980",
+          "on": "01D8C7472C9F860100E92004CF80",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "94EDA9",
+          "on": "E9D2FB307F",
+          "off": "01D889472C"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience (kill 2 enemies)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E9F0",
+          "on": "8183240100003F420F00E99FEAD580",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "9BD497",
+          "on": "E954152A7F9090",
+          "off": "4401B324010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Upgrade items (on use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5EA10",
+          "on": "31F6C7472C9F860100E9B018CF80",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "9502C9",
+          "on": "E942E7307F",
+          "off": "31F689472C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

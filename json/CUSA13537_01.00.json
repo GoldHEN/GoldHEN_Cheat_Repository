@@ -1,1 +1,55 @@
-{"name":"Hell Warders","id":"CUSA13537","version":"01.00","process":"eboot.bin","mods":[{"name":"Units Point Multiplier (upgrade/add soldier)","type":"checkbox","memory":[{"section":"14","offset":"19BA8A0","on":"017718","off":"897718"}]},{"name":"Skill points x999 (will take effect after the fight)","type":"checkbox","memory":[{"offset":"7FC5FDF0","on":"E895E4720166C74320E703E9C163A801","off":"00000000000000000000000000000000"},{"offset":"816E61B9","on":"E9329C57FE909090","off":"E8D280CAFF894320"}]},{"name":"Infinite Health/Sphere","type":"checkbox","memory":[{"offset":"7FC5D362","on":"4983FA0075174983FD007511C74018003C1C46C5FA104018E9B319F201C5FA104018E9A919F201","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"81B7ED2D","on":"E930E60DFE","off":"C5FA104018"}]}],"credits":["Wander+d01v_9.00"]}
+{
+  "name": "Hell Warders",
+  "id": "CUSA13537",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Units Point Multiplier (upgrade/add soldier)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "19BA8A0",
+          "on": "017718",
+          "off": "897718"
+        }
+      ]
+    },
+    {
+      "name": "Skill points x999 (will take effect after the fight)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FDF0",
+          "on": "E895E4720166C74320E703E9C163A801",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "816E61B9",
+          "on": "E9329C57FE909090",
+          "off": "E8D280CAFF894320"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health/Sphere",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5D362",
+          "on": "4983FA0075174983FD007511C74018003C1C46C5FA104018E9B319F201C5FA104018E9A919F201",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81B7ED2D",
+          "on": "E930E60DFE",
+          "off": "C5FA104018"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander+d01v_9.00"
+  ]
+}

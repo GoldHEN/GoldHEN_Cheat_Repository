@@ -1,1 +1,113 @@
-{"name":"Assassins Creed® IV Black Flag","id":"CUSA00009","version":"01.04","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"3E25D00","on":"668B93AC000000668993AA000000E9DC8917FE","off":"00000000000000000000000000000000000000"},{"offset":"1F9E6E8","on":"E91376E8019090","off":"668993AA000000"}]},{"name":"Infinite Oxygen","type":"checkbox","memory":[{"offset":"1F976EC","on":"9090909090909090","off":"C5FA1180E0000000"}]},{"name":"Infinite Money/Ammo/Consumables/Ship Ammo","type":"checkbox","memory":[{"offset":"3E25CA0","on":"8B4710807F0801750AB83F420F00E9173794FEB80F270000E90D3794FE","off":"0000000000000000000000000000000000000000000000000000000000"},{"offset":"27693C0","on":"E9DBC86B01","off":"8B471029F0"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"1B45AEB","on":"9090","off":"29F1"}]},{"name":"Infinite Ship Health","type":"checkbox","memory":[{"offset":"3E25C20","on":"41813C24E0059B0475154183BC248001000000750AC4C17A109C2430010000C4C17A119C2458010000E9D1EE5FFE","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"2424B15","on":"E90611A0019090909090","off":"C4C17A119C2458010000"}]},{"name":"Max Cargo","type":"checkbox","memory":[{"offset":"3E25C60","on":"8B4F10B9D0070000E9873A94FE","off":"00000000000000000000000000"},{"offset":"27696ED","on":"E96EC56B01","off":"8B4F1029F1"}]},{"name":"Max Swivel Ammo","type":"checkbox","memory":[{"offset":"3E25CD0","on":"498B471041BE0500000044897040E9AB40C8FE","off":"00000000000000000000000000000000000000"},{"offset":"2AA9D86","on":"E945BF3701909090","off":"498B471044897040"}]}],"credits":["Saso"]}
+{
+  "name": "Assassins Creed® IV Black Flag",
+  "id": "CUSA00009",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3E25D00",
+          "on": "668B93AC000000668993AA000000E9DC8917FE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F9E6E8",
+          "on": "E91376E8019090",
+          "off": "668993AA000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Oxygen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F976EC",
+          "on": "9090909090909090",
+          "off": "C5FA1180E0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money/Ammo/Consumables/Ship Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3E25CA0",
+          "on": "8B4710807F0801750AB83F420F00E9173794FEB80F270000E90D3794FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "27693C0",
+          "on": "E9DBC86B01",
+          "off": "8B471029F0"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B45AEB",
+          "on": "9090",
+          "off": "29F1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ship Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3E25C20",
+          "on": "41813C24E0059B0475154183BC248001000000750AC4C17A109C2430010000C4C17A119C2458010000E9D1EE5FFE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2424B15",
+          "on": "E90611A0019090909090",
+          "off": "C4C17A119C2458010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Cargo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3E25C60",
+          "on": "8B4F10B9D0070000E9873A94FE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "27696ED",
+          "on": "E96EC56B01",
+          "off": "8B4F1029F1"
+        }
+      ]
+    },
+    {
+      "name": "Max Swivel Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3E25CD0",
+          "on": "498B471041BE0500000044897040E9AB40C8FE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2AA9D86",
+          "on": "E945BF3701909090",
+          "off": "498B471044897040"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

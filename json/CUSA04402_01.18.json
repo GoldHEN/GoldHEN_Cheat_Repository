@@ -1,82 +1,82 @@
 {
-    "name": "Middle-earth™: Shadow of War™",
-    "id": "CUSA04402",
-    "version": "01.18",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "Middle-earth™: Shadow of War™",
+  "id": "CUSA04402",
+  "version": "01.18",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infiinite Health",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Infiinite Health",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "2F0A2B0",
-                    "on": "41C7854405000000007A44E97430F5FD",
-                    "off": "00000000000000000000000000000000"
-                },
-                {
-                    "offset": "E5D32B",
-                    "on": "E980CF0A0290909090",
-                    "off": "C4C17A118544050000"
-                }
-            ]
+          "offset": "2F0A2B0",
+          "on": "41C7854405000000007A44E97430F5FD",
+          "off": "00000000000000000000000000000000"
         },
         {
-            "name": "Max and infinite arrow",
-            "type": "checkbox",
-            "memory": [
-              {
-                "offset": "E25E88",
-                "on": "898388000000",
-                "off": "89B388000000"
-              }
-            ]
-          },
-          {
-            "name": "infinite Gem and Mirian",
-            "type": "checkbox",
-            "memory": [
-              {
-                "offset": "17D30BB",
-                "on": "8B4320",
-                "off": "894320"
-              }
-            ]
-          },
-          {
-            "name": "infinite Focus",
-            "type": "checkbox",
-            "memory": [
-              {
-                "offset": "EFA300",
-                "on": "90909090",
-                "off": "C5FA59C1"
-              }
-            ]
-          },
-          {
-            "name": "infinite might",
-            "type": "checkbox",
-            "memory": [
-              {
-                "offset": "111F633",
-                "on": "9090909090909090",
-                "off": "C5F0540D55F28D01"
-              }
-            ]
-          },
-          {
-            "name": "infinite  wrath",
-            "type": "checkbox",
-            "memory": [
-              {
-                "offset": "112DB9D",
-                "on": "90909090",
-                "off": "C5E857D2"
-              }
-            ]
-          }
-    ],
-    "credits": [
-        "Muhanned + gokusuper + TylerMods_9.00"
-    ]
+          "offset": "E5D32B",
+          "on": "E980CF0A0290909090",
+          "off": "C4C17A118544050000"
+        }
+      ]
+    },
+    {
+      "name": "Max and infinite arrow",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E25E88",
+          "on": "898388000000",
+          "off": "89B388000000"
+        }
+      ]
+    },
+    {
+      "name": "infinite Gem and Mirian",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17D30BB",
+          "on": "8B4320",
+          "off": "894320"
+        }
+      ]
+    },
+    {
+      "name": "infinite Focus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "EFA300",
+          "on": "90909090",
+          "off": "C5FA59C1"
+        }
+      ]
+    },
+    {
+      "name": "infinite might",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "111F633",
+          "on": "9090909090909090",
+          "off": "C5F0540D55F28D01"
+        }
+      ]
+    },
+    {
+      "name": "infinite  wrath",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "112DB9D",
+          "on": "90909090",
+          "off": "C5E857D2"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Muhanned + gokusuper + TylerMods_9.00"
+  ]
 }

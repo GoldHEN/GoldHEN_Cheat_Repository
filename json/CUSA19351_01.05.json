@@ -1,1 +1,141 @@
-{"name":"Sonic Colors: Ultimate","id":"CUSA19351","version":"01.05","process":"eboot.bin","mods":[{"name":"Invincibility ( after first hit )","type":"checkbox","memory":[{"offset":"15C99C2","on":"90909090","off":"C5FA5CC2"}]},{"name":"Max Rings / No loose after hit","type":"checkbox","memory":[{"offset":"188E69B","on":"BA0F2700009090","off":"8B530C418B4E1C"},{"offset":"15D1E3E","on":"0F4CC0","off":"0F4CC6"},{"offset":"15D1E1B","on":"0F4CC0","off":"0F4CC6"}]},{"name":"Infinite Speed Boost","type":"checkbox","memory":[{"offset":"2B6BF90","on":"41C7460C0000C842C4C17A10460CE9B126D2FE","off":"00000000000000000000000000000000000000"},{"offset":"188E64E","on":"E93DD92D0190","off":"C4C17A10460C"}]},{"name":"Infinite Lives","type":"checkbox","memory":[{"offset":"16C983E","on":"B964000000909090","off":"8B4808BB01000000"},{"offset":"16CB1FF","on":"C740086400000090909090","off":"894808498BBC24A0010000"}]},{"name":"One Hit Kill ( Boss )","type":"checkbox","memory":[{"offset":"19AFB86","on":"C78740010000000000009090909090","off":"898F400100007E01C38A8768010000"}]},{"name":"Set Timer to 0","type":"checkbox","memory":[{"offset":"16CA506","on":"41C7842468020000CDCCCC3D9090","off":"C4C17A118C2468020000C5F057C9"}]},{"name":"Freeze Timer","type":"checkbox","memory":[{"offset":"16CA4F7","on":"9090909090","off":"C5FA104308"}]},{"name":"Max Score Points [S-Rank] ( on gain )","type":"checkbox","memory":[{"offset":"2B6BEA0","on":"42C784BF74020000FFE0F505E923C9B5FE","off":"0000000000000000000000000000000000"},{"offset":"16C87CC","on":"E9CF364A01909090","off":"428984BF74020000"}]},{"name":"Infinite Boost ( Sonic Simulator )","type":"checkbox","memory":[{"offset":"2B6BEC0","on":"C7400C00004842C5FA10400CE96692ACFE","off":"0000000000000000000000000000000000"},{"offset":"1635132","on":"E9896D5301","off":"C5FA10400C"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "Sonic Colors: Ultimate",
+  "id": "CUSA19351",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincibility ( after first hit )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15C99C2",
+          "on": "90909090",
+          "off": "C5FA5CC2"
+        }
+      ]
+    },
+    {
+      "name": "Max Rings / No loose after hit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "188E69B",
+          "on": "BA0F2700009090",
+          "off": "8B530C418B4E1C"
+        },
+        {
+          "offset": "15D1E3E",
+          "on": "0F4CC0",
+          "off": "0F4CC6"
+        },
+        {
+          "offset": "15D1E1B",
+          "on": "0F4CC0",
+          "off": "0F4CC6"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Speed Boost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2B6BF90",
+          "on": "41C7460C0000C842C4C17A10460CE9B126D2FE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "188E64E",
+          "on": "E93DD92D0190",
+          "off": "C4C17A10460C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16C983E",
+          "on": "B964000000909090",
+          "off": "8B4808BB01000000"
+        },
+        {
+          "offset": "16CB1FF",
+          "on": "C740086400000090909090",
+          "off": "894808498BBC24A0010000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill ( Boss )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19AFB86",
+          "on": "C78740010000000000009090909090",
+          "off": "898F400100007E01C38A8768010000"
+        }
+      ]
+    },
+    {
+      "name": "Set Timer to 0",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16CA506",
+          "on": "41C7842468020000CDCCCC3D9090",
+          "off": "C4C17A118C2468020000C5F057C9"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16CA4F7",
+          "on": "9090909090",
+          "off": "C5FA104308"
+        }
+      ]
+    },
+    {
+      "name": "Max Score Points [S-Rank] ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2B6BEA0",
+          "on": "42C784BF74020000FFE0F505E923C9B5FE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "16C87CC",
+          "on": "E9CF364A01909090",
+          "off": "428984BF74020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Boost ( Sonic Simulator )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2B6BEC0",
+          "on": "C7400C00004842C5FA10400CE96692ACFE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1635132",
+          "on": "E9896D5301",
+          "off": "C5FA10400C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

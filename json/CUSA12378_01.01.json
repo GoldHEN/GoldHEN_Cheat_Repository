@@ -1,1 +1,75 @@
-{"name":"Hungry Shark® World","id":"CUSA12378","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"7FC5C900","on":"41C7476C00000040E986CB5C00","off":"00000000000000000000000000"},{"offset":"8022948D","on":"E96E34A3FF90","off":"F3450F117F6C"}]},{"name":"Max coins (on gain activate once alone)","type":"checkbox","memory":[{"offset":"7FE7BE70","on":"0F84168E3900C700FFE0F505E945893900","off":"0000000000000000000000000000000000"},{"offset":"802147BE","on":"E9AD76C6FF909090","off":"0F84CE0400008908"}]},{"name":"Max Experience (on second round)","type":"checkbox","memory":[{"offset":"7FE7BEC0","on":"0F84A7EE4B00C7402C7F969800E993EE4B00","off":"000000000000000000000000000000000000"},{"offset":"8033AD5C","on":"E95F11B4FF90909090","off":"0F841100000089482C"}]},{"name":"Infinite Health(underwater)","type":"checkbox","memory":[{"offset":"7FC5DE50","on":"4983FE0D750D41C7878800000000004843EB09F3450F11BF88000000E95F9F5C00","off":"000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"80227DC7","on":"E98460A3FF90909090","off":"F3450F11BF88000000"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Hungry Shark® World",
+  "id": "CUSA12378",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5C900",
+          "on": "41C7476C00000040E986CB5C00",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "8022948D",
+          "on": "E96E34A3FF90",
+          "off": "F3450F117F6C"
+        }
+      ]
+    },
+    {
+      "name": "Max coins (on gain activate once alone)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FE7BE70",
+          "on": "0F84168E3900C700FFE0F505E945893900",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "802147BE",
+          "on": "E9AD76C6FF909090",
+          "off": "0F84CE0400008908"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience (on second round)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FE7BEC0",
+          "on": "0F84A7EE4B00C7402C7F969800E993EE4B00",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8033AD5C",
+          "on": "E95F11B4FF90909090",
+          "off": "0F841100000089482C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health(underwater)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5DE50",
+          "on": "4983FE0D750D41C7878800000000004843EB09F3450F11BF88000000E95F9F5C00",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80227DC7",
+          "on": "E98460A3FF90909090",
+          "off": "F3450F11BF88000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

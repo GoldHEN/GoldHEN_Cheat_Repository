@@ -1,1 +1,75 @@
-{"name":"Slaps And Beans","id":"CUSA12860","version":"01.04","process":"eboot.bin","mods":[{"name":"Infinite Health + Fast Die Opponent","type":"checkbox","memory":[{"offset":"1818BA0","on":"4883F900750AC5FA114B3CE905F2717FC7433C0000C842E9F9F1717F","off":"00000000000000000000000000000000000000000000000000000000"},{"offset":"80F37DB0","on":"E9EB0D8E80","off":"C5FA11433C"}]},{"name":"Infinite Power","type":"checkbox","memory":[{"offset":"181BFD0","on":"C743580000C842E92903737F","off":"000000000000000000000000"},{"offset":"80F4C300","on":"E9CBFC8C80","off":"C5FA114358"}]},{"name":"Max Coins ( on gain )","type":"checkbox","memory":[{"offset":"181B360","on":"48B9000000000000803FB8286B6E4E89476CE9CEFC357F","off":"0000000000000000000000000000000000000000000000"},{"offset":"80B7B038","on":"E92303CA809090909090909090","off":"48B9000000000000803F89476C"}]},{"name":"Unlimited Shoots","type":"checkbox","memory":[{"offset":"1819330","on":"41C7877002000005000000E94E58557F","off":"00000000000000000000000000000000"},{"offset":"80D6EB87","on":"E9A4A7AA809090","off":"41FF8F70020000"}]}],"credits":["Reddevil82_9.00"]}
+{
+  "name": "Slaps And Beans",
+  "id": "CUSA12860",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health + Fast Die Opponent",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1818BA0",
+          "on": "4883F900750AC5FA114B3CE905F2717FC7433C0000C842E9F9F1717F",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80F37DB0",
+          "on": "E9EB0D8E80",
+          "off": "C5FA11433C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Power",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "181BFD0",
+          "on": "C743580000C842E92903737F",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "80F4C300",
+          "on": "E9CBFC8C80",
+          "off": "C5FA114358"
+        }
+      ]
+    },
+    {
+      "name": "Max Coins ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "181B360",
+          "on": "48B9000000000000803FB8286B6E4E89476CE9CEFC357F",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80B7B038",
+          "on": "E92303CA809090909090909090",
+          "off": "48B9000000000000803F89476C"
+        }
+      ]
+    },
+    {
+      "name": "Unlimited Shoots",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1819330",
+          "on": "41C7877002000005000000E94E58557F",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80D6EB87",
+          "on": "E9A4A7AA809090",
+          "off": "41FF8F70020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82_9.00"
+  ]
+}

@@ -1,1 +1,22 @@
-{"name":"Marvels Guardians of the Galaxy","id":"CUSA24103","version":"01.05","process":"eboot.bin","mods":[{"name":"Max Component After Upgrading in WorkBench","type":"checkbox","memory":[{"offset":"1B42407","on":"897B20","off":"897320"}]}],"credits":["aran"]}
+{
+  "name": "Marvels Guardians of the Galaxy",
+  "id": "CUSA24103",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Component After Upgrading in WorkBench",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B42407",
+          "on": "897B20",
+          "off": "897320"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "aran"
+  ]
+}

@@ -1,1 +1,123 @@
-{"name":"Bloodstained: Ritual of the Night","id":"CUSA07953","version":"01.40","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"7FC5FEE0","on":"4983F907750690E9B06ED985448BA340020000E9A46ED985","off":"000000000000000000000000000000000000000000000000"},{"offset":"59F6D95","on":"E94691267A9090","off":"448BA340020000"}]},{"name":"Infinite Magic","type":"checkbox","memory":[{"offset":"7FC5FF50","on":"90E9756FD985","off":"000000000000"},{"offset":"59F6EC5","on":"E98690267A90","off":"8B8344020000"}]},{"name":"Infinite Items x99 (Need 2 To Work)","type":"checkbox","memory":[{"offset":"7FC5FF70","on":"85C0C6424863E96491D585","off":"0000000000000000000000"},{"offset":"59B90D9","on":"E9926E2A7A90","off":"85C044896A48"}]},{"name":"Infinite Bullets","type":"checkbox","memory":[{"offset":"7FC5FF10","on":"29C8418B4748E9A2D6D585","off":"0000000000000000000000"},{"offset":"59BD5B7","on":"E954292A7A90","off":"29C841894748"}]},{"name":"Max Level","type":"checkbox","memory":[{"offset":"7FC5FFD0","on":"4189BD48020000E9CD75D985","off":"000000000000000000000000"},{"offset":"59F75A2","on":"E9298A267A9090","off":"41898D48020000"}]},{"name":"Infinite Gold x999999","type":"checkbox","memory":[{"offset":"7FC5FED0","on":"C787300400003F420F00E9B811E285","off":"000000000000000000000000000000"},{"offset":"5A81091","on":"E93AEE1D7A90","off":"89B730040000"}]},{"name":"Freeze Time","type":"checkbox","memory":[{"offset":"7FC5FF90","on":"C4C17A108F44040000E9804EE085","off":"0000000000000000000000000000"},{"offset":"5A64E15","on":"E976B11F7A90909090","off":"C4C17A118F44040000"}]}],"credits":["Celogamez"]}
+{
+  "name": "Bloodstained: Ritual of the Night",
+  "id": "CUSA07953",
+  "version": "01.40",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FEE0",
+          "on": "4983F907750690E9B06ED985448BA340020000E9A46ED985",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "59F6D95",
+          "on": "E94691267A9090",
+          "off": "448BA340020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FF50",
+          "on": "90E9756FD985",
+          "off": "000000000000"
+        },
+        {
+          "offset": "59F6EC5",
+          "on": "E98690267A90",
+          "off": "8B8344020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items x99 (Need 2 To Work)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FF70",
+          "on": "85C0C6424863E96491D585",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "59B90D9",
+          "on": "E9926E2A7A90",
+          "off": "85C044896A48"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Bullets",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FF10",
+          "on": "29C8418B4748E9A2D6D585",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "59BD5B7",
+          "on": "E954292A7A90",
+          "off": "29C841894748"
+        }
+      ]
+    },
+    {
+      "name": "Max Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FFD0",
+          "on": "4189BD48020000E9CD75D985",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "59F75A2",
+          "on": "E9298A267A9090",
+          "off": "41898D48020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gold x999999",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FED0",
+          "on": "C787300400003F420F00E9B811E285",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "5A81091",
+          "on": "E93AEE1D7A90",
+          "off": "89B730040000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FF90",
+          "on": "C4C17A108F44040000E9804EE085",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "5A64E15",
+          "on": "E976B11F7A90909090",
+          "off": "C4C17A118F44040000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

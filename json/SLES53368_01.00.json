@@ -1,45 +1,44 @@
 {
-   "name":"Splatter Master",
-   "id":"SLES53368",
-   "version":"01.00",
-   "process":"eboot.bin",
-   "mods":[
-      {
-         "name":"Infinite-Energy",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"807FE83F00",
-               "on":"11100000",
-               "off":"11100000"
-            }
-         ]
-      },
-	  {
-         "name":"Infinite-GAS",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"807FE83F05",
-               "on":"09000000",
-               "off":"09000000"
-            }
-         ]
-      },
-	  {
-         "name":"Infinite-GOLD",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"807FE83F08",
-               "on":"000003E7",
-               "off":"000003E7"
-            }
-         ]
-      }
-	  
-   ],
-   "credits":[
-      "Ali-mk"
-   ]
+  "name": "Splatter Master",
+  "id": "SLES53368",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FE83F00",
+          "on": "11100000",
+          "off": "11100000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-GAS",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FE83F05",
+          "on": "09000000",
+          "off": "09000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-GOLD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FE83F08",
+          "on": "000003E7",
+          "off": "000003E7"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

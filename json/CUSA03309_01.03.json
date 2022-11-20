@@ -1,1 +1,249 @@
-{"name":"Far Cry® Primal","id":"CUSA03309","version":"01.03","process":"eboot.bin","mods":[{"name":"Movement Faster MasterCode","type":"checkbox","memory":[{"offset":"355B832","on":"837840047402EB3081B8B80000000000803F7424C780B80000000000803FEB1881B8B80000000000C040740CC780B80000000000C040EB00C5FA1080B8000000E9032F03FE","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"158E772","on":"E9BBD0FC01909090","off":"C5FA1080B8000000"}]},{"name":"Run/Swim Faster MasterCode","type":"checkbox","memory":[{"offset":"355B877","on":"837840047402EB3081B8BC0000000000803F7424C780BC0000000000803FEB1881B8BC0000000000C040740CC780BC0000000000C040EB00C5FA1080BC000000E9B42E03FE","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"158E768","on":"E90AD1FC01909090","off":"C5FA1080BC000000"}]},{"name":"Gravity MasterCode","type":"checkbox","memory":[{"offset":"355B8BC","on":"837B200074047526EB24817B500000803F741BC743500000803FEB12817B509A99993E7409C743509A99993EEB0041FF513044896320E95DBD37FF","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"28D764C","on":"E96B42C800909090","off":"41FF513044896320"}]},{"name":"Super Jump MasterCode","type":"checkbox","memory":[{"offset":"355B8F7","on":"83BFB80A0000007402EB3081BF901000000000803F7424C787901000000000803FEB1881BF9010000000007042740CC7879010000000007042EB00C5FA598790100000E9F02E03FE","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"158E827","on":"E9CBD0FC01909090","off":"C5FA598790100000"}]},{"name":"Reduce Slipp. MasterCode","type":"checkbox","memory":[{"offset":"355B93F","on":"83BBB0000000017402EB24817B2C66663442741BC7432C66663442EB12817B2CF02374497409C7432CF0237449EB00C5FA10632CE9C24506FE","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"15BFF35","on":"E905BAF901","off":"C5FA10632C"}]},{"name":"Forward Day Time MasterCode","type":"checkbox","memory":[{"offset":"355B978","on":"837F10007402EB24817F200000003F741BC747200000003FEB12817F2000008C427409C7472000008C42EB00C5FA5C4720E95C25EDFD","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"142DF05","on":"E96EDA1202","off":"C5FA5C4720"}]},{"name":"Infinite Health Player","type":"checkbox","memory":[{"offset":"142E438","on":"41895E34","off":"418B5E34"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"355B800","on":"C74038010000000F95C1E98C43F9FD","off":"000000000000000000000000000000"},{"offset":"14EFB94","on":"E967BC06029090","off":"837838000F95C1"}]},{"name":"Infinite Skill Points","type":"checkbox","memory":[{"offset":"355B80F","on":"C78084000000E70300004981F851D933747505E9CADE50FD8B8084000000E9BFDE50FD","off":"0000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"A696EB","on":"E91F21AF0290","off":"8B8084000000"}]},{"name":"Movement Faster","type":"checkbox","memory":[{"offset":"355B836","on":"741A","off":"7402"}]},{"name":"Run/Swim Faster (Press L3)","type":"checkbox","memory":[{"offset":"355B87B","on":"741A","off":"7402"}]},{"name":"Low Gravity","type":"checkbox","memory":[{"offset":"355B8C0","on":"7416","off":"7404"}]},{"name":"Super Jump","type":"checkbox","memory":[{"offset":"355B8FE","on":"741A","off":"7402"}]},{"name":"Easy Climb (Reduce Slipp.)","type":"checkbox","memory":[{"offset":"355B946","on":"7414","off":"7402"}]},{"name":"No Cooldown Owl","type":"checkbox","memory":[{"offset":"898164","on":"C5FA118B90000000","off":"C5FA108B90000000"}]},{"name":"Forward Day Time","type":"checkbox","memory":[{"offset":"355B97C","on":"7414","off":"7402"}]},{"name":"Floating/Fly [Multi Tap X (Jump)]","type":"checkbox","memory":[{"offset":"28D2AFD","on":"895A08","off":"894208"}]},{"name":"Stealth","type":"checkbox","memory":[{"offset":"142DFE8","on":"909090909090","off":"0F84A9000000"}]}],"credits":["KevinTamvan"]}
+{
+  "name": "Far Cry® Primal",
+  "id": "CUSA03309",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Movement Faster MasterCode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "355B832",
+          "on": "837840047402EB3081B8B80000000000803F7424C780B80000000000803FEB1881B8B80000000000C040740CC780B80000000000C040EB00C5FA1080B8000000E9032F03FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "158E772",
+          "on": "E9BBD0FC01909090",
+          "off": "C5FA1080B8000000"
+        }
+      ]
+    },
+    {
+      "name": "Run/Swim Faster MasterCode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "355B877",
+          "on": "837840047402EB3081B8BC0000000000803F7424C780BC0000000000803FEB1881B8BC0000000000C040740CC780BC0000000000C040EB00C5FA1080BC000000E9B42E03FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "158E768",
+          "on": "E90AD1FC01909090",
+          "off": "C5FA1080BC000000"
+        }
+      ]
+    },
+    {
+      "name": "Gravity MasterCode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "355B8BC",
+          "on": "837B200074047526EB24817B500000803F741BC743500000803FEB12817B509A99993E7409C743509A99993EEB0041FF513044896320E95DBD37FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "28D764C",
+          "on": "E96B42C800909090",
+          "off": "41FF513044896320"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump MasterCode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "355B8F7",
+          "on": "83BFB80A0000007402EB3081BF901000000000803F7424C787901000000000803FEB1881BF9010000000007042740CC7879010000000007042EB00C5FA598790100000E9F02E03FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "158E827",
+          "on": "E9CBD0FC01909090",
+          "off": "C5FA598790100000"
+        }
+      ]
+    },
+    {
+      "name": "Reduce Slipp. MasterCode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "355B93F",
+          "on": "83BBB0000000017402EB24817B2C66663442741BC7432C66663442EB12817B2CF02374497409C7432CF0237449EB00C5FA10632CE9C24506FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15BFF35",
+          "on": "E905BAF901",
+          "off": "C5FA10632C"
+        }
+      ]
+    },
+    {
+      "name": "Forward Day Time MasterCode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "355B978",
+          "on": "837F10007402EB24817F200000003F741BC747200000003FEB12817F2000008C427409C7472000008C42EB00C5FA5C4720E95C25EDFD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "142DF05",
+          "on": "E96EDA1202",
+          "off": "C5FA5C4720"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health Player",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "142E438",
+          "on": "41895E34",
+          "off": "418B5E34"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "355B800",
+          "on": "C74038010000000F95C1E98C43F9FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "14EFB94",
+          "on": "E967BC06029090",
+          "off": "837838000F95C1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "355B80F",
+          "on": "C78084000000E70300004981F851D933747505E9CADE50FD8B8084000000E9BFDE50FD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A696EB",
+          "on": "E91F21AF0290",
+          "off": "8B8084000000"
+        }
+      ]
+    },
+    {
+      "name": "Movement Faster",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "355B836",
+          "on": "741A",
+          "off": "7402"
+        }
+      ]
+    },
+    {
+      "name": "Run/Swim Faster (Press L3)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "355B87B",
+          "on": "741A",
+          "off": "7402"
+        }
+      ]
+    },
+    {
+      "name": "Low Gravity",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "355B8C0",
+          "on": "7416",
+          "off": "7404"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "355B8FE",
+          "on": "741A",
+          "off": "7402"
+        }
+      ]
+    },
+    {
+      "name": "Easy Climb (Reduce Slipp.)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "355B946",
+          "on": "7414",
+          "off": "7402"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown Owl",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "898164",
+          "on": "C5FA118B90000000",
+          "off": "C5FA108B90000000"
+        }
+      ]
+    },
+    {
+      "name": "Forward Day Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "355B97C",
+          "on": "7414",
+          "off": "7402"
+        }
+      ]
+    },
+    {
+      "name": "Floating/Fly [Multi Tap X (Jump)]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28D2AFD",
+          "on": "895A08",
+          "off": "894208"
+        }
+      ]
+    },
+    {
+      "name": "Stealth",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "142DFE8",
+          "on": "909090909090",
+          "off": "0F84A9000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "KevinTamvan"
+  ]
+}

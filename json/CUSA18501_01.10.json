@@ -1,1 +1,76 @@
-{"name":"DORAEMON STORY OF SEASONS","id":"CUSA18501","version":"01.10","process":"eboot.bin","mods":[{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"157FDB0","on":"418B5C241441895C2410E914AC627F526564646576696C383220465720392E3030","off":"000000000000000000000000000000"},{"offset":"80BAA9CE","on":"E9DD539D80","off":"41895C2410"}]},{"name":"Max Money","type":"checkbox","memory":[{"offset":"157FDF0","on":"0F843E86497FC74048FFC99A3B448B7048E9A285497F","off":"00000000000000000000000000000000000000000000"},{"offset":"80A1839E","on":"E94D7AB6809090909090","off":"0F8496000000448B7048"}]},{"name":"Max Items","type":"checkbox","memory":[{"offset":"157FDD1","on":"E8D46B547FC64318638B7318E9BAC0547F","off":"0000000000000000000000000000000000"},{"offset":"80ACBE94","on":"E9383FAB80909090","off":"E817ABFFFF8B7318"}]},{"name":"Infinite Water","type":"checkbox","memory":[{"offset":"157FE10","on":"41C7060000803FE99402707F","off":"000000000000000000000000"},{"offset":"80C800AB","on":"E960FD8F80","off":"C4C17A1106"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "DORAEMON STORY OF SEASONS",
+  "id": "CUSA18501",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "157FDB0",
+          "on": "418B5C241441895C2410E914AC627F526564646576696C383220465720392E3030",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80BAA9CE",
+          "on": "E9DD539D80",
+          "off": "41895C2410"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "157FDF0",
+          "on": "0F843E86497FC74048FFC99A3B448B7048E9A285497F",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80A1839E",
+          "on": "E94D7AB6809090909090",
+          "off": "0F8496000000448B7048"
+        }
+      ]
+    },
+    {
+      "name": "Max Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "157FDD1",
+          "on": "E8D46B547FC64318638B7318E9BAC0547F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80ACBE94",
+          "on": "E9383FAB80909090",
+          "off": "E817ABFFFF8B7318"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Water",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "157FE10",
+          "on": "41C7060000803FE99402707F",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "80C800AB",
+          "on": "E960FD8F80",
+          "off": "C4C17A1106"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

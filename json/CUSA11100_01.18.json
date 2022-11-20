@@ -28,7 +28,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Infinite Points",
       "hint": null,
       "type": "checkbox",
@@ -40,7 +40,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Infinite Specialist / Grenades",
       "hint": null,
       "type": "checkbox",
@@ -50,7 +50,7 @@
           "on": "909090909090",
           "off": "C4C17A114518"
         },
-		{
+        {
           "offset": "12959A3",
           "on": "C7030000C842909090",
           "off": "C5FA1045ACC5FA1103"

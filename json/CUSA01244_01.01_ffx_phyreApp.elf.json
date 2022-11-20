@@ -1,1 +1,316 @@
-{"name":"FINAL FANTASY X/X-2 HD Remaster","id":"CUSA01244","version":"01.01","process":"ffx_phyreApp.elf","mods":[{"name":"--Final Fantasy X--","type":"checkbox","memory":[{"offset":"9DD151","on":"C390","off":"0000"}]},{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"9DD159","on":"8BBBDC0500004883F80075098BBBA0050000EB04904429F7E9B04989FF","off":"0000000000000000000000000000000000000000000000000000000000"},{"offset":"271B1D","on":"E937B6760090909090","off":"8BBBDC0500004429F7"}]},{"name":"Infinite Mana","type":"checkbox","memory":[{"offset":"9DD17C","on":"8B83AC0500008983E005000090E9E51889FF","off":"000000000000000000000000000000000000"},{"offset":"26EA6D","on":"E90AE7760090","off":"8983E0050000"}]},{"name":"Infinite Overdrive","type":"checkbox","memory":[{"offset":"9DD194","on":"488B4DC88A014188073A01E9C7978AFF","off":"00000000000000000000000000000000"},{"offset":"286965","on":"E92A68750090","off":"488B4DC83A01"}]},{"name":"Infinite AP","type":"checkbox","memory":[{"offset":"9DD1A8","on":"C78401E45500003F420F008B8401E455000090E9A9A08BFF","off":"000000000000000000000000000000000000000000000000"},{"offset":"297262","on":"E9415F74009090","off":"8B8401E4550000"}]},{"name":"Infinite Gil","type":"checkbox","memory":[{"offset":"297224","on":"0F4DD6","off":"0F4ED6"}]},{"name":"Items x99 (auto sort item)","type":"checkbox","memory":[{"offset":"9DD1C8","on":"880C4BC6040863E9B6B59FFF","off":"000000000000000000000000"},{"offset":"3D8780","on":"E9434A60009090909090","off":"66C7044BFF00C6040800"},{"offset":"3D912B","on":"B2009090909090","off":"8A9474E0000000"}]},{"name":"4 slot Equips (open item equip list)","type":"checkbox","memory":[{"offset":"9DD1DC","on":"41C6470B0490410FB6470BE90287A1FF","off":"00000000000000000000000000000000"},{"offset":"3F58E9","on":"E9EE785E00","off":"410FB6470B"}]},{"name":"Blitzball Arena Max Stat (need breakthrough/enemies)","type":"checkbox","memory":[{"offset":"9DD1F4","on":"4881FEAB10000C7544C6837DEFFFFF63C68381EFFFFF6366C78315F0FFFF0F2766C78319F0FFFF0F2766C7831DF0FFFF0F2766C78321F0FFFF0F2766C78325F0FFFF0F2766C78329F0FFFF0F274881FE0C00005C751A80BB710F0000007511C6432463486304814801C8E979E099FF90486304814801C8E96CE099FF","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"37B2D5","on":"E91A1F66009090","off":"486304814801C8"}]},{"name":"Blitzball Time 5:00","type":"checkbox","memory":[{"offset":"9DD280","on":"4489234881FE4401005C750E66C7032C014D89FCE99EC199FF904D89FCE995C199FF","off":"00000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"379431","on":"E94A3E660090","off":"4489234D89FC"}]},{"name":"Disabled Battle Encounter","type":"checkbox","memory":[{"offset":"9DD2A8","on":"41C7869C01000000000000C4C17A58869C01000090E9A28C88FF","off":"0000000000000000000000000000000000000000000000000000"},{"offset":"265F5B","on":"E94873770090909090","off":"C4C17A58869C010000"}]},{"name":"Encounter Battle","type":"checkbox","memory":[{"offset":"9DD2A8","on":"41C7869C0100000000E143C4C17A58869C01000090E9A28C88FF","off":"0000000000000000000000000000000000000000000000000000"},{"offset":"265F5B","on":"E94873770090909090","off":"C4C17A58869C010000"}]},{"name":"200 Lightning Dodge (dodge 1)","type":"checkbox","memory":[{"offset":"9DD2C8","on":"B8C80000000F4DD890E910DE99FF","off":"0000000000000000000000000000"},{"offset":"37B0DE","on":"E9E5216600909090","off":"3DFFFF00000F4ED8"}]},{"name":"Chocobo Training Timer 0","type":"checkbox","memory":[{"offset":"9DD2DC","on":"4488234881FEB000000C750E66C70300004D89FCE9E4BD99FF904D89FCE9DBBD99FF","off":"00000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"3790D3","on":"E90442660090","off":"4488234D89FC"}]},{"name":"Increase Time Butterfly Catch (turn off when done / wait)","type":"checkbox","memory":[{"offset":"9DD304","on":"41807E0401750BFFC341891EE93F6A98FF90FFCB41891EE9346A98FF","off":"00000000000000000000000000000000000000000000000000000000"},{"offset":"363D4F","on":"E9B0956700","off":"FFCB41891E"}]},{"name":"--Final Fantasy X-2--","type":"checkbox","memory":[{"offset":"B2C2C4","on":"C390","off":"0000"}]},{"name":"Infinite Health (master code)","type":"checkbox","memory":[{"offset":"B2C2D0","on":"4883FF02772F8B88A00300008988D00300003B88D0030000750D908B88D0030000E96B727CFF908B88A40300008988D4030000EBE68B88D0030000E951727CFF","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"2F355B","on":"E9708D830090","off":"8B88D0030000"}]},{"name":"Infinite MP (need MC)","type":"checkbox","memory":[{"offset":"B2C2E8","on":"740D","off":"750D"}]},{"name":"Max Gil buy / sell","type":"checkbox","memory":[{"offset":"B2C320","on":"BEFFC99A3B89B1D8770000E9EEDA7FFF","off":"00000000000000000000000000000000"},{"offset":"329E18","on":"E90325800090","off":"89B1D8770000"}]},{"name":"All Items 99 (auto sort)","type":"checkbox","memory":[{"offset":"B2C340","on":"418A548D0341516641B90020415449C7C4000000006646890C6343C60427636641FFC141FEC44983FC4475E94159415CE9495197FF","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"4A14B5","on":"E986AE680090909090","off":"418A548D0341881407"}]}],"credits":["d01v_9.00"]}
+{
+  "name": "FINAL FANTASY X/X-2 HD Remaster",
+  "id": "CUSA01244",
+  "version": "01.01",
+  "process": "ffx_phyreApp.elf",
+  "mods": [
+    {
+      "name": "--Final Fantasy X--",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9DD151",
+          "on": "C390",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9DD159",
+          "on": "8BBBDC0500004883F80075098BBBA0050000EB04904429F7E9B04989FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "271B1D",
+          "on": "E937B6760090909090",
+          "off": "8BBBDC0500004429F7"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mana",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9DD17C",
+          "on": "8B83AC0500008983E005000090E9E51889FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "26EA6D",
+          "on": "E90AE7760090",
+          "off": "8983E0050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Overdrive",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9DD194",
+          "on": "488B4DC88A014188073A01E9C7978AFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "286965",
+          "on": "E92A68750090",
+          "off": "488B4DC83A01"
+        }
+      ]
+    },
+    {
+      "name": "Infinite AP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9DD1A8",
+          "on": "C78401E45500003F420F008B8401E455000090E9A9A08BFF",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "297262",
+          "on": "E9415F74009090",
+          "off": "8B8401E4550000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gil",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "297224",
+          "on": "0F4DD6",
+          "off": "0F4ED6"
+        }
+      ]
+    },
+    {
+      "name": "Items x99 (auto sort item)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9DD1C8",
+          "on": "880C4BC6040863E9B6B59FFF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "3D8780",
+          "on": "E9434A60009090909090",
+          "off": "66C7044BFF00C6040800"
+        },
+        {
+          "offset": "3D912B",
+          "on": "B2009090909090",
+          "off": "8A9474E0000000"
+        }
+      ]
+    },
+    {
+      "name": "4 slot Equips (open item equip list)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9DD1DC",
+          "on": "41C6470B0490410FB6470BE90287A1FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "3F58E9",
+          "on": "E9EE785E00",
+          "off": "410FB6470B"
+        }
+      ]
+    },
+    {
+      "name": "Blitzball Arena Max Stat (need breakthrough/enemies)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9DD1F4",
+          "on": "4881FEAB10000C7544C6837DEFFFFF63C68381EFFFFF6366C78315F0FFFF0F2766C78319F0FFFF0F2766C7831DF0FFFF0F2766C78321F0FFFF0F2766C78325F0FFFF0F2766C78329F0FFFF0F274881FE0C00005C751A80BB710F0000007511C6432463486304814801C8E979E099FF90486304814801C8E96CE099FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "37B2D5",
+          "on": "E91A1F66009090",
+          "off": "486304814801C8"
+        }
+      ]
+    },
+    {
+      "name": "Blitzball Time 5:00",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9DD280",
+          "on": "4489234881FE4401005C750E66C7032C014D89FCE99EC199FF904D89FCE995C199FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "379431",
+          "on": "E94A3E660090",
+          "off": "4489234D89FC"
+        }
+      ]
+    },
+    {
+      "name": "Disabled Battle Encounter",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9DD2A8",
+          "on": "41C7869C01000000000000C4C17A58869C01000090E9A28C88FF",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "265F5B",
+          "on": "E94873770090909090",
+          "off": "C4C17A58869C010000"
+        }
+      ]
+    },
+    {
+      "name": "Encounter Battle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9DD2A8",
+          "on": "41C7869C0100000000E143C4C17A58869C01000090E9A28C88FF",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "265F5B",
+          "on": "E94873770090909090",
+          "off": "C4C17A58869C010000"
+        }
+      ]
+    },
+    {
+      "name": "200 Lightning Dodge (dodge 1)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9DD2C8",
+          "on": "B8C80000000F4DD890E910DE99FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "37B0DE",
+          "on": "E9E5216600909090",
+          "off": "3DFFFF00000F4ED8"
+        }
+      ]
+    },
+    {
+      "name": "Chocobo Training Timer 0",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9DD2DC",
+          "on": "4488234881FEB000000C750E66C70300004D89FCE9E4BD99FF904D89FCE9DBBD99FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3790D3",
+          "on": "E90442660090",
+          "off": "4488234D89FC"
+        }
+      ]
+    },
+    {
+      "name": "Increase Time Butterfly Catch (turn off when done / wait)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9DD304",
+          "on": "41807E0401750BFFC341891EE93F6A98FF90FFCB41891EE9346A98FF",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "363D4F",
+          "on": "E9B0956700",
+          "off": "FFCB41891E"
+        }
+      ]
+    },
+    {
+      "name": "--Final Fantasy X-2--",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B2C2C4",
+          "on": "C390",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (master code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B2C2D0",
+          "on": "4883FF02772F8B88A00300008988D00300003B88D0030000750D908B88D0030000E96B727CFF908B88A40300008988D4030000EBE68B88D0030000E951727CFF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2F355B",
+          "on": "E9708D830090",
+          "off": "8B88D0030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP (need MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B2C2E8",
+          "on": "740D",
+          "off": "750D"
+        }
+      ]
+    },
+    {
+      "name": "Max Gil buy / sell",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B2C320",
+          "on": "BEFFC99A3B89B1D8770000E9EEDA7FFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "329E18",
+          "on": "E90325800090",
+          "off": "89B1D8770000"
+        }
+      ]
+    },
+    {
+      "name": "All Items 99 (auto sort)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B2C340",
+          "on": "418A548D0341516641B90020415449C7C4000000006646890C6343C60427636641FFC141FEC44983FC4475E94159415CE9495197FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4A14B5",
+          "on": "E986AE680090909090",
+          "off": "418A548D0341881407"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v_9.00"
+  ]
+}

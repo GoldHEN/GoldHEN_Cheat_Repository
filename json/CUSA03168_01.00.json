@@ -1,1 +1,22 @@
-{"name":"Bombing Busters","id":"CUSA03168","version":"01.00","process":"eboot.bin","mods":[{"name":"Stop Time Clock","type":"checkbox","memory":[{"offset":"7AEFBC","on":"90909090","off":"F20F5CC1"}]}],"credits":["OGD38"]}
+{
+  "name": "Bombing Busters",
+  "id": "CUSA03168",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Stop Time Clock",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7AEFBC",
+          "on": "90909090",
+          "off": "F20F5CC1"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "OGD38"
+  ]
+}

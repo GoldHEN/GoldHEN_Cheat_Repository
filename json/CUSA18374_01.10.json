@@ -1,1 +1,70 @@
-{"name":"SWORD ART ONLINE Alicization Lycoris","id":"CUSA18374","version":"01.10","process":"eboot.bin","mods":[{"name":"Inf Health (Dont Use With 1 Hit)","type":"checkbox","memory":[{"offset":"21D0BA0","on":"4180BEB0FA0000007413498BB690FA00004989B688FA0000E934ADCEFE4989B688FA0000E928ADCEFE","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"EBB8EA","on":"E9B15231019090","off":"4989B688FA0000"}]},{"name":"Inf Health / 1 Hit Kill","type":"checkbox","memory":[{"offset":"21D0BA0","on":"4180BEB0FA0000007413498BB690FA00004989B688FA0000E934ADCEFEBE000000004989B688FA0000E923ADCEFE","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"EBB8EA","on":"E9B15231019090","off":"4989B688FA0000"}]},{"name":"Inf Skill Points","type":"checkbox","memory":[{"offset":"21D0C00","on":"6641BEFF00664489B0D8000000E98C685EFF","off":"000000000000000000000000000000000000"},{"offset":"17B7496","on":"E96597A100909090","off":"664489B0D8000000"}]},{"name":"Inf SP","type":"checkbox","memory":[{"offset":"1678797","on":"8B839CFA0000","off":"8B8398FA0000"}]}],"credits":["Saso"]}
+{
+  "name": "SWORD ART ONLINE Alicization Lycoris",
+  "id": "CUSA18374",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health (Dont Use With 1 Hit)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21D0BA0",
+          "on": "4180BEB0FA0000007413498BB690FA00004989B688FA0000E934ADCEFE4989B688FA0000E928ADCEFE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "EBB8EA",
+          "on": "E9B15231019090",
+          "off": "4989B688FA0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Health / 1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21D0BA0",
+          "on": "4180BEB0FA0000007413498BB690FA00004989B688FA0000E934ADCEFEBE000000004989B688FA0000E923ADCEFE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "EBB8EA",
+          "on": "E9B15231019090",
+          "off": "4989B688FA0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21D0C00",
+          "on": "6641BEFF00664489B0D8000000E98C685EFF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "17B7496",
+          "on": "E96597A100909090",
+          "off": "664489B0D8000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf SP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1678797",
+          "on": "8B839CFA0000",
+          "off": "8B8398FA0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

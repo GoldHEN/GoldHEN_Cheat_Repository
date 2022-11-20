@@ -1,1 +1,55 @@
-{"name":"Call of Duty®: Black Ops Cold War","id":"CUSA24267","version":"01.27","process":"eboot.bin","mods":[{"name":"Infinite Money after Buy","type":"checkbox","memory":[{"offset":"12E4387","on":"909090","off":"8B45F0"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"F0346E","on":"9090909090909090","off":"4189848EDC130000"}]},{"name":"God Mode","type":"checkbox","memory":[{"offset":"1254BB5","on":"909090909090","off":"898190030000"}]},{"name":"God Mode (Campaign)","type":"checkbox","memory":[{"offset":"1254BA8","on":"909090909090","off":"2B8588FEFFFF"}]}],"credits":["Savas"]}
+{
+  "name": "Call of Duty®: Black Ops Cold War",
+  "id": "CUSA24267",
+  "version": "01.27",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Money after Buy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12E4387",
+          "on": "909090",
+          "off": "8B45F0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F0346E",
+          "on": "9090909090909090",
+          "off": "4189848EDC130000"
+        }
+      ]
+    },
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1254BB5",
+          "on": "909090909090",
+          "off": "898190030000"
+        }
+      ]
+    },
+    {
+      "name": "God Mode (Campaign)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1254BA8",
+          "on": "909090909090",
+          "off": "2B8588FEFFFF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Savas"
+  ]
+}

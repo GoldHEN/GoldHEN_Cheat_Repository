@@ -1,1 +1,97 @@
-{"name":"Aliens: Fireteam Elite (PS4)","id":"CUSA27462","version":"01.14","process":"eboot.bin","mods":[{"name":"Health / Stamina  (Master Code)","type":"checkbox","memory":[{"offset":"5AA7800","on":"3D807E4A0075334485CE746181F974654F00753150488B4320817818D66148007409817818D6614800751958C5FA104720F30F10C8C5FA114F08C5FA11470CE9450660FA58817B182D4B060075EC813F185E010674E4817F0C0000003F7EDBC7470C0000003FC5FA10470CEBCD817F38CDCCCC3D75C4817F3CCDCCCC3D75BBC5FA104710F30F10C8C5FA114F08E9F70560FA","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"A7E84","on":"E977F99F05","off":"C5FA11470C"}]},{"name":"Team Health + (MC)","type":"checkbox","memory":[{"offset":"5AA7822","on":"81781840294800","off":"817818D6614800"}]},{"name":"1 Hit Kill + (MC)","type":"checkbox","memory":[{"offset":"5AA7854","on":"75E4","off":"74E4"}]},{"name":"Max Ammo / No Reload","type":"checkbox","memory":[{"offset":"5AA5AA0","on":"C783C4070000E7030000B8630000008983CC070000E9390B3DFB","off":"0000000000000000000000000000000000000000000000000000"},{"offset":"E765ED","on":"E9AEF4C20490","off":"8983CC070000"}]},{"name":"Max Currency (9999999)","type":"checkbox","memory":[{"offset":"5AA5AF0","on":"41C746083F420F00418B4608E9D86F07FB","off":"0000000000000000000000000000000000"},{"offset":"B1CAD1","on":"E91A90F80490","off":"418B4608EB02"}]},{"name":"Infinite Consumables","type":"checkbox","memory":[{"offset":"BEAF53","on":"90909090909090","off":"83BB140C000000"},{"offset":"BEB1FC","on":"90909090909090","off":"83BB140C000000"}]}],"credits":["Saso"]}
+{
+  "name": "Aliens: Fireteam Elite (PS4)",
+  "id": "CUSA27462",
+  "version": "01.14",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Health / Stamina  (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5AA7800",
+          "on": "3D807E4A0075334485CE746181F974654F00753150488B4320817818D66148007409817818D6614800751958C5FA104720F30F10C8C5FA114F08C5FA11470CE9450660FA58817B182D4B060075EC813F185E010674E4817F0C0000003F7EDBC7470C0000003FC5FA10470CEBCD817F38CDCCCC3D75C4817F3CCDCCCC3D75BBC5FA104710F30F10C8C5FA114F08E9F70560FA",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A7E84",
+          "on": "E977F99F05",
+          "off": "C5FA11470C"
+        }
+      ]
+    },
+    {
+      "name": "Team Health + (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5AA7822",
+          "on": "81781840294800",
+          "off": "817818D6614800"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill + (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5AA7854",
+          "on": "75E4",
+          "off": "74E4"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo / No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5AA5AA0",
+          "on": "C783C4070000E7030000B8630000008983CC070000E9390B3DFB",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E765ED",
+          "on": "E9AEF4C20490",
+          "off": "8983CC070000"
+        }
+      ]
+    },
+    {
+      "name": "Max Currency (9999999)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5AA5AF0",
+          "on": "41C746083F420F00418B4608E9D86F07FB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "B1CAD1",
+          "on": "E91A90F80490",
+          "off": "418B4608EB02"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Consumables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BEAF53",
+          "on": "90909090909090",
+          "off": "83BB140C000000"
+        },
+        {
+          "offset": "BEB1FC",
+          "on": "90909090909090",
+          "off": "83BB140C000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

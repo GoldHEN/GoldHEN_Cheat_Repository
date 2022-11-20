@@ -1,1 +1,126 @@
-{"name":"Tom Clancys Ghost Recon® Wildlands","id":"CUSA02819","version":"01.18","process":"eboot.bin","mods":[{"name":"Bottomless Clip","type":"checkbox","memory":[{"offset":"20ECAF","on":"9090","off":"29C7"},{"offset":"963FD","on":"9090","off":"FFCE"}]},{"name":"Infinite Grenades","type":"checkbox","memory":[{"offset":"7206D","on":"9090","off":"FFC8"}]},{"name":"Max Grenades on Use","type":"checkbox","memory":[{"offset":"72064","on":"66B8FF00","off":"668B4750"}]},{"name":"Infinite Mines","type":"checkbox","memory":[{"offset":"152813","on":"9090","off":"FFC9"}]},{"name":"Max Mines on Use","type":"checkbox","memory":[{"offset":"15280C","on":"B8FF000000","off":"410FB74550"}]},{"name":"Infinite C4","type":"checkbox","memory":[{"offset":"15411F","on":"9090","off":"FFC8"}]},{"name":"Infinite Skillpoints","type":"checkbox","memory":[{"offset":"42E8CA","on":"9090","off":"29D1"}]},{"name":"255 Skillpoints on Use","type":"checkbox","memory":[{"offset":"42E8C6","on":"66B9FF00","off":"8B4C8710"}]},{"name":"Add 200.000.000 Resources after restart game","type":"checkbox","memory":[{"offset":"8B5D29","on":"41C70600C2EB0B","off":"41334020418906"}]},{"name":"Unlock Tier-One-Mode","type":"checkbox","memory":[{"offset":"45C64D","on":"39D8","off":"39C3"}]}],"credits":["cjwine, TLH"]}
+{
+  "name": "Tom Clancys Ghost Recon® Wildlands",
+  "id": "CUSA02819",
+  "version": "01.18",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Bottomless Clip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "20ECAF",
+          "on": "9090",
+          "off": "29C7"
+        },
+        {
+          "offset": "963FD",
+          "on": "9090",
+          "off": "FFCE"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7206D",
+          "on": "9090",
+          "off": "FFC8"
+        }
+      ]
+    },
+    {
+      "name": "Max Grenades on Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "72064",
+          "on": "66B8FF00",
+          "off": "668B4750"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mines",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "152813",
+          "on": "9090",
+          "off": "FFC9"
+        }
+      ]
+    },
+    {
+      "name": "Max Mines on Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15280C",
+          "on": "B8FF000000",
+          "off": "410FB74550"
+        }
+      ]
+    },
+    {
+      "name": "Infinite C4",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15411F",
+          "on": "9090",
+          "off": "FFC8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skillpoints",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "42E8CA",
+          "on": "9090",
+          "off": "29D1"
+        }
+      ]
+    },
+    {
+      "name": "255 Skillpoints on Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "42E8C6",
+          "on": "66B9FF00",
+          "off": "8B4C8710"
+        }
+      ]
+    },
+    {
+      "name": "Add 200.000.000 Resources after restart game",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8B5D29",
+          "on": "41C70600C2EB0B",
+          "off": "41334020418906"
+        }
+      ]
+    },
+    {
+      "name": "Unlock Tier-One-Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45C64D",
+          "on": "39D8",
+          "off": "39C3"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "cjwine, TLH"
+  ]
+}

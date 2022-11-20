@@ -1,1 +1,55 @@
-{"name":"Bladed Fury","id":"CUSA24669","version":"01.01","process":"eboot.bin","mods":[{"name":"Inf Health","type":"checkbox","memory":[{"offset":"158F1A0","on":"668178200AD7750CC7402400409C46E9A7E7FE7EC5FA114024E99DE7FE7E","off":"000000000000000000000000000000000000000000000000000000000000"},{"offset":"8057D956","on":"E945180181","off":"C5FA114024"}]},{"name":"Inf Souls","type":"checkbox","memory":[{"offset":"158F200","on":"C740180050C347E93FF2887F","off":"000000000000000000000000"},{"offset":"80E1E446","on":"E9B50D7780","off":"C5FA114018"}]},{"name":"Inf Soul Sliver","type":"checkbox","memory":[{"section":"15","offset":"2AA642","on":"909090909090","off":"8988C4000000"}]}],"credits":["Saso"]}
+{
+  "name": "Bladed Fury",
+  "id": "CUSA24669",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "158F1A0",
+          "on": "668178200AD7750CC7402400409C46E9A7E7FE7EC5FA114024E99DE7FE7E",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8057D956",
+          "on": "E945180181",
+          "off": "C5FA114024"
+        }
+      ]
+    },
+    {
+      "name": "Inf Souls",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "158F200",
+          "on": "C740180050C347E93FF2887F",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "80E1E446",
+          "on": "E9B50D7780",
+          "off": "C5FA114018"
+        }
+      ]
+    },
+    {
+      "name": "Inf Soul Sliver",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "15",
+          "offset": "2AA642",
+          "on": "909090909090",
+          "off": "8988C4000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

@@ -1,1 +1,43 @@
-{"name":"SUPER BOMBERMAN R","id":"CUSA10667","version":"01.04","process":"eboot.bin","mods":[{"name":"Infinite Lives (Turn Off Max Gold)","type":"checkbox","memory":[{"offset":"13E3800","on":"894160B809000000E907945F7F","off":"00000000000000000000000000"},{"offset":"809DCC0F","on":"E9EC6BA080","off":"8B4160FFC8"}]},{"name":"Max Gold On Buy [999999999]","type":"checkbox","memory":[{"offset":"13E3800","on":"894750894750B8FFC99A3BE9DAFB1B7F","off":"00000000000000000000000000000000"},{"offset":"805A33E5","on":"E91604E480","off":"730331C0C3"}]}],"credits":["Celogamez"]}
+{
+  "name": "SUPER BOMBERMAN R",
+  "id": "CUSA10667",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Lives (Turn Off Max Gold)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13E3800",
+          "on": "894160B809000000E907945F7F",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "809DCC0F",
+          "on": "E9EC6BA080",
+          "off": "8B4160FFC8"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold On Buy [999999999]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13E3800",
+          "on": "894750894750B8FFC99A3BE9DAFB1B7F",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "805A33E5",
+          "on": "E91604E480",
+          "off": "730331C0C3"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

@@ -1,1 +1,43 @@
-{"name":"EA SPORTS™ UFC® 4","id":"CUSA14209","version":"04.02","process":"eboot.bin","mods":[{"name":"Inf Stamina Player Left","type":"checkbox","memory":[{"offset":"24E7000","on":"C5FA5DC183B818010000007409C5FA1108E944BD1AFEC5FA1100E93BBD1AFE","off":"00000000000000000000000000000000000000000000000000000000000000"},{"offset":"692D52","on":"E9A942E501909090","off":"C5FA5DC1C5FA1100"}]},{"name":"Inf Stamina Player Right","type":"checkbox","memory":[{"offset":"24E7000","on":"C5FA5DC183B818010000017409C5FA1108E944BD1AFEC5FA1100E93BBD1AFE","off":"00000000000000000000000000000000000000000000000000000000000000"},{"offset":"692D52","on":"E9A942E501909090","off":"C5FA5DC1C5FA1100"}]}],"credits":["aran"]}
+{
+  "name": "EA SPORTS™ UFC® 4",
+  "id": "CUSA14209",
+  "version": "04.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Stamina Player Left",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24E7000",
+          "on": "C5FA5DC183B818010000007409C5FA1108E944BD1AFEC5FA1100E93BBD1AFE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "692D52",
+          "on": "E9A942E501909090",
+          "off": "C5FA5DC1C5FA1100"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina Player Right",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24E7000",
+          "on": "C5FA5DC183B818010000017409C5FA1108E944BD1AFEC5FA1100E93BBD1AFE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "692D52",
+          "on": "E9A942E501909090",
+          "off": "C5FA5DC1C5FA1100"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "aran"
+  ]
+}

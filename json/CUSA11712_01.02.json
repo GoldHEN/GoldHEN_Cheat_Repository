@@ -1,1 +1,103 @@
-{"name":"SENRAN KAGURA Burst Re:Newal","id":"CUSA11712","version":"01.02","process":"eboot.bin","mods":[{"name":"Infinite Health + Max HP","type":"checkbox","memory":[{"offset":"6F37E0","on":"C780AC060000003C1C46C5FA1080AC060000C5FA1180B0060000C5F82E80B006000090E90415B5FF","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"244D04","on":"E9D7EA4A00909090","off":"C5F82E80B0060000"}]},{"name":"Infinite Ninja Art","type":"checkbox","memory":[{"offset":"6F3810","on":"90C783981900000000803FE9A32D9EFF","off":"00000000000000000000000000000000"},{"offset":"D65BB","on":"E950D26100909090","off":"C5FA118398190000"}]},{"name":"Infinite Burst","type":"checkbox","memory":[{"offset":"EF922","on":"4189BED82F0000","off":"4189B6D82F0000"}]},{"name":"Max Exp Battle","type":"checkbox","memory":[{"offset":"102818","on":"B8FFE0F505","off":"3DFFE0F505"}]},{"name":"Max Exp Ninja Room (growth med)","type":"checkbox","memory":[{"offset":"A14CA","on":"BEFFE0F50590","off":"81FEFFE0F505"}]},{"name":"Zen (buy)","type":"checkbox","memory":[{"offset":"A12B7","on":"BFFFE0F50590","off":"81FFFFE0F505"}]},{"name":"Secret Growth Med","type":"checkbox","memory":[{"offset":"6F3828","on":"BEE70300004189770C418B770C4889DF90E920ECAFFF","off":"00000000000000000000000000000000000000000000"},{"offset":"1F2457","on":"E9CC1350009090","off":"418B770C4889DF"}]}],"credits":["d01v_9.00"]}
+{
+  "name": "SENRAN KAGURA Burst Re:Newal",
+  "id": "CUSA11712",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health + Max HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6F37E0",
+          "on": "C780AC060000003C1C46C5FA1080AC060000C5FA1180B0060000C5F82E80B006000090E90415B5FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "244D04",
+          "on": "E9D7EA4A00909090",
+          "off": "C5F82E80B0060000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ninja Art",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6F3810",
+          "on": "90C783981900000000803FE9A32D9EFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "D65BB",
+          "on": "E950D26100909090",
+          "off": "C5FA118398190000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Burst",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "EF922",
+          "on": "4189BED82F0000",
+          "off": "4189B6D82F0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Exp Battle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "102818",
+          "on": "B8FFE0F505",
+          "off": "3DFFE0F505"
+        }
+      ]
+    },
+    {
+      "name": "Max Exp Ninja Room (growth med)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A14CA",
+          "on": "BEFFE0F50590",
+          "off": "81FEFFE0F505"
+        }
+      ]
+    },
+    {
+      "name": "Zen (buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A12B7",
+          "on": "BFFFE0F50590",
+          "off": "81FFFFE0F505"
+        }
+      ]
+    },
+    {
+      "name": "Secret Growth Med",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6F3828",
+          "on": "BEE70300004189770C418B770C4889DF90E920ECAFFF",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F2457",
+          "on": "E9CC1350009090",
+          "off": "418B770C4889DF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v_9.00"
+  ]
+}

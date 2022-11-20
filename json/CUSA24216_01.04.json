@@ -1,1 +1,77 @@
-{"name":"Cyber Shadow","id":"CUSA24216","version":"01.04","process":"eboot.bin","mods":[{"name":"Infinite HP (Ranged Damage)","type":"checkbox","memory":[{"offset":"9B274B","on":"90909090909090909090","off":"C4C17B11842420270B00"}]},{"name":"Infinite HP (close damage)","type":"checkbox","memory":[{"offset":"9B1289","on":"909090909090909090","off":"C4C17B118720270B00"}]},{"name":"Infinite SP Shuriken","type":"checkbox","memory":[{"offset":"1168213","on":"909090909090909090","off":"C4C17B118558270B00"}]},{"name":"Infinite SP Rising fire","type":"checkbox","memory":[{"offset":"12BFEE0","on":"909090909090909090","off":"C4C17B118558270B00"}]},{"name":"Infinite SP Airstrike","type":"checkbox","memory":[{"offset":"1212BB5","on":"909090909090909090","off":"C4C17B118558270B00"}]},{"name":"Infinite SP Sprint Attack","type":"checkbox","memory":[{"offset":"9E8C98","on":"909090909090909090","off":"C4C17B118758270B00"}]}],"credits":["Wander"]}
+{
+  "name": "Cyber Shadow",
+  "id": "CUSA24216",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite HP (Ranged Damage)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9B274B",
+          "on": "90909090909090909090",
+          "off": "C4C17B11842420270B00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite HP (close damage)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9B1289",
+          "on": "909090909090909090",
+          "off": "C4C17B118720270B00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite SP Shuriken",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1168213",
+          "on": "909090909090909090",
+          "off": "C4C17B118558270B00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite SP Rising fire",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12BFEE0",
+          "on": "909090909090909090",
+          "off": "C4C17B118558270B00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite SP Airstrike",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1212BB5",
+          "on": "909090909090909090",
+          "off": "C4C17B118558270B00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite SP Sprint Attack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9E8C98",
+          "on": "909090909090909090",
+          "off": "C4C17B118758270B00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander"
+  ]
+}

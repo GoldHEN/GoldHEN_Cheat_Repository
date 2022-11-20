@@ -1,1 +1,33 @@
-{"name":"Call of Duty®: Vanguard","id":"CUSA24041","version":"01.08","process":"eboot.bin","mods":[{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"1125167","on":"90909090","off":"895C8854"}]},{"name":"Infinite Health (Zombie Mode)","type":"checkbox","memory":[{"offset":"159A96A","on":"9090909090909090","off":"45298424C0010000"}]}],"credits":["Savas"]}
+{
+  "name": "Call of Duty®: Vanguard",
+  "id": "CUSA24041",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1125167",
+          "on": "90909090",
+          "off": "895C8854"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (Zombie Mode)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "159A96A",
+          "on": "9090909090909090",
+          "off": "45298424C0010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Savas"
+  ]
+}

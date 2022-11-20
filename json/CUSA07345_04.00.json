@@ -1,1 +1,75 @@
-{"name":"Ni no Kuni™ II: Revenant Kingdom","id":"CUSA07345","version":"04.00","process":"eboot.bin","mods":[{"name":"Items x99 (on use have 2)","type":"checkbox","memory":[{"offset":"7FC5B0A0","on":"6685D2C6400A63E949EAD680","off":"000000000000000000000000"},{"offset":"9C9AEE","on":"E9AD15297F9090","off":"6685D26689500A"}]},{"name":"Infinite MP","type":"checkbox","memory":[{"offset":"7FE77BF0","on":"6641C78404FC03000000C0E9269A8B80","off":"00000000000000000000000000000000"},{"offset":"73161C","on":"E9CF65747F9090909090","off":"C4C17A118C04FC030000"}]},{"name":"Max Money (on gain)","type":"checkbox","memory":[{"offset":"7FE77C20","on":"81FE7F969800C7013F420F00E9A1E4FC80","off":"0000000000000000000000000000000000"},{"offset":"E460CA","on":"E9511B037F909090","off":"81FE7F9698008931"}]},{"name":"Max Experience","type":"checkbox","memory":[{"offset":"7FC5B0B0","on":"C7808C000000FFE0F505E91D71EA80","off":"000000000000000000000000000000"},{"offset":"B021D5","on":"E9D68E157F9090","off":"4489B08C000000"}]}],"credits":["Wander_9.00"]}
+{
+  "name": "Ni no Kuni™ II: Revenant Kingdom",
+  "id": "CUSA07345",
+  "version": "04.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Items x99 (on use have 2)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5B0A0",
+          "on": "6685D2C6400A63E949EAD680",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "9C9AEE",
+          "on": "E9AD15297F9090",
+          "off": "6685D26689500A"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FE77BF0",
+          "on": "6641C78404FC03000000C0E9269A8B80",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "73161C",
+          "on": "E9CF65747F9090909090",
+          "off": "C4C17A118C04FC030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money (on gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FE77C20",
+          "on": "81FE7F969800C7013F420F00E9A1E4FC80",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "E460CA",
+          "on": "E9511B037F909090",
+          "off": "81FE7F9698008931"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5B0B0",
+          "on": "C7808C000000FFE0F505E91D71EA80",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "B021D5",
+          "on": "E9D68E157F9090",
+          "off": "4489B08C000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander_9.00"
+  ]
+}

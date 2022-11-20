@@ -1,1 +1,118 @@
-{"name":"The Sinking City","id":"CUSA13152","version":"01.04","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"4CD4558","on":"52418B96880100004189968C0100005AC4C17A10868C010000E99252A9FB","off":"000000000000000000000000000000000000000000000000000000000000"},{"offset":"7697FF","on":"E954AD560490909090","off":"C4C17A10868C010000"}]},{"name":"Infinite Minds Eye","type":"checkbox","memory":[{"offset":"4CD457C","on":"52418B96BC000000418996C00000005AC4C17A1086C0000000E9B20EA2FB","off":"000000000000000000000000000000000000000000000000000000000000"},{"offset":"6F5443","on":"E934F15D0490909090","off":"C4C17A1086C0000000"}]},{"name":"Ammo (99)","type":"checkbox","memory":[{"offset":"4CD45A0","on":"48C1E004B863000000E91168ADFB","off":"0000000000000000000000000000"},{"offset":"7AADB7","on":"E9E4975204909090","off":"48C1E0048B440104"}]},{"name":"Craft Materials (99)","type":"checkbox","memory":[{"offset":"7AAF7B","on":"66B86300","off":"8B440104"}]},{"name":"Item Gadget (99)","type":"checkbox","memory":[{"offset":"4CD45B4","on":"90B163894C18EC4883C408E9D35AADFB","off":"00000000000000000000000000000000"},{"offset":"7AA08F","on":"E920A55204909090","off":"894C18EC4883C408"}]},{"name":"Experience 99k (on get)","type":"checkbox","memory":[{"offset":"4CD45CC","on":"9041C787F4000000804FC347C4C17A5887F4000000E94978A2FB","off":"0000000000000000000000000000000000000000000000000000"},{"offset":"6FBE26","on":"E9A1875D0490909090","off":"C4C17A5887F4000000"}]},{"name":"Knowledge Points (50)","type":"checkbox","memory":[{"offset":"4CD45EC","on":"90C78008010000320000008BB008010000E98A2AB3FB","off":"00000000000000000000000000000000000000000000"},{"offset":"807086","on":"E961D54C0490","off":"8BB008010000"}]}],"credits":["d01v_9.00"]}
+{
+  "name": "The Sinking City",
+  "id": "CUSA13152",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4CD4558",
+          "on": "52418B96880100004189968C0100005AC4C17A10868C010000E99252A9FB",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7697FF",
+          "on": "E954AD560490909090",
+          "off": "C4C17A10868C010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Minds Eye",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4CD457C",
+          "on": "52418B96BC000000418996C00000005AC4C17A1086C0000000E9B20EA2FB",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6F5443",
+          "on": "E934F15D0490909090",
+          "off": "C4C17A1086C0000000"
+        }
+      ]
+    },
+    {
+      "name": "Ammo (99)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4CD45A0",
+          "on": "48C1E004B863000000E91168ADFB",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "7AADB7",
+          "on": "E9E4975204909090",
+          "off": "48C1E0048B440104"
+        }
+      ]
+    },
+    {
+      "name": "Craft Materials (99)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7AAF7B",
+          "on": "66B86300",
+          "off": "8B440104"
+        }
+      ]
+    },
+    {
+      "name": "Item Gadget (99)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4CD45B4",
+          "on": "90B163894C18EC4883C408E9D35AADFB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "7AA08F",
+          "on": "E920A55204909090",
+          "off": "894C18EC4883C408"
+        }
+      ]
+    },
+    {
+      "name": "Experience 99k (on get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4CD45CC",
+          "on": "9041C787F4000000804FC347C4C17A5887F4000000E94978A2FB",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6FBE26",
+          "on": "E9A1875D0490909090",
+          "off": "C4C17A5887F4000000"
+        }
+      ]
+    },
+    {
+      "name": "Knowledge Points (50)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4CD45EC",
+          "on": "90C78008010000320000008BB008010000E98A2AB3FB",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "807086",
+          "on": "E961D54C0490",
+          "off": "8BB008010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v_9.00"
+  ]
+}

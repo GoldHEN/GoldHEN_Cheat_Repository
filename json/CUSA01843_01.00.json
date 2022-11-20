@@ -1,1 +1,70 @@
-{"name":"Teenage Mutant Ninja Turtles™: Mutants in Manhattan","id":"CUSA01843","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Health ( Master Code )","type":"checkbox","memory":[{"offset":"D3D0F0","on":"803BC875068B8BCC060000898BC8060000E92F0A4AFFC783C806000000000000E9200A4AFF","off":"00000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"1DDB2F","on":"E9BCF5B50090","off":"898BC8060000"}]},{"name":"1 Hit Kill (Master Code)","type":"checkbox","memory":[{"offset":"D3D0F3","on":"7511","off":"7506"}]},{"name":"Max Battel Points","type":"checkbox","memory":[{"offset":"D3D130","on":"C78403301000009F860100E974346CFF","off":"00000000000000000000000000000000"},{"offset":"4005AD","on":"E97ECB93009090","off":"89940330100000"}]},{"name":"Max Upgrade Points","type":"checkbox","memory":[{"offset":"D3D150","on":"B89F8601004189442410E98CC278FF","off":"000000000000000000000000000000"},{"offset":"4C93E6","on":"E9653D8700","off":"4189442410"}]}],"credits":["Saso"]}
+{
+  "name": "Teenage Mutant Ninja Turtles™: Mutants in Manhattan",
+  "id": "CUSA01843",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health ( Master Code )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D3D0F0",
+          "on": "803BC875068B8BCC060000898BC8060000E92F0A4AFFC783C806000000000000E9200A4AFF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1DDB2F",
+          "on": "E9BCF5B50090",
+          "off": "898BC8060000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D3D0F3",
+          "on": "7511",
+          "off": "7506"
+        }
+      ]
+    },
+    {
+      "name": "Max Battel Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D3D130",
+          "on": "C78403301000009F860100E974346CFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "4005AD",
+          "on": "E97ECB93009090",
+          "off": "89940330100000"
+        }
+      ]
+    },
+    {
+      "name": "Max Upgrade Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D3D150",
+          "on": "B89F8601004189442410E98CC278FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "4C93E6",
+          "on": "E9653D8700",
+          "off": "4189442410"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

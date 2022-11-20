@@ -1,1 +1,120 @@
-{"name":"Far Cry® 5","id":"CUSA05904","version":"01.15","process":"eboot.bin","mods":[{"name":"Ammo/items (on use/spend)","type":"checkbox","memory":[{"offset":"7FE75D10","on":"4429F0C6434C63E9AED62F81","off":"000000000000000000000000"},{"offset":"11733C4","on":"E94729D07E90","off":"4429F089434C"}]},{"name":"Infinite Gun clip/No reload","type":"checkbox","memory":[{"offset":"3871A27","on":"90909090909090","off":"4489BB88010000"}]},{"name":"Alot of money (on sell can effect items on gain)","type":"checkbox","memory":[{"offset":"7FC5AC00","on":"410F43C541C7474C3F420F00E94A875181","off":"0000000000000000000000000000000000"},{"offset":"1173353","on":"E9A878AE7E909090","off":"410F43C54189474C"}]},{"name":"Infinite Rockets usage (planes/helicopters)","type":"checkbox","memory":[{"offset":"37C3982","on":"9090909090","off":"41FF4CC574"}]},{"name":"Max Infinite Perks Points (Enable Only In Perks Screen)","type":"checkbox","memory":[{"offset":"7FE771A0","on":"C783E0000000E7030000E964C25B83","off":"000000000000000000000000000000"},{"offset":"343340C","on":"E98F3DA47C9090","off":"4429BBE0000000"}]},{"name":"Infinite potions bar","type":"checkbox","memory":[{"offset":"16C1788","on":"90909090","off":"C5FA1103"}]},{"name":"Infinite potions duration time (activate with potion bar)","type":"checkbox","memory":[{"offset":"1173E57","on":"9090909090","off":"C5FA114764"}]},{"name":"No cool down Hires and specials (turn on and off to take effect)","type":"checkbox","memory":[{"offset":"7FE76420","on":"C783E00100000000803FE99DA25C82","off":"000000000000000000000000000000"},{"offset":"24406C4","on":"E9575DA37D909090","off":"C5FA1183E0010000"}]}],"credits":["Wander","ADI FW9.00"]}
+{
+  "name": "Far Cry® 5",
+  "id": "CUSA05904",
+  "version": "01.15",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Ammo/items (on use/spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FE75D10",
+          "on": "4429F0C6434C63E9AED62F81",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "11733C4",
+          "on": "E94729D07E90",
+          "off": "4429F089434C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gun clip/No reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3871A27",
+          "on": "90909090909090",
+          "off": "4489BB88010000"
+        }
+      ]
+    },
+    {
+      "name": "Alot of money (on sell can effect items on gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5AC00",
+          "on": "410F43C541C7474C3F420F00E94A875181",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1173353",
+          "on": "E9A878AE7E909090",
+          "off": "410F43C54189474C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Rockets usage (planes/helicopters)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "37C3982",
+          "on": "9090909090",
+          "off": "41FF4CC574"
+        }
+      ]
+    },
+    {
+      "name": "Max Infinite Perks Points (Enable Only In Perks Screen)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FE771A0",
+          "on": "C783E0000000E7030000E964C25B83",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "343340C",
+          "on": "E98F3DA47C9090",
+          "off": "4429BBE0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite potions bar",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16C1788",
+          "on": "90909090",
+          "off": "C5FA1103"
+        }
+      ]
+    },
+    {
+      "name": "Infinite potions duration time (activate with potion bar)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1173E57",
+          "on": "9090909090",
+          "off": "C5FA114764"
+        }
+      ]
+    },
+    {
+      "name": "No cool down Hires and specials (turn on and off to take effect)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FE76420",
+          "on": "C783E00100000000803FE99DA25C82",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "24406C4",
+          "on": "E9575DA37D909090",
+          "off": "C5FA1183E0010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander",
+    "ADI FW9.00"
+  ]
+}

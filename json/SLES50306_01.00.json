@@ -1,88 +1,88 @@
 {
-   "name":"Resident Evil-Code-Veronica X",
-   "id":"SLES50306",
-   "version":"01.00",
-   "process":"eboot.bin",
-   "mods":[
-      {
-         "name":"Infinite-Magnum",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"8080049BAE",
-               "on":"20080001",
-               "off":"20080001"
-            }
-         ]
-      },
-	  {
-         "name":"rocket-Launeher",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"8080049BAA",
-               "on":"01080001",
-               "off":"01080001"
-            }
-         ]
-      },
-	  {
-         "name":"Infinite-Shotgun",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"8080049BAE",
-               "on":"04080001",
-               "off":"04080001"
-            }
-         ]
-      },
-	  {
-         "name":"Infinite-Health",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"8080048F2C",
-               "on":"99990000",
-               "off":"99990000"
-            }
-         ]
-      },
-	  {
-         "name":"Grenade-Launcher",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"8080049BAE",
-               "on":"06080001",
-               "off":"06080001"
-            }
-         ]
-      },
-	  {
-         "name":"Inf-Enhanced-Handgun",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"8080049BAE",
-               "on":"83080001",
-               "off":"83080001"
-            }
-         ]
-      },
-	  {
-         "name":"Inf-Assault-Rifle",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"8080049BAE",
-               "on":"02080001",
-               "off":"02080001"
-            }
-         ]
-      }
-   ],
-   "credits":[
-      "Ali-mk"
-   ]
+  "name": "Resident Evil-Code-Veronica X",
+  "id": "SLES50306",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Magnum",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080049BAE",
+          "on": "20080001",
+          "off": "20080001"
+        }
+      ]
+    },
+    {
+      "name": "rocket-Launeher",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080049BAA",
+          "on": "01080001",
+          "off": "01080001"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Shotgun",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080049BAE",
+          "on": "04080001",
+          "off": "04080001"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080048F2C",
+          "on": "99990000",
+          "off": "99990000"
+        }
+      ]
+    },
+    {
+      "name": "Grenade-Launcher",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080049BAE",
+          "on": "06080001",
+          "off": "06080001"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Enhanced-Handgun",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080049BAE",
+          "on": "83080001",
+          "off": "83080001"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Assault-Rifle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080049BAE",
+          "on": "02080001",
+          "off": "02080001"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

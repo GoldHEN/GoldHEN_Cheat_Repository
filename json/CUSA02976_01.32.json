@@ -1,1 +1,91 @@
-{"name":"HITMAN™","id":"CUSA02976","version":"01.32","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"1C1781C","on":"C783240200000000C842C5FA108324020000C7832C0200000000C842C5FA10832C020000E94EB8B4FE","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"763083","on":"E994474B01909090","off":"C5FA108324020000"}]},{"name":"Stealth","type":"checkbox","memory":[{"offset":"1C17800","on":"31C98988600C0000E9E34697FE","off":"00000000000000000000000000"},{"offset":"58BEEA","on":"E911B9680190","off":"8B88600C0000"},{"offset":"54C68F","on":"0F57C09090909090","off":"C5F82E0531532601"}]},{"name":"Bottomless Clip","type":"checkbox","memory":[{"offset":"1C17845","on":"66C78776030000FF000FB78776030000E9F373B3FE","off":"000000000000000000000000000000000000000000"},{"offset":"74EC46","on":"E9FA8B4C019090","off":"0FB78776030000"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"9C7AA5","on":"9090909090909090","off":"430184AE64010000"},{"offset":"9C7AF8","on":"9090909090909090","off":"4729A4AE64010000"}]},{"name":"Enemys dont Attack","type":"checkbox","memory":[{"offset":"59AFB5","on":"EB1A","off":"741A"}]}],"credits":["TLH"]}
+{
+  "name": "HITMAN™",
+  "id": "CUSA02976",
+  "version": "01.32",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1781C",
+          "on": "C783240200000000C842C5FA108324020000C7832C0200000000C842C5FA10832C020000E94EB8B4FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "763083",
+          "on": "E994474B01909090",
+          "off": "C5FA108324020000"
+        }
+      ]
+    },
+    {
+      "name": "Stealth",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C17800",
+          "on": "31C98988600C0000E9E34697FE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "58BEEA",
+          "on": "E911B9680190",
+          "off": "8B88600C0000"
+        },
+        {
+          "offset": "54C68F",
+          "on": "0F57C09090909090",
+          "off": "C5F82E0531532601"
+        }
+      ]
+    },
+    {
+      "name": "Bottomless Clip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C17845",
+          "on": "66C78776030000FF000FB78776030000E9F373B3FE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "74EC46",
+          "on": "E9FA8B4C019090",
+          "off": "0FB78776030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9C7AA5",
+          "on": "9090909090909090",
+          "off": "430184AE64010000"
+        },
+        {
+          "offset": "9C7AF8",
+          "on": "9090909090909090",
+          "off": "4729A4AE64010000"
+        }
+      ]
+    },
+    {
+      "name": "Enemys dont Attack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59AFB5",
+          "on": "EB1A",
+          "off": "741A"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

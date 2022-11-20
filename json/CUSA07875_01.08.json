@@ -1,1 +1,27 @@
-{"name":"Uncharted™: The Lost Legacy","id":"CUSA07875","version":"01.08","process":"eboot.bin","mods":[{"name":"L3 + Upper L or Upper R Touch Pad","type":"checkbox","memory":[{"offset":"219B800","on":"5348BB8883400008000000488B1B4883E302750DC680F92E0000005BE98F65A8FEC680F92E0000015BE98265A8FE","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"C21DA9","on":"E9529A57019090","off":"80B8F92E000000"}]}],"credits":["hejran7"]}
+{
+  "name": "Uncharted™: The Lost Legacy",
+  "id": "CUSA07875",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "L3 + Upper L or Upper R Touch Pad",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "219B800",
+          "on": "5348BB8883400008000000488B1B4883E302750DC680F92E0000005BE98F65A8FEC680F92E0000015BE98265A8FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C21DA9",
+          "on": "E9529A57019090",
+          "off": "80B8F92E000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

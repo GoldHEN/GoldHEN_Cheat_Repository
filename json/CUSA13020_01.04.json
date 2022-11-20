@@ -1,1 +1,71 @@
-{"name":"Road Redemption","id":"CUSA13020","version":"01.04","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"section":"14","offset":"2EDAC0","on":"9090909090","off":"C5FA11431C"}]},{"name":"Infinite Nitro","type":"checkbox","memory":[{"section":"14","offset":"419786","on":"9090909090909090","off":"C5FA1183BC000000"}]},{"name":"Infinite Ammo/Grenades/Bombs","type":"checkbox","memory":[{"section":"14","offset":"3BFD2C","on":"90909090909090","off":"4489B380000000"}]},{"name":"Money Freeze (Only use in Shop)","type":"checkbox","memory":[{"section":"14","offset":"1ED083","on":"90909090909090","off":"41898574010000"}]},{"name":"XP Freeze (Only use in XP-Shop)","type":"checkbox","memory":[{"section":"14","offset":"2EB65F","on":"9090","off":"29C3"}]}],"credits":["Savas"]}
+{
+  "name": "Road Redemption",
+  "id": "CUSA13020",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "2EDAC0",
+          "on": "9090909090",
+          "off": "C5FA11431C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Nitro",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "419786",
+          "on": "9090909090909090",
+          "off": "C5FA1183BC000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/Grenades/Bombs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "3BFD2C",
+          "on": "90909090909090",
+          "off": "4489B380000000"
+        }
+      ]
+    },
+    {
+      "name": "Money Freeze (Only use in Shop)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "1ED083",
+          "on": "90909090909090",
+          "off": "41898574010000"
+        }
+      ]
+    },
+    {
+      "name": "XP Freeze (Only use in XP-Shop)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "2EB65F",
+          "on": "9090",
+          "off": "29C3"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Savas"
+  ]
+}

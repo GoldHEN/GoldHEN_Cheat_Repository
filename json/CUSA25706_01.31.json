@@ -1,1 +1,44 @@
-{"name":"Car Mechanic Simulator 2021","id":"CUSA25706","version":"01.31","process":"eboot.bin","mods":[{"name":"Max Money ( on gain )","type":"checkbox","memory":[{"offset":"194FE10","on":"C780A802000000E9A4358B88A8020000E9E983107F","off":"000000000000000000000000000000000000000000"},{"offset":"80A58208","on":"E9037CEF8090","off":"8B88A8020000"}]},{"name":"Max XP Level + Skill Points ( on gain )","type":"checkbox","memory":[{"offset":"194FE30","on":"C780C00200003F420F008B88C0020000E939C4117F","off":"000000000000000000000000000000000000000000"},{"offset":"80A6C278","on":"E9B33BEE8090","off":"8B88C0020000"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "Car Mechanic Simulator 2021",
+  "id": "CUSA25706",
+  "version": "01.31",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "194FE10",
+          "on": "C780A802000000E9A4358B88A8020000E9E983107F",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80A58208",
+          "on": "E9037CEF8090",
+          "off": "8B88A8020000"
+        }
+      ]
+    },
+    {
+      "name": "Max XP Level + Skill Points ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "194FE30",
+          "on": "C780C00200003F420F008B88C0020000E939C4117F",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80A6C278",
+          "on": "E9B33BEE8090",
+          "off": "8B88C0020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

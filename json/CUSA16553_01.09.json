@@ -1,1 +1,27 @@
-{"name":"Cat Quest II","id":"CUSA16553","version":"01.09","process":"eboot.bin","mods":[{"name":"Infinite Health ","type":"checkbox","memory":[{"offset":"186E230","on":"4983F801750866C740106C01EB078B4C24F4894810E9DBF2D77E","off":"0000000000000000000000000000000000000000000000000000"},{"offset":"805ED51E","on":"E90D0D28819090","off":"8B4C24F4894810"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Cat Quest II",
+  "id": "CUSA16553",
+  "version": "01.09",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "186E230",
+          "on": "4983F801750866C740106C01EB078B4C24F4894810E9DBF2D77E",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "805ED51E",
+          "on": "E90D0D28819090",
+          "off": "8B4C24F4894810"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

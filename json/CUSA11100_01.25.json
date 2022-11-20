@@ -28,7 +28,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Infinite Points",
       "hint": null,
       "type": "checkbox",
@@ -40,7 +40,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Infinite Specialist / Grenades",
       "hint": null,
       "type": "checkbox",
@@ -50,19 +50,19 @@
           "on": "909090909090",
           "off": "C4C17A114518"
         },
-		{
+        {
           "offset": "12A8B83",
           "on": "C7030000C842909090",
           "off": "C5FA1045ACC5FA1103"
         },
-		{
+        {
           "offset": "B0D709",
           "on": "41C745180000C84290909090",
           "off": "C4C17A1155180F8595000000"
         }
       ]
     },
-	{
+    {
       "name": "Infinite Shield Durability",
       "hint": null,
       "type": "checkbox",
@@ -74,7 +74,7 @@
         }
       ]
     },
-	{
+    {
       "name": "1-Hit Kill",
       "hint": null,
       "type": "checkbox",
@@ -86,7 +86,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Draw Lobby Debug",
       "hint": null,
       "type": "checkbox",
@@ -98,7 +98,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Remove Dvar Protections",
       "hint": "The following options are for testing purposes only!",
       "type": "checkbox",
@@ -108,14 +108,14 @@
           "on": "909090909090",
           "off": "0F856B060000"
         },
-		{
+        {
           "offset": "19B6606",
           "on": "909090909090",
           "off": "0F885A060000"
         }
       ]
     },
-	{
+    {
       "name": "Spoof Lobby ZM",
       "hint": null,
       "type": "button",
@@ -127,7 +127,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Spoof Lobby WZ",
       "hint": null,
       "type": "button",
@@ -139,7 +139,7 @@
         }
       ]
     },
-	{
+    {
       "name": "exec wz default settings.cfg",
       "hint": null,
       "type": "button",
@@ -149,14 +149,14 @@
           "on": "657865632067616D65646174612F636F6E666967732F777A2F777A5F64656661756C745F73657474696E67732E6366670A00",
           "off": "657865632067616D65646174612F636F6E666967732F777A2F777A5F64656661756C745F73657474696E67732E6366670A00"
         },
-		{
+        {
           "offset": "B23F2AC",
           "on": "31",
           "off": "31"
         }
       ]
     },
-	{
+    {
       "name": "map wz open skyscrapers",
       "hint": null,
       "type": "button",
@@ -166,14 +166,14 @@
           "on": "6D617020777A5F6F70656E5F736B79736372617065727300",
           "off": "6D617020777A5F6F70656E5F736B79736372617065727300"
         },
-		{
+        {
           "offset": "B23F2AC",
           "on": "18",
           "off": "18"
         }
       ]
     },
-	{
+    {
       "name": "map wz escape",
       "hint": null,
       "type": "button",
@@ -183,14 +183,14 @@
           "on": "6D617020777A5F65736361706500",
           "off": "6D617020777A5F65736361706500"
         },
-		{
+        {
           "offset": "B23F2AC",
           "on": "0D",
           "off": "0D"
         }
       ]
     },
-	{
+    {
       "name": "sv mapname wz open skyscrapers",
       "hint": null,
       "type": "button",
@@ -200,14 +200,14 @@
           "on": "73765F6D61706E616D6520777A5F6F70656E5F736B79736372617065727300",
           "off": "73765F6D61706E616D6520777A5F6F70656E5F736B79736372617065727300"
         },
-		{
+        {
           "offset": "B23F2AC",
           "on": "1E",
           "off": "1E"
         }
       ]
     },
-	{
+    {
       "name": "disconnect",
       "hint": null,
       "type": "button",
@@ -217,14 +217,14 @@
           "on": "646973636F6E6E65637400",
           "off": "646973636F6E6E65637400"
         },
-		{
+        {
           "offset": "B23F2AC",
           "on": "0A",
           "off": "0A"
         }
       ]
     },
-	{
+    {
       "name": "Blackout Step 1",
       "hint": null,
       "type": "button",
@@ -236,7 +236,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Blackout Step 2",
       "hint": null,
       "type": "button",
@@ -248,7 +248,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Blackout Step 3",
       "hint": null,
       "type": "button",
@@ -260,7 +260,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Patch FindXAssetHeader",
       "hint": null,
       "type": "button",
@@ -270,17 +270,17 @@
           "on": "909090909090",
           "off": "909090909090"
         },
-		{
+        {
           "offset": "11B7389",
           "on": "909090909090",
           "off": "909090909090"
         },
-		{
+        {
           "offset": "11B75CC",
           "on": "E919FDFFFF",
           "off": "E919FDFFFF"
         },
-		{
+        {
           "offset": "E7C9C7",
           "on": "EBAA",
           "off": "EBAA"

@@ -1,1 +1,77 @@
-{"name":"COD: Modern Warfare","id":"CUSA08829","version":"01.01","process":"default.elf","mods":[{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"7e9675","on":"909090","off":"4429F1"}]},{"name":"Infinite Reload Ammo","type":"checkbox","memory":[{"offset":"816c7a","on":"9090","off":"8908"}]},{"name":"Infinite Grenades","type":"checkbox","memory":[{"offset":"7e4d7b","on":"909090","off":"894850"}]},{"name":"Godmode","type":"checkbox","memory":[{"offset":"8eabcc","on":"90909090909090","off":"412986B8010000"}]},{"name":"Death-Barrier Godmode","type":"checkbox","memory":[{"offset":"8eb1e0","on":"C3","off":"55"}]},{"name":"No Recoil","type":"checkbox","memory":[{"offset":"800d00","on":"C3","off":"55"}]}],"credits":["DeathRGH"]}
+{
+  "name": "COD: Modern Warfare",
+  "id": "CUSA08829",
+  "version": "01.01",
+  "process": "default.elf",
+  "mods": [
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7e9675",
+          "on": "909090",
+          "off": "4429F1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Reload Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "816c7a",
+          "on": "9090",
+          "off": "8908"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7e4d7b",
+          "on": "909090",
+          "off": "894850"
+        }
+      ]
+    },
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8eabcc",
+          "on": "90909090909090",
+          "off": "412986B8010000"
+        }
+      ]
+    },
+    {
+      "name": "Death-Barrier Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8eb1e0",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    },
+    {
+      "name": "No Recoil",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "800d00",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

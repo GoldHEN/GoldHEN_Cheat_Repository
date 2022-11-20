@@ -1,1 +1,129 @@
-{"name":"RESIDENT EVIL REVELATIONS","id":"CUSA06212","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"F8384F","on":"508B835013000089834813000058C5FA108348130000E9A4F73CFF","off":"000000000000000000000000000000000000000000000000000000"},{"offset":"353006","on":"E94408C300909090","off":"C5FA108348130000"}]},{"name":"Bottomless Clip","type":"checkbox","memory":[{"offset":"2168AB","on":"9090","off":"29D9"},{"offset":"2168AD","on":"909090","off":"0F4ECA"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"21BAE5","on":"909090","off":"4429F8"}]},{"name":"Infinite Items","type":"checkbox","memory":[{"offset":"21BB1A","on":"9090","off":"FFC8"}]},{"name":"Infinite BP","type":"checkbox","memory":[{"offset":"F83800","on":"508B831801000039C1587206898B18010000E9BC4856FF","off":"0000000000000000000000000000000000000000000000"},{"offset":"4E80E8","on":"E92EB7A90090","off":"898B18010000"}]},{"name":"Infinite Throwables","type":"checkbox","memory":[{"offset":"212715","on":"909090","off":"4863C6"},{"offset":"212718","on":"90909090909090","off":"899487E0000000"}]},{"name":"Instant Max Level","type":"checkbox","memory":[{"offset":"F83832","on":"0F4FC141BEFFFFFF00E9442958FF","off":"0000000000000000000000000000"},{"offset":"50617E","on":"E9AFD6A70090","off":"0F4FC14189C6"}]},{"name":"Max BP on Gain","type":"checkbox","memory":[{"offset":"F83840","on":"0F4FC1B87F96980089C1E98B2858FF","off":"000000000000000000000000000000"},{"offset":"5060D5","on":"E966D7A700","off":"0F4FC189C1"}]}],"credits":["TLH"]}
+{
+  "name": "RESIDENT EVIL REVELATIONS",
+  "id": "CUSA06212",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F8384F",
+          "on": "508B835013000089834813000058C5FA108348130000E9A4F73CFF",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "353006",
+          "on": "E94408C300909090",
+          "off": "C5FA108348130000"
+        }
+      ]
+    },
+    {
+      "name": "Bottomless Clip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2168AB",
+          "on": "9090",
+          "off": "29D9"
+        },
+        {
+          "offset": "2168AD",
+          "on": "909090",
+          "off": "0F4ECA"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21BAE5",
+          "on": "909090",
+          "off": "4429F8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21BB1A",
+          "on": "9090",
+          "off": "FFC8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite BP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F83800",
+          "on": "508B831801000039C1587206898B18010000E9BC4856FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4E80E8",
+          "on": "E92EB7A90090",
+          "off": "898B18010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Throwables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "212715",
+          "on": "909090",
+          "off": "4863C6"
+        },
+        {
+          "offset": "212718",
+          "on": "90909090909090",
+          "off": "899487E0000000"
+        }
+      ]
+    },
+    {
+      "name": "Instant Max Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F83832",
+          "on": "0F4FC141BEFFFFFF00E9442958FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "50617E",
+          "on": "E9AFD6A70090",
+          "off": "0F4FC14189C6"
+        }
+      ]
+    },
+    {
+      "name": "Max BP on Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F83840",
+          "on": "0F4FC1B87F96980089C1E98B2858FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "5060D5",
+          "on": "E966D7A700",
+          "off": "0F4FC189C1"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

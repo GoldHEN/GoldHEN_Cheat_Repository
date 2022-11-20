@@ -1,1 +1,91 @@
-{"name":"Dead Rising 1 ","id":"CUSA04513","version":"01.00","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"181fc5b","on":"508B83F01200008983F412000058E93C4FA7FE","off":"00000000000000000000000000000000000000"},{"offset":"294ba4","on":" E9B2B0580190","off":"8983F4120000"}]},{"name":"99 Batteries","type":"checkbox","memory":[{"offset":"181fc15","on":"41BD630000004489A8F0920000E90DA494FE","off":"000000000000000000000000000000000000"},{"offset":"16a02d","on":" E9E35B6B019090","off":"4489A8F0920000"}]},{"name":"Infinite Ammo \"Gun\"","type":"checkbox","memory":[{"offset":"181fc28","on":"90E9825E9EFE","off":"000000000000"},{"offset":"205aa9","on":" E97AA161019090","off":"66FF8B3C2E0000"}]},{"name":"Infinite Ammo Throwables & Sparyables","type":"checkbox","memory":[{"offset":"181fc2e","on":"90E9953D9EFE","off":"000000000000"},{"offset":"2039c1","on":" E968C26101909090","off":"664489B33C2E0000"}]},{"name":"Quick Level Up","type":"checkbox","memory":[{"offset":"181fc3e","on":"41BEFFC99A3B4489732CE91A0789FE","off":"000000000000000000000000000000"},{"offset":"b035f","on":" E9DAF87601909090","off":"440F4FF14489732C"}]}],"credits":["Molly"]}
+{
+  "name": "Dead Rising 1 ",
+  "id": "CUSA04513",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "181fc5b",
+          "on": "508B83F01200008983F412000058E93C4FA7FE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "294ba4",
+          "on": " E9B2B0580190",
+          "off": "8983F4120000"
+        }
+      ]
+    },
+    {
+      "name": "99 Batteries",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "181fc15",
+          "on": "41BD630000004489A8F0920000E90DA494FE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16a02d",
+          "on": " E9E35B6B019090",
+          "off": "4489A8F0920000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo \"Gun\"",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "181fc28",
+          "on": "90E9825E9EFE",
+          "off": "000000000000"
+        },
+        {
+          "offset": "205aa9",
+          "on": " E97AA161019090",
+          "off": "66FF8B3C2E0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo Throwables & Sparyables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "181fc2e",
+          "on": "90E9953D9EFE",
+          "off": "000000000000"
+        },
+        {
+          "offset": "2039c1",
+          "on": " E968C26101909090",
+          "off": "664489B33C2E0000"
+        }
+      ]
+    },
+    {
+      "name": "Quick Level Up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "181fc3e",
+          "on": "41BEFFC99A3B4489732CE91A0789FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "b035f",
+          "on": " E9DAF87601909090",
+          "off": "440F4FF14489732C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

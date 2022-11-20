@@ -1,1 +1,96 @@
-{"name":"FAIRY TAIL","id":"CUSA17573","version":"01.05","process":"eboot.bin","mods":[{"name":"Infinite HP / MP/1Hit","type":"checkbox","memory":[{"offset":"1A19EB","on":"4289448758","off":"4289548758"},{"offset":"1DD11B7","on":"518B8FB0000000898C87A000000059019487A0000000E97D956DFE","off":"000000000000000000000000000000000000000000000000000000"},{"offset":"4AA748","on":"E96A6A92019090","off":"019487A0000000"}]},{"name":"Max Money (on gain)","type":"checkbox","memory":[{"offset":"7FC5F040","on":"85F6C7475C7F969800E913BA5680","off":"0000000000000000000000000000"},{"offset":"1CAA5C","on":"E9DF45A97F","off":"85F6894F5C"}]},{"name":"All Item x999 (on gain have 1 at least)","type":"checkbox","memory":[{"offset":"7FC5F060","on":"0F42C666C74720E703E996DD5380","off":"0000000000000000000000000000"},{"offset":"19CDFE","on":"E95D22AC7F90","off":"0F42C6894720"}]},{"name":"Max Rank points (on spend)","type":"checkbox","memory":[{"offset":"7FC5F090","on":"85F666C747640F27E944BA5680","off":"00000000000000000000000000"},{"offset":"1CAADC","on":"E9AF45A97F","off":"85F6894F64"}]},{"name":"Max Experience","type":"checkbox","memory":[{"offset":"7FC5EBF0","on":"31DB41C7462C7F969800E9D1245480","off":"000000000000000000000000000000"},{"offset":"1A10CA","on":"E921DBAB7F90","off":"31DB4589662C"}]}],"credits":["Wander_d01v_9.00"]}
+{
+  "name": "FAIRY TAIL",
+  "id": "CUSA17573",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite HP / MP/1Hit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A19EB",
+          "on": "4289448758",
+          "off": "4289548758"
+        },
+        {
+          "offset": "1DD11B7",
+          "on": "518B8FB0000000898C87A000000059019487A0000000E97D956DFE",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4AA748",
+          "on": "E96A6A92019090",
+          "off": "019487A0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money (on gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F040",
+          "on": "85F6C7475C7F969800E913BA5680",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1CAA5C",
+          "on": "E9DF45A97F",
+          "off": "85F6894F5C"
+        }
+      ]
+    },
+    {
+      "name": "All Item x999 (on gain have 1 at least)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F060",
+          "on": "0F42C666C74720E703E996DD5380",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "19CDFE",
+          "on": "E95D22AC7F90",
+          "off": "0F42C6894720"
+        }
+      ]
+    },
+    {
+      "name": "Max Rank points (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F090",
+          "on": "85F666C747640F27E944BA5680",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "1CAADC",
+          "on": "E9AF45A97F",
+          "off": "85F6894F64"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5EBF0",
+          "on": "31DB41C7462C7F969800E9D1245480",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1A10CA",
+          "on": "E921DBAB7F90",
+          "off": "31DB4589662C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander_d01v_9.00"
+  ]
+}

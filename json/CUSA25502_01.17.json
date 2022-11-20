@@ -1,1 +1,71 @@
-{"name":"Hot Wheels Unleashed","id":"CUSA25502","version":"01.17","process":"eboot.bin","mods":[{"name":"Unlimited Coins ( on first buy )","type":"checkbox","memory":[{"offset":"1F00F30","on":"B900CA9A3B","off":"C4E278F2C9"}]},{"name":"Unlimited Gears ( on first buy )","type":"checkbox","memory":[{"offset":"7B7FEA0","on":"E845E248F8B800CA9A3BE978CC3AFA","off":"000000000000000000000000000000"},{"offset":"1F2CB1F","on":"E97C33C505909090","off":"E8CC150EFE8B4324"}]},{"name":"Unlimited Blind Boxes ( on first buy )","type":"checkbox","memory":[{"offset":"7B7FE80","on":"4885C041C7461400CA9A3BE99A1934FA","off":"00000000000000000000000000000000"},{"offset":"1EC1823","on":"E958E6CB059090","off":"4885C041894E14"}]},{"name":"Infinite Boost","type":"checkbox","memory":[{"offset":"7B77E40","on":"C7832C01000000001041E9703039F9","off":"000000000000000000000000000000"},{"offset":"F0AEB7","on":"E984CFC606909090","off":"C5FA11832C010000"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "Hot Wheels Unleashed",
+  "id": "CUSA25502",
+  "version": "01.17",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Unlimited Coins ( on first buy )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F00F30",
+          "on": "B900CA9A3B",
+          "off": "C4E278F2C9"
+        }
+      ]
+    },
+    {
+      "name": "Unlimited Gears ( on first buy )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7B7FEA0",
+          "on": "E845E248F8B800CA9A3BE978CC3AFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1F2CB1F",
+          "on": "E97C33C505909090",
+          "off": "E8CC150EFE8B4324"
+        }
+      ]
+    },
+    {
+      "name": "Unlimited Blind Boxes ( on first buy )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7B7FE80",
+          "on": "4885C041C7461400CA9A3BE99A1934FA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1EC1823",
+          "on": "E958E6CB059090",
+          "off": "4885C041894E14"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Boost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7B77E40",
+          "on": "C7832C01000000001041E9703039F9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "F0AEB7",
+          "on": "E984CFC606909090",
+          "off": "C5FA11832C010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

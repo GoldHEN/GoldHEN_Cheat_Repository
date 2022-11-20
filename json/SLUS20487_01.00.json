@@ -1,33 +1,33 @@
 {
-   "name":"Mega Man X7",
-   "id":"SLUS20487",
-   "version":"01.00",
-   "process":"eboot.bin",
-   "mods":[
-      {
-         "name":"Infinite-Health",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"8080A5131C",
-               "on":"FF",
-               "off":"FF"
-            }
-         ]
-      },
-	  {
-         "name":"Infinite-lives",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"80800637A0",
-               "on":"63",
-               "off":"63"
-            }
-         ]
-      }
-   ],
-   "credits":[
-      "Ali-mk"
-   ]
+  "name": "Mega Man X7",
+  "id": "SLUS20487",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080A5131C",
+          "on": "FF",
+          "off": "FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80800637A0",
+          "on": "63",
+          "off": "63"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

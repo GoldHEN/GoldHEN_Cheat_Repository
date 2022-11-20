@@ -1,1 +1,43 @@
-{"name":"WWE 2K22","id":"CUSA25882","version":"01.07","process":"eboot.bin","mods":[{"name":"Infinite health","type":"checkbox","memory":[{"offset":"7FE9F5B0","on":"80BB94030000047509C743100000C842EB05C5FA115B10E930D00F81","off":"00000000000000000000000000000000000000000000000000000000"},{"offset":"F9C5F7","on":"E9B42FF07E","off":"C5FA115B10"}]},{"name":"Attribute Points(on use)","type":"checkbox","memory":[{"offset":"7FC5E050","on":"41C78758050000E7030000E911CB4D82","off":"00000000000000000000000000000000"},{"offset":"213AB6A","on":"E9E134B27D9090","off":"41898F58050000"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "WWE 2K22",
+  "id": "CUSA25882",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FE9F5B0",
+          "on": "80BB94030000047509C743100000C842EB05C5FA115B10E930D00F81",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F9C5F7",
+          "on": "E9B42FF07E",
+          "off": "C5FA115B10"
+        }
+      ]
+    },
+    {
+      "name": "Attribute Points(on use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E050",
+          "on": "41C78758050000E7030000E911CB4D82",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "213AB6A",
+          "on": "E9E134B27D9090",
+          "off": "41898F58050000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

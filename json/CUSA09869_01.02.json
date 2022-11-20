@@ -1,1 +1,43 @@
-{"name":"Trine 4: The Nightmare Prince","id":"CUSA09869","version":"1.02","process":"eboot.bin","mods":[{"name":"Max Upgrade Points","type":"checkbox","memory":[{"offset":"7FC5EDB0","on":"66418180080100000F27E9B8B6B480","off":"000000000000000000000000000000"},{"offset":"7AA470","on":"E93B494B7F9090","off":"41018008010000"}]},{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"21B2B68","on":"4156448B702044893488415EC5EA2A0488E92003A4FE","off":"00000000000000000000000000000000000000000000"},{"offset":"BF2E99","on":"E9CAFC5B01","off":"C5EA2A0488"}]}],"credits":["Wander_9.00"]}
+{
+  "name": "Trine 4: The Nightmare Prince",
+  "id": "CUSA09869",
+  "version": "1.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Upgrade Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5EDB0",
+          "on": "66418180080100000F27E9B8B6B480",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "7AA470",
+          "on": "E93B494B7F9090",
+          "off": "41018008010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21B2B68",
+          "on": "4156448B702044893488415EC5EA2A0488E92003A4FE",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BF2E99",
+          "on": "E9CAFC5B01",
+          "off": "C5EA2A0488"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander_9.00"
+  ]
+}

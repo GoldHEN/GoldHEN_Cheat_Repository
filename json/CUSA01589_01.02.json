@@ -1,1 +1,124 @@
-{"name":"DARK SOULS™ II: Scholar of the First Sin","id":"CUSA01589","version":"01.02","process":"eboot.bin","master":{"challenged":"yes","memory":[{"offset":"2077800","on":"48891DF9C7B8FD8B8370010000898370010000C5FA1083B4010000C5FA1183B4010000E9835354FE"},{"offset":"5BCBA5","on":"E956ACAB0190"},{"offset":"2077828","on":"53BB000000008B98F40000008998F4000000BB000000008B9830FFFFFF8998D0000000BB000000008B98EC0000008998EC0000005B8B80EC000000E90EC754FE"},{"offset":"5C3F70","on":"E9B338AB0190"}]},"mods":[{"name":"God mode","type":"checkbox","memory":[{"offset":"2077807","on":"8B8378010000","off":"8B8370010000"}]},{"name":"infinit Stamina","type":"checkbox","memory":[{"offset":"2077813","on":"C5FA1083BC010000","off":"C5FA1083B4010000"}]},{"name":"infinit Souls Memory","type":"checkbox","memory":[{"offset":"2077829","on":"BBFFC99A3B","off":"BB00000000"},{"offset":"207782E","on":"909090909090","off":"8B98F4000000"}]},{"name":"Level max","type":"checkbox","memory":[{"offset":"207783A","on":"BBE7030000","off":"BB00000000"},{"offset":"207783F","on":"909090909090","off":"8B9830FFFFFF"}]},{"name":"Infinit Souls","type":"checkbox","memory":[{"offset":"207784B","on":"BBFFC99A3B909090909090","off":"BB000000008B98EC000000"}]},{"name":"1 hit kill","type":"checkbox","memory":[{"offset":"2077868","on":"418987700100004C3B3D8AC7B8FD0F84D98C11FE41C7877001000000000000E9C98C11FE","off":"000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"19054E","on":"E91573EE019090","off":"41898770010000"}]},{"name":"infinit Consomable","type":"checkbox","memory":[{"offset":"107D1B1","on":"83E800","off":"4429F0"}]}],"credits":["Shiningami"]}
+{
+  "name": "DARK SOULS™ II: Scholar of the First Sin",
+  "id": "CUSA01589",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "master": {
+    "challenged": "yes",
+    "memory": [
+      {
+        "offset": "2077800",
+        "on": "48891DF9C7B8FD8B8370010000898370010000C5FA1083B4010000C5FA1183B4010000E9835354FE"
+      },
+      {
+        "offset": "5BCBA5",
+        "on": "E956ACAB0190"
+      },
+      {
+        "offset": "2077828",
+        "on": "53BB000000008B98F40000008998F4000000BB000000008B9830FFFFFF8998D0000000BB000000008B98EC0000008998EC0000005B8B80EC000000E90EC754FE"
+      },
+      {
+        "offset": "5C3F70",
+        "on": "E9B338AB0190"
+      }
+    ]
+  },
+  "mods": [
+    {
+      "name": "God mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2077807",
+          "on": "8B8378010000",
+          "off": "8B8370010000"
+        }
+      ]
+    },
+    {
+      "name": "infinit Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2077813",
+          "on": "C5FA1083BC010000",
+          "off": "C5FA1083B4010000"
+        }
+      ]
+    },
+    {
+      "name": "infinit Souls Memory",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2077829",
+          "on": "BBFFC99A3B",
+          "off": "BB00000000"
+        },
+        {
+          "offset": "207782E",
+          "on": "909090909090",
+          "off": "8B98F4000000"
+        }
+      ]
+    },
+    {
+      "name": "Level max",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "207783A",
+          "on": "BBE7030000",
+          "off": "BB00000000"
+        },
+        {
+          "offset": "207783F",
+          "on": "909090909090",
+          "off": "8B9830FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinit Souls",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "207784B",
+          "on": "BBFFC99A3B909090909090",
+          "off": "BB000000008B98EC000000"
+        }
+      ]
+    },
+    {
+      "name": "1 hit kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2077868",
+          "on": "418987700100004C3B3D8AC7B8FD0F84D98C11FE41C7877001000000000000E9C98C11FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "19054E",
+          "on": "E91573EE019090",
+          "off": "41898770010000"
+        }
+      ]
+    },
+    {
+      "name": "infinit Consomable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "107D1B1",
+          "on": "83E800",
+          "off": "4429F0"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Shiningami"
+  ]
+}

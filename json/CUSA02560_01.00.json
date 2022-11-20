@@ -1,1 +1,82 @@
-{"name":"SWORD ART ONLINE Re: Hollow Fragment","id":"CUSA02560","version":"01.00","process":"eboot.bin","mods":[{"name":"Master Code","type":"checkbox","memory":[{"offset":"7FE373D0","on":"80BFCC00000002750D89B764020000E99A0D208031F689B764020000E98D0D2080","off":"000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"38178","on":"E953F2DF7F90","off":"89B764020000"}]},{"name":"Infinite Health","type":"checkbox","memory":[{"section":"7","offset":"B73D9","on":"909090909090","off":"89B764020000"}]},{"name":"Max Experience (on the second moster kill)","type":"checkbox","memory":[{"offset":"7FC4F2B0","on":"C78270020000FFE0F505E95F983E80","off":"000000000000000000000000000000"},{"offset":"38B18","on":"E99367C17F90","off":"898A70020000"}]},{"name":"Max col (on buy and sell exit shop and return)","type":"checkbox","memory":[{"offset":"7FE37450","on":"C780B4060000FFE0F505E92DF84880","off":"000000000000000000000000000000"},{"offset":"2C6C86","on":"E9C507B77F90","off":"8988B4060000"}]},{"name":"Infinite items (on use) (deactivate when buying items)","type":"checkbox","memory":[{"offset":"2C3542","on":"909090","off":"488931"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "SWORD ART ONLINE Re: Hollow Fragment",
+  "id": "CUSA02560",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Master Code",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FE373D0",
+          "on": "80BFCC00000002750D89B764020000E99A0D208031F689B764020000E98D0D2080",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "38178",
+          "on": "E953F2DF7F90",
+          "off": "89B764020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "7",
+          "offset": "B73D9",
+          "on": "909090909090",
+          "off": "89B764020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience (on the second moster kill)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4F2B0",
+          "on": "C78270020000FFE0F505E95F983E80",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "38B18",
+          "on": "E99367C17F90",
+          "off": "898A70020000"
+        }
+      ]
+    },
+    {
+      "name": "Max col (on buy and sell exit shop and return)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FE37450",
+          "on": "C780B4060000FFE0F505E92DF84880",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2C6C86",
+          "on": "E9C507B77F90",
+          "off": "8988B4060000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite items (on use) (deactivate when buying items)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2C3542",
+          "on": "909090",
+          "off": "488931"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

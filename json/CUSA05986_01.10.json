@@ -1,1 +1,54 @@
-{"name":"Need for Speed™ Payback","id":"CUSA05986","version":"01.10","process":"eboot.bin","mods":[{"name":"Max Money","type":"checkbox","memory":[{"offset":"3ED7E70","on":"418B4014BE00CA9A3BE92BFCA3FE","off":"0000000000000000000000000000"},{"offset":"2917AA1","on":"E9CA035C01909090","off":"418B4014418B7708"}]},{"name":"Max Token (on gain)","type":"checkbox","memory":[{"offset":"3ED7DD0","on":"B900CA9A3B41894C2418E951DDA9FE","off":"000000000000000000000000000000"},{"offset":"2975B2B","on":"E9A0225601","off":"41894C2418"}]},{"name":"Max Rep Points","type":"checkbox","memory":[{"offset":"29C2B82","on":"C743087F969800909090","off":"44897B088B852CFDFFFF"}]}],"credits":["Reddevil82_9.00"]}
+{
+  "name": "Need for Speed™ Payback",
+  "id": "CUSA05986",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3ED7E70",
+          "on": "418B4014BE00CA9A3BE92BFCA3FE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "2917AA1",
+          "on": "E9CA035C01909090",
+          "off": "418B4014418B7708"
+        }
+      ]
+    },
+    {
+      "name": "Max Token (on gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3ED7DD0",
+          "on": "B900CA9A3B41894C2418E951DDA9FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2975B2B",
+          "on": "E9A0225601",
+          "off": "41894C2418"
+        }
+      ]
+    },
+    {
+      "name": "Max Rep Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "29C2B82",
+          "on": "C743087F969800909090",
+          "off": "44897B088B852CFDFFFF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82_9.00"
+  ]
+}

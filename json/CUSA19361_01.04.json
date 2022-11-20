@@ -1,1 +1,235 @@
-{"name":"Project Warlock","id":"CUSA19361","version":"01.04","process":"eboot.bin","mods":[{"name":"Max/Infinite Health","type":"checkbox","memory":[{"offset":"7FC5F5D0","on":"C7400800C05A45E903AE9D00","off":"000000000000000000000000"},{"offset":"8063A3DA","on":"E9F15162FF","off":"C5FA114008"}]},{"name":"Max/Infinite Lightning Staff","type":"checkbox","memory":[{"offset":"7FC5E580","on":"C6401000E9F0C49E00","off":"000000000000000000"},{"offset":"8064AA74","on":"E9073B61FF","off":"C5FA114010"}]},{"name":"Max/Infinite Pistol Ammo","type":"checkbox","memory":[{"offset":"7FC5F600","on":"488B87B8000000C6403432E9E7919D00","off":"00000000000000000000000000000000"},{"offset":"806387EC","on":"E90F6E62FF909090909090","off":"488B87B800000044897034"}]},{"name":"Max/Infinite Crossbow Arrows","type":"checkbox","memory":[{"offset":"7FC5E820","on":"0F48F1C640700AE904A09D00","off":"000000000000000000000000"},{"offset":"8063882A","on":"E9F15F62FF90","off":"0F48F1897070"}]},{"name":"Max/Infinite Shotgun Ammo","type":"checkbox","memory":[{"offset":"7FC5E5B0","on":"0F48F1C6404015E94EA29D00","off":"000000000000000000000000"},{"offset":"80638804","on":"E9A75D62FF90","off":"0F48F1897040"}]},{"name":"Max/Infinite Dynamites/Granades","type":"checkbox","memory":[{"offset":"7FC5F2B0","on":"0F48F1C640641DE987959D00","off":"000000000000000000000000"},{"offset":"8063883D","on":"E96E6A62FF90","off":"0F48F1897064"}]},{"name":"Max/Infinite Submachine/Mini Gun Ammo","type":"checkbox","memory":[{"offset":"7FC5F300","on":"0F48F1C7404C72010000E90E959D00","off":"000000000000000000000000000000"},{"offset":"80638817","on":"E9E46A62FF90","off":"0F48F189704C"}]},{"name":"Max/Infinite FlameThrower Fuel","type":"checkbox","memory":[{"offset":"7FC5EAB0","on":"C7407C0080E843E9A69D9D00","off":"000000000000000000000000"},{"offset":"8063885D","on":"E94E6262FF","off":"C5FA11407C"}]},{"name":"Max/Infinite Rocket Launcher Ammo","type":"checkbox","memory":[{"offset":"7FC5E840","on":"4585F6C640580FE948A09D00","off":"000000000000000000000000"},{"offset":"8063888E","on":"E9AD5F62FF90","off":"4585F6897058"}]},{"name":"Max/Infinite Laser Gun Ammo","type":"checkbox","memory":[{"offset":"7FC5F000","on":"C6808800000055E972989D00","off":"000000000000000000000000"},{"offset":"80638878","on":"E9836762FF90","off":"89B088000000"}]},{"name":"Max/Infinite Chain Reactor Ammo","type":"checkbox","memory":[{"offset":"7FC5FDF0","on":"C680940000000FE9249BCF00","off":"000000000000000000000000"},{"offset":"8095991A","on":"E9D16430FF90","off":"FF8894000000"}]},{"name":"Max Perk Points (Buy On Treasure Hunter)","type":"checkbox","memory":[{"offset":"7FC5F550","on":"8083CC00000063E9F93CA700","off":"000000000000000000000000"},{"offset":"806D324F","on":"E9FCC258FF90","off":"FF8BCC000000"}]},{"name":"Max/Infinite Stats Points (Buy On Strength)","type":"checkbox","memory":[{"offset":"7FC5FE40","on":"80402001C7432C63000000E9719D9E00","off":"00000000000000000000000000000000"},{"offset":"80649BBB","on":"E9806261FF90","off":"FF4020FF4B2C"}]},{"name":"Max Upgrades Points (Buy On Magic Light Or Magnum) ","type":"checkbox","memory":[{"offset":"7FC5FAA0","on":"C6435001C6400463E94AAB7F00","off":"00000000000000000000000000"},{"offset":"8045A5F1","on":"E9AA5480FF90","off":"8B4B50294804"}]}],"credits":["Celogamez"]}
+{
+  "name": "Project Warlock",
+  "id": "CUSA19361",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F5D0",
+          "on": "C7400800C05A45E903AE9D00",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "8063A3DA",
+          "on": "E9F15162FF",
+          "off": "C5FA114008"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Lightning Staff",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E580",
+          "on": "C6401000E9F0C49E00",
+          "off": "000000000000000000"
+        },
+        {
+          "offset": "8064AA74",
+          "on": "E9073B61FF",
+          "off": "C5FA114010"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Pistol Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F600",
+          "on": "488B87B8000000C6403432E9E7919D00",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "806387EC",
+          "on": "E90F6E62FF909090909090",
+          "off": "488B87B800000044897034"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Crossbow Arrows",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E820",
+          "on": "0F48F1C640700AE904A09D00",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "8063882A",
+          "on": "E9F15F62FF90",
+          "off": "0F48F1897070"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Shotgun Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E5B0",
+          "on": "0F48F1C6404015E94EA29D00",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "80638804",
+          "on": "E9A75D62FF90",
+          "off": "0F48F1897040"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Dynamites/Granades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F2B0",
+          "on": "0F48F1C640641DE987959D00",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "8063883D",
+          "on": "E96E6A62FF90",
+          "off": "0F48F1897064"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Submachine/Mini Gun Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F300",
+          "on": "0F48F1C7404C72010000E90E959D00",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80638817",
+          "on": "E9E46A62FF90",
+          "off": "0F48F189704C"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite FlameThrower Fuel",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5EAB0",
+          "on": "C7407C0080E843E9A69D9D00",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "8063885D",
+          "on": "E94E6262FF",
+          "off": "C5FA11407C"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Rocket Launcher Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E840",
+          "on": "4585F6C640580FE948A09D00",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "8063888E",
+          "on": "E9AD5F62FF90",
+          "off": "4585F6897058"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Laser Gun Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "C6808800000055E972989D00",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "80638878",
+          "on": "E9836762FF90",
+          "off": "89B088000000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Chain Reactor Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FDF0",
+          "on": "C680940000000FE9249BCF00",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "8095991A",
+          "on": "E9D16430FF90",
+          "off": "FF8894000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Perk Points (Buy On Treasure Hunter)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F550",
+          "on": "8083CC00000063E9F93CA700",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "806D324F",
+          "on": "E9FCC258FF90",
+          "off": "FF8BCC000000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Stats Points (Buy On Strength)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FE40",
+          "on": "80402001C7432C63000000E9719D9E00",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80649BBB",
+          "on": "E9806261FF90",
+          "off": "FF4020FF4B2C"
+        }
+      ]
+    },
+    {
+      "name": "Max Upgrades Points (Buy On Magic Light Or Magnum) ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FAA0",
+          "on": "C6435001C6400463E94AAB7F00",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "8045A5F1",
+          "on": "E9AA5480FF90",
+          "off": "8B4B50294804"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

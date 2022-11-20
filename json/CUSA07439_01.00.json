@@ -1,1 +1,193 @@
-{"name":"DARK SOULS™ III: The Fire Fades™ Edition","id":"CUSA07439","version":"01.00","process":"eboot.bin","master":{"challenged":"yes","memory":[{"offset":"473F800","on":"534889C348891DF5474CFB5B8B88E40000008988E40000008B88F00000008988F00000008B88D80000008988D8000000488B88D8000000E9B7CD57FC"},{"offset":"CBC5EC","on":"E90F32A8039090"}]},"mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"473F824","on":"8B88DC000000","off":"8B88D8000000"}]},{"name":"Infinite Magic","type":"checkbox","memory":[{"offset":"473F80C","on":"8B88E8000000","off":"8B88E4000000"}]},{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"473F818","on":"8B88F4000000","off":"8B88F0000000"}]},{"name":"1 Hit Kill","type":"checkbox","memory":[{"offset":"473F83C","on":"488B80C0180000488B4018483B05B2474CFB0F848E95AAFCC780D800000002000000E97F95AAFC","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"11E8DD7","on":"E9606A5503909090909090","off":"488B80C0180000488B4018"}]},{"name":"Infinite Souls","type":"checkbox","memory":[{"offset":"473F863","on":"BAFFC99A3B89507429CAE9867791FC","off":"000000000000000000000000000000"},{"offset":"1056FF3","on":"E96B886E03","off":"89507429CA"}]},{"name":"Infinite Weapon Durability","type":"checkbox","memory":[{"offset":"473F884","on":"BE00000000897714C390E96275B6FC","off":"000000000000000000000000000000"},{"offset":"12A6DF0","on":"E98F8A4903","off":"897714C390"}]},{"name":"Infinite Armour Durability","type":"checkbox","memory":[{"offset":"473F8E6","on":"BE00000000897714C390E9306DB6FC","off":"000000000000000000000000000000"},{"offset":"12A6620","on":"E9C1924903","off":"897714C390"}]},{"name":"Max Items on Use","type":"checkbox","memory":[{"offset":"473F872","on":"41BD6300000044896B084585EDE9D87B50FC","off":"000000000000000000000000000000000000"},{"offset":"C47455","on":"E91884AF039090","off":"44896B084585ED"}]},{"name":"No Effects","type":"checkbox","memory":[{"offset":"473F893","on":"4889DFB9E7030000894B10E96FAF8CFC","off":"00000000000000000000000000000000"},{"offset":"100A80C","on":"E98250730390","off":"4889DF894B10"},{"offset":"473F8A3","on":"4889DF41BCE703000044896314E99AAF8CFC","off":"000000000000000000000000000000000000"},{"offset":"100A848","on":"E9565073039090","off":"4889DF44896314"},{"offset":"473F8B5","on":"4889DFB9E7030000894B18E9CDAF8CFC","off":"00000000000000000000000000000000"},{"offset":"100A88C","on":"E92450730390","off":"4889DF894B18"},{"offset":"473F8C5","on":"4889DF41BCE70300004489631CE9F8AF8CFC","off":"000000000000000000000000000000000000"},{"offset":"100A8C8","on":"E9F84F73039090","off":"4889DF4489631C"},{"offset":"473F8D7","on":"89C1B9E7030000894B20E91EB08CFC","off":"000000000000000000000000000000"},{"offset":"100A8FF","on":"E9D34F7303","off":"89C1894B20"}]}],"credits":["Shiningami+Rizla"]}
+{
+  "name": "DARK SOULS™ III: The Fire Fades™ Edition",
+  "id": "CUSA07439",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "master": {
+    "challenged": "yes",
+    "memory": [
+      {
+        "offset": "473F800",
+        "on": "534889C348891DF5474CFB5B8B88E40000008988E40000008B88F00000008988F00000008B88D80000008988D8000000488B88D8000000E9B7CD57FC"
+      },
+      {
+        "offset": "CBC5EC",
+        "on": "E90F32A8039090"
+      }
+    ]
+  },
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "473F824",
+          "on": "8B88DC000000",
+          "off": "8B88D8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "473F80C",
+          "on": "8B88E8000000",
+          "off": "8B88E4000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "473F818",
+          "on": "8B88F4000000",
+          "off": "8B88F0000000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "473F83C",
+          "on": "488B80C0180000488B4018483B05B2474CFB0F848E95AAFCC780D800000002000000E97F95AAFC",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "11E8DD7",
+          "on": "E9606A5503909090909090",
+          "off": "488B80C0180000488B4018"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Souls",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "473F863",
+          "on": "BAFFC99A3B89507429CAE9867791FC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1056FF3",
+          "on": "E96B886E03",
+          "off": "89507429CA"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "473F884",
+          "on": "BE00000000897714C390E96275B6FC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "12A6DF0",
+          "on": "E98F8A4903",
+          "off": "897714C390"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Armour Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "473F8E6",
+          "on": "BE00000000897714C390E9306DB6FC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "12A6620",
+          "on": "E9C1924903",
+          "off": "897714C390"
+        }
+      ]
+    },
+    {
+      "name": "Max Items on Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "473F872",
+          "on": "41BD6300000044896B084585EDE9D87B50FC",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C47455",
+          "on": "E91884AF039090",
+          "off": "44896B084585ED"
+        }
+      ]
+    },
+    {
+      "name": "No Effects",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "473F893",
+          "on": "4889DFB9E7030000894B10E96FAF8CFC",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "100A80C",
+          "on": "E98250730390",
+          "off": "4889DF894B10"
+        },
+        {
+          "offset": "473F8A3",
+          "on": "4889DF41BCE703000044896314E99AAF8CFC",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "100A848",
+          "on": "E9565073039090",
+          "off": "4889DF44896314"
+        },
+        {
+          "offset": "473F8B5",
+          "on": "4889DFB9E7030000894B18E9CDAF8CFC",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "100A88C",
+          "on": "E92450730390",
+          "off": "4889DF894B18"
+        },
+        {
+          "offset": "473F8C5",
+          "on": "4889DF41BCE70300004489631CE9F8AF8CFC",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "100A8C8",
+          "on": "E9F84F73039090",
+          "off": "4889DF4489631C"
+        },
+        {
+          "offset": "473F8D7",
+          "on": "89C1B9E7030000894B20E91EB08CFC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "100A8FF",
+          "on": "E9D34F7303",
+          "off": "89C1894B20"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Shiningami+Rizla"
+  ]
+}

@@ -1,1 +1,75 @@
-{"name":"STRANGER OF PARADISE FINAL FANTASY ORIGIN","id":"CUSA29578","version":"01.04","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"2CD644D","on":"518B4F18894F20488B472059483B4718E93EEB52FD","off":"000000000000000000000000000000000000000000"},{"offset":"204F98","on":"E9B014AD02909090","off":"488B4720483B4718"}]},{"name":"Infinite Magic","type":"checkbox","memory":[{"offset":"2CD6468","on":"C7812C12000000001644C5FA10812C120000C5FA118120120000C5F82E812012000090E9CB7A3EFD","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"BDF53","on":"E91085C102909090","off":"C5F82E8120120000"}]},{"name":"Disabled Enemy Gauge","type":"checkbox","memory":[{"offset":"2CD64D0","on":"80BB2802000001742B80BB7C02000000742280BB8C020000007419C5FA105378C5FA115374C5FA105364C5FA115360E9B3A953FDC5FA115360C743600000000090E9A1A953FD","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"210EB2","on":"E91956AC02","off":"C5FA115360"}]},{"name":"Job Points 99 Use / Level Up","type":"checkbox","memory":[{"offset":"2CD64B8","on":"BA630000008910C6070190E9F58F79FD","off":"00000000000000000000000000000000"},{"offset":"46F4B8","on":"E9FB6F8602","off":"8910C60701"}]}],"credits":["d01v_9.00"]}
+{
+  "name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+  "id": "CUSA29578",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2CD644D",
+          "on": "518B4F18894F20488B472059483B4718E93EEB52FD",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "204F98",
+          "on": "E9B014AD02909090",
+          "off": "488B4720483B4718"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2CD6468",
+          "on": "C7812C12000000001644C5FA10812C120000C5FA118120120000C5F82E812012000090E9CB7A3EFD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BDF53",
+          "on": "E91085C102909090",
+          "off": "C5F82E8120120000"
+        }
+      ]
+    },
+    {
+      "name": "Disabled Enemy Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2CD64D0",
+          "on": "80BB2802000001742B80BB7C02000000742280BB8C020000007419C5FA105378C5FA115374C5FA105364C5FA115360E9B3A953FDC5FA115360C743600000000090E9A1A953FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "210EB2",
+          "on": "E91956AC02",
+          "off": "C5FA115360"
+        }
+      ]
+    },
+    {
+      "name": "Job Points 99 Use / Level Up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2CD64B8",
+          "on": "BA630000008910C6070190E9F58F79FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "46F4B8",
+          "on": "E9FB6F8602",
+          "off": "8910C60701"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v_9.00"
+  ]
+}

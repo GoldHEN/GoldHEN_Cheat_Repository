@@ -1,1 +1,107 @@
-{"name":"The Forest","id":"CUSA12398","version":"01.01","process":"eboot.bin","mods":[{"name":"Health","type":"checkbox","memory":[{"offset":"82E90310","on":"41C747280000C842E9CC46C3FD","off":"00000000000000000000000000"},{"offset":"80AC49E3","on":"E928B93C0290","off":"C4C17A115728"}]},{"name":"Stamina","type":"checkbox","memory":[{"offset":"82E903E0","on":"C743300000C842E9462CC4FD","off":"000000000000000000000000"},{"offset":"80AD302D","on":"E9AED33B02","off":"C5FA114330"}]},{"name":"Energy","type":"checkbox","memory":[{"offset":"82E90340","on":"41C74424240000C842E9FD28C3FD","off":"0000000000000000000000000000"},{"offset":"80AC2C44","on":"E9F7D63C029090","off":"C4C17A11442424"}]},{"name":"Fullness","type":"checkbox","memory":[{"offset":"82E90360","on":"41C744246C0000803FE9E8FFC2FD","off":"0000000000000000000000000000"},{"offset":"80AC034F","on":"E90C003D029090","off":"C4C17A1144246C"}]},{"name":"Thirst","type":"checkbox","memory":[{"offset":"82E90380","on":"41C744247000000000E9860FC3FD","off":"0000000000000000000000000000"},{"offset":"80AC130D","on":"E96EF03C029090","off":"C4C17A11542470"}]},{"name":"Body Temp","type":"checkbox","memory":[{"offset":"82E903A0","on":"41C744241800001442E91734C3FD","off":"0000000000000000000000000000"},{"offset":"80AC37BE","on":"E9DDCB3C029090","off":"C4C17A11442418"}]}],"credits":["Saso"]}
+{
+  "name": "The Forest",
+  "id": "CUSA12398",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82E90310",
+          "on": "41C747280000C842E9CC46C3FD",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "80AC49E3",
+          "on": "E928B93C0290",
+          "off": "C4C17A115728"
+        }
+      ]
+    },
+    {
+      "name": "Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82E903E0",
+          "on": "C743300000C842E9462CC4FD",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "80AD302D",
+          "on": "E9AED33B02",
+          "off": "C5FA114330"
+        }
+      ]
+    },
+    {
+      "name": "Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82E90340",
+          "on": "41C74424240000C842E9FD28C3FD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "80AC2C44",
+          "on": "E9F7D63C029090",
+          "off": "C4C17A11442424"
+        }
+      ]
+    },
+    {
+      "name": "Fullness",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82E90360",
+          "on": "41C744246C0000803FE9E8FFC2FD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "80AC034F",
+          "on": "E90C003D029090",
+          "off": "C4C17A1144246C"
+        }
+      ]
+    },
+    {
+      "name": "Thirst",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82E90380",
+          "on": "41C744247000000000E9860FC3FD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "80AC130D",
+          "on": "E96EF03C029090",
+          "off": "C4C17A11542470"
+        }
+      ]
+    },
+    {
+      "name": "Body Temp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82E903A0",
+          "on": "41C744241800001442E91734C3FD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "80AC37BE",
+          "on": "E9DDCB3C029090",
+          "off": "C4C17A11442418"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

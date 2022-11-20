@@ -1,1 +1,27 @@
-{"name":"Yu-Gi-Oh! Legacy of the Duelist","id":"CUSA01618","version":"01.00","process":"eboot.bin","mods":[{"name":"Max Money After Battle","type":"checkbox","memory":[{"offset":"E47800","on":"48C7C0FFC99A3B48894710E927E420FF","off":"00000000000000000000000000000000"},{"offset":"55C30","on":"E9CB1BDF009090","off":"4863C648014710"}]}],"credits":["Molly"]}
+{
+  "name": "Yu-Gi-Oh! Legacy of the Duelist",
+  "id": "CUSA01618",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money After Battle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E47800",
+          "on": "48C7C0FFC99A3B48894710E927E420FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "55C30",
+          "on": "E9CB1BDF009090",
+          "off": "4863C648014710"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

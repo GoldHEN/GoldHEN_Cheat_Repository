@@ -1,1 +1,92 @@
-{"name":"Remnant: From the Ashes","id":"CUSA13830","version":"01.20","process":"eboot.bin","mods":[{"name":"Infinite HP 1","type":"checkbox","memory":[{"offset":"5C07800","on":"83BB70020000007504C5F857C0C5F25EC8C5FA118B70080000E96F07C5FA","off":"000000000000000000000000000000000000000000000000000000000000"},{"offset":"857F81","on":"E97AF83A0590909090909090","off":"C5F25EC8C5FA118B70080000"}]},{"name":"Infinite HP 2 (Only Enable If 1 Not Work)","type":"checkbox","memory":[{"offset":"5C07800","on":"83BB70020000007532C5F857C0C5F25EC8C5FA118B700800004939DC750AC4C17A118C24700800004939DD750EC4C17A118D70080000E95207C5FAC5FA118B70080000E94507C5FA","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"857F85","on":"E976F83A05909090","off":"C5FA118B70080000"}]},{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"83BF77","on":"9090909090909090","off":"C5FA118B40010000"}]},{"name":"Infinite Ammo+No Reload","type":"checkbox","memory":[{"offset":"5B54D90","on":"490F44F74183EE6344297654E9D9BFE0FA","off":"0000000000000000000000000000000000"},{"offset":"960D72","on":"E919401F05909090","off":"490F44F744297654"}]},{"name":"Infinite Money+Items","type":"checkbox","memory":[{"offset":"94D64B","on":"909090","off":"89472C"}]},{"name":"Infinite Consumable Items","type":"checkbox","memory":[{"offset":"941662","on":"909090","off":"89702C"}]}],"credits":["ADI+Saso"]}
+{
+  "name": "Remnant: From the Ashes",
+  "id": "CUSA13830",
+  "version": "01.20",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite HP 1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5C07800",
+          "on": "83BB70020000007504C5F857C0C5F25EC8C5FA118B70080000E96F07C5FA",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "857F81",
+          "on": "E97AF83A0590909090909090",
+          "off": "C5F25EC8C5FA118B70080000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite HP 2 (Only Enable If 1 Not Work)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5C07800",
+          "on": "83BB70020000007532C5F857C0C5F25EC8C5FA118B700800004939DC750AC4C17A118C24700800004939DD750EC4C17A118D70080000E95207C5FAC5FA118B70080000E94507C5FA",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "857F85",
+          "on": "E976F83A05909090",
+          "off": "C5FA118B70080000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83BF77",
+          "on": "9090909090909090",
+          "off": "C5FA118B40010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo+No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B54D90",
+          "on": "490F44F74183EE6344297654E9D9BFE0FA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "960D72",
+          "on": "E919401F05909090",
+          "off": "490F44F744297654"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money+Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "94D64B",
+          "on": "909090",
+          "off": "89472C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Consumable Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "941662",
+          "on": "909090",
+          "off": "89702C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "ADI+Saso"
+  ]
+}

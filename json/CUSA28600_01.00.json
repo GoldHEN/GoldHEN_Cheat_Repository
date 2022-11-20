@@ -1,1 +1,79 @@
-{"name":"The Cruel King and the Great Hero","id":"CUSA28600","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"section":"3","offset":"5F350","on":"6641813FE903750741C647081EEB0B4189570883BB400C000002E9D5AF3B80","off":"00000000000000000000000000000000000000000000000000000000000000"},{"offset":"1A339","on":"E91250C47F909090909090","off":"4189570883BB400C000002"}]},{"name":"Special Skill Points (on charge)","type":"checkbox","memory":[{"section":"3","offset":"5C900","on":"66C74210E70331D2E95BE83B80","off":"00000000000000000000000000"},{"offset":"1B163","on":"E99817C47F","off":"89421031D2"}]},{"name":"99 Items (on use)","type":"checkbox","memory":[{"section":"3","offset":"5FFB0","on":"C684070818000063E9D6D23F80","off":"00000000000000000000000000"},{"offset":"5D28C","on":"E91F2DC07F9090","off":"898C0708180000"}]},{"name":"Max Shells (on gain)","type":"checkbox","memory":[{"section":"3","offset":"5F190","on":"C780D85E00005F4D2F00E9E70D5680","off":"000000000000000000000000000000"},{"offset":"1BFF80","on":"E90BF2A97F90","off":"8988D85E0000"}]}],"credits":["Wander_9.00"]}
+{
+  "name": "The Cruel King and the Great Hero",
+  "id": "CUSA28600",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "3",
+          "offset": "5F350",
+          "on": "6641813FE903750741C647081EEB0B4189570883BB400C000002E9D5AF3B80",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A339",
+          "on": "E91250C47F909090909090",
+          "off": "4189570883BB400C000002"
+        }
+      ]
+    },
+    {
+      "name": "Special Skill Points (on charge)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "3",
+          "offset": "5C900",
+          "on": "66C74210E70331D2E95BE83B80",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "1B163",
+          "on": "E99817C47F",
+          "off": "89421031D2"
+        }
+      ]
+    },
+    {
+      "name": "99 Items (on use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "3",
+          "offset": "5FFB0",
+          "on": "C684070818000063E9D6D23F80",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "5D28C",
+          "on": "E91F2DC07F9090",
+          "off": "898C0708180000"
+        }
+      ]
+    },
+    {
+      "name": "Max Shells (on gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "3",
+          "offset": "5F190",
+          "on": "C780D85E00005F4D2F00E9E70D5680",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1BFF80",
+          "on": "E90BF2A97F90",
+          "off": "8988D85E0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander_9.00"
+  ]
+}

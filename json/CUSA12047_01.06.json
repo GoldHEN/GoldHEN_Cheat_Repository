@@ -1,1 +1,99 @@
-{"name":"Sekiro™: Shadows Die Twice","id":"CUSA12047","version":"01.06","process":"eboot.bin","mods":[{"name":"Max/Infinite Health/1 Hit Kill (Master Code)","type":"checkbox","memory":[{"offset":"7FC5FA20","on":"41837E500075154189863001000041898630010000E9E290B08131C041898630010000E9D490B081","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"1768B15","on":"E9066F4F7E9090","off":"41898630010000"}]},{"name":"Max/Infinite Health (Need MC)","type":"checkbox","memory":[{"section":"3","offset":"5FA27","on":"418B8634010000","off":"418B8630010000"}]},{"name":"1 Hit Kill (Need MC)","type":"checkbox","memory":[{"section":"3","offset":"5FA25","on":"7513","off":"7515"}]},{"name":"Max/Infinite All Items (Need 2 To Work)","type":"checkbox","memory":[{"offset":"7FC5C1D0","on":"458938418900E949265581","off":"0000000000000000000000"},{"offset":"11AE81E","on":"E9ADD9AA7E90","off":"4589384489FA"}]},{"name":"Max/Infinite Money On Start","type":"checkbox","memory":[{"offset":"7FC5C270","on":"4189557C41C7457CFFE0F505E91D828681","off":"0000000000000000000000000000000000"},{"offset":"14C4497","on":"E9D47D797E9090","off":"4189557C4529E6"}]},{"name":"Max/Infinite Skill Points (Kill N Turn Off)","type":"checkbox","memory":[{"offset":"3AD3800","on":"41899D60010000E9109A6FFD","off":"000000000000000000000000"},{"offset":"11CD215","on":"E9E66590029090","off":"4589B560010000"}]}],"credits":["Celogamez"]}
+{
+  "name": "Sekiro™: Shadows Die Twice",
+  "id": "CUSA12047",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health/1 Hit Kill (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FA20",
+          "on": "41837E500075154189863001000041898630010000E9E290B08131C041898630010000E9D490B081",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1768B15",
+          "on": "E9066F4F7E9090",
+          "off": "41898630010000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Health (Need MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "3",
+          "offset": "5FA27",
+          "on": "418B8634010000",
+          "off": "418B8630010000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (Need MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "3",
+          "offset": "5FA25",
+          "on": "7513",
+          "off": "7515"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite All Items (Need 2 To Work)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5C1D0",
+          "on": "458938418900E949265581",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "11AE81E",
+          "on": "E9ADD9AA7E90",
+          "off": "4589384489FA"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Money On Start",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5C270",
+          "on": "4189557C41C7457CFFE0F505E91D828681",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "14C4497",
+          "on": "E9D47D797E9090",
+          "off": "4189557C4529E6"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Skill Points (Kill N Turn Off)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AD3800",
+          "on": "41899D60010000E9109A6FFD",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "11CD215",
+          "on": "E9E66590029090",
+          "off": "4589B560010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

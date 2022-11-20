@@ -1,1 +1,76 @@
-{"name":"Onechanbara Z2: Chaos","id":"CUSA02159","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"B40FD","on":"C5FA1110","off":"C5FA1100"}]},{"name":"Blood Bar (No Refill)","type":"checkbox","memory":[{"offset":"B422B","on":"C5FA11480C","off":"C5FA11400C"}]},{"name":"Infinite Energy Bar","type":"checkbox","memory":[{"offset":"63E200","on":"C7808400000000004040E9E161A7FF","off":"000000000000000000000000000000"},{"offset":"B43E8","on":"E9139E5800909090","off":"C5FA118084000000"}]},{"name":"No Blood On Weapon","type":"checkbox","memory":[{"offset":"B3F22","on":"C5FA1130","off":"C5FA1108"}]},{"name":"Max Orbs","type":"checkbox","memory":[{"offset":"63E230","on":"C780F80700003F420F00E90894A7FF","off":"000000000000000000000000000000"},{"offset":"B7641","on":"E9EA6B580090","off":"8998F8070000"}]}],"credits":["Saso"]}
+{
+  "name": "Onechanbara Z2: Chaos",
+  "id": "CUSA02159",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B40FD",
+          "on": "C5FA1110",
+          "off": "C5FA1100"
+        }
+      ]
+    },
+    {
+      "name": "Blood Bar (No Refill)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B422B",
+          "on": "C5FA11480C",
+          "off": "C5FA11400C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy Bar",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "63E200",
+          "on": "C7808400000000004040E9E161A7FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "B43E8",
+          "on": "E9139E5800909090",
+          "off": "C5FA118084000000"
+        }
+      ]
+    },
+    {
+      "name": "No Blood On Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B3F22",
+          "on": "C5FA1130",
+          "off": "C5FA1108"
+        }
+      ]
+    },
+    {
+      "name": "Max Orbs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "63E230",
+          "on": "C780F80700003F420F00E90894A7FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "B7641",
+          "on": "E9EA6B580090",
+          "off": "8998F8070000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

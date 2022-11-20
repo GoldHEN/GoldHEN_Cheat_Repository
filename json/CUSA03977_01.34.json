@@ -1,1 +1,213 @@
-{"name":"Dying Light: The Following – Enhanced Edition","id":"CUSA03977","version":"01.34","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"7FC5C7B0","on":"C783341200000000C842E9A89FFF80","off":"000000000000000000000000000000"},{"offset":"C5675F","on":"E94C60007F909090","off":"C5FA118334120000"}]},{"name":"Infinite Endurance (For Fight)","type":"checkbox","memory":[{"offset":"7FC5D080","on":"C5FA104310E9AA5C1381","off":"00000000000000000000"},{"offset":"D92D2F","on":"E94CA3EC7E","off":"C5FA114310"}]},{"name":"Infinite Breathe (For Run)","type":"checkbox","memory":[{"offset":"7FC5C890","on":"C5FA104310E916671281","off":"00000000000000000000"},{"offset":"D82FAB","on":"E9E098ED7E","off":"C5FA114310"}]},{"name":"Infinite/Dupe Items (Need 2/Disable after you have enough)","type":"checkbox","memory":[{"offset":"760058","on":"450137","off":"458937"}]},{"name":"Max/Infinite Items (Disable B4 Buy/Create Weapons)","type":"checkbox","memory":[{"offset":"760058","on":"45893F","off":"458937"}]},{"name":"Infinite Ammo/No Reload/Arrows/Throwables","type":"checkbox","memory":[{"offset":"7FC5D5B0","on":"0F88DE6511814C8B39E9AB661181","off":"0000000000000000000000000000"},{"offset":"D73C60","on":"E94B99EE7E90909090","off":"0F8834FFFFFF448939"},{"offset":"7FC5D0E0","on":"4189C6458B37E9702FB080","off":"0000000000000000000000"},{"offset":"760055","on":"E986D04F7F90","off":"4189C6458937"}]},{"name":"Infinite Melee Durability","type":"checkbox","memory":[{"offset":"7FC5C7D0","on":"C5FA104B04E9A63CB080","off":"00000000000000000000"},{"offset":"76047B","on":"E950C34F7F","off":"C5FA114B04"}]},{"name":"Infinite UV Flashlight","type":"checkbox","memory":[{"offset":"7FC5C8D0","on":"C5F82EC8C5FA100FE9E6B60C81","off":"00000000000000000000000000"},{"offset":"D27FBB","on":"E91049F37E909090","off":"C5F82EC8C5FA110F"}]},{"name":"Infinite Grappling Hook Stamina","type":"checkbox","memory":[{"offset":"7FC5DDB0","on":"C4C17A104640E99F691C81","off":"0000000000000000000000"},{"offset":"E24754","on":"E95796E37E90","off":"C4C17A114640"}]},{"name":"Infinite Camouflage","type":"checkbox","memory":[{"offset":"7FC5D350","on":"C5FA104314E9ED0F1281","off":"00000000000000000000"},{"offset":"D7E342","on":"E909F0ED7E","off":"C5FA114314"}]},{"name":"Max Level All Skill Points On Gain","type":"checkbox","memory":[{"offset":"7FC5C8C0","on":"4584E4C700FFC99A3BE95C920781","off":"0000000000000000000000000000"},{"offset":"CD5B24","on":"E9976DF87E90","off":"4584E4488908"}]},{"name":"Max/Infinite Money On Gain Or Buy","type":"checkbox","memory":[{"offset":"7FC5D870","on":"0F4ED1C7473CFFC99A3BE982571181","off":"000000000000000000000000000000"},{"offset":"D72FFB","on":"E970A8EE7E90","off":"0F4ED189573C"},{"offset":"7FC5E850","on":"4429F8C7473CFFC99A3BE9FB491181","off":"000000000000000000000000000000"},{"offset":"D73254","on":"E9F7B5EE7E90","off":"4429F889473C"}]}],"credits":["Celogamez_9.00"]}
+{
+  "name": "Dying Light: The Following – Enhanced Edition",
+  "id": "CUSA03977",
+  "version": "01.34",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5C7B0",
+          "on": "C783341200000000C842E9A89FFF80",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "C5675F",
+          "on": "E94C60007F909090",
+          "off": "C5FA118334120000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Endurance (For Fight)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5D080",
+          "on": "C5FA104310E9AA5C1381",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "D92D2F",
+          "on": "E94CA3EC7E",
+          "off": "C5FA114310"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Breathe (For Run)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5C890",
+          "on": "C5FA104310E916671281",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "D82FAB",
+          "on": "E9E098ED7E",
+          "off": "C5FA114310"
+        }
+      ]
+    },
+    {
+      "name": "Infinite/Dupe Items (Need 2/Disable after you have enough)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "760058",
+          "on": "450137",
+          "off": "458937"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Items (Disable B4 Buy/Create Weapons)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "760058",
+          "on": "45893F",
+          "off": "458937"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/No Reload/Arrows/Throwables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5D5B0",
+          "on": "0F88DE6511814C8B39E9AB661181",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "D73C60",
+          "on": "E94B99EE7E90909090",
+          "off": "0F8834FFFFFF448939"
+        },
+        {
+          "offset": "7FC5D0E0",
+          "on": "4189C6458B37E9702FB080",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "760055",
+          "on": "E986D04F7F90",
+          "off": "4189C6458937"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Melee Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5C7D0",
+          "on": "C5FA104B04E9A63CB080",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "76047B",
+          "on": "E950C34F7F",
+          "off": "C5FA114B04"
+        }
+      ]
+    },
+    {
+      "name": "Infinite UV Flashlight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5C8D0",
+          "on": "C5F82EC8C5FA100FE9E6B60C81",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "D27FBB",
+          "on": "E91049F37E909090",
+          "off": "C5F82EC8C5FA110F"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Grappling Hook Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5DDB0",
+          "on": "C4C17A104640E99F691C81",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "E24754",
+          "on": "E95796E37E90",
+          "off": "C4C17A114640"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Camouflage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5D350",
+          "on": "C5FA104314E9ED0F1281",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "D7E342",
+          "on": "E909F0ED7E",
+          "off": "C5FA114314"
+        }
+      ]
+    },
+    {
+      "name": "Max Level All Skill Points On Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5C8C0",
+          "on": "4584E4C700FFC99A3BE95C920781",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "CD5B24",
+          "on": "E9976DF87E90",
+          "off": "4584E4488908"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Money On Gain Or Buy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5D870",
+          "on": "0F4ED1C7473CFFC99A3BE982571181",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "D72FFB",
+          "on": "E970A8EE7E90",
+          "off": "0F4ED189573C"
+        },
+        {
+          "offset": "7FC5E850",
+          "on": "4429F8C7473CFFC99A3BE9FB491181",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "D73254",
+          "on": "E9F7B5EE7E90",
+          "off": "4429F889473C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez_9.00"
+  ]
+}

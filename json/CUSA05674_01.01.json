@@ -1,1 +1,98 @@
-{"name":"SONIC FORCES","id":"CUSA05674","version":"01.01","process":"eboot.bin","mods":[{"name":"Max Rings / No loose after hit ( on gain )","type":"checkbox","memory":[{"offset":"D836C0","on":"909090","off":"8B481C"},{"offset":"10BBF30","on":"39CA0F4FD1BA0F270000E9396FBCFF","off":"000000000000000000000000000000"},{"offset":"C82E73","on":"E9B8904300","off":"39CA0F4FD1"}]},{"name":"Invincibility","type":"checkbox","memory":[{"offset":"C896B8","on":"909090","off":"FF5010"},{"offset":"D836C0","on":"909090","off":"8B481C"}]},{"name":"Infinite Boost","type":"checkbox","memory":[{"offset":"14BBBD0","on":"C741180000F042C5FA104118E974896EFF","off":"0000000000000000000000000000000000"},{"offset":"BA4550","on":"E97B769100","off":"C5FA104118"}]},{"name":"Max Score [ S-Rank ]","type":"checkbox","memory":[{"offset":"6E06DC","on":"41034164","off":"41034160"}]},{"name":"Set Timer to 0","type":"checkbox","memory":[{"offset":"6A1EE0","on":"9090909090","off":"C5FA584324"}]},{"name":"Freeze Timer","type":"checkbox","memory":[{"offset":"6A1EE7","on":"9090909090","off":"C5FA114324"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "SONIC FORCES",
+  "id": "CUSA05674",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Rings / No loose after hit ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D836C0",
+          "on": "909090",
+          "off": "8B481C"
+        },
+        {
+          "offset": "10BBF30",
+          "on": "39CA0F4FD1BA0F270000E9396FBCFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "C82E73",
+          "on": "E9B8904300",
+          "off": "39CA0F4FD1"
+        }
+      ]
+    },
+    {
+      "name": "Invincibility",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C896B8",
+          "on": "909090",
+          "off": "FF5010"
+        },
+        {
+          "offset": "D836C0",
+          "on": "909090",
+          "off": "8B481C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Boost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14BBBD0",
+          "on": "C741180000F042C5FA104118E974896EFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "BA4550",
+          "on": "E97B769100",
+          "off": "C5FA104118"
+        }
+      ]
+    },
+    {
+      "name": "Max Score [ S-Rank ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6E06DC",
+          "on": "41034164",
+          "off": "41034160"
+        }
+      ]
+    },
+    {
+      "name": "Set Timer to 0",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6A1EE0",
+          "on": "9090909090",
+          "off": "C5FA584324"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6A1EE7",
+          "on": "9090909090",
+          "off": "C5FA114324"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

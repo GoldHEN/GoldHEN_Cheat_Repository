@@ -1,1 +1,91 @@
-{"name":"Tails of Iron","id":"CUSA28465","version":"01.02","process":"eboot.bin","mods":[{"name":"Infinite Health (Turn Off In 2nd Battle)","type":"checkbox","memory":[{"offset":"8191B430","on":"C5FA104024C5FA114020E9B5ACB7FE","off":"000000000000000000000000000000"},{"offset":"804960EF","on":"E93C534801","off":"C5FA114020"}]},{"name":"1 Hit Kill","type":"checkbox","memory":[{"offset":"8191B470","on":"817F5C0000803F7E0CC7475C0000803FC5FA10475CC5FA11475CE9A6DED6FE","off":"00000000000000000000000000000000000000000000000000000000000000"},{"offset":"80689330","on":"E93B212901","off":"C5FA11475C"}]},{"name":"Infinite Arrows","type":"checkbox","memory":[{"offset":"8191B4D0","on":"41BE630000004489B010010000E9DA9FB7FE","off":"000000000000000000000000000000000000"},{"offset":"804954B5","on":"E9166048019090","off":"4489B010010000"}]},{"name":"Infinite Currency","type":"checkbox","memory":[{"offset":"8191B510","on":"488B44D82041BE6300000044897014E9DABCB7FE","off":"0000000000000000000000000000000000000000"},{"offset":"804971F5","on":"E91643480190909090","off":"488B44D82044897014"}]},{"name":"Infinite Bolts / Poison","type":"checkbox","memory":[{"offset":"8191B530","on":"41BE630000004489B014010000E9E99FB7FE","off":"000000000000000000000000000000000000"},{"offset":"80495524","on":"E9076048019090","off":"4489B014010000"}]}],"credits":["Saso_9.00"]}
+{
+  "name": "Tails of Iron",
+  "id": "CUSA28465",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (Turn Off In 2nd Battle)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8191B430",
+          "on": "C5FA104024C5FA114020E9B5ACB7FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "804960EF",
+          "on": "E93C534801",
+          "off": "C5FA114020"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8191B470",
+          "on": "817F5C0000803F7E0CC7475C0000803FC5FA10475CC5FA11475CE9A6DED6FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80689330",
+          "on": "E93B212901",
+          "off": "C5FA11475C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Arrows",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8191B4D0",
+          "on": "41BE630000004489B010010000E9DA9FB7FE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "804954B5",
+          "on": "E9166048019090",
+          "off": "4489B010010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Currency",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8191B510",
+          "on": "488B44D82041BE6300000044897014E9DABCB7FE",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "804971F5",
+          "on": "E91643480190909090",
+          "off": "488B44D82044897014"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Bolts / Poison",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8191B530",
+          "on": "41BE630000004489B014010000E9E99FB7FE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80495524",
+          "on": "E9076048019090",
+          "off": "4489B014010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

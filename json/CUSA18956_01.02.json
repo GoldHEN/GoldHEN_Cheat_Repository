@@ -1,1 +1,75 @@
-{"name":"Cobra Kai: The Karate Kid Saga Continues","id":"CUSA18956","version":"01.02","process":"eboot.bin","mods":[{"name":"Inf Health","type":"checkbox","memory":[{"offset":"7FEA2CC0","on":"669C4181FFF8F8CA827512C7837C0500000000C843C5FA10837C050000669DC5FA11837C050000E9B85FA501","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"818F8C9C","on":"E91FA05AFE909090","off":"C5FA11837C050000"}]},{"name":"Inf Ultimate","type":"checkbox","memory":[{"offset":"7FEA2D40","on":"C744871000409C45C5FA10448710E97B62AC01","off":"00000000000000000000000000000000000000"},{"offset":"81968FC8","on":"E9739D53FE90","off":"C5FA10448710"}]},{"name":"Inf Parry /  Dojo / Personal (Skill)","type":"checkbox","memory":[{"offset":"7FEA2D90","on":"C5F857C0C4C17A114518E9CEDBBB01","off":"000000000000000000000000000000"},{"offset":"81A60967","on":"E9242444FE90","off":"C4C17A114518"}]},{"name":"Max Currency (On Spend)","type":"checkbox","memory":[{"offset":"7FEA2E00","on":"B83F420F005DC3","off":"00000000000000"},{"offset":"8193178D","on":"E96E1657FE","off":"8B40185DC3"}]}],"credits":["Saso_9.00"]}
+{
+  "name": "Cobra Kai: The Karate Kid Saga Continues",
+  "id": "CUSA18956",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA2CC0",
+          "on": "669C4181FFF8F8CA827512C7837C0500000000C843C5FA10837C050000669DC5FA11837C050000E9B85FA501",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "818F8C9C",
+          "on": "E91FA05AFE909090",
+          "off": "C5FA11837C050000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ultimate",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA2D40",
+          "on": "C744871000409C45C5FA10448710E97B62AC01",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81968FC8",
+          "on": "E9739D53FE90",
+          "off": "C5FA10448710"
+        }
+      ]
+    },
+    {
+      "name": "Inf Parry /  Dojo / Personal (Skill)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA2D90",
+          "on": "C5F857C0C4C17A114518E9CEDBBB01",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "81A60967",
+          "on": "E9242444FE90",
+          "off": "C4C17A114518"
+        }
+      ]
+    },
+    {
+      "name": "Max Currency (On Spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA2E00",
+          "on": "B83F420F005DC3",
+          "off": "00000000000000"
+        },
+        {
+          "offset": "8193178D",
+          "on": "E96E1657FE",
+          "off": "8B40185DC3"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

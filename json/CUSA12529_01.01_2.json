@@ -1,1 +1,28 @@
-{"name":"Star Wars Jedi Fallen Order","id":"CUSA12529","version":"01.01","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"616b000","on":"669C817B0848000400750F9090909090909090669DE93AB144FB669DC5FA1183B4010000E92BB144FB","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"15b614c","on":"E9AF4EBB04909090","off":"C5FA1183B4010000"}]}],"credits":["Weysincha","DeathRGH"]}
+{
+  "name": "Star Wars Jedi Fallen Order",
+  "id": "CUSA12529",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "616b000",
+          "on": "669C817B0848000400750F9090909090909090669DE93AB144FB669DC5FA1183B4010000E92BB144FB",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15b614c",
+          "on": "E9AF4EBB04909090",
+          "off": "C5FA1183B4010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha",
+    "DeathRGH"
+  ]
+}

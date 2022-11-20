@@ -1,1 +1,65 @@
-{"name":"Ghosts n Goblins Resurrection","id":"CUSA24159","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Health / 1 Hit (Master Code)","type":"checkbox","memory":[{"offset":"60EA570","on":"807E363A750A8B467429D0E90F8AEBFA8B467029D0E9058AEBFAC7467000000000EBED","off":"0000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"FA2F8A","on":"E9E1751405","off":"8B467029D0"}]},{"name":"1 Hit Kill (MC)","type":"checkbox","memory":[{"offset":"60EA574","on":"7514","off":"750A"}]},{"name":"Freeze Time","type":"checkbox","memory":[{"offset":"60EA6A0","on":"C4C17A108650010000C4C17A118650010000E913DBFAFA","off":"0000000000000000000000000000000000000000000000"},{"offset":"10981C1","on":"E9DA24050590909090","off":"C4C17A118650010000"}]},{"name":"Max Score (99999999)","type":"checkbox","memory":[{"offset":"1098C43","on":"4889C890","off":"480F4FC1"}]}],"credits":["Saso_9.00"]}
+{
+  "name": "Ghosts n Goblins Resurrection",
+  "id": "CUSA24159",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health / 1 Hit (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "60EA570",
+          "on": "807E363A750A8B467429D0E90F8AEBFA8B467029D0E9058AEBFAC7467000000000EBED",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "FA2F8A",
+          "on": "E9E1751405",
+          "off": "8B467029D0"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "60EA574",
+          "on": "7514",
+          "off": "750A"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "60EA6A0",
+          "on": "C4C17A108650010000C4C17A118650010000E913DBFAFA",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "10981C1",
+          "on": "E9DA24050590909090",
+          "off": "C4C17A118650010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Score (99999999)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1098C43",
+          "on": "4889C890",
+          "off": "480F4FC1"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

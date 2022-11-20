@@ -1,1 +1,103 @@
-{"name":"Darksiders III","id":"CUSA08798","version":"01.10","process":"eboot.bin","mods":[{"name":"Infinite Crystals","type":"checkbox","memory":[{"offset":"38CBBB","on":"9090","off":"8908"}]},{"name":"Max Souls on Spend","type":"checkbox","memory":[{"offset":"494F800","on":"B97F9698008908E9B1D3A3FB","off":"000000000000000000000000"},{"offset":"38CBB8","on":"E9432C5C04","off":"4531ED8908"}]},{"name":"Infinite Souls | Activate One Code Only","type":"checkbox","memory":[{"offset":"38CBBB","on":"9090","off":"8908"}]},{"name":"Max Consumables On Use","type":"checkbox","memory":[{"offset":"494F800","on":"BE0F27000089702CE9A612A4FB","off":"00000000000000000000000000"},{"offset":"390AAE","on":"E94DED5B04","off":"740389702C"}]},{"name":"Infinite Consumables |Activate One Code Only","type":"checkbox","memory":[{"offset":"390AB0","on":"909090","off":"89702C"}]},{"name":"Infinite Ingredients","type":"checkbox","memory":[{"offset":"38CD6E","on":"909090","off":"89702C"}]},{"name":"Max Ingredients On Use","type":"checkbox","memory":[{"offset":"494F800","on":"BE6300000089702CE964D5A3FB","off":"00000000000000000000000000"},{"offset":"38CD6C","on":"E98F2A5C04","off":"7E2089702C"}]}],"credits":["GamerX2 and DanteCalus"]}
+{
+  "name": "Darksiders III",
+  "id": "CUSA08798",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Crystals",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "38CBBB",
+          "on": "9090",
+          "off": "8908"
+        }
+      ]
+    },
+    {
+      "name": "Max Souls on Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "494F800",
+          "on": "B97F9698008908E9B1D3A3FB",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "38CBB8",
+          "on": "E9432C5C04",
+          "off": "4531ED8908"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Souls | Activate One Code Only",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "38CBBB",
+          "on": "9090",
+          "off": "8908"
+        }
+      ]
+    },
+    {
+      "name": "Max Consumables On Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "494F800",
+          "on": "BE0F27000089702CE9A612A4FB",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "390AAE",
+          "on": "E94DED5B04",
+          "off": "740389702C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Consumables |Activate One Code Only",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "390AB0",
+          "on": "909090",
+          "off": "89702C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ingredients",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "38CD6E",
+          "on": "909090",
+          "off": "89702C"
+        }
+      ]
+    },
+    {
+      "name": "Max Ingredients On Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "494F800",
+          "on": "BE6300000089702CE964D5A3FB",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "38CD6C",
+          "on": "E98F2A5C04",
+          "off": "7E2089702C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "GamerX2 and DanteCalus"
+  ]
+}

@@ -1,1 +1,59 @@
-{"name":"Desperados III","id":"CUSA11112","version":"01.01","process":"eboot.bin","mods":[{"name":"Inf Health","type":"checkbox","memory":[{"offset":"18566D0","on":"41813C24B00A4306750690E93055A27E4189442464E92655A27E","off":"0000000000000000000000000000000000000000000000000000"},{"offset":"8027BC0B","on":"E9C0AA5D81","off":"4189442464"}]},{"name":"Inf Ammo (Use Only With Dynamite)","type":"checkbox","memory":[{"offset":"1856720","on":"458B7E1C45897E184585EDE9DC72D57E","off":"00000000000000000000000000000000"},{"offset":"805ADA05","on":"E9168D2A819090","off":"45897E184585ED"}]},{"name":"Inf Ammo (McCoy/Hector/Kate/Isabelle)","type":"checkbox","memory":[{"offset":"1856780","on":"0F857972D57E458B7E2445897E14E9D971D57E","off":"00000000000000000000000000000000000000"},{"offset":"805AD962","on":"E9198E2A819090909090","off":"0F859D00000045897E14"}]}],"credits":["Saso"]}
+{
+  "name": "Desperados III",
+  "id": "CUSA11112",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18566D0",
+          "on": "41813C24B00A4306750690E93055A27E4189442464E92655A27E",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8027BC0B",
+          "on": "E9C0AA5D81",
+          "off": "4189442464"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo (Use Only With Dynamite)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1856720",
+          "on": "458B7E1C45897E184585EDE9DC72D57E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "805ADA05",
+          "on": "E9168D2A819090",
+          "off": "45897E184585ED"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo (McCoy/Hector/Kate/Isabelle)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1856780",
+          "on": "0F857972D57E458B7E2445897E14E9D971D57E",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "805AD962",
+          "on": "E9198E2A819090909090",
+          "off": "0F859D00000045897E14"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

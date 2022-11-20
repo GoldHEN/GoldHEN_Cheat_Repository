@@ -1,1 +1,238 @@
-{"name":"DEATH STRANDING™","id":"CUSA12605","version":"01.02","process":"eboot.bin","mods":[{"name":"God Mode","type":"checkbox","memory":[{"offset":"17986AE","on":"C5FA1108","off":"C5FA1100"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"7546ABD2","on":"909090909090909090","off":"664489BC410A0100"}]},{"name":"Max Resistance","type":"checkbox","memory":[{"offset":"17A1FE6","on":"90909090909090909090","off":"C4C17A118C2404010000"}]},{"name":"Infinite Resistance walking wather","type":"checkbox","memory":[{"offset":"17A53FD","on":"90909090909090909090","off":"C4C17A11842434010000"}]},{"name":"Infinite Hold Air","type":"checkbox","memory":[{"offset":"17A41A4","on":"90909090909090909090","off":"C4C17A11842434010000"}]},{"name":"Infinite Water","type":"checkbox","memory":[{"offset":"1849599","on":"9090909090","off":"C5FA114830"}]},{"name":"Infinite Boots durability","type":"checkbox","memory":[{"offset":"17A6FE6","on":"909090909090909090","off":"C4C17A118D0C030000"}]},{"name":"Infinite Resin","type":"checkbox","memory":[{"offset":"2C6AB78","on":"48895038","off":"48894838"}]},{"name":"Infinite Metal","type":"checkbox","memory":[{"offset":"2C6AB96","on":"48895040","off":"48894840"}]},{"name":"Infinite Crystals","type":"checkbox","memory":[{"offset":"2C6AB5A","on":"48895030","off":"48894830"}]},{"name":"Infinite Energy vehicules","type":"checkbox","memory":[{"offset":"28AB4B3","on":"9090909090","off":"C5FA114008"}]},{"name":"Infinite Ceramics","type":"checkbox","memory":[{"offset":"2C6ABB4","on":"90909090","off":"48894848"}]},{"name":"Infinite Chemicals","type":"checkbox","memory":[{"offset":"7546ABD2","on":"90909090","off":"48894850"}]},{"name":"Infinite Special Alloys","type":"checkbox","memory":[{"offset":"7506ABE7","on":"90909090","off":"48894858"}]},{"name":"Infinite CCP/Repair Spray/Grenades/Ladders/Climbing Anchors","type":"checkbox","memory":[{"offset":"74046585","on":"9090909090909090","off":"668984510A010000"}]},{"name":"Unlimited Chiral Bandwidth","type":"checkbox","memory":[{"offset":"74748980","on":"90909090","off":"45893424"}]},{"name":"Infinite all the above Materials","type":"checkbox","memory":[{"offset":"7546ABE7","on":"90909090","off":"48894858"},{"offset":"74046585","on":"9090909090909090","off":"668984510A010000"},{"offset":"7546ABD2","on":"90909090","off":"48894850"},{"offset":"2C6ABB4","on":"90909090","off":"48894848"},{"offset":"28AB4B3","on":"9090909090","off":"C5FA114008"},{"offset":"2C6AB5A","on":"48895030","off":"48894830"},{"offset":"2C6AB96","on":"48895040","off":"48894840"},{"offset":"2C6AB78","on":"48895038","off":"48894838"},{"offset":"1849599","on":"9090909090","off":"C5FA114830"}]}],"credits":["Talixme | Eyowin | KING_MOGU"]}
+{
+  "name": "DEATH STRANDING™",
+  "id": "CUSA12605",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17986AE",
+          "on": "C5FA1108",
+          "off": "C5FA1100"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7546ABD2",
+          "on": "909090909090909090",
+          "off": "664489BC410A0100"
+        }
+      ]
+    },
+    {
+      "name": "Max Resistance",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17A1FE6",
+          "on": "90909090909090909090",
+          "off": "C4C17A118C2404010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Resistance walking wather",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17A53FD",
+          "on": "90909090909090909090",
+          "off": "C4C17A11842434010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Hold Air",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17A41A4",
+          "on": "90909090909090909090",
+          "off": "C4C17A11842434010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Water",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1849599",
+          "on": "9090909090",
+          "off": "C5FA114830"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Boots durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17A6FE6",
+          "on": "909090909090909090",
+          "off": "C4C17A118D0C030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Resin",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2C6AB78",
+          "on": "48895038",
+          "off": "48894838"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Metal",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2C6AB96",
+          "on": "48895040",
+          "off": "48894840"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Crystals",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2C6AB5A",
+          "on": "48895030",
+          "off": "48894830"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy vehicules",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28AB4B3",
+          "on": "9090909090",
+          "off": "C5FA114008"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ceramics",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2C6ABB4",
+          "on": "90909090",
+          "off": "48894848"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Chemicals",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7546ABD2",
+          "on": "90909090",
+          "off": "48894850"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Special Alloys",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7506ABE7",
+          "on": "90909090",
+          "off": "48894858"
+        }
+      ]
+    },
+    {
+      "name": "Infinite CCP/Repair Spray/Grenades/Ladders/Climbing Anchors",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "74046585",
+          "on": "9090909090909090",
+          "off": "668984510A010000"
+        }
+      ]
+    },
+    {
+      "name": "Unlimited Chiral Bandwidth",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "74748980",
+          "on": "90909090",
+          "off": "45893424"
+        }
+      ]
+    },
+    {
+      "name": "Infinite all the above Materials",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7546ABE7",
+          "on": "90909090",
+          "off": "48894858"
+        },
+        {
+          "offset": "74046585",
+          "on": "9090909090909090",
+          "off": "668984510A010000"
+        },
+        {
+          "offset": "7546ABD2",
+          "on": "90909090",
+          "off": "48894850"
+        },
+        {
+          "offset": "2C6ABB4",
+          "on": "90909090",
+          "off": "48894848"
+        },
+        {
+          "offset": "28AB4B3",
+          "on": "9090909090",
+          "off": "C5FA114008"
+        },
+        {
+          "offset": "2C6AB5A",
+          "on": "48895030",
+          "off": "48894830"
+        },
+        {
+          "offset": "2C6AB96",
+          "on": "48895040",
+          "off": "48894840"
+        },
+        {
+          "offset": "2C6AB78",
+          "on": "48895038",
+          "off": "48894838"
+        },
+        {
+          "offset": "1849599",
+          "on": "9090909090",
+          "off": "C5FA114830"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme | Eyowin | KING_MOGU"
+  ]
+}

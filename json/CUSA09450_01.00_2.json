@@ -1,1 +1,27 @@
-{"name":"MLB® The Show™ 18","id":"CUSA09450","version":"01.00","process":"eboot.bin","mods":[{"name":"Hold R1 To Hit Homerun","type":"checkbox","memory":[{"offset":"1893800","on":"C5F057C9C5F82EC148B88883410008000000488B004825000800000F85C7038EFFE99B018EFF","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"11739B9","on":"E942FE7100909090","off":"C5F057C9C5F82EC1"}]}],"credits":["nolberto82"]}
+{
+  "name": "MLB® The Show™ 18",
+  "id": "CUSA09450",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Hold R1 To Hit Homerun",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1893800",
+          "on": "C5F057C9C5F82EC148B88883410008000000488B004825000800000F85C7038EFFE99B018EFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "11739B9",
+          "on": "E942FE7100909090",
+          "off": "C5F057C9C5F82EC1"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "nolberto82"
+  ]
+}

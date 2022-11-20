@@ -1,1 +1,70 @@
-{"name":"Crysis® Remastered","id":"CUSA18659","version":"01.03","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"7FC5FDE0","on":"C7434402000000750DC5FA108324020000E9B48BC181C5FA118324020000E9A78BC181","off":"0000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"18789A2","on":"E939743E7E909090","off":"C5FA118324020000"}]},{"name":"Infinite Energy","type":"checkbox","memory":[{"offset":"7FC5FFB0","on":"C4C17A10442440E97E3ED581","off":"000000000000000000000000"},{"offset":"19B3E33","on":"E978C12A7E9090","off":"C4C17A11442440"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"176C606","on":"8B08","off":"8908"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"7FC5FF50","on":"0F8783AFE681448B7828E97EAFE681","off":"000000000000000000000000000000"},{"offset":"1ACAED7","on":"E97450197E90","off":"770644897828"}]}],"credits":["Celogamez"]}
+{
+  "name": "Crysis® Remastered",
+  "id": "CUSA18659",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FDE0",
+          "on": "C7434402000000750DC5FA108324020000E9B48BC181C5FA118324020000E9A78BC181",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "18789A2",
+          "on": "E939743E7E909090",
+          "off": "C5FA118324020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FFB0",
+          "on": "C4C17A10442440E97E3ED581",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "19B3E33",
+          "on": "E978C12A7E9090",
+          "off": "C4C17A11442440"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "176C606",
+          "on": "8B08",
+          "off": "8908"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FF50",
+          "on": "0F8783AFE681448B7828E97EAFE681",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1ACAED7",
+          "on": "E97450197E90",
+          "off": "770644897828"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

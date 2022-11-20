@@ -1,1 +1,59 @@
-{"name":"Atelier Ryza: Ever Darkness & the Secret Hideout","id":"CUSA16458","version":"01.07","process":"eboot.bin","mods":[{"name":"Max Stats (in battle keep it on)","type":"checkbox","memory":[{"offset":"7FC5F1A0","on":"664181848590000000E70341038C8590000000E9F8888380","off":"000000000000000000000000000000000000000000000000"},{"offset":"497AA8","on":"E9F3767C7F909090","off":"41038C8590000000"}]},{"name":"Alot of Stocked Items in shop (after buying)","type":"checkbox","memory":[{"offset":"7FC5F150","on":"488D0440C6044163E9FD688A80","off":"00000000000000000000000000"},{"offset":"505A52","on":"E9F996757F909090","off":"488D044040283441"}]},{"name":"Max Coins (on buy)","type":"checkbox","memory":[{"offset":"7FC5F180","on":"BF0800000041C7077F969800E944FA8A80","off":"0000000000000000000000000000000000"},{"offset":"50EBCD","on":"E9AE05757F909090","off":"BF08000000418907"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Atelier Ryza: Ever Darkness & the Secret Hideout",
+  "id": "CUSA16458",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Stats (in battle keep it on)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F1A0",
+          "on": "664181848590000000E70341038C8590000000E9F8888380",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "497AA8",
+          "on": "E9F3767C7F909090",
+          "off": "41038C8590000000"
+        }
+      ]
+    },
+    {
+      "name": "Alot of Stocked Items in shop (after buying)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F150",
+          "on": "488D0440C6044163E9FD688A80",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "505A52",
+          "on": "E9F996757F909090",
+          "off": "488D044040283441"
+        }
+      ]
+    },
+    {
+      "name": "Max Coins (on buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F180",
+          "on": "BF0800000041C7077F969800E944FA8A80",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "50EBCD",
+          "on": "E9AE05757F909090",
+          "off": "BF08000000418907"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

@@ -1,33 +1,33 @@
 {
-   "name":"how to surrvive 2",
-   "id":"CUSA07006",
-   "version":"01.02",
-   "process":"eboot.bin",
-   "mods":[
-      {
-         "name":"infinite item &amp; ammo usage (need more than one item)",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"1B63E4",
-               "on":"9090",
-               "off":"8911"
-            }
-         ]
-      },
-	  {
-         "name":"inf experience points usage",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"33FC94",
-               "on":"90909090909090",
-               "off":"41899660490000"
-            }
-         ]
-      }
-   ],
-   "credits":[
-      "LMN"
-   ]
+  "name": "how to surrvive 2",
+  "id": "CUSA07006",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "infinite item &amp; ammo usage (need more than one item)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B63E4",
+          "on": "9090",
+          "off": "8911"
+        }
+      ]
+    },
+    {
+      "name": "inf experience points usage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FC94",
+          "on": "90909090909090",
+          "off": "41899660490000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "LMN"
+  ]
 }

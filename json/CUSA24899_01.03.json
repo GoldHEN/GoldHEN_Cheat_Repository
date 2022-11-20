@@ -1,1 +1,27 @@
-{"name":"Stray","id":"CUSA24899","version":"01.03","process":"eboot.bin","mods":[{"name":"Infinite health","type":"checkbox","memory":[{"offset":"7FE9E660","on":"4983FA03750CC783040100000000C842EB08C5FA119304010000E9229CE780","off":"00000000000000000000000000000000000000000000000000000000000000"},{"offset":"D18299","on":"E9C263187F909090","off":"C5FA119304010000"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Stray",
+  "id": "CUSA24899",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FE9E660",
+          "on": "4983FA03750CC783040100000000C842EB08C5FA119304010000E9229CE780",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D18299",
+          "on": "E9C263187F909090",
+          "off": "C5FA119304010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

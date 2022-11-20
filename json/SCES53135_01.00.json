@@ -1,46 +1,44 @@
 {
-   "name":"God of War",
-   "id":"SCES53135",
-   "version":"01.00",
-   "process":"eboot.bin",
-   "mods":[
-      {
-         "name":"Infinite Health",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"807FF3802C",
-               "on":"00000000",
-               "off":"00000000"
-            }
-         ]
-      },
-	  {
-         "name":"Max-Orbs",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"807FF04DA8",
-               "on":"EA600000",
-               "off":"EA600000"
-            }
-         ]
-      },
-	  {
-         "name":"Infinite Magic",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"807FF04D9C",
-               "on":"0000C862",
-               "off":"0000C862"
-            }
-         ]
-      }
-	  
-	  
-   ],
-   "credits":[
-      "Ali-mk"
-   ]
+  "name": "God of War",
+  "id": "SCES53135",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FF3802C",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Max-Orbs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FF04DA8",
+          "on": "EA600000",
+          "off": "EA600000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FF04D9C",
+          "on": "0000C862",
+          "off": "0000C862"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

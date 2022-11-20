@@ -1,1 +1,33 @@
-{"name":"Dark Alliance","id":"CUSA25234","version":"01.08","process":"eboot.bin","mods":[{"name":"Skill Points (On Spend)","type":"checkbox","memory":[{"offset":"FFA11D","on":"014E14","off":"894E14"}]},{"name":"Infinite Feat Points","type":"checkbox","memory":[{"offset":"FFA13A","on":"909090","off":"894E18"}]}],"credits":["wander"]}
+{
+  "name": "Dark Alliance",
+  "id": "CUSA25234",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Skill Points (On Spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FFA11D",
+          "on": "014E14",
+          "off": "894E14"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Feat Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FFA13A",
+          "on": "909090",
+          "off": "894E18"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "wander"
+  ]
+}

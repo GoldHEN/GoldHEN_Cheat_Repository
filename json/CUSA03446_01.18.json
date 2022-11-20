@@ -1,1 +1,91 @@
-{"name":"7 Days to Die","id":"CUSA03446","version":"01.18","process":"eboot.bin","mods":[{"name":"Max Skill points (on spend)","type":"checkbox","memory":[{"offset":"1263CA0","on":"6641C78644080000E703E983DD567F","off":"000000000000000000000000000000"},{"offset":"807D1A2B","on":"E97022A9809090","off":"41898644080000"}]},{"name":"Max items (on gain by smashing)","type":"checkbox","memory":[{"offset":"1263D20","on":"01D1C740189F860100E992EE307F","off":"0000000000000000000000000000"},{"offset":"80572BBB","on":"E96011CF80","off":"03CA894818"}]},{"name":"Max Items (on pick up)","type":"checkbox","memory":[{"offset":"1263D60","on":"01D1C740189F860100E9CF3B317F","off":"0000000000000000000000000000"},{"offset":"80577938","on":"E923C4CE80","off":"03CA894818"}]},{"name":"Max Items (on Use)","type":"checkbox","memory":[{"offset":"1263D90","on":"4429F9C740189F860100E982F1307F","off":"000000000000000000000000000000"},{"offset":"80572F1B","on":"E9700ECF8090","off":"412BCF894818"}]},{"name":"Max items (on use in Quick short)","type":"checkbox","memory":[{"offset":"1263DF0","on":"4429F9C740189F860100E93017317F","off":"000000000000000000000000000000"},{"offset":"80575529","on":"E9C2E8CE8090","off":"412BCF894818"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "7 Days to Die",
+  "id": "CUSA03446",
+  "version": "01.18",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Skill points (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1263CA0",
+          "on": "6641C78644080000E703E983DD567F",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "807D1A2B",
+          "on": "E97022A9809090",
+          "off": "41898644080000"
+        }
+      ]
+    },
+    {
+      "name": "Max items (on gain by smashing)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1263D20",
+          "on": "01D1C740189F860100E992EE307F",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "80572BBB",
+          "on": "E96011CF80",
+          "off": "03CA894818"
+        }
+      ]
+    },
+    {
+      "name": "Max Items (on pick up)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1263D60",
+          "on": "01D1C740189F860100E9CF3B317F",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "80577938",
+          "on": "E923C4CE80",
+          "off": "03CA894818"
+        }
+      ]
+    },
+    {
+      "name": "Max Items (on Use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1263D90",
+          "on": "4429F9C740189F860100E982F1307F",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80572F1B",
+          "on": "E9700ECF8090",
+          "off": "412BCF894818"
+        }
+      ]
+    },
+    {
+      "name": "Max items (on use in Quick short)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1263DF0",
+          "on": "4429F9C740189F860100E93017317F",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80575529",
+          "on": "E9C2E8CE8090",
+          "off": "412BCF894818"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

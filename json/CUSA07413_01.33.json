@@ -1,1 +1,43 @@
-{"name":"God of War","id":"CUSA07413","version":"01.33","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"FFF800","on":"4181FE28A7B686740BC4C17A115E20E9F19E4FFFC4C17A116620E9E69E4FFF","off":"00000000000000000000000000000000000000000000000000000000000000"},{"offset":"4F96FF","on":"E9FC60B00090","off":"C4C17A115E20"}]},{"name":"Infinite Health and Rage","type":"checkbox","memory":[{"offset":"FFF800","on":"4181FE28A7B686750BC4C17A116620E9F19E4FFF4181FE88A7B686750BC4C17A116620E9DD9E4FFFC4C17A115E20E9D29E4FFF","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"4F96FF","on":"E9FC60B00090","off":"C4C17A115E20"}]}],"credits":["Razer"]}
+{
+  "name": "God of War",
+  "id": "CUSA07413",
+  "version": "01.33",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FFF800",
+          "on": "4181FE28A7B686740BC4C17A115E20E9F19E4FFFC4C17A116620E9E69E4FFF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4F96FF",
+          "on": "E9FC60B00090",
+          "off": "C4C17A115E20"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health and Rage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FFF800",
+          "on": "4181FE28A7B686750BC4C17A116620E9F19E4FFF4181FE88A7B686750BC4C17A116620E9DD9E4FFFC4C17A115E20E9D29E4FFF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4F96FF",
+          "on": "E9FC60B00090",
+          "off": "C4C17A115E20"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Razer"
+  ]
+}

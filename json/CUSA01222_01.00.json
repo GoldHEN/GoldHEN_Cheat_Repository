@@ -1,1 +1,92 @@
-{"name":"STREET FIGHTER V","id":"CUSA01222","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Health / Easy Win (Master Code)","type":"checkbox","memory":[{"offset":"59BBBB0","on":"4181FF0000010075174183BC241001000000750C8B83CC0000008983D80000008983C8000000E9052F6EFA3D00003D007EEEB800003D00EBE1","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"9EADA","on":"E9D1D0910590","off":"8983C8000000"}]},{"name":"Easy Win (MC)","type":"checkbox","memory":[{"offset":"59BBBC2","on":"7517","off":"750C"}]},{"name":"Infinite CA Meter / Opp Meter 0 (Master Code)","type":"checkbox","memory":[{"offset":"59BCCC0","on":"83FE18752041514D8B8C24A00000004183B910010000004159750A418B8C24E800000089C839C80F4EC890E9C8256EFA29C9EBF1","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"9F2B3","on":"E908DA9105","off":"39C80F4EC8"}]},{"name":"Opp CA Meter 0 (MC)","type":"checkbox","memory":[{"offset":"59BCCD9","on":"7515","off":"750A"}]},{"name":"Infinite V-Gauge / Opp V-Gauge 0 (Master Code)","type":"checkbox","memory":[{"offset":"59BD770","on":"83FE1A751941514D8B8C24A00000004183B91001000000415975039089C839C80F4EC8E9DB1F6EFA29C9EBF2","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"9F76E","on":"E9FDDF9105","off":"39C80F4EC8"}]},{"name":"Opp V-Gauge 0 (MC)","type":"checkbox","memory":[{"offset":"59BD789","on":"750D","off":"7503"}]}],"credits":["Saso_9.00"]}
+{
+  "name": "STREET FIGHTER V",
+  "id": "CUSA01222",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health / Easy Win (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59BBBB0",
+          "on": "4181FF0000010075174183BC241001000000750C8B83CC0000008983D80000008983C8000000E9052F6EFA3D00003D007EEEB800003D00EBE1",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "9EADA",
+          "on": "E9D1D0910590",
+          "off": "8983C8000000"
+        }
+      ]
+    },
+    {
+      "name": "Easy Win (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59BBBC2",
+          "on": "7517",
+          "off": "750C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite CA Meter / Opp Meter 0 (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59BCCC0",
+          "on": "83FE18752041514D8B8C24A00000004183B910010000004159750A418B8C24E800000089C839C80F4EC890E9C8256EFA29C9EBF1",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "9F2B3",
+          "on": "E908DA9105",
+          "off": "39C80F4EC8"
+        }
+      ]
+    },
+    {
+      "name": "Opp CA Meter 0 (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59BCCD9",
+          "on": "7515",
+          "off": "750A"
+        }
+      ]
+    },
+    {
+      "name": "Infinite V-Gauge / Opp V-Gauge 0 (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59BD770",
+          "on": "83FE1A751941514D8B8C24A00000004183B91001000000415975039089C839C80F4EC8E9DB1F6EFA29C9EBF2",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "9F76E",
+          "on": "E9FDDF9105",
+          "off": "39C80F4EC8"
+        }
+      ]
+    },
+    {
+      "name": "Opp V-Gauge 0 (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59BD789",
+          "on": "750D",
+          "off": "7503"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

@@ -1,1 +1,98 @@
-{"name":"Assassins Creed® Unity","id":"CUSA00605","version":"01.05","process":"eboot.bin","mods":[{"name":"No Cooldown Eagle-Vision","type":"checkbox","memory":[{"offset":"2A66CFA","on":"C4C17A118794000000","off":"C4C17A118F94000000"},{"offset":"2A66EB1","on":"909090909090909090","off":"C4C17A118794000000"}]},{"name":"Bottomless Clip","type":"checkbox","memory":[{"offset":"1CEE39E","on":"89CA90","off":"0F44D1"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"26502EF","on":"909090","off":"0F43CE"}]},{"name":"Infinite Money, Items, Credo Points","type":"checkbox","memory":[{"offset":"2646667","on":"909090","off":"4429F0"}]},{"name":"Instant Max XP","type":"checkbox","memory":[{"offset":"27ACABD","on":"48C7C13F420F00","off":"488B8830010000"}]},{"name":"Max on Pick: Money, Items, Credo Points","type":"checkbox","memory":[{"offset":"26460E2","on":"4189CE90","off":"440F47F1"}]},{"name":"Max Skillpoints","type":"checkbox","memory":[{"offset":"514BEF0","on":"C1E10231C0898324020000B8FF0000004189840F08010000E996FAB1FD","off":"0000000000000000000000000000000000000000000000000000000000"},{"offset":"2C6B99D","on":"E94E054E0290","off":"C1E1028B0408"}]}],"credits":["TLH"]}
+{
+  "name": "Assassins Creed® Unity",
+  "id": "CUSA00605",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "No Cooldown Eagle-Vision",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A66CFA",
+          "on": "C4C17A118794000000",
+          "off": "C4C17A118F94000000"
+        },
+        {
+          "offset": "2A66EB1",
+          "on": "909090909090909090",
+          "off": "C4C17A118794000000"
+        }
+      ]
+    },
+    {
+      "name": "Bottomless Clip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CEE39E",
+          "on": "89CA90",
+          "off": "0F44D1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26502EF",
+          "on": "909090",
+          "off": "0F43CE"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money, Items, Credo Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2646667",
+          "on": "909090",
+          "off": "4429F0"
+        }
+      ]
+    },
+    {
+      "name": "Instant Max XP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27ACABD",
+          "on": "48C7C13F420F00",
+          "off": "488B8830010000"
+        }
+      ]
+    },
+    {
+      "name": "Max on Pick: Money, Items, Credo Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26460E2",
+          "on": "4189CE90",
+          "off": "440F47F1"
+        }
+      ]
+    },
+    {
+      "name": "Max Skillpoints",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "514BEF0",
+          "on": "C1E10231C0898324020000B8FF0000004189840F08010000E996FAB1FD",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2C6B99D",
+          "on": "E94E054E0290",
+          "off": "C1E1028B0408"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

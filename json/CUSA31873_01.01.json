@@ -1,1 +1,59 @@
-{"name":"FIFA 23","id":"CUSA31873","version":"01.01","process":"eboot.bin","mods":[{"name":"Max training Score (Attend the training drill)","type":"checkbox","memory":[{"offset":"BA03A70","on":"01C8C742303F420F00E96BCEE0FA","off":"0000000000000000000000000000"},{"offset":"68108E4","on":"E987311F05","off":"01C8894230"}]},{"name":"Max Budget (after buying players use once)","type":"checkbox","memory":[{"offset":"BA03E10","on":"48C1FA208100FFC99A3BE90D64C9FD","off":"000000000000000000000000000000"},{"offset":"969A225","on":"E9E69B36029090","off":"48C1FA20480110"}]},{"name":"100 Sharpness (Attend the training drill)","type":"checkbox","memory":[{"offset":"BA03AB0","on":"0F84C7A102FE66C742246400E9C0A102FE","off":"0000000000000000000000000000000000"},{"offset":"9A2DC7B","on":"E9305EFD0190","off":"740644884224"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "FIFA 23",
+  "id": "CUSA31873",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max training Score (Attend the training drill)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BA03A70",
+          "on": "01C8C742303F420F00E96BCEE0FA",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "68108E4",
+          "on": "E987311F05",
+          "off": "01C8894230"
+        }
+      ]
+    },
+    {
+      "name": "Max Budget (after buying players use once)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BA03E10",
+          "on": "48C1FA208100FFC99A3BE90D64C9FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "969A225",
+          "on": "E9E69B36029090",
+          "off": "48C1FA20480110"
+        }
+      ]
+    },
+    {
+      "name": "100 Sharpness (Attend the training drill)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BA03AB0",
+          "on": "0F84C7A102FE66C742246400E9C0A102FE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "9A2DC7B",
+          "on": "E9305EFD0190",
+          "off": "740644884224"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

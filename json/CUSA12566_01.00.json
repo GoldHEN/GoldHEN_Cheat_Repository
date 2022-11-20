@@ -1,1 +1,130 @@
-{"name":"The Legend of Heroes: Trails of Cold Steel II","id":"CUSA12566","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite CP | In Battle","type":"checkbox","memory":[{"offset":"65344","on":"90909090909090","off":"66898340030000"}]},{"name":"Max CP In Battle | Dont Use With Max EP","type":"checkbox","memory":[{"offset":"A5F800","on":"66B8E70366898340030000E93B5B60FF","off":"00000000000000000000000000000000"},{"offset":"65344","on":"E9B7A49F009090","off":"66898340030000"}]},{"name":"Infinite EP In Battle","type":"checkbox","memory":[{"offset":"69044","on":"90909090909090","off":"6689833C030000"}]},{"name":"Max EP On Use | Dont Use With Max CP","type":"checkbox","memory":[{"offset":"A5F800","on":"66B8E7036689833C030000E93B9860FF","off":"00000000000000000000000000000000"},{"offset":"69044","on":"E9B7679F009090","off":"6689833C030000"}]},{"name":"Infinite Items | Inventory","type":"checkbox","memory":[{"offset":"206423","on":"909090","off":"668938"}]},{"name":"Max Items/Quratz/Event/Ingredients On Use or Sell","type":"checkbox","memory":[{"offset":"A5F800","on":"66BF6300668938E91A6C7AFF","off":"000000000000000000000000"},{"offset":"20641F","on":"E9DC9385009090","off":"660F4FF9668938"}]},{"name":"Infinite Items | Battle","type":"checkbox","memory":[{"offset":"206381","on":"909090","off":"668930"}]},{"name":"Max Items | Battle","type":"checkbox","memory":[{"offset":"A5F800","on":"66BE6300668930E9786B7AFF","off":"000000000000000000000000"},{"offset":"20637D","on":"E97E9485009090","off":"660F4FF1668930"}]},{"name":"Infinite Money","type":"checkbox","memory":[{"offset":"20B63E","on":"909090909090","off":"8987805A1B00"}]}],"credits":["GamerX2 & DanteClaus"]}
+{
+  "name": "The Legend of Heroes: Trails of Cold Steel II",
+  "id": "CUSA12566",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite CP | In Battle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "65344",
+          "on": "90909090909090",
+          "off": "66898340030000"
+        }
+      ]
+    },
+    {
+      "name": "Max CP In Battle | Dont Use With Max EP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A5F800",
+          "on": "66B8E70366898340030000E93B5B60FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "65344",
+          "on": "E9B7A49F009090",
+          "off": "66898340030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite EP In Battle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69044",
+          "on": "90909090909090",
+          "off": "6689833C030000"
+        }
+      ]
+    },
+    {
+      "name": "Max EP On Use | Dont Use With Max CP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A5F800",
+          "on": "66B8E7036689833C030000E93B9860FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "69044",
+          "on": "E9B7679F009090",
+          "off": "6689833C030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items | Inventory",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "206423",
+          "on": "909090",
+          "off": "668938"
+        }
+      ]
+    },
+    {
+      "name": "Max Items/Quratz/Event/Ingredients On Use or Sell",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A5F800",
+          "on": "66BF6300668938E91A6C7AFF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "20641F",
+          "on": "E9DC9385009090",
+          "off": "660F4FF9668938"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items | Battle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "206381",
+          "on": "909090",
+          "off": "668930"
+        }
+      ]
+    },
+    {
+      "name": "Max Items | Battle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A5F800",
+          "on": "66BE6300668930E9786B7AFF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "20637D",
+          "on": "E97E9485009090",
+          "off": "660F4FF1668930"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "20B63E",
+          "on": "909090909090",
+          "off": "8987805A1B00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "GamerX2 & DanteClaus"
+  ]
+}

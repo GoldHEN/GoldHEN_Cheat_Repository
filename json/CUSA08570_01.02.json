@@ -1,1 +1,75 @@
-{"name":"Ys VIII -Lacrimosa of DANA-","id":"CUSA08570","version":"01.02","process":"eboot.bin","mods":[{"name":"All Items x99 (on use/discard)","type":"checkbox","memory":[{"offset":"7FC5AC40","on":"43C68466AC2C020063E978116C80","off":"0000000000000000000000000000"},{"offset":"31BDBD","on":"E97EEE937F90909090","off":"6643898466AC2C0200"}]},{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"7FC5ACA0","on":"41807C245801752B41807C245C0075234180BC24980700000675184180BC24840B000002750D6641C784246010000000C0EB0AC4C17A118C2460100000E95D4D6080","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"25FA35","on":"E966B29F7F9090909090","off":"C4C17A118C2460100000"}]},{"name":"Max Experience","type":"checkbox","memory":[{"offset":"7FC5B360","on":"C7878010000020BCBE4CE9EE2E6280","off":"000000000000000000000000000000"},{"offset":"27E255","on":"E906D19D7F909090","off":"C5FA118780100000"}]},{"name":"Infinite Skill Use","type":"checkbox","memory":[{"offset":"7FC5B410","on":"41C78424D02B020010270000E965666380","off":"0000000000000000000000000000000000"},{"offset":"291A7E","on":"E98D999C7F909090","off":"41898424D02B0200"}]}],"credits":["Wander_9.00"]}
+{
+  "name": "Ys VIII -Lacrimosa of DANA-",
+  "id": "CUSA08570",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "All Items x99 (on use/discard)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5AC40",
+          "on": "43C68466AC2C020063E978116C80",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "31BDBD",
+          "on": "E97EEE937F90909090",
+          "off": "6643898466AC2C0200"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5ACA0",
+          "on": "41807C245801752B41807C245C0075234180BC24980700000675184180BC24840B000002750D6641C784246010000000C0EB0AC4C17A118C2460100000E95D4D6080",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "25FA35",
+          "on": "E966B29F7F9090909090",
+          "off": "C4C17A118C2460100000"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5B360",
+          "on": "C7878010000020BCBE4CE9EE2E6280",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "27E255",
+          "on": "E906D19D7F909090",
+          "off": "C5FA118780100000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skill Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5B410",
+          "on": "41C78424D02B020010270000E965666380",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "291A7E",
+          "on": "E98D999C7F909090",
+          "off": "41898424D02B0200"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander_9.00"
+  ]
+}

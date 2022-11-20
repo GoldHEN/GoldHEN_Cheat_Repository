@@ -1,1 +1,39 @@
-{"name":"Starlit Adventures","id":"CUSA11941","version":"01.02","process":"eboot.bin","mods":[{"name":"High Pts / Score","type":"checkbox","memory":[{"section":"16","offset":"1F1A8A","on":"0108","off":"8908"}]},{"name":"Inf Green Tokens (on Spend)","type":"checkbox","memory":[{"offset":"154A210","on":"B8E803000041898690000000E9FF24CF7E","off":"0000000000000000000000000000000000"},{"offset":"8023C719","on":"E9F2DA30819090","off":"41898690000000"}]}],"credits":["Saso"]}
+{
+  "name": "Starlit Adventures",
+  "id": "CUSA11941",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "High Pts / Score",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "16",
+          "offset": "1F1A8A",
+          "on": "0108",
+          "off": "8908"
+        }
+      ]
+    },
+    {
+      "name": "Inf Green Tokens (on Spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "154A210",
+          "on": "B8E803000041898690000000E9FF24CF7E",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "8023C719",
+          "on": "E9F2DA30819090",
+          "off": "41898690000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

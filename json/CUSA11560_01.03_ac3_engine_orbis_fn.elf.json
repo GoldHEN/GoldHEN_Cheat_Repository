@@ -1,1 +1,43 @@
-{"name":"Assassins Creed® III Remastered","id":"CUSA11560","version":"01.03","process":"ac3_engine_orbis_fn.elf","mods":[{"name":"Inf Health","type":"checkbox","memory":[{"offset":"3593800","on":"668B8BAC00000066898BAA000000E9A3FF5DFE","off":"00000000000000000000000000000000000000"},{"offset":"1B737AF","on":"E94C00A2019090","off":"66898BAA000000"}]},{"name":"Inf Resorces","type":"checkbox","memory":[{"offset":"3593813","on":"B8A0860100894710E9129FA7FD","off":"00000000000000000000000000"},{"offset":"100D72D","on":"E9E1605802","off":"89C8894710"}]}],"credits":["Saso"]}
+{
+  "name": "Assassins Creed® III Remastered",
+  "id": "CUSA11560",
+  "version": "01.03",
+  "process": "ac3_engine_orbis_fn.elf",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3593800",
+          "on": "668B8BAC00000066898BAA000000E9A3FF5DFE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B737AF",
+          "on": "E94C00A2019090",
+          "off": "66898BAA000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Resorces",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3593813",
+          "on": "B8A0860100894710E9129FA7FD",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "100D72D",
+          "on": "E9E1605802",
+          "off": "89C8894710"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

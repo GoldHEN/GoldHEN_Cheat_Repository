@@ -1,1 +1,113 @@
-{"name":"Kingdom Come: Deliverance","id":"CUSA09682","version":"01.04","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"363F800","on":"41C787A40400000000C842C4C17A1097A4040000E9D06078FF","off":"00000000000000000000000000000000000000000000000000"},{"offset":"2DC58E0","on":"E91B9F870090909090","off":"C4C17A1097A4040000"}]},{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"363F819","on":"41C787A80400000000E642C4C17A1087A8040000E9116178FF","off":"00000000000000000000000000000000000000000000000000"},{"offset":"2DC593A","on":"E9DA9E870090909090","off":"C4C17A1087A8040000"}]},{"name":"Infinite Energy","type":"checkbox","memory":[{"offset":"363F832","on":"C783AC0400000000C842C5FA1083AC040000E9534281FF","off":"0000000000000000000000000000000000000000000000"},{"offset":"2E53A94","on":"E999BD7E00909090","off":"C5FA1083AC040000"}]},{"name":"Infinite Nourishment","type":"checkbox","memory":[{"offset":"363F849","on":"C783B00400000000C842C5FA1083B0040000E96C4581FF","off":"0000000000000000000000000000000000000000000000"},{"offset":"2E53DC4","on":"E980BA7E00909090","off":"C5FA1083B0040000"}]},{"name":"0 Weight","type":"checkbox","memory":[{"offset":"2E1C8D1","on":"C4C17A11460C","off":"C4C17A11461C"}]},{"name":"Max Money On Buy/Sell","type":"checkbox","memory":[{"offset":"363F800","on":"B8FFC99A3B894138E9C33071FE","off":"00000000000000000000000000"},{"offset":"1D528CB","on":"E930CF8E01","off":"75088B4138"}]},{"name":"x2 Money/Items on Spend/Drop","type":"checkbox","memory":[{"offset":"1D09F6E","on":"44017B38","off":"44297B38"}]}],"credits":["Rizla"]}
+{
+  "name": "Kingdom Come: Deliverance",
+  "id": "CUSA09682",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "363F800",
+          "on": "41C787A40400000000C842C4C17A1097A4040000E9D06078FF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2DC58E0",
+          "on": "E91B9F870090909090",
+          "off": "C4C17A1097A4040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "363F819",
+          "on": "41C787A80400000000E642C4C17A1087A8040000E9116178FF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2DC593A",
+          "on": "E9DA9E870090909090",
+          "off": "C4C17A1087A8040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "363F832",
+          "on": "C783AC0400000000C842C5FA1083AC040000E9534281FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2E53A94",
+          "on": "E999BD7E00909090",
+          "off": "C5FA1083AC040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Nourishment",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "363F849",
+          "on": "C783B00400000000C842C5FA1083B0040000E96C4581FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2E53DC4",
+          "on": "E980BA7E00909090",
+          "off": "C5FA1083B0040000"
+        }
+      ]
+    },
+    {
+      "name": "0 Weight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2E1C8D1",
+          "on": "C4C17A11460C",
+          "off": "C4C17A11461C"
+        }
+      ]
+    },
+    {
+      "name": "Max Money On Buy/Sell",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "363F800",
+          "on": "B8FFC99A3B894138E9C33071FE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "1D528CB",
+          "on": "E930CF8E01",
+          "off": "75088B4138"
+        }
+      ]
+    },
+    {
+      "name": "x2 Money/Items on Spend/Drop",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D09F6E",
+          "on": "44017B38",
+          "off": "44297B38"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Rizla"
+  ]
+}

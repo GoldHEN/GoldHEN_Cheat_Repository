@@ -1,33 +1,33 @@
 {
-   "name":"mortal kombat Shaolin Monks",
-   "id":"SLUS21087",
-   "version":"01.00",
-   "process":"eboot.bin",
-   "mods":[
-      {
-         "name":"Infinite-Energy",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"8080808928",
-               "on":"FF000000",
-               "off":"FF000000"
-            }
-         ]
-      },
-	  {
-         "name":"Infinite-EXP",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"808082E224",
-               "on":"05F5E0FF",
-               "off":"05F5E0FF"
-            }
-         ]
-      }
-   ],
-   "credits":[
-      "Ali-mk"
-   ]
+  "name": "mortal kombat Shaolin Monks",
+  "id": "SLUS21087",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080808928",
+          "on": "FF000000",
+          "off": "FF000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-EXP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808082E224",
+          "on": "05F5E0FF",
+          "off": "05F5E0FF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

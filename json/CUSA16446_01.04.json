@@ -1,1 +1,82 @@
-{"name":"Gunvolt Chronicles: Luminous Avenger iX","id":"CUSA16446","version":"01.04","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"867F1","on":"740F","off":"750F"}]},{"name":"Infinite EX Weapon Bar","type":"checkbox","memory":[{"offset":"392101","on":"48C1E0048B4C0750894C07408B4C0740E9855CCFFF","off":"000000000000000000000000000000000000000000"},{"offset":"87D93","on":"E969A33000909090","off":"48C1E0048B4C0740"}]},{"name":"Infinite Bullets","type":"checkbox","memory":[{"offset":"81E3C","on":"01C1","off":"29C1"}]},{"name":"Max Exp","type":"checkbox","memory":[{"offset":"8367D","on":"0F4FC6","off":"0F4CC6"}]},{"name":"Max Gold","type":"checkbox","memory":[{"offset":"28DE9","on":"0F4FCF","off":"0F4CCF"}]},{"name":"Infinite SP","type":"checkbox","memory":[{"offset":"8622C","on":"0F4CF2","off":"0F4FF2"}]}],"credits":["d01v"]}
+{
+  "name": "Gunvolt Chronicles: Luminous Avenger iX",
+  "id": "CUSA16446",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "867F1",
+          "on": "740F",
+          "off": "750F"
+        }
+      ]
+    },
+    {
+      "name": "Infinite EX Weapon Bar",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "392101",
+          "on": "48C1E0048B4C0750894C07408B4C0740E9855CCFFF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "87D93",
+          "on": "E969A33000909090",
+          "off": "48C1E0048B4C0740"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Bullets",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81E3C",
+          "on": "01C1",
+          "off": "29C1"
+        }
+      ]
+    },
+    {
+      "name": "Max Exp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8367D",
+          "on": "0F4FC6",
+          "off": "0F4CC6"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28DE9",
+          "on": "0F4FCF",
+          "off": "0F4CCF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite SP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8622C",
+          "on": "0F4CF2",
+          "off": "0F4FF2"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
+}

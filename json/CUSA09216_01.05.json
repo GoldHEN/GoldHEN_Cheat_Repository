@@ -1,1 +1,43 @@
-{"name":"The Sims™ 4","id":"CUSA09216","version":"01.05","process":"eboot.bin","mods":[{"name":"Max Simoleon -Load Your House-","type":"checkbox","memory":[{"offset":"2087800","on":"41838C24E00000001048C7C07F9698004989442430E9C6CA637E","off":"0000000000000000000000000000000000000000000000000000"},{"offset":"806C42DB","on":"E920359C81","off":"4989442430"}]},{"name":"Max Aspiration Points -Load Your House-","type":"checkbox","memory":[{"offset":"208781A","on":"41838FF400000020B89F86010041894740E93A33687E","off":"00000000000000000000000000000000000000000000"},{"offset":"8070AB5E","on":"E9B7CC978190909090909090","off":"41838FF40000002041894740"}]}],"credits":["Molly"]}
+{
+  "name": "The Sims™ 4",
+  "id": "CUSA09216",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Simoleon -Load Your House-",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2087800",
+          "on": "41838C24E00000001048C7C07F9698004989442430E9C6CA637E",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "806C42DB",
+          "on": "E920359C81",
+          "off": "4989442430"
+        }
+      ]
+    },
+    {
+      "name": "Max Aspiration Points -Load Your House-",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "208781A",
+          "on": "41838FF400000020B89F86010041894740E93A33687E",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8070AB5E",
+          "on": "E9B7CC978190909090909090",
+          "off": "41838FF40000002041894740"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

@@ -1,1 +1,200 @@
-{"name":"Wolfenstein: Youngblood","id":"CUSA13094","version":"01.06","process":"eboot.bin","mods":[{"name":"Easy Kills","type":"checkbox","memory":[{"offset":"E6ED02","on":"C5F82EC0","off":"C5F82EC8"}]},{"name":"Enemy Armor Easy To Destroy","type":"checkbox","memory":[{"offset":"E6EB2F","on":"E96702000090","off":"0F8366020000"}]},{"name":"God Mode","type":"checkbox","memory":[{"offset":"ED78E0","on":"C3","off":"55"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"01213D20","on":"E91D01000090","off":"0F841C010000"}]},{"name":"Infinite Share Lives","type":"checkbox","memory":[{"offset":"036946D0","on":"C68010080000038B8010080000E939D9A8FD","off":"000000000000000000000000000000000000"},{"offset":"01122015","on":"E9B626570290","off":"8B8010080000"}]},{"name":"Max Skill Points","type":"checkbox","memory":[{"offset":"03694550","on":"488B0F89F0C74118E7030000E98BBE1EFD","off":"0000000000000000000000000000000000"},{"offset":"8803E7","on":"E96441E102","off":"488B0F89F0"}]},{"name":"Undetected By Enemy","type":"checkbox","memory":[{"offset":"81335E","on":"C5FA5DC190909090","off":"C5FA5D0556DB1D02"}]},{"name":"Infinite Cloack","type":"checkbox","memory":[{"offset":"03694580","on":"41C78424442600000000803FE999A9AAFD","off":"0000000000000000000000000000000000"},{"offset":"0113EF20","on":"E95B5655029090909090","off":"C4C17A11842444260000"}]},{"name":"Cloack Fast Recharge","type":"checkbox","memory":[{"offset":"0113EF10","on":"C5F258C1","off":"C5F258C0"}]},{"name":"Instant Level Up When Get EXP","type":"checkbox","memory":[{"offset":"036945F0","on":"4863CE83F96D7408891488E920452DFD81C2A8610000891488E912452DFD","off":"000000000000000000000000000000000000000000000000000000000000"},{"offset":"968B1A","on":"E9D1BAD20290","off":"4863CE891488"}]},{"name":"Level 30 ( Dont Lock )","type":"checkbox","memory":[{"offset":"036945B0","on":"4863C683FE6D74088B0481E9E5452DFDC781B4010000A0050800E9D6452DFD","off":"00000000000000000000000000000000000000000000000000000000000000"},{"offset":"968B9F","on":"E90CBAD20290","off":"4863C68B0481"}]},{"name":"Multiple Jump","type":"checkbox","memory":[{"offset":"523C83","on":"E99102000090","off":"0F8490020000"}]},{"name":"No Gravity ( ON )","type":"checkbox","memory":[{"offset":"03694630","on":"C5FA10ABFC120000C783FC120000CDCC4CBFE942BDE8FC","off":"0000000000000000000000000000000000000000000000"},{"offset":"520381","on":"E9AA421703909090","off":"C5FA10ABFC120000"}]},{"name":"No Gravity ( OFF )","type":"checkbox","memory":[{"offset":"03694660","on":"C5FA10ABFC120000C783FC120000000080C1E912BDE8FC","off":"0000000000000000000000000000000000000000000000"},{"offset":"520381","on":"E9DA421703909090","off":"C5FA10ABFC120000"}]}],"credits":["Gatot Kaca And k0song"]}
+{
+  "name": "Wolfenstein: Youngblood",
+  "id": "CUSA13094",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Easy Kills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E6ED02",
+          "on": "C5F82EC0",
+          "off": "C5F82EC8"
+        }
+      ]
+    },
+    {
+      "name": "Enemy Armor Easy To Destroy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E6EB2F",
+          "on": "E96702000090",
+          "off": "0F8366020000"
+        }
+      ]
+    },
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "ED78E0",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "01213D20",
+          "on": "E91D01000090",
+          "off": "0F841C010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Share Lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "036946D0",
+          "on": "C68010080000038B8010080000E939D9A8FD",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "01122015",
+          "on": "E9B626570290",
+          "off": "8B8010080000"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "03694550",
+          "on": "488B0F89F0C74118E7030000E98BBE1EFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "8803E7",
+          "on": "E96441E102",
+          "off": "488B0F89F0"
+        }
+      ]
+    },
+    {
+      "name": "Undetected By Enemy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81335E",
+          "on": "C5FA5DC190909090",
+          "off": "C5FA5D0556DB1D02"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Cloack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "03694580",
+          "on": "41C78424442600000000803FE999A9AAFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "0113EF20",
+          "on": "E95B5655029090909090",
+          "off": "C4C17A11842444260000"
+        }
+      ]
+    },
+    {
+      "name": "Cloack Fast Recharge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "0113EF10",
+          "on": "C5F258C1",
+          "off": "C5F258C0"
+        }
+      ]
+    },
+    {
+      "name": "Instant Level Up When Get EXP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "036945F0",
+          "on": "4863CE83F96D7408891488E920452DFD81C2A8610000891488E912452DFD",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "968B1A",
+          "on": "E9D1BAD20290",
+          "off": "4863CE891488"
+        }
+      ]
+    },
+    {
+      "name": "Level 30 ( Dont Lock )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "036945B0",
+          "on": "4863C683FE6D74088B0481E9E5452DFDC781B4010000A0050800E9D6452DFD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "968B9F",
+          "on": "E90CBAD20290",
+          "off": "4863C68B0481"
+        }
+      ]
+    },
+    {
+      "name": "Multiple Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "523C83",
+          "on": "E99102000090",
+          "off": "0F8490020000"
+        }
+      ]
+    },
+    {
+      "name": "No Gravity ( ON )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "03694630",
+          "on": "C5FA10ABFC120000C783FC120000CDCC4CBFE942BDE8FC",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "520381",
+          "on": "E9AA421703909090",
+          "off": "C5FA10ABFC120000"
+        }
+      ]
+    },
+    {
+      "name": "No Gravity ( OFF )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "03694660",
+          "on": "C5FA10ABFC120000C783FC120000000080C1E912BDE8FC",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "520381",
+          "on": "E9DA421703909090",
+          "off": "C5FA10ABFC120000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Gatot Kaca And k0song"
+  ]
+}

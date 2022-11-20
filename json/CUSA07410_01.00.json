@@ -1,1 +1,166 @@
-{"name":"God of War","id":"CUSA07410","version":"01.00","process":"eboot.bin","mods":[{"name":"Invincible Player (No Damage)","type":"checkbox","memory":[{"offset":"54A0D0","on":"B00190909090","off":"8A05942DED01"}]},{"name":"Max and Infinite Bow Arrows","type":"checkbox","memory":[{"offset":"C58F60","on":"C5EA5FC34181FB011000007409C5FA5DDCE97BE588FF4183FE0075F14183FC0075EBF30F10DCE966E588FF","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"4E74E9","on":"E9721A7700909090","off":"C5EA5FC3C5FA5DDC"}]},{"name":"Max and Infinite XP,HS,Resources When Get or Spend","type":"checkbox","memory":[{"offset":"C38690","on":"4183FDFF740D4181FEFFFFFF7F7507C743303F420F00488B4B288B4330E9A7EDCCFF","off":"00000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"90744C","on":"E93F1233009090","off":"488B4B288B4330"}]},{"name":"Max and Infinite XP,HS,Resources When Get or Spend Includes Max Labours Resources When Get","type":"checkbox","memory":[{"offset":"C38690","on":"4183FDFF740D4181FEFFFFFF7F741044897330488B4B288B4330E9A4EDCCFFC743303F420F00EBEB","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"90744C","on":"E93F1233009090","off":"488B4B288B4330"}]},{"name":"Max and Infinite Rage when Transfer","type":"checkbox","memory":[{"offset":"C5922F","on":"4183FD0375384183FB0175325348BB00000000C00F00004939DA751248C7C30000FA43C4E1F96EC35B0F5BC0EB1548BB01000000C00F00004939DA74DF5BC5F82845C0E9548FC5FF9090","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"8B21C6","on":"E964703A00","off":"C5F82845C0"}]},{"name":"Max and Infinite Rage when Get or Hit","type":"checkbox","memory":[{"offset":"C59279","on":"4881FEC000000074204881FEA000000074174983F90175064983F800740BC4C17A5D5530E99655B6FF5348C7C30000FA43C4E1F96EC35B0F5BC0F30F10D0EBE4","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"7BE832","on":"E942AA490090","off":"C4C17A5D5530"}]},{"name":"1 Hit Kills","type":"checkbox","memory":[{"offset":"E07800","on":"41817E200000803F720A41C746200000803FEB0841C7462000000000C4C17A104620E9299C75FF","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"56144A","on":"E9B1638A0090","off":"C4C17A104620"}]},{"name":"No Cooldown","type":"checkbox","memory":[{"offset":"E07827","on":"41C7474800000000C4C17A104748E9EB4C91FF","off":"00000000000000000000000000000000000000"},{"offset":"71C51F","on":"E903B36E0090","off":"C4C17A104748"}]},{"name":"Max Stats/Rank on Item Change","type":"checkbox","memory":[{"offset":"E0783A","on":"41C78482C04C00000080A243C4C17A108482C04C0000E9AF26B1FF","off":"000000000000000000000000000000000000000000000000000000"},{"offset":"919EFA","on":"E93BD94E009090909090","off":"C4C17A118482C04C0000"}]},{"name":"Max XP/Hacksilver/Resources","type":"checkbox","memory":[{"offset":"E07855","on":"41C74436307F969800418B443630E98ECCA9FF","off":"00000000000000000000000000000000000000"},{"offset":"8A44F0","on":"E96033560090","off":"41837C363000"}]}],"credits":["FBML, Rizla, TLH"]}
+{
+  "name": "God of War",
+  "id": "CUSA07410",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible Player (No Damage)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "54A0D0",
+          "on": "B00190909090",
+          "off": "8A05942DED01"
+        }
+      ]
+    },
+    {
+      "name": "Max and Infinite Bow Arrows",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C58F60",
+          "on": "C5EA5FC34181FB011000007409C5FA5DDCE97BE588FF4183FE0075F14183FC0075EBF30F10DCE966E588FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4E74E9",
+          "on": "E9721A7700909090",
+          "off": "C5EA5FC3C5FA5DDC"
+        }
+      ]
+    },
+    {
+      "name": "Max and Infinite XP,HS,Resources When Get or Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C38690",
+          "on": "4183FDFF740D4181FEFFFFFF7F7507C743303F420F00488B4B288B4330E9A7EDCCFF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "90744C",
+          "on": "E93F1233009090",
+          "off": "488B4B288B4330"
+        }
+      ]
+    },
+    {
+      "name": "Max and Infinite XP,HS,Resources When Get or Spend Includes Max Labours Resources When Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C38690",
+          "on": "4183FDFF740D4181FEFFFFFF7F741044897330488B4B288B4330E9A4EDCCFFC743303F420F00EBEB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "90744C",
+          "on": "E93F1233009090",
+          "off": "488B4B288B4330"
+        }
+      ]
+    },
+    {
+      "name": "Max and Infinite Rage when Transfer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C5922F",
+          "on": "4183FD0375384183FB0175325348BB00000000C00F00004939DA751248C7C30000FA43C4E1F96EC35B0F5BC0EB1548BB01000000C00F00004939DA74DF5BC5F82845C0E9548FC5FF9090",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8B21C6",
+          "on": "E964703A00",
+          "off": "C5F82845C0"
+        }
+      ]
+    },
+    {
+      "name": "Max and Infinite Rage when Get or Hit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C59279",
+          "on": "4881FEC000000074204881FEA000000074174983F90175064983F800740BC4C17A5D5530E99655B6FF5348C7C30000FA43C4E1F96EC35B0F5BC0F30F10D0EBE4",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7BE832",
+          "on": "E942AA490090",
+          "off": "C4C17A5D5530"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E07800",
+          "on": "41817E200000803F720A41C746200000803FEB0841C7462000000000C4C17A104620E9299C75FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "56144A",
+          "on": "E9B1638A0090",
+          "off": "C4C17A104620"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E07827",
+          "on": "41C7474800000000C4C17A104748E9EB4C91FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "71C51F",
+          "on": "E903B36E0090",
+          "off": "C4C17A104748"
+        }
+      ]
+    },
+    {
+      "name": "Max Stats/Rank on Item Change",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E0783A",
+          "on": "41C78482C04C00000080A243C4C17A108482C04C0000E9AF26B1FF",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "919EFA",
+          "on": "E93BD94E009090909090",
+          "off": "C4C17A118482C04C0000"
+        }
+      ]
+    },
+    {
+      "name": "Max XP/Hacksilver/Resources",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E07855",
+          "on": "41C74436307F969800418B443630E98ECCA9FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8A44F0",
+          "on": "E96033560090",
+          "off": "41837C363000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "FBML, Rizla, TLH"
+  ]
+}

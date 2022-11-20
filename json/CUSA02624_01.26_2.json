@@ -1,1 +1,136 @@
-{"name":"COD: Black Ops III","id":"CUSA02624","version":"01.26","process":"eboot.bin","mods":[{"name":"All Client Godmode","type":"checkbox","memory":[{"offset":"99bf80","on":"C3","off":"55"}]},{"name":"All Client Demi Godmode","type":"checkbox","memory":[{"offset":"99d06f","on":"9090909090909090","off":"43898435C8020000"}]},{"name":"All Client Infinite Ammo","type":"checkbox","memory":[{"offset":"11719da","on":"909090","off":"448928"},{"offset":"9a7dd8","on":"9090","off":"8918"}]},{"name":"Bypass Death Barriers","type":"checkbox","memory":[{"offset":"144f843","on":"C783CC020000FFFFFF7F8B83CC0200008983C8020000E9C72652FF","off":"000000000000000000000000000000000000000000000000000000"},{"offset":"971f1f","on":"E91FD9AD0090","off":"8B83C8020000"}]},{"name":"Infinite Jetpack","type":"checkbox","memory":[{"offset":"56abdc","on":"9090909090909090","off":"C5FA118384080000"},{"offset":"56a63c","on":"9090909090909090","off":"C5FA118084080000"}]},{"name":"Super Jump","type":"checkbox","memory":[{"offset":"1293570","on":"00C07944","off":"00001C42"}]},{"name":"Player 1 Give Points (Zombies)","type":"button","memory":[{"offset":"8050a94","on":"90D00300","off":"90D00300"}]},{"name":"Player 2 Give Points (Zombies)","type":"button","memory":[{"offset":"8067ca4","on":"90D00300","off":"90D00300"}]},{"name":"Player 3 Give Points (Zombies)","type":"button","memory":[{"offset":"807eeb4","on":"90D00300","off":"90D00300"}]},{"name":"Player 4 Give Points (Zombies)","type":"button","memory":[{"offset":"80960c4","on":"90D00300","off":"90D00300"}]}],"credits":["DeathRGH"]}
+{
+  "name": "COD: Black Ops III",
+  "id": "CUSA02624",
+  "version": "01.26",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "All Client Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "99bf80",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    },
+    {
+      "name": "All Client Demi Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "99d06f",
+          "on": "9090909090909090",
+          "off": "43898435C8020000"
+        }
+      ]
+    },
+    {
+      "name": "All Client Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11719da",
+          "on": "909090",
+          "off": "448928"
+        },
+        {
+          "offset": "9a7dd8",
+          "on": "9090",
+          "off": "8918"
+        }
+      ]
+    },
+    {
+      "name": "Bypass Death Barriers",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "144f843",
+          "on": "C783CC020000FFFFFF7F8B83CC0200008983C8020000E9C72652FF",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "971f1f",
+          "on": "E91FD9AD0090",
+          "off": "8B83C8020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jetpack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "56abdc",
+          "on": "9090909090909090",
+          "off": "C5FA118384080000"
+        },
+        {
+          "offset": "56a63c",
+          "on": "9090909090909090",
+          "off": "C5FA118084080000"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1293570",
+          "on": "00C07944",
+          "off": "00001C42"
+        }
+      ]
+    },
+    {
+      "name": "Player 1 Give Points (Zombies)",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "8050a94",
+          "on": "90D00300",
+          "off": "90D00300"
+        }
+      ]
+    },
+    {
+      "name": "Player 2 Give Points (Zombies)",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "8067ca4",
+          "on": "90D00300",
+          "off": "90D00300"
+        }
+      ]
+    },
+    {
+      "name": "Player 3 Give Points (Zombies)",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "807eeb4",
+          "on": "90D00300",
+          "off": "90D00300"
+        }
+      ]
+    },
+    {
+      "name": "Player 4 Give Points (Zombies)",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "80960c4",
+          "on": "90D00300",
+          "off": "90D00300"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

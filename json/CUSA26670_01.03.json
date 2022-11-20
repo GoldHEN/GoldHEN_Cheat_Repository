@@ -1,1 +1,70 @@
-{"name":"The Smurfs Mission Vileaf","id":"CUSA26670","version":"01.03","process":"eboot.bin","mods":[{"name":"Infinite Hearts","type":"checkbox","memory":[{"offset":"1000320","on":"C5FA1087FC010000C5FA1187F8010000E9251E6AFF","off":"000000000000000000000000000000000000000000"},{"offset":"6A2152","on":"E9C9E19500909090","off":"C5FA1187F8010000"}]},{"name":"Max Seeds on Gain","type":"checkbox","memory":[{"offset":"10003F0","on":"BF280A000041C746287F969800E90FB972FF","off":"000000000000000000000000000000000000"},{"offset":"72BD08","on":"E9E3468D0090909090","off":"BF280A000041894628"}]},{"name":"Infinite Smurfizer","type":"checkbox","memory":[{"offset":"10004F0","on":"41C7854C0100000000FA43E9C01F80FF","off":"00000000000000000000000000000000"},{"offset":"8024B7","on":"E934E07F0090909090","off":"C4C17A11854C010000"}]},{"name":"Extra Boxes on Gain (May cause freeze)","type":"checkbox","memory":[{"offset":"72CD2B","on":"45012E","off":"45892E"}]}],"credits":["TylerMods_9.00"]}
+{
+  "name": "The Smurfs Mission Vileaf",
+  "id": "CUSA26670",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Hearts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1000320",
+          "on": "C5FA1087FC010000C5FA1187F8010000E9251E6AFF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6A2152",
+          "on": "E9C9E19500909090",
+          "off": "C5FA1187F8010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Seeds on Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10003F0",
+          "on": "BF280A000041C746287F969800E90FB972FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "72BD08",
+          "on": "E9E3468D0090909090",
+          "off": "BF280A000041894628"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Smurfizer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10004F0",
+          "on": "41C7854C0100000000FA43E9C01F80FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8024B7",
+          "on": "E934E07F0090909090",
+          "off": "C4C17A11854C010000"
+        }
+      ]
+    },
+    {
+      "name": "Extra Boxes on Gain (May cause freeze)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "72CD2B",
+          "on": "45012E",
+          "off": "45892E"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TylerMods_9.00"
+  ]
+}

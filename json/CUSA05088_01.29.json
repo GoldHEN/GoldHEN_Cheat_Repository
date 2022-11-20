@@ -1,1 +1,129 @@
-{"name":"DRAGON BALL XENOVERSE 2","id":"CUSA05088","version":"01.29","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"2A7761F","on":"C4C17A1087E800000041807F3C007512C5FA5CC1C4C17A1087EC000000E98E0563FDC5FA5CC1E9850563FD","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"A7BC2","on":"E958FA9C029090909090909090","off":"C4C17A1087E8000000C5FA5CC1"}]},{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"2A77650","on":"C4C17A108658010000C4C17A11865401000090E9B50863FD","off":"000000000000000000000000000000000000000000000000"},{"offset":"A7F14","on":"E937F79C0290909090","off":"C4C17A118654010000"}]},{"name":"Infinite Ki","type":"checkbox","memory":[{"offset":"2A77670","on":"C4C17A1086F8000000C4C17A1186F400000090E93F6761FD","off":"000000000000000000000000000000000000000000000000"},{"offset":"8DDBE","on":"E9AD989E0290909090","off":"C4C17A1186F4000000"}]},{"name":"1 Hit Kill (Parallel Quest)","type":"checkbox","memory":[{"offset":"2A77704","on":"C5E857D24180BF740200000074274180BF8402000000741D4180BFA40200000075134180BFD40200000075094585F6E9860463FD9041C787E8000000000000004585F6E9720463FD","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"A7BB7","on":"E948FB9C029090","off":"C5E857D24585F6"}]},{"name":"99 item / sell","type":"checkbox","memory":[{"offset":"83D3D2","on":"B063","off":"29C8"}]},{"name":"Max Zeni","type":"checkbox","memory":[{"offset":"83A16F","on":"B800CA9A3B","off":"3D00CA9A3B"}]},{"name":"Max TP","type":"checkbox","memory":[{"offset":"2A77690","on":"C747708861263A8B4F70894F6C394F6C90E9342BDCFD","off":"00000000000000000000000000000000000000000000"},{"offset":"83A1D4","on":"E9B7D4230290","off":"8B4F70394F6C"}]},{"name":"+100 Attribute Points","type":"checkbox","memory":[{"offset":"2A776B0","on":"B89088BD01894718894714E94309DCFD","off":"00000000000000000000000000000000"},{"offset":"837FFD","on":"E9AEF6230290","off":"894718894714"}]}],"credits":["d01v_9.00"]}
+{
+  "name": "DRAGON BALL XENOVERSE 2",
+  "id": "CUSA05088",
+  "version": "01.29",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A7761F",
+          "on": "C4C17A1087E800000041807F3C007512C5FA5CC1C4C17A1087EC000000E98E0563FDC5FA5CC1E9850563FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A7BC2",
+          "on": "E958FA9C029090909090909090",
+          "off": "C4C17A1087E8000000C5FA5CC1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A77650",
+          "on": "C4C17A108658010000C4C17A11865401000090E9B50863FD",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A7F14",
+          "on": "E937F79C0290909090",
+          "off": "C4C17A118654010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ki",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A77670",
+          "on": "C4C17A1086F8000000C4C17A1186F400000090E93F6761FD",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8DDBE",
+          "on": "E9AD989E0290909090",
+          "off": "C4C17A1186F4000000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (Parallel Quest)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A77704",
+          "on": "C5E857D24180BF740200000074274180BF8402000000741D4180BFA40200000075134180BFD40200000075094585F6E9860463FD9041C787E8000000000000004585F6E9720463FD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A7BB7",
+          "on": "E948FB9C029090",
+          "off": "C5E857D24585F6"
+        }
+      ]
+    },
+    {
+      "name": "99 item / sell",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83D3D2",
+          "on": "B063",
+          "off": "29C8"
+        }
+      ]
+    },
+    {
+      "name": "Max Zeni",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83A16F",
+          "on": "B800CA9A3B",
+          "off": "3D00CA9A3B"
+        }
+      ]
+    },
+    {
+      "name": "Max TP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A77690",
+          "on": "C747708861263A8B4F70894F6C394F6C90E9342BDCFD",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "83A1D4",
+          "on": "E9B7D4230290",
+          "off": "8B4F70394F6C"
+        }
+      ]
+    },
+    {
+      "name": "+100 Attribute Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A776B0",
+          "on": "B89088BD01894718894714E94309DCFD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "837FFD",
+          "on": "E9AEF6230290",
+          "off": "894718894714"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v_9.00"
+  ]
+}

@@ -1,1 +1,76 @@
-{"name":"Aliens: Fireteam Elite (PS4)","id":"CUSA27462","version":"01.32","process":"eboot.bin","mods":[{"name":"Infinite First Aid kit","type":"checkbox","memory":[{"offset":"F38BC2","on":"909090909090","off":"FF8B400C0000"}]},{"name":"Infinite Ammo/No reolad","type":"checkbox","memory":[{"offset":"5F0FAF0","on":"C783D4070000E7030000B8630000008983DC070000E9F9AD2DFB","off":"0000000000000000000000000000000000000000000000000000"},{"offset":"11EA8FD","on":"E9EE51D20490","off":"8983DC070000"}]},{"name":"Max Currency (on spend)","type":"checkbox","memory":[{"offset":"5F0FB20","on":"41C74424089F860100E924B8F4FA","off":"0000000000000000000000000000"},{"offset":"E5B34D","on":"E9CE470B05","off":"4189442408"}]},{"name":"Infinite Consumables 2 (Turrets and special ammo uses)","type":"checkbox","memory":[{"offset":"F38BFC","on":"90909090909090","off":"83BB400C000000"}]},{"name":"Infinite Consumables 1 (Turrets and special ammo uses)","type":"checkbox","memory":[{"offset":"F38B9D","on":"90909090909090","off":"83BB400C000000"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Aliens: Fireteam Elite (PS4)",
+  "id": "CUSA27462",
+  "version": "01.32",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite First Aid kit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F38BC2",
+          "on": "909090909090",
+          "off": "FF8B400C0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/No reolad",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F0FAF0",
+          "on": "C783D4070000E7030000B8630000008983DC070000E9F9AD2DFB",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "11EA8FD",
+          "on": "E9EE51D20490",
+          "off": "8983DC070000"
+        }
+      ]
+    },
+    {
+      "name": "Max Currency (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F0FB20",
+          "on": "41C74424089F860100E924B8F4FA",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "E5B34D",
+          "on": "E9CE470B05",
+          "off": "4189442408"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Consumables 2 (Turrets and special ammo uses)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F38BFC",
+          "on": "90909090909090",
+          "off": "83BB400C000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Consumables 1 (Turrets and special ammo uses)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F38B9D",
+          "on": "90909090909090",
+          "off": "83BB400C000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

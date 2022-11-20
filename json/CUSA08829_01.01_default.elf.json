@@ -16,7 +16,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Infinite Reload Ammo",
       "hint": null,
       "type": "checkbox",
@@ -28,7 +28,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Infinite Grenades",
       "hint": null,
       "type": "checkbox",
@@ -40,7 +40,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Godmode",
       "hint": null,
       "type": "checkbox",
@@ -52,7 +52,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Death-Barrier Godmode",
       "hint": null,
       "type": "checkbox",
@@ -64,7 +64,7 @@
         }
       ]
     },
-	{
+    {
       "name": "No Recoil",
       "hint": null,
       "type": "checkbox",

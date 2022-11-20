@@ -1,1 +1,158 @@
-{"name":"Ratchet & Clank™","id":"CUSA01073","version":"01.09","process":"eboot.bin","mods":[{"name":"Mastercode ( must be activated )","type":"checkbox","memory":[{"offset":"350B900","on":"81FCF09AFFEE750A45897C2418E9C216B1FD81FC809BFFEE750A45897C2418E9B016B1FD81FC30A0FFEE750A45897C2418E99E16B1FD45897C2418E99416B1FD41C7442418FFC99A3BC341C74424183F420F00C341C74424181C000000C3","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"101CFCF","on":"E92CE94E02","off":"45897C2418"}]},{"name":"Max Bolts [MC] ( on gain )","type":"checkbox","memory":[{"offset":"350B908","on":"E833000000","off":"45897C2418"}]},{"name":"Max Raritanium [MC] ( on gain )","type":"checkbox","memory":[{"offset":"350B91A","on":"E82B000000","off":"45897C2418"}]},{"name":"28 Gold Bolts [MC] ( collect 1 to unlock Debug Menu )","type":"checkbox","memory":[{"offset":"350B92C","on":"E823000000","off":"45897C2418"}]},{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"350B970","on":"41C785C00300000000A041C4C17A108DC0030000E938B2D8FC","off":"00000000000000000000000000000000000000000000000000"},{"offset":"296BB8","on":"E9B34D270390909090","off":"C4C17A108DC0030000"}]},{"name":"Invincibility ","type":"checkbox","memory":[{"offset":"EDEA0B","on":"9090909090909090","off":"C5F82E81C0030000"}]},{"name":"One Hit Kill + Invisible","type":"checkbox","memory":[{"offset":"EDEA0B","on":"9090909090909090","off":"C5F82E81C0030000"},{"offset":"350B990","on":"C787C00300000000803FC5FA1087C0030000E9318AADFD","off":"0000000000000000000000000000000000000000000000"},{"offset":"FE43D0","on":"E9BB755202909090","off":"C5FA1087C0030000"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"4BB208","on":"C5FA5FC1","off":"C5FA5DC1"}]},{"name":"Infinite Air under Water","type":"checkbox","memory":[{"offset":"35A744","on":"C783000100000000C842","off":"C5FA1183000100007761"}]},{"name":"Infinite Jet Pack","type":"checkbox","memory":[{"offset":"421C5E","on":"41C7874C0400000000704290909090909090","off":"C4C17A11A74C040000C4C178108F38040000"}]},{"name":"Infinite Hoverboard Boost","type":"checkbox","memory":[{"offset":"350B9A0","on":"41C786B8010000CDCC8C3FC4C17A108EB8010000E9334FE7FC","off":"00000000000000000000000000000000000000000000000000"},{"offset":"3808E3","on":"E9B8B0180390909090","off":"C4C17A108EB8010000"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "Ratchet & Clank™",
+  "id": "CUSA01073",
+  "version": "01.09",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Mastercode ( must be activated )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "350B900",
+          "on": "81FCF09AFFEE750A45897C2418E9C216B1FD81FC809BFFEE750A45897C2418E9B016B1FD81FC30A0FFEE750A45897C2418E99E16B1FD45897C2418E99416B1FD41C7442418FFC99A3BC341C74424183F420F00C341C74424181C000000C3",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "101CFCF",
+          "on": "E92CE94E02",
+          "off": "45897C2418"
+        }
+      ]
+    },
+    {
+      "name": "Max Bolts [MC] ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "350B908",
+          "on": "E833000000",
+          "off": "45897C2418"
+        }
+      ]
+    },
+    {
+      "name": "Max Raritanium [MC] ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "350B91A",
+          "on": "E82B000000",
+          "off": "45897C2418"
+        }
+      ]
+    },
+    {
+      "name": "28 Gold Bolts [MC] ( collect 1 to unlock Debug Menu )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "350B92C",
+          "on": "E823000000",
+          "off": "45897C2418"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "350B970",
+          "on": "41C785C00300000000A041C4C17A108DC0030000E938B2D8FC",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "296BB8",
+          "on": "E9B34D270390909090",
+          "off": "C4C17A108DC0030000"
+        }
+      ]
+    },
+    {
+      "name": "Invincibility ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "EDEA0B",
+          "on": "9090909090909090",
+          "off": "C5F82E81C0030000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill + Invisible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "EDEA0B",
+          "on": "9090909090909090",
+          "off": "C5F82E81C0030000"
+        },
+        {
+          "offset": "350B990",
+          "on": "C787C00300000000803FC5FA1087C0030000E9318AADFD",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "FE43D0",
+          "on": "E9BB755202909090",
+          "off": "C5FA1087C0030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4BB208",
+          "on": "C5FA5FC1",
+          "off": "C5FA5DC1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Air under Water",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "35A744",
+          "on": "C783000100000000C842",
+          "off": "C5FA1183000100007761"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jet Pack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "421C5E",
+          "on": "41C7874C0400000000704290909090909090",
+          "off": "C4C17A11A74C040000C4C178108F38040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Hoverboard Boost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "350B9A0",
+          "on": "41C786B8010000CDCC8C3FC4C17A108EB8010000E9334FE7FC",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3808E3",
+          "on": "E9B8B0180390909090",
+          "off": "C4C17A108EB8010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

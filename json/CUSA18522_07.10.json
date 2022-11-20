@@ -1,1 +1,123 @@
-{"name":"Assassin's Creed® Valhalla","id":"CUSA18522","version":"07.10","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"62ABD00","on":"C7873801000054010000E9F99033FC","off":"000000000000000000000000000000"},{"offset":"25E4E02","on":"E9F96ECC0390","off":"899738010000"}]},{"name":"Endurance Instant Refill","type":"checkbox","memory":[{"offset":"7FC5F5D0","on":"C4C17A114F0CE9A5D2E282","off":"0000000000000000000000"},{"offset":"2A8C87A","on":"E9512D1D7D90","off":"C4C17A11470C"}]},{"name":"Infinite Air","type":"checkbox","memory":[{"offset":"7FC5D3B0","on":"C5FA108084060000E9766CAD84","off":"00000000000000000000000000"},{"offset":"473402B","on":"E98093527B909090","off":"C5FA118084060000"}]},{"name":"Max/Infinite Resources/Consumables//Arrows/Money(On Use/Buy)","type":"checkbox","memory":[{"offset":"7FC5F350","on":"0F42C141C704247F969800E9C40BF182","off":"00000000000000000000000000000000"},{"offset":"2B6FF1D","on":"E92EF40E7D9090","off":"0F42C141890424"}]},{"name":"Instant Max/Infinite Adrenaline On Use/Gain","type":"checkbox","memory":[{"offset":"7FC5F630","on":"41C78740010000F4010000E98EB29782","off":"00000000000000000000000000000000"},{"offset":"25DA8C7","on":"E9644D687D9090","off":"41899F40010000"}]},{"name":"Max/Infinite Skill Points On Gain","type":"checkbox","memory":[{"offset":"7FC5DE10","on":"410F47DDC74110E7030000E90A94DA82","off":"00000000000000000000000000000000"},{"offset":"2A07223","on":"E9E86B257D9090","off":"410F47DD895910"}]},{"name":"Max/Infinite Mastery Points On Gain","type":"checkbox","memory":[{"offset":"7FC5F8C0","on":"410F47DDC74118E7030000E90E79DA82","off":"00000000000000000000000000000000"},{"offset":"2A071D7","on":"E9E486257D9090","off":"410F47DD895918"}]}],"credits":["Celogamez"]}
+{
+  "name": "Assassin's Creed® Valhalla",
+  "id": "CUSA18522",
+  "version": "07.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "62ABD00",
+          "on": "C7873801000054010000E9F99033FC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "25E4E02",
+          "on": "E9F96ECC0390",
+          "off": "899738010000"
+        }
+      ]
+    },
+    {
+      "name": "Endurance Instant Refill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F5D0",
+          "on": "C4C17A114F0CE9A5D2E282",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "2A8C87A",
+          "on": "E9512D1D7D90",
+          "off": "C4C17A11470C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Air",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5D3B0",
+          "on": "C5FA108084060000E9766CAD84",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "473402B",
+          "on": "E98093527B909090",
+          "off": "C5FA118084060000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Resources/Consumables//Arrows/Money(On Use/Buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F350",
+          "on": "0F42C141C704247F969800E9C40BF182",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2B6FF1D",
+          "on": "E92EF40E7D9090",
+          "off": "0F42C141890424"
+        }
+      ]
+    },
+    {
+      "name": "Instant Max/Infinite Adrenaline On Use/Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F630",
+          "on": "41C78740010000F4010000E98EB29782",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "25DA8C7",
+          "on": "E9644D687D9090",
+          "off": "41899F40010000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Skill Points On Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5DE10",
+          "on": "410F47DDC74110E7030000E90A94DA82",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2A07223",
+          "on": "E9E86B257D9090",
+          "off": "410F47DD895910"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Mastery Points On Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F8C0",
+          "on": "410F47DDC74118E7030000E90E79DA82",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2A071D7",
+          "on": "E9E486257D9090",
+          "off": "410F47DD895918"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

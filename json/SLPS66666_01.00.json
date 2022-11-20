@@ -1,44 +1,44 @@
 {
-   "name":"Metal Slug 4",
-   "id":"SLPS66666",
-   "version":"01.00",
-   "process":"eboot.bin",
-   "mods":[
-      {
-         "name":"Inf-Health",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"80801A6B14",
-               "on":"FFF00000",
-               "off":"FFF00000"
-            }
-         ]
-      },
-	  {
-         "name":"Inf-lives-99",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"807FD5C3FC",
-               "on":"63000000",
-               "off":"63000000"
-            }
-         ]
-      },
-	  {
-         "name":"Inf-credits-99",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"807FD530B8",
-               "on":"63000000",
-               "off":"63000000"
-            }
-         ]
-      }
-   ],
-   "credits":[
-      "Ali-mk"
-   ]
+  "name": "Metal Slug 4",
+  "id": "SLPS66666",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80801A6B14",
+          "on": "FFF00000",
+          "off": "FFF00000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-lives-99",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FD5C3FC",
+          "on": "63000000",
+          "off": "63000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-credits-99",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FD530B8",
+          "on": "63000000",
+          "off": "63000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

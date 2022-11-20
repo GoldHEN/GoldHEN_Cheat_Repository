@@ -1,1 +1,55 @@
-{"name":"Bayonetta","id":"CUSA16163","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite Rings","type":"checkbox","memory":[{"offset":"147E85","on":"909090909090","off":"898FA4F00000"}]},{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"70D590","on":"909090909090","off":"89B3E84D0900"}]},{"name":"Infinite Items","type":"checkbox","memory":[{"offset":"8FEB74","on":"9090909090909090","off":"43898CBEB8F00000"}]},{"name":"Infinite Magic","type":"checkbox","memory":[{"offset":"147FA0","on":"9090909090909090","off":"C5FA11809CF00000"}]}],"credits":["AhmadCH"]}
+{
+  "name": "Bayonetta",
+  "id": "CUSA16163",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Rings",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "147E85",
+          "on": "909090909090",
+          "off": "898FA4F00000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "70D590",
+          "on": "909090909090",
+          "off": "89B3E84D0900"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8FEB74",
+          "on": "9090909090909090",
+          "off": "43898CBEB8F00000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "147FA0",
+          "on": "9090909090909090",
+          "off": "C5FA11809CF00000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "AhmadCH"
+  ]
+}

@@ -1,1 +1,76 @@
-{"name":"The Evil Within® 2","id":"CUSA06166","version":"01.04","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"26C3FE1","on":"C5FA1087C80B0000C5FA1187CC0B0000C5FA1087CC0B0000E9FA7FF7FE","off":"0000000000000000000000000000000000000000000000000000000000"},{"offset":"163BFF0","on":"E9EC7F0801909090","off":"C5FA1087CC0B0000"}]},{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"10648D6","on":"C5F258C0","off":"C5F25CC0"}]},{"name":"Infinite Ammo No Reload","type":"checkbox","memory":[{"offset":"11C3A6E","on":"9090","off":"29D9"}]},{"name":"Infinite Bottles (turn off when using Max item cheat","type":"checkbox","memory":[{"offset":"11C0B19","on":"01CE","off":"29CE"}]},{"name":"Max Arsenal / Inventory Items (get / spend / open inv)","type":"checkbox","memory":[{"offset":"26C4010","on":"41837BF038741241837BF048740B41837B1000E9FD5390FF906641C743100F2741837B1000E9EB5390FF","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"1FC9420","on":"E9EBAB6F00","off":"41837B1000"}]}],"credits":["d01v"]}
+{
+  "name": "The Evil Within® 2",
+  "id": "CUSA06166",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26C3FE1",
+          "on": "C5FA1087C80B0000C5FA1187CC0B0000C5FA1087CC0B0000E9FA7FF7FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "163BFF0",
+          "on": "E9EC7F0801909090",
+          "off": "C5FA1087CC0B0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10648D6",
+          "on": "C5F258C0",
+          "off": "C5F25CC0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11C3A6E",
+          "on": "9090",
+          "off": "29D9"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Bottles (turn off when using Max item cheat",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11C0B19",
+          "on": "01CE",
+          "off": "29CE"
+        }
+      ]
+    },
+    {
+      "name": "Max Arsenal / Inventory Items (get / spend / open inv)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26C4010",
+          "on": "41837BF038741241837BF048740B41837B1000E9FD5390FF906641C743100F2741837B1000E9EB5390FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1FC9420",
+          "on": "E9EBAB6F00",
+          "off": "41837B1000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
+}

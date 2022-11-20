@@ -1,1 +1,75 @@
-{"name":"Back 4 Blood","id":"CUSA14275","version":"01.08","process":"eboot.bin","mods":[{"name":"Infinite Ammo/Items/Throwables","type":"checkbox","memory":[{"offset":"7FC5EE00","on":"41C686E401000037E9892EAD82","off":"00000000000000000000000000"},{"offset":"2731C8F","on":"E96CD1527D9090","off":"418986E4010000"}]},{"name":"99999 Supply points (at the end of Mission)","type":"checkbox","memory":[{"offset":"7FEA3EE0","on":"0F8E7C8EA3828142049F860100E96E8EA382","off":"000000000000000000000000000000000000"},{"offset":"28DCD5B","on":"E980715C7D","off":"7E0B014204"}]},{"name":"Max Copper(on buy)","type":"checkbox","memory":[{"offset":"7FEA3E40","on":"41C784244C030000FFE0F505418B9C244C030000E98AB28182","off":"00000000000000000000000000000000000000000000000000"},{"offset":"26BF0DB","on":"E9604D7E7D909090","off":"418B9C244C030000"}]},{"name":"Max Supply points (at the end of Mission)","type":"checkbox","memory":[{"offset":"7FC5EA40","on":"0F8E1CE3C782814204FFE0F505E90EE3C782","off":"000000000000000000000000000000000000"},{"offset":"28DCD5B","on":"E9E01C387D","off":"7E0B014204"}]}],"credits":["Wander_9.00"]}
+{
+  "name": "Back 4 Blood",
+  "id": "CUSA14275",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Ammo/Items/Throwables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5EE00",
+          "on": "41C686E401000037E9892EAD82",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "2731C8F",
+          "on": "E96CD1527D9090",
+          "off": "418986E4010000"
+        }
+      ]
+    },
+    {
+      "name": "99999 Supply points (at the end of Mission)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA3EE0",
+          "on": "0F8E7C8EA3828142049F860100E96E8EA382",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "28DCD5B",
+          "on": "E980715C7D",
+          "off": "7E0B014204"
+        }
+      ]
+    },
+    {
+      "name": "Max Copper(on buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA3E40",
+          "on": "41C784244C030000FFE0F505418B9C244C030000E98AB28182",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "26BF0DB",
+          "on": "E9604D7E7D909090",
+          "off": "418B9C244C030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Supply points (at the end of Mission)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5EA40",
+          "on": "0F8E1CE3C782814204FFE0F505E90EE3C782",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "28DCD5B",
+          "on": "E9E01C387D",
+          "off": "7E0B014204"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander_9.00"
+  ]
+}

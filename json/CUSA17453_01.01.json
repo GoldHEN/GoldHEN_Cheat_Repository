@@ -1,1 +1,91 @@
-{"name":"Zombie Driver: Immortal Edition","id":"CUSA17453","version":"01.01","process":"eboot.bin","mods":[{"name":"Inf Health (Dont Use With 1 Hit)","type":"checkbox","memory":[{"offset":"1261B00","on":"80BFDC000000007515C5FA1087D4000000C5FA1187D0000000E9F620E9FEC5FA1187D0000000E9E920E9FE","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"F3C0C","on":"E9EFDE1601909090","off":"C5FA1187D0000000"}]},{"name":"Inf Health / 1 Hit Kill","type":"checkbox","memory":[{"offset":"1261B00","on":"80BFDC000000007515C5FA1087D4000000C5FA1187D0000000E9F620E9FEC787D000000000000000E9E720E9FE","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"F3C0C","on":"E9EFDE1601909090","off":"C5FA1187D0000000"}]},{"name":"Inf Ammo","type":"checkbox","memory":[{"offset":"1261BA0","on":"C7471400007A43C5FA104714E9ECDD18FF","off":"0000000000000000000000000000000000"},{"offset":"3EF998","on":"E90322E700","off":"C5FA104714"}]},{"name":"Inf Nitro","type":"checkbox","memory":[{"offset":"1261C00","on":"C7431400001643E94EB319FF","off":"000000000000000000000000"},{"offset":"3FCF55","on":"E9A64CE600","off":"C5FA114314"}]},{"name":"Inf Money (On Spend)","type":"checkbox","memory":[{"offset":"1261D60","on":"C780E80000003F420F00E93F1FDCFE","off":"000000000000000000000000000000"},{"offset":"23CA8","on":"E9B3E0230190","off":"8990E8000000"}]}],"credits":["Saso"]}
+{
+  "name": "Zombie Driver: Immortal Edition",
+  "id": "CUSA17453",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health (Dont Use With 1 Hit)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1261B00",
+          "on": "80BFDC000000007515C5FA1087D4000000C5FA1187D0000000E9F620E9FEC5FA1187D0000000E9E920E9FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F3C0C",
+          "on": "E9EFDE1601909090",
+          "off": "C5FA1187D0000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Health / 1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1261B00",
+          "on": "80BFDC000000007515C5FA1087D4000000C5FA1187D0000000E9F620E9FEC787D000000000000000E9E720E9FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F3C0C",
+          "on": "E9EFDE1601909090",
+          "off": "C5FA1187D0000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1261BA0",
+          "on": "C7471400007A43C5FA104714E9ECDD18FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "3EF998",
+          "on": "E90322E700",
+          "off": "C5FA104714"
+        }
+      ]
+    },
+    {
+      "name": "Inf Nitro",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1261C00",
+          "on": "C7431400001643E94EB319FF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "3FCF55",
+          "on": "E9A64CE600",
+          "off": "C5FA114314"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money (On Spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1261D60",
+          "on": "C780E80000003F420F00E93F1FDCFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "23CA8",
+          "on": "E9B3E0230190",
+          "off": "8990E8000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

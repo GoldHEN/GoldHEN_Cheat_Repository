@@ -1,1 +1,22 @@
-{"name":"HITMAN 3","id":"CUSA18210","version":"01.08","process":"eboot.bin","mods":[{"name":"No Reload","type":"checkbox","memory":[{"offset":"33F477","on":"90909090","off":"44893488"}]}],"credits":["AhmadCH"]}
+{
+  "name": "HITMAN 3",
+  "id": "CUSA18210",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33F477",
+          "on": "90909090",
+          "off": "44893488"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "AhmadCH"
+  ]
+}

@@ -1,1 +1,139 @@
-{"name":"DOOM Eternal","id":"CUSA13275","version":"01.23","process":"eboot.bin","mods":[{"name":"Infinite Health/Shield/Keys","type":"checkbox","memory":[{"offset":"7FC5FFB0","on":"90E9C826A980","off":"000000000000"},{"offset":"6F2678","on":"E933D9567F90","off":"C4E379170001"}]},{"name":"Max/Infinite Lives On Gain/Lose","type":"checkbox","memory":[{"offset":"7FC5FAE0","on":"C687F800000063E9736CF980","off":"000000000000000000000000"},{"offset":"BF6759","on":"E98293067F90","off":"89B7F8000000"}]},{"name":"Infinite Ammo/Fuel","type":"checkbox","memory":[{"offset":"7FC5FFD0","on":"4C89F7418B4638E9E3C47D81","off":"000000000000000000000000"},{"offset":"143C4B8","on":"E9133B827E9090","off":"4C89F741894638"}]},{"name":"Infinite Jumping Dash","type":"checkbox","memory":[{"offset":"7FC5E750","on":"C743080000C842E909953781","off":"000000000000000000000000"},{"offset":"FD7C60","on":"E9EB6AC87E","off":"C5FA114308"}]},{"name":"Max/Infinite Radiation/Dive Suit","type":"checkbox","memory":[{"offset":"7FC5FBE0","on":"41C6460800E981853781","off":"00000000000000000000"},{"offset":"FD8165","on":"E9767AC87E90","off":"C4C17A114608"}]},{"name":"Max/Inf Weapons/Praetorian Points/Mastery Tokens/Sentinel Batteries","type":"checkbox","memory":[{"offset":"7FC5F770","on":"42C684BF94CA040063E9DD2E5581","off":"0000000000000000000000000000"},{"offset":"11B2653","on":"E918D1AA7E909090","off":"420194BF94CA0400"}]},{"name":"Infinite Grenades","type":"checkbox","memory":[{"offset":"7FC5FF90","on":"90E9DF9A5681","off":"000000000000"},{"offset":"11C9A6D","on":"E91E65A97E909090","off":"41FF8CC4306F0000"}]},{"name":"Infinite Flame Belch","type":"checkbox","memory":[{"offset":"7FC5FB90","on":"90E9909E5681","off":"000000000000"},{"offset":"11C9A1E","on":"E96D61A97E909090","off":"41FF8C24806F0000"}]}],"credits":["Celogamez"]}
+{
+  "name": "DOOM Eternal",
+  "id": "CUSA13275",
+  "version": "01.23",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/Shield/Keys",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FFB0",
+          "on": "90E9C826A980",
+          "off": "000000000000"
+        },
+        {
+          "offset": "6F2678",
+          "on": "E933D9567F90",
+          "off": "C4E379170001"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Lives On Gain/Lose",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FAE0",
+          "on": "C687F800000063E9736CF980",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "BF6759",
+          "on": "E98293067F90",
+          "off": "89B7F8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/Fuel",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FFD0",
+          "on": "4C89F7418B4638E9E3C47D81",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "143C4B8",
+          "on": "E9133B827E9090",
+          "off": "4C89F741894638"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jumping Dash",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E750",
+          "on": "C743080000C842E909953781",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "FD7C60",
+          "on": "E9EB6AC87E",
+          "off": "C5FA114308"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Radiation/Dive Suit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FBE0",
+          "on": "41C6460800E981853781",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "FD8165",
+          "on": "E9767AC87E90",
+          "off": "C4C17A114608"
+        }
+      ]
+    },
+    {
+      "name": "Max/Inf Weapons/Praetorian Points/Mastery Tokens/Sentinel Batteries",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F770",
+          "on": "42C684BF94CA040063E9DD2E5581",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "11B2653",
+          "on": "E918D1AA7E909090",
+          "off": "420194BF94CA0400"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FF90",
+          "on": "90E9DF9A5681",
+          "off": "000000000000"
+        },
+        {
+          "offset": "11C9A6D",
+          "on": "E91E65A97E909090",
+          "off": "41FF8CC4306F0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Flame Belch",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FB90",
+          "on": "90E9909E5681",
+          "off": "000000000000"
+        },
+        {
+          "offset": "11C9A1E",
+          "on": "E96D61A97E909090",
+          "off": "41FF8C24806F0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

@@ -1,1 +1,91 @@
-{"name":"Tesla Force","id":"CUSA25372","version":"01.05","process":"eboot.bin","mods":[{"name":"Infinite health","type":"checkbox","memory":[{"offset":"7FEA3E00","on":"80BBD00E000002750CC7831C0400000000C842EB08C5FA11831C040000E9727C4080","off":"00000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"2ABA8C","on":"E96F83BF7F909090","off":"C5FA11831C040000"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"7FEA3D30","on":"C683F80000000AE99FC84480","off":"000000000000000000000000"},{"offset":"2F05D5","on":"E95637BB7F90","off":"2983F8000000"}]},{"name":"Infinite Nova","type":"checkbox","memory":[{"offset":"7FEA3CF0","on":"FFCBC640340AE9F3144380","off":"0000000000000000000000"},{"offset":"2D51E9","on":"E902EBBC7F","off":"FFCB895834"}]},{"name":"Alot of Crystals (on gain)","type":"checkbox","memory":[{"offset":"7FEA3E30","on":"41C78424B80E00000F270000E97B8A4E80","off":"0000000000000000000000000000000000"},{"offset":"38C8B4","on":"E97775B17F909090","off":"41019C24B80E0000"}]},{"name":"Alot of Energy Cells (on gain)","type":"checkbox","memory":[{"offset":"7FEA3E70","on":"C780B40E00000F270000E9EA884E80","off":"000000000000000000000000000000"},{"offset":"38C763","on":"E90877B17F90","off":"0198B40E0000"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Tesla Force",
+  "id": "CUSA25372",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA3E00",
+          "on": "80BBD00E000002750CC7831C0400000000C842EB08C5FA11831C040000E9727C4080",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2ABA8C",
+          "on": "E96F83BF7F909090",
+          "off": "C5FA11831C040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA3D30",
+          "on": "C683F80000000AE99FC84480",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "2F05D5",
+          "on": "E95637BB7F90",
+          "off": "2983F8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Nova",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA3CF0",
+          "on": "FFCBC640340AE9F3144380",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "2D51E9",
+          "on": "E902EBBC7F",
+          "off": "FFCB895834"
+        }
+      ]
+    },
+    {
+      "name": "Alot of Crystals (on gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA3E30",
+          "on": "41C78424B80E00000F270000E97B8A4E80",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "38C8B4",
+          "on": "E97775B17F909090",
+          "off": "41019C24B80E0000"
+        }
+      ]
+    },
+    {
+      "name": "Alot of Energy Cells (on gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA3E70",
+          "on": "C780B40E00000F270000E9EA884E80",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "38C763",
+          "on": "E90877B17F90",
+          "off": "0198B40E0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

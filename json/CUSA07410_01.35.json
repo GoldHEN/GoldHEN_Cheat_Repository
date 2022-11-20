@@ -1,1 +1,91 @@
-{"name":"God of War","id":"CUSA07410","version":"01.35","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"7FC5A720","on":"664181FB00EC750BC4C17A105E20E9D2E18980C4C17A115E20E9C7E18980","off":"000000000000000000000000000000000000000000000000000000000000"},{"offset":"4F88FF","on":"E91C1E767F90","off":"C4C17A115E20"}]},{"name":"Instant Infinite Rage On First Hit (Disable Infinite Health)","type":"checkbox","memory":[{"offset":"7FC5BEA0","on":"664181FE88A7740BC4C17A115E20E952CA8980C4C17A116620E947CA8980","off":"000000000000000000000000000000000000000000000000000000000000"},{"offset":"4F88FF","on":"E99C35767F90","off":"C4C17A115E20"}]},{"name":"Infinite Arrows","type":"checkbox","memory":[{"offset":"7FC5BE10","on":"C5EA5FC3664181F9A0867411C5FA5DDCE9DACA8980664181FD588A7500F30F10DCE9C9CA8980","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"4F88F7","on":"E91435767F909090","off":"C5EA5FC3C5FA5DDC"}]},{"name":"Max/Inf XP,HS,Crafting Materials On Gain/Buy","type":"checkbox","memory":[{"offset":"7FC5BFD0","on":"4439F9C7003F420F00E97A05CD80","off":"0000000000000000000000000000"},{"offset":"92C553","on":"E978FA327F","off":"4439F98908"}]},{"name":"No Cooldown","type":"checkbox","memory":[{"offset":"7FC5BDD0","on":"C5FA104348E9D719B080","off":"00000000000000000000"},{"offset":"75D7AC","on":"E91FE64F7F","off":"C5FA114348"}]}],"credits":["Celogamez"]}
+{
+  "name": "God of War",
+  "id": "CUSA07410",
+  "version": "01.35",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5A720",
+          "on": "664181FB00EC750BC4C17A105E20E9D2E18980C4C17A115E20E9C7E18980",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4F88FF",
+          "on": "E91C1E767F90",
+          "off": "C4C17A115E20"
+        }
+      ]
+    },
+    {
+      "name": "Instant Infinite Rage On First Hit (Disable Infinite Health)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5BEA0",
+          "on": "664181FE88A7740BC4C17A115E20E952CA8980C4C17A116620E947CA8980",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4F88FF",
+          "on": "E99C35767F90",
+          "off": "C4C17A115E20"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Arrows",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5BE10",
+          "on": "C5EA5FC3664181F9A0867411C5FA5DDCE9DACA8980664181FD588A7500F30F10DCE9C9CA8980",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4F88F7",
+          "on": "E91435767F909090",
+          "off": "C5EA5FC3C5FA5DDC"
+        }
+      ]
+    },
+    {
+      "name": "Max/Inf XP,HS,Crafting Materials On Gain/Buy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5BFD0",
+          "on": "4439F9C7003F420F00E97A05CD80",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "92C553",
+          "on": "E978FA327F",
+          "off": "4439F98908"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5BDD0",
+          "on": "C5FA104348E9D719B080",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "75D7AC",
+          "on": "E91FE64F7F",
+          "off": "C5FA114348"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

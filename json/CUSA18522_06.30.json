@@ -1,1 +1,59 @@
-{"name":"Assassins Creed® Valhalla","id":"CUSA18522","version":"06.30","process":"eboot.bin","mods":[{"name":"Infinite health","type":"checkbox","memory":[{"offset":"7FC5ED80","on":"39D08B973C010000E9798C9782","off":"00000000000000000000000000"},{"offset":"25D7A01","on":"E97A73687D","off":"39D00F4ED0"}]},{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"7FC5DDF0","on":"41C7470C0000CA42E96BD4DF82","off":"00000000000000000000000000"},{"offset":"2A5B262","on":"E9892B207D90","off":"C4C17A11470C"}]},{"name":"All Ressource/Arrows/money(on use/buy)","type":"checkbox","memory":[{"offset":"7FC5EC50","on":"29C86641C704240F27E9DA02F082","off":"0000000000000000000000000000"},{"offset":"2B5EF31","on":"E91AFD0F7D9090","off":"0F42C141890424"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Assassins Creed® Valhalla",
+  "id": "CUSA18522",
+  "version": "06.30",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5ED80",
+          "on": "39D08B973C010000E9798C9782",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "25D7A01",
+          "on": "E97A73687D",
+          "off": "39D00F4ED0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5DDF0",
+          "on": "41C7470C0000CA42E96BD4DF82",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "2A5B262",
+          "on": "E9892B207D90",
+          "off": "C4C17A11470C"
+        }
+      ]
+    },
+    {
+      "name": "All Ressource/Arrows/money(on use/buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5EC50",
+          "on": "29C86641C704240F27E9DA02F082",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "2B5EF31",
+          "on": "E91AFD0F7D9090",
+          "off": "0F42C141890424"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

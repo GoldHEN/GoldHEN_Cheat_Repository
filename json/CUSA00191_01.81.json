@@ -1,1 +1,35 @@
-{"name":"Killzone Shadow Fall","id":"CUSA00191","version":"01.81","process":"eboot.bin","mods":[{"name":"Infinite Health","hint":null,"type":"button","memory":[{"offset":"6958C0","on":"90909090","off":"C5F057C9"}]},{"name":"Infinite Ammo","hint":null,"type":"checkbox","memory":[{"offset":"CA5AFC","on":"4501751C85DB7E0E","off":"4589751C85DB7E0E"}]}],"credits":["Unknown"]}
+{
+  "name": "Killzone Shadow Fall",
+  "id": "CUSA00191",
+  "version": "01.81",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "6958C0",
+          "on": "90909090",
+          "off": "C5F057C9"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CA5AFC",
+          "on": "4501751C85DB7E0E",
+          "off": "4589751C85DB7E0E"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Unknown"
+  ]
+}

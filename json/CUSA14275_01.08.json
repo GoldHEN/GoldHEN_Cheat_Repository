@@ -46,7 +46,7 @@
       "hint": null,
       "type": "checkbox",
       "memory": [
-		{
+        {
           "offset": "2879DB5",
           "on": "C5FA1090D8070000",
           "off": "C5FA1090D8070000"

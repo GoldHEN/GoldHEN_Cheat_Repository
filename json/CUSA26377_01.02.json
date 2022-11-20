@@ -1,1 +1,27 @@
-{"name":"Neo : The World Ends With You","id":"CUSA26377","version":"01.02","process":"eboot.bin","mods":[{"name":"Max Health","type":"checkbox","memory":[{"offset":"18D3F40","on":"418B5C245CE920ADBA7E","off":"00000000000000000000"},{"offset":"8047EC65","on":"E9D6524581","off":"418B5C2460"}]}],"credits":["Reddevil82, Tester: Skal"]}
+{
+  "name": "Neo : The World Ends With You",
+  "id": "CUSA26377",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18D3F40",
+          "on": "418B5C245CE920ADBA7E",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "8047EC65",
+          "on": "E9D6524581",
+          "off": "418B5C2460"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82, Tester: Skal"
+  ]
+}

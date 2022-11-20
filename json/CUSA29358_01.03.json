@@ -1,1 +1,23 @@
-{"name":"My Universe - Puppies and Kittens","id":"CUSA29358","version":"01.03","process":"eboot.bin","mods":[{"name":"Pet Coins Multiplier","type":"checkbox","memory":[{"section":"14","offset":"3A7A422","on":"014828","off":"894828"}]}],"credits":["wander"]}
+{
+  "name": "My Universe - Puppies and Kittens",
+  "id": "CUSA29358",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Pet Coins Multiplier",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "3A7A422",
+          "on": "014828",
+          "off": "894828"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "wander"
+  ]
+}

@@ -1,1 +1,91 @@
-{"name":"Yaga","id":"CUSA16523","version":"01.03","process":"eboot.bin","mods":[{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"181E380","on":"C743400000FA43E9FB25677F","off":"000000000000000000000000"},{"offset":"80E90982","on":"E9F9D99880","off":"C5FA114340"}]},{"name":"Max Bones (on spend/gain)","type":"checkbox","memory":[{"offset":"181D120","on":"0F842DC5587FC740549F860100E994C1587F","off":"000000000000000000000000000000000000"},{"offset":"80DA92BD","on":"E95E3EA78090909090","off":"0F8496030000015854"}]},{"name":"Max Coins (on sell/buy)","type":"checkbox","memory":[{"offset":"181D150","on":"0F8402BE587FC740503F420F00E994B9587F","off":"000000000000000000000000000000000000"},{"offset":"80DA8AEC","on":"E95F46A7809090909090","off":"0F846C04000044016850"}]},{"name":"Max items (on use/sell)","type":"checkbox","memory":[{"offset":"181E010","on":"4429F966C74018E703E9CA34337F","off":"0000000000000000000000000000"},{"offset":"80B514E2","on":"E929CBCC8090","off":"4429F9894818"}]},{"name":"Minimum Bad luck","type":"checkbox","memory":[{"offset":"181EDC0","on":"C7401C0000803FE9BE9E677F","off":"000000000000000000000000"},{"offset":"80E98C85","on":"E936619880","off":"C5FA11401C"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Yaga",
+  "id": "CUSA16523",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "181E380",
+          "on": "C743400000FA43E9FB25677F",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "80E90982",
+          "on": "E9F9D99880",
+          "off": "C5FA114340"
+        }
+      ]
+    },
+    {
+      "name": "Max Bones (on spend/gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "181D120",
+          "on": "0F842DC5587FC740549F860100E994C1587F",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80DA92BD",
+          "on": "E95E3EA78090909090",
+          "off": "0F8496030000015854"
+        }
+      ]
+    },
+    {
+      "name": "Max Coins (on sell/buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "181D150",
+          "on": "0F8402BE587FC740503F420F00E994B9587F",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80DA8AEC",
+          "on": "E95F46A7809090909090",
+          "off": "0F846C04000044016850"
+        }
+      ]
+    },
+    {
+      "name": "Max items (on use/sell)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "181E010",
+          "on": "4429F966C74018E703E9CA34337F",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "80B514E2",
+          "on": "E929CBCC8090",
+          "off": "4429F9894818"
+        }
+      ]
+    },
+    {
+      "name": "Minimum Bad luck",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "181EDC0",
+          "on": "C7401C0000803FE9BE9E677F",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "80E98C85",
+          "on": "E936619880",
+          "off": "C5FA11401C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

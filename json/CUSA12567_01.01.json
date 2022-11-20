@@ -1,1 +1,107 @@
-{"name":"The Surge 2","id":"CUSA12567","version":"01.01","process":"eboot.bin","mods":[{"name":"Inf Health (Dont Use With 1 Hit)","type":"checkbox","memory":[{"offset":"2EC3FA0","on":"80BF680100007A7515C5FA108784010000C5FA11870C010000E9175A31FDC5FA11870C010000E90A5A31FD","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"1D99CD","on":"E9CEA5CE02909090","off":"C5FA11870C010000"}]},{"name":"Inf Health / 1 Hit Kill","type":"checkbox","memory":[{"offset":"2EC3FA0","on":"80BF680100007A7515C5FA108784010000C5FA11870C010000E9175A31FDC7870C01000000000000E9085A31FD","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"1D99CD","on":"E9CEA5CE02909090","off":"C5FA11870C010000"}]},{"name":"Inf Stamina","type":"checkbox","memory":[{"offset":"2EC40C0","on":"C5FA108318010000C5FA118314010000E9C26131FD","off":"000000000000000000000000000000000000000000"},{"offset":"1DA28F","on":"E92C9ECE02909090","off":"C5FA118314010000"}]},{"name":"Inf Energy","type":"checkbox","memory":[{"offset":"2EC4100","on":"C5FA108318010000C5FA118310010000E9CC6B31FD","off":"000000000000000000000000000000000000000000"},{"offset":"1DACD9","on":"E92294CE02909090","off":"C5FA118310010000"}]},{"name":"Inf Res / Drone Ammo","type":"checkbox","memory":[{"offset":"2EC4050","on":"B8E7030000B9E7030000894750894F54E9839F59FD","off":"000000000000000000000000000000000000000000"},{"offset":"45DFE2","on":"E96960A60290","off":"894750894F54"}]},{"name":"Inf Tech Scrap","type":"checkbox","memory":[{"offset":"2EC4150","on":"C78354010000804FC347E9217931FD","off":"000000000000000000000000000000"},{"offset":"1DBA78","on":"E9D386CE02909090","off":"C5FA118354010000"}]}],"credits":["Saso"]}
+{
+  "name": "The Surge 2",
+  "id": "CUSA12567",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health (Dont Use With 1 Hit)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2EC3FA0",
+          "on": "80BF680100007A7515C5FA108784010000C5FA11870C010000E9175A31FDC5FA11870C010000E90A5A31FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1D99CD",
+          "on": "E9CEA5CE02909090",
+          "off": "C5FA11870C010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Health / 1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2EC3FA0",
+          "on": "80BF680100007A7515C5FA108784010000C5FA11870C010000E9175A31FDC7870C01000000000000E9085A31FD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1D99CD",
+          "on": "E9CEA5CE02909090",
+          "off": "C5FA11870C010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2EC40C0",
+          "on": "C5FA108318010000C5FA118314010000E9C26131FD",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1DA28F",
+          "on": "E92C9ECE02909090",
+          "off": "C5FA118314010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2EC4100",
+          "on": "C5FA108318010000C5FA118310010000E9CC6B31FD",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1DACD9",
+          "on": "E92294CE02909090",
+          "off": "C5FA118310010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Res / Drone Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2EC4050",
+          "on": "B8E7030000B9E7030000894750894F54E9839F59FD",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "45DFE2",
+          "on": "E96960A60290",
+          "off": "894750894F54"
+        }
+      ]
+    },
+    {
+      "name": "Inf Tech Scrap",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2EC4150",
+          "on": "C78354010000804FC347E9217931FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1DBA78",
+          "on": "E9D386CE02909090",
+          "off": "C5FA118354010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

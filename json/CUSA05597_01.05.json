@@ -1,1 +1,114 @@
-{"name":"METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE","id":"CUSA05597","version":"01.05","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"1D0F9FE","on":"C4C17A11748CCC","off":"C4C17A116C8CCC"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"21474BA","on":"668B0C42","off":"66890C42"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"2147121","on":"668B0C72","off":"66890C72"}]},{"name":"Infinite Supressor","type":"checkbox","memory":[{"offset":"214717C","on":"418A544104","off":"4188544104"}]},{"name":"Infinite Night Vision","type":"checkbox","memory":[{"offset":"3593800","on":"C744911C00A08C46C5FA1044911CE9AACE78FE","off":"00000000000000000000000000000000000000"},{"offset":"1D206B7","on":"E94431870190","off":"C5FA1144911C"}]},{"name":"Max GMP on Spend","type":"checkbox","memory":[{"offset":"1B5681E","on":"41C706404B4C00","off":"41C706C08782FE"},{"offset":"1B56805","on":"BA404B4C0090","off":"81FAC08782FE"}]},{"name":"Max Resources on Sell","type":"checkbox","memory":[{"offset":"A56ECB","on":"42C704B940420F00","off":"428124B90100E0FF"}]},{"name":"Max Heroism on Gain","type":"checkbox","memory":[{"offset":"3593813","on":"0F4DC1B8FFE0F5058902E926DF81FD","off":"000000000000000000000000000000"},{"offset":"DB1743","on":"E9CB207E02","off":"0F4DC18902"}]}],"credits":["Rizla"]}
+{
+  "name": "METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE",
+  "id": "CUSA05597",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D0F9FE",
+          "on": "C4C17A11748CCC",
+          "off": "C4C17A116C8CCC"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21474BA",
+          "on": "668B0C42",
+          "off": "66890C42"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2147121",
+          "on": "668B0C72",
+          "off": "66890C72"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Supressor",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "214717C",
+          "on": "418A544104",
+          "off": "4188544104"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Night Vision",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3593800",
+          "on": "C744911C00A08C46C5FA1044911CE9AACE78FE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1D206B7",
+          "on": "E94431870190",
+          "off": "C5FA1144911C"
+        }
+      ]
+    },
+    {
+      "name": "Max GMP on Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B5681E",
+          "on": "41C706404B4C00",
+          "off": "41C706C08782FE"
+        },
+        {
+          "offset": "1B56805",
+          "on": "BA404B4C0090",
+          "off": "81FAC08782FE"
+        }
+      ]
+    },
+    {
+      "name": "Max Resources on Sell",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A56ECB",
+          "on": "42C704B940420F00",
+          "off": "428124B90100E0FF"
+        }
+      ]
+    },
+    {
+      "name": "Max Heroism on Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3593813",
+          "on": "0F4DC1B8FFE0F5058902E926DF81FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "DB1743",
+          "on": "E9CB207E02",
+          "off": "0F4DC18902"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Rizla"
+  ]
+}

@@ -1,1 +1,91 @@
-{"name":"Assassins Creed® Valhalla","id":"CUSA18522","version":"01.01","process":"eboot.bin","mods":[{"name":"Inf Health","type":"checkbox","memory":[{"offset":"33522E2","on":"39C88B8F3C010000E973E3FFFF","off":"00000000000000000000000000"},{"offset":"335065D","on":"E9801C0000","off":"39C80F4EC8"}]},{"name":"Inf Stamina","type":"checkbox","memory":[{"offset":"3AA50E2","on":"418B48104189480CE96E86FFFF","off":"00000000000000000000000000"},{"offset":"3A9D757","on":"E98679000090","off":"C4C17A11400C"}]},{"name":"Inf Res","type":"checkbox","memory":[{"offset":"3BBE211","on":"B80F270000418947F8E991FAFFFF","off":"0000000000000000000000000000"},{"offset":"3BBDCAA","on":"E96205000090","off":"29C8418947F8"}]},{"name":"Inf Skill Points","type":"checkbox","memory":[{"offset":"542D921","on":"31F666C741089001E93FE7FFFF","off":"00000000000000000000000000"},{"offset":"542C068","on":"E9B4180000","off":"31F62B510C"}]},{"name":"Inf Abilites Bar (Enable only after unlock Ablities)","type":"checkbox","memory":[{"offset":"3347151","on":"6641C787400100009001E92EE8FFFF","off":"000000000000000000000000000000"},{"offset":"3345987","on":"E9C51700009090","off":"41899F40010000"}]}],"credits":["Saso"]}
+{
+  "name": "Assassins Creed® Valhalla",
+  "id": "CUSA18522",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33522E2",
+          "on": "39C88B8F3C010000E973E3FFFF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "335065D",
+          "on": "E9801C0000",
+          "off": "39C80F4EC8"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AA50E2",
+          "on": "418B48104189480CE96E86FFFF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "3A9D757",
+          "on": "E98679000090",
+          "off": "C4C17A11400C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Res",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BBE211",
+          "on": "B80F270000418947F8E991FAFFFF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "3BBDCAA",
+          "on": "E96205000090",
+          "off": "29C8418947F8"
+        }
+      ]
+    },
+    {
+      "name": "Inf Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "542D921",
+          "on": "31F666C741089001E93FE7FFFF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "542C068",
+          "on": "E9B4180000",
+          "off": "31F62B510C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Abilites Bar (Enable only after unlock Ablities)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3347151",
+          "on": "6641C787400100009001E92EE8FFFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "3345987",
+          "on": "E9C51700009090",
+          "off": "41899F40010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

@@ -1,1 +1,43 @@
-{"name":"Shadow of the Tomb Raider","id":"CUSA10872","version":"01.01","process":"eboot.bin","mods":[{"name":"Max Inventory and ammo","type":"checkbox","memory":[{"offset":"183BCD0","on":"E8F5BF49FFC7009F860100E985304AFF668918","off":"00000000000000000000000000000000000000"},{"offset":"CDED5D","on":"E96ECFB500909090","off":"E86E8FFFFF668918"}]},{"name":"Max Skill Point On Spend","type":"checkbox","memory":[{"offset":"183BCD0","on":"29D1C7404C63000000E9474C9EFF89484C","off":"0000000000000000000000000000000000"},{"offset":"1220920","on":"E9ABB36100","off":"29D189484C"}]}],"credits":["IMnoob"]}
+{
+  "name": "Shadow of the Tomb Raider",
+  "id": "CUSA10872",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Inventory and ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "183BCD0",
+          "on": "E8F5BF49FFC7009F860100E985304AFF668918",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "CDED5D",
+          "on": "E96ECFB500909090",
+          "off": "E86E8FFFFF668918"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill Point On Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "183BCD0",
+          "on": "29D1C7404C63000000E9474C9EFF89484C",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1220920",
+          "on": "E9ABB36100",
+          "off": "29D189484C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "IMnoob"
+  ]
+}

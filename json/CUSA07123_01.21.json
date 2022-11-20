@@ -1,1 +1,110 @@
-{"name":"Nioh","id":"CUSA07123","version":"01.21","process":"eboot.bin","master":{"challenged":"yes","memory":[{"offset":"13F7800","on":"498B46204989462089C15348C7C3004000004C89335BE9F4C12BFF"},{"offset":"6B3A09","on":"E9F23DD40090"}]},"mods":[{"name":"Infinte Health","type":"checkbox","memory":[{"offset":"13F7800","on":"498B4618","off":"498B4620"}]},{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"13F781B","on":"C5FA104704C5FA1107C5FA584710E9FB42DBFE","off":"00000000000000000000000000000000000000"},{"offset":"1ABB24","on":"E9F2BC2401","off":"C5FA584710"}]},{"name":"2 Hit Kill","type":"checkbox","memory":[{"offset":"13F782E","on":"574889DF4883EF10483B3DC3C780FE740B48C7C10000000048894B0848894B105F4839C80F846324DBFEE92C24DBFE","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"1A9C80","on":"E9A9DB24019090","off":"48894B104839C8"}]},{"name":"Infinite Amirta","type":"checkbox","memory":[{"offset":"13F785D","on":"C74008FFE0F5054C8B78084C8B6370E915150FFF","off":"0000000000000000000000000000000000000000"},{"offset":"4E8D7E","on":"E9DAEAF000909090","off":"4C8B78084C8B6370"}]},{"name":"Infinite Gold","type":"checkbox","memory":[{"offset":"13F7871","on":"C74010FFE0F5054C8B78104C8B6378E901170FFF","off":"0000000000000000000000000000000000000000"},{"offset":"4E8F7E","on":"E9EEE8F000909090","off":"4C8B78104C8B6378"}]},{"name":"Infinite Lightning Water Ninjutsu Power","type":"checkbox","memory":[{"offset":"194F0B","on":"9090909090","off":"C5FA114328"}]}],"credits":["ShininGami"]}
+{
+  "name": "Nioh",
+  "id": "CUSA07123",
+  "version": "01.21",
+  "process": "eboot.bin",
+  "master": {
+    "challenged": "yes",
+    "memory": [
+      {
+        "offset": "13F7800",
+        "on": "498B46204989462089C15348C7C3004000004C89335BE9F4C12BFF"
+      },
+      {
+        "offset": "6B3A09",
+        "on": "E9F23DD40090"
+      }
+    ]
+  },
+  "mods": [
+    {
+      "name": "Infinte Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13F7800",
+          "on": "498B4618",
+          "off": "498B4620"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13F781B",
+          "on": "C5FA104704C5FA1107C5FA584710E9FB42DBFE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1ABB24",
+          "on": "E9F2BC2401",
+          "off": "C5FA584710"
+        }
+      ]
+    },
+    {
+      "name": "2 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13F782E",
+          "on": "574889DF4883EF10483B3DC3C780FE740B48C7C10000000048894B0848894B105F4839C80F846324DBFEE92C24DBFE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A9C80",
+          "on": "E9A9DB24019090",
+          "off": "48894B104839C8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Amirta",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13F785D",
+          "on": "C74008FFE0F5054C8B78084C8B6370E915150FFF",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4E8D7E",
+          "on": "E9DAEAF000909090",
+          "off": "4C8B78084C8B6370"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13F7871",
+          "on": "C74010FFE0F5054C8B78104C8B6378E901170FFF",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4E8F7E",
+          "on": "E9EEE8F000909090",
+          "off": "4C8B78104C8B6378"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Lightning Water Ninjutsu Power",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "194F0B",
+          "on": "9090909090",
+          "off": "C5FA114328"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "ShininGami"
+  ]
+}

@@ -1,1 +1,60 @@
-{"name":"Power Rangers - Battle for The Grid","id":"CUSA15145","version":"01.22","process":"eboot.bin","mods":[{"name":"Health / Super / Easy Win (Master Code)","type":"checkbox","memory":[{"offset":"18ECC00","on":"488B40086681FDF05D751452488B553883BAEC050000015A7505BB28230000895C8820E986B6DB7F9052488B553883BAEC050000005A750A83FB017E05BB01000000895C8820E963B6DB7F6681FDC05B75F04981FA1E01000075E74C3B7D2075E152488B5518817A20530075005A75D24183BFEC0500000175C8BBBB0B0000895C8820E926B6DB7F31DBEBF3","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"816A82A6","on":"E955492480909090","off":"488B4008895C8820"}]},{"name":"Easy Win (MC)","type":"checkbox","memory":[{"offset":"18ECC18","on":"750F","off":"7505"}]},{"name":"Max Super On Use (MC)-1","type":"checkbox","memory":[{"offset":"18ECC09","on":"7540","off":"7514"}]},{"name":"Enemy Super 0 On Use (MC)-2","type":"checkbox","memory":[{"offset":"18ECC78","on":"750E","off":"75C8"}]}],"credits":["Saso_9.00"]}
+{
+  "name": "Power Rangers - Battle for The Grid",
+  "id": "CUSA15145",
+  "version": "01.22",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Health / Super / Easy Win (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18ECC00",
+          "on": "488B40086681FDF05D751452488B553883BAEC050000015A7505BB28230000895C8820E986B6DB7F9052488B553883BAEC050000005A750A83FB017E05BB01000000895C8820E963B6DB7F6681FDC05B75F04981FA1E01000075E74C3B7D2075E152488B5518817A20530075005A75D24183BFEC0500000175C8BBBB0B0000895C8820E926B6DB7F31DBEBF3",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "816A82A6",
+          "on": "E955492480909090",
+          "off": "488B4008895C8820"
+        }
+      ]
+    },
+    {
+      "name": "Easy Win (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18ECC18",
+          "on": "750F",
+          "off": "7505"
+        }
+      ]
+    },
+    {
+      "name": "Max Super On Use (MC)-1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18ECC09",
+          "on": "7540",
+          "off": "7514"
+        }
+      ]
+    },
+    {
+      "name": "Enemy Super 0 On Use (MC)-2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18ECC78",
+          "on": "750E",
+          "off": "75C8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

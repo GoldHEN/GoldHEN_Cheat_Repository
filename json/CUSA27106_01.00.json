@@ -1,1 +1,22 @@
-{"name":"FIFA22","id":"CUSA27106","version":"01.00","process":"eboot.bin","mods":[{"name":"Max Budget (Use the budget slider to adjust)","type":"checkbox","memory":[{"offset":"7DE3640","on":"48035808","off":"48635808"}]}],"credits":["Wander"]}
+{
+  "name": "FIFA22",
+  "id": "CUSA27106",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Budget (Use the budget slider to adjust)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7DE3640",
+          "on": "48035808",
+          "off": "48635808"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander"
+  ]
+}

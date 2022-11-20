@@ -1,1 +1,134 @@
-{"name":"Dying Light 2: Stay Human","id":"CUSA12584","version":"01.15","process":"eboot.bin","mods":[{"name":"Infinite Melee Durability","type":"checkbox","memory":[{"offset":"7FC5EAE0","on":"C783A800000000C00A44E9995DDB82","off":"000000000000000000000000000000"},{"offset":"2A14880","on":"E95BA2247D909090","off":"C5FA1183A8000000"}]},{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"7FC5EB20","on":"41C744241000004040E98C841083","off":"0000000000000000000000000000"},{"offset":"2D66FB3","on":"E9687BEF7C9090","off":"C4C17A11442410"}]},{"name":"Items (on use and buy turn off when upgrading)","type":"checkbox","memory":[{"offset":"7FC5EB50","on":"C603604883C408E9BB30DF82","off":"000000000000000000000000"},{"offset":"2A51C10","on":"E93BCF207D9090","off":"44893B4883C408"}]},{"name":"Max Experience (use after escaping Waltz)","type":"checkbox","memory":[{"offset":"7FC5EC90","on":"41C7442418FFE0F505E964662D83","off":"0000000000000000000000000000"},{"offset":"2F352FD","on":"E98E99D27C","off":"4989442418"}]},{"name":"A lot of money (on gain)","type":"checkbox","memory":[{"offset":"7FC5ECD0","on":"0F4ED1C74734FFE0F505E97F5A0883","off":"000000000000000000000000000000"},{"offset":"2CE4758","on":"E973A5F77C90","off":"0F4ED1895734"}]},{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"7FC5FF10","on":"80BF78010000267509C747040000FA43EB05C5FA114704E9C3BF0282","off":"00000000000000000000000000000000000000000000000000000000"},{"offset":"1C8BEEA","on":"E92140FD7D","off":"C5FA114704"}]},{"name":"A lot of Money (on buy)","type":"checkbox","memory":[{"offset":"7FEA3E40","on":"29D8C747343C420F00E91F0BE482","off":"0000000000000000000000000000"},{"offset":"2CE4968","on":"E9D3F41B7D","off":"29D8894734"}]},{"name":"Items Multiplier (use at risk) Optional for Legendary upgrades","type":"checkbox","memory":[{"offset":"2A51C10","on":"44013B","off":"44893B"}]}],"credits":["Wander_9.00"]}
+{
+  "name": "Dying Light 2: Stay Human",
+  "id": "CUSA12584",
+  "version": "01.15",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Melee Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5EAE0",
+          "on": "C783A800000000C00A44E9995DDB82",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2A14880",
+          "on": "E95BA2247D909090",
+          "off": "C5FA1183A8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5EB20",
+          "on": "41C744241000004040E98C841083",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "2D66FB3",
+          "on": "E9687BEF7C9090",
+          "off": "C4C17A11442410"
+        }
+      ]
+    },
+    {
+      "name": "Items (on use and buy turn off when upgrading)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5EB50",
+          "on": "C603604883C408E9BB30DF82",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "2A51C10",
+          "on": "E93BCF207D9090",
+          "off": "44893B4883C408"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience (use after escaping Waltz)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5EC90",
+          "on": "41C7442418FFE0F505E964662D83",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "2F352FD",
+          "on": "E98E99D27C",
+          "off": "4989442418"
+        }
+      ]
+    },
+    {
+      "name": "A lot of money (on gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5ECD0",
+          "on": "0F4ED1C74734FFE0F505E97F5A0883",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2CE4758",
+          "on": "E973A5F77C90",
+          "off": "0F4ED1895734"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FF10",
+          "on": "80BF78010000267509C747040000FA43EB05C5FA114704E9C3BF0282",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1C8BEEA",
+          "on": "E92140FD7D",
+          "off": "C5FA114704"
+        }
+      ]
+    },
+    {
+      "name": "A lot of Money (on buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA3E40",
+          "on": "29D8C747343C420F00E91F0BE482",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "2CE4968",
+          "on": "E9D3F41B7D",
+          "off": "29D8894734"
+        }
+      ]
+    },
+    {
+      "name": "Items Multiplier (use at risk) Optional for Legendary upgrades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A51C10",
+          "on": "44013B",
+          "off": "44893B"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander_9.00"
+  ]
+}

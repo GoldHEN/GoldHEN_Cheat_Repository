@@ -1,1 +1,294 @@
-{"name":"RESIDENT EVIL 3","id":"CUSA14168","version":"01.03","process":"eboot.bin","mods":[{"name":"Speed Master Code","type":"checkbox","memory":[{"offset":"6DFFF5D","on":"0F85BAC33EFA498B465841C746700000803FE99BC33EFA","off":"0000000000000000000000000000000000000000000000"},{"offset":"11EC309","on":"E94F3CC10590","off":"7518498B4658"}]},{"name":"Max Health Player","type":"checkbox","memory":[{"offset":"68FDB0D","on":"0F84FF30B9FB8B5854895858E9F830B9FB","off":"0000000000000000000000000000000000"},{"offset":"2490C11","on":"E9F7CE4604","off":"74058B5858"}]},{"name":"Inf. Health Player+ No Bleeding","type":"checkbox","memory":[{"offset":"3140F0","on":"C3","off":"55"}]},{"name":"Easy Kill","type":"checkbox","memory":[{"offset":"6D00002","on":"488B8188010000C7425800000000E9DB76D2FA","off":"00000000000000000000000000000000000000"},{"offset":"1A276E6","on":"E917892D059090909090","off":"488B81880100008B5A58"}]},{"name":"Infinite Clip Ammo","type":"checkbox","memory":[{"offset":"1E3203A","on":"909090","off":"895120"}]},{"name":"20 Inventory Slot","type":"checkbox","memory":[{"offset":"6DFFE35","on":"41BC140000004489A090000000E96DB380F9","off":"000000000000000000000000000000000000"},{"offset":"60B1AD","on":"E9834C7F069090","off":"448BA090000000"}]},{"name":"Inc. Speed [x2.0]","type":"checkbox","memory":[{"offset":"6DFFF67","on":"41C7467000000040","off":"41C746700000803F"}]},{"name":"Inc. Speed [x2.7]","type":"checkbox","memory":[{"offset":"6DFFF67","on":"41C74670CDCC2C40","off":"41C746700000803F"}]},{"name":"Inc. Speed [x1.5]","type":"checkbox","memory":[{"offset":"6DFFF67","on":"41C746700000C03F","off":"41C746700000803F"}]},{"name":"Fire Resistance","type":"checkbox","memory":[{"offset":"325260","on":"C3","off":"55"}]},{"name":"Swap HandGun Ammo To:","type":"checkbox","memory":[{"offset":"712E139","on":"837B101F0F84E1D04EF9E928D04EF9C7431000000000C743141F000000E915D04EF9C7431000000000C7431407000000E902D04EF9C7431000000000C743140B000000E9EFCF4EF9C7431000000000C7431416000000E9DCCF4EF9C7431000000000C7431420000000E9C9CF4EF9C7431000000000C743142A000000E9B6CF4EF9C7431000000000C7431430000000E9A3CF4EF9C7431000000000C7431431000000E990CF4EF9C7431097000000E984CF4EF9C7431098000000E978CF4EF9","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"61B16A","on":"E9CA2FB10690","off":"0F84B4000000"}]},{"name":"44 AE Lightning Hawk","type":"checkbox","memory":[{"offset":"712E13D","on":"740990909090","off":"0F84E1D04EF9"}]},{"name":"Infinite MUP Handgun","type":"checkbox","memory":[{"offset":"712E13D","on":"741C90909090","off":"0F84E1D04EF9"}]},{"name":"Shotgun","type":"checkbox","memory":[{"offset":"712E13D","on":"742F90909090","off":"0F84E1D04EF9"}]},{"name":"Infinite CQBR Assault Rifle","type":"checkbox","memory":[{"offset":"712E13D","on":"744290909090","off":"0F84E1D04EF9"}]},{"name":"RAI-DEN","type":"checkbox","memory":[{"offset":"712E13D","on":"745590909090","off":"0F84E1D04EF9"}]},{"name":"Grenade Launcher","type":"checkbox","memory":[{"offset":"712E13D","on":"746890909090","off":"0F84E1D04EF9"}]},{"name":"HOT DOGGER","type":"checkbox","memory":[{"offset":"712E13D","on":"747B90909090","off":"0F84E1D04EF9"}]},{"name":"Infinite Rocket Launcher","type":"checkbox","memory":[{"offset":"712E13D","on":"0F848A000000","off":"0F84E1D04EF9"}]},{"name":"Lock_Pick","type":"checkbox","memory":[{"offset":"712E13D","on":"0F849D000000","off":"0F84E1D04EF9"}]},{"name":"Bolt_Cutters","type":"checkbox","memory":[{"offset":"712E13D","on":"0F84A9000000","off":"0F84E1D04EF9"}]},{"name":"Reset Gameplay Timer [Dont Freez It]","type":"checkbox","memory":[{"offset":"712E1F8","on":"0F84E46BA7FA4831DB48895818E9316BA7FA","off":"000000000000000000000000000000000000"},{"offset":"1BA4D31","on":"E9C29458059090909090","off":"0F84B1000000488B5818"}]},{"name":"Prevent Zombie To Grab Player","type":"checkbox","memory":[{"offset":"314310","on":"C3909090","off":"488B4750"}]}],"credits":["KevinTamvan"]}
+{
+  "name": "RESIDENT EVIL 3",
+  "id": "CUSA14168",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Speed Master Code",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6DFFF5D",
+          "on": "0F85BAC33EFA498B465841C746700000803FE99BC33EFA",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "11EC309",
+          "on": "E94F3CC10590",
+          "off": "7518498B4658"
+        }
+      ]
+    },
+    {
+      "name": "Max Health Player",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "68FDB0D",
+          "on": "0F84FF30B9FB8B5854895858E9F830B9FB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "2490C11",
+          "on": "E9F7CE4604",
+          "off": "74058B5858"
+        }
+      ]
+    },
+    {
+      "name": "Inf. Health Player+ No Bleeding",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3140F0",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    },
+    {
+      "name": "Easy Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6D00002",
+          "on": "488B8188010000C7425800000000E9DB76D2FA",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A276E6",
+          "on": "E917892D059090909090",
+          "off": "488B81880100008B5A58"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Clip Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E3203A",
+          "on": "909090",
+          "off": "895120"
+        }
+      ]
+    },
+    {
+      "name": "20 Inventory Slot",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6DFFE35",
+          "on": "41BC140000004489A090000000E96DB380F9",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "60B1AD",
+          "on": "E9834C7F069090",
+          "off": "448BA090000000"
+        }
+      ]
+    },
+    {
+      "name": "Inc. Speed [x2.0]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6DFFF67",
+          "on": "41C7467000000040",
+          "off": "41C746700000803F"
+        }
+      ]
+    },
+    {
+      "name": "Inc. Speed [x2.7]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6DFFF67",
+          "on": "41C74670CDCC2C40",
+          "off": "41C746700000803F"
+        }
+      ]
+    },
+    {
+      "name": "Inc. Speed [x1.5]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6DFFF67",
+          "on": "41C746700000C03F",
+          "off": "41C746700000803F"
+        }
+      ]
+    },
+    {
+      "name": "Fire Resistance",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "325260",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    },
+    {
+      "name": "Swap HandGun Ammo To:",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "712E139",
+          "on": "837B101F0F84E1D04EF9E928D04EF9C7431000000000C743141F000000E915D04EF9C7431000000000C7431407000000E902D04EF9C7431000000000C743140B000000E9EFCF4EF9C7431000000000C7431416000000E9DCCF4EF9C7431000000000C7431420000000E9C9CF4EF9C7431000000000C743142A000000E9B6CF4EF9C7431000000000C7431430000000E9A3CF4EF9C7431000000000C7431431000000E990CF4EF9C7431097000000E984CF4EF9C7431098000000E978CF4EF9",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "61B16A",
+          "on": "E9CA2FB10690",
+          "off": "0F84B4000000"
+        }
+      ]
+    },
+    {
+      "name": "44 AE Lightning Hawk",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "712E13D",
+          "on": "740990909090",
+          "off": "0F84E1D04EF9"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MUP Handgun",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "712E13D",
+          "on": "741C90909090",
+          "off": "0F84E1D04EF9"
+        }
+      ]
+    },
+    {
+      "name": "Shotgun",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "712E13D",
+          "on": "742F90909090",
+          "off": "0F84E1D04EF9"
+        }
+      ]
+    },
+    {
+      "name": "Infinite CQBR Assault Rifle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "712E13D",
+          "on": "744290909090",
+          "off": "0F84E1D04EF9"
+        }
+      ]
+    },
+    {
+      "name": "RAI-DEN",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "712E13D",
+          "on": "745590909090",
+          "off": "0F84E1D04EF9"
+        }
+      ]
+    },
+    {
+      "name": "Grenade Launcher",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "712E13D",
+          "on": "746890909090",
+          "off": "0F84E1D04EF9"
+        }
+      ]
+    },
+    {
+      "name": "HOT DOGGER",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "712E13D",
+          "on": "747B90909090",
+          "off": "0F84E1D04EF9"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Rocket Launcher",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "712E13D",
+          "on": "0F848A000000",
+          "off": "0F84E1D04EF9"
+        }
+      ]
+    },
+    {
+      "name": "Lock_Pick",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "712E13D",
+          "on": "0F849D000000",
+          "off": "0F84E1D04EF9"
+        }
+      ]
+    },
+    {
+      "name": "Bolt_Cutters",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "712E13D",
+          "on": "0F84A9000000",
+          "off": "0F84E1D04EF9"
+        }
+      ]
+    },
+    {
+      "name": "Reset Gameplay Timer [Dont Freez It]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "712E1F8",
+          "on": "0F84E46BA7FA4831DB48895818E9316BA7FA",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1BA4D31",
+          "on": "E9C29458059090909090",
+          "off": "0F84B1000000488B5818"
+        }
+      ]
+    },
+    {
+      "name": "Prevent Zombie To Grab Player",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "314310",
+          "on": "C3909090",
+          "off": "488B4750"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "KevinTamvan"
+  ]
+}

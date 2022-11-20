@@ -1,1 +1,107 @@
-{"name":"Bioshock Infinite: The Complete Edition","id":"CUSA03980","version":"01.02","process":"eboot.bin","mods":[{"name":"Max/Infinite Health","type":"checkbox","memory":[{"offset":"7FC5BFC0","on":"837B5805750FC783C03500000000FA44E90818C780C5FA1183C0350000E9FB17C780","off":"00000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"8CD7D5","on":"E9E6E7387F909090","off":"C5FA1183C0350000"}]},{"name":"Max/Infinite Health+1 Hit Kill","type":"checkbox","memory":[{"offset":"7FC5BFC0","on":"837B5805750FC783C03500000000FA44E90818C780C783C035000000000000E9F917C780","off":"000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"8CD7D5","on":"E9E6E7387F909090","off":"C5FA1183C0350000"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"7FC5B340","on":"41C6871C0A000063E95A0AEE80","off":"00000000000000000000000000"},{"offset":"B3BDA0","on":"E99BF5117F9090","off":"4589B71C0A0000"}]},{"name":"Infinite Salt","type":"checkbox","memory":[{"offset":"7FC5B9F0","on":"29D8418B4768E9A3A01B81","off":"0000000000000000000000"},{"offset":"E15A98","on":"E9535FE47E90","off":"29D841894768"}]},{"name":"Max/Infinite Money On Buy (Don't Take More Money)","type":"checkbox","memory":[{"offset":"7FC5B9D0","on":"41C74424649F860100E9069F1B81","off":"0000000000000000000000000000"},{"offset":"E158DF","on":"E9EC60E47E","off":"4529742464"}]},{"name":"Max/Infinite Lockpicks On Use","type":"checkbox","memory":[{"offset":"7FC5B910","on":"4C89FFC74374E7030000E9EDB41B81","off":"000000000000000000000000000000"},{"offset":"E16E06","on":"E9054BE47E90","off":"4C89FF894374"}]}],"credits":["Celogamez"]}
+{
+  "name": "Bioshock Infinite: The Complete Edition",
+  "id": "CUSA03980",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5BFC0",
+          "on": "837B5805750FC783C03500000000FA44E90818C780C5FA1183C0350000E9FB17C780",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8CD7D5",
+          "on": "E9E6E7387F909090",
+          "off": "C5FA1183C0350000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Health+1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5BFC0",
+          "on": "837B5805750FC783C03500000000FA44E90818C780C783C035000000000000E9F917C780",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8CD7D5",
+          "on": "E9E6E7387F909090",
+          "off": "C5FA1183C0350000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5B340",
+          "on": "41C6871C0A000063E95A0AEE80",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "B3BDA0",
+          "on": "E99BF5117F9090",
+          "off": "4589B71C0A0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Salt",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5B9F0",
+          "on": "29D8418B4768E9A3A01B81",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "E15A98",
+          "on": "E9535FE47E90",
+          "off": "29D841894768"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Money On Buy (Don't Take More Money)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5B9D0",
+          "on": "41C74424649F860100E9069F1B81",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "E158DF",
+          "on": "E9EC60E47E",
+          "off": "4529742464"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Lockpicks On Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5B910",
+          "on": "4C89FFC74374E7030000E9EDB41B81",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "E16E06",
+          "on": "E9054BE47E90",
+          "off": "4C89FF894374"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

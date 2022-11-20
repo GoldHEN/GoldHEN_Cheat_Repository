@@ -1,1 +1,173 @@
-{"name":"零 ～濡鴉之巫女～","id":"CUSA28987","version":"01.04","process":"eboot.bin","mods":[{"name":"Camera Shutter Cooldown","type":"checkbox","memory":[{"offset":"12B7800","on":"41C785A40000000000803FE9EB5A21FF","off":"00000000000000000000000000000000"},{"offset":"4CD2F0","on":"E90BA5DE00909090909090","off":"41C785A400000000000000"}]},{"name":"Camera Film Cooldown","type":"checkbox","memory":[{"offset":"12B7843","on":"41C785A40000000000803FE9976021FF","off":"00000000000000000000000000000000"},{"offset":"4CD8DF","on":"E95F9FDE00909090909090","off":"41C785A400000000000000"}]},{"name":"HP Refill When Damage","type":"checkbox","memory":[{"offset":"4E4E13","on":"01D1","off":"29D1"},{"offset":"5D26BF","on":"7ED4","off":"7DD4"}]},{"name":"HP Refill when Grab by Hand","type":"checkbox","memory":[{"offset":"5D26BF","on":"7ED4","off":"7DD4"}]},{"name":"Reset Time","type":"checkbox","memory":[{"offset":"12B7811","on":"C7474C00000000E9EC242CFF","off":"000000000000000000000000"},{"offset":"579D04","on":"E908DBD300","off":"C5FA114F4C"}]},{"name":"Pause Time","type":"checkbox","memory":[{"offset":"579D04","on":"9090909090","off":"C5FA114F4C"}]},{"name":"Score + Points x2 (dont touch soul)","type":"checkbox","memory":[{"offset":"12B781E","on":"8B0F6BC902890F41894E50E9086412FF","off":"00000000000000000000000000000000"},{"offset":"3DDC30","on":"E9E99BED0090","off":"8B0F01F1890F"}]},{"name":"Score + Points + 99m (dont touch soul)","type":"checkbox","memory":[{"offset":"12B782F","on":"8B0F81C1FFE0F505890F41894E50E9F46312FF","off":"00000000000000000000000000000000000000"},{"offset":"3DDC30","on":"E9FA9BED0090","off":"8B0F01F1890F"}]},{"name":"+1 Item","type":"checkbox","memory":[{"offset":"3DE4DD","on":"8D5101","off":"8D51FF"}]},{"name":"+1 Film","type":"checkbox","memory":[{"offset":"3DF54B","on":"8D7701","off":"8D77FF"}]},{"name":"Max item per use","type":"checkbox","memory":[{"offset":"3DE4F0","on":"7E02","off":"7D02"}]},{"name":"Max Film per use","type":"checkbox","memory":[{"offset":"3DF55C","on":"7D02","off":"7E02"}]}],"credits":["d01v"]}
+{
+  "name": "零 ～濡鴉之巫女～",
+  "id": "CUSA28987",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Camera Shutter Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12B7800",
+          "on": "41C785A40000000000803FE9EB5A21FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "4CD2F0",
+          "on": "E90BA5DE00909090909090",
+          "off": "41C785A400000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Camera Film Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12B7843",
+          "on": "41C785A40000000000803FE9976021FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "4CD8DF",
+          "on": "E95F9FDE00909090909090",
+          "off": "41C785A400000000000000"
+        }
+      ]
+    },
+    {
+      "name": "HP Refill When Damage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4E4E13",
+          "on": "01D1",
+          "off": "29D1"
+        },
+        {
+          "offset": "5D26BF",
+          "on": "7ED4",
+          "off": "7DD4"
+        }
+      ]
+    },
+    {
+      "name": "HP Refill when Grab by Hand",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5D26BF",
+          "on": "7ED4",
+          "off": "7DD4"
+        }
+      ]
+    },
+    {
+      "name": "Reset Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12B7811",
+          "on": "C7474C00000000E9EC242CFF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "579D04",
+          "on": "E908DBD300",
+          "off": "C5FA114F4C"
+        }
+      ]
+    },
+    {
+      "name": "Pause Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "579D04",
+          "on": "9090909090",
+          "off": "C5FA114F4C"
+        }
+      ]
+    },
+    {
+      "name": "Score + Points x2 (dont touch soul)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12B781E",
+          "on": "8B0F6BC902890F41894E50E9086412FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "3DDC30",
+          "on": "E9E99BED0090",
+          "off": "8B0F01F1890F"
+        }
+      ]
+    },
+    {
+      "name": "Score + Points + 99m (dont touch soul)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12B782F",
+          "on": "8B0F81C1FFE0F505890F41894E50E9F46312FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3DDC30",
+          "on": "E9FA9BED0090",
+          "off": "8B0F01F1890F"
+        }
+      ]
+    },
+    {
+      "name": "+1 Item",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3DE4DD",
+          "on": "8D5101",
+          "off": "8D51FF"
+        }
+      ]
+    },
+    {
+      "name": "+1 Film",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3DF54B",
+          "on": "8D7701",
+          "off": "8D77FF"
+        }
+      ]
+    },
+    {
+      "name": "Max item per use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3DE4F0",
+          "on": "7E02",
+          "off": "7D02"
+        }
+      ]
+    },
+    {
+      "name": "Max Film per use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3DF55C",
+          "on": "7D02",
+          "off": "7E02"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
+}

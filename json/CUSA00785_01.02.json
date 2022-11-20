@@ -1,1 +1,54 @@
-{"name":"The Order: 1886","id":"CUSA00785","version":"01.02","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"7FC4BDC0","on":"6641817C243020F5750E41C78424D000000000001644EB0AC4C17A118424D0000000E9BE47DC80","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"A1059B","on":"E920B8237F9090909090","off":"C4C17A118424D0000000"}]},{"name":"Infinite Ammo/No reload","type":"checkbox","memory":[{"offset":"70C038","on":"909090909090","off":"298210030000"}]},{"name":"Infinite Throwables","type":"checkbox","memory":[{"offset":"7FC4BE30","on":"41C6871403000009E9D7BDA980","off":"00000000000000000000000000"},{"offset":"6E7C0D","on":"E91E42567F9090","off":"41898714030000"}]}],"credits":["Wander_9.00"]}
+{
+  "name": "The Order: 1886",
+  "id": "CUSA00785",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BDC0",
+          "on": "6641817C243020F5750E41C78424D000000000001644EB0AC4C17A118424D0000000E9BE47DC80",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A1059B",
+          "on": "E920B8237F9090909090",
+          "off": "C4C17A118424D0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/No reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "70C038",
+          "on": "909090909090",
+          "off": "298210030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Throwables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BE30",
+          "on": "41C6871403000009E9D7BDA980",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "6E7C0D",
+          "on": "E91E42567F9090",
+          "off": "41898714030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander_9.00"
+  ]
+}

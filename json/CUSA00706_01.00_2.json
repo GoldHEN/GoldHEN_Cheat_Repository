@@ -1,1 +1,214 @@
-{"name":"How to Survive: Storm Warning Edition","id":"CUSA00706","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"4D1590","on":"41C78424F006000000009643E9CF0FDEFF","off":"0000000000000000000000000000000000"},{"offset":"2B2566","on":"E925F021009090909090","off":"C4C17A118424F0060000"}]},{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"4D13E0","on":"C783901800000000803FE9239BDEFF","off":"000000000000000000000000000000"},{"offset":"2BAF0A","on":"E9D1642100909090","off":"C5FA118390180000"}]},{"name":"Never Hungry","type":"checkbox","memory":[{"offset":"4D14B0","on":"C783641900000000803FE91E60DDFF","off":"000000000000000000000000000000"},{"offset":"2A74D5","on":"E9D69F2200909090","off":"C5FA119364190000"}]},{"name":"Never Thirsty","type":"checkbox","memory":[{"offset":"4D1690","on":"C783681900000000803FE9925EDDFF","off":"000000000000000000000000000000"},{"offset":"2A7529","on":"E962A12200909090","off":"C5FA11A368190000"}]},{"name":"Never Tired","type":"checkbox","memory":[{"offset":"4D17A0","on":"C7836C1900000000803FE9D25DDDFF","off":"000000000000000000000000000000"},{"offset":"2A7579","on":"E922A22200909090","off":"C5FA119B6C190000"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"4D1750","on":"2B88B8000000C743043F420F00E9428ADFFF","off":"000000000000000000000000000000000000"},{"offset":"2CA19B","on":"E9B075200090909090","off":"2B88B8000000894B04"},{"offset":"2CA167","on":"90909090","off":"41894F0C"}]},{"name":"Infinite Items","type":"checkbox","memory":[{"offset":"1AB309","on":"9090909090","off":"41FF4C8608"}]},{"name":"Max XP on Gain","type":"checkbox","memory":[{"offset":"4D1460","on":"0F49F8C7430C7F969800E94584CEFF","off":"000000000000000000000000000000"},{"offset":"1B98AE","on":"E9AD7B310090","off":"0F49F8897B0C"}]},{"name":"Max Items on Use","type":"checkbox","memory":[{"offset":"4D14C0","on":"488D4C8B08FFC8C7017F969800E98CFCCDFF","off":"000000000000000000000000000000000000"},{"offset":"1B1155","on":"E96603320090909090","off":"488D4C8B08FFC88901"}]},{"name":"Infinite Torch","type":"checkbox","memory":[{"offset":"4D1420","on":"41C784245018000000007043E92A3ADEFF","off":"0000000000000000000000000000000000"},{"offset":"2B4E51","on":"E9CAC521009090909090","off":"C4C17A11842450180000"}]},{"name":"99,999,999 Items on Use","type":"checkbox","memory":[{"offset":"4D1520","on":"41C7448608FFE0F505E9E09DCDFF","off":"0000000000000000000000000000"},{"offset":"1AB309","on":"E912623200","off":"41FF4C8608"}]},{"name":"Infinite Skill Points","type":"checkbox","memory":[{"offset":"4D1610","on":"41C78680000000FF000000E942D5D0FF","off":"00000000000000000000000000000000"},{"offset":"1DEB5B","on":"E9B02A2F009090","off":"45898680000000"}]},{"name":"Gun shoots air if no ammo (Need 1 bullet) (Not lethal)","type":"checkbox","memory":[{"offset":"2CA167","on":"90909090","off":"41894F0C"}]}],"credits":["TylerMods_9.00"]}
+{
+  "name": "How to Survive: Storm Warning Edition",
+  "id": "CUSA00706",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D1590",
+          "on": "41C78424F006000000009643E9CF0FDEFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "2B2566",
+          "on": "E925F021009090909090",
+          "off": "C4C17A118424F0060000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D13E0",
+          "on": "C783901800000000803FE9239BDEFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2BAF0A",
+          "on": "E9D1642100909090",
+          "off": "C5FA118390180000"
+        }
+      ]
+    },
+    {
+      "name": "Never Hungry",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D14B0",
+          "on": "C783641900000000803FE91E60DDFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2A74D5",
+          "on": "E9D69F2200909090",
+          "off": "C5FA119364190000"
+        }
+      ]
+    },
+    {
+      "name": "Never Thirsty",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D1690",
+          "on": "C783681900000000803FE9925EDDFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2A7529",
+          "on": "E962A12200909090",
+          "off": "C5FA11A368190000"
+        }
+      ]
+    },
+    {
+      "name": "Never Tired",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D17A0",
+          "on": "C7836C1900000000803FE9D25DDDFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2A7579",
+          "on": "E922A22200909090",
+          "off": "C5FA119B6C190000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D1750",
+          "on": "2B88B8000000C743043F420F00E9428ADFFF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2CA19B",
+          "on": "E9B075200090909090",
+          "off": "2B88B8000000894B04"
+        },
+        {
+          "offset": "2CA167",
+          "on": "90909090",
+          "off": "41894F0C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB309",
+          "on": "9090909090",
+          "off": "41FF4C8608"
+        }
+      ]
+    },
+    {
+      "name": "Max XP on Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D1460",
+          "on": "0F49F8C7430C7F969800E94584CEFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1B98AE",
+          "on": "E9AD7B310090",
+          "off": "0F49F8897B0C"
+        }
+      ]
+    },
+    {
+      "name": "Max Items on Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D14C0",
+          "on": "488D4C8B08FFC8C7017F969800E98CFCCDFF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B1155",
+          "on": "E96603320090909090",
+          "off": "488D4C8B08FFC88901"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Torch",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D1420",
+          "on": "41C784245018000000007043E92A3ADEFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "2B4E51",
+          "on": "E9CAC521009090909090",
+          "off": "C4C17A11842450180000"
+        }
+      ]
+    },
+    {
+      "name": "99,999,999 Items on Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D1520",
+          "on": "41C7448608FFE0F505E9E09DCDFF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1AB309",
+          "on": "E912623200",
+          "off": "41FF4C8608"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D1610",
+          "on": "41C78680000000FF000000E942D5D0FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1DEB5B",
+          "on": "E9B02A2F009090",
+          "off": "45898680000000"
+        }
+      ]
+    },
+    {
+      "name": "Gun shoots air if no ammo (Need 1 bullet) (Not lethal)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2CA167",
+          "on": "90909090",
+          "off": "41894F0C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TylerMods_9.00"
+  ]
+}

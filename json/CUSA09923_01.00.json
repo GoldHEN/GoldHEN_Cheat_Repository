@@ -1,1 +1,59 @@
-{"name":"Digimon Story: Cyber Sleuth - Hackers Memory","id":"CUSA09923","version":"01.00","process":"eboot.bin","mods":[{"name":"Yen x9999999 (on buy)","type":"checkbox","memory":[{"offset":"AB3E30","on":"0F49C8C743487F969800E9B5175CFF","off":"000000000000000000000000000000"},{"offset":"755EE","on":"E93DE8A30090","off":"0F49C8894B48"}]},{"name":"Items x50 (on sell/use)","type":"checkbox","memory":[{"offset":"7FF0BF00","on":"29CAC7401432000000E9A5641680","off":"0000000000000000000000000000"},{"offset":"723AE","on":"E94D9BE97F","off":"29CA885014"}]},{"name":"Max Experience","type":"checkbox","memory":[{"offset":"7FC5BE30","on":"4885DB41C746707F969800E943194080","off":"00000000000000000000000000000000"},{"offset":"5D77C","on":"E9AFE6BF7F9090","off":"4885DB41894670"}]}],"credits":["Wander"]}
+{
+  "name": "Digimon Story: Cyber Sleuth - Hackers Memory",
+  "id": "CUSA09923",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Yen x9999999 (on buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "AB3E30",
+          "on": "0F49C8C743487F969800E9B5175CFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "755EE",
+          "on": "E93DE8A30090",
+          "off": "0F49C8894B48"
+        }
+      ]
+    },
+    {
+      "name": "Items x50 (on sell/use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FF0BF00",
+          "on": "29CAC7401432000000E9A5641680",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "723AE",
+          "on": "E94D9BE97F",
+          "off": "29CA885014"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5BE30",
+          "on": "4885DB41C746707F969800E943194080",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "5D77C",
+          "on": "E9AFE6BF7F9090",
+          "off": "4885DB41894670"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander"
+  ]
+}

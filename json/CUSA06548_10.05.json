@@ -1,1 +1,22 @@
-{"name":"Cities: Skylines","id":"CUSA06548","version":"10.05","process":"eboot.bin","mods":[{"name":"Max Money On Spend","type":"checkbox","memory":[{"offset":"80575B06","on":"909090909090909090","off":"C4C17A6F87A8000000"}]}],"credits":["Echo Stretch"]}
+{
+  "name": "Cities: Skylines",
+  "id": "CUSA06548",
+  "version": "10.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money On Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80575B06",
+          "on": "909090909090909090",
+          "off": "C4C17A6F87A8000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Echo Stretch"
+  ]
+}

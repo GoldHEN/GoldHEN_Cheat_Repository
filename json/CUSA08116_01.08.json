@@ -1,11 +1,110 @@
-{"name":"Final Fantasy XII The Zodiac Age 最终幻想12 黄道纪元","id":"CUSA08116","version":"01.08","process":"eboot.bin","mods":[
-{"name":"Gil 99999999 所持金99999999","type":"checkbox","memory":[{"offset":"00244EA5","on":"909090","off":"0F4EC8"}]},
-{"name":"Infinite Item 无限道具","type":"checkbox","memory":[{"offset":"0016BDC7","on":"89D190","off":"4401F1"}]},
-{"name":"EXP Multi 10 on Gain 经验值10倍获得","type":"checkbox","memory":[{"offset":"1AB33F04","on":"01","off":"00"}]},
-{"name":"LP 9999999 on Gain LP获得时9999999","type":"checkbox","memory":[{"offset":"003BFF02","on":"89C890","off":"0F47C1"}]},
-{"name":"Infinite HP 无限HP","type":"checkbox","memory":[{"offset":"1AB33F00","on":"01","off":"00"}]},
-{"name":"Infinite MP 无限MP","type":"checkbox","memory":[{"offset":"1AB33F01","on":"01","off":"00"}]},
-{"name":"Always Action 一直可以行动","type":"checkbox","memory":[{"offset":"1AB33F03","on":"01","off":"00"}]},
-{"name":"EXP Max on Gain 经验值最大获得","type":"checkbox","memory":[{"offset":"1AB33F05","on":"01","off":"00"}]},
-{"name":"One Hit Kill","type":"checkbox","memory":[{"offset":"1AB33F06","on":"01","off":"00"}]}
-],"credits":[" Fullcodes（PLAYSTATION/PC修改讨论群:1167084913）"]}
+{
+  "name": "Final Fantasy XII The Zodiac Age 最终幻想12 黄道纪元",
+  "id": "CUSA08116",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Gil 99999999 所持金99999999",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "00244EA5",
+          "on": "909090",
+          "off": "0F4EC8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Item 无限道具",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "0016BDC7",
+          "on": "89D190",
+          "off": "4401F1"
+        }
+      ]
+    },
+    {
+      "name": "EXP Multi 10 on Gain 经验值10倍获得",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB33F04",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "LP 9999999 on Gain LP获得时9999999",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "003BFF02",
+          "on": "89C890",
+          "off": "0F47C1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite HP 无限HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB33F00",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP 无限MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB33F01",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Always Action 一直可以行动",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB33F03",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "EXP Max on Gain 经验值最大获得",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB33F05",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB33F06",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    " Fullcodes（PLAYSTATION/PC修改讨论群:1167084913）"
+  ]
+}

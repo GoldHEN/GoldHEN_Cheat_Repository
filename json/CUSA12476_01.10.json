@@ -1,1 +1,33 @@
-{"name":"NBA 2K19","id":"CUSA12476","version":"01.10","process":"eboot.bin","mods":[{"name":"infi skill points","type":"checkbox","memory":[{"offset":"3F3EF7","on":"90909090909090","off":"4489B82C434400"}]},{"name":"max skill points","type":"checkbox","memory":[{"offset":"3F3EF7","on":"89802C434400","off":"89802C434400"}]}],"credits":["AhmadCH"]}
+{
+  "name": "NBA 2K19",
+  "id": "CUSA12476",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "infi skill points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3F3EF7",
+          "on": "90909090909090",
+          "off": "4489B82C434400"
+        }
+      ]
+    },
+    {
+      "name": "max skill points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3F3EF7",
+          "on": "89802C434400",
+          "off": "89802C434400"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "AhmadCH"
+  ]
+}

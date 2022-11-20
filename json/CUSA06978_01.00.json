@@ -1,1 +1,75 @@
-{"name":"Tokyo Xanadu eX+","id":"CUSA06978","version":"01.00","process":"eboot.bin","mods":[{"name":"Max Yen (on buy)","type":"checkbox","memory":[{"offset":"7FC5A900","on":"C780088264007F969800E9FE5B5880","off":"000000000000000000000000000000"},{"offset":"1E0507","on":"E9F4A3A77F90","off":"898808826400"}]},{"name":"Items x99 (on use/sell)","type":"checkbox","memory":[{"offset":"7FC5A930","on":"41C644080463E945015880","off":"0000000000000000000000"},{"offset":"1DAA7B","on":"E9B0FEA77F","off":"4189440804"}]},{"name":"Max Level","type":"checkbox","memory":[{"offset":"7FC5A1D0","on":"C4E1FA2CC0814318FFE0F505E944335080","off":"0000000000000000000000000000000000"},{"offset":"15D51D","on":"E9AECCAF7F909090","off":"C4E1FA2CC0014318"}]},{"name":"Max Gems (on collect)","type":"checkbox","memory":[{"offset":"7FC5A210","on":"C780148264007F969800E9E5635880","off":"000000000000000000000000000000"},{"offset":"1E05FE","on":"E90D9CA77F90","off":"898814826400"}]}],"credits":["Wander_9.00"]}
+{
+  "name": "Tokyo Xanadu eX+",
+  "id": "CUSA06978",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Yen (on buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5A900",
+          "on": "C780088264007F969800E9FE5B5880",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1E0507",
+          "on": "E9F4A3A77F90",
+          "off": "898808826400"
+        }
+      ]
+    },
+    {
+      "name": "Items x99 (on use/sell)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5A930",
+          "on": "41C644080463E945015880",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "1DAA7B",
+          "on": "E9B0FEA77F",
+          "off": "4189440804"
+        }
+      ]
+    },
+    {
+      "name": "Max Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5A1D0",
+          "on": "C4E1FA2CC0814318FFE0F505E944335080",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "15D51D",
+          "on": "E9AECCAF7F909090",
+          "off": "C4E1FA2CC0014318"
+        }
+      ]
+    },
+    {
+      "name": "Max Gems (on collect)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5A210",
+          "on": "C780148264007F969800E9E5635880",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1E05FE",
+          "on": "E90D9CA77F90",
+          "off": "898814826400"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander_9.00"
+  ]
+}

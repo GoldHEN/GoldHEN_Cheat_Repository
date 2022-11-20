@@ -1,1 +1,115 @@
-{"name":"Ary and the Secret of Seasons","id":"CUSA13262","version":"01.04","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"7FEA38C0","on":"8B7734897730E94AE79300","off":"0000000000000000000000"},{"offset":"807E200E","on":"E9AD186CFF9090","off":"8B7424F4897730"}]},{"name":"Easy Kill","type":"checkbox","memory":[{"offset":"7FEA38E0","on":"C7474800000000E9BFA69A00","off":"000000000000000000000000"},{"offset":"8084DFA6","on":"E9355965FF","off":"C5FA114748"}]},{"name":"Max Gold / Consumables (On Get / Spend)","type":"checkbox","memory":[{"offset":"7FEA3900","on":"488B55E0817D087B13BE807536C7422C3F420F00C7422063000000C7422463000000C7422863000000C7423063000000C7423463000000C7423863000000E9D7E7930089448A20E9CEE79300","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"807E2112","on":"E9E9176CFF909090","off":"488B55E089448A20"}]},{"name":"Super Jump","type":"checkbox","memory":[{"offset":"7FEA3970","on":"C7473C00C00A44C5FA10473CE9EEFC9500","off":"0000000000000000000000000000000000"},{"offset":"8080366A","on":"E901036AFF","off":"C5FA10473C"}]},{"name":"Super Extra Jump","type":"checkbox","memory":[{"offset":"7FEA3990","on":"C7474400404244C5FA104744E93E7E0C01","off":"0000000000000000000000000000000000"},{"offset":"80F6B7DA","on":"E9B181F3FE","off":"C5FA104744"}]},{"name":"Default Jump (Use With Super Jump)","type":"checkbox","memory":[{"section":"8","offset":"113970","on":"C7473C00000040","off":"C7473C00C00A44"}]},{"name":"Default Extra Jump (Use With Super Extra Jump)","type":"checkbox","memory":[{"section":"8","offset":"113990","on":"C7474400000C42","off":"C7474400404244"}]}],"credits":["saso"]}
+{
+  "name": "Ary and the Secret of Seasons",
+  "id": "CUSA13262",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA38C0",
+          "on": "8B7734897730E94AE79300",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "807E200E",
+          "on": "E9AD186CFF9090",
+          "off": "8B7424F4897730"
+        }
+      ]
+    },
+    {
+      "name": "Easy Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA38E0",
+          "on": "C7474800000000E9BFA69A00",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "8084DFA6",
+          "on": "E9355965FF",
+          "off": "C5FA114748"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold / Consumables (On Get / Spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA3900",
+          "on": "488B55E0817D087B13BE807536C7422C3F420F00C7422063000000C7422463000000C7422863000000C7423063000000C7423463000000C7423863000000E9D7E7930089448A20E9CEE79300",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "807E2112",
+          "on": "E9E9176CFF909090",
+          "off": "488B55E089448A20"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA3970",
+          "on": "C7473C00C00A44C5FA10473CE9EEFC9500",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "8080366A",
+          "on": "E901036AFF",
+          "off": "C5FA10473C"
+        }
+      ]
+    },
+    {
+      "name": "Super Extra Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA3990",
+          "on": "C7474400404244C5FA104744E93E7E0C01",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80F6B7DA",
+          "on": "E9B181F3FE",
+          "off": "C5FA104744"
+        }
+      ]
+    },
+    {
+      "name": "Default Jump (Use With Super Jump)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "8",
+          "offset": "113970",
+          "on": "C7473C00000040",
+          "off": "C7473C00C00A44"
+        }
+      ]
+    },
+    {
+      "name": "Default Extra Jump (Use With Super Extra Jump)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "8",
+          "offset": "113990",
+          "on": "C7474400000C42",
+          "off": "C7474400404244"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "saso"
+  ]
+}

@@ -1,1 +1,71 @@
-{"name":"Team Sonic Racing","id":"CUSA11115","version":"01.02","process":"eboot.bin","mods":[{"name":"Infinite Mod-Capsules ( You need 10 caps )","type":"checkbox","memory":[{"offset":"C37800","on":"C783082600003F420F00E9F3C27DFF","off":"000000000000000000000000000000"},{"offset":"413AFB","on":"E9003D82009090","off":"83830C2600000A"}]},{"name":"Infinite Box Item ( after collect )","type":"checkbox","memory":[{"offset":"7145FC","on":"8916","off":"8906"}]},{"name":"Max Rings ( on collect )","type":"checkbox","memory":[{"offset":"2FC859","on":"41BEFFC99A3B90","off":"4489B7D4000000"}]},{"name":"Freeze Timer ( Grand Prix )","type":"checkbox","memory":[{"offset":"608F5C","on":"90909090","off":"C5F25CCA"}]},{"name":"Freeze Timer ( Time Trial )","type":"checkbox","memory":[{"offset":"68D5F3","on":"C4C17A1187106D0400","off":"C4C17A118F106D0400"}]}],"credits":["Reddevil82_9.00"]}
+{
+  "name": "Team Sonic Racing",
+  "id": "CUSA11115",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Mod-Capsules ( You need 10 caps )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C37800",
+          "on": "C783082600003F420F00E9F3C27DFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "413AFB",
+          "on": "E9003D82009090",
+          "off": "83830C2600000A"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Box Item ( after collect )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7145FC",
+          "on": "8916",
+          "off": "8906"
+        }
+      ]
+    },
+    {
+      "name": "Max Rings ( on collect )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2FC859",
+          "on": "41BEFFC99A3B90",
+          "off": "4489B7D4000000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer ( Grand Prix )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "608F5C",
+          "on": "90909090",
+          "off": "C5F25CCA"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer ( Time Trial )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "68D5F3",
+          "on": "C4C17A1187106D0400",
+          "off": "C4C17A118F106D0400"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82_9.00"
+  ]
+}

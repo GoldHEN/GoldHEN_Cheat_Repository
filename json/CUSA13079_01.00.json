@@ -1,1 +1,70 @@
-{"name":"Ni no Kuni Wrath of the White Witch™ Remastered","id":"CUSA13079","version":"01.00","process":"eboot.bin","mods":[{"name":"Max Exp","type":"checkbox","memory":[{"offset":"E6FB52","on":"C747083F420F00B001E9753F70FF","off":"0000000000000000000000000000"},{"offset":"573AD0","on":"E97DC08F00","off":"017708B001"}]},{"name":"Max Gold","type":"checkbox","memory":[{"offset":"E6FB60","on":"C74704FFE0F505B001E9773F70FF","off":"0000000000000000000000000000"},{"offset":"573AE0","on":"E97BC08F00","off":"017704B001"}]},{"name":"+1 item","type":"checkbox","memory":[{"offset":"58E7D5","on":"660355D4","off":"662B55D4"}]},{"name":"Merit Cards Required 0","type":"checkbox","memory":[{"offset":"E6FB6E","on":"B900000000898EA0DF0CFF894E24E9C5F536FF","off":"00000000000000000000000000000000000000"},{"offset":"1DF140","on":"E9290AC90090","off":"0FBFC8894E24"}]}],"credits":["d01v"]}
+{
+  "name": "Ni no Kuni Wrath of the White Witch™ Remastered",
+  "id": "CUSA13079",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Exp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E6FB52",
+          "on": "C747083F420F00B001E9753F70FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "573AD0",
+          "on": "E97DC08F00",
+          "off": "017708B001"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E6FB60",
+          "on": "C74704FFE0F505B001E9773F70FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "573AE0",
+          "on": "E97BC08F00",
+          "off": "017704B001"
+        }
+      ]
+    },
+    {
+      "name": "+1 item",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "58E7D5",
+          "on": "660355D4",
+          "off": "662B55D4"
+        }
+      ]
+    },
+    {
+      "name": "Merit Cards Required 0",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E6FB6E",
+          "on": "B900000000898EA0DF0CFF894E24E9C5F536FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1DF140",
+          "on": "E9290AC90090",
+          "off": "0FBFC8894E24"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
+}

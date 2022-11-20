@@ -4,7 +4,7 @@
   "version": "01.00",
   "process": "eboot.bin",
   "mods": [
-	{
+    {
       "name": "Godmode",
       "hint": null,
       "type": "checkbox",
@@ -14,14 +14,14 @@
           "on": "41C78424F00600000000F0429090",
           "off": "C5F25CC0C4C17A118424F0060000"
         },
-		{
+        {
           "offset": "6A762D",
           "on": "C783F00600000000F0429090",
           "off": "C5FA5CC2C5FA1183F0060000"
         }
       ]
     },
-	{
+    {
       "name": "No Hunger",
       "hint": null,
       "type": "checkbox",
@@ -33,7 +33,7 @@
         }
       ]
     },
-	{
+    {
       "name": "No Thirst",
       "hint": null,
       "type": "checkbox",
@@ -45,7 +45,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Never Tired",
       "hint": null,
       "type": "checkbox",
@@ -57,7 +57,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Infinite Stamina",
       "hint": null,
       "type": "checkbox",
@@ -69,7 +69,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Infinite Ammo",
       "hint": null,
       "type": "checkbox",
@@ -79,19 +79,19 @@
           "on": "909090",
           "off": "894B04"
         },
-		{
+        {
           "offset": "6CA161",
           "on": "41C7470CE70300009090",
           "off": "8D49FF0F4EC841894F0C"
         },
-		{
+        {
           "offset": "6CA19B",
           "on": "C74304E70300009090",
           "off": "2B88B8000000894B04"
         }
       ]
     },
-	{
+    {
       "name": "Infinite Firesticks",
       "hint": null,
       "type": "checkbox",
@@ -103,7 +103,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Infinite Items",
       "hint": null,
       "type": "checkbox",
@@ -113,27 +113,27 @@
           "on": "FFC0",
           "off": "FFC8"
         },
-		{
+        {
           "offset": "5A7FEB",
           "on": "01D1",
           "off": "29D1"
         },
-		{
+        {
           "offset": "5AB309",
           "on": "41FF448608",
           "off": "41FF4C8608"
         },
-		{
+        {
           "offset": "5A9F35",
           "on": "038D10FBFFFF",
           "off": "2B8D10FBFFFF"
         },
-		{
+        {
           "offset": "5A9ED3",
           "on": "038D14FBFFFF",
           "off": "2B8D14FBFFFF"
         },
-		{
+        {
           "offset": "5A9ED3",
           "on": "038D14FBFFFF",
           "off": "2B8D14FBFFFF"
@@ -167,6 +167,6 @@
   ],
   "credits": [
     "DeathRGH",
-	"RS Glitching"
+    "RS Glitching"
   ]
 }

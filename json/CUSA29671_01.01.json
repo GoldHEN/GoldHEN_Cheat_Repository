@@ -1,1 +1,88 @@
-{"name":"Airport Simulator - Day & Night","id":"CUSA29671","version":"01.01","process":"eboot.bin","mods":[{"name":"Max Money","type":"checkbox","memory":[{"offset":"183BE80","on":"5048B8000080FF64CDCD4148894110C5FB10411058E9FA87E37E","off":"0000000000000000000000000000000000000000000000000000"},{"offset":"8067468F","on":"E9EC771C81","off":"C5FB104110"}]},{"name":"Infinite Buy Task","type":"checkbox","memory":[{"offset":"183BE9A","on":"0F84A82CE37EC7402C63000000E9672CE37E","off":"000000000000000000000000000000000000"},{"offset":"8066EB0E","on":"E987D31C81","off":"743EFF482C"}]},{"name":"Unlimited Player Upgrades ( after 1st successful task )","type":"checkbox","memory":[{"section":"14","offset":"1B52A1","on":"9090","off":"FFC8"}]},{"name":"Unlimited XP Points ( after 1st successful task )","type":"checkbox","memory":[{"offset":"183BEAC","on":"41817C241C7F969800770B41BE7F969800450174241CE9F90EC57E","off":"000000000000000000000000000000000000000000000000000000"},{"offset":"8048CDBB","on":"E9ECF03A81","off":"450174241C"}]},{"name":"Max Level ( after 1st successful task )","type":"checkbox","memory":[{"offset":"183BEC7","on":"B80A00000041894618E92312C57E","off":"0000000000000000000000000000"},{"offset":"8048D0F2","on":"E9D0ED3A8190","off":"FFC041894618"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "Airport Simulator - Day & Night",
+  "id": "CUSA29671",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "183BE80",
+          "on": "5048B8000080FF64CDCD4148894110C5FB10411058E9FA87E37E",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8067468F",
+          "on": "E9EC771C81",
+          "off": "C5FB104110"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Buy Task",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "183BE9A",
+          "on": "0F84A82CE37EC7402C63000000E9672CE37E",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8066EB0E",
+          "on": "E987D31C81",
+          "off": "743EFF482C"
+        }
+      ]
+    },
+    {
+      "name": "Unlimited Player Upgrades ( after 1st successful task )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "1B52A1",
+          "on": "9090",
+          "off": "FFC8"
+        }
+      ]
+    },
+    {
+      "name": "Unlimited XP Points ( after 1st successful task )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "183BEAC",
+          "on": "41817C241C7F969800770B41BE7F969800450174241CE9F90EC57E",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8048CDBB",
+          "on": "E9ECF03A81",
+          "off": "450174241C"
+        }
+      ]
+    },
+    {
+      "name": "Max Level ( after 1st successful task )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "183BEC7",
+          "on": "B80A00000041894618E92312C57E",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "8048D0F2",
+          "on": "E9D0ED3A8190",
+          "off": "FFC041894618"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

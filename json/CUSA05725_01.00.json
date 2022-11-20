@@ -1,1 +1,43 @@
-{"name":"The Witcher 3: Wild Hunt – Complete Edition","id":"CUSA05725","version":"01.00","process":"eboot.bin","mods":[{"name":"Max Money (on buy affect items as well)","type":"checkbox","memory":[{"offset":"7FC4FDB0","on":"8B4DACF7D9C7009F860100E9636BA180","off":"00000000000000000000000000000000"},{"offset":"66691C","on":"E98F945E7F9090","off":"8B4DACF7D98910"}]},{"name":"Skill points x999 (on spent Press X at confirm screen, deactivate cheat","type":"checkbox","memory":[{"offset":"7FE37DA0","on":"2B45C86641C70424E703E9D772F780","off":"000000000000000000000000000000"},{"offset":"DAF07F","on":"E91C8D087F9090","off":"2B45C841890424"}]}],"credits":["Wander_9.00"]}
+{
+  "name": "The Witcher 3: Wild Hunt – Complete Edition",
+  "id": "CUSA05725",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money (on buy affect items as well)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4FDB0",
+          "on": "8B4DACF7D9C7009F860100E9636BA180",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "66691C",
+          "on": "E98F945E7F9090",
+          "off": "8B4DACF7D98910"
+        }
+      ]
+    },
+    {
+      "name": "Skill points x999 (on spent Press X at confirm screen, deactivate cheat",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FE37DA0",
+          "on": "2B45C86641C70424E703E9D772F780",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "DAF07F",
+          "on": "E91C8D087F9090",
+          "off": "2B45C841890424"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander_9.00"
+  ]
+}

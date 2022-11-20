@@ -1,1 +1,55 @@
-{"name":"Resident Evil™","id":"CUSA01067","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"18A9F3","on":"90909090909090","off":"4189864C170000"}]},{"name":"1 Hit Kills","type":"checkbox","memory":[{"offset":"18A97A","on":"31C9","off":"29D9"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"349FA6","on":"909090909090","off":"898B24130000"}]},{"name":"Infinite Tapes","type":"checkbox","memory":[{"offset":"CF0B0","on":"90909090","off":"45897504"}]}],"credits":["Karo"]}
+{
+  "name": "Resident Evil™",
+  "id": "CUSA01067",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18A9F3",
+          "on": "90909090909090",
+          "off": "4189864C170000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18A97A",
+          "on": "31C9",
+          "off": "29D9"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "349FA6",
+          "on": "909090909090",
+          "off": "898B24130000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Tapes",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CF0B0",
+          "on": "90909090",
+          "off": "45897504"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Karo"
+  ]
+}

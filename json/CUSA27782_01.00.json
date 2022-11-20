@@ -1,1 +1,123 @@
-{"name":"Wife Quest","id":"CUSA27782","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Health (5 hearts)","type":"checkbox","memory":[{"offset":"7FC5DB50","on":"C740180000A040E91553B700","off":"000000000000000000000000"},{"offset":"807D2E6C","on":"E9DFAC48FF","off":"C5FA114018"}]},{"name":"Max Coins (on gain)","type":"checkbox","memory":[{"offset":"7FC5DB80","on":"4401F8C743307F969800E9A8A0AA00","off":"000000000000000000000000000000"},{"offset":"80707C31","on":"E94A5F55FF90","off":"4401F8894330"}]},{"name":"Infinite Shield","type":"checkbox","memory":[{"offset":"7FC5DBB0","on":"C7401800004041E9E1CAB600","off":"000000000000000000000000"},{"offset":"807CA698","on":"E9133549FF","off":"C5FA114018"}]},{"name":"Infinite Gliding","type":"checkbox","memory":[{"offset":"7FC5DBE0","on":"C7401800005041E9A7DAB700","off":"000000000000000000000000"},{"offset":"807DB68E","on":"E94D2548FF","off":"C5FA114018"}]},{"name":"No Fall Damage","type":"checkbox","memory":[{"section":"14","offset":"51FD76","on":"9090909090","off":"C5FA114018"}]},{"name":"Infinite Club Smash","type":"checkbox","memory":[{"section":"14","offset":"515C02","on":"9090909090","off":"C5FA114018"}]},{"name":"Infinite Dash","type":"checkbox","memory":[{"section":"14","offset":"51C760","on":"9090909090","off":"C5FA114018"}]},{"name":"Infinite Bow shots","type":"checkbox","memory":[{"section":"14","offset":"42C217","on":"9090909090","off":"C5FA114018"}]}],"credits":["wander FW9.00"]}
+{
+  "name": "Wife Quest",
+  "id": "CUSA27782",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (5 hearts)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5DB50",
+          "on": "C740180000A040E91553B700",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "807D2E6C",
+          "on": "E9DFAC48FF",
+          "off": "C5FA114018"
+        }
+      ]
+    },
+    {
+      "name": "Max Coins (on gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5DB80",
+          "on": "4401F8C743307F969800E9A8A0AA00",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80707C31",
+          "on": "E94A5F55FF90",
+          "off": "4401F8894330"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Shield",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5DBB0",
+          "on": "C7401800004041E9E1CAB600",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "807CA698",
+          "on": "E9133549FF",
+          "off": "C5FA114018"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gliding",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5DBE0",
+          "on": "C7401800005041E9A7DAB700",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "807DB68E",
+          "on": "E94D2548FF",
+          "off": "C5FA114018"
+        }
+      ]
+    },
+    {
+      "name": "No Fall Damage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "51FD76",
+          "on": "9090909090",
+          "off": "C5FA114018"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Club Smash",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "515C02",
+          "on": "9090909090",
+          "off": "C5FA114018"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Dash",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "51C760",
+          "on": "9090909090",
+          "off": "C5FA114018"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Bow shots",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "42C217",
+          "on": "9090909090",
+          "off": "C5FA114018"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "wander FW9.00"
+  ]
+}

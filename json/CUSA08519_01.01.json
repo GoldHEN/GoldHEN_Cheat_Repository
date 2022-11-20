@@ -1,1 +1,22 @@
-{"name":"Red Dead Redemption 2","id":"CUSA08519","version":"01.01","process":"eboot.bin","mods":[{"name":"Inf Health, Stamina. Inf Horse Health, Stamina.","type":"checkbox","memory":[{"offset":"8B6C1D","on":"90909090","off":"C5FA1100"}]}],"credits":["Borz"]}
+{
+  "name": "Red Dead Redemption 2",
+  "id": "CUSA08519",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health, Stamina. Inf Horse Health, Stamina.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8B6C1D",
+          "on": "90909090",
+          "off": "C5FA1100"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Borz"
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"10 Second Ninja X","id":"CUSA04692","version":"01.00","process":"eboot.bin","mods":[{"name":"No Timer","type":"checkbox","memory":[{"offset":"3DF800","on":"41817E108C120000750F41C746040000244041C70600000000498B06488903E9B66AC5FF","off":"000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"362D4","on":"E927953A0090","off":"498B06488903"}]}],"credits":["Saso_9.00"]}
+{
+  "name": "10 Second Ninja X",
+  "id": "CUSA04692",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "No Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3DF800",
+          "on": "41817E108C120000750F41C746040000244041C70600000000498B06488903E9B66AC5FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "362D4",
+          "on": "E927953A0090",
+          "off": "498B06488903"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

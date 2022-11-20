@@ -1,1 +1,104 @@
-{"name":"MLB® The Show™ 18","id":"CUSA09450","version":"01.16","process":"eboot.bin","mods":[{"name":"Always Homerun","type":"checkbox","memory":[{"offset":"1193379","on":"9090909090909090","off":"C5F057C9C5F82EC1"}]},{"name":"Autohit 1200.0MPH Incline 19.0deg Azimuth 5.5deg","type":"checkbox","memory":[{"offset":"1192F10","on":"C605A9AC340B0148C705A2AC340B0000984148C7059BAC340B0000B04048C705F09B7B0000009644E9830000009090","off":"4183BD002F0000030F85A20000004C8954244841C785002F000004000000E84DDA4300E848DA430048390549975E08"}]},{"name":"Always Throw FB Middle","type":"checkbox","memory":[{"offset":"1A221E2","on":"01","off":"00"}]},{"name":"Always Swing and Miss","type":"checkbox","memory":[{"offset":"1A221E0","on":"01","off":"00"}]},{"name":"Stop the Ball (and steal)","type":"checkbox","memory":[{"offset":"11923A0","on":"C3","off":"55"}]},{"name":"Just training (in calendar screen only)","type":"checkbox","memory":[{"offset":"98BAEE7","on":"00","off":"01"}]},{"name":"Add score 31 runs per hit","type":"checkbox","memory":[{"offset":"B0902D","on":"41B61F90","off":"448B7308"},{"offset":"B09020","on":"41BE08000000","off":"0F8435090000"}]},{"name":"Maximum hitspeed 3500MPH","type":"checkbox","memory":[{"offset":"163F5A0","on":"00A0A545","off":"00000243"}]}],"credits":["thrill"]}
+{
+  "name": "MLB® The Show™ 18",
+  "id": "CUSA09450",
+  "version": "01.16",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Always Homerun",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1193379",
+          "on": "9090909090909090",
+          "off": "C5F057C9C5F82EC1"
+        }
+      ]
+    },
+    {
+      "name": "Autohit 1200.0MPH Incline 19.0deg Azimuth 5.5deg",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1192F10",
+          "on": "C605A9AC340B0148C705A2AC340B0000984148C7059BAC340B0000B04048C705F09B7B0000009644E9830000009090",
+          "off": "4183BD002F0000030F85A20000004C8954244841C785002F000004000000E84DDA4300E848DA430048390549975E08"
+        }
+      ]
+    },
+    {
+      "name": "Always Throw FB Middle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A221E2",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Always Swing and Miss",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A221E0",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Stop the Ball (and steal)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11923A0",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    },
+    {
+      "name": "Just training (in calendar screen only)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "98BAEE7",
+          "on": "00",
+          "off": "01"
+        }
+      ]
+    },
+    {
+      "name": "Add score 31 runs per hit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B0902D",
+          "on": "41B61F90",
+          "off": "448B7308"
+        },
+        {
+          "offset": "B09020",
+          "on": "41BE08000000",
+          "off": "0F8435090000"
+        }
+      ]
+    },
+    {
+      "name": "Maximum hitspeed 3500MPH",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "163F5A0",
+          "on": "00A0A545",
+          "off": "00000243"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "thrill"
+  ]
+}

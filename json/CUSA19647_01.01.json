@@ -1,1 +1,104 @@
-{"name":"Blaster Master Zero","id":"CUSA19647","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite HP","type":"checkbox","memory":[{"offset":"377CC7","on":"41807C246000751141807C246401750941394C24107C02EB0541894C2410E93E90CDFF","off":"0000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"50D23","on":"E99F6F3200","off":"41894C2410"}]},{"name":"Infinite Sub Weapon","type":"checkbox","memory":[{"offset":"13DEF4","on":"909090","off":"88581A"}]},{"name":"Infinite Grenade","type":"checkbox","memory":[{"offset":"17176F","on":"9090","off":"8808"}]},{"name":"All Guns (Dungeon)","type":"checkbox","memory":[{"offset":"17189F","on":"B00890","off":"4028F8"}]},{"name":"Thunder Breaker (Sub Weapon Press L1)","type":"checkbox","memory":[{"offset":"173022","on":"41B50190","off":"45026F0C"}]},{"name":"Homing Missle (Sub Weapon Press L1)","type":"checkbox","memory":[{"offset":"173022","on":"41B50290","off":"45026F0C"}]},{"name":"Spark Tackle (Sub Weapon Press L1)","type":"checkbox","memory":[{"offset":"173022","on":"41B50390","off":"45026F0C"}]},{"name":"Shield Mine (Sub Weapon Press L1)","type":"checkbox","memory":[{"offset":"173022","on":"41B50490","off":"45026F0C"}]}],"credits":["d01v"]}
+{
+  "name": "Blaster Master Zero",
+  "id": "CUSA19647",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "377CC7",
+          "on": "41807C246000751141807C246401750941394C24107C02EB0541894C2410E93E90CDFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "50D23",
+          "on": "E99F6F3200",
+          "off": "41894C2410"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Sub Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13DEF4",
+          "on": "909090",
+          "off": "88581A"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Grenade",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17176F",
+          "on": "9090",
+          "off": "8808"
+        }
+      ]
+    },
+    {
+      "name": "All Guns (Dungeon)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17189F",
+          "on": "B00890",
+          "off": "4028F8"
+        }
+      ]
+    },
+    {
+      "name": "Thunder Breaker (Sub Weapon Press L1)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "173022",
+          "on": "41B50190",
+          "off": "45026F0C"
+        }
+      ]
+    },
+    {
+      "name": "Homing Missle (Sub Weapon Press L1)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "173022",
+          "on": "41B50290",
+          "off": "45026F0C"
+        }
+      ]
+    },
+    {
+      "name": "Spark Tackle (Sub Weapon Press L1)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "173022",
+          "on": "41B50390",
+          "off": "45026F0C"
+        }
+      ]
+    },
+    {
+      "name": "Shield Mine (Sub Weapon Press L1)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "173022",
+          "on": "41B50490",
+          "off": "45026F0C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
+}

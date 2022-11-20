@@ -1,1 +1,70 @@
-{"name":"Far Cry® 3 Blood Dragon Classic Edition","id":"CUSA29007","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Health Seryngs","type":"checkbox","memory":[{"offset":"7FC5E4D0","on":"C6839000000003E97E776A81","off":"000000000000000000000000"},{"offset":"1305C54","on":"E97788957E90","off":"898390000000"}]},{"name":"Max/Infinite Ammo/No Reload","type":"checkbox","memory":[{"offset":"7FC5E2F0","on":"C681D800000063E9C8B35281","off":"000000000000000000000000"},{"offset":"11896BE","on":"E92D4CAD7E90","off":"8991D8000000"}]},{"name":"Infinite Throwables (After Getting Throwables)","type":"checkbox","memory":[{"offset":"12B5AFF","on":"418B4770","off":"41894770"},{"offset":"324A44","on":"418B07","off":"418907"}]},{"name":"Max Money (Buy On Refill Inventory N Turn Off)","type":"checkbox","memory":[{"offset":"12848D0","on":"894709","off":"8B4708"}]}],"credits":["Celogamez"]}
+{
+  "name": "Far Cry® 3 Blood Dragon Classic Edition",
+  "id": "CUSA29007",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health Seryngs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E4D0",
+          "on": "C6839000000003E97E776A81",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "1305C54",
+          "on": "E97788957E90",
+          "off": "898390000000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Ammo/No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E2F0",
+          "on": "C681D800000063E9C8B35281",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "11896BE",
+          "on": "E92D4CAD7E90",
+          "off": "8991D8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Throwables (After Getting Throwables)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12B5AFF",
+          "on": "418B4770",
+          "off": "41894770"
+        },
+        {
+          "offset": "324A44",
+          "on": "418B07",
+          "off": "418907"
+        }
+      ]
+    },
+    {
+      "name": "Max Money (Buy On Refill Inventory N Turn Off)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12848D0",
+          "on": "894709",
+          "off": "8B4708"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

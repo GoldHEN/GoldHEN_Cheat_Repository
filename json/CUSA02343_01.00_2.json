@@ -1,1 +1,22 @@
-{"name":"Uncharted Collection: Uncharted 1","id":"CUSA02343","version":"01.00","process":"eboot.bin","mods":[{"name":"Enable Debug Menu","type":"button","memory":[{"offset":"2cf8b0","on":"41C687E847000000EB04AC0E000041C6874448000001EB05849D0E0000","off":"41C687E847000000EB04AC0E000041C6874448000001EB05849D0E0000"}]}],"credits":["DeathRGH"]}
+{
+  "name": "Uncharted Collection: Uncharted 1",
+  "id": "CUSA02343",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Enable Debug Menu",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "2cf8b0",
+          "on": "41C687E847000000EB04AC0E000041C6874448000001EB05849D0E0000",
+          "off": "41C687E847000000EB04AC0E000041C6874448000001EB05849D0E0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

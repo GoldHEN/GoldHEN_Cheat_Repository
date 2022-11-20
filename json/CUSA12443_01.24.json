@@ -28,7 +28,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Infinite Points",
       "hint": null,
       "type": "checkbox",
@@ -40,7 +40,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Infinite Specialist / Grenades",
       "hint": null,
       "type": "checkbox",
@@ -50,19 +50,19 @@
           "on": "909090909090",
           "off": "C4C17A114518"
         },
-		{
+        {
           "offset": "12A6D53",
           "on": "C7030000C842909090",
           "off": "C5FA1045ACC5FA1103"
         },
-		{
+        {
           "offset": "B0A859",
           "on": "41C745180000C84290909090",
           "off": "C4C17A1155180F8595000000"
         }
       ]
     },
-	{
+    {
       "name": "Infinite Shield Durability",
       "hint": null,
       "type": "checkbox",
@@ -74,7 +74,7 @@
         }
       ]
     },
-	{
+    {
       "name": "1-Hit Kill",
       "hint": null,
       "type": "checkbox",
@@ -86,7 +86,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Draw Lobby Debug",
       "hint": null,
       "type": "checkbox",

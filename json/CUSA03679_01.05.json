@@ -1,1 +1,65 @@
-{"name":"Mortal Kombat XL","id":"CUSA03679","version":"01.05","process":"eboot.bin","mods":[{"name":"Inf Health (Master Code)","type":"checkbox","memory":[{"offset":"2DC3330","on":"6681BB210A0000C0A8752BC5FA118B380A0000E97A3638FD81BB380A00000000803E7E12C783380A00000000803EC5FA1093380A0000C5FA1193380A0000E94F3638FD","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"1469BA","on":"E971C9C702909090","off":"C5FA1193380A0000"}]},{"name":"Opponent Health (25%) (MC)","type":"checkbox","memory":[{"offset":"2DC3339","on":"750D","off":"752B"}]},{"name":"Inf Super Meter Bars (Master Code)","type":"checkbox","memory":[{"offset":"2DC1FF0","on":"837B08007512C7838C0200000000803FC5FA10838C020000C5FA11838C020000E9312B6BFDC7838C02000000000000E9222B6BFD","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"474B3E","on":"E9ADD49402909090","off":"C5FA11838C020000"}]},{"name":"Opponent Super Meter Bars (0) (MC)","type":"checkbox","memory":[{"offset":"2DC1FF4","on":"751F","off":"7512"}]}],"credits":["Saso_9.00"]}
+{
+  "name": "Mortal Kombat XL",
+  "id": "CUSA03679",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2DC3330",
+          "on": "6681BB210A0000C0A8752BC5FA118B380A0000E97A3638FD81BB380A00000000803E7E12C783380A00000000803EC5FA1093380A0000C5FA1193380A0000E94F3638FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1469BA",
+          "on": "E971C9C702909090",
+          "off": "C5FA1193380A0000"
+        }
+      ]
+    },
+    {
+      "name": "Opponent Health (25%) (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2DC3339",
+          "on": "750D",
+          "off": "752B"
+        }
+      ]
+    },
+    {
+      "name": "Inf Super Meter Bars (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2DC1FF0",
+          "on": "837B08007512C7838C0200000000803FC5FA10838C020000C5FA11838C020000E9312B6BFDC7838C02000000000000E9222B6BFD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "474B3E",
+          "on": "E9ADD49402909090",
+          "off": "C5FA11838C020000"
+        }
+      ]
+    },
+    {
+      "name": "Opponent Super Meter Bars (0) (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2DC1FF4",
+          "on": "751F",
+          "off": "7512"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

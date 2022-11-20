@@ -1,1 +1,154 @@
-{"name":"BioShock: The Collection","id":"CUSA03979","version":"01.03","process":"LaunchOrbis.elf","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"BC31D","on":"E92E6D1D02909090","off":"C5FA118BD0060000"},{"offset":"2293050","on":"813B58456A027508C5FA108BD0060000C5FA118BD0060000E9B892E2FD90","off":"000000000000000000000000000000000000000000000000000000000000"}]},{"name":"Infinite Eve","type":"checkbox","memory":[{"offset":"CFE48","on":"E923321C02909090","off":"C5FA118B680D0000"},{"offset":"2293070","on":"C5FA108B680D0000C5FA118B680D0000E9CBCDE3FD90","off":"00000000000000000000000000000000000000000000"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"1A9D7C","on":"E9AF920E0290","off":"89B080000000"},{"offset":"2293030","on":"8BB08000000089B080000000E9416DF1FD90","off":"000000000000000000000000000000000000"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"11123E3","on":"909090","off":"2B45C8"}]},{"name":"One-hit Kill","type":"checkbox","memory":[{"offset":"BC314","on":"E9776D1D0290909090","off":"C5EAC2D301C5E855C9"},{"offset":"2293090","on":"C5EAC2D301C5E855C9813B58456A020F847892E2FDC5F057C9E96F92E2FD","off":"000000000000000000000000000000000000000000000000000000000000"}]},{"name":"Max Cash","type":"checkbox","memory":[{"offset":"D0054","on":"E9A72F1C0290","off":"89935C0D0000"},{"offset":"2293000","on":"8B93600D000089935C0D0000E949D0E3FD90","off":"000000000000000000000000000000000000"},{"offset":"D021A","on":"E9F32D1C0290","off":"898B5C0D0000"},{"offset":"2293012","on":"8B8B600D0000898B5C0D0000E9FDD1E3FD90","off":"000000000000000000000000000000000000"}]},{"name":"Max Adam","type":"checkbox","memory":[{"offset":"D03F6","on":"E9B52C1C0290","off":"8993640D0000"},{"offset":"22930B0","on":"C783640D00000F270000E93DD3E3FD90","off":"00000000000000000000000000000000"},{"offset":"D05D2","on":"E9E92A1C02909090","off":"41899424640D0000"},{"offset":"22930C0","on":"41C78424640D00000F270000E909D5E3FD90","off":"000000000000000000000000000000000000"}]},{"name":"Full items","type":"checkbox","memory":[{"offset":"1A9508","on":"E9D39B0E02","off":"39D10F4ED1"},{"offset":"26930E0","on":"39D10F4ED10F4FD1E92064F1FD90","off":"0000000000000000000000000000"}]}],"credits":["JustGotenks"]}
+{
+  "name": "BioShock: The Collection",
+  "id": "CUSA03979",
+  "version": "01.03",
+  "process": "LaunchOrbis.elf",
+  "mods": [
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BC31D",
+          "on": "E92E6D1D02909090",
+          "off": "C5FA118BD0060000"
+        },
+        {
+          "offset": "2293050",
+          "on": "813B58456A027508C5FA108BD0060000C5FA118BD0060000E9B892E2FD90",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Eve",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CFE48",
+          "on": "E923321C02909090",
+          "off": "C5FA118B680D0000"
+        },
+        {
+          "offset": "2293070",
+          "on": "C5FA108B680D0000C5FA118B680D0000E9CBCDE3FD90",
+          "off": "00000000000000000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A9D7C",
+          "on": "E9AF920E0290",
+          "off": "89B080000000"
+        },
+        {
+          "offset": "2293030",
+          "on": "8BB08000000089B080000000E9416DF1FD90",
+          "off": "000000000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11123E3",
+          "on": "909090",
+          "off": "2B45C8"
+        }
+      ]
+    },
+    {
+      "name": "One-hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BC314",
+          "on": "E9776D1D0290909090",
+          "off": "C5EAC2D301C5E855C9"
+        },
+        {
+          "offset": "2293090",
+          "on": "C5EAC2D301C5E855C9813B58456A020F847892E2FDC5F057C9E96F92E2FD",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Cash",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D0054",
+          "on": "E9A72F1C0290",
+          "off": "89935C0D0000"
+        },
+        {
+          "offset": "2293000",
+          "on": "8B93600D000089935C0D0000E949D0E3FD90",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D021A",
+          "on": "E9F32D1C0290",
+          "off": "898B5C0D0000"
+        },
+        {
+          "offset": "2293012",
+          "on": "8B8B600D0000898B5C0D0000E9FDD1E3FD90",
+          "off": "000000000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Adam",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D03F6",
+          "on": "E9B52C1C0290",
+          "off": "8993640D0000"
+        },
+        {
+          "offset": "22930B0",
+          "on": "C783640D00000F270000E93DD3E3FD90",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "D05D2",
+          "on": "E9E92A1C02909090",
+          "off": "41899424640D0000"
+        },
+        {
+          "offset": "22930C0",
+          "on": "41C78424640D00000F270000E909D5E3FD90",
+          "off": "000000000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Full items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A9508",
+          "on": "E9D39B0E02",
+          "off": "39D10F4ED1"
+        },
+        {
+          "offset": "26930E0",
+          "on": "39D10F4ED10F4FD1E92064F1FD90",
+          "off": "0000000000000000000000000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "JustGotenks"
+  ]
+}

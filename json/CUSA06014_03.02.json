@@ -1,1 +1,33 @@
-{"name":"TEKKEN™7","id":"CUSA06014","version":"03.02","process":"eboot.bin","mods":[{"name":"infinite rage rt","type":"checkbox","memory":[{"offset":"1499C63","on":"9090909090909090","off":"41C685D005000000"}]},{"name":"max rage art","type":"checkbox","memory":[{"offset":"14994FD","on":"909090909090","off":"0F84E2010000"}]}],"credits":["leon99"]}
+{
+  "name": "TEKKEN™7",
+  "id": "CUSA06014",
+  "version": "03.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "infinite rage rt",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1499C63",
+          "on": "9090909090909090",
+          "off": "41C685D005000000"
+        }
+      ]
+    },
+    {
+      "name": "max rage art",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14994FD",
+          "on": "909090909090",
+          "off": "0F84E2010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "leon99"
+  ]
+}

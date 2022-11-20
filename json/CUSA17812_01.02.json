@@ -1,1 +1,91 @@
-{"name":"Terminator: Resistance","id":"CUSA17812","version":"01.02","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"7FC5D6B0","on":"C4C17A108534010000E94D239780","off":"0000000000000000000000000000"},{"offset":"5CFA02","on":"E9A9DC687F90909090","off":"C4C17A118534010000"}]},{"name":"Infinite Items","type":"checkbox","memory":[{"offset":"7FC5CC30","on":"29D32B54C808E9265D8B80","off":"0000000000000000000000"},{"offset":"51295B","on":"E9D0A2747F90","off":"29D32954C808"}]},{"name":"Infinite Ammo/No Reload (Use Infinite Items)","type":"checkbox","memory":[{"offset":"7FC5CBF0","on":"412B8424B0070000E9C71BAD80","off":"00000000000000000000000000"},{"offset":"72E7BC","on":"E92FE4527F909090","off":"41298424B0070000"}]},{"name":"Max XP On 2° Kill","type":"checkbox","memory":[{"offset":"7FC5F0D0","on":"4101961C070000E95766A880","off":"000000000000000000000000"},{"offset":"6E572C","on":"E99F99577F9090","off":"41898E1C070000"}]},{"name":"Infinite Skill Points","type":"checkbox","memory":[{"offset":"7FC5E140","on":"8B8724070000E96B88A880","off":"0000000000000000000000"},{"offset":"6E69B0","on":"E98B77577F90","off":"898724070000"}]}],"credits":["Celogamez"]}
+{
+  "name": "Terminator: Resistance",
+  "id": "CUSA17812",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5D6B0",
+          "on": "C4C17A108534010000E94D239780",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "5CFA02",
+          "on": "E9A9DC687F90909090",
+          "off": "C4C17A118534010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5CC30",
+          "on": "29D32B54C808E9265D8B80",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "51295B",
+          "on": "E9D0A2747F90",
+          "off": "29D32954C808"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/No Reload (Use Infinite Items)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5CBF0",
+          "on": "412B8424B0070000E9C71BAD80",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "72E7BC",
+          "on": "E92FE4527F909090",
+          "off": "41298424B0070000"
+        }
+      ]
+    },
+    {
+      "name": "Max XP On 2° Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F0D0",
+          "on": "4101961C070000E95766A880",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "6E572C",
+          "on": "E99F99577F9090",
+          "off": "41898E1C070000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E140",
+          "on": "8B8724070000E96B88A880",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "6E69B0",
+          "on": "E98B77577F90",
+          "off": "898724070000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

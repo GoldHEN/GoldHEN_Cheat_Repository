@@ -1,1 +1,110 @@
-{"name":"Monster Hunter World: Iceborne","id":"CUSA07708","version":"15.02","process":"eboot.bin","mods":[{"name":"Infinite Item","type":"checkbox","memory":[{"offset":"3A223C1","on":"909090","off":"4501F7"}]},{"name":"Item Box 1 sell become x2 Item","type":"checkbox","memory":[{"offset":"3A223CE","on":"44017E0C","off":"44897E0C"}]},{"name":"Item Pouch","type":"checkbox","memory":[{"offset":"3A22521","on":"90909090","off":"44897E0C"}]},{"name":"Infinite Hp","type":"checkbox","memory":[{"offset":"2CDE4AA","on":"9090909090","off":"C5FA114064"}]},{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"2E4874E","on":"9090909090","off":"C5FA10436C"}]},{"name":"100 Mil Fuel","type":"checkbox","memory":[{"offset":"C28266","on":"01CE90","off":"0F42F1"}]},{"name":"Infinite Fuel","type":"checkbox","memory":[{"offset":"C2826C","on":"9090","off":"8930"}]},{"name":"EP x2","type":"checkbox","memory":[{"offset":"2ED706C","on":"41014F78","off":"41894F78"}]},{"name":"Infinite EP","type":"checkbox","memory":[{"offset":"2ED706C","on":"90909090","off":"41014F78"}]}],"credits":["SunRise01"]}
+{
+  "name": "Monster Hunter World: Iceborne",
+  "id": "CUSA07708",
+  "version": "15.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Item",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3A223C1",
+          "on": "909090",
+          "off": "4501F7"
+        }
+      ]
+    },
+    {
+      "name": "Item Box 1 sell become x2 Item",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3A223CE",
+          "on": "44017E0C",
+          "off": "44897E0C"
+        }
+      ]
+    },
+    {
+      "name": "Item Pouch",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3A22521",
+          "on": "90909090",
+          "off": "44897E0C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Hp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2CDE4AA",
+          "on": "9090909090",
+          "off": "C5FA114064"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2E4874E",
+          "on": "9090909090",
+          "off": "C5FA10436C"
+        }
+      ]
+    },
+    {
+      "name": "100 Mil Fuel",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C28266",
+          "on": "01CE90",
+          "off": "0F42F1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Fuel",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C2826C",
+          "on": "9090",
+          "off": "8930"
+        }
+      ]
+    },
+    {
+      "name": "EP x2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2ED706C",
+          "on": "41014F78",
+          "off": "41894F78"
+        }
+      ]
+    },
+    {
+      "name": "Infinite EP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2ED706C",
+          "on": "90909090",
+          "off": "41014F78"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "SunRise01"
+  ]
+}

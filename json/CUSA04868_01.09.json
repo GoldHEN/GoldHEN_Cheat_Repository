@@ -1,1 +1,187 @@
-{"name":"Sniper Ghost Warrior 3","id":"CUSA04868","version":"01.09","process":"eboot.bin","mods":[{"name":"Inf Health","type":"checkbox","memory":[{"offset":"299E5C0","on":"817B20777700007513488B83AC000000488983AC000000E9416199FE488983AC000000E9356199FE","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"1334716","on":"E9A59E66019090","off":"488983AC000000"}]},{"name":"Inf Breath","type":"checkbox","memory":[{"offset":"299E560","on":"C4C17A10460CC4C17A11460CE9448427FF","off":"0000000000000000000000000000000000"},{"offset":"1C169AF","on":"E9AC7BD80090","off":"C4C17A11460C"}]},{"name":"Inf Silencer","type":"checkbox","memory":[{"offset":"299E580","on":"C5FA104F4CC5FA114F48E916D8BFFD","off":"000000000000000000000000000000"},{"offset":"59BDA0","on":"E9DB274002","off":"C5FA114F48"}]},{"name":"Inf Ammo / No Reload","type":"checkbox","memory":[{"offset":"299E700","on":"B81E000000894208E9A1BAF7FE","off":"00000000000000000000000000"},{"offset":"191A1A8","on":"E95345080190","off":"8B458C894208"}]},{"name":"Inf Throwables","type":"checkbox","memory":[{"offset":"299E6E0","on":"41C6869C00000007E9D92ABFFD","off":"00000000000000000000000000"},{"offset":"5911BF","on":"E91CD540029090","off":"41898E9C000000"}]},{"name":"Max Money","type":"checkbox","memory":[{"offset":"299E6A0","on":"C7430C7F96184BC5FA10430CE9D22413FF","off":"0000000000000000000000000000000000"},{"offset":"1AD0B7E","on":"E91DDBEC00","off":"C5FA10430C"}]},{"name":"Max Explosive Parts","type":"checkbox","memory":[{"offset":"299E640","on":"C7431800C8AF47C5FA104318E94B2513FF","off":"0000000000000000000000000000000000"},{"offset":"1AD0B97","on":"E9A4DAEC00","off":"C5FA104318"}]},{"name":"Max Electronics Parts","type":"checkbox","memory":[{"offset":"299E620","on":"C7431C00C8AF47C5FA10431CE9B62513FF","off":"0000000000000000000000000000000000"},{"offset":"1AD0BE2","on":"E939DAEC00","off":"C5FA10431C"}]},{"name":"Max Mechanical Parts","type":"checkbox","memory":[{"offset":"299E660","on":"C7431400C8AF47C5FA104314E95D2513FF","off":"0000000000000000000000000000000000"},{"offset":"1AD0BC9","on":"E992DAEC00","off":"C5FA104314"}]},{"name":"Max Bullet Heads","type":"checkbox","memory":[{"offset":"299E680","on":"C7431000C8AF47C5FA104310E9242513FF","off":"0000000000000000000000000000000000"},{"offset":"1AD0BB0","on":"E9CBDAEC00","off":"C5FA104310"}]},{"name":"Max Canisters","type":"checkbox","memory":[{"offset":"299E6C0","on":"C7432000C8AF47C5FA104320E92F2513FF","off":"0000000000000000000000000000000000"},{"offset":"1AD0BFB","on":"E9C0DAEC00","off":"C5FA104320"}]}],"credits":["Saso"]}
+{
+  "name": "Sniper Ghost Warrior 3",
+  "id": "CUSA04868",
+  "version": "01.09",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "299E5C0",
+          "on": "817B20777700007513488B83AC000000488983AC000000E9416199FE488983AC000000E9356199FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1334716",
+          "on": "E9A59E66019090",
+          "off": "488983AC000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Breath",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "299E560",
+          "on": "C4C17A10460CC4C17A11460CE9448427FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1C169AF",
+          "on": "E9AC7BD80090",
+          "off": "C4C17A11460C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Silencer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "299E580",
+          "on": "C5FA104F4CC5FA114F48E916D8BFFD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "59BDA0",
+          "on": "E9DB274002",
+          "off": "C5FA114F48"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo / No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "299E700",
+          "on": "B81E000000894208E9A1BAF7FE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "191A1A8",
+          "on": "E95345080190",
+          "off": "8B458C894208"
+        }
+      ]
+    },
+    {
+      "name": "Inf Throwables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "299E6E0",
+          "on": "41C6869C00000007E9D92ABFFD",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "5911BF",
+          "on": "E91CD540029090",
+          "off": "41898E9C000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "299E6A0",
+          "on": "C7430C7F96184BC5FA10430CE9D22413FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1AD0B7E",
+          "on": "E91DDBEC00",
+          "off": "C5FA10430C"
+        }
+      ]
+    },
+    {
+      "name": "Max Explosive Parts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "299E640",
+          "on": "C7431800C8AF47C5FA104318E94B2513FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1AD0B97",
+          "on": "E9A4DAEC00",
+          "off": "C5FA104318"
+        }
+      ]
+    },
+    {
+      "name": "Max Electronics Parts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "299E620",
+          "on": "C7431C00C8AF47C5FA10431CE9B62513FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1AD0BE2",
+          "on": "E939DAEC00",
+          "off": "C5FA10431C"
+        }
+      ]
+    },
+    {
+      "name": "Max Mechanical Parts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "299E660",
+          "on": "C7431400C8AF47C5FA104314E95D2513FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1AD0BC9",
+          "on": "E992DAEC00",
+          "off": "C5FA104314"
+        }
+      ]
+    },
+    {
+      "name": "Max Bullet Heads",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "299E680",
+          "on": "C7431000C8AF47C5FA104310E9242513FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1AD0BB0",
+          "on": "E9CBDAEC00",
+          "off": "C5FA104310"
+        }
+      ]
+    },
+    {
+      "name": "Max Canisters",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "299E6C0",
+          "on": "C7432000C8AF47C5FA104320E92F2513FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1AD0BFB",
+          "on": "E9C0DAEC00",
+          "off": "C5FA104320"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

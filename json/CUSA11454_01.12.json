@@ -1,1 +1,114 @@
-{"name":"Control","id":"CUSA11454","version":"01.12","process":"eboot.bin","mods":[{"name":"Infinite Ammo ","type":"checkbox","memory":[{"offset":"66ADB7","on":"9090909090909090","off":"C5FA1183A0010000"}]},{"name":"Infinite Energy","type":"checkbox","memory":[{"offset":"F1B4A","on":"9090909090","off":"C4C17A110E"}]},{"name":"999999 Materials on Use","type":"checkbox","memory":[{"offset":"1C7F800","on":"C740383F420F000F8FBEA99EFEE965A99EFE","off":"000000000000000000000000000000000000"},{"offset":"66A172","on":"E989566101","off":"8948387F54"}]},{"name":"Freeze Source Credit","type":"checkbox","memory":[{"offset":"6371F6","on":"90909090","off":"48294138"}]},{"name":"999999 Source Credit on Use","type":"checkbox","memory":[{"offset":"1C7F814","on":"48C741383F420F00488B4110E9D9799BFE","off":"0000000000000000000000000000000000"},{"offset":"6371F6","on":"E919866401909090","off":"48294138488B4110"}]},{"name":"Freeze Abilities Points","type":"checkbox","memory":[{"offset":"35370B","on":"909090","off":"897740"}]},{"name":"999 Abilities Points on Use","type":"checkbox","memory":[{"offset":"1C7F827","on":"C74740E7030000895744E9DB3E6DFE","off":"000000000000000000000000000000"},{"offset":"35370B","on":"E917C1920190","off":"897740895744"}]},{"name":"Shared Health!!!","type":"checkbox","memory":[{"offset":"522C41","on":"9090909090909090","off":"C5FA118B94000000"}]}],"credits":["LMN"]}
+{
+  "name": "Control",
+  "id": "CUSA11454",
+  "version": "01.12",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Ammo ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66ADB7",
+          "on": "9090909090909090",
+          "off": "C5FA1183A0010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F1B4A",
+          "on": "9090909090",
+          "off": "C4C17A110E"
+        }
+      ]
+    },
+    {
+      "name": "999999 Materials on Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C7F800",
+          "on": "C740383F420F000F8FBEA99EFEE965A99EFE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "66A172",
+          "on": "E989566101",
+          "off": "8948387F54"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Source Credit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6371F6",
+          "on": "90909090",
+          "off": "48294138"
+        }
+      ]
+    },
+    {
+      "name": "999999 Source Credit on Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C7F814",
+          "on": "48C741383F420F00488B4110E9D9799BFE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "6371F6",
+          "on": "E919866401909090",
+          "off": "48294138488B4110"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Abilities Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "35370B",
+          "on": "909090",
+          "off": "897740"
+        }
+      ]
+    },
+    {
+      "name": "999 Abilities Points on Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C7F827",
+          "on": "C74740E7030000895744E9DB3E6DFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "35370B",
+          "on": "E917C1920190",
+          "off": "897740895744"
+        }
+      ]
+    },
+    {
+      "name": "Shared Health!!!",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "522C41",
+          "on": "9090909090909090",
+          "off": "C5FA118B94000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "LMN"
+  ]
+}

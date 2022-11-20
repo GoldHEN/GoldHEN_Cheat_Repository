@@ -1,1 +1,54 @@
-{"name":"Streets Of Rage 4","id":"CUSA16221","version":"1.6","process":"eboot.bin","mods":[{"name":"Infinite Health / 1 Hit (Master Code)","type":"checkbox","memory":[{"offset":"34BEB00","on":"41837C244400750D41C644242E64E91034E7FC31ED41896C242CE90434E7FC","off":"00000000000000000000000000000000000000000000000000000000000000"},{"offset":"331F1E","on":"E9DDCB1803","off":"41896C242C"}]},{"name":"1 Hit Kill (MC)","type":"checkbox","memory":[{"offset":"34BEB06","on":"750B","off":"750D"}]},{"name":"Max Stars","type":"checkbox","memory":[{"offset":"34C2600","on":"BD03000000896920488B00E9308EE2FC","off":"00000000000000000000000000000000"},{"offset":"2EB43A","on":"E9C1711D0390","off":"896920488B00"}]}],"credits":["Saso"]}
+{
+  "name": "Streets Of Rage 4",
+  "id": "CUSA16221",
+  "version": "1.6",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health / 1 Hit (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34BEB00",
+          "on": "41837C244400750D41C644242E64E91034E7FC31ED41896C242CE90434E7FC",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "331F1E",
+          "on": "E9DDCB1803",
+          "off": "41896C242C"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34BEB06",
+          "on": "750B",
+          "off": "750D"
+        }
+      ]
+    },
+    {
+      "name": "Max Stars",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34C2600",
+          "on": "BD03000000896920488B00E9308EE2FC",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2EB43A",
+          "on": "E9C1711D0390",
+          "off": "896920488B00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

@@ -1,1 +1,71 @@
-{"name":"Wonder Boy: Asha in monster World","id":"CUSA26736","version":"01.00","process":"eboot.bin","mods":[{"name":"Max Coins (on gain)","type":"checkbox","memory":[{"offset":"7FC5F010","on":"66C780FC0200009F86E999577A00","off":"0000000000000000000000000000"},{"offset":"804047B1","on":"E95AA885FF90","off":"8988FC020000"}]},{"name":"Infinite Health (Red Heart)","type":"checkbox","memory":[{"section":"14","offset":"149E0B","on":"90909090909090","off":"41898DD8020000"}]},{"name":"All Items x99 on use (have 2 at least)","type":"checkbox","memory":[{"offset":"7FC5F030","on":"FFCEC644882063E9C0EC7900","off":"000000000000000000000000"},{"offset":"803FDCF6","on":"E9351386FF90","off":"FFCE89748820"}]},{"name":"Max Blue Heart (on collect)","type":"checkbox","memory":[{"offset":"7FC5F070","on":"8083F802000063E9F8E07900","off":"000000000000000000000000"},{"offset":"803FD16D","on":"E9FE1E86FF9090","off":"4401B3F8020000"}]}],"credits":["Wander_9.00"]}
+{
+  "name": "Wonder Boy: Asha in monster World",
+  "id": "CUSA26736",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Coins (on gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F010",
+          "on": "66C780FC0200009F86E999577A00",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "804047B1",
+          "on": "E95AA885FF90",
+          "off": "8988FC020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (Red Heart)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "149E0B",
+          "on": "90909090909090",
+          "off": "41898DD8020000"
+        }
+      ]
+    },
+    {
+      "name": "All Items x99 on use (have 2 at least)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F030",
+          "on": "FFCEC644882063E9C0EC7900",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "803FDCF6",
+          "on": "E9351386FF90",
+          "off": "FFCE89748820"
+        }
+      ]
+    },
+    {
+      "name": "Max Blue Heart (on collect)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F070",
+          "on": "8083F802000063E9F8E07900",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "803FD16D",
+          "on": "E9FE1E86FF9090",
+          "off": "4401B3F8020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander_9.00"
+  ]
+}

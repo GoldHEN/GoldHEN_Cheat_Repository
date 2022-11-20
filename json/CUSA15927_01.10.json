@@ -1,1 +1,71 @@
-{"name":"Fury Unleashed","id":"CUSA15927","version":"01.10","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"section":"14","offset":"24C259","on":"909090","off":"294814"}]},{"name":"Infinite Grenades","type":"checkbox","memory":[{"offset":"1817EB0","on":"4C89EF41C6452463E92383477F","off":"00000000000000000000000000"},{"offset":"80C901D9","on":"E9D27CB8809090","off":"4C89EF41894524"}]},{"name":"Max Ink (on gain)","type":"checkbox","memory":[{"offset":"1817E10","on":"0F84F30A407FC740109F860100E9E20A407F","off":"000000000000000000000000000000000000"},{"offset":"80C188FE","on":"E90DF5BF8090","off":"740F44897010"}]},{"name":"Max Gold (on gain)","type":"checkbox","memory":[{"offset":"1817E50","on":"0F8472E7367FC740649F860100E952E6367F","off":"000000000000000000000000000000000000"},{"offset":"80B864AA","on":"E9A119C9809090909090","off":"0F841E01000044017864"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Fury Unleashed",
+  "id": "CUSA15927",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "24C259",
+          "on": "909090",
+          "off": "294814"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1817EB0",
+          "on": "4C89EF41C6452463E92383477F",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "80C901D9",
+          "on": "E9D27CB8809090",
+          "off": "4C89EF41894524"
+        }
+      ]
+    },
+    {
+      "name": "Max Ink (on gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1817E10",
+          "on": "0F84F30A407FC740109F860100E9E20A407F",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80C188FE",
+          "on": "E90DF5BF8090",
+          "off": "740F44897010"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold (on gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1817E50",
+          "on": "0F8472E7367FC740649F860100E952E6367F",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80B864AA",
+          "on": "E9A119C9809090909090",
+          "off": "0F841E01000044017864"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

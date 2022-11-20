@@ -1,1 +1,119 @@
-{"name":"WRC 10 FIA World Rally Championship","id":"CUSA27790","version":"01.06","process":"eboot.bin","mods":[{"name":"Max Money","type":"checkbox","memory":[{"offset":"204BDB0","on":"41C78680B00000FFC99A3B418B8680B00000E9AA9B4CFE","off":"0000000000000000000000000000000000000000000000"},{"offset":"51596A","on":"E94164B3019090","off":"418B8680B00000"}]},{"name":"Max R&D Skills Points","type":"checkbox","memory":[{"offset":"204BDC7","on":"66C78090B000000F27448BA090B00000E9FDCE4FFE","off":"000000000000000000000000000000000000000000"},{"offset":"548CD2","on":"E9F030B0019090","off":"448BA090B00000"}]},{"name":"Max XP Level","type":"checkbox","memory":[{"offset":"204BDDC","on":"C6808CB00000638B908CB00000E9FCD64FFE","off":"000000000000000000000000000000000000"},{"offset":"5494E4","on":"E9F328B00190","off":"8B908CB00000"}]},{"name":"Max Reputation Level","type":"checkbox","memory":[{"offset":"204BDEE","on":"C704810000C842C5FA100481E980A929FE","off":"0000000000000000000000000000000000"},{"offset":"2E677A","on":"E96F56D601","off":"C5FA100481"}]},{"name":"Max Moral","type":"checkbox","memory":[{"offset":"204BE00","on":"C78784B000000000C842C5FA108784B00000E9F1C128FE","off":"0000000000000000000000000000000000000000000000"},{"offset":"2D8000","on":"E9FB3DD701909090","off":"C5FA108784B00000"}]},{"name":"Freeze Race Timer","type":"checkbox","memory":[{"offset":"172022A","on":"9090909090","off":"C5FA584048"}]},{"name":"Set Race Timer to 0","type":"checkbox","memory":[{"offset":"204BE17","on":"C5FA1083E80200000F57C0E900446DFF","off":"00000000000000000000000000000000"},{"offset":"172021F","on":"E9F3BB9200909090","off":"C5FA1083E8020000"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "WRC 10 FIA World Rally Championship",
+  "id": "CUSA27790",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "204BDB0",
+          "on": "41C78680B00000FFC99A3B418B8680B00000E9AA9B4CFE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "51596A",
+          "on": "E94164B3019090",
+          "off": "418B8680B00000"
+        }
+      ]
+    },
+    {
+      "name": "Max R&D Skills Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "204BDC7",
+          "on": "66C78090B000000F27448BA090B00000E9FDCE4FFE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "548CD2",
+          "on": "E9F030B0019090",
+          "off": "448BA090B00000"
+        }
+      ]
+    },
+    {
+      "name": "Max XP Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "204BDDC",
+          "on": "C6808CB00000638B908CB00000E9FCD64FFE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5494E4",
+          "on": "E9F328B00190",
+          "off": "8B908CB00000"
+        }
+      ]
+    },
+    {
+      "name": "Max Reputation Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "204BDEE",
+          "on": "C704810000C842C5FA100481E980A929FE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "2E677A",
+          "on": "E96F56D601",
+          "off": "C5FA100481"
+        }
+      ]
+    },
+    {
+      "name": "Max Moral",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "204BE00",
+          "on": "C78784B000000000C842C5FA108784B00000E9F1C128FE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2D8000",
+          "on": "E9FB3DD701909090",
+          "off": "C5FA108784B00000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Race Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "172022A",
+          "on": "9090909090",
+          "off": "C5FA584048"
+        }
+      ]
+    },
+    {
+      "name": "Set Race Timer to 0",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "204BE17",
+          "on": "C5FA1083E80200000F57C0E900446DFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "172021F",
+          "on": "E9F3BB9200909090",
+          "off": "C5FA1083E8020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

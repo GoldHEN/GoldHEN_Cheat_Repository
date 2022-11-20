@@ -1,1 +1,75 @@
-{"name":"inFAMOUS™ First Light","id":"CUSA00897","version":"1.04","process":"eboot.bin","mods":[{"name":"Infinite Skill Points (on spend/gain)","type":"checkbox","memory":[{"offset":"7FC5B870","on":"BBE7030000899FFC000000E93A895C80","off":"00000000000000000000000000000000"},{"offset":"2241B4","on":"E9B776A37F90","off":"899FFC000000"}]},{"name":"Instant Super Skill Charge (on first kill)","type":"checkbox","memory":[{"offset":"7FC5BE60","on":"C787000100000000A041E9D9965C80","off":"000000000000000000000000000000"},{"offset":"225540","on":"E91B69A37F909090","off":"C5FA118700010000"}]},{"name":"Infinite Energy","type":"checkbox","memory":[{"offset":"7FC5BE80","on":"41C7842408A3010000004843E922BF5F80","off":"0000000000000000000000000000000000"},{"offset":"257DA9","on":"E9D240A07F9090909090","off":"C4C17A11842408A30100"}]},{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"7FC5B9D0","on":"41C78618FA010000004843E92A616080","off":"00000000000000000000000000000000"},{"offset":"261B01","on":"E9CA9E9F7F90909090","off":"C4C17A119618FA0100"}]}],"credits":["Wander_9.00"]}
+{
+  "name": "inFAMOUS™ First Light",
+  "id": "CUSA00897",
+  "version": "1.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Skill Points (on spend/gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5B870",
+          "on": "BBE7030000899FFC000000E93A895C80",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2241B4",
+          "on": "E9B776A37F90",
+          "off": "899FFC000000"
+        }
+      ]
+    },
+    {
+      "name": "Instant Super Skill Charge (on first kill)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5BE60",
+          "on": "C787000100000000A041E9D9965C80",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "225540",
+          "on": "E91B69A37F909090",
+          "off": "C5FA118700010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5BE80",
+          "on": "41C7842408A3010000004843E922BF5F80",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "257DA9",
+          "on": "E9D240A07F9090909090",
+          "off": "C4C17A11842408A30100"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5B9D0",
+          "on": "41C78618FA010000004843E92A616080",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "261B01",
+          "on": "E9CA9E9F7F90909090",
+          "off": "C4C17A119618FA0100"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander_9.00"
+  ]
+}

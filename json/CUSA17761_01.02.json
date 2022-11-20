@@ -1,1 +1,86 @@
-{"name":"Mafia II: Definitive Edition","id":"CUSA17761","version":"01.02","process":"eboot.bin","mods":[{"name":"Health Master Code (Enable First)","type":"checkbox","memory":[{"offset":"10C3BC1","on":"4C89EF4983FF00740790E90FECFFFF","off":"000000000000000000000000000000"},{"offset":"10C27D8","on":"E9E41300009090","off":"4C89EFC5FA5CC1"}]},{"name":"Inf Health","type":"checkbox","memory":[{"offset":"11016F2","on":"C5FA5CC1E9E410FCFF","off":"000000000000000000"},{"offset":"10C3BD1","on":"E91CDB0300","off":"9090909090"}]},{"name":"Inf Money","type":"checkbox","memory":[{"offset":"11010A1","on":"C7421000E1F505488B08E93A4CFAFF","off":"000000000000000000000000000000"},{"offset":"10A5CE3","on":"E9B9B305009090","off":"48894A10488B08"}]},{"name":"Inf Ammo","type":"checkbox","memory":[{"offset":"1101854","on":"C6401063498B07E97BAC0000","off":"000000000000000000000000"},{"offset":"110C4D4","on":"E97B53FFFF9090","off":"44896010498B07"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"ECCD04","on":"909090","off":"017010"}]}],"credits":["Saso"]}
+{
+  "name": "Mafia II: Definitive Edition",
+  "id": "CUSA17761",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Health Master Code (Enable First)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10C3BC1",
+          "on": "4C89EF4983FF00740790E90FECFFFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "10C27D8",
+          "on": "E9E41300009090",
+          "off": "4C89EFC5FA5CC1"
+        }
+      ]
+    },
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11016F2",
+          "on": "C5FA5CC1E9E410FCFF",
+          "off": "000000000000000000"
+        },
+        {
+          "offset": "10C3BD1",
+          "on": "E91CDB0300",
+          "off": "9090909090"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11010A1",
+          "on": "C7421000E1F505488B08E93A4CFAFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "10A5CE3",
+          "on": "E9B9B305009090",
+          "off": "48894A10488B08"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1101854",
+          "on": "C6401063498B07E97BAC0000",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "110C4D4",
+          "on": "E97B53FFFF9090",
+          "off": "44896010498B07"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "ECCD04",
+          "on": "909090",
+          "off": "017010"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

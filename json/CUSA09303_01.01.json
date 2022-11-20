@@ -1,1 +1,22 @@
-{"name":"Assassins Creed® Odyssey","id":"CUSA09303","version":"01.01","process":"eboot.bin","mods":[{"name":"Increase Money and Materials on buy","type":"checkbox","memory":[{"offset":"3FD2809","on":"01C8","off":"29C8"}]}],"credits":["Muhanned"]}
+{
+  "name": "Assassins Creed® Odyssey",
+  "id": "CUSA09303",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Increase Money and Materials on buy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3FD2809",
+          "on": "01C8",
+          "off": "29C8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Muhanned"
+  ]
+}

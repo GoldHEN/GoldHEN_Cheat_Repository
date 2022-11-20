@@ -1,1 +1,22 @@
-{"name":"KINGDOM HEARTS Ⅲ","id":"CUSA12025","version":"01.00","process":"eboot.bin","mods":[{"name":"720p Resolution","type":"checkbox","memory":[{"offset":"528DD60","on":"C5F057C9C704200A578542C5FA1000","off":"488B05599ECF05C5F057C9C5FA1000"}]}],"credits":["illusion"]}
+{
+  "name": "KINGDOM HEARTS Ⅲ",
+  "id": "CUSA12025",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "720p Resolution",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "528DD60",
+          "on": "C5F057C9C704200A578542C5FA1000",
+          "off": "488B05599ECF05C5F057C9C5FA1000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "illusion"
+  ]
+}

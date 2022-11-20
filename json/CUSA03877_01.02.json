@@ -1,1 +1,162 @@
-{"name":"Styx: Shards of Darkness","id":"CUSA03877","version":"01.02","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"45D3E10","on":"C787DC03000000009642E99DC3CDFB","off":"000000000000000000000000000000"},{"offset":"2B01B4","on":"E9573C3204909090","off":"C5FA1187DC030000"}]},{"name":"Infinite Amber","type":"checkbox","memory":[{"offset":"45D3E00","on":"C787E003000000009642E9CDC3CDFB","off":"000000000000000000000000000000"},{"offset":"2B01D4","on":"E9273C3204909090","off":"C5FA1187E0030000"}]},{"name":"Infinite Items ( on gain )","type":"checkbox","memory":[{"offset":"45D3E30","on":"8B87C40300008987C0030000E9054AC1FB","off":"0000000000000000000000000000000000"},{"offset":"1E8840","on":"E9EBB53E0490","off":"8987C0030000"}]},{"name":"Max Skill Points ( on gain )","type":"checkbox","memory":[{"offset":"45D3E20","on":"66C787D80300000F27E9DED4CDFB","off":"0000000000000000000000000000"},{"offset":"2B1306","on":"E9152B320490","off":"8987D8030000"}]},{"name":"Pure Quartz ( on gain )","type":"checkbox","memory":[{"offset":"45D3800","on":"C687E40300000AE990DBCDFB","off":"000000000000000000000000"},{"offset":"2B1396","on":"E96524320490","off":"8987E4030000"}]},{"name":"Stealth Mode","type":"checkbox","memory":[{"offset":"45D3E90","on":"0F57C0C4C17A11442420E9E303B8FB","off":"000000000000000000000000000000"},{"offset":"15427B","on":"E910FC47049090","off":"C4C17A11442420"}]},{"name":"Zero Kill Counts","type":"checkbox","memory":[{"offset":"45D3E50","on":"C6877804000000E94623C6FB","off":"000000000000000000000000"},{"offset":"23619C","on":"E9AFDC390490","off":"89B778040000"}]},{"name":"Zero Alert Counts","type":"checkbox","memory":[{"offset":"45D3E60","on":"C6877404000000E97723C6FB","off":"000000000000000000000000"},{"offset":"2361DD","on":"E97EDC390490","off":"898774040000"}]},{"name":"Perfect Mission Time ( Reset to 0 )","type":"checkbox","memory":[{"offset":"2341B4","on":"9090909090909090","off":"C5F258836C040000"}]},{"name":"Perfect Mission Time ( Stop Timer )","type":"checkbox","memory":[{"offset":"2341BC","on":"9090909090909090","off":"C5FA11836C040000"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "Styx: Shards of Darkness",
+  "id": "CUSA03877",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45D3E10",
+          "on": "C787DC03000000009642E99DC3CDFB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2B01B4",
+          "on": "E9573C3204909090",
+          "off": "C5FA1187DC030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Amber",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45D3E00",
+          "on": "C787E003000000009642E9CDC3CDFB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2B01D4",
+          "on": "E9273C3204909090",
+          "off": "C5FA1187E0030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45D3E30",
+          "on": "8B87C40300008987C0030000E9054AC1FB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1E8840",
+          "on": "E9EBB53E0490",
+          "off": "8987C0030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill Points ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45D3E20",
+          "on": "66C787D80300000F27E9DED4CDFB",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "2B1306",
+          "on": "E9152B320490",
+          "off": "8987D8030000"
+        }
+      ]
+    },
+    {
+      "name": "Pure Quartz ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45D3800",
+          "on": "C687E40300000AE990DBCDFB",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "2B1396",
+          "on": "E96524320490",
+          "off": "8987E4030000"
+        }
+      ]
+    },
+    {
+      "name": "Stealth Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45D3E90",
+          "on": "0F57C0C4C17A11442420E9E303B8FB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "15427B",
+          "on": "E910FC47049090",
+          "off": "C4C17A11442420"
+        }
+      ]
+    },
+    {
+      "name": "Zero Kill Counts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45D3E50",
+          "on": "C6877804000000E94623C6FB",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "23619C",
+          "on": "E9AFDC390490",
+          "off": "89B778040000"
+        }
+      ]
+    },
+    {
+      "name": "Zero Alert Counts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45D3E60",
+          "on": "C6877404000000E97723C6FB",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "2361DD",
+          "on": "E97EDC390490",
+          "off": "898774040000"
+        }
+      ]
+    },
+    {
+      "name": "Perfect Mission Time ( Reset to 0 )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2341B4",
+          "on": "9090909090909090",
+          "off": "C5F258836C040000"
+        }
+      ]
+    },
+    {
+      "name": "Perfect Mission Time ( Stop Timer )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2341BC",
+          "on": "9090909090909090",
+          "off": "C5FA11836C040000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

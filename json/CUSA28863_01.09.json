@@ -1,1 +1,91 @@
-{"name":"Elden Ring","id":"CUSA28863","version":"01.09","process":"eboot.bin","mods":[{"name":"Max/Infinite Health","type":"checkbox","memory":[{"offset":"7FC5CE30","on":"4981F874544A037505B83408000041898548010000E9D3064781","off":"0000000000000000000000000000000000000000000000000000"},{"offset":"10CD516","on":"E915F9B87E9090","off":"41898548010000"}]},{"name":"Max/Infinite Magic","type":"checkbox","memory":[{"offset":"7FC5DE00","on":"41C78658010000C2010000E9FDFA4681","off":"00000000000000000000000000000000"},{"offset":"10CD906","on":"E9F504B97E9090","off":"41898658010000"}]},{"name":"Max/Infinite Endurance","type":"checkbox","memory":[{"offset":"7FC5DE50","on":"41C78664010000AA000000E9CEFE4681","off":"00000000000000000000000000000000"},{"offset":"10CDD27","on":"E92401B97E9090","off":"41898664010000"}]},{"name":"Max/Infinite Items/Potions/Arrows","type":"checkbox","memory":[{"offset":"7FC5F0F0","on":"43897CA70CC701E7030000E9E3851881","off":"00000000000000000000000000000000"},{"offset":"DE76DB","on":"E9107AE77E909090","off":"43897CA70C448931"}]},{"name":"Max/Infinite Runes On Start","type":"checkbox","memory":[{"offset":"7FC5F880","on":"8B09C7406CFFC99A3BE9EA2A7181","off":"0000000000000000000000000000"},{"offset":"1372373","on":"E908D58E7E","off":"8B0989486C"}]}],"credits":["Celogamez"]}
+{
+  "name": "Elden Ring",
+  "id": "CUSA28863",
+  "version": "01.09",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5CE30",
+          "on": "4981F874544A037505B83408000041898548010000E9D3064781",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "10CD516",
+          "on": "E915F9B87E9090",
+          "off": "41898548010000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5DE00",
+          "on": "41C78658010000C2010000E9FDFA4681",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "10CD906",
+          "on": "E9F504B97E9090",
+          "off": "41898658010000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Endurance",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5DE50",
+          "on": "41C78664010000AA000000E9CEFE4681",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "10CDD27",
+          "on": "E92401B97E9090",
+          "off": "41898664010000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Items/Potions/Arrows",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F0F0",
+          "on": "43897CA70CC701E7030000E9E3851881",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "DE76DB",
+          "on": "E9107AE77E909090",
+          "off": "43897CA70C448931"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Runes On Start",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F880",
+          "on": "8B09C7406CFFC99A3BE9EA2A7181",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1372373",
+          "on": "E908D58E7E",
+          "off": "8B0989486C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

@@ -1,1 +1,59 @@
-{"name":"Zombie Army Trilogy","id":"CUSA01773","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Ammo (Inventory)","type":"checkbox","memory":[{"offset":"8F80A0","on":"C70763000000C384C0E902AABFFF","off":"0000000000000000000000000000"},{"offset":"4F2AAB","on":"E9F0554000","off":"890FC384C0"}]},{"name":"Infinite Ammo (No Reload)","type":"checkbox","memory":[{"offset":"8F8C70","on":"C787BC010000D2040000E9B43FBFFF","off":"000000000000000000000000000000"},{"offset":"4ECC2D","on":"E93EC0400090","off":"8987BC010000"}]},{"name":"999,999,999 Score on Gain","type":"checkbox","memory":[{"offset":"8F8BF0","on":"42C704A0FFC99A3B5BE98CEEADFF","off":"0000000000000000000000000000"},{"offset":"3D7A85","on":"E966115200","off":"460134A05B"}]}],"credits":["TylerMods"]}
+{
+  "name": "Zombie Army Trilogy",
+  "id": "CUSA01773",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Ammo (Inventory)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8F80A0",
+          "on": "C70763000000C384C0E902AABFFF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "4F2AAB",
+          "on": "E9F0554000",
+          "off": "890FC384C0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo (No Reload)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8F8C70",
+          "on": "C787BC010000D2040000E9B43FBFFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "4ECC2D",
+          "on": "E93EC0400090",
+          "off": "8987BC010000"
+        }
+      ]
+    },
+    {
+      "name": "999,999,999 Score on Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8F8BF0",
+          "on": "42C704A0FFC99A3B5BE98CEEADFF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "3D7A85",
+          "on": "E966115200",
+          "off": "460134A05B"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TylerMods"
+  ]
+}

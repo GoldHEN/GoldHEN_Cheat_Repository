@@ -1,1 +1,134 @@
-{"name":"Lords of the Fallen","id":"CUSA00369","version":"01.03","process":"eboot.bin","mods":[{"name":"Max/Infinite Health","type":"checkbox","memory":[{"offset":"7FC4BF00","on":"4180BC24CC000000017413C4C17A10542478C4C17A11542474E945785E80C4C17A11542474E939785E80","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"23375C","on":"E99F87A17F9090","off":"C4C17A11542474"}]},{"name":"Infinite Health+1 Hit Kill","type":"checkbox","memory":[{"offset":"7FC4AD50","on":"4180BC24CC000000017413C4C17A10542478C4C17A11542474E9F5895E8041C744247400000000E9E7895E80","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"23375C","on":"E9EF75A17F9090","off":"C4C17A11542474"}]},{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"7FC4A4F0","on":"C7437C0000803FE9AA985E80","off":"000000000000000000000000"},{"offset":"233DA1","on":"E94A67A17F","off":"C5FA115B7C"}]},{"name":"Infinite Magic ","type":"checkbox","memory":[{"offset":"2344F6","on":"9090909090","off":"C5FA115B78"}]},{"name":"Infinite Attribute Points (on spend)","type":"checkbox","memory":[{"offset":"7FC4A440","on":"C680E800000063E98FD7AD80","off":"000000000000000000000000"},{"offset":"727BD5","on":"E96628527F90","off":"8988E8000000"}]},{"name":"Infinite Potions/Runes (on use)","type":"checkbox","memory":[{"offset":"7FC4A510","on":"0F4EC1C6474063E9D1737780","off":"000000000000000000000000"},{"offset":"3C18E7","on":"E9248C887F90","off":"0F4EC1894740"}]},{"name":"Infinite Spell points (on spend)","type":"checkbox","memory":[{"offset":"7FC4B9C0","on":"C680EC00000063E920C2AD80","off":"000000000000000000000000"},{"offset":"727BE6","on":"E9D53D527F90","off":"8988EC000000"}]},{"name":"Alot of Experience (on spend)","type":"checkbox","memory":[{"offset":"7FE1B3F0","on":"41C787B8000000804FC347E9EA964180","off":"00000000000000000000000000000000"},{"offset":"234AE1","on":"E90A69BE7F90909090","off":"C4C17A1187B8000000"}]}],"credits":["Wander, Credits to d01v, Reddevil82, Celogamez"]}
+{
+  "name": "Lords of the Fallen",
+  "id": "CUSA00369",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BF00",
+          "on": "4180BC24CC000000017413C4C17A10542478C4C17A11542474E945785E80C4C17A11542474E939785E80",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "23375C",
+          "on": "E99F87A17F9090",
+          "off": "C4C17A11542474"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health+1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4AD50",
+          "on": "4180BC24CC000000017413C4C17A10542478C4C17A11542474E9F5895E8041C744247400000000E9E7895E80",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "23375C",
+          "on": "E9EF75A17F9090",
+          "off": "C4C17A11542474"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4A4F0",
+          "on": "C7437C0000803FE9AA985E80",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "233DA1",
+          "on": "E94A67A17F",
+          "off": "C5FA115B7C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Magic ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2344F6",
+          "on": "9090909090",
+          "off": "C5FA115B78"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Attribute Points (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4A440",
+          "on": "C680E800000063E98FD7AD80",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "727BD5",
+          "on": "E96628527F90",
+          "off": "8988E8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Potions/Runes (on use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4A510",
+          "on": "0F4EC1C6474063E9D1737780",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "3C18E7",
+          "on": "E9248C887F90",
+          "off": "0F4EC1894740"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Spell points (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4B9C0",
+          "on": "C680EC00000063E920C2AD80",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "727BE6",
+          "on": "E9D53D527F90",
+          "off": "8988EC000000"
+        }
+      ]
+    },
+    {
+      "name": "Alot of Experience (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FE1B3F0",
+          "on": "41C787B8000000804FC347E9EA964180",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "234AE1",
+          "on": "E90A69BE7F90909090",
+          "off": "C4C17A1187B8000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander, Credits to d01v, Reddevil82, Celogamez"
+  ]
+}

@@ -1,1 +1,59 @@
-{"name":"Ghost of Tsushima","id":"CUSA11456","version":"01.00","process":"eboot.bin","mods":[{"name":"Full Ghost Stance","type":"checkbox","memory":[{"offset":"624B41","on":"E946E6D0009090","off":"490F44D0894A04"},{"offset":"133318C","on":"490F44D0C7420407000000E9AC192FFF","off":"00000000000000000000000000000000"}]},{"name":"8,888 Supplies and 888 Resources","type":"checkbox","memory":[{"offset":"6DF6E2","on":"E9A53BC500","off":"42895CA808"},{"offset":"133328C","on":"4983FD2A740E42C744A80878030000E947C43AFFC780B0000000B8220000E938C43AFF","off":"0000000000000000000000000000000000000000000000000000000000000000000000"}]},{"name":"Infinite Resolve","type":"checkbox","memory":[{"offset":"735899","on":"E9EEDABF00909090","off":"C5FA118754430000"},{"offset":"133338C","on":"C7875443000000002041E9062540FF","off":"000000000000000000000000000000"}]}],"credits":["mugenjikuu"]}
+{
+  "name": "Ghost of Tsushima",
+  "id": "CUSA11456",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Full Ghost Stance",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "624B41",
+          "on": "E946E6D0009090",
+          "off": "490F44D0894A04"
+        },
+        {
+          "offset": "133318C",
+          "on": "490F44D0C7420407000000E9AC192FFF",
+          "off": "00000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "8,888 Supplies and 888 Resources",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6DF6E2",
+          "on": "E9A53BC500",
+          "off": "42895CA808"
+        },
+        {
+          "offset": "133328C",
+          "on": "4983FD2A740E42C744A80878030000E947C43AFFC780B0000000B8220000E938C43AFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Resolve",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "735899",
+          "on": "E9EEDABF00909090",
+          "off": "C5FA118754430000"
+        },
+        {
+          "offset": "133338C",
+          "on": "C7875443000000002041E9062540FF",
+          "off": "000000000000000000000000000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "mugenjikuu"
+  ]
+}

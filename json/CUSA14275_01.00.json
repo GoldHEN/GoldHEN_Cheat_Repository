@@ -1,1 +1,33 @@
-{"name":"Back 4 Blood","id":"CUSA14275","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Ammo (nop)","type":"checkbox","memory":[{"offset":"2731C8F","on":"90909090909090","off":"418986E4010000"}]},{"name":"Infinite Health (nop) might affect enemies","type":"checkbox","memory":[{"offset":"263C07C","on":"9090909090909090","off":"C5FA118BD8070000"}]}],"credits":["Savas_9.00"]}
+{
+  "name": "Back 4 Blood",
+  "id": "CUSA14275",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Ammo (nop)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2731C8F",
+          "on": "90909090909090",
+          "off": "418986E4010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (nop) might affect enemies",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "263C07C",
+          "on": "9090909090909090",
+          "off": "C5FA118BD8070000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Savas_9.00"
+  ]
+}

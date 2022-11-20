@@ -1,49 +1,49 @@
 {
-   "name":"God Hand",
-   "id":"SLES54490",
-   "version":"01.00",
-   "process":"eboot.bin",
-   "mods":[
-      {
-         "name":"Max-Gold-999999",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"808016D4F2",
-               "on":"63",
-               "off":"63"
-            }
-         ]
-      },
-	  {
-         "name":"Inf-Health",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"807FD2C290",
-               "on":"00000000",
-               "off":"00000000"
-            }
-         ]
-      },
-	  {
-         "name":"Max-Tension-Gauge",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"80801CFE04",
-               "on":"0000C843",
-               "off":"0000C843"
-            },
-			{
-               "offset":"80801CB004",
-               "on":"0000C843",
-               "off":"0000C843"
-            }
-         ]
-      }
-   ],
-   "credits":[
-      "Ali-mk"
-   ]
+  "name": "God Hand",
+  "id": "SLES54490",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max-Gold-999999",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808016D4F2",
+          "on": "63",
+          "off": "63"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FD2C290",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Max-Tension-Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80801CFE04",
+          "on": "0000C843",
+          "off": "0000C843"
+        },
+        {
+          "offset": "80801CB004",
+          "on": "0000C843",
+          "off": "0000C843"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

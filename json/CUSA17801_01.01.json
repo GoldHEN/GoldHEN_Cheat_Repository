@@ -1,1 +1,107 @@
-{"name":"Hellpoint","id":"CUSA17801","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"1A21500","on":"83BBAC00000000741383BB2C01000000750AC5FA11531CE9FE8AC37EC5FA11431CE9F48AC37E","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"8065A015","on":"E9E6743C81","off":"C5FA11431C"}]},{"name":"Infinite Health / 1 Hit Kill","type":"checkbox","memory":[{"offset":"1A21500","on":"83BBAC00000000741383BB2C01000000750AC5FA11531CE9FE8AC37EC7431C00000000E9F28AC37E","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"8065A015","on":"E9E6743C81","off":"C5FA11431C"}]},{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"1A21560","on":"C5FA104348C5FA114344E9FE95C37E","off":"000000000000000000000000000000"},{"offset":"8065AB68","on":"E9F3693C81","off":"C5FA114344"}]},{"name":"Infinite Energy","type":"checkbox","memory":[{"offset":"1A21580","on":"C5FA104338C5FA114334E9BA93C37E","off":"000000000000000000000000000000"},{"offset":"8065A944","on":"E9376C3C81","off":"C5FA114334"}]},{"name":"Max Axions (On Get)","type":"checkbox","memory":[{"offset":"1A21540","on":"41C786A0000000FFC99A3BE92632A77E","off":"00000000000000000000000000000000"},{"offset":"8049476F","on":"E9CCCD58819090","off":"418986A0000000"}]},{"name":"Max Axions (On Spend)","type":"checkbox","memory":[{"offset":"1A215A0","on":"C74718FFC99A3B488B7F40E9F781C37E","off":"00000000000000000000000000000000"},{"offset":"806597A0","on":"E9FB7D3C819090","off":"897718488B7F40"}]}],"credits":["Saso"]}
+{
+  "name": "Hellpoint",
+  "id": "CUSA17801",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A21500",
+          "on": "83BBAC00000000741383BB2C01000000750AC5FA11531CE9FE8AC37EC5FA11431CE9F48AC37E",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8065A015",
+          "on": "E9E6743C81",
+          "off": "C5FA11431C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health / 1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A21500",
+          "on": "83BBAC00000000741383BB2C01000000750AC5FA11531CE9FE8AC37EC7431C00000000E9F28AC37E",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8065A015",
+          "on": "E9E6743C81",
+          "off": "C5FA11431C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A21560",
+          "on": "C5FA104348C5FA114344E9FE95C37E",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "8065AB68",
+          "on": "E9F3693C81",
+          "off": "C5FA114344"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A21580",
+          "on": "C5FA104338C5FA114334E9BA93C37E",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "8065A944",
+          "on": "E9376C3C81",
+          "off": "C5FA114334"
+        }
+      ]
+    },
+    {
+      "name": "Max Axions (On Get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A21540",
+          "on": "41C786A0000000FFC99A3BE92632A77E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8049476F",
+          "on": "E9CCCD58819090",
+          "off": "418986A0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Axions (On Spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A215A0",
+          "on": "C74718FFC99A3B488B7F40E9F781C37E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "806597A0",
+          "on": "E9FB7D3C819090",
+          "off": "897718488B7F40"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

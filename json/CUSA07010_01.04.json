@@ -1,1 +1,208 @@
-{"name":"Sonic Mania","id":"CUSA07010","version":"01.04","process":"eboot.bin","mods":[{"name":"All Emeralds / Activate Super Sonic with X + Triangle","type":"checkbox","memory":[{"offset":"3C7EF0","on":"488B4020C740707F0000008B7070E936FED4FF","off":"00000000000000000000000000000000000000"},{"offset":"117D32","on":"E9B9012B009090","off":"488B40208B7070"}]},{"name":"Max Lives","type":"checkbox","memory":[{"offset":"7ADEF","on":"B9630000009090","off":"418B8D00010000"},{"offset":"119172","on":"9090","off":"FFCA"}]},{"name":"Max Rings / No loose after hit","type":"checkbox","memory":[{"offset":"30A4D","on":"898BF4000000","off":"89B3F4000000"},{"offset":"E1EDB","on":"90909090909090","off":"488983F4000000"}]},{"name":"Invincibility","type":"checkbox","memory":[{"offset":"3C6120","on":"41C7872801000009000000418B8728010000E98EB0D4FF","off":"0000000000000000000000000000000000000000000000"},{"offset":"1111BE","on":"E95D4F2B009090","off":"418B8728010000"}]},{"name":"Max Score","type":"checkbox","memory":[{"offset":"2DF73","on":"0F4CC0","off":"0F4CC1"}]},{"name":"One Hit Kill ( Boss )","type":"checkbox","memory":[{"offset":"17131B","on":"7D43","off":"7C43"},{"offset":"3C7F10","on":"BA01000000899320010000E993E5DAFF","off":"00000000000000000000000000000000"},{"offset":"1764AD","on":"E95E1A250090","off":"899320010000"}]},{"name":"Set Timer to 0","type":"checkbox","memory":[{"offset":"3C7E90","on":"01D1C7404400000000E9081FEFFF","off":"0000000000000000000000000000"},{"offset":"2B9DA1","on":"E9EAE01000","off":"01D1884844"}]},{"name":"Unlimited Breathe Under Water","type":"checkbox","memory":[{"offset":"3C7ED0","on":"41C6852401000000418B8524010000E9ECC7C5FF","off":"0000000000000000000000000000000000000000"},{"offset":"246C9","on":"E902383A009090","off":"418B8524010000"}]},{"name":"Alternative - Catch 1 Emeralds to get all ( incl. Super Sonic )","type":"checkbox","memory":[{"offset":"3C7380","on":"4C8B682041C745707F000000418B4570E90D3FD1FF","off":"000000000000000000000000000000000000000000"},{"offset":"DB29A","on":"E9E1C02E00909090","off":"4C8B6820418B4570"}]},{"name":"Freeze Ring Timer ( Bonus Game )","type":"checkbox","memory":[{"offset":"3C7F50","on":"BAE7030000895024E9D363D1FF","off":"00000000000000000000000000"},{"offset":"DE32B","on":"E9209C2E00","off":"FFCA895024"}]},{"name":"Collect 1 Silver Medallion ( Unlock all Specials / Debug Mode )","type":"checkbox","memory":[{"offset":"D1F28","on":"41C785C42501002000000090","off":"4589A5C4250100E89CE1F2FF"}]},{"name":"Only 1 Blue Sphere ( Bonus Game )","type":"checkbox","memory":[{"offset":"3C7EB0","on":"FFC9B900000000894808E9321ED1FF","off":"000000000000000000000000000000"},{"offset":"D9CEC","on":"E9BFE12E00","off":"FFC9894808"},{"offset":"3C6760","on":"488B0049C7C501000000E9C1F3D6FF","off":"000000000000000000000000000000"},{"offset":"135B29","on":"E9320C29009090","off":"488B004C636808"}]}],"credits":["Reddevil82_9.00"]}
+{
+  "name": "Sonic Mania",
+  "id": "CUSA07010",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "All Emeralds / Activate Super Sonic with X + Triangle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3C7EF0",
+          "on": "488B4020C740707F0000008B7070E936FED4FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "117D32",
+          "on": "E9B9012B009090",
+          "off": "488B40208B7070"
+        }
+      ]
+    },
+    {
+      "name": "Max Lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7ADEF",
+          "on": "B9630000009090",
+          "off": "418B8D00010000"
+        },
+        {
+          "offset": "119172",
+          "on": "9090",
+          "off": "FFCA"
+        }
+      ]
+    },
+    {
+      "name": "Max Rings / No loose after hit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "30A4D",
+          "on": "898BF4000000",
+          "off": "89B3F4000000"
+        },
+        {
+          "offset": "E1EDB",
+          "on": "90909090909090",
+          "off": "488983F4000000"
+        }
+      ]
+    },
+    {
+      "name": "Invincibility",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3C6120",
+          "on": "41C7872801000009000000418B8728010000E98EB0D4FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1111BE",
+          "on": "E95D4F2B009090",
+          "off": "418B8728010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Score",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2DF73",
+          "on": "0F4CC0",
+          "off": "0F4CC1"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill ( Boss )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17131B",
+          "on": "7D43",
+          "off": "7C43"
+        },
+        {
+          "offset": "3C7F10",
+          "on": "BA01000000899320010000E993E5DAFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1764AD",
+          "on": "E95E1A250090",
+          "off": "899320010000"
+        }
+      ]
+    },
+    {
+      "name": "Set Timer to 0",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3C7E90",
+          "on": "01D1C7404400000000E9081FEFFF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "2B9DA1",
+          "on": "E9EAE01000",
+          "off": "01D1884844"
+        }
+      ]
+    },
+    {
+      "name": "Unlimited Breathe Under Water",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3C7ED0",
+          "on": "41C6852401000000418B8524010000E9ECC7C5FF",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "246C9",
+          "on": "E902383A009090",
+          "off": "418B8524010000"
+        }
+      ]
+    },
+    {
+      "name": "Alternative - Catch 1 Emeralds to get all ( incl. Super Sonic )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3C7380",
+          "on": "4C8B682041C745707F000000418B4570E90D3FD1FF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DB29A",
+          "on": "E9E1C02E00909090",
+          "off": "4C8B6820418B4570"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Ring Timer ( Bonus Game )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3C7F50",
+          "on": "BAE7030000895024E9D363D1FF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "DE32B",
+          "on": "E9209C2E00",
+          "off": "FFCA895024"
+        }
+      ]
+    },
+    {
+      "name": "Collect 1 Silver Medallion ( Unlock all Specials / Debug Mode )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D1F28",
+          "on": "41C785C42501002000000090",
+          "off": "4589A5C4250100E89CE1F2FF"
+        }
+      ]
+    },
+    {
+      "name": "Only 1 Blue Sphere ( Bonus Game )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3C7EB0",
+          "on": "FFC9B900000000894808E9321ED1FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "D9CEC",
+          "on": "E9BFE12E00",
+          "off": "FFC9894808"
+        },
+        {
+          "offset": "3C6760",
+          "on": "488B0049C7C501000000E9C1F3D6FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "135B29",
+          "on": "E9320C29009090",
+          "off": "488B004C636808"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82_9.00"
+  ]
+}

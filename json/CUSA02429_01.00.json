@@ -1,1 +1,49 @@
-{"name":"Battlefield™ 1","id":"CUSA02429","version":"01.00","process":"eboot.bin","mods":[{"name":"No Reload","type":"checkbox","memory":[{"offset":"0220DF05","on":"9090","off":"FFC8"}]},{"name":"Infinite Ammo and Grenade Usage","type":"checkbox","memory":[{"offset":"220CE00","on":"909090","off":"4129F2"}]},{"name":"Infinite Player Health","type":"checkbox","memory":[{"offset":"18318B9","on":"E942E52802","off":"C5FA11431C"},{"offset":"3ABFE00","on":"807B6047750CC7431C0000C842C5FA10431CC5FA11431CE9A21AD7FD","off":"00000000000000000000000000000000000000000000000000000000"}]}],"credits":["Fullcodes������ԭ���"]}
+{
+  "name": "Battlefield™ 1",
+  "id": "CUSA02429",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "0220DF05",
+          "on": "9090",
+          "off": "FFC8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo and Grenade Usage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "220CE00",
+          "on": "909090",
+          "off": "4129F2"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Player Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18318B9",
+          "on": "E942E52802",
+          "off": "C5FA11431C"
+        },
+        {
+          "offset": "3ABFE00",
+          "on": "807B6047750CC7431C0000C842C5FA10431CC5FA11431CE9A21AD7FD",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Fullcodes������ԭ���"
+  ]
+}

@@ -1,1 +1,94 @@
-{"name":"CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS","id":"CUSA14896","version":"01.02","process":"eboot.bin","mods":[{"name":"Max Money Points ( on gain )","type":"checkbox","memory":[{"offset":"3AD6AA","on":"B9FFE0F505","off":"0F42C885FF"}]},{"name":"Max Player Skill Points","type":"checkbox","memory":[{"offset":"394AF7","on":"898048AE0100","off":"89B848AE0100"}]},{"name":"Mastercode Player: V - Zone ( must be activated )","type":"checkbox","memory":[{"offset":"1A37800","on":"4883F900750EC5FA11841164010000E93CF9B1FE4881F980010000750EC5FA11841164010000E925F9B1FEC5FA11841164010000E917F9B1FEC78411640100000000C842C3","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"557147","on":"E9B4064E0190909090","off":"C5FA11841164010000"}]},{"name":"Infinite V-Zone Player 1 [MC]","type":"checkbox","memory":[{"offset":"1A37806","on":"E82E00000090909090","off":"C5FA11841164010000"}]},{"name":"Infinite V-Zone Player 2 [MC]","type":"checkbox","memory":[{"offset":"1A3781D","on":"E81700000090909090","off":"C5FA11841164010000"}]},{"name":"Disable V-Zone Player 1 [MC]","type":"checkbox","memory":[{"offset":"1A37806","on":"C784116401000000000000","off":"C5FA11841164010000"}]},{"name":"Disable V-Zone Player 2 [MC]","type":"checkbox","memory":[{"offset":"1A3781D","on":"C784116401000000000000","off":"C5FA11841164010000"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS",
+  "id": "CUSA14896",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money Points ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AD6AA",
+          "on": "B9FFE0F505",
+          "off": "0F42C885FF"
+        }
+      ]
+    },
+    {
+      "name": "Max Player Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "394AF7",
+          "on": "898048AE0100",
+          "off": "89B848AE0100"
+        }
+      ]
+    },
+    {
+      "name": "Mastercode Player: V - Zone ( must be activated )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A37800",
+          "on": "4883F900750EC5FA11841164010000E93CF9B1FE4881F980010000750EC5FA11841164010000E925F9B1FEC5FA11841164010000E917F9B1FEC78411640100000000C842C3",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "557147",
+          "on": "E9B4064E0190909090",
+          "off": "C5FA11841164010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite V-Zone Player 1 [MC]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A37806",
+          "on": "E82E00000090909090",
+          "off": "C5FA11841164010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite V-Zone Player 2 [MC]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A3781D",
+          "on": "E81700000090909090",
+          "off": "C5FA11841164010000"
+        }
+      ]
+    },
+    {
+      "name": "Disable V-Zone Player 1 [MC]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A37806",
+          "on": "C784116401000000000000",
+          "off": "C5FA11841164010000"
+        }
+      ]
+    },
+    {
+      "name": "Disable V-Zone Player 2 [MC]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A3781D",
+          "on": "C784116401000000000000",
+          "off": "C5FA11841164010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

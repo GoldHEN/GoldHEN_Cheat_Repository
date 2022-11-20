@@ -1,1 +1,33 @@
-{"name":"Watch Dogs","id":"CUSA00016","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"3b3c06","on":"9090909090909090","off":"41FF8C2490000000"}]},{"name":"Infinite Battery","type":"checkbox","memory":[{"offset":"bff82","on":"C683E8000000FF9090","off":"0F47C68983E8000000"}]}],"credits":["golden"]}
+{
+  "name": "Watch Dogs",
+  "id": "CUSA00016",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3b3c06",
+          "on": "9090909090909090",
+          "off": "41FF8C2490000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Battery",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "bff82",
+          "on": "C683E8000000FF9090",
+          "off": "0F47C68983E8000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "golden"
+  ]
+}

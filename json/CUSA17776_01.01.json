@@ -1,1 +1,139 @@
-{"name":"Marvels Spider-Man: Miles Morales","id":"CUSA17776","version":"01.01","process":"eboot.bin","mods":[{"name":"Max XP (use only once than turn off)","type":"checkbox","memory":[{"offset":"4B48170","on":"BB3C6D010041899EF0B90000E9CF5D05FC","off":"0000000000000000000000000000000000"},{"offset":"B9DF49","on":"E922A2FA039090","off":"41899EF0B90000"}]},{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"4B48030","on":"81BBD00000000000803F751B4983FC087515C5FA109380000000C5FA119388000000E9515C36FDC5FA119388000000E9445C36FD","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"1EADCA0","on":"E98BA3C902909090","off":"C5FA119388000000"}]},{"name":"Infinite Venom Power","type":"checkbox","memory":[{"offset":"4B481F0","on":"51B90000C842660F6EE159C4C17A11A4C50C010000E95686C9FB","off":"0000000000000000000000000000000000000000000000000000"},{"offset":"7E0856","on":"E9957936049090909090","off":"C4C17A11A4C50C010000"}]},{"name":"Infinite Web-shooters","type":"checkbox","memory":[{"offset":"4B480B0","on":"29D8B80800000041894738E9DD9639FD","off":"00000000000000000000000000000000"},{"offset":"1EE1797","on":"E91469C60290","off":"29D841894738"}]},{"name":"Infinite Skill Points (on spend)","type":"checkbox","memory":[{"offset":"4B480E0","on":"90B8E70300008981F8B90000E95D3905FC","off":"0000000000000000000000000000000000"},{"offset":"B9BA48","on":"E993C6FA0390","off":"2981F8B90000"}]},{"name":"Infinite Resources (on spend buy 1 suit)","type":"checkbox","memory":[{"offset":"4B48160","on":"41BDE70300004489683880480804E9B77F3AFD","off":"00000000000000000000000000000000000000"},{"offset":"1EF0122","on":"E93980C502909090","off":"4489683880480804"}]},{"name":"Freeze Challenges Time (only use in Challenges)","type":"checkbox","memory":[{"offset":"4B481B0","on":"41C70120000000C4C17A1001E98995EEFC","off":"0000000000000000000000000000000000"},{"offset":"1A31745","on":"E9666A1103","off":"C4C17A1101"}]},{"name":"Explosive Timer Freeze (only use when there is a timer)","type":"checkbox","memory":[{"offset":"4B48120","on":"51B900006C42660F6EC159C5FA114364E9D1A5A7FB","off":"000000000000000000000000000000000000000000"},{"offset":"5C2701","on":"E91A5A5804","off":"C5FA114364"}]}],"credits":["B2"]}
+{
+  "name": "Marvels Spider-Man: Miles Morales",
+  "id": "CUSA17776",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max XP (use only once than turn off)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B48170",
+          "on": "BB3C6D010041899EF0B90000E9CF5D05FC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "B9DF49",
+          "on": "E922A2FA039090",
+          "off": "41899EF0B90000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B48030",
+          "on": "81BBD00000000000803F751B4983FC087515C5FA109380000000C5FA119388000000E9515C36FDC5FA119388000000E9445C36FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1EADCA0",
+          "on": "E98BA3C902909090",
+          "off": "C5FA119388000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Venom Power",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B481F0",
+          "on": "51B90000C842660F6EE159C4C17A11A4C50C010000E95686C9FB",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7E0856",
+          "on": "E9957936049090909090",
+          "off": "C4C17A11A4C50C010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Web-shooters",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B480B0",
+          "on": "29D8B80800000041894738E9DD9639FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1EE1797",
+          "on": "E91469C60290",
+          "off": "29D841894738"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skill Points (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B480E0",
+          "on": "90B8E70300008981F8B90000E95D3905FC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "B9BA48",
+          "on": "E993C6FA0390",
+          "off": "2981F8B90000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Resources (on spend buy 1 suit)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B48160",
+          "on": "41BDE70300004489683880480804E9B77F3AFD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1EF0122",
+          "on": "E93980C502909090",
+          "off": "4489683880480804"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Challenges Time (only use in Challenges)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B481B0",
+          "on": "41C70120000000C4C17A1001E98995EEFC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A31745",
+          "on": "E9666A1103",
+          "off": "C4C17A1101"
+        }
+      ]
+    },
+    {
+      "name": "Explosive Timer Freeze (only use when there is a timer)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B48120",
+          "on": "51B900006C42660F6EC159C5FA114364E9D1A5A7FB",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5C2701",
+          "on": "E91A5A5804",
+          "off": "C5FA114364"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "B2"
+  ]
+}

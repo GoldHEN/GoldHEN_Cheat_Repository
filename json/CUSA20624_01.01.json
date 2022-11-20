@@ -1,1 +1,59 @@
-{"name":"Gryphon Knight Epic: Definitive Edition","id":"CUSA20624","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"186C5C0","on":"418B854001000041894538E997CFDB7E","off":"00000000000000000000000000000000"},{"offset":"8062955C","on":"E95F302481909090909090","off":"418B854401000041294538"}]},{"name":"Infinite Mana","type":"checkbox","memory":[{"offset":"186C630","on":"418B5C243841895C2448E9D6B8DB7E","off":"000000000000000000000000000000"},{"offset":"80627F10","on":"E91B472481","off":"41895C2448"}]},{"name":"Max Gold","type":"checkbox","memory":[{"offset":"186C5F0","on":"BA3F420F004189542454E91ED9DB7E","off":"000000000000000000000000000000"},{"offset":"80629F18","on":"E9D3262481","off":"4189542454"}]}],"credits":["Saso"]}
+{
+  "name": "Gryphon Knight Epic: Definitive Edition",
+  "id": "CUSA20624",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "186C5C0",
+          "on": "418B854001000041894538E997CFDB7E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8062955C",
+          "on": "E95F302481909090909090",
+          "off": "418B854401000041294538"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mana",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "186C630",
+          "on": "418B5C243841895C2448E9D6B8DB7E",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80627F10",
+          "on": "E91B472481",
+          "off": "41895C2448"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "186C5F0",
+          "on": "BA3F420F004189542454E91ED9DB7E",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80629F18",
+          "on": "E9D3262481",
+          "off": "4189542454"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

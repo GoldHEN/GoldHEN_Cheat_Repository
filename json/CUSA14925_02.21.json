@@ -1,1 +1,28 @@
-{"name":"Bus Simulator 21","id":"CUSA14925","version":"02.21","process":"eboot.bin","mods":[{"name":"Max Money","type":"checkbox","memory":[{"offset":"6237E66","on":"C78010010000FF7FC6A4C780140100007E8D0300488BB010010000E9F001FBFA","off":"0000000000000000000000000000000000000000000000000000000000000000"},{"offset":"11E806B","on":"E9F6FD04059090","off":"488BB010010000"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "Bus Simulator 21",
+  "id": "CUSA14925",
+  "version": "02.21",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6237E66",
+          "on": "C78010010000FF7FC6A4C780140100007E8D0300488BB010010000E9F001FBFA",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "11E806B",
+          "on": "E9F6FD04059090",
+          "off": "488BB010010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

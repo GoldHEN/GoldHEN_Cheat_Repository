@@ -16,7 +16,7 @@
         }
       ]
     },
-	{
+    {
       "name": "All Client Infinite Ammo",
       "hint": null,
       "type": "checkbox",
@@ -26,14 +26,14 @@
           "on": "909090",
           "off": "448928"
         },
-		{
+        {
           "offset": "DADC88",
           "on": "9090",
           "off": "8918"
         }
       ]
     },
-	{
+    {
       "name": "Super Jump",
       "hint": null,
       "type": "checkbox",
@@ -45,7 +45,7 @@
         }
       ]
     },
-	{
+    {
       "name": "FPS Counter",
       "hint": null,
       "type": "checkbox",
@@ -57,7 +57,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Lagometer",
       "hint": null,
       "type": "checkbox",
@@ -67,7 +67,7 @@
           "on": "9090",
           "off": "7415"
         },
-		{
+        {
           "offset": "9F4B84",
           "on": "EB0D",
           "off": "740D"

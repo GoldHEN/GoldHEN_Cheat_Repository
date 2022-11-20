@@ -1,1 +1,22 @@
-{"name":"A Plague Tale: Innocence","id":"CUSA10812","version":"01.06","process":"eboot.bin","mods":[{"name":"Infinite Items","type":"checkbox","memory":[{"offset":"28D590","on":"90909090","off":"44296838"}]}],"credits":["ADI"]}
+{
+  "name": "A Plague Tale: Innocence",
+  "id": "CUSA10812",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28D590",
+          "on": "90909090",
+          "off": "44296838"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "ADI"
+  ]
+}

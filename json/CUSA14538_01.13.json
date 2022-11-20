@@ -1,1 +1,66 @@
-{"name":"Maneater","id":"CUSA14538","version":"01.13","process":"eboot.bin","mods":[{"name":"Fat (On Consume)","type":"checkbox","memory":[{"offset":"CF3D33","on":"018384030000","off":"898384030000"}]},{"name":"Mineral (On consume)","type":"checkbox","memory":[{"offset":"CF3E0A","on":"018388030000","off":"898388030000"}]},{"name":"Protein (On Consume)","type":"checkbox","memory":[{"offset":"CF3C6A","on":"018380030000","off":"898380030000"}]},{"name":"Mutagen (On Consume)","type":"checkbox","memory":[{"offset":"CF3EE1","on":"01838C030000","off":"89838C030000"}]},{"name":"XP Multiplier","type":"checkbox","memory":[{"offset":"CF3C80","on":"018390030000","off":"898390030000"}]}],"credits":["Wander"]}
+{
+  "name": "Maneater",
+  "id": "CUSA14538",
+  "version": "01.13",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Fat (On Consume)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CF3D33",
+          "on": "018384030000",
+          "off": "898384030000"
+        }
+      ]
+    },
+    {
+      "name": "Mineral (On consume)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CF3E0A",
+          "on": "018388030000",
+          "off": "898388030000"
+        }
+      ]
+    },
+    {
+      "name": "Protein (On Consume)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CF3C6A",
+          "on": "018380030000",
+          "off": "898380030000"
+        }
+      ]
+    },
+    {
+      "name": "Mutagen (On Consume)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CF3EE1",
+          "on": "01838C030000",
+          "off": "89838C030000"
+        }
+      ]
+    },
+    {
+      "name": "XP Multiplier",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CF3C80",
+          "on": "018390030000",
+          "off": "898390030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander"
+  ]
+}

@@ -1,44 +1,44 @@
 {
-   "name":"Suffering-The-Ties That Bind",
-   "id":"SLES53626",
-   "version":"01.00",
-   "process":"eboot.bin",
-   "mods":[
-      {
-         "name":"Inf-Ammo/No-Reloads",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"807FF26A2C",
-               "on":"00000000",
-               "off":"00000000"
-            }
-         ]
-      },
-	  {
-         "name":"Inf-Flashlight-Power",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"807FE69944",
-               "on":"00000000",
-               "off":"00000000"
-            }
-         ]
-      },
-	  {
-         "name":"Max-Inf-Health-Kits",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"807FEAF2A0",
-               "on":"00000000",
-               "off":"00000000"
-            }
-         ]
-      }
-   ],
-   "credits":[
-      "Ali-mk"
-   ]
+  "name": "Suffering-The-Ties That Bind",
+  "id": "SLES53626",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf-Ammo/No-Reloads",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FF26A2C",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Flashlight-Power",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FE69944",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Max-Inf-Health-Kits",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FEAF2A0",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

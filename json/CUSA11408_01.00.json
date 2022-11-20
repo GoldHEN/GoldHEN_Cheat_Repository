@@ -1,1 +1,77 @@
-{"name":"Metro Exodus","id":"CUSA11408","version":"01.00","process":"eboot.bin","mods":[{"name":"Inf Clip Ammo","type":"checkbox","memory":[{"offset":"4D3B20","on":"90909090909090","off":"6689B3D2050000"}]},{"name":"Inf Air Filter","type":"checkbox","memory":[{"offset":"58D676","on":"9090909090909090","off":"C5FA1183B00A0000"}]},{"name":"Inf Items","type":"checkbox","memory":[{"offset":"43C7C0","on":"B8050000009090","off":"0FB78760050000"}]},{"name":"Inf Medkit","type":"checkbox","memory":[{"offset":"5947BF","on":"909090909090","off":"FF8B24090000"}]},{"name":"No reload","type":"checkbox","memory":[{"offset":"512626","on":"9090909090909090","off":"41898424E0170000"}]},{"name":"Weapon Dont stuck","type":"checkbox","memory":[{"offset":"523503","on":"410F948640180000","off":"410F928640180000"}]}],"credits":["x3shakir"]}
+{
+  "name": "Metro Exodus",
+  "id": "CUSA11408",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Clip Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D3B20",
+          "on": "90909090909090",
+          "off": "6689B3D2050000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Air Filter",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "58D676",
+          "on": "9090909090909090",
+          "off": "C5FA1183B00A0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43C7C0",
+          "on": "B8050000009090",
+          "off": "0FB78760050000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Medkit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5947BF",
+          "on": "909090909090",
+          "off": "FF8B24090000"
+        }
+      ]
+    },
+    {
+      "name": "No reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "512626",
+          "on": "9090909090909090",
+          "off": "41898424E0170000"
+        }
+      ]
+    },
+    {
+      "name": "Weapon Dont stuck",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "523503",
+          "on": "410F948640180000",
+          "off": "410F928640180000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "x3shakir"
+  ]
+}

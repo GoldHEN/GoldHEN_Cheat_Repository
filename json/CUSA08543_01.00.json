@@ -1,1 +1,103 @@
-{"name":"Bloody Zombies","id":"CUSA08543","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite HP (All Players) / (Master Code)","type":"checkbox","memory":[{"offset":"7FE627B0","on":"41837D2800741C41837D2801742041837D2802741941837D2803741241837D2804740BC4C17A11457CE94E2C4400C4C17A104518C4C17A11457CE93D2C440041C7457C00000000E9302C4400","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"802A5426","on":"E985D3BBFF90","off":"C4C17A11457C"}]},{"name":"Disable (EDDIE) Inf HP","type":"checkbox","memory":[{"section":"8","offset":"D67BC","on":"7415","off":"7420"}]},{"name":"Disable (MICK) Inf HP","type":"checkbox","memory":[{"section":"8","offset":"D67C3","on":"740E","off":"7419"}]},{"name":"Disable (REI) Inf HP","type":"checkbox","memory":[{"section":"8","offset":"D67CA","on":"7407","off":"7412"}]},{"name":"Disable (TELLER) Inf HP","type":"checkbox","memory":[{"section":"8","offset":"D67D1","on":"7400","off":"740B"}]},{"name":"Infinite Energy","type":"checkbox","memory":[{"offset":"7FE62820","on":"C783400200000000A041C5FA108340020000C5FA118340020000E9C6492000","off":"00000000000000000000000000000000000000000000000000000000000000"},{"offset":"800671FD","on":"E91EB6DFFF909090","off":"C5FA118340020000"}]},{"name":"Inf Weapon Durability","type":"checkbox","memory":[{"section":"15","offset":"44BE98","on":"9090","off":"FFC8"}]}],"credits":["Saso"]}
+{
+  "name": "Bloody Zombies",
+  "id": "CUSA08543",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite HP (All Players) / (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FE627B0",
+          "on": "41837D2800741C41837D2801742041837D2802741941837D2803741241837D2804740BC4C17A11457CE94E2C4400C4C17A104518C4C17A11457CE93D2C440041C7457C00000000E9302C4400",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "802A5426",
+          "on": "E985D3BBFF90",
+          "off": "C4C17A11457C"
+        }
+      ]
+    },
+    {
+      "name": "Disable (EDDIE) Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "8",
+          "offset": "D67BC",
+          "on": "7415",
+          "off": "7420"
+        }
+      ]
+    },
+    {
+      "name": "Disable (MICK) Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "8",
+          "offset": "D67C3",
+          "on": "740E",
+          "off": "7419"
+        }
+      ]
+    },
+    {
+      "name": "Disable (REI) Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "8",
+          "offset": "D67CA",
+          "on": "7407",
+          "off": "7412"
+        }
+      ]
+    },
+    {
+      "name": "Disable (TELLER) Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "8",
+          "offset": "D67D1",
+          "on": "7400",
+          "off": "740B"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FE62820",
+          "on": "C783400200000000A041C5FA108340020000C5FA118340020000E9C6492000",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "800671FD",
+          "on": "E91EB6DFFF909090",
+          "off": "C5FA118340020000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "15",
+          "offset": "44BE98",
+          "on": "9090",
+          "off": "FFC8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

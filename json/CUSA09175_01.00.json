@@ -1,1 +1,93 @@
-{"name":"DAYS GONE","id":"CUSA09175","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"012F89B7","on":"90909090","off":"488914C1"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"012E4BC7","on":"9090","off":"29D0"},{"offset":"012E6947","on":"9090","off":"29D1"}]},{"name":"Infinite Items","type":"checkbox","memory":[{"offset":"012E95B0","on":"C3","off":"55"}]},{"name":"Infinite Fuel","type":"checkbox","memory":[{"offset":"0157CD8D","on":"90909090","off":"C5F82EC1"}]},{"name":"Infinite Nitrogen","type":"checkbox","memory":[{"offset":"015ABB09","on":"90909090","off":"C5EA5CD1"}]},{"name":"Infinite Silencer","type":"checkbox","memory":[{"offset":"016A098E","on":"898370030000","off":"898B70030000"}]},{"name":"Infinite Bandages","type":"checkbox","memory":[{"offset":"012E95FD","on":"9090","off":"29D0"}]}],"credits":["x3shakir"]}
+{
+  "name": "DAYS GONE",
+  "id": "CUSA09175",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "012F89B7",
+          "on": "90909090",
+          "off": "488914C1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "012E4BC7",
+          "on": "9090",
+          "off": "29D0"
+        },
+        {
+          "offset": "012E6947",
+          "on": "9090",
+          "off": "29D1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "012E95B0",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Fuel",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "0157CD8D",
+          "on": "90909090",
+          "off": "C5F82EC1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Nitrogen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "015ABB09",
+          "on": "90909090",
+          "off": "C5EA5CD1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Silencer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "016A098E",
+          "on": "898370030000",
+          "off": "898B70030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Bandages",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "012E95FD",
+          "on": "9090",
+          "off": "29D0"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "x3shakir"
+  ]
+}

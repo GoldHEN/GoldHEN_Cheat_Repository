@@ -1,1 +1,27 @@
-{"name":"Frostpunk","id":"CUSA15690","version":"01.02","process":"eboot.bin","mods":[{"name":"infinite resoures","type":"checkbox","memory":[{"offset":"2313800","on":"41C7440E0850020000E9B30995FE","off":"0000000000000000000000000000"},{"offset":"C641BC","on":"E93FF66A01","off":"45897C0E08"}]}],"credits":["LMN"]}
+{
+  "name": "Frostpunk",
+  "id": "CUSA15690",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "infinite resoures",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2313800",
+          "on": "41C7440E0850020000E9B30995FE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "C641BC",
+          "on": "E93FF66A01",
+          "off": "45897C0E08"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "LMN"
+  ]
+}

@@ -1,1 +1,225 @@
-{"name":"Bloodstained: Ritual of the Night","id":"CUSA07953","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite MP","type":"checkbox","memory":[{"offset":"701A000","on":"4585F6B9E8030000894B3CE94A7A28F9","off":"00000000000000000000000000000000"},{"offset":"2A1A54","on":"E9A785D70690","off":"4585F6894B3C"}]},{"name":"Max Gold On Gain","type":"checkbox","memory":[{"offset":"701A09C","on":"B97F96980041898F54020000E9B6EC2BF9","off":"0000000000000000000000000000000000"},{"offset":"2D8D5C","on":"E93B13D4069090","off":"41898F54020000"}]},{"name":"Max Gold On Spend","type":"checkbox","memory":[{"offset":"701A104","on":"8B0801CEBE7F9698008930E945F02BF9","off":"00000000000000000000000000000000"},{"offset":"2D9153","on":"E9AC0FD40690","off":"8B0801CE8930"}]},{"name":"Max Items On Buy/Gain","type":"checkbox","memory":[{"offset":"253F30","on":"48895348","off":"44897348"}]},{"name":"Infinite Items And Materials","type":"checkbox","memory":[{"offset":"25799D","on":"90909090","off":"418947F0"}]},{"name":"Max Items And Materials On Use/Sell","type":"checkbox","memory":[{"offset":"701A0AF","on":"4429E8B863000000418947F0E9E1D823F9","off":"0000000000000000000000000000000000"},{"offset":"25799A","on":"E91027DC069090","off":"4429E8418947F0"}]},{"name":"Freeze PlayTime","type":"checkbox","memory":[{"offset":"701A0D0","on":"C4C17A108F68020000C4C17A118F68020000E96B032DF9","off":"0000000000000000000000000000000000000000000000"},{"offset":"2EA449","on":"E982FCD20690909090","off":"C4C17A118F68020000"}]},{"name":"Rest PlayTime","type":"checkbox","memory":[{"offset":"701A0E9","on":"C4C17A118F6802000041C7876802000000000000E950032DF9","off":"00000000000000000000000000000000000000000000000000"},{"offset":"2EA449","on":"E99BFCD20690909090","off":"C4C17A118F68020000"}]},{"name":"Boost EXP","type":"checkbox","memory":[{"offset":"701A037","on":"83C11941894C2440E9166A28F9","off":"00000000000000000000000000"},{"offset":"2A0A55","on":"E9DD95D706","off":"41894C2440"}]},{"name":"Extra EXP","type":"checkbox","memory":[{"offset":"701A046","on":"83C14B41894C2440E9076A28F9","off":"00000000000000000000000000"},{"offset":"2A0A55","on":"E9EC95D706","off":"41894C2440"}]},{"name":"Even More EXP","type":"checkbox","memory":[{"offset":"701A055","on":"81C1AF00000041894C2440E9F56928F9","off":"00000000000000000000000000000000"},{"offset":"2A0A55","on":"E9FB95D706","off":"41894C2440"}]},{"name":"Lots Of EXP","type":"checkbox","memory":[{"offset":"701A067","on":"81C19001000041894C2440E9E36928F9","off":"00000000000000000000000000000000"},{"offset":"2A0A55","on":"E90D96D706","off":"41894C2440"}]},{"name":"Hella EXP","type":"checkbox","memory":[{"offset":"701A079","on":"81C1E803000041894C2440E9D16928F9","off":"00000000000000000000000000000000"},{"offset":"2A0A55","on":"E91F96D706","off":"41894C2440"}]},{"name":"EXP OVERLORD | MAX LEVEL","type":"checkbox","memory":[{"offset":"701A08B","on":"B9FFE0F50541894C2440E9C06928F9","off":"000000000000000000000000000000"},{"offset":"2A0A55","on":"E93196D706","off":"41894C2440"}]}],"credits":["GamerX2"]}
+{
+  "name": "Bloodstained: Ritual of the Night",
+  "id": "CUSA07953",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "701A000",
+          "on": "4585F6B9E8030000894B3CE94A7A28F9",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2A1A54",
+          "on": "E9A785D70690",
+          "off": "4585F6894B3C"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold On Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "701A09C",
+          "on": "B97F96980041898F54020000E9B6EC2BF9",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "2D8D5C",
+          "on": "E93B13D4069090",
+          "off": "41898F54020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold On Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "701A104",
+          "on": "8B0801CEBE7F9698008930E945F02BF9",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2D9153",
+          "on": "E9AC0FD40690",
+          "off": "8B0801CE8930"
+        }
+      ]
+    },
+    {
+      "name": "Max Items On Buy/Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "253F30",
+          "on": "48895348",
+          "off": "44897348"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items And Materials",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25799D",
+          "on": "90909090",
+          "off": "418947F0"
+        }
+      ]
+    },
+    {
+      "name": "Max Items And Materials On Use/Sell",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "701A0AF",
+          "on": "4429E8B863000000418947F0E9E1D823F9",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "25799A",
+          "on": "E91027DC069090",
+          "off": "4429E8418947F0"
+        }
+      ]
+    },
+    {
+      "name": "Freeze PlayTime",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "701A0D0",
+          "on": "C4C17A108F68020000C4C17A118F68020000E96B032DF9",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2EA449",
+          "on": "E982FCD20690909090",
+          "off": "C4C17A118F68020000"
+        }
+      ]
+    },
+    {
+      "name": "Rest PlayTime",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "701A0E9",
+          "on": "C4C17A118F6802000041C7876802000000000000E950032DF9",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2EA449",
+          "on": "E99BFCD20690909090",
+          "off": "C4C17A118F68020000"
+        }
+      ]
+    },
+    {
+      "name": "Boost EXP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "701A037",
+          "on": "83C11941894C2440E9166A28F9",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "2A0A55",
+          "on": "E9DD95D706",
+          "off": "41894C2440"
+        }
+      ]
+    },
+    {
+      "name": "Extra EXP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "701A046",
+          "on": "83C14B41894C2440E9076A28F9",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "2A0A55",
+          "on": "E9EC95D706",
+          "off": "41894C2440"
+        }
+      ]
+    },
+    {
+      "name": "Even More EXP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "701A055",
+          "on": "81C1AF00000041894C2440E9F56928F9",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2A0A55",
+          "on": "E9FB95D706",
+          "off": "41894C2440"
+        }
+      ]
+    },
+    {
+      "name": "Lots Of EXP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "701A067",
+          "on": "81C19001000041894C2440E9E36928F9",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2A0A55",
+          "on": "E90D96D706",
+          "off": "41894C2440"
+        }
+      ]
+    },
+    {
+      "name": "Hella EXP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "701A079",
+          "on": "81C1E803000041894C2440E9D16928F9",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2A0A55",
+          "on": "E91F96D706",
+          "off": "41894C2440"
+        }
+      ]
+    },
+    {
+      "name": "EXP OVERLORD | MAX LEVEL",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "701A08B",
+          "on": "B9FFE0F50541894C2440E9C06928F9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2A0A55",
+          "on": "E93196D706",
+          "off": "41894C2440"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "GamerX2"
+  ]
+}

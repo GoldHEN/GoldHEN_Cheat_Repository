@@ -46,11 +46,16 @@
       ]
     },
     {
-      "name":"Infinite jump",
-      "type":"checkbox",
-      "memory":[{"offset":"29BDCE",
-      "on":"90909090909090",
-      "off":"41898558140000"}]}
+      "name": "Infinite jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "29BDCE",
+          "on": "90909090909090",
+          "off": "41898558140000"
+        }
+      ]
+    }
   ],
   "credits": [
     "Weysincha, Skal"

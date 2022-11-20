@@ -1,1 +1,95 @@
-{"name":"Mortal Kombat 11","id":"CUSA11379","version":"01.28","process":"eboot.bin","mods":[{"name":"Inf Health / Easy Win (Master Code)","type":"checkbox","memory":[{"offset":"494DA00","on":"669C81BB58090000000013277508C5FA10832C0C0000C5FA1183280C0000669DE9B3CBD6FC81BB280C00009A99193E7EE5C783280C00009A99193EC5FA1083280C0000EBD1","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"16BA5D0","on":"E92B342903909090","off":"C5FA1183280C0000"}]},{"name":"1-Easy Win (MC) Opponent Health (15%)","type":"checkbox","memory":[{"section":"1","offset":"14DA0C","on":"7517","off":"75F2"}]},{"name":"2-Easy Win (MC) Opponent Health (1%)","type":"checkbox","memory":[{"section":"1","offset":"14DA0C","on":"7517","off":"7508"},{"section":"1","offset":"14DA25","on":"81BB280C00000AD7233C","off":"81BB280C00009A99193E"},{"section":"1","offset":"14DA31","on":"C783280C00000AD7233C","off":"C783280C00009A99193E"}]},{"name":"Inf Super Meter","type":"checkbox","memory":[{"offset":"49C5000","on":"488B8570FFFFFF4181BC2458090000000013277505C5FA104008C5FA1100E95A2C05FD","off":"0000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"1A17C72","on":"E989D3FA02909090909090","off":"488B8570FFFFFFC5FA1100"}]},{"name":"Opponent Super Meter (No Refill)","type":"checkbox","memory":[{"offset":"4994C00","on":"81BD70FFFFFF000013277513C4C17A1044240CC4C17A11442404E9ED2808FDC5F857C0EBEE","off":"00000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"1A17505","on":"E9F6D6F7029090","off":"C4C17A11442404"}]}],"credits":["Saso_9.00"]}
+{
+  "name": "Mortal Kombat 11",
+  "id": "CUSA11379",
+  "version": "01.28",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health / Easy Win (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "494DA00",
+          "on": "669C81BB58090000000013277508C5FA10832C0C0000C5FA1183280C0000669DE9B3CBD6FC81BB280C00009A99193E7EE5C783280C00009A99193EC5FA1083280C0000EBD1",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16BA5D0",
+          "on": "E92B342903909090",
+          "off": "C5FA1183280C0000"
+        }
+      ]
+    },
+    {
+      "name": "1-Easy Win (MC) Opponent Health (15%)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "1",
+          "offset": "14DA0C",
+          "on": "7517",
+          "off": "75F2"
+        }
+      ]
+    },
+    {
+      "name": "2-Easy Win (MC) Opponent Health (1%)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "1",
+          "offset": "14DA0C",
+          "on": "7517",
+          "off": "7508"
+        },
+        {
+          "section": "1",
+          "offset": "14DA25",
+          "on": "81BB280C00000AD7233C",
+          "off": "81BB280C00009A99193E"
+        },
+        {
+          "section": "1",
+          "offset": "14DA31",
+          "on": "C783280C00000AD7233C",
+          "off": "C783280C00009A99193E"
+        }
+      ]
+    },
+    {
+      "name": "Inf Super Meter",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "49C5000",
+          "on": "488B8570FFFFFF4181BC2458090000000013277505C5FA104008C5FA1100E95A2C05FD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A17C72",
+          "on": "E989D3FA02909090909090",
+          "off": "488B8570FFFFFFC5FA1100"
+        }
+      ]
+    },
+    {
+      "name": "Opponent Super Meter (No Refill)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4994C00",
+          "on": "81BD70FFFFFF000013277513C4C17A1044240CC4C17A11442404E9ED2808FDC5F857C0EBEE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A17505",
+          "on": "E9F6D6F7029090",
+          "off": "C4C17A11442404"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

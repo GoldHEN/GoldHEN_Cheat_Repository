@@ -1,1 +1,187 @@
-{"name":"RESIDENT EVIL REVELATIONS 2","id":"CUSA00924","version":"01.05","process":"eboot.bin","mods":[{"name":"Max/Infinite Health","type":"checkbox","memory":[{"offset":"153FEB0","on":"C783381F0000D0070000E95203EDFE","off":"000000000000000000000000000000"},{"offset":"41020B","on":"E9A0FC120190","off":"8983381F0000"}]},{"name":"Infinite Endurance","type":"checkbox","memory":[{"offset":"7FC4BF40","on":"C5FA104B0CE9CDD17980","off":"00000000000000000000"},{"offset":"3E9112","on":"E9292E867F","off":"C5FA114B0C"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"7FC4BE90","on":"4429E1418B4D10E960D6B880","off":"000000000000000000000000"},{"offset":"7D94F5","on":"E99629477F9090","off":"4429E141894D10"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"7FC4BB80","on":"4489F8418B4610E9C0B77B80","off":"000000000000000000000000"},{"offset":"407345","on":"E93648847F9090","off":"4489F841894610"}]},{"name":"Infinite Items","type":"checkbox","memory":[{"offset":"7FC4BF00","on":"418B4C2410E90D71AB80","off":"00000000000000000000"},{"offset":"703012","on":"E9E98E547F","off":"41894C2410"}]},{"name":"Infinite Flashlight","type":"checkbox","memory":[{"offset":"7FC4BBE0","on":"440F4FE990E91A117B80","off":"00000000000000000000"},{"offset":"3FCCFC","on":"E9DFEE847F909090","off":"440F4FE945896F10"}]},{"name":"Max/Infinite BP","type":"checkbox","memory":[{"offset":"7FC4BF20","on":"C787B01800003F420F00E9C4EBB680","off":"000000000000000000000000000000"},{"offset":"7BAAED","on":"E92E14497F90","off":"8987B0180000"}]},{"name":"Max/Infinite Gold (Raid)","type":"checkbox","memory":[{"offset":"7FC4BC10","on":"C783C8C400003F420F00E94A73C180","off":"000000000000000000000000000000"},{"offset":"862F62","on":"E9A98C3E7F9090","off":"4C89A3C8C40000"}]},{"name":"Max/Infinite Skill Points (Raid)","type":"checkbox","memory":[{"offset":"7FC4BAB0","on":"C780EC000000E7030000E96F32C180","off":"000000000000000000000000000000"},{"offset":"85ED27","on":"E984CD3E7F9090","off":"4489B8EC000000"}]},{"name":"Infinite Bottles (Raid)","type":"checkbox","memory":[{"offset":"7FC4BA30","on":"0F48C290E9F6597980","off":"000000000000000000"},{"offset":"3E1429","on":"E902A6867F90","off":"0F48C2894310"}]},{"name":"Stop Time (Raid)","type":"checkbox","memory":[{"offset":"7FC4BF80","on":"C5FA1087148E1100E93B5DB680","off":"00000000000000000000000000"},{"offset":"7B1CC0","on":"E9BBA2497F909090","off":"C5FA1187148E1100"}]}],"credits":["Celogamez"]}
+{
+  "name": "RESIDENT EVIL REVELATIONS 2",
+  "id": "CUSA00924",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "153FEB0",
+          "on": "C783381F0000D0070000E95203EDFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "41020B",
+          "on": "E9A0FC120190",
+          "off": "8983381F0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Endurance",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BF40",
+          "on": "C5FA104B0CE9CDD17980",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "3E9112",
+          "on": "E9292E867F",
+          "off": "C5FA114B0C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BE90",
+          "on": "4429E1418B4D10E960D6B880",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "7D94F5",
+          "on": "E99629477F9090",
+          "off": "4429E141894D10"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BB80",
+          "on": "4489F8418B4610E9C0B77B80",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "407345",
+          "on": "E93648847F9090",
+          "off": "4489F841894610"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BF00",
+          "on": "418B4C2410E90D71AB80",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "703012",
+          "on": "E9E98E547F",
+          "off": "41894C2410"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Flashlight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BBE0",
+          "on": "440F4FE990E91A117B80",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "3FCCFC",
+          "on": "E9DFEE847F909090",
+          "off": "440F4FE945896F10"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite BP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BF20",
+          "on": "C787B01800003F420F00E9C4EBB680",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "7BAAED",
+          "on": "E92E14497F90",
+          "off": "8987B0180000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Gold (Raid)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BC10",
+          "on": "C783C8C400003F420F00E94A73C180",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "862F62",
+          "on": "E9A98C3E7F9090",
+          "off": "4C89A3C8C40000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Skill Points (Raid)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BAB0",
+          "on": "C780EC000000E7030000E96F32C180",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "85ED27",
+          "on": "E984CD3E7F9090",
+          "off": "4489B8EC000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Bottles (Raid)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BA30",
+          "on": "0F48C290E9F6597980",
+          "off": "000000000000000000"
+        },
+        {
+          "offset": "3E1429",
+          "on": "E902A6867F90",
+          "off": "0F48C2894310"
+        }
+      ]
+    },
+    {
+      "name": "Stop Time (Raid)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BF80",
+          "on": "C5FA1087148E1100E93B5DB680",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "7B1CC0",
+          "on": "E9BBA2497F909090",
+          "off": "C5FA1187148E1100"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

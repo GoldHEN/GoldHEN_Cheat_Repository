@@ -1,1 +1,111 @@
-{"name":"Grand Theft Auto: Vice City – The Definitive Edition","id":"CUSA26616","version":"01.04","process":"eboot.bin","mods":[{"name":"Infinite Health (WIP/Experimental)","type":"checkbox","memory":[{"offset":"111801C","on":"9090909090909090","off":"C5FA1183CC040000"}]},{"name":"Infinite Armor","type":"checkbox","memory":[{"offset":"1117F59","on":"9090909090909090","off":"C5FA1183D0040000"}]},{"name":"Infinite Ammo/No Reload","type":"checkbox","memory":[{"offset":"1202134","on":"90909090","off":"41894D08"},{"offset":"1202191","on":"90909090","off":"41894D0C"},{"offset":"120922B","on":"90909090","off":"4189560C"}]},{"name":"Max Money Instantly","type":"checkbox","memory":[{"offset":"109E657","on":"0580A1031C","off":"3D00CA9A3B"}]},{"name":"No Wanted Level (You Must Have 0 Stars)","type":"checkbox","memory":[{"offset":"583BF40","on":"C7432000000000E9488B85FB","off":"000000000000000000000000"},{"offset":"1094A8D","on":"E9AE747A049090","off":"C7432001000000"},{"offset":"583BED0","on":"C7432000000000E9888B85FB","off":"000000000000000000000000"},{"offset":"1094A5D","on":"E96E747A049090","off":"C7432002000000"},{"offset":"583BF80","on":"C7432000000000E9A28A85FB","off":"000000000000000000000000"},{"offset":"1094A27","on":"E954757A049090","off":"C7432003000000"},{"offset":"583BFC0","on":"C7432000000000E92C8A85FB","off":"000000000000000000000000"},{"offset":"10949F1","on":"E9CA757A049090","off":"C7432004000000"}]}],"credits":["AngelDavil88_9.00"]}
+{
+  "name": "Grand Theft Auto: Vice City – The Definitive Edition",
+  "id": "CUSA26616",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (WIP/Experimental)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "111801C",
+          "on": "9090909090909090",
+          "off": "C5FA1183CC040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Armor",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1117F59",
+          "on": "9090909090909090",
+          "off": "C5FA1183D0040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1202134",
+          "on": "90909090",
+          "off": "41894D08"
+        },
+        {
+          "offset": "1202191",
+          "on": "90909090",
+          "off": "41894D0C"
+        },
+        {
+          "offset": "120922B",
+          "on": "90909090",
+          "off": "4189560C"
+        }
+      ]
+    },
+    {
+      "name": "Max Money Instantly",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "109E657",
+          "on": "0580A1031C",
+          "off": "3D00CA9A3B"
+        }
+      ]
+    },
+    {
+      "name": "No Wanted Level (You Must Have 0 Stars)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "583BF40",
+          "on": "C7432000000000E9488B85FB",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "1094A8D",
+          "on": "E9AE747A049090",
+          "off": "C7432001000000"
+        },
+        {
+          "offset": "583BED0",
+          "on": "C7432000000000E9888B85FB",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "1094A5D",
+          "on": "E96E747A049090",
+          "off": "C7432002000000"
+        },
+        {
+          "offset": "583BF80",
+          "on": "C7432000000000E9A28A85FB",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "1094A27",
+          "on": "E954757A049090",
+          "off": "C7432003000000"
+        },
+        {
+          "offset": "583BFC0",
+          "on": "C7432000000000E92C8A85FB",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "10949F1",
+          "on": "E9CA757A049090",
+          "off": "C7432004000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "AngelDavil88_9.00"
+  ]
+}
