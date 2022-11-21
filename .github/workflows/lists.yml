@@ -27,18 +27,40 @@ jobs:
           ./a.out xml Game > mc4.txt
           mv xml/* mc4/
           rmdir xml
+
+      - name: Setup git info
+        if: |
+          github.event_name == 'push' &&
+          github.repository == 'GoldHEN/GoldHEN_Cheat_Repository'
+        run: |
           git config --global user.name 'kmeps4'
           git config --global user.email 'kmeps4@users.noreply.github.com'
 
       - name: Commit normalized json data
+        if: |
+          github.event_name == 'push' &&
+          github.repository == 'GoldHEN/GoldHEN_Cheat_Repository'
         run: |
           git add json/*.json
           git commit -m "Normalize json data" || true
 
       - name: Commit list files
+        if: |
+          github.event_name == 'push' &&
+          github.repository == 'GoldHEN/GoldHEN_Cheat_Repository'
         run: |
+          mkdir -p misc
+          current=$(date '+%Y-%m-%d %H:%M:%S %A (%Z %z)')
+          msg="Cheat database version: $current"
           git add json.txt
           git add shn.txt
           git add mc4.txt
+          echo $msg > misc/cheat_ver.txt
+          git add misc/cheat_ver.txt
           git commit -m "Cheat lists update" || true
-          git push || true
+
+      - name: Push to repository
+        if: |
+          github.event_name == 'push' &&
+          github.repository == 'GoldHEN/GoldHEN_Cheat_Repository'
+        run: git push || true
