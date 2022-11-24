@@ -224,6 +224,7 @@ CUSA14538_01.13.json=Maneater
 CUSA07953_01.40.json=Bloodstained: Ritual of the Night
 CUSA15495_01.07.json=Surviving the Aftermath
 CUSA12605_01.01.json=DEATH STRANDING™
+CUSA15717_01.09.json=Far Cry 6
 CUSA01618_01.00.json=Yu-Gi-Oh! Legacy of the Duelist
 CUSA05597_01.09.json=METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE
 SLES54490_01.00.json=God Hand
