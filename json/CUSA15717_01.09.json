@@ -1,0 +1,172 @@
+{
+  "name": "Far Cry 6",
+  "id": "CUSA15717",
+  "version": "01.09",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode/Sprint/Underwater",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7CD7130",
+          "on": "669C4983F9FF7507C5FA5F4F1CEB05C5FA5D4F1C669DE91D779DFB90",
+          "off": "669C4983F9FF7507C5FA5F4F1CEB05C5FA5D4F1C669DE91D779DFB90"
+        },
+        {
+          "offset": "36AE863",
+          "on": "E9C8886204",
+          "off": "C5FA5D4F1C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/Throwables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "133B1F3",
+          "on": "83E800",
+          "off": "4429F0"
+        }
+      ]
+    },
+    {
+      "name": "One-hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7CD7030",
+          "on": "669C81FD60A4CCEE740AC5FA108560FFFFFFEB0CC5F857C0C5FA118560FFFFFF669DE9D559B4FB90",
+          "off": "669C81FD60A4CCEE740AC5FA108560FFFFFFEB0CC5F857C0C5FA118560FFFFFF669DE9D559B4FB90"
+        },
+        {
+          "offset": "381CA24",
+          "on": "E907A64B04909090",
+          "off": "C5FA108560FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4C863FC",
+          "on": "909090",
+          "off": "4429FE"
+        }
+      ]
+    },
+    {
+      "name": "No Supressor Overheat",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7CD7070",
+          "on": "0F57C00F57C9C5FA1145DCE97E2608FD",
+          "off": "0F57C00F57C9C5FA1145DCE97E2608FD"
+        },
+        {
+          "offset": "4D596F9",
+          "on": "E972D9F702",
+          "off": "C5FA1145DC"
+        }
+      ]
+    },
+    {
+      "name": "No Recoil",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4C830EA",
+          "on": "9090909090",
+          "off": "E8A1561100"
+        }
+      ]
+    },
+    {
+      "name": "Super Accuracy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7CD7090",
+          "on": "C5F057C9C5FA1188E00A0000E9CBB7FDFC909090",
+          "off": "C5F057C9C5FA1188E00A0000E9CBB7FDFC909090"
+        },
+        {
+          "offset": "4CB2864",
+          "on": "E927480203909090",
+          "off": "C5FA1188E00A0000"
+        }
+      ]
+    },
+    {
+      "name": "Teleport to space",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7CD70F0",
+          "on": "50A110710D08000000008946088986D80000005848898D28FFFFFFE969B54CFD",
+          "off": "50A110710D08000000008946088986D80000005848898D28FFFFFFE969B54CFD"
+        },
+        {
+          "offset": "51A2672",
+          "on": "E9794AB3029090",
+          "off": "48898D28FFFFFF"
+        },
+        {
+          "offset": "7CD7110",
+          "on": "00006144",
+          "off": "00006144"
+        }
+      ]
+    },
+    {
+      "name": "Wanted Activator",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7CD70C0",
+          "on": "C5FA10050C000000C5FA114740E93EC2B5F89090",
+          "off": "C5FA10050C000000C5FA114740E93EC2B5F89090"
+        },
+        {
+          "offset": "83330B",
+          "on": "E9B03D4A07",
+          "off": "C5FA114740"
+        },
+        {
+          "offset": "7CD70D4",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Never Wanted",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "7CD70D4",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Always Wanted",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "7CD70D4",
+          "on": "0000F042",
+          "off": "0000F042"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "JustGotenks"
+  ]
+}
