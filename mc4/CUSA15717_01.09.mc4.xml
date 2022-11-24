@@ -3,7 +3,13 @@
 <Genres Name="Action"/>
 <Genres Name="Shooter"/>
 <Items/>
-<Cheat Text="Infinite Health/Endurance/Breath">
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Invincibility">
+</Cheat>
+<Cheat Text="Infinite Endurance">
+</Cheat>
+<Cheat Text="Infinite Breath">
 </Cheat>
 <Cheat Text="Infinite Ammo/Medkits/Throwables">
 </Cheat>
