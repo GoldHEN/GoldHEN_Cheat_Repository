@@ -123,6 +123,7 @@ CUSA02876_01.02.mc4.xml=Aeterno Blade
 CUSA02491_01.10.mc4.xml=Mass Effect - Andromeda
 CUSA05716_01.06.mc4.xml=Rise of the Tomb Raider (20 Years Edition)
 CUSA05749_01.07.mc4.xml=STAR WARS Battlefront II
+CUSA11638_03.01.mc4.xml=Jump Force
 CUSA02152_01.00.mc4.xml=Middle-Earth: Shadow of Mordor
 CUSA07377_01.00.mc4.xml=Wolfenstein II: The New Colossus
 CUSA00939_01.00.mc4.xml=Saints Row Gat Outa Hell
