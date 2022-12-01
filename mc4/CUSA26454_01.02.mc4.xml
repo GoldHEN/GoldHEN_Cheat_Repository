@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA26454" Game="Oddworld - Strangers" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Mastercode Health ( must be activated )">
+</Cheat>
+<Cheat Text="Godmode">
+</Cheat>
+<Cheat Text="Infinite Health [MC]">
+</Cheat>
+<Cheat Text="One Hit Kill [MC] ( Disable Anesthetize )">
+</Cheat>
+<Cheat Text="Enemies only Anesthetize [MC] ( Disable One Hit Kill )">
+</Cheat>
+<Cheat Text="Infinite Stamina">
+</Cheat>
+<Cheat Text="Infinite Ammo">
+</Cheat>
+<Cheat Text="No Reload ( Weapon )">
+</Cheat>
+<Cheat Text="Freeze Enemies">
+</Cheat>
+</Trainer>
