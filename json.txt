@@ -374,6 +374,7 @@ CUSA25234_01.08.json=Dark Alliance
 SLUS20090_01.00.json=EMULTOR-ps2
 CUSA11560_01.03_ac3_engine_orbis_fn.elf.json=Assassins Creed® III Remastered
 CUSA15361_01.01.json=Yakuza 4
+CUSA34388_02.04.json=God of War Ragnarok
 CUSA14209_04.02.json=EA SPORTS™ UFC® 4
 CUSA05486_01.00.json=Skyrim: The Elder Scrolls V
 CUSA05347_01.00.json=Darksiders Warmastered Edition
