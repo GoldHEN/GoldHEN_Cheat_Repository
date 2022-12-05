@@ -1,1 +1,65 @@
-{"name":"Ganryu 2","id":"CUSA32759","version":"01.05","process":"eboot.bin","mods":[{"name":"Infiniti Health","type":"checkbox","memory":[{"offset":"8045E893","on":"C640180C","off":"83781800"}]},{"name":"Infinite Arrows","type":"checkbox","memory":[{"offset":"805EEA01","on":"C6401863","off":"83781800"}]},{"name":"Infinite Jumps","type":"checkbox","memory":[{"offset":"16F15E4","on":"41C786D800000064000000418B8ED8000000E94D11017F","off":"0000000000000000000000000000000000000000000000"},{"offset":"80702741","on":"E99EEEFE809090","off":"418B8ED8000000"}]},{"name":"Score Multiplier","type":"checkbox","memory":[{"offset":"16F15D0","on":"428D0C286BC90241894F1CE9088E0B7F","off":"00000000000000000000000000000000"},{"offset":"807AA3E0","on":"E9EB71F480909090","off":"428D0C2841894F1C"}]}],"credits":["hejran7"]}
+{
+  "name": "Ganryu 2",
+  "id": "CUSA32759",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infiniti Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8045E893",
+          "on": "C640180C",
+          "off": "83781800"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Arrows",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "805EEA01",
+          "on": "C6401863",
+          "off": "83781800"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jumps",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16F15E4",
+          "on": "41C786D800000064000000418B8ED8000000E94D11017F",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80702741",
+          "on": "E99EEEFE809090",
+          "off": "418B8ED8000000"
+        }
+      ]
+    },
+    {
+      "name": "Score Multiplier",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16F15D0",
+          "on": "428D0C286BC90241894F1CE9088E0B7F",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "807AA3E0",
+          "on": "E9EB71F480909090",
+          "off": "428D0C2841894F1C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}
