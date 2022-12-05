@@ -1,0 +1,43 @@
+{
+  "name": "HITMAN 3",
+  "id": "CUSA18201",
+  "version": "01.13",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "22005B0",
+          "on": "C783240200000000C842E941A335FE57616E646572204657392E3030",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "55A8F8",
+          "on": "E9B35CCA01909090",
+          "off": "C5FA118324020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2202180",
+          "on": "C60488634889DFE98A6B39FE57616E646572204657392E3030",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "598D0F",
+          "on": "E96C94C6019090",
+          "off": "448934884889DF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW 5.05+"
+  ]
+}
