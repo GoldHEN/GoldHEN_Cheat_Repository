@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Trainer Cusa="CUSA04411" Game="Sky Force Anniversary" Moder="hejran7" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Genres Name="Shooter"/>
-<Items/>
 <Cheat Description="" Text="Inf HP">
-
-</Cheat>
-<Cheat Description="" Text="Inf Energy Shield Usage">
-
-
-</Cheat>
-<Cheat Description="" Text="Press R3 to Refill - Energy Shield Time">
-
-
 </Cheat>
 <Cheat Description="" Text="Inf Mega Bome Usage">
-
-
+</Cheat>
+<Cheat Description="" Text="Inf Energy Shield Usage">
 </Cheat>
 <Cheat Description="" Text="Max Inf Resources on Gain">
-
-
+</Cheat>
+<Cheat Description="" Text="Press R3 to Refill Energy Shield Timer">
 </Cheat>
 </Trainer>

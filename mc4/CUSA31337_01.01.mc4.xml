@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA31337" Game="Greak: Memories of Azur" Moder="Wander FW9.00" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Arrows">
+</Cheat>
+<Cheat Text="Infinite Magic">
+</Cheat>
+<Cheat Text="Max Crystals(on buy only activate in the shops)">
+</Cheat>
+<Cheat Text="Infinite Items (on use)">
+</Cheat>
+</Trainer>

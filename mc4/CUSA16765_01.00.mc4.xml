@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA16765" Game="Wonderboy - Return Remix" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Arcade"/>
+<Items/>
+<Cheat Text="Invincible">
+</Cheat>
+<Cheat Text="Deactivate Invincible">
+</Cheat>
+<Cheat Text="Infinite HP">
+</Cheat>
+<Cheat Text="Max Lives">
+</Cheat>
+<Cheat Text="One Hit Kill Boss">
+</Cheat>
+<Cheat Text="Mega Shoots">
+</Cheat>
+<Cheat Text="Power Up ( Square Button )">
+</Cheat>
+<Cheat Text="Activate Board Equipment">
+</Cheat>
+<Cheat Text="Activate Angel Equipment">
+</Cheat>
+<Cheat Text="Activate Devil Equipment">
+</Cheat>
+<Cheat Text="Max Score ( Level )">
+</Cheat>
+<Cheat Text="Max Score">
+</Cheat>
+</Trainer>
