@@ -1,0 +1,113 @@
+{
+  "name": "Souldiers",
+  "id": "CUSA31798",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18A3B6C",
+          "on": "669C4983FC05740CC5FA104B18669DE972B2BD7EC5FA104B1CC5FA114B184831C0EBEA90",
+          "off": "669C4983FC05740CC5FA104B18669DE972B2BD7EC5FA104B1CC5FA114B184831C0EBEA90"
+        },
+        {
+          "offset": "8047EDED",
+          "on": "E97A4D4281",
+          "off": "C5FA104B18"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "804004C5",
+          "on": "9090909090",
+          "off": "C5FA5C45C8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Arrows",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8052B9C2",
+          "on": "909090909090",
+          "off": "FF8F9C030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy (Caster)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18A3C6C",
+          "on": "498B8668030000C5FA104818C4C17A118E70030000E9DB9EDE7E9090",
+          "off": "498B8668030000C5FA104818C4C17A118E70030000E9DB9EDE7E9090"
+        },
+        {
+          "offset": "8068DB58",
+          "on": "E90F61218190909090",
+          "off": "C4C17A118E70030000"
+        }
+      ]
+    },
+    {
+      "name": "One-hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18A3BBC",
+          "on": "669C4983FC057409C5EA2AC8C5FA114B18C5EA2AC031FF669DE91EB2BD7E9090",
+          "off": "669C4983FC057409C5EA2AC8C5FA114B18C5EA2AC031FF669DE91EB2BD7E9090"
+        },
+        {
+          "offset": "8047EDF2",
+          "on": "E9C54D428190",
+          "off": "C5EA2AC031FF"
+        }
+      ]
+    },
+    {
+      "name": "Max ammo/potions (on use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18A3BFC",
+          "on": "508B83D80000008983D400000048C7C20000000041BE0000000058E9396CB57E",
+          "off": "508B83D80000008983D400000048C7C20000000041BE0000000058E9396CB57E"
+        },
+        {
+          "offset": "803FA84E",
+          "on": "E9A9934A819090",
+          "off": "4429B3D4000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gold (on get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18A3C3C",
+          "on": "BB3F420F00BAFFFFFF7FE9480EB57E90",
+          "off": "BB3F420F00BAFFFFFF7FE9480EB57E90"
+        },
+        {
+          "offset": "803F4A8E",
+          "on": "E9A9F14A81",
+          "off": "BAFFFFFF7F"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "JustGotenks"
+  ]
+}
