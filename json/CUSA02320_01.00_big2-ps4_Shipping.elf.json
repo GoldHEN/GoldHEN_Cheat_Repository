@@ -1,1 +1,54 @@
-{"name":"Uncharted: The Nathan Drake Collection™","id":"CUSA02320","version":"01.00","process":"big2-ps4_Shipping.elf","mods":[{"name":"L3 + Upper L or Upper R Touch Pad","type":"checkbox","memory":[{"offset":"DFB800","on":"5148B98883400008000000488B094883E102750DC6808C4800000059E9076F53FFC6808C4800000159E9FA6E53FF","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"332721","on":"E9DA90AC009090","off":"80B88C48000000"}]},{"name":"Enable FPS View - Hold L3","type":"checkbox","memory":[{"offset":"14C504","on":"0F84C10B0000","off":"0F85C10B0000"}]},{"name":"Enable Task View - Hold L3","type":"checkbox","memory":[{"offset":"DFB82E","on":"5148B98883400008000000488B094883E102750DC680B93900000159E9952464FFC680B93900000059E9882464FF","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"43DCDC","on":"E94DDB9B009090900F846C010000","off":"8A89B93900000A080F856C010000"}]}],"credits":["hejran7"]}
+{
+  "name": "Uncharted: The Nathan Drake Collection™",
+  "id": "CUSA02320",
+  "version": "01.00",
+  "process": "big2-ps4_Shipping.elf",
+  "mods": [
+    {
+      "name": "L3 + Upper L or Upper R Touch Pad",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DFB800",
+          "on": "5148B98883400008000000488B094883E102750DC6808C4800000059E9076F53FFC6808C4800000159E9FA6E53FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "332721",
+          "on": "E9DA90AC009090",
+          "off": "80B88C48000000"
+        }
+      ]
+    },
+    {
+      "name": "Enable FPS View - Hold L3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14C504",
+          "on": "0F84C10B0000",
+          "off": "0F85C10B0000"
+        }
+      ]
+    },
+    {
+      "name": "Enable Task View - Hold L3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DFB82E",
+          "on": "5148B98883400008000000488B094883E102750DC680B93900000159E9952464FFC680B93900000059E9882464FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "43DCDC",
+          "on": "E94DDB9B009090900F846C010000",
+          "off": "8A89B93900000A080F856C010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

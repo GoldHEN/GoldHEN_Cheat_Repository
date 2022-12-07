@@ -1,1 +1,54 @@
-{"name":"Uncharted: The Nathan Drake Collection™","id":"CUSA02320","version":"01.02","process":"big2-ps4_Shipping.elf","mods":[{"name":"L3 + Upper L or Upper R Touch Pad","type":"checkbox","memory":[{"offset":"FE7800","on":"5348BBDCBB400008000000488B1B4883E302751541C6868C48000000418A868C4800005BE91DCC4CFF41C6868C480000015BE90FCC4CFF","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"4B443F","on":"E9BC33B3009090","off":"418A868C480000"}]},{"name":"Enable FPS View - Hold L3","type":"checkbox","memory":[{"offset":"3F8F54","on":"0F84741A0000","off":"0F85741A0000"}]},{"name":"Enable Task View - Hold L3","type":"checkbox","memory":[{"offset":"FE7837","on":"5348BBDCBB400008000000488B1B4883E302750DC681B9390000015BE94EB9A7FFC681B9390000005BE941B9A7FF","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"A6319E","on":"E9944658009090900F8467010000","off":"8A89B93900000A080F8567010000"}]}],"credits":["hejran7"]}
+{
+  "name": "Uncharted: The Nathan Drake Collection™",
+  "id": "CUSA02320",
+  "version": "01.02",
+  "process": "big2-ps4_Shipping.elf",
+  "mods": [
+    {
+      "name": "L3 + Upper L or Upper R Touch Pad",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FE7800",
+          "on": "5348BBDCBB400008000000488B1B4883E302751541C6868C48000000418A868C4800005BE91DCC4CFF41C6868C480000015BE90FCC4CFF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4B443F",
+          "on": "E9BC33B3009090",
+          "off": "418A868C480000"
+        }
+      ]
+    },
+    {
+      "name": "Enable FPS View - Hold L3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3F8F54",
+          "on": "0F84741A0000",
+          "off": "0F85741A0000"
+        }
+      ]
+    },
+    {
+      "name": "Enable Task View - Hold L3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FE7837",
+          "on": "5348BBDCBB400008000000488B1B4883E302750DC681B9390000015BE94EB9A7FFC681B9390000005BE941B9A7FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A6319E",
+          "on": "E9944658009090900F8467010000",
+          "off": "8A89B93900000A080F8567010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

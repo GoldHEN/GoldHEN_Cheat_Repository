@@ -1,1 +1,189 @@
-{"name":"RESIDENT EVIL5","id":"CUSA04437","version":"01.01","process":"eboot.bin","mods":[{"name":"(HP On L3+T-Pad) (HP Off R3+T-Pad)","type":"checkbox","memory":[{"offset":"11F3847","on":"813DAF07A1FE02000001750E66C783681E0000E803E95A2942FF66898B681E0000E94E2942FF","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"6161B4","on":"E98ED6BD009090","off":"66898B681E0000"},{"offset":"11F3800","on":"C5FA1184C7684600005048B8C4D1190202000000488B00483D02000001751048A3004000000000000058E9755253FF483D04000001750A48A3004000000000000058E95D5253FF","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"728A9B","on":"E960ADAC0090909090","off":"C5FA1184C768460000"}]},{"name":"Inf Health Always On","type":"checkbox","memory":[{"offset":"6161B4","on":"668983681E0000","off":"66898B681E0000"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"7381E5","on":"909090","off":"29560C"}]},{"name":"Max Inf Ammo on Reload","type":"checkbox","memory":[{"offset":"7373D7","on":"418B46109090","off":"418B460C29C8"},{"offset":"73803E","on":"458B671090","off":"4529F431C0"}]},{"name":"Max Inf Grenade on Use","type":"checkbox","memory":[{"offset":"11F388C","on":"418B442410418944240CE9B3EEF3FE","off":"000000000000000000000000000000"},{"offset":"132749","on":"E93E110C01","off":"418944240C"}]},{"name":"Max Money on Spend","type":"checkbox","memory":[{"offset":"11F387C","on":"B87F969800898794010000E9977961FF","off":"00000000000000000000000000000000"},{"offset":"80B21D","on":"E95A869E0090","off":"898794010000"}]},{"name":"Mx Resources On sell","type":"checkbox","memory":[{"offset":"11F386D","on":"440FAFE741BEE7030000E9CB7524FF","off":"000000000000000000000000000000"},{"offset":"43AE40","on":"E9288ADB009090","off":"440FAFE74129FE"}]},{"name":"Run without Pressing X or L3","type":"checkbox","memory":[{"offset":"C0114B","on":"0D02000100","off":"0D00000100"}]},{"name":"Freeze Countup Timer - STORY-LIN-DS","type":"checkbox","memory":[{"offset":"728A8E","on":"909090909090909090","off":"C5FA5884C768460000"}]},{"name":"Freeze Countdown Timer - DS","type":"checkbox","memory":[{"offset":"9A98","on":"9090909090909090","off":"C5FA118B9C0F0000"}]},{"name":"Freeze Combo Count - Mercenaries","type":"checkbox","memory":[{"offset":"3A51A","on":"90909090909090909090","off":"C4A17A119421E4060000"}]},{"name":"Freeze Bonus Combo Time - Mercenaries","type":"checkbox","memory":[{"offset":"3A591","on":"90909090909090909090","off":"C4A17A118C20EC060000"}]},{"name":"Freeze Countdown Timer - Mercenaries","type":"checkbox","memory":[{"offset":"4621F","on":"9090909090909090","off":"C5FA1183A0070000"}]}],"credits":["hejran7"]}
+{
+  "name": "RESIDENT EVIL5",
+  "id": "CUSA04437",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "(HP On L3+T-Pad) (HP Off R3+T-Pad)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11F3847",
+          "on": "813DAF07A1FE02000001750E66C783681E0000E803E95A2942FF66898B681E0000E94E2942FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6161B4",
+          "on": "E98ED6BD009090",
+          "off": "66898B681E0000"
+        },
+        {
+          "offset": "11F3800",
+          "on": "C5FA1184C7684600005048B8C4D1190202000000488B00483D02000001751048A3004000000000000058E9755253FF483D04000001750A48A3004000000000000058E95D5253FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "728A9B",
+          "on": "E960ADAC0090909090",
+          "off": "C5FA1184C768460000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Health Always On",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6161B4",
+          "on": "668983681E0000",
+          "off": "66898B681E0000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7381E5",
+          "on": "909090",
+          "off": "29560C"
+        }
+      ]
+    },
+    {
+      "name": "Max Inf Ammo on Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7373D7",
+          "on": "418B46109090",
+          "off": "418B460C29C8"
+        },
+        {
+          "offset": "73803E",
+          "on": "458B671090",
+          "off": "4529F431C0"
+        }
+      ]
+    },
+    {
+      "name": "Max Inf Grenade on Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11F388C",
+          "on": "418B442410418944240CE9B3EEF3FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "132749",
+          "on": "E93E110C01",
+          "off": "418944240C"
+        }
+      ]
+    },
+    {
+      "name": "Max Money on Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11F387C",
+          "on": "B87F969800898794010000E9977961FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80B21D",
+          "on": "E95A869E0090",
+          "off": "898794010000"
+        }
+      ]
+    },
+    {
+      "name": "Mx Resources On sell",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11F386D",
+          "on": "440FAFE741BEE7030000E9CB7524FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "43AE40",
+          "on": "E9288ADB009090",
+          "off": "440FAFE74129FE"
+        }
+      ]
+    },
+    {
+      "name": "Run without Pressing X or L3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C0114B",
+          "on": "0D02000100",
+          "off": "0D00000100"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Countup Timer - STORY-LIN-DS",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "728A8E",
+          "on": "909090909090909090",
+          "off": "C5FA5884C768460000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Countdown Timer - DS",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A98",
+          "on": "9090909090909090",
+          "off": "C5FA118B9C0F0000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Combo Count - Mercenaries",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3A51A",
+          "on": "90909090909090909090",
+          "off": "C4A17A119421E4060000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Bonus Combo Time - Mercenaries",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3A591",
+          "on": "90909090909090909090",
+          "off": "C4A17A118C20EC060000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Countdown Timer - Mercenaries",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4621F",
+          "on": "9090909090909090",
+          "off": "C5FA1183A0070000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

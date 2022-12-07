@@ -1,1 +1,91 @@
-{"name":"Cyberpunk 2077","id":"CUSA18278","version":"01.05","process":"eboot.bin","mods":[{"name":"Inf Health / Stamina","type":"checkbox","memory":[{"offset":"48F0230","on":"8B571039177437817F605A2219F37510C5FA108788010000C5FA118790010000817F601F7BCDF27515C5FA108788010000C5FA118790010000E99CA30DFDC5FA118790010000E98FA30DFD","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"19CA602","on":"E9295CF202909090","off":"C5FA118790010000"}]},{"name":"Max Money/Ammo/Med Kit/Craft Res","type":"checkbox","memory":[{"offset":"48F0200","on":"B93F420F0041894E78E98239EAFC","off":"0000000000000000000000000000"},{"offset":"1793B89","on":"E972C615039090","off":"0F4EC841894E78"}]},{"name":"Character Building Points (Disable B4 Confirm)","type":"checkbox","memory":[{"offset":"48F02A0","on":"4D85F6B81E00000041890424E9AD8077FB","off":"0000000000000000000000000000000000"},{"offset":"68357","on":"E9447F88049090","off":"4D85F641890424"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"48F02C0","on":"41C784244003000063000000E91AE826FD","off":"0000000000000000000000000000000000"},{"offset":"1B5EAE3","on":"E9D817D902909090","off":"41899C2440030000"}]},{"name":"Max Attribute /Perks Points (Disable After Maxed)","type":"checkbox","memory":[{"offset":"48F02E0","on":"4D85F6B86300000041890424E96D8077FB","off":"0000000000000000000000000000000000"},{"offset":"68357","on":"E9847F88049090","off":"4D85F641890424"}]}],"credits":["Saso"]}
+{
+  "name": "Cyberpunk 2077",
+  "id": "CUSA18278",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health / Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "48F0230",
+          "on": "8B571039177437817F605A2219F37510C5FA108788010000C5FA118790010000817F601F7BCDF27515C5FA108788010000C5FA118790010000E99CA30DFDC5FA118790010000E98FA30DFD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "19CA602",
+          "on": "E9295CF202909090",
+          "off": "C5FA118790010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money/Ammo/Med Kit/Craft Res",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "48F0200",
+          "on": "B93F420F0041894E78E98239EAFC",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1793B89",
+          "on": "E972C615039090",
+          "off": "0F4EC841894E78"
+        }
+      ]
+    },
+    {
+      "name": "Character Building Points (Disable B4 Confirm)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "48F02A0",
+          "on": "4D85F6B81E00000041890424E9AD8077FB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "68357",
+          "on": "E9447F88049090",
+          "off": "4D85F641890424"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "48F02C0",
+          "on": "41C784244003000063000000E91AE826FD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B5EAE3",
+          "on": "E9D817D902909090",
+          "off": "41899C2440030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Attribute /Perks Points (Disable After Maxed)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "48F02E0",
+          "on": "4D85F6B86300000041890424E96D8077FB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "68357",
+          "on": "E9847F88049090",
+          "off": "4D85F641890424"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

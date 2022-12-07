@@ -1,1 +1,27 @@
-{"name":"Uncharted 4: A Thief’s End™","id":"CUSA00341","version":"01.32","process":"eboot.bin","mods":[{"name":"L3 + Upper L or Upper R Touch Pad","type":"checkbox","memory":[{"offset":"2053800","on":"5348BB8883400008000000488B1B4883E302750DC680792E0000005BE9A81C1AFEC680792E0000015BE99B1C1AFE","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"1F54C2","on":"E939E3E5019090","off":"80B8792E000000"}]}],"credits":["hejran7"]}
+{
+  "name": "Uncharted 4: A Thief’s End™",
+  "id": "CUSA00341",
+  "version": "01.32",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "L3 + Upper L or Upper R Touch Pad",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2053800",
+          "on": "5348BB8883400008000000488B1B4883E302750DC680792E0000005BE9A81C1AFEC680792E0000015BE99B1C1AFE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F54C2",
+          "on": "E939E3E5019090",
+          "off": "80B8792E000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}
