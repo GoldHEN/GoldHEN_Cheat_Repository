@@ -1,1 +1,66 @@
-{"name":"No Man's Sky","id":"CUSA04841","version":"03.05","process":"eboot.bin","mods":[{"name":"Infinite Units For BUY ","type":"checkbox","memory":[{"offset":"63C69C","on":"90909090909090","off":"4589BE94050000"}]},{"name":"Infinite Item Inventory ","type":"checkbox","memory":[{"offset":"35662E","on":"90909090","off":"41295F18"}]},{"name":"Infinite Items For Sell","type":"checkbox","memory":[{"offset":"3570F8","on":"90909090","off":"45297E18"}]},{"name":"Infinite Nanites For BUY","type":"checkbox","memory":[{"offset":"63C795","on":"90909090909090","off":"4589BE9C050000"}]},{"name":"Infinite HP","type":"checkbox","memory":[{"offset":"F6E12D","on":"909090909090","off":"8993D0010000"}]}],"credits":["M3hdi PS"]}
+{
+  "name": "No Man's Sky",
+  "id": "CUSA04841",
+  "version": "03.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Units For BUY ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "63C69C",
+          "on": "90909090909090",
+          "off": "4589BE94050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Item Inventory ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "35662E",
+          "on": "90909090",
+          "off": "41295F18"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items For Sell",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3570F8",
+          "on": "90909090",
+          "off": "45297E18"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Nanites For BUY",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "63C795",
+          "on": "90909090909090",
+          "off": "4589BE9C050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F6E12D",
+          "on": "909090909090",
+          "off": "8993D0010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "M3hdi PS"
+  ]
+}

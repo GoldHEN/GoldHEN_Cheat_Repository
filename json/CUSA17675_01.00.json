@@ -1,1 +1,23 @@
-{"name":"Moving Out","id":"CUSA17675","version":"01.00","process":"eboot.bin","mods":[{"name":"freeze time","type":"checkbox","memory":[{"section":"14","offset":"21FA7A6","on":"9090909090","off":"C5FA114720"}]}],"credits":["Dante"]}
+{
+  "name": "Moving Out",
+  "id": "CUSA17675",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "freeze time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "21FA7A6",
+          "on": "9090909090",
+          "off": "C5FA114720"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Dante"
+  ]
+}

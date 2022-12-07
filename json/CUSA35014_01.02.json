@@ -1,1 +1,65 @@
-{"name":"MOONSCARS","id":"CUSA35014","version":"01.02","process":"eboot.bin","mods":[{"name":"Invincible","type":"checkbox","memory":[{"offset":"80EE204F","on":"9090909090","off":"E87C8EFFFF"}]},{"name":"InfSkill","type":"checkbox","memory":[{"offset":"81A68FA6","on":"9090909090","off":"E815DDFFFF"}]},{"name":"InfBoneSand","type":"checkbox","memory":[{"offset":"194B400","on":"8B4C24F43B48780F82684BDF7E894878E9604BDF7E","off":"000000000000000000000000000000000000000000"},{"offset":"8073FF6E","on":"E98DB420819090","off":"8B4C24F4894878"}]},{"name":"InfGland","type":"checkbox","memory":[{"offset":"194B41F","on":"3B88800000000F826D4BDF7E898880000000E9624BDF7E","off":"0000000000000000000000000000000000000000000000"},{"offset":"8073FF92","on":"E988B4208190","off":"898880000000"}]}],"credits":["fqzx123"]}
+{
+  "name": "MOONSCARS",
+  "id": "CUSA35014",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80EE204F",
+          "on": "9090909090",
+          "off": "E87C8EFFFF"
+        }
+      ]
+    },
+    {
+      "name": "InfSkill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81A68FA6",
+          "on": "9090909090",
+          "off": "E815DDFFFF"
+        }
+      ]
+    },
+    {
+      "name": "InfBoneSand",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "194B400",
+          "on": "8B4C24F43B48780F82684BDF7E894878E9604BDF7E",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8073FF6E",
+          "on": "E98DB420819090",
+          "off": "8B4C24F4894878"
+        }
+      ]
+    },
+    {
+      "name": "InfGland",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "194B41F",
+          "on": "3B88800000000F826D4BDF7E898880000000E9624BDF7E",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8073FF92",
+          "on": "E988B4208190",
+          "off": "898880000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fqzx123"
+  ]
+}

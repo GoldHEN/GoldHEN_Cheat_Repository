@@ -1,1 +1,22 @@
-{"name":"NHL™ 21","id":"CUSA18182","version":"01.00","process":"eboot.bin","mods":[{"name":"add skill points 120","type":"checkbox","memory":[{"offset":"46341C6","on":"BA4E00000090","off":"2B9580A8FFFF"}]}],"credits":["DementedAI"]}
+{
+  "name": "NHL™ 21",
+  "id": "CUSA18182",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "add skill points 120",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "46341C6",
+          "on": "BA4E00000090",
+          "off": "2B9580A8FFFF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DementedAI"
+  ]
+}

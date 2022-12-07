@@ -1,1 +1,38 @@
-{"name":"Tales of Arise","id":"CUSA17195","version":"01.04","process":"eboot.bin","mods":[{"name":"inf Items Use","type":"checkbox","memory":[{"offset":"1B670B2","on":"90909090","off":"45893424"}]},{"name":"Inf Attack","type":"checkbox","memory":[{"offset":"670F800","on":"C7837402000000009642E9581726FB","off":"000000000000000000000000000000"},{"offset":"1970F5F","on":"E99CE8D904909090","off":"C5FA118374020000"}]}],"credits":["aaa"]}
+{
+  "name": "Tales of Arise",
+  "id": "CUSA17195",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "inf Items Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B670B2",
+          "on": "90909090",
+          "off": "45893424"
+        }
+      ]
+    },
+    {
+      "name": "Inf Attack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "670F800",
+          "on": "C7837402000000009642E9581726FB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1970F5F",
+          "on": "E99CE8D904909090",
+          "off": "C5FA118374020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "aaa"
+  ]
+}

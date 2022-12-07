@@ -1,1 +1,55 @@
-{"name":"Assassin's Creed® Valhalla","id":"CUSA18534","version":"05.10","process":"eboot.bin","mods":[{"name":"Inf. Health doesnt decrease","type":"checkbox","memory":[{"offset":"26EB573","on":"909090909090","off":"898F38010000"}]},{"name":"stamina doesnt decrease","type":"checkbox","memory":[{"offset":"2BE04E5","on":"C4C17A104710","off":"C4C17A10470C"}]},{"name":"Resources doesnt decrease","type":"checkbox","memory":[{"offset":"2CADCD9","on":"9090","off":"29C8"}]},{"name":"Adrenaline Bar doesnt decrease","type":"checkbox","memory":[{"offset":"26E0A7D","on":"9090909090","off":"E884000000"}]}],"credits":["Mesvak"]}
+{
+  "name": "Assassin's Creed® Valhalla",
+  "id": "CUSA18534",
+  "version": "05.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf. Health doesnt decrease",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26EB573",
+          "on": "909090909090",
+          "off": "898F38010000"
+        }
+      ]
+    },
+    {
+      "name": "stamina doesnt decrease",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BE04E5",
+          "on": "C4C17A104710",
+          "off": "C4C17A10470C"
+        }
+      ]
+    },
+    {
+      "name": "Resources doesnt decrease",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2CADCD9",
+          "on": "9090",
+          "off": "29C8"
+        }
+      ]
+    },
+    {
+      "name": "Adrenaline Bar doesnt decrease",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26E0A7D",
+          "on": "9090909090",
+          "off": "E884000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Mesvak"
+  ]
+}

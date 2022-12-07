@@ -1,1 +1,59 @@
-{"name":"Resident Evil Village","id":"CUSA18017","version":"01.11","process":"eboot.bin","mods":[{"name":"Inf ammo","type":"checkbox","memory":[{"section":"1","offset":"3124CF6","on":"9090909090","off":"E84580FFFF"}]},{"name":"Inf crafting matirials","type":"checkbox","memory":[{"section":"1","offset":"54AB9F1","on":"9090909090","off":"E84A13C7FD"}]},{"name":"Inf white flower and First Aid Med usage ","type":"checkbox","memory":[{"section":"1","offset":"62C04DA","on":"909090909090","off":"FF9070060000"}]},{"name":"Inf Pipe Bombs","type":"checkbox","memory":[{"section":"1","offset":"3110583","on":"9090909090","off":"E838BABF02"}]}],"credits":["LMN"]}
+{
+  "name": "Resident Evil Village",
+  "id": "CUSA18017",
+  "version": "01.11",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "1",
+          "offset": "3124CF6",
+          "on": "9090909090",
+          "off": "E84580FFFF"
+        }
+      ]
+    },
+    {
+      "name": "Inf crafting matirials",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "1",
+          "offset": "54AB9F1",
+          "on": "9090909090",
+          "off": "E84A13C7FD"
+        }
+      ]
+    },
+    {
+      "name": "Inf white flower and First Aid Med usage ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "1",
+          "offset": "62C04DA",
+          "on": "909090909090",
+          "off": "FF9070060000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Pipe Bombs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "1",
+          "offset": "3110583",
+          "on": "9090909090",
+          "off": "E838BABF02"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "LMN"
+  ]
+}

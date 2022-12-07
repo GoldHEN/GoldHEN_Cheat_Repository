@@ -1,1 +1,148 @@
-{"name":"FINAL FANTASY VII REMAKE","id":"CUSA07211","version":"01.01","process":"eboot.bin","mods":[{"name":"Quick Level Up","type":"checkbox","memory":[{"offset":"EAE73F","on":"4101543040","off":"4189543040"}]},{"name":"Max Level After Battle","type":"checkbox","memory":[{"offset":"EAE73F","on":"4101543041","off":"4189543040"}]},{"name":"Infinite HP","type":"checkbox","memory":[{"offset":"E343C1","on":"9090909090","off":"4489740830"}]},{"name":"Infinite MP","type":"checkbox","memory":[{"offset":"E346C8","on":"9090909090","off":"4489740838"}]},{"name":"Infinite ATB","type":"checkbox","memory":[{"offset":"E34146","on":"909090909090","off":"C5FA11440844"}]},{"name":"Full+Infinte ATB","type":"checkbox","memory":[{"offset":"FFFFFFFFFFC04000","on":"C74408440000FA44E93F012301","off":"00000000000000000000000000"},{"offset":"E34146","on":"E9B5FEDCFE90","off":"C5FA11440844"}]},{"name":"Infinite Gil","type":"checkbox","memory":[{"offset":"E90CEA","on":"9090909090909090","off":"4489B4C33C560300"}]},{"name":"Infinite Items On Sell | Works on Key Items","type":"checkbox","memory":[{"offset":"E90F88","on":"9090909090909090","off":"41898CC73C560300"}]},{"name":"Gain Items on Sell | Works on Key Items","type":"checkbox","memory":[{"offset":"E90F7B","on":"4401F1","off":"4429F1"}]},{"name":"Infinite Moogle Medals | Turn Off When You're Done","type":"checkbox","memory":[{"offset":"E90F88","on":"9090909090909090","off":"41898CC73C560300"}]},{"name":"Doubles Moogle Medals On Spend | Turn Off When You're Done","type":"checkbox","memory":[{"offset":"E90F88","on":"41018CC73C560300","off":"41898CC73C560300"}]},{"name":"Max Moogle Medals On Spend | Turn Off When You're Done ","type":"checkbox","memory":[{"offset":"E90F7E","on":"89D1","off":"89CA"}]}],"credits":["GameX2 & DanteClaus"]}
+{
+  "name": "FINAL FANTASY VII REMAKE",
+  "id": "CUSA07211",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Quick Level Up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "EAE73F",
+          "on": "4101543040",
+          "off": "4189543040"
+        }
+      ]
+    },
+    {
+      "name": "Max Level After Battle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "EAE73F",
+          "on": "4101543041",
+          "off": "4189543040"
+        }
+      ]
+    },
+    {
+      "name": "Infinite HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E343C1",
+          "on": "9090909090",
+          "off": "4489740830"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E346C8",
+          "on": "9090909090",
+          "off": "4489740838"
+        }
+      ]
+    },
+    {
+      "name": "Infinite ATB",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E34146",
+          "on": "909090909090",
+          "off": "C5FA11440844"
+        }
+      ]
+    },
+    {
+      "name": "Full+Infinte ATB",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FFFFFFFFFFC04000",
+          "on": "C74408440000FA44E93F012301",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "E34146",
+          "on": "E9B5FEDCFE90",
+          "off": "C5FA11440844"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gil",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E90CEA",
+          "on": "9090909090909090",
+          "off": "4489B4C33C560300"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items On Sell | Works on Key Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E90F88",
+          "on": "9090909090909090",
+          "off": "41898CC73C560300"
+        }
+      ]
+    },
+    {
+      "name": "Gain Items on Sell | Works on Key Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E90F7B",
+          "on": "4401F1",
+          "off": "4429F1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Moogle Medals | Turn Off When You're Done",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E90F88",
+          "on": "9090909090909090",
+          "off": "41898CC73C560300"
+        }
+      ]
+    },
+    {
+      "name": "Doubles Moogle Medals On Spend | Turn Off When You're Done",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E90F88",
+          "on": "41018CC73C560300",
+          "off": "41898CC73C560300"
+        }
+      ]
+    },
+    {
+      "name": "Max Moogle Medals On Spend | Turn Off When You're Done ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E90F7E",
+          "on": "89D1",
+          "off": "89CA"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "GameX2 & DanteClaus"
+  ]
+}

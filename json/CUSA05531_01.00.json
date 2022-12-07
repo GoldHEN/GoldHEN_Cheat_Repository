@@ -1,1 +1,77 @@
-{"name":"FINAL FANTASY Ⅻ THE ZODIAC AGE","id":"CUSA05531","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Item","type":"checkbox","memory":[{"offset":"16B7D1","on":"9090909090","off":"6647891C4A"}]},{"name":"Max GIL","type":"checkbox","memory":[{"offset":"2902148","on":"FFE0F505","off":"FFE0F505"}]},{"name":"Max Van XP","type":"checkbox","memory":[{"offset":"29044D4","on":"E3AB8700","off":"E3AB8700"}]},{"name":"99999 LP","type":"checkbox","memory":[{"offset":"29044D8","on":"9F860100","off":"9F860100"}]},{"name":"Add Item","type":"checkbox","memory":[{"offset":"16B7D1","on":"6647011C4A","off":"6647891C4A"}]},{"name":"Infinite MP","type":"checkbox","memory":[{"offset":"16B3B2","on":"9090909090","off":"6644896F4C"}]}],"credits":["M3hdi PS"]}
+{
+  "name": "FINAL FANTASY Ⅻ THE ZODIAC AGE",
+  "id": "CUSA05531",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Item",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16B7D1",
+          "on": "9090909090",
+          "off": "6647891C4A"
+        }
+      ]
+    },
+    {
+      "name": "Max GIL",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2902148",
+          "on": "FFE0F505",
+          "off": "FFE0F505"
+        }
+      ]
+    },
+    {
+      "name": "Max Van XP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "29044D4",
+          "on": "E3AB8700",
+          "off": "E3AB8700"
+        }
+      ]
+    },
+    {
+      "name": "99999 LP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "29044D8",
+          "on": "9F860100",
+          "off": "9F860100"
+        }
+      ]
+    },
+    {
+      "name": "Add Item",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16B7D1",
+          "on": "6647011C4A",
+          "off": "6647891C4A"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16B3B2",
+          "on": "9090909090",
+          "off": "6644896F4C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "M3hdi PS"
+  ]
+}
