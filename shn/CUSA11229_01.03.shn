@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="LEFT ALIVE Day One Edition" Moder="GamerX2" Cusa="CUSA11229" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="V1| Infinite Ammo No Reload">
+    <Cheatline>
+      <Offset>89C636</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-87-10-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="V1| Max+ Inf Clip Ammo On Reload">
+    <Cheatline>
+      <Offset>89FB49</Offset>
+      <Section>0</Section>
+      <ValueOn>89-10</ValueOn>
+      <ValueOff>89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="V1| Inf Equipped Items/Crossbow/Grenades">
+    <Cheatline>
+      <Offset>89C774</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="V1| Infinite Box Items">
+    <Cheatline>
+      <Offset>B4208B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="V1| Max Box Items on Move">
+    <Cheatline>
+      <Offset>1653800</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-63-00-00-00-89-08-E9-81-E8-4E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B42088</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-73-17-B1-00</ValueOn>
+      <ValueOff>0F-46-CA-89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="V2| Infinite Ammo No Reload.">
+    <Cheatline>
+      <Offset>89C636</Offset>
+      <Section>2</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-87-10-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="V2| Max+ Inf Clip Ammo On Realod.">
+    <Cheatline>
+      <Offset>89FB49</Offset>
+      <Section>2</Section>
+      <ValueOn>89-10</ValueOn>
+      <ValueOff>89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="V2| Inf Equipped Items/Crossbow/Grenades.">
+    <Cheatline>
+      <Offset>89C774</Offset>
+      <Section>2</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="V2| Infinite Box Items.">
+    <Cheatline>
+      <Offset>B4208B</Offset>
+      <Section>2</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="V2| Max Box Items on Move.">
+    <Cheatline>
+      <Offset>1653800</Offset>
+      <Section>2</Section>
+      <ValueOn>B9-63-00-00-00-89-08-E9-81-E8-4E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B42088</Offset>
+      <Section>2</Section>
+      <ValueOn>E9-73-17-B1-00</ValueOn>
+      <ValueOff>0F-46-CA-89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="V3| Infinite Ammo No Reload!">
+    <Cheatline>
+      <Offset>89C636</Offset>
+      <Section>4</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-87-10-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="V3| Max+ Inf Clip Ammo On Realod!">
+    <Cheatline>
+      <Offset>89FB49</Offset>
+      <Section>4</Section>
+      <ValueOn>89-10</ValueOn>
+      <ValueOff>89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="V3| Inf Equipped Items/Crossbow/Grenades!">
+    <Cheatline>
+      <Offset>89C774</Offset>
+      <Section>4</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="V3| Infinite Box Items!">
+    <Cheatline>
+      <Offset>B4208B</Offset>
+      <Section>4</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="V3| Max Box Items on Move!">
+    <Cheatline>
+      <Offset>1653800</Offset>
+      <Section>4</Section>
+      <ValueOn>B9-63-00-00-00-89-08-E9-81-E8-4E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B42088</Offset>
+      <Section>4</Section>
+      <ValueOn>E9-73-17-B1-00</ValueOn>
+      <ValueOff>0F-46-CA-89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

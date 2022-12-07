@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mad Max" Moder="hejran7" Cusa="CUSA00103" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <StartUP Text="Master Code 1">
+    <Cheatline>
+      <Offset>01353874</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-11-4C-CA-0C-48-83-FA-08-75-09-C4-C1-7A-11-4C-CA-0C-90-90-48-83-FA-04-75-09-C4-C1-7A-11-4C-CA-0C-90-90-48-83-FA-44-0F-85-C4-00-0A-FF-C4-C1-7A-11-4C-CA-0C-90-90-E9-B6-00-0A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3F3960</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0F-FF-F5-00-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4C-CA-0C</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Master Code 2">
+    <Cheatline>
+      <Offset>0135394E</Offset>
+      <Section>0</Section>
+      <ValueOn>8D-50-01-89-11-41-54-49-BC-88-83-40-00-08-00-00-00-4D-8B-24-24-41-81-FC-04-01-00-00-75-0E-44-89-25-8D-06-8B-FE-41-5C-E9-50-D5-73-FF-41-81-FC-04-02-00-00-75-07-44-89-25-76-06-8B-FE-41-5C-E9-39-D5-73-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A90EC5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-84-2A-8C-00</ValueOn>
+      <ValueOff>8D-50-01-89-11</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Max Inf HP" Description="">
+    <Cheatline>
+      <Offset>5CC7E9</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-5F-1C</ValueOn>
+      <ValueOff>C5-FA-11-57-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Fury R3+L2 On R3+R2 Off" Description="">
+    <Cheatline>
+      <Offset>01353922</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-44-0D-00-48-83-F9-70-0F-85-31-29-39-FF-66-81-3D-C6-06-8B-FE-04-01-0F-85-22-29-39-FF-41-C7-44-0D-00-00-80-3B-44-E9-14-29-39-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6E625D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C0-D6-C6-00</ValueOn>
+      <ValueOff>41-89-44-0D-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf Fury" Description="">
+    <Cheatline>
+      <Offset>01353832</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-F9-70-75-0E-41-C7-44-0D-00-00-80-3B-44-E9-1C-2A-39-FF-41-89-44-0D-00-E9-12-2A-39-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6E625D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D0-D5-C6-00</ValueOn>
+      <ValueOff>41-89-44-0D-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf Ammo" Description="">
+    <Cheatline>
+      <Offset>01353850</Offset>
+      <Section>0</Section>
+      <ValueOn>89-D1-41-B9-63-00-00-00-44-89-C9-E9-E8-99-22-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>57D243</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-08-66-DD-00</ValueOn>
+      <ValueOff>89-D1-44-29-C9</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>56D930</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-41-04-63-00</ValueOn>
+      <ValueOff>66-C7-41-04-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>56D926</Offset>
+      <Section>0</Section>
+      <ValueOn>75-08</ValueOn>
+      <ValueOff>74-08</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>01353860</Offset>
+      <Section>0</Section>
+      <ValueOn>89-CE-B8-63-00-00-00-89-C6-0F-8D-5A-FF-3A-FF-E9-4B-FF-3A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7037B9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A2-00-C5-00-90</ValueOn>
+      <ValueOff>89-CE-29-C6-7D-0A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload" Description="">
+    <Cheatline>
+      <Offset>44B83A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C8</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>56D928</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf Canteen" Description="">
+    <Cheatline>
+      <Offset>01353881</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-CA-0C-00-00-7A-44</ValueOn>
+      <ValueOff>C4-C1-7A-11-4C-CA-0C-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf Fuel" Description="">
+    <Cheatline>
+      <Offset>01353890</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-CA-0C-00-00-48-42</ValueOn>
+      <ValueOff>C4-C1-7A-11-4C-CA-0C-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf Scraps" Description="">
+    <Cheatline>
+      <Offset>013538A3</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-CA-0C-F0-23-74-49</ValueOn>
+      <ValueOff>C4-C1-7A-11-4C-CA-0C-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Car Health" Description="">
+    <Cheatline>
+      <Offset>013538B1</Offset>
+      <Section>0</Section>
+      <ValueOn>81-FB-50-98-FF-EE-0F-84-1A-27-3F-FF-C4-C1-7A-11-06-E9-10-27-3F-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>745FD2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DA-D8-C0-00</ValueOn>
+      <ValueOff>C4-C1-7A-11-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Griffa Tokens x1" Description="">
+    <Cheatline>
+      <Offset>013538C7</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-87-28-01-00-00-01-E9-73-7E-2F-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>64B740</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-82-81-D0-00-90</ValueOn>
+      <ValueOff>89-87-28-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Griffa Tokens x5" Description="">
+    <Cheatline>
+      <Offset>013538D3</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-87-28-01-00-00-05-E9-67-7E-2F-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>64B740</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8E-81-D0-00-90</ValueOn>
+      <ValueOff>89-87-28-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Enemy HP" Description="">
+    <Cheatline>
+      <Offset>3E4CC5</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-95-84-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

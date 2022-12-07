@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hack GU Link Part II" Moder="as" Cusa="CUSA07559" Version="01.00" Process="hackGU_vol2.elf">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Never Dec Items Used">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>5FF9A4</Offset>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="500 Smoke Bomb Value">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>50A63A</Offset>
+      <ValueOn>66-C7-80-BA-04-00-00-E4-01</ValueOn>
+      <ValueOff>66-C7-80-BA-04-00-00-87-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill ">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>C9B805</Offset>
+      <ValueOn>48-39-C3-74-04-66-B9-00-00-66-89-8B-9C-01-00-00-E9-05-45-77-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>40FD18</Offset>
+      <ValueOn>E9-E8-BA-88-00-90-90</ValueOn>
+      <ValueOff>66-89-8B-9C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf chin 999">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>C9B81C</Offset>
+      <ValueOn>66-BA-E7-03-66-89-97-D0-B6-01-00-E9-62-82-96-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>603A87</Offset>
+      <ValueOn>E9-90-7D-69-00-90-90</ValueOn>
+      <ValueOff>66-89-97-D0-B6-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Aida Battle 1 Hit Kill">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>C9B82E</Offset>
+      <ValueOn>48-83-FB-00-74-0F-C5-7A-11-0F-0F-84-43-5F-45-FF-E9-3A-5F-45-FF-C5-FA-11-17-EB-EF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>F1777</Offset>
+      <ValueOn>E9-B2-A0-BA-00-90</ValueOn>
+      <ValueOff>C5-FA-11-17-74-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

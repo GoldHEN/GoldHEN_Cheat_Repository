@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="nioh 2" Moder="Ibraheem" Cusa="CUSA15526" Version="01.18" Process="eboot.bin">
+  <Genres Name="Family" />
+  <Items />
+  <Cheat Text="Infinite Anima">
+    <Cheatline>
+      <Offset>C33A37</Offset>
+      <Section>0</Section>
+      <ValueOn>49-01-07</ValueOn>
+      <ValueOff>49-89-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="max level">
+    <Cheatline>
+      <Offset>C33EC7</Offset>
+      <Section>0</Section>
+      <ValueOn>41-01-07</ValueOn>
+      <ValueOff>41-89-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items">
+    <Cheatline>
+      <Offset>C57974</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-CB</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="add Items">
+    <Cheatline>
+      <Offset>C5797D</Offset>
+      <Section>0</Section>
+      <ValueOn>66-01-9C-06-74-5D-10-00</ValueOn>
+      <ValueOff>66-89-9C-06-74-5D-10-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Weapon Familiarity">
+    <Cheatline>
+      <Offset>10697F9</Offset>
+      <Section>0</Section>
+      <ValueOn>45-01-77-0C</ValueOn>
+      <ValueOff>45-89-77-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Weapon Proficiency">
+    <Cheatline>
+      <Offset>C34877</Offset>
+      <Section>0</Section>
+      <ValueOn>41-01-07</ValueOn>
+      <ValueOff>41-89-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Yokai Shift Gauge">
+    <Cheatline>
+      <Offset>A28910</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-F8-28-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf Infinite Yokai Shift Duration">
+    <Cheatline>
+      <Offset>9AE1EA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-88-C4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ki">
+    <Cheatline>
+      <Offset>9AD4B3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>8B-40-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text=" Infinite BUFF/Skill Duration">
+    <Cheatline>
+      <Offset>A3015B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-17</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="frend no go">
+    <Cheatline>
+      <Offset>C10752</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-B7-D0-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Sentience">
+    <Cheatline>
+      <Offset>996005</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-E3-69-4A-C0-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Shortcut Items">
+    <Cheatline>
+      <Offset>D2A8BF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>41-29-CB</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf shockwaves cutting blast talisman">
+    <Cheatline>
+      <Offset>97D093</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-F2-59-0D-D1-2A-65-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf water fire poison lightning on sword speed running">
+    <Cheatline>
+      <Offset>9D380F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-46-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inc glory">
+    <Cheatline>
+      <Offset>D1B291</Offset>
+      <Section>0</Section>
+      <ValueOn>01-8B-BC-04-00-00</ValueOn>
+      <ValueOff>89-8B-BC-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

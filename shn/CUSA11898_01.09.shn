@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Divinity Original Sin 2 Definitive Edition" Moder="EvilGoku" Cusa="CUSA11898" Version="01.09" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf HP SP AP 1 hit kill">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>24A7800</Offset>
+      <ValueOn>83-B8-08-02-00-00-00-75-14-83-B8-F8-01-00-00-01-7F-3D-8B-80-F8-01-00-00-E9-A0-D6-2D-FE-C7-80-F8-01-00-00-E7-03-00-00-C7-80-FC-01-00-00-E7-03-00-00-C7-80-00-02-00-00-E7-03-00-00-C7-80-10-02-00-00-06-00-00-00-B8-E7-03-00-00-E9-6E-D6-2D-FE-C7-80-F8-01-00-00-01-00-00-00-C7-80-FC-01-00-00-00-00-00-00-B8-01-00-00-00-E9-50-D6-2D-FE-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>784EB7</Offset>
+      <ValueOn>E9-44-29-D2-01-90</ValueOn>
+      <ValueOff>8B-80-F8-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Exp (Max 35 Level ) Get by kill 1 enemy">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>24A786F</Offset>
+      <ValueOn>41-03-9E-18-02-00-00-BB-78-11-F9-4F-E9-A5-0E-91-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>DB871E</Offset>
+      <ValueOn>E9-4C-F1-6E-01-90-90</ValueOn>
+      <ValueOff>41-03-9E-18-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money(buy or Sell)" Description="After Max Money Disable the Cheat">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>24A7882</Offset>
+      <ValueOn>BE-7F-96-98-00-89-B7-84-01-00-00-E9-3B-25-40-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>8A9DC7</Offset>
+      <ValueOn>E9-B6-DA-BF-01-90</ValueOn>
+      <ValueOff>89-B7-84-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="99 Attribute Points (after using 1 point)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>24A7894</Offset>
+      <ValueOn>B9-63-00-00-00-89-88-00-03-00-00-89-88-04-03-00-00-89-88-08-03-00-00-89-88-0C-03-00-00-E9-47-1C-6F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>B994F7</Offset>
+      <ValueOn>E9-98-E3-90-01-90</ValueOn>
+      <ValueOff>89-88-00-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="99 Combat Ability Points (after using 1 point)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>24A78B8</Offset>
+      <ValueOn>C7-80-04-03-00-00-63-00-00-00-E9-61-1F-6F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>B99822</Offset>
+      <ValueOn>E9-91-E0-90-01-90</ValueOn>
+      <ValueOff>89-88-04-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="99 civil Ability Points (after using 1 point)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>24A78C9</Offset>
+      <ValueOn>C7-80-08-03-00-00-63-00-00-00-E9-5F-1F-6F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>B99831</Offset>
+      <ValueOn>E9-93-E0-90-01-90</ValueOn>
+      <ValueOff>89-88-08-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="99 Talents Ability Points (after using 1 point)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>24A78DA</Offset>
+      <ValueOn>41-C7-87-0C-03-00-00-63-00-00-00-E9-67-21-6F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>B99A4A</Offset>
+      <ValueOn>E9-8B-DE-90-01-90-90</ValueOn>
+      <ValueOff>45-89-A7-0C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Game Speed x3">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>24A78EC</Offset>
+      <ValueOn>41-C7-87-B0-02-00-00-00-00-40-40-C4-C1-7A-59-87-B0-02-00-00-E9-01-B2-BD-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>82AFD</Offset>
+      <ValueOn>E9-EA-4D-42-02-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-59-87-B0-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Ignore weight and Never Decrease Movement speed" Description="(Use Before Overweight)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>88B32</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-29-91-08-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

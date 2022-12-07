@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Monster Hunter Iceborne" Moder="Muhanned" Cusa="CUSA07708" Version="15.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="invisible to Monsters">
+    <Cheatline>
+      <Offset>3F0DFF3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-F8-2E-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+<Cheat Text="Inf Health">
+    <Cheatline>
+      <Offset>2CDE4AA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-40-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Stamina">
+    <Cheatline>
+      <Offset>2E4874E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-43-6C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Item">
+    <Cheatline>
+      <Offset>3A223C1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>45-01-F7</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf Item Pouch">
+    <Cheatline>
+      <Offset>3A22521</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>44-89-7E-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money on purchase from women armoery">
+    <Cheatline>
+      <Offset>433296D</Offset>
+      <Section>0</Section>
+      <ValueOn>01-D1</ValueOn>
+      <ValueOff>29-D9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Item max when roll back in craft">
+    <Cheatline>
+      <Offset>3A2226F</Offset>
+      <Section>0</Section>
+      <ValueOn>44-89-4E-0C</ValueOn>
+      <ValueOff>44-89-7E-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="item incress when sawp with high number in sell box">
+    <Cheatline>
+      <Offset>41BD57B</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-4E-0C</ValueOn>
+      <ValueOff>41-89-46-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="incress res on get">
+    <Cheatline>
+      <Offset>3A22536</Offset>
+      <Section>0</Section>
+      <ValueOn>89-46-0C</ValueOn>
+      <ValueOff>89-4E-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max PTS on get ">
+    <Cheatline>
+      <Offset>2ED705B</Offset>
+      <Section>0</Section>
+      <ValueOn>01-D0</ValueOn>
+      <ValueOff>01-D8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="max throwable stons">
+    <Cheatline>
+      <Offset>467BBCC</Offset>
+      <Section>0</Section>
+      <ValueOn>89-84-C3-40-7C-00-00</ValueOn>
+      <ValueOff>89-8C-C3-40-7C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

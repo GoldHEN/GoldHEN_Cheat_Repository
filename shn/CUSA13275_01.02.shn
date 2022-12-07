@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Doom Eternal" Moder="Dioniso" Cusa="CUSA13275" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="FPS" />
+  <Items />
+  <Cheat Text="Inf. Health">
+    <Cheatline>
+      <Offset>6D91B1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>74-6A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf. Health + Shield">
+    <Cheatline>
+      <Offset>6D91B1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>74-6A</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6D915A</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-3F</ValueOn>
+      <ValueOff>74-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf. Health + Shield + Keys, etc.">
+    <Cheatline>
+      <Offset>6D91B1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>74-6A</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6D915A</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-3F-B8-63-00-00-00-89-84-87-94-AE-03-00-49-81-FB-02-02-00-00-0F-85-55-DF-96-00-B8-00-00-00-00-89-84-87-94-AE-03-00-E9-44-DF-96-00</ValueOn>
+      <ValueOff>74-3F-C5-F8-28-4D-B0-C5-F8-28-65-A0-45-84-ED-74-55-49-63-C4-48-6B-C0-58-C5-F2-59-54-03-38-C5-F2-5C-C2-C5-DA-C2-CA-06-C5-F8-2E-D4-C4</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>10470C3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-94-20-69-FF-90-90</ValueOn>
+      <ValueOff>8B-84-87-94-AE-03-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo + Fuel">
+    <Cheatline>
+      <Offset>1392706</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>39-C1-0F-4E-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Jumping Dash">
+    <Cheatline>
+      <Offset>E8BEB1</Offset>
+      <Section>0</Section>
+      <ValueOn>C3-90-90-90</ValueOn>
+      <ValueOff>C6-47-7B-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Health zero = no die">
+    <Cheatline>
+      <Offset>6D2FFA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>48-8B-45-A8</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="fist of the north star lost paradise" Moder="Muhanned" Cusa="CUSA12781" Version="01.09" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Inf Health ">
+    <Cheatline>
+      <Offset>229380D</Offset>
+      <Section>0</Section>
+      <ValueOn>81-FA-98-3A-00-00-75-08-89-50-04-E9-F2-60-14-FE-89-78-04-E9-EA-60-14-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3D9909</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FF-9E-EB-01-90</ValueOn>
+      <ValueOff>0F-4F-FA-89-78-04</ValueOff>
+    </Cheatline>
+  </Cheat> 
+  <Cheat Text="Max Orbs & matrilas on get">
+    <Cheatline>
+      <Offset>2293800</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-C7-44-46-38-E7-03-E9-26-41-70-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>99792D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CE-BE-8F-01-90</ValueOn>
+      <ValueOff>66-41-89-54-46-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money on purchase">
+    <Cheatline>
+      <Offset>99C4F5</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-B4-C3-08-CB-00-00</ValueOn>
+      <ValueOff>48-89-8C-C3-08-CB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max item on move to Box">
+    <Cheatline>
+      <Offset>9988FD</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-44-24-06-90</ValueOn>
+      <ValueOff>66-41-89-7C-24-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Item in Box">
+    <Cheatline>
+      <Offset>9987F0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-89-77-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf Fuel">
+    <Cheatline>
+      <Offset>99EE90</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-8F-A4-D3-01-00</ValueOn>
+      <ValueOff>C5-FA-11-87-A4-D3-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf Boost">
+    <Cheatline>
+      <Offset>C4A84E</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-9B-1C-0B-00-00</ValueOn>
+      <ValueOff>C5-FA-11-83-1C-0B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Limit Break">
+    <Cheatline>
+      <Offset>229380D</Offset>
+      <Section>0</Section>
+      <ValueOn>89-F1-66-C7-44-0F-44-E7-03-E9-7C-40-70-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>997891</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-77-BF-8F-01-90</ValueOn>
+      <ValueOff>89-F1-88-44-0F-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+ <Cheat Text="Inf Hp">
+    <Cheatline>
+      <Offset>229380D</Offset>
+      <Section>0</Section>
+      <ValueOn>48-81-FA-4C-18-00-00-75-08-89-50-04-E9-F1-60-14-FE-89-78-04-E9-E9-60-14-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3D9909</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FF-9E-EB-01-90</ValueOn>
+      <ValueOff>0F-4F-FA-89-78-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+ <Cheat Text="lvl up ">
+    <Cheatline>
+      <Offset>997A18</Offset>
+      <Section>0</Section>
+      <ValueOn>45-89-66-30</ValueOn>
+      <ValueOff>49-89-4E-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+ <Cheat Text="lvl test15">
+    <Cheatline>
+      <Offset>99792D</Offset>
+      <Section>0</Section>
+      <ValueOn>4D-89-7C-46-38-90</ValueOn>
+      <ValueOff>66-41-89-54-46-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
