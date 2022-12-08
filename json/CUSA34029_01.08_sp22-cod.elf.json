@@ -1,0 +1,43 @@
+{
+  "name": "Call of Duty Modern Warfare II",
+  "id": "CUSA34029",
+  "version": "01.08",
+  "process": "sp22-cod.elf",
+  "mods": [
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2ED3080",
+          "on": "669C41837E6C00740C669D4C894C2428E99A3EA1FE49C7C100000000EBEB9090",
+          "off": "669C41837E6C00740C669D4C894C2428E99A3EA1FE49C7C100000000EBEB9090"
+        },
+        {
+          "offset": "18E6F2A",
+          "on": "E951C15E01",
+          "off": "4C894C2428"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Bullets/Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2ED3000",
+          "on": "0F49DF0F48DA0F48FA895C8860E9154470FF9090",
+          "off": "0F49DF0F48DA0F48FA895C8860E9154470FF9090"
+        },
+        {
+          "offset": "25D7420",
+          "on": "E9DBBB8F009090",
+          "off": "0F49DF895C8860"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "JustGotenks"
+  ]
+}
