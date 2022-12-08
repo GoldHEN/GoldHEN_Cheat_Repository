@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Monster Huanter Storeies iceborne" Moder="Muhanned" Cusa="CUSA07708" Version="11.01" Process="eboot.bin">
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Monster Hunter World: Iceborne" Moder="Muhanned" Cusa="CUSA07708" Version="11.01" Process="eboot.bin">
   <Genres Name="Adventure" />
   <Items />
   <Cheat Text="Infinite HP">
