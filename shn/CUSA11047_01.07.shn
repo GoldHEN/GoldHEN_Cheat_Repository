@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Metro Exodus" Moder="اIbraheem" Cusa="CUSA11047" Version="01.07" Process="eboot.bin">
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Song of Memories" Moder="اIbraheem" Cusa="CUSA11047" Version="01.07" Process="eboot.bin">
   <Genres Name="Action" />
   <Genres Name="Adventure" />
   <Genres Name="Shooter" />
