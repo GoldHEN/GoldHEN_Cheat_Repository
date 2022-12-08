@@ -196,6 +196,7 @@ CUSA04493_01.12.json=Prey
 CUSA13483_01.35.json=Farm Together
 CUSA05969_01.25_default.elf.json=Call of Duty®: WWII
 CUSA01608_01.00.json=Enter The Gungeon
+CUSA34029_01.08_sp22-cod.elf.json=Call of Duty Modern Warfare II
 CUSA17573_01.05.json=FAIRY TAIL
 CUSA16146_01.01.json=The Survivalists
 CUSA13094_01.06.json=Wolfenstein: Youngblood
