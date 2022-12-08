@@ -1,6 +1,6 @@
 CUSA16345_01.01.shn=Immortals Fenyx Rising
 SLUS20981_01.00.shn=Teenage Mutant Ninja Turtles 2
-CUSA11047_01.07.shn=Metro Exodus
+CUSA11047_01.07.shn=Song of Memories
 SLES50193_01.00.shn=Silpheed-The Lost Planet
 SLPM62385_01.00.shn=Golden Axe
 SLUS20770_01.00.shn=Lord of the Rings, The - The Return of the King
