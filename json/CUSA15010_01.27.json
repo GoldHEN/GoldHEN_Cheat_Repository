@@ -4,17 +4,6 @@
   "version": "01.27",
   "process": "eboot.bin",
   "mods": [
-	{
-	  "name": "Godmode",
-      "type": "checkbox",
-      "memory": [
-     {
-       "offset": "1254BAE",
-       "on": "90909090909090",
-       "off": "488B8D90FEFFFF"
-      }
-      ]
-    },
     {
       "name": "All Client Godmode",
       "type": "checkbox",
