@@ -172,6 +172,7 @@ CUSA15436_01.04.json=Kingdom Come: Deliverance Royal Edition
 CUSA04312_01.00.json=Ghostbusters
 CUSA10812_01.06.json=A Plague Tale: Innocence
 CUSA03991_01.00_2.json=Dying Light
+CUSA02092_01.12.json=DOOM
 CUSA03842_01.06.json=RESIDENT EVIL 7 biohazard
 CUSA13537_01.00.json=Hell Warders
 CUSA07691_01.00_hackGU_vol1.elf.json=.hack//G.U Last Recode [Vol.1 Rebirth]
