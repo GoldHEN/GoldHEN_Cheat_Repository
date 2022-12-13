@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA32074" Game="Pac-Man World Re-Pac" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Arcade"/>
+<Items/>
+<Cheat Text="Invincible">
+</Cheat>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Max Lives ( on gain / lose )">
+</Cheat>
+<Cheat Text="Max Items ( collect 2 )">
+</Cheat>
+</Trainer>
