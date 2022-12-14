@@ -10,8 +10,8 @@
       "memory": [
         {
           "offset": "2ED3080",
-          "on": "669C41837E6C00740C669D4C894C2428E99A3EA1FE49C7C100000000EBEB9090",
-          "off": "669C41837E6C00740C669D4C894C2428E99A3EA1FE49C7C100000000EBEB9090"
+          "on": "669C41833E00740C669D4C894C2428E99B3EA1FE49C7C100000000EBEB909090",
+          "off": "669C41833E00740C669D4C894C2428E99B3EA1FE49C7C100000000EBEB909090"
         },
         {
           "offset": "18E6F2A",
@@ -33,6 +33,65 @@
           "offset": "25D7420",
           "on": "E9DBBB8F009090",
           "off": "0F49DF895C8860"
+        }
+      ]
+    },
+    {
+      "name": "One-hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2ED3190",
+          "on": "41833E00740741837E1401740C80BF0CAC000000E9813DA1FE49C7C1A0860100EBEB9090",
+          "off": "41833E00740741837E1401740C80BF0CAC000000E9813DA1FE49C7C1A0860100EBEB9090"
+        },
+        {
+          "offset": "18E6F23",
+          "on": "E968C25E019090",
+          "off": "80BF0CAC000000"
+        }
+      ]
+    },
+    {
+      "name": "Better Accuracy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "220BD5D",
+          "on": "C5F857C0",
+          "off": "C5F25FC0"
+        },
+        {
+          "offset": "25F900B",
+          "on": "9090909090909090",
+          "off": "C5FA1183280C0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Magazine",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25E49EB",
+          "on": "83E900",
+          "off": "4429F9"
+        }
+      ]
+    },
+    {
+      "name": "Godmode for all",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2ED3150",
+          "on": "49C7C1000000004C894C2428E9CE3DA1FE909090",
+          "off": "49C7C1000000004C894C2428E9CE3DA1FE909090"
+        },
+        {
+          "offset": "18E6F2A",
+          "on": "E921C25E01",
+          "off": "4C894C2428"
         }
       ]
     }
