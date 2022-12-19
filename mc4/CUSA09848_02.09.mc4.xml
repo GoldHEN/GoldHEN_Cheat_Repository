@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA09848" Game="Biomutant" Moder="Celogamez" Process="eboot.bin" Version="02.09" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Infinite Health/1 Hit Kill (Master Code/Must Be On)">
+</Cheat>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="1 Hit Kill">
+</Cheat>
+<Cheat Text="Infinite Ammo/No Reload">
+</Cheat>
+<Cheat Text="Infinite Special Attack">
+</Cheat>
+<Cheat Text="Infinite Breath/Jump (Water)">
+</Cheat>
+<Cheat Text="Max/Infinite Consumables">
+</Cheat>
+<Cheat Text="Max/Infinite Avaliable Points">
+</Cheat>
+<Cheat Text="Max/Infinite Upgrade Points">
+</Cheat>
+<Cheat Text="Max/Infinite Bio Points">
+</Cheat>
+<Cheat Text="Max/Infinite Psi-Points">
+</Cheat>
+<Cheat Text="Max XP On Gain">
+</Cheat>
+</Trainer>

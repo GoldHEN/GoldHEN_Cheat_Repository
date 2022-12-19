@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA14275" Game="Back 4 Blood Ultimate Edition" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Godmode">
+</Cheat>
+<Cheat Text="Infinite Health ( Player / Team )">
+</Cheat>
+<Cheat Text="Infinite Stamina ( Battle Mode )">
+</Cheat>
+<Cheat Text="Infinite Stamina ( Run Mode )">
+</Cheat>
+<Cheat Text="Max Ammo">
+</Cheat>
+<Cheat Text="No Reload ( Ammo )">
+</Cheat>
+<Cheat Text="Max Ammo Items">
+</Cheat>
+<Cheat Text="Infinite Copper ( on gain / use )">
+</Cheat>
+<Cheat Text="Infinite Card Draws">
+</Cheat>
+<Cheat Text="Infinite Supply Lines ( on gain / use )">
+</Cheat>
+<Cheat Text="Infinite Skull Totems ( on gain / use )">
+</Cheat>
+</Trainer>
