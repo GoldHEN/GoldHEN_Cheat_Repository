@@ -36,6 +36,7 @@ CUSA00683_01.02.shn=Metro Redux 5.05
 SLES51156_01.00.shn=Silent Hill 2
 SLUS21168_01.00.shn=Castlevania-Curse of Darkness
 CUSA00103_01.04.shn=Mad Max
+CUSA25272_01.00.shn=THE KING OF FIGHTERS XV Standard Edition
 SLUS20001_01.00.shn=Tekken Tag Tournamen
 SLUS20960_01.00.shn=Mega-Man-X8
 CUSA16345_01.01.shn=Immortals Fenyx Rising
