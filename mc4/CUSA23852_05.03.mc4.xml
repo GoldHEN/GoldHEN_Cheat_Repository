@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA23852" Game="ANNO: Mutationem" Moder="Wander FW9.00" Process="eboot.bin" Version="05.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Ammo (Pistols)">
+</Cheat>
+<Cheat Text="Max Items/Talent/Attribute points">
+</Cheat>
+<Cheat Text="Instant Transformation (on hit)">
+</Cheat>
+</Trainer>
