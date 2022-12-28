@@ -973,6 +973,7 @@ CUSA02962_01.22.json=Fallout 4
 CUSA01765_01.00.json=[PROTOTYPE®2]
 CUSA05969_01.11_default_mp.elf.json=COD: World War II (MP/ZM)
 CUSA12443_01.24.json=COD: Black Ops 4
+CUSA14332_01.00.json=Ashen
 CUSA20239_01.04.json=Alex Kidd in Miracle Worlds DX
 CUSA20302_01.00.json=New Super Luckys Tale
 CUSA13885_01.00.json=Far Cry® New Dawn
