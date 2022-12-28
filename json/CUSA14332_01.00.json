@@ -1,0 +1,161 @@
+{
+  "name": "Ashen",
+  "id": "CUSA14332",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "No Damage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59B3000",
+          "on": "669C50488B87980E00008138A8F7F605750983B88401000001741258669D48A1A8F06B0600000000E93E46EEFA58669DE9EC47EEFA909090",
+          "off": "669C50488B87980E00008138A8F7F605750983B88401000001741258669D48A1A8F06B0600000000E93E46EEFA58669DE9EC47EEFA909090"
+        },
+        {
+          "offset": "897664",
+          "on": "E997B911059090",
+          "off": "488B053D7AA205"
+        }
+      ]
+    },
+    {
+      "name": "No Damage for companion",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59B3070",
+          "on": "669C50488B87980E00008138A8F7F605750983B88401000001750E58669D4989F64889FBE9D845EEFA58669DE98047EEFA909090",
+          "off": "669C50488B87980E00008138A8F7F605750983B88401000001750E58669D4989F64889FBE9D845EEFA58669DE98047EEFA909090"
+        },
+        {
+          "offset": "89766B",
+          "on": "E900BA110590",
+          "off": "4989F64889FB"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina (also companion)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59B30E0",
+          "on": "C4E3594AD320669C813BA8F7F6057508C5FA109330010000669DE9136DD3FA90",
+          "off": "C4E3594AD320669C813BA8F7F6057508C5FA109330010000669DE9136DD3FA90"
+        },
+        {
+          "offset": "6E9E0C",
+          "on": "E9CF922C0590",
+          "off": "C4E3594AD320"
+        }
+      ]
+    },
+    {
+      "name": "One-hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59B3130",
+          "on": "669C50488B87980E00008138A8F7F605750F58669D488B00488945D0E92745EEFAC780F000000000000000EBE5909090",
+          "off": "669C50488B87980E00008138A8F7F605750F58669D488B00488945D0E92745EEFAC780F000000000000000EBE5909090"
+        },
+        {
+          "offset": "897671",
+          "on": "E9BABA11059090",
+          "off": "488B00488945D0"
+        }
+      ]
+    },
+    {
+      "name": "Keep items (on use | craft)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8A62AC",
+          "on": "E99F000000",
+          "off": "BEFFFFFFFF"
+        },
+        {
+          "offset": "6E0000",
+          "on": "9090909090",
+          "off": "E84B1B2200"
+        },
+        {
+          "offset": "5AB50D",
+          "on": "9090",
+          "off": "FFC8"
+        }
+      ]
+    },
+    {
+      "name": "Keep spear count",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "93A6BA",
+          "on": "9090909090909090",
+          "off": "41FF8C2440090000"
+        }
+      ]
+    },
+    {
+      "name": "Scoria Multiplier (default 5x)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59B3190",
+          "on": "418BBEE80100000FAF3D620300004189BEE80100004889C74889C3E95BEFF2FA",
+          "off": "418BBEE80100000FAF3D620300004189BEE80100004889C74889C3E95BEFF2FA"
+        },
+        {
+          "offset": "8E2105",
+          "on": "E986100D0590",
+          "off": "4889C74889C3"
+        },
+        {
+          "offset": "59B3500",
+          "on": "05000000",
+          "off": "05000000"
+        }
+      ]
+    },
+    {
+      "name": "10x Scoria",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "59B3500",
+          "on": "0A000000",
+          "off": "0A000000"
+        }
+      ]
+    },
+    {
+      "name": "25x Scoria",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "59B3500",
+          "on": "19000000",
+          "off": "19000000"
+        }
+      ]
+    },
+    {
+      "name": "100x Scoria",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "59B3500",
+          "on": "64000000",
+          "off": "64000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "JustGotenks"
+  ]
+}
