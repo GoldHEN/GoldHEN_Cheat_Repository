@@ -5,7 +5,29 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "infi itmes",
+      "name": "Enable Dev Menu",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "252B90",
+          "on": "C680A13A000001",
+          "off": "80B8A13A000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Silencer Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15DF257",
+          "on": "90909090909090",
+          "off": "41FF8E14080000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
       "type": "checkbox",
       "memory": [
         {
@@ -17,6 +39,6 @@
     }
   ],
   "credits": [
-    "Ahmad"
+    "illusion + Ahmad"
   ]
 }
