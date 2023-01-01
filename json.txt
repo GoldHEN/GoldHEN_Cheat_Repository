@@ -1039,3 +1039,6 @@ CUSA18374_01.10.json=SWORD ART ONLINE Alicization Lycoris
 CUSA32759_01.05.json=Ganryu 2
 CUSA14054_01.04.json=ONE PIECE WORLD SEEKER
 CUSA11993_01.17_2.json=Marvels Spider-Man
+CUSA05008_01.00_ScimitarAC2.elf.json=Assassins Creed: The Ezio Collection [Assasins Creed 2
+CUSA05008_01.00_ScimitarACB.elf.json=Assassins Creed: The Ezio Collection [Assasins Creed Brotherhood
+CUSA05008_01.00_ScimitarACR.elf.json=Assassins Creed: The Ezio Collection [Assasins Creed Revelations
