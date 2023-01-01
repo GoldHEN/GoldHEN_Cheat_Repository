@@ -1,0 +1,35 @@
+{
+  "name": "Assassins Creed: The Ezio Collection [Assasins Creed 2]",
+  "id": "CUSA05008",
+  "version": "01.00",
+  "process": "ScimitarAC2.elf",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F89DB2",
+          "on": "909090909090",
+          "off": "898BA4000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money / Items",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11C305A",
+          "on": "909090",
+          "off": "894714"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}
