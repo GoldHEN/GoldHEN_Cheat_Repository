@@ -210,6 +210,7 @@ CUSA33241_01.06.mc4.xml=Vampire: The Masquerade ? Swansong
 CUSA03679_01.04.mc4.xml=Mortal Kombat XL
 CUSA01499_01.00.mc4.xml=Mirrors Edge Catalyst
 CUSA09473_01.01.mc4.xml=RESIDENT EVIL 7 biohazard Gold Edition
+CUSA01796_01.00.mc4.xml=Sniper Elite 3 Ultimate edition
 CUSA02159_01.01.mc4.xml=Onechanbara Z2: Chaos
 CUSA03234_01.00.mc4.xml=AdVenture Capitalist
 CUSA08974_01.04.mc4.xml=The Evil Within 2 

@@ -1,0 +1,23 @@
+{
+  "name": "Assassins Creed: The Ezio Collection [Assasins Creed Revelations]",
+  "id": "CUSA05008",
+  "version": "01.00",
+  "process": "ScimitarACR.elf",
+  "mods": [
+    {
+      "name": "Infinite Money, Items",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "20A4536",
+          "on": "909090",
+          "off": "894310"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}
