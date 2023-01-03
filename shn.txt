@@ -11,6 +11,7 @@ SLES52599_01.00.shn=Metal Slug 3
 SLES50193_01.00.shn=Silpheed-The Lost Planet
 CUSA13275_01.02.shn=Doom Eternal
 CUSA07708_11.01.shn=Monster Hunter World: Iceborne
+CUSA01839_01.07.shn=street_figther4
 CUSA10300_01.07.shn=Rage 2
 SLES53021_01.00.shn=Gunbird Special Edition
 SLUS20962_01.00.shn=Castle Shikigami 2
