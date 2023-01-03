@@ -4,7 +4,7 @@
 <Items/>
 <Cheat Text="Max/Infinite Health/Stamina">
 </Cheat>
-<Cheat Text="Max/Infinite Money/Ammo/MedKits/Craft Resources">
+<Cheat Text="Max/Infinite Ammo/MedKits/Craft Resources (Don't Pick Money)">
 </Cheat>
 <Cheat Text="No Reload">
 </Cheat>
@@ -13,5 +13,7 @@
 <Cheat Text="Max/Infinite Perk Points (Don't Use Attribute Points)">
 </Cheat>
 <Cheat Text="Max/Infinite Attribute Points (Don't Use Perk Points)">
+</Cheat>
+<Cheat Text="Max/Infinite Money">
 </Cheat>
 </Trainer>
