@@ -1,1 +1,75 @@
-{"name":"ANNO: Mutationem","id":"CUSA23852","version":"05.03","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"18B7330","on":"80B8BC000000007509C740280000FA43EB05C5FA114028E927C4567F","off":"00000000000000000000000000000000000000000000000000000000"},{"offset":"80E2376E","on":"E9BD3BA980","off":"C5FA114028"}]},{"name":"Infinite Ammo (Pistols)","type":"checkbox","memory":[{"offset":"7FC5F8D0","on":"E8D5F620036681FC7059750C41BE0C00000044897310EB0444897310E90D76F900","off":"000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"80BF6EF5","on":"E9D68906FF90909090","off":"E8B680270244897310"}]},{"name":"Max Items/Talent/Attribute points","type":"checkbox","memory":[{"offset":"7FC5F880","on":"E825F72003C743140F270000E9ED74F900","off":"0000000000000000000000000000000000"},{"offset":"80BF6D75","on":"E9068B06FF90909090","off":"E83682270244897314"}]},{"name":"Instant Transformation (on hit)","type":"checkbox","memory":[{"offset":"18B7C10","on":"C743100000C842E927DB117F","off":"000000000000000000000000"},{"offset":"809D573E","on":"E9CD24EE80","off":"C5FA114B10"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "ANNO: Mutationem",
+  "id": "CUSA23852",
+  "version": "05.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18B7330",
+          "on": "80B8BC000000007509C740280000FA43EB05C5FA114028E927C4567F",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80E2376E",
+          "on": "E9BD3BA980",
+          "off": "C5FA114028"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo (Pistols)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F8D0",
+          "on": "E8D5F620036681FC7059750C41BE0C00000044897310EB0444897310E90D76F900",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80BF6EF5",
+          "on": "E9D68906FF90909090",
+          "off": "E8B680270244897310"
+        }
+      ]
+    },
+    {
+      "name": "Max Items/Talent/Attribute points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F880",
+          "on": "E825F72003C743140F270000E9ED74F900",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80BF6D75",
+          "on": "E9068B06FF90909090",
+          "off": "E83682270244897314"
+        }
+      ]
+    },
+    {
+      "name": "Instant Transformation (on hit)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18B7C10",
+          "on": "C743100000C842E927DB117F",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "809D573E",
+          "on": "E9CD24EE80",
+          "off": "C5FA114B10"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

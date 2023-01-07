@@ -1,1 +1,27 @@
-{"name":"Vampire: The Masquerade – Swansong","id":"CUSA33241","version":"01.06","process":"eboot.bin","mods":[{"name":"Skill points to spend(turn off after applying)","type":"checkbox","memory":[{"offset":"59E7F90","on":"488D75C866C700C800E9D5D62CFB","off":"0000000000000000000000000000"},{"offset":"CB566C","on":"E91F29D3049090","off":"488D75C8448930"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Vampire: The Masquerade – Swansong",
+  "id": "CUSA33241",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Skill points to spend(turn off after applying)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59E7F90",
+          "on": "488D75C866C700C800E9D5D62CFB",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "CB566C",
+          "on": "E91F29D3049090",
+          "off": "488D75C8448930"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

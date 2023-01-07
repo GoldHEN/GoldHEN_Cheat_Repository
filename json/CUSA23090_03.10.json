@@ -1,1 +1,43 @@
-{"name":"House Flipper","id":"CUSA23090","version":"03.10","process":"eboot.bin","mods":[{"name":"Max Money Balance (on spend)","type":"checkbox","memory":[{"offset":"189FA60","on":"C743100958844EE911BCF47E","off":"000000000000000000000000"},{"offset":"807EB678","on":"E9E3430B81","off":"C5FB114310"}]},{"name":"Skill points Multiplier (on spend)","type":"checkbox","memory":[{"offset":"189FBC0","on":"41FF442454E96D5C4E7F","off":"00000000000000000000"},{"offset":"80D85832","on":"E989A3B180","off":"41FF4C2454"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "House Flipper",
+  "id": "CUSA23090",
+  "version": "03.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money Balance (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "189FA60",
+          "on": "C743100958844EE911BCF47E",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "807EB678",
+          "on": "E9E3430B81",
+          "off": "C5FB114310"
+        }
+      ]
+    },
+    {
+      "name": "Skill points Multiplier (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "189FBC0",
+          "on": "41FF442454E96D5C4E7F",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "80D85832",
+          "on": "E989A3B180",
+          "off": "41FF4C2454"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

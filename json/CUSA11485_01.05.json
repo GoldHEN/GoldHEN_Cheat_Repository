@@ -1,1 +1,171 @@
-{"name":"Fade to Silence","id":"CUSA11485","version":"01.05","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"764CE80","on":"80BB6802000001750CC7833C0100000000C842EB08C5FA11833C010000E91D60B5F8","off":"00000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"1A2EB7","on":"E9C49F4A07909090","off":"C5FA11833C010000"}]},{"name":"Infinite Stamina (rolling)","type":"checkbox","memory":[{"offset":"7553780","on":"C7835C0100000000C842E96B55C5F8","off":"000000000000000000000000000000"},{"offset":"1A8CF2","on":"E989AA3A07909090","off":"C5FA11835C010000"}]},{"name":"Infinite Stamina (light attack)","type":"checkbox","memory":[{"offset":"75537C0","on":"C7835C0100000000C842E9CB53C5F8","off":"000000000000000000000000000000"},{"offset":"1A8B92","on":"E929AC3A07909090","off":"C5FA11835C010000"}]},{"name":"Infinite Stamina (strong attack)","type":"checkbox","memory":[{"offset":"75537F0","on":"C7835C0100000000C842E9EB52C5F8","off":"000000000000000000000000000000"},{"offset":"1A8AE2","on":"E909AD3A07909090","off":"C5FA11835C010000"}]},{"name":"Infinite Stamina (Sprinting)","type":"checkbox","memory":[{"offset":"764FC50","on":"C7835C0100000000C842E92C92B5F8","off":"000000000000000000000000000000"},{"offset":"1A8E83","on":"E9C86D4A07909090","off":"C5FA11835C010000"}]},{"name":"No Freezing","type":"checkbox","memory":[{"offset":"759B820","on":"C783FC02000000000000E995CDC0F8","off":"000000000000000000000000000000"},{"offset":"1A85BC","on":"E95F323F07909090","off":"C5FA1183FC020000"}]},{"name":"No Hunger","type":"checkbox","memory":[{"offset":"759B7F0","on":"C783D402000000000000E905C4C0F8","off":"000000000000000000000000000000"},{"offset":"1A7BFC","on":"E9EF3B3F07909090","off":"C5FA1183D4020000"}]},{"name":"Instant Building","type":"checkbox","memory":[{"offset":"759B7B0","on":"41C787200100000000C842E9B435E8F8","off":"00000000000000000000000000000000"},{"offset":"41ED6B","on":"E940CA170790909090","off":"C4C17A118F20010000"}]},{"name":"Infinite items (while stacking have 2 items and Stack one)","type":"checkbox","memory":[{"offset":"75B7500","on":"85C0C6474018E9DD94B5F8","off":"0000000000000000000000"},{"offset":"1109E3","on":"E9186B4A07","off":"85C0894740"}]},{"name":"Items (on consume buggy in shortcut for healing and torches)","type":"checkbox","memory":[{"offset":"75B7520","on":"85C0C647400CE99819B9F8","off":"0000000000000000000000"},{"offset":"148EBE","on":"E95DE64607","off":"85C0894740"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Fade to Silence",
+  "id": "CUSA11485",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "764CE80",
+          "on": "80BB6802000001750CC7833C0100000000C842EB08C5FA11833C010000E91D60B5F8",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A2EB7",
+          "on": "E9C49F4A07909090",
+          "off": "C5FA11833C010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina (rolling)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7553780",
+          "on": "C7835C0100000000C842E96B55C5F8",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1A8CF2",
+          "on": "E989AA3A07909090",
+          "off": "C5FA11835C010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina (light attack)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "75537C0",
+          "on": "C7835C0100000000C842E9CB53C5F8",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1A8B92",
+          "on": "E929AC3A07909090",
+          "off": "C5FA11835C010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina (strong attack)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "75537F0",
+          "on": "C7835C0100000000C842E9EB52C5F8",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1A8AE2",
+          "on": "E909AD3A07909090",
+          "off": "C5FA11835C010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina (Sprinting)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "764FC50",
+          "on": "C7835C0100000000C842E92C92B5F8",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1A8E83",
+          "on": "E9C86D4A07909090",
+          "off": "C5FA11835C010000"
+        }
+      ]
+    },
+    {
+      "name": "No Freezing",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "759B820",
+          "on": "C783FC02000000000000E995CDC0F8",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1A85BC",
+          "on": "E95F323F07909090",
+          "off": "C5FA1183FC020000"
+        }
+      ]
+    },
+    {
+      "name": "No Hunger",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "759B7F0",
+          "on": "C783D402000000000000E905C4C0F8",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1A7BFC",
+          "on": "E9EF3B3F07909090",
+          "off": "C5FA1183D4020000"
+        }
+      ]
+    },
+    {
+      "name": "Instant Building",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "759B7B0",
+          "on": "41C787200100000000C842E9B435E8F8",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "41ED6B",
+          "on": "E940CA170790909090",
+          "off": "C4C17A118F20010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite items (while stacking have 2 items and Stack one)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "75B7500",
+          "on": "85C0C6474018E9DD94B5F8",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "1109E3",
+          "on": "E9186B4A07",
+          "off": "85C0894740"
+        }
+      ]
+    },
+    {
+      "name": "Items (on consume buggy in shortcut for healing and torches)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "75B7520",
+          "on": "85C0C647400CE99819B9F8",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "148EBE",
+          "on": "E95DE64607",
+          "off": "85C0894740"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

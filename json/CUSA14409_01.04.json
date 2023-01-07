@@ -1,1 +1,43 @@
-{"name":"Castle Crashers Remastered","id":"CUSA14409","version":"01.04","process":"eboot.bin","mods":[{"name":"Max Experience/Coins (kill an enemy go to map activate cheat restart game)","type":"checkbox","memory":[{"offset":"183980","on":"418B46106681FC30847509C7430C80240100EB0389430CE915F7EEFF","off":"00000000000000000000000000000000000000000000000000000000"},{"offset":"730AA","on":"E9D10811009090","off":"418B461089430C"}]},{"name":"Max Skill points(turn on in stats upgrade turn off and repeat)","type":"checkbox","memory":[{"offset":"1839C0","on":"418B46106681FCB0847509C7430C0000C642EB0389430CE9D5F6EEFF","off":"00000000000000000000000000000000000000000000000000000000"},{"offset":"730AA","on":"E9110911009090","off":"418B461089430C"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Castle Crashers Remastered",
+  "id": "CUSA14409",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Experience/Coins (kill an enemy go to map activate cheat restart game)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "183980",
+          "on": "418B46106681FC30847509C7430C80240100EB0389430CE915F7EEFF",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "730AA",
+          "on": "E9D10811009090",
+          "off": "418B461089430C"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill points(turn on in stats upgrade turn off and repeat)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1839C0",
+          "on": "418B46106681FCB0847509C7430C0000C642EB0389430CE9D5F6EEFF",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "730AA",
+          "on": "E9110911009090",
+          "off": "418B461089430C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

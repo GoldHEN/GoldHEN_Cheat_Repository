@@ -1,1 +1,107 @@
-{"name":"Potion Permit","id":"CUSA33782","version":"01.02","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"194B880","on":"8B4C24F466C7405CA000E91661E17E","off":"000000000000000000000000000000"},{"offset":"8076199E","on":"E9DD9E1E819090","off":"8B4C24F489485C"}]},{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"194B840","on":"8B4C24F466C740049600E9B60BD37E","off":"000000000000000000000000000000"},{"offset":"8067C3FE","on":"E93DF42C819090","off":"8B4C24F4894804"}]},{"name":"Max Rocks (on gather)","type":"checkbox","memory":[{"offset":"194B710","on":"8B4C24F4C7402896860100E9B535D67E","off":"00000000000000000000000000000000"},{"offset":"806AECCE","on":"E93DCA29819090","off":"8B4C24F4894828"}]},{"name":"Max Woods (on gather)","type":"checkbox","memory":[{"offset":"194B750","on":"8B4C24F4C7402496860100E95535D67E","off":"00000000000000000000000000000000"},{"offset":"806AECAE","on":"E99DCA29819090","off":"8B4C24F4894824"}]},{"name":"Max Materials/food/potions (on gather turn off when buying)","type":"checkbox","memory":[{"offset":"194B7B0","on":"8B4C24F466C74028E703E9265EC47E","off":"000000000000000000000000000000"},{"offset":"805915DE","on":"E9CDA13B819090","off":"8B4C24F4894828"}]},{"name":"Max Coins (on buy)","type":"checkbox","memory":[{"offset":"194B800","on":"8B4C24F4C74020DC410F00E98534D67E","off":"00000000000000000000000000000000"},{"offset":"806AEC8E","on":"E96DCB29819090","off":"8B4C24F4894820"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Potion Permit",
+  "id": "CUSA33782",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "194B880",
+          "on": "8B4C24F466C7405CA000E91661E17E",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "8076199E",
+          "on": "E9DD9E1E819090",
+          "off": "8B4C24F489485C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "194B840",
+          "on": "8B4C24F466C740049600E9B60BD37E",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "8067C3FE",
+          "on": "E93DF42C819090",
+          "off": "8B4C24F4894804"
+        }
+      ]
+    },
+    {
+      "name": "Max Rocks (on gather)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "194B710",
+          "on": "8B4C24F4C7402896860100E9B535D67E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "806AECCE",
+          "on": "E93DCA29819090",
+          "off": "8B4C24F4894828"
+        }
+      ]
+    },
+    {
+      "name": "Max Woods (on gather)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "194B750",
+          "on": "8B4C24F4C7402496860100E95535D67E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "806AECAE",
+          "on": "E99DCA29819090",
+          "off": "8B4C24F4894824"
+        }
+      ]
+    },
+    {
+      "name": "Max Materials/food/potions (on gather turn off when buying)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "194B7B0",
+          "on": "8B4C24F466C74028E703E9265EC47E",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "805915DE",
+          "on": "E9CDA13B819090",
+          "off": "8B4C24F4894828"
+        }
+      ]
+    },
+    {
+      "name": "Max Coins (on buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "194B800",
+          "on": "8B4C24F4C74020DC410F00E98534D67E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "806AEC8E",
+          "on": "E96DCB29819090",
+          "off": "8B4C24F4894820"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

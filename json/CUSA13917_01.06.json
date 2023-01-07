@@ -1,1 +1,87 @@
-{"name":"Far Cry® New Dawn","id":"CUSA13917","version":"01.06","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"29906C2","on":"909090","off":"FF5038"}]},{"name":"Infinite Endurance","type":"checkbox","memory":[{"offset":"298C793","on":"909090","off":"FF5038"}]},{"name":"Infinite Breath","type":"checkbox","memory":[{"offset":"298CA37","on":"909090","off":"FF5038"}]},{"name":"Max/Infinite Ammo/Medkits/Resources/Ethanol On Use","type":"checkbox","memory":[{"offset":"5FBFF90","on":"4429F0C743483F420F00E99B0522FB","off":"000000000000000000000000000000"},{"offset":"11E0534","on":"E957FADD0490","off":"4429F0894348"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"7FC5C920","on":"90E913A4C983","off":"000000000000"},{"offset":"38F6D32","on":"E9E95B367C9090","off":"4589B780010000"}]},{"name":"Lot Of Perk Points On Use","type":"checkbox","memory":[{"offset":"34E0F0D","on":"41898424C0000000","off":"4529AC24C0000000"}]}],"credits":["Celogamez"]}
+{
+  "name": "Far Cry® New Dawn",
+  "id": "CUSA13917",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "29906C2",
+          "on": "909090",
+          "off": "FF5038"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Endurance",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "298C793",
+          "on": "909090",
+          "off": "FF5038"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Breath",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "298CA37",
+          "on": "909090",
+          "off": "FF5038"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Ammo/Medkits/Resources/Ethanol On Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5FBFF90",
+          "on": "4429F0C743483F420F00E99B0522FB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "11E0534",
+          "on": "E957FADD0490",
+          "off": "4429F0894348"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5C920",
+          "on": "90E913A4C983",
+          "off": "000000000000"
+        },
+        {
+          "offset": "38F6D32",
+          "on": "E9E95B367C9090",
+          "off": "4589B780010000"
+        }
+      ]
+    },
+    {
+      "name": "Lot Of Perk Points On Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34E0F0D",
+          "on": "41898424C0000000",
+          "off": "4529AC24C0000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}
