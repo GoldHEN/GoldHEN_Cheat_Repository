@@ -1,87 +1,87 @@
 {
-    "name": "Mortal Kombat 11",
-    "id": "CUSA11379",
-    "version": "01.11",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "Mortal Kombat 11",
+  "id": "CUSA11379",
+  "version": "01.11",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Inf HP",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "5B8AD04",
-                    "on": "740F",
-                    "off": "7414"
-                }
-            ]
-        },
-        {
-            "name": "Easy Kill",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "5B8AD0D",
-                    "on": "C5FA118BA00B0000",
-                    "off": "C5FA1183A00B0000"
-                }
-            ]
-        },
-        {
-            "name": "P1 Full Defensive Meter",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "5B8AD66",
-                    "on": "740A",
-                    "off": "7400"
-                }
-            ]
-        },
-        {
-            "name": "P1 Full Offensive Meter",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "5B8AD5F",
-                    "on": "7411",
-                    "off": "7407"
-                }
-            ]
-        },
-        {
-            "name": "P2 No Defensive Meter",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "5B8AD27",
-                    "on": "6681FFD0C50F848D7EEAFDC5FA1084079C010000E97F7EEAFD",
-                    "off": "00000000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "3A32BB6",
-                    "on": "E96C81150290909090",
-                    "off": "C5FA1084079C010000"
-                }
-            ]
-        },
-        {
-            "name": "P2 No Offensive Meter",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "5B8AD40",
-                    "on": "664181FDD0C50F84C15AB9FDC4C17A10859C010000E9B35AB9FD",
-                    "off": "0000000000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "3720804",
-                    "on": "E937A5460290909090",
-                    "off": "C4C17A10859C010000"
-                }
-            ]
+          "offset": "5B8AD04",
+          "on": "740F",
+          "off": "7414"
         }
-    ],
-    "credits": [
-        "hejran7"
-    ]
+      ]
+    },
+    {
+      "name": "Easy Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B8AD0D",
+          "on": "C5FA118BA00B0000",
+          "off": "C5FA1183A00B0000"
+        }
+      ]
+    },
+    {
+      "name": "P1 Full Defensive Meter",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B8AD66",
+          "on": "740A",
+          "off": "7400"
+        }
+      ]
+    },
+    {
+      "name": "P1 Full Offensive Meter",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B8AD5F",
+          "on": "7411",
+          "off": "7407"
+        }
+      ]
+    },
+    {
+      "name": "P2 No Defensive Meter",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B8AD27",
+          "on": "6681FFD0C50F848D7EEAFDC5FA1084079C010000E97F7EEAFD",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3A32BB6",
+          "on": "E96C81150290909090",
+          "off": "C5FA1084079C010000"
+        }
+      ]
+    },
+    {
+      "name": "P2 No Offensive Meter",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B8AD40",
+          "on": "664181FDD0C50F84C15AB9FDC4C17A10859C010000E9B35AB9FD",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3720804",
+          "on": "E937A5460290909090",
+          "off": "C4C17A10859C010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
 }

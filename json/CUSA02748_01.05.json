@@ -1,88 +1,88 @@
 {
-    "name": "Just Cause 3",
-    "id": "CUSA02748",
-    "version": "01.05",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "Just Cause 3",
+  "id": "CUSA02748",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/Stamina/Magic",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Infinite Health/Stamina/Magic",
-            "hint": null,
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "1082ADE",
-                    "on": "90909090909090",
-                    "off": "C7434000000000"
-                }
-            ]
-        },
-        {
-            "name": "Infinite Ammo",
-            "hint": null,
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "D05482",
-                    "on": "9090909090909090",
-                    "off": "4689A4ABA8010000"
-                }
-            ]
-        },
-        {
-            "name": "No Reload",
-            "hint": null,
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "DDCC54",
-                    "on": "90909090909090",
-                    "off": "4489B328020000"
-                }
-            ]
-        },
-        {
-            "name": "No Weapon Spread(Hip Fire)",
-            "hint": null,
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "DC70F9",
-                    "on": "C4C17A118F68020000",
-                    "off": "C4C17A118768020000"
-                }
-            ]
-        },
-        {
-                "name": "No One Can Shoot",
-            "hint": null,
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "DC7192",
-                    "on": "C4C17A118F98010000",
-                    "off": "C4C17A118798010000"
-                }
-            ]
-        },
-        {
-            "name": "Wingsuit Infinite Boost (nop)",
-            "hint": null,
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset":"1487BFD",
-                    "on":"90909090909090909090",
-                    "off":"C4C17A118424642F0000"
-        },
-        {
-                    "offset":"0FD24CE",
-                    "on":"909090909090909090",
-                    "off":"C4C17A1197642F0000"
-                }
-            ]
+          "offset": "1082ADE",
+          "on": "90909090909090",
+          "off": "C7434000000000"
         }
-    ],
-    "credits": [
-        "TylerMods & CrazyMind"
-    ]
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D05482",
+          "on": "9090909090909090",
+          "off": "4689A4ABA8010000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DDCC54",
+          "on": "90909090909090",
+          "off": "4489B328020000"
+        }
+      ]
+    },
+    {
+      "name": "No Weapon Spread(Hip Fire)",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DC70F9",
+          "on": "C4C17A118F68020000",
+          "off": "C4C17A118768020000"
+        }
+      ]
+    },
+    {
+      "name": "No One Can Shoot",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DC7192",
+          "on": "C4C17A118F98010000",
+          "off": "C4C17A118798010000"
+        }
+      ]
+    },
+    {
+      "name": "Wingsuit Infinite Boost (nop)",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1487BFD",
+          "on": "90909090909090909090",
+          "off": "C4C17A118424642F0000"
+        },
+        {
+          "offset": "0FD24CE",
+          "on": "909090909090909090",
+          "off": "C4C17A1197642F0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TylerMods & CrazyMind"
+  ]
 }

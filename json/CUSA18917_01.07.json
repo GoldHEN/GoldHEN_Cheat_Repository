@@ -1,27 +1,27 @@
 {
-    "name": "Neon Abyss",
-    "id": "CUSA18917",
-    "version": "01.07",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "Neon Abyss",
+  "id": "CUSA18917",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Ultimate All(testing)",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Ultimate All(testing)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC5EE20",
-                    "on": "5148B90000000000407F404A894CE83059E9FADA4602",
-                    "off": "00000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "820CC929",
-                    "on": "E9F224B9FD9090",
-                    "off": "C4A17B1144E830"
-                }
-            ]
+          "offset": "7FC5EE20",
+          "on": "5148B90000000000407F404A894CE83059E9FADA4602",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "820CC929",
+          "on": "E9F224B9FD9090",
+          "off": "C4A17B1144E830"
         }
-    ],
-    "credits": [
-        "Wander FW9.00"
-    ]
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
 }

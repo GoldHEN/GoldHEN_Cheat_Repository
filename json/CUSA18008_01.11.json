@@ -1,201 +1,201 @@
 {
-    "name": "Resident Evil Village",
-    "id": "CUSA18008",
-    "version": "01.11",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "Resident Evil Village",
+  "id": "CUSA18008",
+  "version": "01.11",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Infinite Health",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "544B69F",
-                    "on": "C5F82ED0",
-                    "off": "C5F82EC1"
-                }
-            ]
-        },
-        {
-            "name": "Infinite Ammo",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC5D0F0",
-                    "on": "41C744244C63000000E980F54B83",
-                    "off": "0000000000000000000000000000"
-                },
-                {
-                    "offset": "311C679",
-                    "on": "E9720AB47C",
-                    "off": "41295C244C"
-                },
-                {
-                    "offset": "7FC5D200",
-                    "on": "0F84BAF44B83C7415863000000E9A5F44B83",
-                    "off": "000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "311C6B2",
-                    "on": "E9490BB47C",
-                    "off": "7412295958"
-                }
-            ]
-        },
-        {
-            "name": "Infinite money",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC5F020",
-                    "on": "01D141C74748FFE0F505E9D5E34883",
-                    "off": "000000000000000000000000000000"
-                },
-                {
-                    "offset": "30ED3FE",
-                    "on": "E91D1CB77C90",
-                    "off": "01D141894F48"
-                },
-                {
-                    "offset": "7FC5D660",
-                    "on": "41C7862C010000FFE0F505E9853C4883",
-                    "off": "00000000000000000000000000000000"
-                },
-                {
-                    "offset": "30E12EE",
-                    "on": "E96DC3B77C9090",
-                    "off": "4589BE2C010000"
-                }
-            ]
-        },
-        {
-            "name": "infinite items",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC5ECE0",
-                    "on": "41295C244C41C744244C63000000E98BD94B83",
-                    "off": "00000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "311C679",
-                    "on": "E96226B47C",
-                    "off": "41295C244C"
-                }
-            ]
-        },
-        {
-            "name": "Rose - Infinite Magic",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC5F0A0",
-                    "on": "85F6C74214E7030000E98FD06586",
-                    "off": "0000000000000000000000000000"
-                },
-                {
-                    "offset": "62BC138",
-                    "on": "E9632F9A79",
-                    "off": "85F6894A14"
-                }
-            ]
-        },
-        {
-            "name": "Rose - Infinite Plants",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC5D2A0",
-                    "on": "4429E1C7404C63000000E9BBFF4B83",
-                    "off": "000000000000000000000000000000"
-                },
-                {
-                    "offset": "311D264",
-                    "on": "E93700B47C90",
-                    "off": "4429E189484C"
-                }
-            ]
-        },        
-        {
-            "name": "Info crafting materials by LMN",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "section": "1",
-                    "offset": "54AB9F1",
-                    "on": "9090909090",
-                    "off": "E84A13C7FD"
-                }
-            ]
-        },
-        {
-            "name": "Inf white flower and First Aid Med usage by LMN",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "section": "1",
-                    "offset": "62C04DA",
-                    "on": "909090909090",
-                    "off": "FF9070060000"
-                }
-            ]
-        },
-        {
-            "name": "Inf Pipe Bombs by LMN",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "section": "1",
-                    "offset": "3110583",
-                    "on": "9090909090",
-                    "off": "E838BABF02"
-                }
-            ]
-        },
-        {
-            "name": "Godmode by JustGotenks",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "544B6A3",
-                    "on": "E9F039D5059090",
-                    "off": "C5FA114814720A"
-                },
-                {
-                    "offset": "B19F098",
-                    "on": "83783C027505F30F104814C5FA114814E9FDC52AFA909090",
-                    "off": "000000000000000000000000000000000000000000000000"
-                }
-            ]
-        },
-        {
-            "name": "One-hit Kill by JustGotenks",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "544B695",
-                    "on": "E94E3AD505",
-                    "off": "C5F25C4DD4"
-                },
-                {
-                    "offset": "B19F0E8",
-                    "on": "83783C027409C5F057C9E9A3C52AFAC5F25C4DD4E999C52AFA909090",
-                    "off": "00000000000000000000000000000000000000000000000000000000"
-                }
-            ]
-        },    
-        {
-            "name": "No Reload by JustGotenks",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "4A98FA6",
-                    "on": "B900000000",
-                    "off": "B901000000"
-                }
-            ]        
+          "offset": "544B69F",
+          "on": "C5F82ED0",
+          "off": "C5F82EC1"
         }
-    ],
-    "credits": [
-        "fbin, LMN & JustGotenks, merge and trad cheats by Chronoss"
-    ]
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5D0F0",
+          "on": "41C744244C63000000E980F54B83",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "311C679",
+          "on": "E9720AB47C",
+          "off": "41295C244C"
+        },
+        {
+          "offset": "7FC5D200",
+          "on": "0F84BAF44B83C7415863000000E9A5F44B83",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "311C6B2",
+          "on": "E9490BB47C",
+          "off": "7412295958"
+        }
+      ]
+    },
+    {
+      "name": "Infinite money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F020",
+          "on": "01D141C74748FFE0F505E9D5E34883",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "30ED3FE",
+          "on": "E91D1CB77C90",
+          "off": "01D141894F48"
+        },
+        {
+          "offset": "7FC5D660",
+          "on": "41C7862C010000FFE0F505E9853C4883",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "30E12EE",
+          "on": "E96DC3B77C9090",
+          "off": "4589BE2C010000"
+        }
+      ]
+    },
+    {
+      "name": "infinite items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5ECE0",
+          "on": "41295C244C41C744244C63000000E98BD94B83",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "311C679",
+          "on": "E96226B47C",
+          "off": "41295C244C"
+        }
+      ]
+    },
+    {
+      "name": "Rose - Infinite Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F0A0",
+          "on": "85F6C74214E7030000E98FD06586",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "62BC138",
+          "on": "E9632F9A79",
+          "off": "85F6894A14"
+        }
+      ]
+    },
+    {
+      "name": "Rose - Infinite Plants",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5D2A0",
+          "on": "4429E1C7404C63000000E9BBFF4B83",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "311D264",
+          "on": "E93700B47C90",
+          "off": "4429E189484C"
+        }
+      ]
+    },
+    {
+      "name": "Info crafting materials by LMN",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "1",
+          "offset": "54AB9F1",
+          "on": "9090909090",
+          "off": "E84A13C7FD"
+        }
+      ]
+    },
+    {
+      "name": "Inf white flower and First Aid Med usage by LMN",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "1",
+          "offset": "62C04DA",
+          "on": "909090909090",
+          "off": "FF9070060000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Pipe Bombs by LMN",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "1",
+          "offset": "3110583",
+          "on": "9090909090",
+          "off": "E838BABF02"
+        }
+      ]
+    },
+    {
+      "name": "Godmode by JustGotenks",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "544B6A3",
+          "on": "E9F039D5059090",
+          "off": "C5FA114814720A"
+        },
+        {
+          "offset": "B19F098",
+          "on": "83783C027505F30F104814C5FA114814E9FDC52AFA909090",
+          "off": "000000000000000000000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "One-hit Kill by JustGotenks",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "544B695",
+          "on": "E94E3AD505",
+          "off": "C5F25C4DD4"
+        },
+        {
+          "offset": "B19F0E8",
+          "on": "83783C027409C5F057C9E9A3C52AFAC5F25C4DD4E999C52AFA909090",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload by JustGotenks",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4A98FA6",
+          "on": "B900000000",
+          "off": "B901000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fbin, LMN & JustGotenks, merge and trad cheats by Chronoss"
+  ]
 }

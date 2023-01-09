@@ -1,70 +1,70 @@
 {
-    "name": "Thief",
-    "id": "CUSA00250",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "Thief",
+  "id": "CUSA00250",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health ",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Infinite Health ",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "9CCAF1",
-                    "on": "9090909090909090",
-                    "off": "C5FA1183E8000000"
-                }
-            ]
-        },
-        {
-            "name": "Infinite Focus",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC49FF0",
-                    "on": "41C7879000000000007A44E9B028BF80",
-                    "off": "00000000000000000000000000000000"
-                },
-                {
-                    "offset": "83C8A7",
-                    "on": "E944D7407F90909090",
-                    "off": "C4C17A118790000000"
-                }
-            ]
-        },
-        {
-            "name": "Max coins (on steal turn off when buying)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC4B920",
-                    "on": "0F4ED8C7067F969800E9E96D0881",
-                    "off": "0000000000000000000000000000"
-                },
-                {
-                    "offset": "CD2712",
-                    "on": "E90992F77E",
-                    "off": "0F4ED8891E"
-                }
-            ]
-        },
-        {
-            "name": "max Arrows (on use have 2)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC4B950",
-                    "on": "4529E7C60163E9126A0881",
-                    "off": "0000000000000000000000"
-                },
-                {
-                    "offset": "CD2367",
-                    "on": "E9E495F77E90",
-                    "off": "4529E7448939"
-                }
-            ]
+          "offset": "9CCAF1",
+          "on": "9090909090909090",
+          "off": "C5FA1183E8000000"
         }
-    ],
-    "credits": [
-        "Wander FW9.00"
-    ]
+      ]
+    },
+    {
+      "name": "Infinite Focus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC49FF0",
+          "on": "41C7879000000000007A44E9B028BF80",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "83C8A7",
+          "on": "E944D7407F90909090",
+          "off": "C4C17A118790000000"
+        }
+      ]
+    },
+    {
+      "name": "Max coins (on steal turn off when buying)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4B920",
+          "on": "0F4ED8C7067F969800E9E96D0881",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "CD2712",
+          "on": "E90992F77E",
+          "off": "0F4ED8891E"
+        }
+      ]
+    },
+    {
+      "name": "max Arrows (on use have 2)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4B950",
+          "on": "4529E7C60163E9126A0881",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "CD2367",
+          "on": "E9E495F77E90",
+          "off": "4529E7448939"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
 }

@@ -1,77 +1,77 @@
 {
-    "name": "Kao the Kangaroo",
-    "id": "CUSA30891",
-    "version": "01.03",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "Kao the Kangaroo",
+  "id": "CUSA30891",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Infinite Health",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "section": "1",
-                    "offset": "5B43B60",
-                    "on": "807B70017506C6434024EB06894340488B03E935BDFDFA",
-                    "off": "0000000000000000000000000000000000000000000000"
-                },
-                {
-                    "section": "1",
-                    "offset": "B1F8A6",
-                    "on": "E9B542020590",
-                    "off": "894340488B03"
-                }
-            ]
+          "section": "1",
+          "offset": "5B43B60",
+          "on": "807B70017506C6434024EB06894340488B03E935BDFDFA",
+          "off": "0000000000000000000000000000000000000000000000"
         },
         {
-            "name": "infinite special attack bar",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "5B43A70",
-                    "on": "C787B40200000000C842E9AF6EE5FA57616E646572204657392E3030",
-                    "off": "000000000000000000000000000000"
-                },
-                {
-                    "offset": "99A926",
-                    "on": "E945911A05909090",
-                    "off": "C5FA1187B4020000"
-                }
-            ]
-        },
-        {
-            "name": "Max Coins,Runes,Crystals,Scrolls",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "5B43A20",
-                    "on": "480F44C8C7013F420F00E96D1CFEFA",
-                    "off": "000000000000000000000000000000"
-                },
-                {
-                    "offset": "B25696",
-                    "on": "E985E3010590",
-                    "off": "480F44C80111"
-                }
-            ]
-        },
-        {
-            "name": "Infinite lives (on gain)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "5B40E00",
-                    "on": "C747480F270000807F3200E9788FE9FA",
-                    "off": "00000000000000000000000000000000"
-                },
-                {
-                    "offset": "9D9D81",
-                    "on": "E97A7016059090",
-                    "off": "894748807F3200"
-                }
-            ]
+          "section": "1",
+          "offset": "B1F8A6",
+          "on": "E9B542020590",
+          "off": "894340488B03"
         }
-    ],
-    "credits": [
-        "Wander FW9.00"
-    ]
+      ]
+    },
+    {
+      "name": "infinite special attack bar",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B43A70",
+          "on": "C787B40200000000C842E9AF6EE5FA57616E646572204657392E3030",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "99A926",
+          "on": "E945911A05909090",
+          "off": "C5FA1187B4020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Coins,Runes,Crystals,Scrolls",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B43A20",
+          "on": "480F44C8C7013F420F00E96D1CFEFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "B25696",
+          "on": "E985E3010590",
+          "off": "480F44C80111"
+        }
+      ]
+    },
+    {
+      "name": "Infinite lives (on gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B40E00",
+          "on": "C747480F270000807F3200E9788FE9FA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "9D9D81",
+          "on": "E97A7016059090",
+          "off": "894748807F3200"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
 }

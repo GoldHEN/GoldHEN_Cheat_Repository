@@ -1,27 +1,27 @@
 {
-    "name": "Dragons Legends of The Nine Realms",
-    "id": "CUSA28381",
-    "version": "01.01",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "Dragons Legends of The Nine Realms",
+  "id": "CUSA28381",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Cristais Infinitos",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Cristais Infinitos",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC5DB50",
-                    "on": "48C1E204C744102C9F860100E96453C001",
-                    "off": "0000000000000000000000000000000000"
-                },
-                {
-                    "offset": "81862EBD",
-                    "on": "E98EAC3FFE909090",
-                    "off": "48C1E204894C102C"
-                }
-            ]
+          "offset": "7FC5DB50",
+          "on": "48C1E204C744102C9F860100E96453C001",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "81862EBD",
+          "on": "E98EAC3FFE909090",
+          "off": "48C1E204894C102C"
         }
-    ],
-    "credits": [
-        "fbin"
-    ]
+      ]
+    }
+  ],
+  "credits": [
+    "fbin"
+  ]
 }

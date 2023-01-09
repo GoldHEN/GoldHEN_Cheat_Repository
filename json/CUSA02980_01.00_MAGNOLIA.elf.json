@@ -1,44 +1,44 @@
 {
-    "name": "Borderlands THC: Borderlands 2",
-    "id": "CUSA02980",
-    "version": "01.00",
-    "process": "MAGNOLIA.elf",
-    "mods": [
+  "name": "Borderlands THC: Borderlands 2",
+  "id": "CUSA02980",
+  "version": "01.00",
+  "process": "MAGNOLIA.elf",
+  "mods": [
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Infinite Ammo",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "743092",
-                    "on": "C5FA119BA0000000",
-                    "off": "9090909090909090"
-                }
-            ]
-        },
-        {
-            "name": "Infinite Skillpoints / Badass-Tokens",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "5bedb",
-                    "on": "0345C8",
-                    "off": "2B45C8"
-                }
-            ]
-        },
-        {
-            "name": "Set Max Money / Eridium / Tokens",
-            "type": "button",
-            "memory": [
-                {
-                    "offset": "c72be9",
-                    "on": "B8FFFFFF7F909090",
-                    "off": "B8FFFFFF7F909090"
-                }
-            ]
+          "offset": "743092",
+          "on": "C5FA119BA0000000",
+          "off": "9090909090909090"
         }
-    ],
-    "credits": [
-        "DeathRGH"
-    ]
+      ]
+    },
+    {
+      "name": "Infinite Skillpoints / Badass-Tokens",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5bedb",
+          "on": "0345C8",
+          "off": "2B45C8"
+        }
+      ]
+    },
+    {
+      "name": "Set Max Money / Eridium / Tokens",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "c72be9",
+          "on": "B8FFFFFF7F909090",
+          "off": "B8FFFFFF7F909090"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
 }
