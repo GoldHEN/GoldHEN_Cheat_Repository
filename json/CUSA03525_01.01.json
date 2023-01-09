@@ -1,0 +1,152 @@
+{
+    "name": "GOD EATER RESURRECTION",
+    "id": "CUSA03525",
+    "version": "01.01",
+    "process": "eboot.bin",
+    "mods": [
+        {
+            "name": "Infinite Health",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "B6FDF0",
+                    "on": "C5FA1045ECC5FA1110E9D8C19B7F",
+                    "off": "0000000000000000000000000000"
+                },
+                {
+                    "offset": "8052BFCD",
+                    "on": "E91E3E648090909090",
+                    "off": "C5FA1045ECC5FA1100"
+                }
+            ]
+        },
+        {
+            "name": "Infinite OP ( Ammo )",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "B6FDD8",
+                    "on": "C5FA115004E9F5C59B7F",
+                    "off": "00000000000000000000"
+                },
+                {
+                    "offset": "8052C3D2",
+                    "on": "E9013A6480",
+                    "off": "C5FA114004"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Stamina",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "B6FE00",
+                    "on": "C5FA115008E93DC99B7F",
+                    "off": "00000000000000000000"
+                },
+                {
+                    "offset": "8052C742",
+                    "on": "E9B9366480",
+                    "off": "C5FA114008"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Burst Gauge ",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "B6FDE2",
+                    "on": "C7407000007A44E9D6D1C77F",
+                    "off": "000000000000000000000000"
+                },
+                {
+                    "offset": "807ECFBF",
+                    "on": "E91E2E3880",
+                    "off": "C5FA114070"
+                }
+            ]
+        },
+        {
+            "name": "Max Money",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "B6FDB0",
+                    "on": "C787905B0000FFC99A3B488B87905B0000E9E1849A7F526564646576696C383220465720392E3030",
+                    "off": "00000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "8051823A",
+                    "on": "E9717B65809090",
+                    "off": "488B87905B0000"
+                }
+            ]
+        },
+        {
+            "name": "Max AP",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "B6FE10",
+                    "on": "488B7C24F8C7079F8601008B07E96A6EA07F",
+                    "off": "000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "80576C85",
+                    "on": "E986915F809090",
+                    "off": "488B7C24F88B07"
+                }
+            ]
+        },
+        {
+            "name": "Max GAP",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "B6FE30",
+                    "on": "66C780AE6B0100E7038B80AE6B0100E9B945987F",
+                    "off": "0000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "804F43F6",
+                    "on": "E935BA67809090",
+                    "off": "0FBF80AE6B0100"
+                }
+            ]
+        },
+        {
+            "name": "Max Items ( on use )",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "B6FE56",
+                    "on": "6641B863006645894104E9235E987F",
+                    "off": "000000000000000000000000000000"
+                },
+                {
+                    "offset": "804F5C83",
+                    "on": "E9CEA16780",
+                    "off": "6645894104"
+                }
+            ]
+        },
+        {
+            "name": "Freeze Timer",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "section": "44",
+                    "offset": "ED733",
+                    "on": "668988A0FC1200",
+                    "off": "668988A0FC1200"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "Reddevil82 ",
+        "Wander 9.00"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Street Figther 4",
+  "id": "CUSA01839",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "INF SUPER BOTH PLAYER",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C5B800",
+          "on": "BA0000E80341899424286D0000E9226241FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "71A2C",
+          "on": "E9CF9DBE00909090",
+          "off": "41899424286D0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Super Player 1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C5B800",
+          "on": "4983FF017405BA0000E80341899424286D0000E91C6241FF",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "71A2C",
+          "on": "E9CF9DBE00909090",
+          "off": "41899424286D0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ultra Combo PLAYER 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C5B820",
+          "on": "4883FB01750749C7C5000090014589AE3C6D0000E917A441FF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "75C49",
+          "on": "E9D25BBE009090",
+          "off": "4589AE3C6D0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ultra Combo Player 1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C5B820",
+          "on": "4883FB01740749C7C5000090014589AE3C6D0000E917A441FF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "75C49",
+          "on": "E9D25BBE009090",
+          "off": "4589AE3C6D0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Aran"
+  ]
+}

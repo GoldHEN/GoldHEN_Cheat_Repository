@@ -1,0 +1,127 @@
+{
+    "name": "RAGE2",
+    "id": "CUSA10300",
+    "version": "01.07",
+    "process": "eboot.bin",
+    "master": {
+        "challenged": "yes",
+        "memory": [
+            {
+                "offset": "02C95200",
+                "on": "83BBF402000011750F6689930E030000E99F0206FF6631D26689930E030000E9900206FF"
+            },
+            {
+                "offset": "01CF54AD",
+                "on": "E94EFDF9009090"
+            }
+        ]
+    },
+    "mods": [
+        {
+            "name": "Max Inf HP",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "02C95209",
+                    "on": "66898B0E030000",
+                    "off": "6689930E030000"
+                }
+            ]
+        },
+        {
+            "name": "One Hit Kill",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "02C95207",
+                    "on": "750C",
+                    "off": "750F"
+                }
+            ]
+        },
+        {
+            "name": "No Reload",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "01DE6E60",
+                    "on": "8BB70404000089B700040000C3",
+                    "off": "89B700040000C3909090909090"
+                }
+            ]
+        },
+        {
+            "name": "Inf Ammo cave 1",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "02C95237",
+                    "on": "6681FCE0ED7404458975200F853E000AFFE929000AFF",
+                    "off": "00000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "01D35270",
+                    "on": "E9C2FFF50090",
+                    "off": "458975207510"
+                }
+            ]
+        },
+        {
+            "name": "Max Inf Cash cave 3",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "02C95224",
+                    "on": "41891424C74120FFC99A3B8B5120E903440FFF",
+                    "off": "00000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "01D89633",
+                    "on": "E9ECBBF0009090",
+                    "off": "418914248B5120"
+                }
+            ]
+        },
+        {
+            "name": "Inf Items\\Throwables",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "01D310C4",
+                    "on": "90909090",
+                    "off": "44896820"
+                }
+            ]
+        },
+        {
+            "name": "Vehicle Inf Boost",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "0245EA82",
+                    "on": "90909090",
+                    "off": "C5FA5CC1"
+                }
+            ]
+        },
+        {
+            "name": "Max Inf Project Points cave 2",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "02C9524D",
+                    "on": "0F84938069FFC74220FFC99A3B8B4220E9818069FF",
+                    "off": "000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "0232D2DE",
+                    "on": "E96A7F9600",
+                    "off": "740C8B4220"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "hejran7"
+    ]
+}

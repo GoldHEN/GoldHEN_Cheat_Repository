@@ -1,0 +1,86 @@
+{
+    "name": "STRANGER OF PARADISE",
+    "id": "CUSA29578",
+    "version": "01.12",
+    "process": "eboot.bin",
+    "mods": [
+        {
+            "name": "STRANGER OF PARADISE Backport 5.05",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "2EFF2B1",
+                    "on": "C390",
+                    "off": "0000"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Health",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "2EFF2C1",
+                    "on": "486B412064488B41184889412090E93CE552FD",
+                    "off": "00000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "42D80B",
+                    "on": "E9B11AAD02",
+                    "off": "486B412064"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Magic + Max",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "2EFF2E0",
+                    "on": "C781D413000000001644C5FA1081D4130000C5FA1181C8130000C5F82E81C813000090E9D3EF16FD",
+                    "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "6E2D3",
+                    "on": "E90810E902909090",
+                    "off": "C5F82E81C8130000"
+                }
+            ]
+        },
+        {
+            "name": "Disable Enemy Gauge",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "2EFF320",
+                    "on": "80BBD80100000174124883FA2B740CC5F82E448B10E9613F20FD90C7448B1000000000C5F82E448B10E94D3F20FD",
+                    "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "103295",
+                    "on": "E986C0DF0290",
+                    "off": "C5F82E448B10"
+                }
+            ]
+        },
+        {
+            "name": "Job points 99 use / level up",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "2EFF360",
+                    "on": "BA630000008910C6070190E9A1965AFD",
+                    "off": "00000000000000000000000000000000"
+                },
+                {
+                    "offset": "4A8A0C",
+                    "on": "E94F69A502",
+                    "off": "8910C60701"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "d01v"
+    ]
+}

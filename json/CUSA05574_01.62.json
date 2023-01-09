@@ -1,0 +1,107 @@
+{
+    "name": "The Witcher 3: Wild Hunt – Game of the Year Edition",
+    "id": "CUSA05574",
+    "version": "01.62",
+    "process": "eboot.bin",
+    "mods": [
+        {
+            "name": "99999 Coins (on sell will affect items when buying)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24F38A0",
+                    "on": "4883FA2C74144883FA2D740E4401E0C7013F420F00EB054401E08901E9C1AB3BFE57616E646572204657392E3030",
+                    "off": "000000000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "8AE47D",
+                    "on": "E91E54C401",
+                    "off": "4401E08901"
+                }
+            ]
+        },
+        {
+            "name": "9999 Weight",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24F22A0",
+                    "on": "4883FB00740CC4817A104CE70CE90C8675FE43817CE71000007042740CC4817A104CE70CE9F58575FE43C744E70C003C1C4643C744E710003C1C46E9DE8575FE",
+                    "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "C4A8B7",
+                    "on": "E9E4798A019090",
+                    "off": "C4817A104CE70C"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Health (may not work for some monsters and soldiers)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24F3AB0",
+                    "on": "80BC818C000000007509C704810000FA45EB05C5FA110481E9C2A2C0FE",
+                    "off": "0000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "10FDD8A",
+                    "on": "E9215D3F01",
+                    "off": "C5FA110481"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Health/1hit kill (shared with stamina and horse may not work)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24F35A0",
+                    "on": "80BC818C000000007509C704810000FA45EB080F57C0C5FA110481E9CFA7C0FE",
+                    "off": "0000000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "10FDD8A",
+                    "on": "E911583F01",
+                    "off": "C5FA110481"
+                }
+            ]
+        },
+        {
+            "name": "Experience x100 after quest completion",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24F37F0",
+                    "on": "4839F3750C418B04240345C8E9F120DFFE41817C2404E80300007D02EBE7B800010000F765C841030424E9D320DFFE",
+                    "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "12E58EB",
+                    "on": "E900DF20019090",
+                    "off": "418B04240345C8"
+                }
+            ]
+        },
+        {
+            "name": "999 Skill points (on spend)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24F3760",
+                    "on": "4839F3750C418B04242B45C8E95122DFFE41817C240CE80300007D02EBE7B8E7030000E93A22DFFE",
+                    "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "12E59BB",
+                    "on": "E9A0DD20019090",
+                    "off": "418B04242B45C8"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "Wander & Cosmaty FW9.00"
+    ]
+}

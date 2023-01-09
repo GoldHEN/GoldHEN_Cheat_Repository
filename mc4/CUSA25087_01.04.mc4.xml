@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA25087" Game="Clid the Snail" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Stamina">
+</Cheat>
+<Cheat Text="Max Grenades ( on use )">
+</Cheat>
+<Cheat Text="Max First Aid Kits ( on use )">
+</Cheat>
+<Cheat Text="Max Money">
+</Cheat>
+</Trainer>
