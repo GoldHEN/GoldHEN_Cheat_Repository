@@ -1,6 +1,7 @@
 SLUS20461_01.00.shn=BloodRayne
 SLUS21550_01.00.shn=Metal Slug Anthology
 CUSA11379_01.11.shn=Mortal Kombat 11
+CUSA15089_01.03.shn=(null)
 CUSA11898_01.09.shn=Divinity Original Sin 2 Definitive Edition
 CUSA18880_01.01.shn=Elden Ring
 CUSA24853_02.03.shn=CUSA24853_00-KENA
@@ -52,6 +53,7 @@ SLES53872_01.00.shn=Samurai Aces
 CUSA11260_01.12.shn=Death Stranding
 CUSA15526_01.27.shn=Nioh 2
 SLPM62385_01.00.shn=Golden Axe
+CUSA24605_01.12.shn=Two point campus
 SLUS20636_01.00.shn=Suffering, The
 SLUS21390_01.00.shn=Urban Chaos - Riot Response
 CUSA03173_01.09.shn=Bloodborne
