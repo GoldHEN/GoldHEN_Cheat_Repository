@@ -39,7 +39,7 @@ jobs:
         run: |
           export LD_LIBRARY_PATH=$(pwd)
           FILES="shn/*.shn"
-          clang .ci/test.c -lmxml
+          clang .ci/xml.c -lmxml
           for f in $FILES
           do
             ./a.out $f
