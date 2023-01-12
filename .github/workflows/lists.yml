@@ -19,20 +19,24 @@ jobs:
 
       - name: checkout
         uses: actions/checkout@v3
+        with:
+          repository: michaelrsweet/mxml
+          path: mxml
       - name: configure
+        working-directory: mxml
         env:
           CC: /usr/bin/gcc
         run: ./configure --enable-debug --enable-maintainer
       - name: make
+        working-directory: mxml
         run: |
           sudo make
           sudo make install
-        - name: Test XML data
+      - name: Test XML data
         run: |
           export LD_LIBRARY_PATH=$(pwd)
           clang test.c -lmxml
           ./a.out
-
 
       - name: Create list files
         run: |
