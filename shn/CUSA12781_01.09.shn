@@ -17,7 +17,7 @@
       <ValueOff>0F-4F-FA-89-78-04</ValueOff>
     </Cheatline>
   </Cheat> 
-  <Cheat Text="Max Orbs & matrilas on get">
+  <Cheat Text="Max Orbs + matrilas on get">
     <Cheatline>
       <Offset>2293800</Offset>
       <Section>0</Section>
