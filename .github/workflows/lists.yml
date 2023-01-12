@@ -44,6 +44,12 @@ jobs:
           do
             ./a.out $f
           done
+          FILES="mc4/*.mc4"
+          clang .ci/xml.c -lmxml
+          for f in $FILES
+          do
+            ./a.out $f
+          done
 
       - name: Create list files
         run: |
