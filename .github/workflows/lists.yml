@@ -37,7 +37,7 @@ jobs:
 
       - name: Test XML data
         run: |
-          export LD_LIBRARY_PATH=$(pwd)
+          export LD_LIBRARY_PATH=$(pwd)/mxml
           FILES="shn/*.shn"
           clang .ci/xml.c -lmxml
           for f in $FILES
