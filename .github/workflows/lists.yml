@@ -5,7 +5,6 @@ name: Push commit
 
 on:
   push:
-    branches: [ main ]
 
 jobs:
   gamelist:
