@@ -38,8 +38,12 @@ jobs:
       - name: Test XML data
         run: |
           export LD_LIBRARY_PATH=$(pwd)
+          FILES="shn/*.shn"
           clang .ci/test.c -lmxml
-          ./a.out
+          for f in $FILES
+          do
+            ./a.out $f
+          done
 
       - name: Create list files
         run: |
