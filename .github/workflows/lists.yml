@@ -11,6 +11,7 @@ jobs:
   gamelist:
     runs-on: ubuntu-latest
     steps:
+
       - name: Checkout files
         uses: actions/checkout@v3
 
@@ -22,16 +23,19 @@ jobs:
         with:
           repository: michaelrsweet/mxml
           path: mxml
+
       - name: configure
         working-directory: mxml
         env:
           CC: /usr/bin/gcc
         run: ./configure --enable-debug --enable-maintainer
+
       - name: make
         working-directory: mxml
         run: |
           sudo make
           sudo make install
+
       - name: Test XML data
         run: |
           export LD_LIBRARY_PATH=$(pwd)
