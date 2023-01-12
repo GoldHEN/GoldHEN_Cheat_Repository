@@ -17,6 +17,23 @@ jobs:
       - name: Normalize json data
         run: python .ci/normalize-json.py
 
+      - name: checkout
+        uses: actions/checkout@v3
+      - name: configure
+        env:
+          CC: /usr/bin/gcc
+        run: ./configure --enable-debug --enable-maintainer
+      - name: make
+        run: |
+          sudo make
+          sudo make install
+        - name: Test XML data
+        run: |
+          export LD_LIBRARY_PATH=$(pwd)
+          clang test.c -lmxml
+          ./a.out
+
+
       - name: Create list files
         run: |
           clang .ci/list_files.c
