@@ -55,6 +55,7 @@ int main(int argc, char *argv[]) {
             free(buffer);
             return 1;
         }
+    printf("passed: %s\n", input_file);
     return 0;
     }
     printf("File %s empty\n", input_file);
