@@ -38,7 +38,7 @@ jobs:
       - name: Test XML data
         run: |
           export LD_LIBRARY_PATH=$(pwd)
-          clang test.c -lmxml
+          clang .ci/test.c -lmxml
           ./a.out
 
       - name: Create list files
