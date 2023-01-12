@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="world war z" Moder="hp" Cusa="CUSA13930" Version="01.21" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="inf ammo">
+    <Cheatline>
+      <Offset>8D3F1F</Offset>
+      <Section>18</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-8A-46-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

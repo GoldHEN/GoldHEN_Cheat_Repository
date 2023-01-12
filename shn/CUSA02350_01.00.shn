@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Until Dawn: Rush Of Blood" Moder="Cissa" Cusa="CUSA02350" Version="01.00" Process="eboot.bin">
+  <Genres Name="Arcade" />
+  <Genres Name="Horror" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Ammo/No Reload">
+    <Cheatline>
+      <Offset>BC9CD2</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

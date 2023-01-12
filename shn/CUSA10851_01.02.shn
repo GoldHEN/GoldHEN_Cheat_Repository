@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Burnout Paradise Remastered" Moder="illusion" Cusa="CUSA10851" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Racing" />
+  <Items />
+  <Cheat Text="Inf Boost + Endless Burnout Chain">
+    <Cheatline>
+      <Offset>25CB52</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-83-9C-00-00-00</ValueOn>
+      <ValueOff>C5-FA-5D-83-9C-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25A6B4</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-87-9C-00-00-00</ValueOn>
+      <ValueOff>C5-FA-5D-87-9C-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25A661</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-4D</ValueOn>
+      <ValueOff>EB-35</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25BDBC</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-83-9C-00-00-00</ValueOn>
+      <ValueOff>C5-FA-5D-83-9C-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

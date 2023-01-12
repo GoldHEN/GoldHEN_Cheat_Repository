@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="NHL 21" Moder="DementedAI" Cusa="CUSA18182" Version="01.00" Process="eboot.bin">
+  <Genres Name="Sports" />
+  <Items />
+  <Cheat Text="add skill points 120">
+    <Cheatline>
+      <Offset>46341C6</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-4E-00-00-00-90</ValueOn>
+      <ValueOff>2B-95-80-A8-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
