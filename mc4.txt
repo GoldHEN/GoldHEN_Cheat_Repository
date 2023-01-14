@@ -51,6 +51,7 @@ CUSA00897_01.00.mc4.xml=inFAMOUS - First Light
 CUSA00411_01.27.mc4.xml=Grand Theft Auto V
 CUSA09960_01.08.mc4.xml=Friday The 13Th The Game
 CUSA05088_01.00.mc4.xml=Dragonball Xenoverse 2
+CUSA14566_01.50.mc4.xml=PC Building Simulator
 CUSA03522_01.13_default_mp.elf.mc4.xml=COD: Modern Warfare Remastered
 CUSA08809_01.00.mc4.xml=Shadow of the Colossus
 CUSA05597_01.05.mc4.xml=Metal Gear Solid V - The Definitive Experience 
