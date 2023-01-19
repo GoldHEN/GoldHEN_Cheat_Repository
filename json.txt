@@ -806,6 +806,7 @@ CUSA04099_01.15.json=Sniper Elite 4
 CUSA07254_06.00.json=Stellaris: Console Edition
 CUSA08829_01.01_default.elf.json=COD: Modern Warfare
 SLPM62729_01.00.json=Akumajou Dracula
+CUSA04411_01.03.json=Sky Force Anniversary
 CUSA03535_01.00.json=ZOMBI
 CUSA13152_01.04.json=The Sinking City
 CUSA26005_01.01.json=Story Of Season Friend Mineral Town
