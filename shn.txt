@@ -42,6 +42,7 @@ SLUS21550_01.00.shn=Metal Slug Anthology
 CUSA17195_01.04.shn=Tales.of.Arise
 CUSA12979_01.03.shn=Darksiders
 CUSA18534_05.10.shn=Assassin's Creed Valhalla
+CUSA08418_01.00.shn=Okami
 CUSA03291_01.03.shn=Dead Island Definitive Edition
 SLPS25674_01.00.shn=Metal Slug 6
 SLES50650_01.00.shn=Resident Evil-Survivor 2
