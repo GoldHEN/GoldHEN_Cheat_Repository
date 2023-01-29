@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA03293" Game="Vampyr" Moder="2B" Process="eboot.bin" Version="01.09" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="MaX XP (use it for one kill then turn it off)">
+</Cheat>
+<Cheat Text="Inf HP">
+</Cheat>
+<Cheat Text="Inf Money">
+</Cheat>
+<Cheat Text="inf Stamina">
+</Cheat>
+<Cheat Text="Inf Blood">
+</Cheat>
+<Cheat Text="Inf Ammo">
+</Cheat>
+<Cheat Text="Inf Craft Recycle (on sell)">
+</Cheat>
+<Cheat Text="Inf Items (on get)">
+</Cheat>
+</Trainer>
