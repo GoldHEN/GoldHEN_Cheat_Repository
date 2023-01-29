@@ -1,0 +1,59 @@
+{
+  "name": "FINAL FANTASY VII REMAKE",
+  "id": "CUSA07211",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "INF MANA",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6321430",
+          "on": "448B74083C4489740838E9EE32B1FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "E34728",
+          "on": "E903CD4E05",
+          "off": "4489740838"
+        }
+      ]
+    },
+    {
+      "name": "INF ATB",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6321440",
+          "on": "C74408440000FA44E95F2DB1FA",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "E341A6",
+          "on": "E995D24E0590",
+          "off": "C5FA11440844"
+        }
+      ]
+    },
+    {
+      "name": "INF LIMIT BREAK",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6321450",
+          "on": "C74408240000FA44E96F36B1FA",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "E34AC6",
+          "on": "E985C94E0590",
+          "off": "C5FA11440824"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "aran"
+  ]
+}
