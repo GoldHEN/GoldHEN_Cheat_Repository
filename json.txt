@@ -676,6 +676,7 @@ CUSA05954_01.00_harry1.elf.json=Harry Potter Years 1-4
 CUSA10195_01.00.json=The Binding of Isaac Afterbirth Plus
 CUSA18672_01.01.json=Crysis2® Remastered
 CUSA24853_01.00.json=Kena: Bridge of Spirits
+CUSA07211_01.00.json=FINAL FANTASY VII REMAKE
 CUSA10872_01.00.json=Shadow of the Tomb Raider
 CUSA03005_01.00.json=Call of Duty®: Black Ops III
 CUSA03979_01.00_2_LaunchOrbis.elf.json=BioShock 2: The Collection
