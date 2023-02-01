@@ -609,6 +609,7 @@ CUSA08025_01.16.json=Borderlands® 3
 CUSA00054_01.04.json=Mad Max
 CUSA15436_01.04.json=Kingdom Come: Deliverance Royal Edition
 CUSA03522_01.13_default_mp.elf.json=COD: Modern Warfare Remastered
+CUSA00557_01.11.json=The Last of Us™ Remastered
 CUSA18522_07.00.json=Assassin's Creed Valhalla
 CUSA15778_01.06.json=Far Cry® 6
 CUSA05008_01.00_ScimitarACB.elf.json=Assassins Creed: The Ezio Collection [Assasins Creed Brotherhood]
