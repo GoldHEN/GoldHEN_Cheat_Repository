@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA23470" Game="Crash Bandicoot 4" Moder="2B, hejran7" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Death counter always 0 (modern mode)">
+</Cheat>
+<Cheat Text="Inf Jump">
+</Cheat>
+<Cheat Text="Max Boxes">
+</Cheat>
+<Cheat Text="Max Wumpa by hejran7">
+</Cheat>
+<Cheat Text="Inf Lives in Retro + Invincible in Modern mode by hejran7">
+</Cheat>
+<Cheat Text="Inf Trial Time by hejran 7">
+</Cheat>
+</Trainer>
