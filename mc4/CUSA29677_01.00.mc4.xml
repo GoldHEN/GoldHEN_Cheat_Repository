@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA29677" Game="Animus Revenant" Moder="Saso_FW(9.00)" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Inf Health (Master Code)">
+</Cheat>
+<Cheat Text="1 Hit Kill (MC)">
+</Cheat>
+<Cheat Text="1 Hit Kill Bosses (MC)">
+</Cheat>
+<Cheat Text="Inf Samina">
+</Cheat>
+<Cheat Text="Max Coins (9999999)">
+</Cheat>
+</Trainer>
