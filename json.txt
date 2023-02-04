@@ -558,6 +558,7 @@ CUSA10123_01.01.json=Assassins Creed® Rogue Remastered
 CUSA28465_01.02.json=Tails of Iron
 CUSA12979_01.03.json=Darksiders Genesis
 CUSA01341_01.07.json=Dragon Ball Xenoverse
+CUSA12584_01.21.json=Dying Light 2: Stay Human
 CUSA16978_01.00.json=Trials of Mana
 CUSA07708_11.01.json=Monster Hunter World: Iceborne
 CUSA29199_01.00.json=Tormented souls
