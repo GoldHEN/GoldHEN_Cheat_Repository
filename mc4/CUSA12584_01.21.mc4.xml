@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA12584" Game="Dying Light 2: Stay Human" Moder="JustGotenks" Process="eboot.bin" Version="01.21" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Godmode">
+</Cheat>
+<Cheat Text="One-hit Kill">
+</Cheat>
+<Cheat Text="Infinite Stamina">
+</Cheat>
+<Cheat Text="Max Weapon Durability">
+</Cheat>
+<Cheat Text="Keep Items (on use|craft)">
+</Cheat>
+<Cheat Text="Max Item (on get|buy|craft)">
+</Cheat>
+<Cheat Text="25x Money Multiplier (on get)">
+</Cheat>
+<Cheat Text="25x Skill Points Multiplier">
+</Cheat>
+</Trainer>
