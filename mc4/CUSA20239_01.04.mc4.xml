@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA20239" Game="Alex Kidd in Miracle World DX" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Arcade"/>
+<Items/>
+<Cheat Text="Invincible Mode 1">
+</Cheat>
+<Cheat Text="Invincible Mode 2">
+</Cheat>
+<Cheat Text="Max Live ( on gain / lose )">
+</Cheat>
+<Cheat Text="Max Money ( on gain )">
+</Cheat>
+<Cheat Text="One Hit Kill ( Boss )">
+</Cheat>
+<Cheat Text="Max Score in Retro Game ( on gain )">
+</Cheat>
+</Trainer>

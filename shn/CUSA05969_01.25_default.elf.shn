@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call OF Duty WW2" Moder="M3hdi PS" Cusa="CUSA05969" Version="01.25" Process="default.elf">
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="INF Throwable">
+    <Cheatline>
+      <Offset>90E04E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>FF-48-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="INF Ammo">
+    <Cheatline>
+      <Offset>934DE7</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>44-29-64-88-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="INF MedKit">
+    <Cheatline>
+      <Offset>7313C7</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>45-89-77-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -5,18 +5,39 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode/Sprint/Underwater",
+      "name": "No Damage",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "7CD7130",
-          "on": "669C4983F9FF7507C5FA5F4F1CEB05C5FA5D4F1C669DE91D779DFB90",
-          "off": "669C4983F9FF7507C5FA5F4F1CEB05C5FA5D4F1C669DE91D779DFB90"
+          "offset": "47BA510",
+          "on": "9090909090",
+          "off": "E88BBBDEFB"
         },
         {
-          "offset": "36AE863",
-          "on": "E9C8886204",
-          "off": "C5FA5D4F1C"
+          "offset": "3848E9F",
+          "on": "9090909090",
+          "off": "E8CC05FFFF"
+        },
+        {
+          "offset": "38349B6",
+          "on": "909090909090",
+          "off": "FF9048050000"
+        },
+        {
+          "offset": "382D2E1",
+          "on": "E9A60300009090",
+          "off": "488B0560D9D604"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Sprint",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "382E380",
+          "on": "909090909090",
+          "off": "FF9070050000"
         }
       ]
     },
@@ -102,7 +123,28 @@
       ]
     },
     {
-      "name": "Teleport to space",
+      "name": "Super Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7CD7170",
+          "on": "C5FA100518000000C5FA118030120000C5FA108030120000E969A7AEFC909090",
+          "off": "C5FA100518000000C5FA118030120000C5FA108030120000E969A7AEFC909090"
+        },
+        {
+          "offset": "47C18EE",
+          "on": "E97D585103909090",
+          "off": "E97D585103909090"
+        },
+        {
+          "offset": "7CD7190",
+          "on": "00000041",
+          "off": "0000A03F"
+        }
+      ]
+    },
+    {
+      "name": "Teleport to sky",
       "type": "checkbox",
       "memory": [
         {
@@ -117,13 +159,13 @@
         },
         {
           "offset": "7CD7110",
-          "on": "00006144",
-          "off": "00006144"
+          "on": "00007A44",
+          "off": "00007A44"
         }
       ]
     },
     {
-      "name": "Wanted Activator",
+      "name": "Never Wanted",
       "type": "checkbox",
       "memory": [
         {
@@ -144,20 +186,19 @@
       ]
     },
     {
-      "name": "Never Wanted",
-      "type": "button",
+      "name": "Always Wanted",
+      "type": "checkbox",
       "memory": [
         {
-          "offset": "7CD70D4",
-          "on": "00000000",
-          "off": "00000000"
-        }
-      ]
-    },
-    {
-      "name": "Always Wanted",
-      "type": "button",
-      "memory": [
+          "offset": "7CD70C0",
+          "on": "C5FA10050C000000C5FA114740E93EC2B5F89090",
+          "off": "C5FA10050C000000C5FA114740E93EC2B5F89090"
+        },
+        {
+          "offset": "83330B",
+          "on": "E9B03D4A07",
+          "off": "C5FA114740"
+        },
         {
           "offset": "7CD70D4",
           "on": "0000F042",

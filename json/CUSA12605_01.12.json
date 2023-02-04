@@ -1,0 +1,271 @@
+{
+  "name": "DEATH STRANDING",
+  "id": "CUSA12605",
+  "version": "01.12",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Blood Never Decreases (God Mode)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17B44A1",
+          "on": "08",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "No BB Stress Meter Drain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1833D19",
+          "on": "C2",
+          "off": "CA"
+        }
+      ]
+    },
+    {
+      "name": "No Cargo Weight (Even with carriers)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F425D5",
+          "on": "70",
+          "off": "40"
+        }
+      ]
+    },
+    {
+      "name": "No Cargo Deterioration or Damage (Everything in Cargo Management.)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "35D3080",
+          "on": "C743040000C8C2C5FA106B04E994D295FE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F30320",
+          "on": "E95B2D6A01",
+          "off": "C5FA106B04"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Boot Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17C2E16",
+          "on": "909090909090909090",
+          "off": "C4C17A118D0C030000"
+        }
+      ]
+    },
+    {
+      "name": "No Road Deterioration",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "205A6B9",
+          "on": "909090909090",
+          "off": "C4C17A11471C"
+        }
+      ]
+    },
+    {
+      "name": "No Structure Deterioration",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F69B4D",
+          "on": "C9",
+          "off": "C0"
+        }
+      ]
+    },
+    {
+      "name": "Set all Structure Builds to 10Mil",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "35D3060",
+          "on": "41C785D80000008096184BC4C17A1085D8000000E9DE6A99FE",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F69B4E",
+          "on": "E90D95660190909090",
+          "off": "C4C17A1185D8000000"
+        }
+      ]
+    },
+    {
+      "name": "Instant Structure Builds",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F69092",
+          "on": "C8",
+          "off": "C1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1ABED51",
+          "on": "9090",
+          "off": "39D9"
+        }
+      ]
+    },
+    {
+      "name": "Infinite (Sticky Gun/Repair Spray/Ladder/PCC/Climbing Anchor)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1864173",
+          "on": "9090",
+          "off": "29F0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Battery Recharge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "188E5D5",
+          "on": "84280000909090909090909090909090",
+          "off": "80280000C5FA5CC3C5FA5FC1C5F82EC1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Vehicle Battery",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2923CF5",
+          "on": "7A1150",
+          "off": "FA1140"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Vehicle Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "292B809",
+          "on": "49C7C20000803F4D8995840000004D31D2C4C17A114578",
+          "off": "C5FA5DCAC5F857C0C5EAC2D001C5E855C9C4C17A114D78"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Resistance to Rough Terrain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17C122D",
+          "on": "90909090909090909090",
+          "off": "C4C17A11842434010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Monster Energy Drinks",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18671CC",
+          "on": "58",
+          "off": "48"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Hold Breath",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17BFFD7",
+          "on": "C9",
+          "off": "C1"
+        }
+      ]
+    },
+    {
+      "name": "No Consciousness Drain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17B664F",
+          "on": "9C",
+          "off": "8C"
+        }
+      ]
+    },
+    {
+      "name": "Fast Run",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "35D3040",
+          "on": "C7809C3C00000000F041C5FA10A89C3C0000E98EEF2EFE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "18C1FDD",
+          "on": "E95E10D101909090",
+          "off": "C5FA11A89C3C0000"
+        }
+      ]
+    },
+    {
+      "name": "Resources Never Decrease",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2CF8E33",
+          "on": "909090",
+          "off": "4829F1"
+        },
+        {
+          "offset": "2CF8E50",
+          "on": "909090",
+          "off": "4829F1"
+        },
+        {
+          "offset": "2CF8E6E",
+          "on": "909090",
+          "off": "4829F1"
+        },
+        {
+          "offset": "2CF8E8C",
+          "on": "909090",
+          "off": "4829F1"
+        },
+        {
+          "offset": "2CF8EAA",
+          "on": "909090",
+          "off": "4829F1"
+        },
+        {
+          "offset": "2CF8ECD",
+          "on": "90909090",
+          "off": "48894858"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Vicodin10 Rizla"
+  ]
+}

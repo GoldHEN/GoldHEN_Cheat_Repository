@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA11253" Game="DEAD CELLS" Moder="2B" Process="eboot.bin" Version="01.39" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Inf Health">
+</Cheat>
+<Cheat Text="Inf Cells on spend">
+</Cheat>
+<Cheat Text="Inf Money on spend">
+</Cheat>
+<Cheat Text="Inf Kill Score">
+</Cheat>
+<Cheat Text="Inf Arrow">
+</Cheat>
+<Cheat Text="No Cooldown">
+</Cheat>
+<Cheat Text="Inf Jump">
+</Cheat>
+<Cheat Text="Survival scroll upgrade x99">
+</Cheat>
+<Cheat Text="Tactics scroll upgrade x99">
+</Cheat>
+<Cheat Text="Brutality scroll upgrade x99">
+</Cheat>
+<Cheat Text="Play lvl Time freeze ">
+</Cheat>
+</Trainer>

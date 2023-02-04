@@ -5,17 +5,51 @@ name: Push commit
 
 on:
   push:
-    branches: [ main ]
 
 jobs:
   gamelist:
     runs-on: ubuntu-latest
     steps:
+
       - name: Checkout files
         uses: actions/checkout@v3
 
       - name: Normalize json data
         run: python .ci/normalize-json.py
+
+      - name: checkout
+        uses: actions/checkout@v3
+        with:
+          repository: michaelrsweet/mxml
+          path: mxml
+
+      - name: configure
+        working-directory: mxml
+        env:
+          CC: /usr/bin/gcc
+        run: ./configure --enable-debug --enable-maintainer
+
+      - name: make
+        working-directory: mxml
+        run: |
+          sudo make
+          sudo make install
+
+      - name: Test XML data
+        run: |
+          export LD_LIBRARY_PATH=$(pwd)/mxml
+          FILES="shn/*.shn"
+          clang .ci/xml.c -lmxml
+          for f in $FILES
+          do
+            ./a.out $f
+          done
+          FILES="mc4/*.xml"
+          clang .ci/xml.c -lmxml
+          for f in $FILES
+          do
+            ./a.out $f
+          done
 
       - name: Create list files
         run: |

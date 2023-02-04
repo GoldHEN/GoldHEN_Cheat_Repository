@@ -1,0 +1,123 @@
+{
+  "name": "STAR OCEAN THE DIVINE FORCE",
+  "id": "CUSA31855",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (Main Player)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "235BEC0",
+          "on": "0F49D1664181FFC05D750A41C747100F270000EB0441895710E9CF8905FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3B48A6",
+          "on": "E91576FA019090",
+          "off": "0F49D141895710"
+        }
+      ]
+    },
+    {
+      "name": "Infinite AP (5 bars)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "235A4B0",
+          "on": "41C7461C0000A040E9D60A06FE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "3BAF8D",
+          "on": "E91EF5F90190",
+          "off": "C4C17A11461C"
+        }
+      ]
+    },
+    {
+      "name": "Max Coins (on gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "235A4F0",
+          "on": "0F82EAE834FEC742283F420F00E947E834FE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6A8D3F",
+          "on": "E9AC17CB019090909090",
+          "off": "0F82A100000044897A28"
+        }
+      ]
+    },
+    {
+      "name": "Max skill Points (on level up)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "235A560",
+          "on": "41C785000200009F860100E9B278F8FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2E1E1B",
+          "on": "E9408707029090",
+          "off": "41018500020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Items (on pick up)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "235A5C0",
+          "on": "44037730C6473063E9BC8736FE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "6C2D81",
+          "on": "E93A78C901909090",
+          "off": "4403773044897730"
+        }
+      ]
+    },
+    {
+      "name": "Max DUMA points (on gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "235A630",
+          "on": "C783F05307009F860100E9CB1F0AFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "3FC604",
+          "on": "E927E0F50190",
+          "off": "898BF0530700"
+        }
+      ]
+    },
+    {
+      "name": "Infinite DUMA charge Bar (in Battle)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "235A670",
+          "on": "41C787481400000000C842E95EB532FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "685BD5",
+          "on": "E9964ACD0190909090",
+          "off": "C4C17A118748140000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

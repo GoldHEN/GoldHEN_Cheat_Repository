@@ -1,0 +1,126 @@
+{
+  "name": "Oddworld - Strangers",
+  "id": "CUSA26454",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Mastercode Health ( must be activated )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6CBDF4",
+          "on": "807B5C00750FC5FA114308C5FA114308E94619A5FFC5FA114308C5FA114308E93719A5FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "11D74A",
+          "on": "E9A5E65A00",
+          "off": "C5FA114308"
+        }
+      ]
+    },
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "205AA3",
+          "on": "909090909090",
+          "off": "FF90A8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health [MC]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6CBDFA",
+          "on": "C5FA10430C",
+          "off": "C5FA114308"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill [MC] ( Disable Anesthetize )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6CBE09",
+          "on": "0F57C09090",
+          "off": "C5FA114308"
+        }
+      ]
+    },
+    {
+      "name": "Enemies only Anesthetize [MC] ( Disable One Hit Kill )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6CBE09",
+          "on": "C5FA10430C",
+          "off": "C5FA114308"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6CBDB0",
+          "on": "C5FA105324C5FA115320E95618A5FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "11D637",
+          "on": "E974E75A00",
+          "off": "C5FA115320"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6CBDE2",
+          "on": "C687E0000000638B87E0000000E9E2FCACFF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "19BAD0",
+          "on": "E90D03530090",
+          "off": "8B4738909090"
+        }
+      ]
+    },
+    {
+      "name": "No Reload ( Weapon )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1BA337",
+          "on": "9090",
+          "off": "FFCA"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Enemies",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8433D",
+          "on": "9090909090",
+          "off": "E8BEAF0600"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

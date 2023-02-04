@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident evil village" Moder="LMN" Cusa="CUSA18017" Version="01.11" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf ammo">
+    <Cheatline>
+      <Section>1</Section>
+      <Offset>3124CF6</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-45-80-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf crafting matirials">
+    <Cheatline>
+      <Section>1</Section>
+      <Offset>54AB9F1</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-4A-13-C7-FD</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf white flower and First Aid Med usage ">
+    <Cheatline>
+      <Section>1</Section>
+      <Offset>62C04DA</Offset>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-70-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Pipe Bombs">
+    <Cheatline>
+      <Section>1</Section>
+      <Offset>3110583</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-38-BA-BF-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

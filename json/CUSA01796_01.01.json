@@ -1,0 +1,91 @@
+{
+  "name": "Sniper Elite 3 Ultimate Edition",
+  "id": "CUSA01796",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A0F5D0",
+          "on": "80BB8400000000750CC7434800004843E9E1F86DFFC5FA114348E9D7F86DFF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "EEEC1",
+          "on": "E90A079200",
+          "off": "C5FA114348"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Focus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A0FB20",
+          "on": "90E9B969AFFF",
+          "off": "000000000000"
+        },
+        {
+          "offset": "5064DA",
+          "on": "E941965000",
+          "off": "C5FA584310"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A0FB10",
+          "on": "410F4FDCC7400CE7030000E9EDC0B7FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "58BC06",
+          "on": "E9053F48009090",
+          "off": "410F4FDC89580C"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Items/No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A0FA10",
+          "on": "410F4FCCC6400863E940C0B7FF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "58BA56",
+          "on": "E9B53F48009090",
+          "off": "410F4FCC894808"
+        }
+      ]
+    },
+    {
+      "name": "Max Xp/level On Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A0FB40",
+          "on": "0F4DD0C74704C0270900E99738ABFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "4C33E0",
+          "on": "E95BC7540090",
+          "off": "0F4DD0895704"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

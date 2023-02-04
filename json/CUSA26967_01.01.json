@@ -1,0 +1,59 @@
+{
+  "name": "Tunic",
+  "id": "CUSA26967",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/throwables/Magic)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "194BEB0",
+          "on": "488D0C49C644C83003E9AA3E617F",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "80F5FD60",
+          "on": "E94BC19E80909090",
+          "off": "488D0C498974C830"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "194BCE0",
+          "on": "C783C40100000000A042E95D3B127F",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80A6F844",
+          "on": "E997C4ED80909090",
+          "off": "C5FA1183C4010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Cons (on get activate and kill monsters)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "194BC90",
+          "on": "488D0C49C744C8300F270000E9C740617F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80F5FD60",
+          "on": "E92BBF9E80909090",
+          "off": "488D0C498974C830"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Corpse Killer - 25th Anniversary Edition",
+  "id": "CUSA16720",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81205F32",
+          "on": "909090",
+          "off": "89777C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Huron_9.00"
+  ]
+}

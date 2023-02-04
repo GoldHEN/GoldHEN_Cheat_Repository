@@ -1,0 +1,119 @@
+{
+  "name": "THE KING OF FIGHTERS XV Standard Edition",
+  "id": "CUSA25272",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Refill HP (1P/2P Left Side) Press Evade button / L1 (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61317D0",
+          "on": "807B2000740C8B8314070000E9F657CAFA9080BBA00100001B740C80BBA00100001C7403EBE0908B83380700008983140700008983180700008B8314070000E9C357CAFA",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DD6FD1",
+          "on": "E9FAA7350590",
+          "off": "8B8314070000"
+        }
+      ]
+    },
+    {
+      "name": "Refill HP (1P/2P Right Side) Press Evade button / L1 (Need MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61317D0",
+          "on": "807B2001",
+          "off": "807B2000"
+        }
+      ]
+    },
+    {
+      "name": "Max Power Gauge (1P/2P Left Side) Master Code 1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6131830",
+          "on": "41807C242000740E4589B4241C070000E9D303CBFA90458BB424240700004589B424200700004589B4241C070000E9B503CBFA90",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DE1C10",
+          "on": "E91BFC3405909090",
+          "off": "4589B4241C070000"
+        }
+      ]
+    },
+    {
+      "name": "Max Power Gauge (1P/2P Right Side) Need MC 1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6131830",
+          "on": "41807C242001",
+          "off": "41807C242000"
+        }
+      ]
+    },
+    {
+      "name": "Max Guard Gauge (1P/2P Left Side) Master Code 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6131880",
+          "on": "807F2000740C8B8748070000E9F943CBFA908B874C0700008987480700008B8748070000E9E143CBFA90",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DE5C84",
+          "on": "E9F7BB340590",
+          "off": "8B8748070000"
+        }
+      ]
+    },
+    {
+      "name": "Max Guard Gauge (1P/2P Right Side) Need MC 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6131880",
+          "on": "807F2001",
+          "off": "807F2000"
+        }
+      ]
+    },
+    {
+      "name": "Easy Stun Enemy (1P/2P Left Side) Master Code 3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61318C0",
+          "on": "41807F2001740D4529B754070000E96B06CBFA9041C78754070000000000004529B754070000E95306CBFA90",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DE1F37",
+          "on": "E984F934059090",
+          "off": "4529B754070000"
+        }
+      ]
+    },
+    {
+      "name": "Easy Stun Enemy (1P/2P Right Side) Need MC 3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61318C0",
+          "on": "41807F2000",
+          "off": "41807F2001"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA08126" Game="Oddworld Soulstorm Enhanced Edition" Moder="Celogamez" Process="eboot.bin" Version="01.20" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Max/Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Chant">
+</Cheat>
+<Cheat Text="Max/Infinite Items">
+</Cheat>
+<Cheat Text="Max/Infinite Moolah">
+</Cheat>
+<Cheat Text="Max/Infinite Flamethrower">
+</Cheat>
+</Trainer>

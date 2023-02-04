@@ -1,0 +1,45 @@
+{
+  "name": "Fallout 4",
+  "id": "CUSA03450",
+  "version": "01.20",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "AB7D26",
+          "on": "01D3",
+          "off": "89D3"
+        }
+      ]
+    },
+    {
+      "name": "x2 Item Each use (Use and deactivate)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "109491",
+          "on": "014A20",
+          "off": "894A20"
+        }
+      ]
+    },
+    {
+      "name": "256 Skill Points (After one use)",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "AF5D21",
+          "on": "C687C10B0000FF",
+          "off": "C687C10B0000FF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme",
+    "Weysincha"
+  ]
+}

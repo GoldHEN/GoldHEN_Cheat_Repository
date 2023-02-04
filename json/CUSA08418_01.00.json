@@ -1,0 +1,23 @@
+{
+  "name": "ŌKAMI HD",
+  "id": "CUSA08418",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite double jump (After you unlock double jump)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "2D4704",
+          "on": "90909090909090",
+          "off": "41888D45110000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Skal"
+  ]
+}

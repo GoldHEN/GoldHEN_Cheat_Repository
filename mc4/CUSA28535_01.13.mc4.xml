@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA28535" Game="Monster Energy Supercross - The Official Videogame 5" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.13" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Sports"/>
+<Items/>
+<Cheat Text="Max Credits">
+</Cheat>
+<Cheat Text="Max Skill Points ( on gain )">
+</Cheat>
+<Cheat Text="Max XP">
+</Cheat>
+<Cheat Text="Infinite Rewinds">
+</Cheat>
+<Cheat Text="No Gear AI">
+</Cheat>
+</Trainer>

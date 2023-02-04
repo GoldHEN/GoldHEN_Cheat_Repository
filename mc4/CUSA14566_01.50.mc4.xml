@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA14566" Game="PC Building Simulator" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.50" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Simulation"/>
+<Items/>
+<Cheat Text="Max Money">
+</Cheat>
+<Cheat Text="Max XP Level">
+</Cheat>
+<Cheat Text="No Costs in Shop ( only Delivery )">
+</Cheat>
+<Cheat Text="No Delivery Cost">
+</Cheat>
+<Cheat Text="Max Star Rating">
+</Cheat>
+</Trainer>

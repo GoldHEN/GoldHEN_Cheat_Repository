@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA17722" Game="Spider-man miles morales" Moder="2B" Process="eboot.bin" Version="01.09" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Max XP (use once)">
+</Cheat>
+<Cheat Text="Inf Health">
+</Cheat>
+<Cheat Text="Max skill points">
+</Cheat>
+<Cheat Text="Inf Web-shooters">
+</Cheat>
+<Cheat Text="Inf Finisher">
+</Cheat>
+<Cheat Text="Invincible ON">
+</Cheat>
+<Cheat Text="Invincible OFF (only use after turning off Invincible ON)">
+</Cheat>
+<Cheat Text="Inf resources">
+</Cheat>
+<Cheat Text="Inf Venom Power">
+</Cheat>
+<Cheat Text="travesal challenge time set to 20 sec">
+</Cheat>
+<Cheat Text="Inf Combat Challenge Time">
+</Cheat>
+<Cheat Text="Inf Camouflage">
+</Cheat>
+<Cheat Text="Instant camouflage refill ">
+</Cheat>
+</Trainer>

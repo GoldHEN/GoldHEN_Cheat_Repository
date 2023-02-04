@@ -1,0 +1,54 @@
+{
+  "name": "[PROTOTYPE® BIOHAZARD BUNDLE]",
+  "id": "CUSA06545",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1043990",
+          "on": "664181FA8094750AC5FA104B14E92D1E0EFFC5FA114B14E9231E0EFF43656C6F67616D657A5F392E3030",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1257CA",
+          "on": "E9C1E1F100",
+          "off": "C5FA114B14"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7DC822",
+          "on": "909090",
+          "off": "FF4B24"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite EP (Disable After First Buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1043B10",
+          "on": "4801CAC704907F969800E9324D01FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "5884A",
+          "on": "E9C1B2FE009090",
+          "off": "4801CA44893C90"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

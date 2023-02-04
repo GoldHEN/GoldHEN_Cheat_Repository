@@ -18,7 +18,7 @@
       <ValueOff>45-89-37</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite Bolt & Arrows">
+  <Cheat Text="Infinite Bolt + Arrows">
     <Cheatline>
       <Offset>D72866</Offset>
       <Section>0</Section>

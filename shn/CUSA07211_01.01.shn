@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Final fantasy VII remake" Moder="GameX2 &amp; DanteClaus" Cusa="CUSA07211" Version="01.01" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Quick Level Up">
+    <Cheatline>
+      <Offset>EAE73F</Offset>
+      <Section>0</Section>
+      <ValueOn>41-01-54-30-40</ValueOn>
+      <ValueOff>41-89-54-30-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Level After Battle">
+    <Cheatline>
+      <Offset>EAE73F</Offset>
+      <Section>0</Section>
+      <ValueOn>41-01-54-30-41</ValueOn>
+      <ValueOff>41-89-54-30-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite HP">
+    <Cheatline>
+      <Offset>E343C1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>44-89-74-08-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite MP">
+    <Cheatline>
+      <Offset>E346C8</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>44-89-74-08-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite ATB">
+    <Cheatline>
+      <Offset>E34146</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-44-08-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Full+Infinte ATB">
+    <Cheatline>
+      <Offset>FFFFFFFFFFC04000</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-44-08-44-00-00-FA-44-E9-3F-01-23-01</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E34146</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B5-FE-DC-FE-90</ValueOn>
+      <ValueOff>C5-FA-11-44-08-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Gil">
+    <Cheatline>
+      <Offset>E90CEA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>44-89-B4-C3-3C-56-03-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items On Sell | Works on Key Items">
+    <Cheatline>
+      <Offset>E90F88</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-8C-C7-3C-56-03-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Gain Items on Sell | Works on Key Items">
+    <Cheatline>
+      <Offset>E90F7B</Offset>
+      <Section>0</Section>
+      <ValueOn>44-01-F1</ValueOn>
+      <ValueOff>44-29-F1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Moogle Medals | Turn Off When You're Done">
+    <Cheatline>
+      <Offset>E90F88</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-8C-C7-3C-56-03-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Doubles Moogle Medals On Spend | Turn Off When You're Done">
+    <Cheatline>
+      <Offset>E90F88</Offset>
+      <Section>0</Section>
+      <ValueOn>41-01-8C-C7-3C-56-03-00</ValueOn>
+      <ValueOff>41-89-8C-C7-3C-56-03-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Moogle Medals On Spend | Turn Off When You're Done ">
+    <Cheatline>
+      <Offset>E90F7E</Offset>
+      <Section>0</Section>
+      <ValueOn>89-D1</ValueOn>
+      <ValueOff>89-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

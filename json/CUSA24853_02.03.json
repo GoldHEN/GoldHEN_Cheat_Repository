@@ -1,0 +1,98 @@
+{
+  "name": "Kena: Bridge of Spirits",
+  "id": "CUSA24853",
+  "version": "02.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2288D87",
+          "on": "909090909090",
+          "off": "FF90C0080000"
+        }
+      ]
+    },
+    {
+      "name": "OneHitKill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807F000",
+          "on": "817D088E436502751566817F0C0001740DC5EA5CC2C5FA1107E9B39519FAC5EA5CC0C5FA1107E9A69519FA",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "22185C9",
+          "on": "E9326AE605909090",
+          "off": "C5EA5CC0C5FA1107"
+        }
+      ]
+    },
+    {
+      "name": "InfRotPower",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2281FA1",
+          "on": "909090909090",
+          "off": "FF9040040000"
+        }
+      ]
+    },
+    {
+      "name": "InfShield",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23BA0A0",
+          "on": "909090909090",
+          "off": "FF9040040000"
+        }
+      ]
+    },
+    {
+      "name": "InfRotShape",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2217FD0",
+          "on": "90909090909090",
+          "off": "41FF9340040000"
+        },
+        {
+          "offset": "2719DAD",
+          "on": "909090909090",
+          "off": "FF9340040000"
+        }
+      ]
+    },
+    {
+      "name": "InfCrystal",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25F6A60",
+          "on": "909090",
+          "off": "4429C2"
+        }
+      ]
+    },
+    {
+      "name": "InfArrow",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2171FD1",
+          "on": "909090909090",
+          "off": "FF9128020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fqzx123"
+  ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA25058" Game="Habroxia 2" Moder="Saso_9.00" Process="eboot.bin" Version="01.12" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="HP / Credits (Master Code)">
+</Cheat>
+<Cheat Text="Inf HP + (MC)">
+</Cheat>
+<Cheat Text="Max Credits (99999) + (MC)">
+</Cheat>
+<Cheat Text="Inf Boost">
+</Cheat>
+</Trainer>

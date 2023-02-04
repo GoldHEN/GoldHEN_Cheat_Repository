@@ -1,0 +1,44 @@
+{
+  "name": "The Witcher III: GOTY Edition",
+  "id": "CUSA05725",
+  "version": "01.30",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "x2 Item On Pickup (ON & OFF)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "666912",
+          "on": "0355AC7616488D44",
+          "off": "2B55AC7616488D44"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health/Stamina/Roach Stamina/1 Hit/(ON & OFF)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "c294ed",
+          "on": "909090909083FB06",
+          "off": "C5FA11048183FB06"
+        }
+      ]
+    },
+    {
+      "name": "2x Skill Points (ON & OFF)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "daf082",
+          "on": "410104244D85F674",
+          "off": "418904244D85F674"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "PS4Guru"
+  ]
+}

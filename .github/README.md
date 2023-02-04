@@ -42,5 +42,5 @@ While we make every effort to deliver high quality products, we do not guarantee
 
 ### Credits
 - [ctn123](https://github.com/ctn123)
-- [Shinigami](https://github.com/ScriptSK)
+- [ShininGami](https://github.com/ScriptSK)
 - [SiSTRo](https://github.com/SiSTR0)

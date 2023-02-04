@@ -1,0 +1,43 @@
+{
+  "name": "ACE COMBAT™ 7: SKIES UNKNOWN",
+  "id": "CUSA07202",
+  "version": "02.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Missles (on fire)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5B790",
+          "on": "4A8D442B08FFCAC60063E9FC34A981",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "16EEC92",
+          "on": "E9F9CA567E90909090",
+          "off": "4A8D442B08FFCA8910"
+        }
+      ]
+    },
+    {
+      "name": "Max MRP (on spen)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5B7B0",
+          "on": "C78000030000FFE0F505E93C256181",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "126DCF4",
+          "on": "E9B7DA9E7E9090",
+          "off": "48898800030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

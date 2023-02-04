@@ -1,0 +1,93 @@
+{
+  "name": "Lawn Mowing Simulator",
+  "id": "CUSA29809",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Mower Fuel",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "835AE8BA",
+          "on": "E8C1352AFD488B45B0C7401C00C07944909090",
+          "off": "C5FA104584E8BC352AFD488B45B0C5FA11401C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Strimmer Fuel",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "824DB705",
+          "on": "E8766737FE488B45B0C7401C00C07944909090",
+          "off": "C5FA104584E8716737FE488B45B0C5FA11401C"
+        }
+      ]
+    },
+    {
+      "name": "Instant Ground Check Completion",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "821C2FF8",
+          "on": "8975FC",
+          "off": "897DFC"
+        }
+      ]
+    },
+    {
+      "name": "Instant Mowing Completion",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "821B5BB1",
+          "on": "C7403C0000803FC3",
+          "off": "C366666666662E0F"
+        }
+      ]
+    },
+    {
+      "name": "£999.999.999 Contract Rewards",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81AEBFDB",
+          "on": "C5FB114018",
+          "off": "C5FB114018"
+        },
+        {
+          "offset": "1E43000",
+          "on": "5348BB000080FF64CDCD41488958185BE9CB8FCA7F",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81AEBFDB",
+          "on": "E920703580",
+          "off": "C5FB114018"
+        }
+      ]
+    },
+    {
+      "name": "999.999.999 RP Contract Rewards",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81AECEB0",
+          "on": "48C7C0FFC99A3BC3",
+          "off": "554889E54883EC40"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

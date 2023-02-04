@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="rage 2" Moder="ahmad" Cusa="CUSA10300" Version="01.09" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="infi ammo">
+    <Cheatline>
+      <Offset>1D3F0E0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>45-89-75-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inif items">
+    <Cheatline>
+      <Offset>1D30E17</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>44-89-79-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="infi Throwables">
+    <Cheatline>
+      <Offset>1D3AEB4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>44-89-68-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

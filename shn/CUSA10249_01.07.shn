@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="the last of us 2" Moder="Ahmad" Cusa="CUSA10249" Version="01.07" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="infi itmes">
+    <Cheatline>
+      <Offset>D473DC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-43-E0</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

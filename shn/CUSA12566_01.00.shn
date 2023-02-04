@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Legend of Heroes Trails of Cold Steel II" Moder="GamerX2 &amp; DanteClaus" Cusa="CUSA12566" Version="01.00" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinite CP | In Battle">
+    <Cheatline>
+      <Offset>65344</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>66-89-83-40-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max CP In Battle | Don't Use With Max EP">
+    <Cheatline>
+      <Offset>A5F800</Offset>
+      <Section>0</Section>
+      <ValueOn>66-B8-E7-03-66-89-83-40-03-00-00-E9-3B-5B-60-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>65344</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B7-A4-9F-00-90-90</ValueOn>
+      <ValueOff>66-89-83-40-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite EP In Battle">
+    <Cheatline>
+      <Offset>69044</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>66-89-83-3C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max EP On Use | Don't Use With Max CP">
+    <Cheatline>
+      <Offset>A5F800</Offset>
+      <Section>0</Section>
+      <ValueOn>66-B8-E7-03-66-89-83-3C-03-00-00-E9-3B-98-60-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>69044</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B7-67-9F-00-90-90</ValueOn>
+      <ValueOff>66-89-83-3C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items | Inventory">
+    <Cheatline>
+      <Offset>206423</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>66-89-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items/Quratz/Event/Ingredients On Use or Sell">
+    <Cheatline>
+      <Offset>A5F800</Offset>
+      <Section>0</Section>
+      <ValueOn>66-BF-63-00-66-89-38-E9-1A-6C-7A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>20641F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DC-93-85-00-90-90</ValueOn>
+      <ValueOff>66-0F-4F-F9-66-89-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items | Battle">
+    <Cheatline>
+      <Offset>206381</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>66-89-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items | Battle">
+    <Cheatline>
+      <Offset>A5F800</Offset>
+      <Section>0</Section>
+      <ValueOn>66-BE-63-00-66-89-30-E9-78-6B-7A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>20637D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7E-94-85-00-90-90</ValueOn>
+      <ValueOff>66-0F-4F-F1-66-89-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money">
+    <Cheatline>
+      <Offset>20B63E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-87-80-5A-1B-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

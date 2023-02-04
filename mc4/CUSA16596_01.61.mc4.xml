@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA16596" Game="Cyberpunk 2077" Moder="Celogamez" Process="eboot.bin" Version="01.61" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Max/Infinite Health/Stamina">
+</Cheat>
+<Cheat Text="Max/Infinite Ammo/MedKits/Craft Resources (Don't Pick Money)">
+</Cheat>
+<Cheat Text="No Reload">
+</Cheat>
+<Cheat Text="Max/Infinite Throwables (Get Them First)">
+</Cheat>
+<Cheat Text="Max/Infinite Perk Points (Don't Use Attribute Points)">
+</Cheat>
+<Cheat Text="Max/Infinite Attribute Points (Don't Use Perk Points)">
+</Cheat>
+<Cheat Text="Max/Infinite Money">
+</Cheat>
+</Trainer>

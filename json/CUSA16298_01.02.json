@@ -1,0 +1,107 @@
+{
+  "name": "MONKEY KING: HERO IS BACK",
+  "id": "CUSA16298",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite health ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5003600",
+          "on": "807F5002750CC7879807000000001644EB08C5FA118798070000E9C10E28FB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2844D8",
+          "on": "E923F1D704909090",
+          "off": "C5FA118798070000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5006EB0",
+          "on": "C787A40700000000FA43E901D827FB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2846B8",
+          "on": "E9F327D804909090",
+          "off": "C5FA1187A4070000"
+        }
+      ]
+    },
+    {
+      "name": "Max Materials on gain and spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5006E40",
+          "on": "66C7471CE7038B4F20E93AE850FB",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "515682",
+          "on": "E9B917AF0490",
+          "off": "894F1C8B4F20"
+        }
+      ]
+    },
+    {
+      "name": "Max Chi on gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5006F90",
+          "on": "C787300900009F860100E9E73E34FB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "34AE80",
+          "on": "E90BC1CB0490",
+          "off": "898730090000"
+        }
+      ]
+    },
+    {
+      "name": "Max Vital items (on use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5006F10",
+          "on": "C7471CE70300008B4720E9C7E450FB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "5153E3",
+          "on": "E9281BAF0490",
+          "off": "89471C8B4720"
+        }
+      ]
+    },
+    {
+      "name": " Max Tool Items (on get and use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5006F60",
+          "on": "C7471CE70300008B4720E94ADA50FB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "5149B3",
+          "on": "E9A825AF0490",
+          "off": "89471C8B4720"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}
