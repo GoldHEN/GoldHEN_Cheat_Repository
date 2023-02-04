@@ -67,6 +67,7 @@ CUSA14835_01.10.json=DRAGON BALL Z: KAKAROT
 CUSA00009_01.04.json=Assassins Creed® IV Black Flag
 CUSA28305_01.11.json=Diablo 2 Resurrected
 CUSA14211_01.05.json=GreedFall
+CUSA16745_01.00.json=Yakuza: Like A Dragon
 CUSA19120_01.00.json=DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition
 CUSA08798_01.10.json=Darksiders III
 CUSA00472_01.00.json=Transformers: Rise of the Dark Spark
