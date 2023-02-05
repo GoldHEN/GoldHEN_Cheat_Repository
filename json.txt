@@ -966,6 +966,7 @@ CUSA18685_01.01.json=Immortal Realms: Vampire Wars
 CUSA04317_01.03.json=ELEX
 CUSA11993_01.01.json=Marvels Spider-Man
 CUSA10738_01.00.json=Mega Man 11
+CUSA25298_01.01.json=Wukong
 CUSA00556_01.00.json=The Last Of Us Remastered
 CUSA01839_01.07.json=Street Figther 4
 CUSA08518_01.01.json=DRAGON QUEST XI: Echoes of an Elusive Age
