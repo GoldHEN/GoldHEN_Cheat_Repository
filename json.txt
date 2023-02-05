@@ -1050,6 +1050,7 @@ CUSA18808_01.00.json=Harvest Moon: One World
 CUSA09923_01.00.json=Digimon Story: Cyber Sleuth - Hackers Memory
 CUSA00556_01.06.json=The Last Of Us Remastered
 CUSA00223_01.04.json=inFAMOUS: Second Son
+CUSA00051_01.00.json=Injustice: Gods Among Us Ultimate Edition
 CUSA15495_01.07.json=Surviving the Aftermath
 CUSA09869_01.02.json=Trine 4: The Nightmare Prince
 CUSA01154_01.12.json=Metal Gear Solid V: Phantom Pain
