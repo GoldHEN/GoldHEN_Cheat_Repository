@@ -1,0 +1,123 @@
+{
+    "name": "Sniper Elite 4",
+    "id": "CUSA04099",
+    "version": "01.20",
+    "process": "eboot.bin",
+    "mods": [
+        {
+            "name": "Max/Infinite Health",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "C5BC90",
+                    "on": "6681FBC06E750D41C746480000C842E9390C53FFC4C17A114648E92E0C53FF",
+                    "off": "00000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "18C8D7",
+                    "on": "E9B4F3AC0090",
+                    "off": "C4C17A114648"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Stamina",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "C5BEA0",
+                    "on": "41C7471000007042E9B9E4D4FF",
+                    "off": "00000000000000000000000000"
+                },
+                {
+                    "offset": "9AA360",
+                    "on": "E93B1B2B0090",
+                    "off": "C4C17A115710"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Focus",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "C5BCE0",
+                    "on": "41C7471000007042E93BE3D4FF",
+                    "off": "00000000000000000000000000"
+                },
+                {
+                    "offset": "9AA022",
+                    "on": "E9B91C2B0090",
+                    "off": "C4C17A114710"
+                }
+            ]
+        },
+        {
+            "name": "Max/Infinite Ammo/Items",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "C5BBF0",
+                    "on": "4489AD74FFFFFFC74020E7030000E932AAC1FF",
+                    "off": "00000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "87662A",
+                    "on": "E9C1553E00909090909090",
+                    "off": "4489AD74FFFFFF44894020"
+                }
+            ]
+        },
+        {
+            "name": "No Reload",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "C5BC10",
+                    "on": "FFCEC6449F2063E9763AC4FF",
+                    "off": "000000000000000000000000"
+                },
+                {
+                    "offset": "89F68C",
+                    "on": "E97FC53B0090",
+                    "off": "FFCE89749F20"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Game Time",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "C5BDB0",
+                    "on": "418B442408E99BE686FF",
+                    "off": "00000000000000000000"
+                },
+                {
+                    "offset": "4CA450",
+                    "on": "E95B197900",
+                    "off": "4189442408"
+                }
+            ]
+        },
+        {
+            "name": "Max XP On Gain",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "C5BF00",
+                    "on": "41C7442408FFC99A3BE908E586FF",
+                    "off": "0000000000000000000000000000"
+                },
+                {
+                    "offset": "4CA411",
+                    "on": "E9EA1A7900",
+                    "off": "4189442408"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "Celogamez"
+    ]
+}
