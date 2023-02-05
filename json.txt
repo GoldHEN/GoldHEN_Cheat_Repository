@@ -378,6 +378,7 @@ CUSA01788_01.46.json=Tom Clancys Rainbow Six® Siege
 SLUS20487_01.00.json=Mega Man X7
 CUSA14896_01.02.json=CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS
 CUSA08418_01.00.json=ŌKAMI HD
+CUSA04099_01.20.json=Sniper Elite 4
 CUSA07282_01.14.json=Sundered
 CUSA11454_01.10.json=Control
 CUSA06880_01.00.json=Pillars of Eternity: Complete Edition
