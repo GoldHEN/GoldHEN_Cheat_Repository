@@ -580,6 +580,7 @@ CUSA27428_01.16.json=Skul
 CUSA03603_01.01.json=Dishonored 2
 CUSA07211_01.01.json=FINAL FANTASY VII REMAKE
 CUSA09407_01.00_dmc2.elf.json=Devil May Cry® HD Collection (2)
+CUSA03109_01.06.json=UMBRELLA CORPS
 CUSA27312_01.00.json=Baldo The Guardian Owls
 CUSA02976_01.32.json=HITMAN™
 CUSA04768_01.00.json=South Park™: The Stick of Truth™
