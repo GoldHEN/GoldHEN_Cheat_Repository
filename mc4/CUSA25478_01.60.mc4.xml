@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA25478" Game="ScourgeBringer" Moder="fbin" Process="eboot.bin" Version="01.60" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Horror"/>
+<Items/>
+<Cheat Text="Vida Infinita">
+</Cheat>
+<Cheat Text="Gota de Sangue Vermelha Infinita">
+</Cheat>
+<Cheat Text="Sangue de Juiz Infinito">
+</Cheat>
+<Cheat Text="Municao Infinita">
+</Cheat>
+</Trainer>
