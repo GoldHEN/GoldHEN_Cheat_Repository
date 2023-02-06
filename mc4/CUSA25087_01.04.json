@@ -1,0 +1,92 @@
+{
+    "name": "Clid The Snail",
+    "id": "CUSA25087",
+    "version": "01.04",
+    "process": "eboot.bin",
+    "mods": [
+        {
+            "name": "Infinite Health",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "18D3DBB",
+                    "on": "41C687C80100000141295F1C41C7471C64000000E91850D37E526564646576696C3832202D20465720392E3030",
+                    "off": "00000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "80608DE0",
+                    "on": "E9D6AF2C8190909090909090",
+                    "off": "41C687C80100000141295F1C"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Stamina",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "18D3DB0",
+                    "on": "C4C17A115618E9F717C17E",
+                    "off": "0000000000000000000000"
+                },
+                {
+                    "offset": "804E55AC",
+                    "on": "E9FFE73E8190",
+                    "off": "C4C17A114618"
+                }
+            ]
+        },
+        {
+            "name": "Max Grenades ( on use )",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "18D3DE8",
+                    "on": "488B4728FF4C8820C744882063000000E9B2A5C17E",
+                    "off": "000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "804EE3A7",
+                    "on": "E93C5A3E81909090",
+                    "off": "488B4728FF4C8820"
+                }
+            ]
+        },
+        {
+            "name": "Max First Aid Kits ( on use )",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "18D3E30",
+                    "on": "418B8E2801000041898E2C010000E9CA4BD37E",
+                    "off": "00000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "80608A06",
+                    "on": "E925B42C819090",
+                    "off": "41898E2C010000"
+                }
+            ]
+        },
+        {
+            "name": "Max Money",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "18D3E0A",
+                    "on": "48B80000803F0000803F44017328C74328FFC99A3BE90E8DC77E",
+                    "off": "0000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "8054CB24",
+                    "on": "E9E1723881909090909090909090",
+                    "off": "48B80000803F0000803F44017328"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "Reddevil82 ",
+        " FW 9.00"
+    ]
+}
