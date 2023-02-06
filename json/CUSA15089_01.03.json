@@ -1,60 +1,60 @@
 {
-    "name": "STAR WARS™: Squadrons",
-    "id": "CUSA15089",
-    "version": "01.03",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "STAR WARS™: Squadrons",
+  "id": "CUSA15089",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Infinite Health",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "46CFDB0",
-                    "on": "C7432C0000803FE99F137EFD526564646576696C3832202D20465720392E3030",
-                    "off": "000000000000000000000000"
-                },
-                {
-                    "offset": "1EB1156",
-                    "on": "E955EC8102",
-                    "off": "C5FA11432C"
-                }
-            ]
+          "offset": "46CFDB0",
+          "on": "C7432C0000803FE99F137EFD526564646576696C3832202D20465720392E3030",
+          "off": "000000000000000000000000"
         },
         {
-            "name": "Infinite Energy / Ammo",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "46CFDD0",
-                    "on": "C7462C00C07944C5F810462CE9A47D08FE",
-                    "off": "0000000000000000000000000000000000"
-                },
-                {
-                    "offset": "2757B80",
-                    "on": "E94B82F701",
-                    "off": "C5F810462C"
-                }
-            ]
-        },
-        {
-            "name": "Max Missiles / Warheads ( you need 1 )",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "46CFDE1",
-                    "on": "813F90ADF904750AC787C001000063000000813FD098F904750AC787C0010000630000008B87C0010000E971648FFD",
-                    "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "1FC627B",
-                    "on": "E9619B700290",
-                    "off": "8B87C0010000"
-                }
-            ]
+          "offset": "1EB1156",
+          "on": "E955EC8102",
+          "off": "C5FA11432C"
         }
-    ],
-    "credits": [
-        "Reddevil82 ",
-        "  FW 9.00"
-    ]
+      ]
+    },
+    {
+      "name": "Infinite Energy / Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "46CFDD0",
+          "on": "C7462C00C07944C5F810462CE9A47D08FE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "2757B80",
+          "on": "E94B82F701",
+          "off": "C5F810462C"
+        }
+      ]
+    },
+    {
+      "name": "Max Missiles / Warheads ( you need 1 )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "46CFDE1",
+          "on": "813F90ADF904750AC787C001000063000000813FD098F904750AC787C0010000630000008B87C0010000E971648FFD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1FC627B",
+          "on": "E9619B700290",
+          "off": "8B87C0010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    "  FW 9.00"
+  ]
 }
