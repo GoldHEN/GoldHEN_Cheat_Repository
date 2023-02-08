@@ -1,0 +1,75 @@
+{
+    "name": "Skyrim",
+    "id": "CUSA05486",
+    "version": "01.17",
+    "process": "eboot.bin",
+    "mods": [
+        {
+            "name": "Max Coins (after taking a stack from corpses)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "1D23B20",
+                    "on": "41C74424103F420F00E9707D41FE",
+                    "off": "0000000000000000000000000000"
+                },
+                {
+                    "offset": "13B899",
+                    "on": "E98282BE01",
+                    "off": "4189442410"
+                }
+            ]
+        },
+        {
+            "name": "99 Crafting Items (after Spending)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "1D23B60",
+                    "on": "8B85B8FEFFFF41C6461063E9A3AF41FE",
+                    "off": "00000000000000000000000000000000"
+                },
+                {
+                    "offset": "13EB09",
+                    "on": "E95250BE019090909090",
+                    "off": "8B85B8FEFFFF41294610"
+                }
+            ]
+        },
+        {
+            "name": "99 Perks Points (reach level 2)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "1D23B90",
+                    "on": "C680310A000063E9F5A8D4FE",
+                    "off": "000000000000000000000000"
+                },
+                {
+                    "offset": "A6E48B",
+                    "on": "E900572B0190",
+                    "off": "8888310A0000"
+                }
+            ]
+        },
+        {
+            "name": "Max Skills and stats( need perks and save/load game after activating)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "1D234B0",
+                    "on": "C7048E00401C46C5FA10048EE988AFA3FE",
+                    "off": "0000000000000000000000000000000000"
+                },
+                {
+                    "offset": "75E444",
+                    "on": "E967505C01",
+                    "off": "C5FA10048E"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "Wander FW9.00"
+    ]
+}
