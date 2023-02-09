@@ -1,0 +1,1 @@
+{"name":"Cities: Skylines","id":"CUSA06548","version":"13.00","process":"eboot.bin","mods":[{"name":"Max/Infinite Money (Unlock Loans Before)","type":"checkbox","memory":[{"offset":"7FC5F800","on":"488D0C89C7448824FF7FC6A4E953F5DE00","off":"0000000000000000000000000000000000"},{"offset":"80A4ED5C","on":"E99F0A21FF909090","off":"488D0C89897C8824"}]}],"credits":["Celogamez"]}
