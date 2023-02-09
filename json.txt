@@ -645,6 +645,7 @@ CUSA00744_02.35.json=Minecraft
 CUSA00433_01.40_2.json=Diablo III: Reaper of Souls – Ultimate Evil Edition
 SLPM62729_01.00.json=Akumajou Dracula
 CUSA02557_01.00.json=Fallout 4
+CUSA25283_01.02.json=My Name is Mayo 2
 CUSA01047_01.00.json=Ratchet & Clank
 CUSA00937_01.00.json=FINAL FANTASY TYPE-0 HD
 CUSA00018_01.21_2_default_mp.elf.json=COD: Ghosts (EX)
