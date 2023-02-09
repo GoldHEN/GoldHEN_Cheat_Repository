@@ -1,1 +1,76 @@
-{"name":"Two Point Campus","id":"CUSA24605","version":"01.12","process":"eboot.bin","mods":[{"name":"Max Money ( on gain )","type":"checkbox","memory":[{"offset":"197FDB0","on":"4D0167184489F649C74718FFC99A3BE9FD62027F526564646576696C3832202D20465720392E3030","off":"0000000000000000000000000000000000000000"},{"offset":"809A60BA","on":"E9F19CFD809090","off":"4D0167184489F6"}]},{"name":"Max Kudosh ( on gain )","type":"checkbox","memory":[{"offset":"197FE06","on":"4529A5400100004C89FE41C785400100003F420F00E9581F2C7F","off":"0000000000000000000000000000000000000000000000000000"},{"offset":"80C41D6E","on":"E993E0D3809090909090","off":"4529A5400100004C89FE"}]},{"name":"Max Career Points","type":"checkbox","memory":[{"offset":"197FDED","on":"498B85100100004C89EFC780480100003F420F00E907A3587F","off":"00000000000000000000000000000000000000000000000000"},{"offset":"80F0A103","on":"E9E55CA7809090909090","off":"498B85100100004C89EF"}]},{"name":"Max Room Prestige","type":"checkbox","memory":[{"offset":"197FE20","on":"C781900100000000803FC5FA108190010000C78188010000050000008BB188010000E9D2ECCD7E","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"8065EB0B","on":"E910133281909090","off":"C5FA108190010000"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "Two Point Campus",
+  "id": "CUSA24605",
+  "version": "01.12",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "197FDB0",
+          "on": "4D0167184489F649C74718FFC99A3BE9FD62027F526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "809A60BA",
+          "on": "E9F19CFD809090",
+          "off": "4D0167184489F6"
+        }
+      ]
+    },
+    {
+      "name": "Max Kudosh ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "197FE06",
+          "on": "4529A5400100004C89FE41C785400100003F420F00E9581F2C7F",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80C41D6E",
+          "on": "E993E0D3809090909090",
+          "off": "4529A5400100004C89FE"
+        }
+      ]
+    },
+    {
+      "name": "Max Career Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "197FDED",
+          "on": "498B85100100004C89EFC780480100003F420F00E907A3587F",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80F0A103",
+          "on": "E9E55CA7809090909090",
+          "off": "498B85100100004C89EF"
+        }
+      ]
+    },
+    {
+      "name": "Max Room Prestige",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "197FE20",
+          "on": "C781900100000000803FC5FA108190010000C78188010000050000008BB188010000E9D2ECCD7E",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8065EB0B",
+          "on": "E910133281909090",
+          "off": "C5FA108190010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

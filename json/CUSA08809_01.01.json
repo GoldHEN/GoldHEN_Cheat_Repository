@@ -1,1 +1,33 @@
-{"name":"SHADOW OF THE COLOSSUS™","id":"CUSA08809","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"7ECF0D","on":"9090909090909090","off":"C5FA1105638DA702"}]},{"name":"Infinite Grip","type":"checkbox","memory":[{"offset":"7ED1D3","on":"9090909090909090","off":"C5FA1105B58AA702"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "SHADOW OF THE COLOSSUS™",
+  "id": "CUSA08809",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7ECF0D",
+          "on": "9090909090909090",
+          "off": "C5FA1105638DA702"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Grip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7ED1D3",
+          "on": "9090909090909090",
+          "off": "C5FA1105B58AA702"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

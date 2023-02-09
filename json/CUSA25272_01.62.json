@@ -1,1 +1,54 @@
-{"name":"THE KING OF FIGHTERS XV","id":"CUSA25272","version":"01.62","process":"eboot.bin","mods":[{"name":"Both Player Inf Health","type":"checkbox","memory":[{"offset":"E0F43C","on":"90909090909090","off":"4529B734070000"}]},{"name":"P1 INF Health turn off both player","type":"checkbox","memory":[{"offset":"6303800","on":"664183FF280F8438BCB0FA4529B734070000E92CBCB0FA","off":"0000000000000000000000000000000000000000000000"},{"offset":"E0F43C","on":"E9BF434F059090","off":"4529B734070000"}]},{"name":"Player 1 Inf Super ","type":"checkbox","memory":[{"offset":"6303820","on":"664183FF28750641BE0000A1134589B73C070000E9BAB9B0FA","off":"00000000000000000000000000000000000000000000000000"},{"offset":"E0F1EC","on":"E92F464F059090","off":"4589B73C070000"}]}],"credits":["aran"]}
+{
+  "name": "THE KING OF FIGHTERS XV",
+  "id": "CUSA25272",
+  "version": "01.62",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Both Player Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E0F43C",
+          "on": "90909090909090",
+          "off": "4529B734070000"
+        }
+      ]
+    },
+    {
+      "name": "P1 INF Health turn off both player",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6303800",
+          "on": "664183FF280F8438BCB0FA4529B734070000E92CBCB0FA",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E0F43C",
+          "on": "E9BF434F059090",
+          "off": "4529B734070000"
+        }
+      ]
+    },
+    {
+      "name": "Player 1 Inf Super ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6303820",
+          "on": "664183FF28750641BE0000A1134589B73C070000E9BAB9B0FA",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E0F1EC",
+          "on": "E92F464F059090",
+          "off": "4589B73C070000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "aran"
+  ]
+}

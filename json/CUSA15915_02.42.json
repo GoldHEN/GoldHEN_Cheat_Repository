@@ -1,1 +1,27 @@
-{"name":"SAMURAI SHODOWN","id":"CUSA15915","version":"02.42","process":"eboot.bin","mods":[{"name":"Infinite HP P1","type":"checkbox","memory":[{"offset":"52E97C0","on":"41807F20000F844AC24DFB4529B714070000E93EC24DFB","off":"0000000000000000000000000000000000000000000000"},{"offset":"7C5A0E","on":"E9AD3DB2049090","off":"4529B714070000"}]}],"credits":["aran"]}
+{
+  "name": "SAMURAI SHODOWN",
+  "id": "CUSA15915",
+  "version": "02.42",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite HP P1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "52E97C0",
+          "on": "41807F20000F844AC24DFB4529B714070000E93EC24DFB",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7C5A0E",
+          "on": "E9AD3DB2049090",
+          "off": "4529B714070000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "aran"
+  ]
+}

@@ -1,1 +1,65 @@
-{"name":"Neptunia x SENRAN KAGURA - Ninja Wars","id":"CUSA29604","version":"01.02","process":"eboot.bin","mods":[{"name":"Infinite Health/Stamina","type":"checkbox","memory":[{"offset":"C17DE0","on":"80BBAC020000027509C74308003C1C46EB05C5FA114308E9466A54FF","off":"00000000000000000000000000000000000000000000000000000000"},{"offset":"15E83D","on":"E99E95AB00","off":"C5FA114308"}]},{"name":"Coins Multiplier (on buy)","type":"checkbox","memory":[{"offset":"BE17F","on":"0115A7D10501","off":"8915A7D10501"}]},{"name":"Items do not decrease","type":"checkbox","memory":[{"offset":"BB975","on":"90909090","off":"6641891F"}]},{"name":"Max Experience","type":"checkbox","memory":[{"offset":"C17E30","on":"C783100900007F969800E938EE56FF","off":"000000000000000000000000000000"},{"offset":"186C70","on":"E9BB11A9009090","off":"4489B310090000"}]}],"credits":["WanderFW9.00"]}
+{
+  "name": "Neptunia x SENRAN KAGURA - Ninja Wars",
+  "id": "CUSA29604",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C17DE0",
+          "on": "80BBAC020000027509C74308003C1C46EB05C5FA114308E9466A54FF",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15E83D",
+          "on": "E99E95AB00",
+          "off": "C5FA114308"
+        }
+      ]
+    },
+    {
+      "name": "Coins Multiplier (on buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BE17F",
+          "on": "0115A7D10501",
+          "off": "8915A7D10501"
+        }
+      ]
+    },
+    {
+      "name": "Items do not decrease",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BB975",
+          "on": "90909090",
+          "off": "6641891F"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C17E30",
+          "on": "C783100900007F969800E938EE56FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "186C70",
+          "on": "E9BB11A9009090",
+          "off": "4489B310090000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "WanderFW9.00"
+  ]
+}
