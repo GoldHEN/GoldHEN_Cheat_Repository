@@ -1,1 +1,43 @@
-{"name":"SIFU","id":"CUSA25761","version":"01.16","process":"eboot.bin","mods":[{"name":"Infinite health","type":"checkbox","memory":[{"offset":"8A33950","on":"80BB5401000000750CC7833801000000004843EB08C5FA118338010000E9D90616FA","off":"00000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"2B94043","on":"E908F9E905909090","off":"C5FA118338010000"}]},{"name":"Max Experience/Score (on the second fight Turn off after)","type":"checkbox","memory":[{"offset":"8A33990","on":"C74708F0237449E9EDA77AF8","off":"000000000000000000000000"},{"offset":"11DE184","on":"E907588507","off":"C5FA114708"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "SIFU",
+  "id": "CUSA25761",
+  "version": "01.16",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8A33950",
+          "on": "80BB5401000000750CC7833801000000004843EB08C5FA118338010000E9D90616FA",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2B94043",
+          "on": "E908F9E905909090",
+          "off": "C5FA118338010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience/Score (on the second fight Turn off after)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8A33990",
+          "on": "C74708F0237449E9EDA77AF8",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "11DE184",
+          "on": "E907588507",
+          "off": "C5FA114708"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

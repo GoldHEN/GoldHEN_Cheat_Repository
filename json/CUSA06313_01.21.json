@@ -1,1 +1,49 @@
-{"name":"Sackboy™: A Big Adventure","id":"CUSA06313","version":"01.21","process":"eboot.bin","mods":[{"name":"Infinite lives","type":"checkbox","memory":[{"offset":"2319266","on":"909090909090","off":"898B64060000"}]},{"name":"Max score (Each gray orb is worth 1000)","type":"checkbox","memory":[{"offset":"84A3DB0","on":"418185B4030000E8030000E9C1F7D1F9","off":"00000000000000000000000000000000"},{"offset":"21C357A","on":"E931082E069090","off":"410195B4030000"}]},{"name":"Each golden orb doubles the total (Deactivate after reaching a large sum)","type":"checkbox","memory":[{"offset":"22C5F77","on":"440130","off":"448930"}]}],"credits":["AngelDavil88_9.00"]}
+{
+  "name": "Sackboy™: A Big Adventure",
+  "id": "CUSA06313",
+  "version": "01.21",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2319266",
+          "on": "909090909090",
+          "off": "898B64060000"
+        }
+      ]
+    },
+    {
+      "name": "Max score (Each gray orb is worth 1000)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84A3DB0",
+          "on": "418185B4030000E8030000E9C1F7D1F9",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "21C357A",
+          "on": "E931082E069090",
+          "off": "410195B4030000"
+        }
+      ]
+    },
+    {
+      "name": "Each golden orb doubles the total (Deactivate after reaching a large sum)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "22C5F77",
+          "on": "440130",
+          "off": "448930"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "AngelDavil88_9.00"
+  ]
+}

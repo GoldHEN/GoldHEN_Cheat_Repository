@@ -1,1 +1,39 @@
-{"name":"Horizon Chase Turbo","id":"CUSA11275","version":"02.50","process":"eboot.bin","mods":[{"name":"Max/Infinite Fuel","type":"checkbox","memory":[{"offset":"1873F00","on":"C743280000C842E933E3CD7E","off":"000000000000000000000000"},{"offset":"8055223A","on":"E9C11C3281","off":"C5FA114B28"}]},{"name":"Infinite Nitro Turbo","type":"checkbox","memory":[{"section":"14","offset":"27C370","on":"8B7720","off":"897720"}]}],"credits":["Celogamez"]}
+{
+  "name": "Horizon Chase Turbo",
+  "id": "CUSA11275",
+  "version": "02.50",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Fuel",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1873F00",
+          "on": "C743280000C842E933E3CD7E",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "8055223A",
+          "on": "E9C11C3281",
+          "off": "C5FA114B28"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Nitro Turbo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "27C370",
+          "on": "8B7720",
+          "off": "897720"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

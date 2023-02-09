@@ -1,1 +1,59 @@
-{"name":"Battlefield™ V","id":"CUSA08724","version":"01.38","process":"eboot.bin","mods":[{"name":"Infinite Health/Breath","type":"checkbox","memory":[{"offset":"42FFB10","on":"807B6C11750FC5FA10431CC5FA11431CE909781FFEC5FA11431CE9FF771FFE","off":"00000000000000000000000000000000000000000000000000000000000000"},{"offset":"24F7329","on":"E9E287E001","off":"C5FA11431C"}]},{"name":"Infinite Ammo/Grenades","type":"checkbox","memory":[{"offset":"42FFDB0","on":"8B8354020000E98D5654FE","off":"0000000000000000000000"},{"offset":"2845442","on":"E969A9AB0190","off":"898354020000"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"2867623","on":"909090","off":"FF5020"},{"offset":"2868020","on":"909090","off":"FF5020"}]}],"credits":["Celogamez"]}
+{
+  "name": "Battlefield™ V",
+  "id": "CUSA08724",
+  "version": "01.38",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/Breath",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "42FFB10",
+          "on": "807B6C11750FC5FA10431CC5FA11431CE909781FFEC5FA11431CE9FF771FFE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "24F7329",
+          "on": "E9E287E001",
+          "off": "C5FA11431C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "42FFDB0",
+          "on": "8B8354020000E98D5654FE",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "2845442",
+          "on": "E969A9AB0190",
+          "off": "898354020000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2867623",
+          "on": "909090",
+          "off": "FF5020"
+        },
+        {
+          "offset": "2868020",
+          "on": "909090",
+          "off": "FF5020"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

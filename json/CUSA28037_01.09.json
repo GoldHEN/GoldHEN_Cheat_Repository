@@ -1,1 +1,189 @@
-{"name":"Chernobylite","id":"CUSA28037","version":"01.09","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"5B2FDD2","on":"C786441B000000002041C5FA1086441B0000E9FFBA08FB","off":"0000000000000000000000000000000000000000000000"},{"offset":"BBB8E0","on":"E9ED44F704909090","off":"C5FA1086441B0000"}]},{"name":"Infinite Health ( Zero Radiation )","type":"checkbox","memory":[{"offset":"5B2FE50","on":"C7864C1B000000000000C5FA10864C1B0000E925BE08FB","off":"0000000000000000000000000000000000000000000000"},{"offset":"BBBC84","on":"E9C741F704909090","off":"C5FA10864C1B0000"}]},{"name":"Infinite Psyche","type":"checkbox","memory":[{"offset":"5B2FDE9","on":"49C7461C00001041C4C17C10461CE9F3690AFB","off":"00000000000000000000000000000000000000"},{"offset":"BD67E9","on":"E9FB95F50490","off":"C4C17C10461C"}]},{"name":"Infinite Shield","type":"checkbox","memory":[{"offset":"5B2FDFC","on":"C786C81B000000002041C5FA108EC81B0000E9C6FA07FB","off":"0000000000000000000000000000000000000000000000"},{"offset":"BAF8D1","on":"E92605F804909090","off":"C5FA108EC81B0000"}]},{"name":"Infinite Flashlight","type":"checkbox","memory":[{"offset":"BBCF79","on":"C5FA118B4C030000","off":"C5FA11834C030000"}]},{"name":"One Hit Kill","type":"checkbox","memory":[{"offset":"5B2FE13","on":"0F57C0C4C17A1186E0000000E9EEAA08FB","off":"0000000000000000000000000000000000"},{"offset":"BBA909","on":"E90555F70490909090","off":"C4C17A1186E0000000"}]},{"name":"Stealth Mode","type":"checkbox","memory":[{"offset":"5B2FE67","on":"0F57C9C4C17A118DD4010000E9A89707FB","off":"0000000000000000000000000000000000"},{"offset":"BA9617","on":"E94B68F80490909090","off":"C4C17A118DD4010000"}]},{"name":"No Reload ( Weapon )","type":"checkbox","memory":[{"offset":"5B2FDB0","on":"BE0900000089B770040000E9174407FB526564646576696C383220465720392E3030","off":"00000000000000000000000000000000"},{"offset":"BA41D1","on":"E9DABBF80490","off":"89B770040000"}]},{"name":"Max Buildings Requirements Money ( on use )","type":"checkbox","memory":[{"offset":"5B2FE24","on":"C74418F8804FC347C5FA104418F8C5FA114418F8E95CB812FB","off":"00000000000000000000000000000000000000000000000000"},{"offset":"C5B693","on":"E98C47ED0490","off":"C5FA114418F8"}]},{"name":"Infinite Items ( don´t decrease )","type":"checkbox","memory":[{"offset":"C5B40C","on":"90909090909090","off":"C4A17A114428F4"}]},{"name":"Duplicate Items","type":"checkbox","memory":[{"offset":"5B2FE3D","on":"C4A17A11442BF0C4A17A10442BF4E966FB12FB","off":"00000000000000000000000000000000000000"},{"offset":"C5F9A7","on":"E99104ED049090","off":"C4A17A10442BF4"}]},{"name":"Freeze Timer","type":"checkbox","memory":[{"offset":"BB8128","on":"9090","off":"8932"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "Chernobylite",
+  "id": "CUSA28037",
+  "version": "01.09",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B2FDD2",
+          "on": "C786441B000000002041C5FA1086441B0000E9FFBA08FB",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BBB8E0",
+          "on": "E9ED44F704909090",
+          "off": "C5FA1086441B0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health ( Zero Radiation )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B2FE50",
+          "on": "C7864C1B000000000000C5FA10864C1B0000E925BE08FB",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BBBC84",
+          "on": "E9C741F704909090",
+          "off": "C5FA10864C1B0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Psyche",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B2FDE9",
+          "on": "49C7461C00001041C4C17C10461CE9F3690AFB",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BD67E9",
+          "on": "E9FB95F50490",
+          "off": "C4C17C10461C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Shield",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B2FDFC",
+          "on": "C786C81B000000002041C5FA108EC81B0000E9C6FA07FB",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BAF8D1",
+          "on": "E92605F804909090",
+          "off": "C5FA108EC81B0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Flashlight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BBCF79",
+          "on": "C5FA118B4C030000",
+          "off": "C5FA11834C030000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B2FE13",
+          "on": "0F57C0C4C17A1186E0000000E9EEAA08FB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "BBA909",
+          "on": "E90555F70490909090",
+          "off": "C4C17A1186E0000000"
+        }
+      ]
+    },
+    {
+      "name": "Stealth Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B2FE67",
+          "on": "0F57C9C4C17A118DD4010000E9A89707FB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "BA9617",
+          "on": "E94B68F80490909090",
+          "off": "C4C17A118DD4010000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload ( Weapon )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B2FDB0",
+          "on": "BE0900000089B770040000E9174407FB526564646576696C383220465720392E3030",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "BA41D1",
+          "on": "E9DABBF80490",
+          "off": "89B770040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Buildings Requirements Money ( on use )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B2FE24",
+          "on": "C74418F8804FC347C5FA104418F8C5FA114418F8E95CB812FB",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C5B693",
+          "on": "E98C47ED0490",
+          "off": "C5FA114418F8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items ( don´t decrease )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C5B40C",
+          "on": "90909090909090",
+          "off": "C4A17A114428F4"
+        }
+      ]
+    },
+    {
+      "name": "Duplicate Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B2FE3D",
+          "on": "C4A17A11442BF0C4A17A10442BF4E966FB12FB",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C5F9A7",
+          "on": "E99104ED049090",
+          "off": "C4A17A10442BF4"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BB8128",
+          "on": "9090",
+          "off": "8932"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

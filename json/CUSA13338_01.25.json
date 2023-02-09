@@ -1,1 +1,213 @@
-{"name":"DOOM Eternal","id":"CUSA13338","version":"01.25","process":"eboot.bin","mods":[{"name":"Infinite Health/Shield","type":"checkbox","memory":[{"offset":"3357E80","on":"90E9680A38FD","off":"000000000000"},{"offset":"6D88E8","on":"E993F5C70290","off":"C4E379170001"}]},{"name":"Max/Infinite Lives On Gain","type":"checkbox","memory":[{"offset":"3357CE0","on":"84D2C6473863E900800CFE","off":"0000000000000000000000"},{"offset":"141FCE6","on":"E9F57FF301","off":"84D2897738"}]},{"name":"Infinite Ammo/No Reload/Fuel","type":"checkbox","memory":[{"offset":"3357DF0","on":"4C89F7418B4638E9F3880CFE","off":"000000000000000000000000"},{"offset":"14206E8","on":"E90377F3019090","off":"4C89F741894638"}]},{"name":"Infinite Dash","type":"checkbox","memory":[{"offset":"3357DB0","on":"C5FA104308E9FB4DC6FD","off":"00000000000000000000"},{"offset":"FBCBB0","on":"E9FBB13902","off":"C5FA114308"}]},{"name":"Infinite Radiation/Dive Suit","type":"checkbox","memory":[{"offset":"3357D60","on":"41C746080000803FE94E53C6FD","off":"00000000000000000000000000"},{"offset":"FBD0B5","on":"E9A6AC390290","off":"C4C17A114608"},{"offset":"33577D0","on":"41C74424080000803FC4C17A10442408E9ED42C6FD","off":"000000000000000000000000000000000000000000"},{"offset":"FBBACB","on":"E900BD39029090","off":"C4C17A11442408"}]},{"name":"Infinite Grenades","type":"checkbox","memory":[{"offset":"3357ED0","on":"90E9FF5EE5FD","off":"000000000000"},{"offset":"11ADDCD","on":"E9FEA01A02909090","off":"41FF8CC4306F0000"}]},{"name":"Infinite Flame Belch","type":"checkbox","memory":[{"offset":"3357EF0","on":"90E9905EE5FD","off":"000000000000"},{"offset":"11ADD7E","on":"E96DA11A02909090","off":"41FF8C24806F0000"}]},{"name":"Infinite Blood Punch","type":"checkbox","memory":[{"offset":"3357F50","on":"41C7871801000000000040C4C17A108718010000E93A030BFE","off":"00000000000000000000000000000000000000000000000000"},{"offset":"140829A","on":"E9B1FCF40190909090","off":"C4C17A118718010000"}]},{"name":"Infinite Crucible Sword","type":"checkbox","memory":[{"offset":"3357BF0","on":"C7430800004040E99F2DC6FD","off":"000000000000000000000000"},{"offset":"FBA996","on":"E955D23902","off":"C5FA114308"}]},{"name":"Infinite Sentinel Hammer","type":"checkbox","memory":[{"offset":"3357F10","on":"C787740400000000F042C5FA108774040000E96DD40AFE","off":"0000000000000000000000000000000000000000000000"},{"offset":"140538C","on":"E97F2BF501909090","off":"C5FA108774040000"}]},{"name":"Infinite Jumps","type":"checkbox","memory":[{"offset":"33578E0","on":"C783804100000100000083BB8041000002E9DA7EEAFC","off":"00000000000000000000000000000000000000000000"},{"offset":"1FF7C9","on":"E9128115039090","off":"83BB8041000002"}]},{"name":"Max/Inf Weapons/Praetorian Points/Mastery Tokens/Sentinel Batteries","type":"checkbox","memory":[{"offset":"3357EB0","on":"42C684BF94CA040063E9FDEAE3FD","off":"0000000000000000000000000000"},{"offset":"11969B3","on":"E9F8141C02909090","off":"420194BF94CA0400"}]}],"credits":["Celogamez"]}
+{
+  "name": "DOOM Eternal",
+  "id": "CUSA13338",
+  "version": "01.25",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/Shield",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3357E80",
+          "on": "90E9680A38FD",
+          "off": "000000000000"
+        },
+        {
+          "offset": "6D88E8",
+          "on": "E993F5C70290",
+          "off": "C4E379170001"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Lives On Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3357CE0",
+          "on": "84D2C6473863E900800CFE",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "141FCE6",
+          "on": "E9F57FF301",
+          "off": "84D2897738"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/No Reload/Fuel",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3357DF0",
+          "on": "4C89F7418B4638E9F3880CFE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "14206E8",
+          "on": "E90377F3019090",
+          "off": "4C89F741894638"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Dash",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3357DB0",
+          "on": "C5FA104308E9FB4DC6FD",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "FBCBB0",
+          "on": "E9FBB13902",
+          "off": "C5FA114308"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Radiation/Dive Suit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3357D60",
+          "on": "41C746080000803FE94E53C6FD",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "FBD0B5",
+          "on": "E9A6AC390290",
+          "off": "C4C17A114608"
+        },
+        {
+          "offset": "33577D0",
+          "on": "41C74424080000803FC4C17A10442408E9ED42C6FD",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "FBBACB",
+          "on": "E900BD39029090",
+          "off": "C4C17A11442408"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3357ED0",
+          "on": "90E9FF5EE5FD",
+          "off": "000000000000"
+        },
+        {
+          "offset": "11ADDCD",
+          "on": "E9FEA01A02909090",
+          "off": "41FF8CC4306F0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Flame Belch",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3357EF0",
+          "on": "90E9905EE5FD",
+          "off": "000000000000"
+        },
+        {
+          "offset": "11ADD7E",
+          "on": "E96DA11A02909090",
+          "off": "41FF8C24806F0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Blood Punch",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3357F50",
+          "on": "41C7871801000000000040C4C17A108718010000E93A030BFE",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "140829A",
+          "on": "E9B1FCF40190909090",
+          "off": "C4C17A118718010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Crucible Sword",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3357BF0",
+          "on": "C7430800004040E99F2DC6FD",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "FBA996",
+          "on": "E955D23902",
+          "off": "C5FA114308"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Sentinel Hammer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3357F10",
+          "on": "C787740400000000F042C5FA108774040000E96DD40AFE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "140538C",
+          "on": "E97F2BF501909090",
+          "off": "C5FA108774040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jumps",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33578E0",
+          "on": "C783804100000100000083BB8041000002E9DA7EEAFC",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1FF7C9",
+          "on": "E9128115039090",
+          "off": "83BB8041000002"
+        }
+      ]
+    },
+    {
+      "name": "Max/Inf Weapons/Praetorian Points/Mastery Tokens/Sentinel Batteries",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3357EB0",
+          "on": "42C684BF94CA040063E9FDEAE3FD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "11969B3",
+          "on": "E9F8141C02909090",
+          "off": "420194BF94CA0400"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

@@ -1,1 +1,22 @@
-{"name":"Blazing Chrome","id":"CUSA14656","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite Lives","type":"checkbox","memory":[{"offset":"267F49","on":"9090909090","off":"E83265DAFF"}]}],"credits":["Celogamez"]}
+{
+  "name": "Blazing Chrome",
+  "id": "CUSA14656",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "267F49",
+          "on": "9090909090",
+          "off": "E83265DAFF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

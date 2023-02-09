@@ -1,1 +1,97 @@
-{"name":"Call of Duty®: Advanced Warfare","id":"CUSA00803","version":"01.24","process":"default.elf","mods":[{"name":"Infinite Health/1 Hit Kill (Master Code/Must Be On)","type":"checkbox","memory":[{"offset":"793FA0","on":"4180FD64750E41898784010000E93C73AAFF31C041898784010000E92E73AAFF43656C6F67616D657A5F392E3030","off":"0000000000000000000000000000000000000000000000000000000000000000"},{"offset":"23B2E7","on":"E9B48C55009090","off":"41898784010000"}]},{"name":"Infinite Health (Enable MC)","type":"checkbox","memory":[{"offset":"793FA6","on":"418B8784010000","off":"41898784010000"}]},{"name":"1 Hit Kill (Enable MC)","type":"checkbox","memory":[{"offset":"793FA4","on":"750C","off":"750E"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"7FC49E90","on":"01D18B4808E98C407D80","off":"00000000000000000000"},{"offset":"41DF21","on":"E96ABF827F","off":"01D1894808"}]},{"name":"No Reload/Grenades","type":"checkbox","memory":[{"offset":"7FC49410","on":"442B7C8108E99AD77C80","off":"00000000000000000000"},{"offset":"416BAF","on":"E95C28837F","off":"44297C8108"}]},{"name":"Max/Infinite Upgrade Points","type":"checkbox","memory":[{"offset":"7FC4A6D0","on":"488B4CCA0841C7040F63000000E947D55080","off":"000000000000000000000000000000000000"},{"offset":"157C20","on":"E9AB2AAF7F90909090","off":"488B4CCA084189040F"}]}],"credits":["Celogamez"]}
+{
+  "name": "Call of Duty®: Advanced Warfare",
+  "id": "CUSA00803",
+  "version": "01.24",
+  "process": "default.elf",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit Kill (Master Code/Must Be On)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "793FA0",
+          "on": "4180FD64750E41898784010000E93C73AAFF31C041898784010000E92E73AAFF43656C6F67616D657A5F392E3030",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "23B2E7",
+          "on": "E9B48C55009090",
+          "off": "41898784010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (Enable MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "793FA6",
+          "on": "418B8784010000",
+          "off": "41898784010000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (Enable MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "793FA4",
+          "on": "750C",
+          "off": "750E"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC49E90",
+          "on": "01D18B4808E98C407D80",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "41DF21",
+          "on": "E96ABF827F",
+          "off": "01D1894808"
+        }
+      ]
+    },
+    {
+      "name": "No Reload/Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC49410",
+          "on": "442B7C8108E99AD77C80",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "416BAF",
+          "on": "E95C28837F",
+          "off": "44297C8108"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Upgrade Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4A6D0",
+          "on": "488B4CCA0841C7040F63000000E947D55080",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "157C20",
+          "on": "E9AB2AAF7F90909090",
+          "off": "488B4CCA084189040F"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

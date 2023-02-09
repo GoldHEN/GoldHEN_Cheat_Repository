@@ -1,1 +1,97 @@
-{"name":"Oddworld Soulstorm Enhanced Edition","id":"CUSA08126","version":"01.20","process":"eboot.bin","mods":[{"name":"Max/Infinite Health","type":"checkbox","memory":[{"offset":"7FC5E340","on":"41C7859C03000064000000E917DED601","off":"00000000000000000000000000000000"},{"offset":"819CC160","on":"E9DB2129FE9090","off":"4529BD9C030000"}]},{"name":"Infinite Chant","type":"checkbox","memory":[{"offset":"7FC5EBD0","on":"C4C17A108E9C000000E9C1032202","off":"0000000000000000000000000000"},{"offset":"81E7EF96","on":"E935FCDDFD90909090","off":"C4C17A11869C000000"}]},{"name":"Max/Infinite Items","type":"checkbox","memory":[{"offset":"7FC5FBA0","on":"42C644B02032E9F2083202","off":"0000000000000000000000"},{"offset":"81F80498","on":"E903F7CDFD","off":"46897CB020"}]},{"name":"Max/Infinite Moolah","type":"checkbox","memory":[{"section":"14","offset":"1DFA6E6","on":"41895774","off":"41894774"},{"offset":"7FC5FCE0","on":"B30141C74774204E0000E9FBE94402","off":"000000000000000000000000000000"},{"offset":"820AE6E4","on":"E9F715BBFD90","off":"B30141894774"}]},{"name":"Max/Infinite Flamethrower","type":"checkbox","memory":[{"offset":"18A3B30","on":"C744102C0000C842E9FEBAAA7F","off":"00000000000000000000000000"},{"offset":"8134F635","on":"E9F644558090","off":"C5FA1144102C"}]}],"credits":["Celogamez"]}
+{
+  "name": "Oddworld Soulstorm Enhanced Edition",
+  "id": "CUSA08126",
+  "version": "01.20",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E340",
+          "on": "41C7859C03000064000000E917DED601",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "819CC160",
+          "on": "E9DB2129FE9090",
+          "off": "4529BD9C030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Chant",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5EBD0",
+          "on": "C4C17A108E9C000000E9C1032202",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "81E7EF96",
+          "on": "E935FCDDFD90909090",
+          "off": "C4C17A11869C000000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FBA0",
+          "on": "42C644B02032E9F2083202",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "81F80498",
+          "on": "E903F7CDFD",
+          "off": "46897CB020"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Moolah",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "1DFA6E6",
+          "on": "41895774",
+          "off": "41894774"
+        },
+        {
+          "offset": "7FC5FCE0",
+          "on": "B30141C74774204E0000E9FBE94402",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "820AE6E4",
+          "on": "E9F715BBFD90",
+          "off": "B30141894774"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Flamethrower",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18A3B30",
+          "on": "C744102C0000C842E9FEBAAA7F",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "8134F635",
+          "on": "E9F644558090",
+          "off": "C5FA1144102C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

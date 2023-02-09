@@ -1,1 +1,189 @@
-{"name":"JUMP FORCE","id":"CUSA11638","version":"03.01","process":"eboot.bin","mods":[{"name":"Mastercode ( must be activated ) ","type":"checkbox","memory":[{"offset":"494FDEC","on":"80782002750FC5FA114828C5FA114828E9A11EF1FEC5FA114828C5FA114828E9921EF1FE","off":"000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"3861C9D","on":"E94AE10E01","off":"C5FA114828"},{"offset":"494FE10","on":"41807820027511C4C17A114830C4C17A114830E9FA92C6FEC4C17A114830C4C17A114830E9E992C6FE","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"35B911C","on":"E9EF6C390190","off":"C4C17A114830"},{"offset":"494FE39","on":"41807820027511C4C17A115040C4C17A115040E93596C6FEC4C17A115040C4C17A115040E92496C6FE","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"35B9480","on":"E9B469390190","off":"C4C17A115040"},{"offset":"494FE62","on":"41807C2420027513C4C17A11442438C4C17A11442438E9058BC6FEC4C17A11442438C4C17A11442438E9F28AC6FE","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"35B897B","on":"E9E27439019090","off":"C4C17A11442438"}]},{"name":"Infinite Health [MC]","type":"checkbox","memory":[{"offset":"494FDF2","on":"C5FA10482C","off":"C5FA114828"}]},{"name":"One Hit Kill [MC]","type":"checkbox","memory":[{"offset":"494FE01","on":"0F57C99090","off":"C5FA114828"}]},{"name":"Infinite Charge [MC]","type":"checkbox","memory":[{"offset":"494FE17","on":"C4C17A104834","off":"C4C17A114830"}]},{"name":"No Charge Enemies [MC]","type":"checkbox","memory":[{"offset":"494FE28","on":"0F57C9909090","off":"C4C17A114830"}]},{"name":"Infinite Awakening [MC]","type":"checkbox","memory":[{"offset":"494FE40","on":"C4C17A105044","off":"C4C17A115040"}]},{"name":"No Awakening Enemies [MC]","type":"checkbox","memory":[{"offset":"494FE51","on":"0F57D2909090","off":"C4C17A115040"}]},{"name":"Infinite Stamina [MC]","type":"checkbox","memory":[{"offset":"494FE6A","on":"C4C17A1044243C","off":"C4C17A11442438"}]},{"name":"No Stamina Enemies [MC]","type":"checkbox","memory":[{"offset":"494FE7D","on":"0F57C090909090","off":"C4C17A11442438"}]},{"name":"Max Money ( on gain )","type":"checkbox","memory":[{"offset":"494FDB0","on":"488B8098070000C7401C7F969800448B501CE9CBA5D7FE","off":"0000000000000000000000000000000000000000000000"},{"offset":"36CA387","on":"E9245A2801909090909090","off":"488B8098070000448B501C"}]},{"name":"Max Items ( on buy )","type":"checkbox","memory":[{"offset":"494FDC7","on":"66C744D104E7030FB744D104E915ADD7FE526564646576696C3832202D20465720392E3030","off":"0000000000000000000000000000000000"},{"offset":"36CAAE4","on":"E9DE522801","off":"0FB744D104"}]},{"name":"Freeze Timer","type":"checkbox","memory":[{"offset":"35BA345","on":"9090909090909090","off":"C5FA118314010000"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "JUMP FORCE",
+  "id": "CUSA11638",
+  "version": "03.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Mastercode ( must be activated ) ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "494FDEC",
+          "on": "80782002750FC5FA114828C5FA114828E9A11EF1FEC5FA114828C5FA114828E9921EF1FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3861C9D",
+          "on": "E94AE10E01",
+          "off": "C5FA114828"
+        },
+        {
+          "offset": "494FE10",
+          "on": "41807820027511C4C17A114830C4C17A114830E9FA92C6FEC4C17A114830C4C17A114830E9E992C6FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "35B911C",
+          "on": "E9EF6C390190",
+          "off": "C4C17A114830"
+        },
+        {
+          "offset": "494FE39",
+          "on": "41807820027511C4C17A115040C4C17A115040E93596C6FEC4C17A115040C4C17A115040E92496C6FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "35B9480",
+          "on": "E9B469390190",
+          "off": "C4C17A115040"
+        },
+        {
+          "offset": "494FE62",
+          "on": "41807C2420027513C4C17A11442438C4C17A11442438E9058BC6FEC4C17A11442438C4C17A11442438E9F28AC6FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "35B897B",
+          "on": "E9E27439019090",
+          "off": "C4C17A11442438"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health [MC]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "494FDF2",
+          "on": "C5FA10482C",
+          "off": "C5FA114828"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill [MC]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "494FE01",
+          "on": "0F57C99090",
+          "off": "C5FA114828"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Charge [MC]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "494FE17",
+          "on": "C4C17A104834",
+          "off": "C4C17A114830"
+        }
+      ]
+    },
+    {
+      "name": "No Charge Enemies [MC]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "494FE28",
+          "on": "0F57C9909090",
+          "off": "C4C17A114830"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Awakening [MC]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "494FE40",
+          "on": "C4C17A105044",
+          "off": "C4C17A115040"
+        }
+      ]
+    },
+    {
+      "name": "No Awakening Enemies [MC]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "494FE51",
+          "on": "0F57D2909090",
+          "off": "C4C17A115040"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina [MC]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "494FE6A",
+          "on": "C4C17A1044243C",
+          "off": "C4C17A11442438"
+        }
+      ]
+    },
+    {
+      "name": "No Stamina Enemies [MC]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "494FE7D",
+          "on": "0F57C090909090",
+          "off": "C4C17A11442438"
+        }
+      ]
+    },
+    {
+      "name": "Max Money ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "494FDB0",
+          "on": "488B8098070000C7401C7F969800448B501CE9CBA5D7FE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "36CA387",
+          "on": "E9245A2801909090909090",
+          "off": "488B8098070000448B501C"
+        }
+      ]
+    },
+    {
+      "name": "Max Items ( on buy )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "494FDC7",
+          "on": "66C744D104E7030FB744D104E915ADD7FE526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "36CAAE4",
+          "on": "E9DE522801",
+          "off": "0FB744D104"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "35BA345",
+          "on": "9090909090909090",
+          "off": "C5FA118314010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

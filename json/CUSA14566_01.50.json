@@ -1,1 +1,92 @@
-{"name":"PC Building Simulator","id":"CUSA14566","version":"01.50","process":"eboot.bin","mods":[{"name":"Max Money","type":"checkbox","memory":[{"offset":"189FDB0","on":"488B4738C740187F9698008B4018E9C4A7E47E526564646576696C3832202D20465720392E3030","off":"00000000000000000000000000000000000000"},{"offset":"806EA580","on":"E92B581B819090","off":"488B47388B4018"}]},{"name":"Max XP Level","type":"checkbox","memory":[{"offset":"189FDD7","on":"488B4738C74014982E02008B4014E9ADA7E47E","off":"00000000000000000000000000000000000000"},{"offset":"806EA590","on":"E942581B819090","off":"488B47388B4014"}]},{"name":"No Costs in Shop ( only Delivery )","type":"checkbox","memory":[{"offset":"189FDF0","on":"41C7875001000000000000E97681BC7E","off":"00000000000000000000000000000000"},{"offset":"80467F6F","on":"E97C7E43819090","off":"41898750010000"}]},{"name":"No Delivery Cost","type":"checkbox","memory":[{"offset":"189FE21","on":"418BBF5001000084C00F854082BC7EE93182BC7E","off":"0000000000000000000000000000000000000000"},{"offset":"8046805B","on":"E9C17D4381909090909090","off":"418BBF5001000084C0740A"}]},{"name":"Max Star Rating","type":"checkbox","memory":[{"offset":"189FE10","on":"C7401C0000A040C5FA10401CE988A7E47E","off":"0000000000000000000000000000000000"},{"offset":"806EA5A4","on":"E967581B81","off":"C5FA10401C"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "PC Building Simulator",
+  "id": "CUSA14566",
+  "version": "01.50",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "189FDB0",
+          "on": "488B4738C740187F9698008B4018E9C4A7E47E526564646576696C3832202D20465720392E3030",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "806EA580",
+          "on": "E92B581B819090",
+          "off": "488B47388B4018"
+        }
+      ]
+    },
+    {
+      "name": "Max XP Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "189FDD7",
+          "on": "488B4738C74014982E02008B4014E9ADA7E47E",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "806EA590",
+          "on": "E942581B819090",
+          "off": "488B47388B4014"
+        }
+      ]
+    },
+    {
+      "name": "No Costs in Shop ( only Delivery )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "189FDF0",
+          "on": "41C7875001000000000000E97681BC7E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80467F6F",
+          "on": "E97C7E43819090",
+          "off": "41898750010000"
+        }
+      ]
+    },
+    {
+      "name": "No Delivery Cost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "189FE21",
+          "on": "418BBF5001000084C00F854082BC7EE93182BC7E",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8046805B",
+          "on": "E9C17D4381909090909090",
+          "off": "418BBF5001000084C0740A"
+        }
+      ]
+    },
+    {
+      "name": "Max Star Rating",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "189FE10",
+          "on": "C7401C0000A040C5FA10401CE988A7E47E",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "806EA5A4",
+          "on": "E967581B81",
+          "off": "C5FA10401C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

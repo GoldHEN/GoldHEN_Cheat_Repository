@@ -1,1 +1,188 @@
-{"name":"Back 4 Blood Ultimate Edition","id":"CUSA14275","version":"01.11","process":"eboot.bin","mods":[{"name":"Godmode","type":"checkbox","memory":[{"offset":"946BE99","on":"488DB518FFFFFFE99BF6E8F8","off":"000000000000000000000000"},{"offset":"22FB534","on":"E9600917079090","off":"488DB518FFFFFF"}]},{"name":"Infinite Health ( Player / Team )","type":"checkbox","memory":[{"offset":"946BE41","on":"C7818007000000C07944C5FA108980070000E9D289B4F9","off":"0000000000000000000000000000000000000000000000"},{"offset":"2FB4822","on":"E91A764B06909090","off":"C5FA1089E0070000"}]},{"name":"Infinite Stamina ( Battle Mode )","type":"checkbox","memory":[{"offset":"946BE82","on":"C4C17A108690010000C4C17A118660010000E91F9A2DF9","off":"0000000000000000000000000000000000000000000000"},{"offset":"27458AF","on":"E9CE65D20690909090","off":"C4C17A118660010000"}]},{"name":"Infinite Stamina ( Run Mode )","type":"checkbox","memory":[{"offset":"946BE15","on":"C4C17A108690010000C4C17A118660010000E96B267FF9","off":"0000000000000000000000000000000000000000000000"},{"offset":"2C5E48E","on":"E982D9800690909090","off":"C4C17A118660010000"}]},{"name":"Max Ammo","type":"checkbox","memory":[{"offset":"946BDB0","on":"C7840668050000E70300008B840668050000E9668FAAF9526564646576696C3832202D20465720392E3030","off":"0000000000000000000000000000000000000000000000"},{"offset":"2F14D26","on":"E9857055069090","off":"8B840668050000"}]},{"name":"No Reload ( Ammo )","type":"checkbox","memory":[{"offset":"946BDDB","on":"418B86C0020000418986AC020000E9CC2D37F9","off":"00000000000000000000000000000000000000"},{"offset":"27DEBB3","on":"E923D2C8069090","off":"418986AC020000"}]},{"name":"Max Ammo Items","type":"checkbox","memory":[{"offset":"946BE03","on":"C681AC020000638B81AC020000E9DFDE2EF9","off":"000000000000000000000000000000000000"},{"offset":"2759CEE","on":"E91021D10690","off":"8B81AC020000"}]},{"name":"Infinite Copper ( on gain / use )","type":"checkbox","memory":[{"offset":"946BDEE","on":"C7879C0300007F9698008B9F9C030000E96E16C8F8","off":"000000000000000000000000000000000000000000"},{"offset":"20ED46B","on":"E97EE9370790","off":"8B9F9C030000"}]},{"name":"Infinite Card Draws","type":"checkbox","memory":[{"offset":"946BE39","on":"4C89F7E9587195F9","off":"0000000000000000"},{"offset":"2DC2F94","on":"E9A08E6A06","off":"4C89F7FFC8"}]},{"name":"Infinite Supply Lines ( on gain / use )","type":"checkbox","memory":[{"offset":"946BE58","on":"0F842EE4B9F9C740047F9698008B4804E919E4B9F9","off":"000000000000000000000000000000000000000000"},{"offset":"300A27C","on":"E9D71B4606","off":"74148B4804"}]},{"name":"Infinite Skull Totems ( on gain / use )","type":"checkbox","memory":[{"offset":"946BEA5","on":"0F842ADB94F9C7401000000000C7400C7F9698008B480CE9FFDA94F9","off":"00000000000000000000000000000000000000000000000000000000"},{"offset":"2DB99B8","on":"E9E8246B06","off":"74218B480C"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "Back 4 Blood Ultimate Edition",
+  "id": "CUSA14275",
+  "version": "01.11",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "946BE99",
+          "on": "488DB518FFFFFFE99BF6E8F8",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "22FB534",
+          "on": "E9600917079090",
+          "off": "488DB518FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health ( Player / Team )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "946BE41",
+          "on": "C7818007000000C07944C5FA108980070000E9D289B4F9",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2FB4822",
+          "on": "E91A764B06909090",
+          "off": "C5FA1089E0070000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina ( Battle Mode )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "946BE82",
+          "on": "C4C17A108690010000C4C17A118660010000E91F9A2DF9",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "27458AF",
+          "on": "E9CE65D20690909090",
+          "off": "C4C17A118660010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina ( Run Mode )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "946BE15",
+          "on": "C4C17A108690010000C4C17A118660010000E96B267FF9",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2C5E48E",
+          "on": "E982D9800690909090",
+          "off": "C4C17A118660010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "946BDB0",
+          "on": "C7840668050000E70300008B840668050000E9668FAAF9526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2F14D26",
+          "on": "E9857055069090",
+          "off": "8B840668050000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload ( Ammo )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "946BDDB",
+          "on": "418B86C0020000418986AC020000E9CC2D37F9",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "27DEBB3",
+          "on": "E923D2C8069090",
+          "off": "418986AC020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "946BE03",
+          "on": "C681AC020000638B81AC020000E9DFDE2EF9",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2759CEE",
+          "on": "E91021D10690",
+          "off": "8B81AC020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Copper ( on gain / use )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "946BDEE",
+          "on": "C7879C0300007F9698008B9F9C030000E96E16C8F8",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "20ED46B",
+          "on": "E97EE9370790",
+          "off": "8B9F9C030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Card Draws",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "946BE39",
+          "on": "4C89F7E9587195F9",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "2DC2F94",
+          "on": "E9A08E6A06",
+          "off": "4C89F7FFC8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Supply Lines ( on gain / use )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "946BE58",
+          "on": "0F842EE4B9F9C740047F9698008B4804E919E4B9F9",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "300A27C",
+          "on": "E9D71B4606",
+          "off": "74148B4804"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skull Totems ( on gain / use )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "946BEA5",
+          "on": "0F842ADB94F9C7401000000000C7400C7F9698008B480CE9FFDA94F9",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2DB99B8",
+          "on": "E9E8246B06",
+          "off": "74218B480C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

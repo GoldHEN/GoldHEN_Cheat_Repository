@@ -1,1 +1,75 @@
-{"name":"Call of Duty® Ghosts","id":"CUSA00018","version":"01.21","process":"default.elf","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"8BBE90","on":"6681F9F0E2750C418B857C010000E9496C98FF4189857C010000E93D6C98FF43656C6F67616D657A5F392E3030","off":"00000000000000000000000000000000000000000000000000000000000000"},{"offset":"242AE5","on":"E9A69367009090","off":"4189857C010000"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"7FC4BF80","on":"01D190E919257A80","off":"0000000000000000"},{"offset":"3EE49C","on":"E9DFDA857F","off":"01D1894804"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"7FC4BFC0","on":"90E992BD7980","off":"000000000000"},{"offset":"3E7D53","on":"E96842867F","off":"44297C8104"}]},{"name":"Infinite Grenades","type":"checkbox","memory":[{"offset":"7FC4BF20","on":"90E932BE7980","off":"000000000000"},{"offset":"3E7D53","on":"E9C841867F","off":"44297C8104"}]}],"credits":["Celogamez"]}
+{
+  "name": "Call of Duty® Ghosts",
+  "id": "CUSA00018",
+  "version": "01.21",
+  "process": "default.elf",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8BBE90",
+          "on": "6681F9F0E2750C418B857C010000E9496C98FF4189857C010000E93D6C98FF43656C6F67616D657A5F392E3030",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "242AE5",
+          "on": "E9A69367009090",
+          "off": "4189857C010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BF80",
+          "on": "01D190E919257A80",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "3EE49C",
+          "on": "E9DFDA857F",
+          "off": "01D1894804"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BFC0",
+          "on": "90E992BD7980",
+          "off": "000000000000"
+        },
+        {
+          "offset": "3E7D53",
+          "on": "E96842867F",
+          "off": "44297C8104"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BF20",
+          "on": "90E932BE7980",
+          "off": "000000000000"
+        },
+        {
+          "offset": "3E7D53",
+          "on": "E9C841867F",
+          "off": "44297C8104"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

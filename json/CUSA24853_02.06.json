@@ -1,1 +1,149 @@
-{"name":"Kena: Bridge of Spirits","id":"CUSA24853","version":"02.06","process":"eboot.bin","mods":[{"name":"Infinite Health/1 Hit Kill (Master Code/Must Be On)","type":"checkbox","memory":[{"offset":"7BE3E60","on":"C5EA5CC0807F2402750CC5FA1107E97EE42BFA0F57C0C5FA1107E972E42BFA43656C6F67616D657A5F392E3030","off":"00000000000000000000000000000000000000000000000000000000000000"},{"offset":"1EA22E9","on":"E9721BD405909090","off":"C5EA5CC0C5FA1107"}]},{"name":"Infinite Health (Enable MC)","type":"checkbox","memory":[{"offset":"7BE3E6A","on":"C5FA1007","off":"C5FA1107"}]},{"name":"1 Hit Kill (Enable MC)","type":"checkbox","memory":[{"offset":"7BE3E68","on":"7509","off":"750C"}]},{"name":"Max Infinite Rots/Level On Gain","type":"checkbox","memory":[{"offset":"7FC5D8B0","on":"B86400000089872C020000E947D02A82","off":"00000000000000000000000000000000"},{"offset":"1F0A901","on":"E9AA2FD57D90","off":"89872C020000"}]},{"name":"Max/Infinite Shield/Rots On Use (Disable Master Code)","type":"checkbox","memory":[{"offset":"7FC5CEE0","on":"C5EA5CC0807F2400750BC70700009643E9FC532482C5FA1107E9F3532482","off":"000000000000000000000000000000000000000000000000000000000000"},{"offset":"1EA22E9","on":"E9F2ABDB7D909090","off":"C5EA5CC0C5FA1107"}]},{"name":"No Wasting Time To Use Rots","type":"checkbox","memory":[{"offset":"7FC5F6C0","on":"C5F82EC1C7000000A040E9D9272482","off":"000000000000000000000000000000"},{"offset":"1EA1EA0","on":"E91BD8DB7D909090","off":"C5F82EC1C5FA1100"}]},{"name":"Max/Infinite Skill Points On Gain/Use","type":"checkbox","memory":[{"offset":"7FC5E860","on":"C5F82EC1C700003C1C46E939362482","off":"000000000000000000000000000000"},{"offset":"1EA1EA0","on":"E9BBC9DB7D909090","off":"C5F82EC1C5FA1100"},{"offset":"7FC5F330","on":"C5EA5CC0C707003C1C46E9B22F2482","off":"000000000000000000000000000000"},{"offset":"1EA22E9","on":"E942D0DB7D909090","off":"C5EA5CC0C5FA1107"}]},{"name":"Max/Infinite Cristals On Gain/Buy","type":"checkbox","memory":[{"offset":"7FC5FFA0","on":"4489F8C7033F420F00E933B02182","off":"0000000000000000000000000000"},{"offset":"1E7AFDB","on":"E9C04FDE7D90","off":"4489F844893B"},{"offset":"7FC5FDC0","on":"488D44DF08C7003F420F00E9A02E6282","off":"00000000000000000000000000000000"},{"offset":"2282C69","on":"E952D19D7D9090","off":"488D44DF088910"}]}],"credits":["Celogamez"]}
+{
+  "name": "Kena: Bridge of Spirits",
+  "id": "CUSA24853",
+  "version": "02.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit Kill (Master Code/Must Be On)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7BE3E60",
+          "on": "C5EA5CC0807F2402750CC5FA1107E97EE42BFA0F57C0C5FA1107E972E42BFA43656C6F67616D657A5F392E3030",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1EA22E9",
+          "on": "E9721BD405909090",
+          "off": "C5EA5CC0C5FA1107"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (Enable MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7BE3E6A",
+          "on": "C5FA1007",
+          "off": "C5FA1107"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (Enable MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7BE3E68",
+          "on": "7509",
+          "off": "750C"
+        }
+      ]
+    },
+    {
+      "name": "Max Infinite Rots/Level On Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5D8B0",
+          "on": "B86400000089872C020000E947D02A82",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1F0A901",
+          "on": "E9AA2FD57D90",
+          "off": "89872C020000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Shield/Rots On Use (Disable Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5CEE0",
+          "on": "C5EA5CC0807F2400750BC70700009643E9FC532482C5FA1107E9F3532482",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1EA22E9",
+          "on": "E9F2ABDB7D909090",
+          "off": "C5EA5CC0C5FA1107"
+        }
+      ]
+    },
+    {
+      "name": "No Wasting Time To Use Rots",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F6C0",
+          "on": "C5F82EC1C7000000A040E9D9272482",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1EA1EA0",
+          "on": "E91BD8DB7D909090",
+          "off": "C5F82EC1C5FA1100"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Skill Points On Gain/Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E860",
+          "on": "C5F82EC1C700003C1C46E939362482",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1EA1EA0",
+          "on": "E9BBC9DB7D909090",
+          "off": "C5F82EC1C5FA1100"
+        },
+        {
+          "offset": "7FC5F330",
+          "on": "C5EA5CC0C707003C1C46E9B22F2482",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1EA22E9",
+          "on": "E942D0DB7D909090",
+          "off": "C5EA5CC0C5FA1107"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Cristals On Gain/Buy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FFA0",
+          "on": "4489F8C7033F420F00E933B02182",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1E7AFDB",
+          "on": "E9C04FDE7D90",
+          "off": "4489F844893B"
+        },
+        {
+          "offset": "7FC5FDC0",
+          "on": "488D44DF08C7003F420F00E9A02E6282",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2282C69",
+          "on": "E952D19D7D9090",
+          "off": "488D44DF088910"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

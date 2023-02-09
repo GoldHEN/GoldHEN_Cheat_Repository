@@ -1,1 +1,109 @@
-{"name":"The Incredible Adventures of Van Helsing III","id":"CUSA15225","version":"01.03","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"2523870","on":"80BB3C02000002750CC7831405000000C07944EB08C5FA118314050000E9ED5566FE","off":"00000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"B88E77","on":"E9F4A99901909090","off":"C5FA118314050000"}]},{"name":"Infinite Mana","type":"checkbox","memory":[{"offset":"2523E40","on":"C787440B0000003C1C46E9076060FE","off":"000000000000000000000000000000"},{"offset":"B29E4E","on":"E9ED9F9F01909090","off":"C5FA1197440B0000"}]},{"name":"Infinite Katarina/Player skill  points","type":"checkbox","memory":[{"section":"1","offset":"2523E00","on":"41C68424780A000063E997C262FE","off":"0000000000000000000000000000"},{"section":"1","offset":"B5009D","on":"E95E3D9D01909090","off":"41298424780A0000"}]},{"name":"Infinite Katarina/Player Ability points","type":"checkbox","memory":[{"offset":"2523D50","on":"C6877C0A000063E9C4B762FE","off":"000000000000000000000000"},{"offset":"B4F51A","on":"E931489D0190","off":"01B77C0A0000"}]},{"name":"Max Coins (on get/buy/sell)","type":"checkbox","memory":[{"offset":"25238F0","on":"0F4FDEB87F96980001D8E94C6724FE","off":"000000000000000000000000000000"},{"offset":"76A046","on":"E9A598DB01","off":"0F4FDE01D8"}]},{"name":"Max Experience","type":"checkbox","memory":[{"offset":"2523D90","on":"41C787800A0000FFE0F505E9F7B362FE","off":"00000000000000000000000000000000"},{"offset":"B4F190","on":"E9FB4B9D019090","off":"418987800A0000"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "The Incredible Adventures of Van Helsing III",
+  "id": "CUSA15225",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2523870",
+          "on": "80BB3C02000002750CC7831405000000C07944EB08C5FA118314050000E9ED5566FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B88E77",
+          "on": "E9F4A99901909090",
+          "off": "C5FA118314050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mana",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2523E40",
+          "on": "C787440B0000003C1C46E9076060FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "B29E4E",
+          "on": "E9ED9F9F01909090",
+          "off": "C5FA1197440B0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Katarina/Player skill  points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "1",
+          "offset": "2523E00",
+          "on": "41C68424780A000063E997C262FE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "section": "1",
+          "offset": "B5009D",
+          "on": "E95E3D9D01909090",
+          "off": "41298424780A0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Katarina/Player Ability points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2523D50",
+          "on": "C6877C0A000063E9C4B762FE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "B4F51A",
+          "on": "E931489D0190",
+          "off": "01B77C0A0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Coins (on get/buy/sell)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25238F0",
+          "on": "0F4FDEB87F96980001D8E94C6724FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "76A046",
+          "on": "E9A598DB01",
+          "off": "0F4FDE01D8"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2523D90",
+          "on": "41C787800A0000FFE0F505E9F7B362FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "B4F190",
+          "on": "E9FB4B9D019090",
+          "off": "418987800A0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

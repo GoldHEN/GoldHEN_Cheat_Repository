@@ -1,1 +1,28 @@
-{"name":"Project CARS 3","id":"CUSA20100","version":"01.12","process":"eboot.bin","mods":[{"name":"Max Money ( on gain )","type":"checkbox","memory":[{"offset":"23D3DB0","on":"C78704800300FFC99A3BE9F9066AFE526564646576696C3832202D20465720392E3030","off":"000000000000000000000000000000"},{"offset":"A744B2","on":"E9F9F8950190","off":"89B704800300"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "Project CARS 3",
+  "id": "CUSA20100",
+  "version": "01.12",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23D3DB0",
+          "on": "C78704800300FFC99A3BE9F9066AFE526564646576696C3832202D20465720392E3030",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "A744B2",
+          "on": "E9F9F8950190",
+          "off": "89B704800300"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

@@ -1,1 +1,65 @@
-{"name":"Bulletstorm: Full Clip Edition","id":"CUSA07143","version":"01.04","process":"eboot.bin","mods":[{"name":"Max/Infinite Health","type":"checkbox","memory":[{"offset":"1C4FE60","on":"2B45C841807F04D0750C41C707D0070000E934E445FE418907E92CE445FE","off":"000000000000000000000000000000000000000000000000000000000000"},{"offset":"AE2A4","on":"E9B71BBA0190","off":"2B45C8418907"}]},{"name":"Infinite Ammo","type":"checkbox","memory":[{"offset":"16BF3B9","on":"2B948BE0170000","off":"29948BE0170000"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"16BF3B2","on":"2B948BE8170000","off":"29948BE8170000"}]},{"name":"Max/SP On Gain (Disable Inf Health B4 And Gain SP/Disable)","type":"checkbox","memory":[{"offset":"1C4FE00","on":"0F4DC86681FBF08F750C41C7067F969800E9CEDE45FE41890EE9C6DE45FE","off":"000000000000000000000000000000000000000000000000000000000000"},{"offset":"ADCDE","on":"E91D21BA0190","off":"0F4DC841890E"}]}],"credits":["Celogamez"]}
+{
+  "name": "Bulletstorm: Full Clip Edition",
+  "id": "CUSA07143",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C4FE60",
+          "on": "2B45C841807F04D0750C41C707D0070000E934E445FE418907E92CE445FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "AE2A4",
+          "on": "E9B71BBA0190",
+          "off": "2B45C8418907"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16BF3B9",
+          "on": "2B948BE0170000",
+          "off": "29948BE0170000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16BF3B2",
+          "on": "2B948BE8170000",
+          "off": "29948BE8170000"
+        }
+      ]
+    },
+    {
+      "name": "Max/SP On Gain (Disable Inf Health B4 And Gain SP/Disable)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C4FE00",
+          "on": "0F4DC86681FBF08F750C41C7067F969800E9CEDE45FE41890EE9C6DE45FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "ADCDE",
+          "on": "E91D21BA0190",
+          "off": "0F4DC841890E"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}
