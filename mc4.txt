@@ -168,6 +168,7 @@ CUSA00005_01.10.mc4.xml=Resogun
 CUSA02696_01.00.mc4.xml=This War of Mine
 CUSA00557_01.09.mc4.xml=The Last Of Us
 CUSA08216_01.10.mc4.xml=Devil May Cry 5
+CUSA23766_01.10.mc4.xml=Tiny Tina's Wonderlands
 CUSA02629_01.01.mc4.xml=Disgaea 5
 CUSA04555_01.01.mc4.xml=Dead or Alive - Xtreme 3 Fortune
 CUSA01615_01.23.mc4.xml=Final Fantasy XV
