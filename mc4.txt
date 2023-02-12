@@ -459,6 +459,7 @@ CUSA00917_01.18.mc4.xml=Uncharted 4
 CUSA09499_01.00.mc4.xml=Cat Quest
 CUSA09690_01.98.mc4.xml=The Long Dark
 CUSA04806_01.00.mc4.xml=Dishonored 2
+CUSA28812_01.02.mc4.xml=neptunia x senran kagura ninja wars
 CUSA05725_04.00.mc4.xml=The Witcher 3: Wild Hunt - Complete Edition
 CUSA07875_01.08.mc4.xml=Uncharted The Lost Legacy - Dev Menu
 CUSA16264_01.00.mc4.xml=one punch man 
