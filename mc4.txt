@@ -144,6 +144,7 @@ CUSA00938_01.12.mc4.xml=Homefront:The Revolution
 CUSA08495_01.03.mc4.xml=Dark Souls Remastered_5.05
 CUSA00472_01.00.mc4.xml=Transformers Rise of the Dark Spark
 CUSA04555_01.16.mc4.xml=Dead or Alive - Xtreme 3 Fortune
+CUSA25569_01.04.mc4.xml=Evil West
 CUSA14000_01.00.mc4.xml=Ghoul Boy
 CUSA20239_01.04.mc4.xml=Alex Kidd in Miracle World DX
 CUSA00743_01.00.mc4.xml=Peggle 2
