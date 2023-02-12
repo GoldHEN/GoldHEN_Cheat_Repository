@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA25569" Game="Evil West" Moder="Celogamez" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health/Energy/Scorcher/Supercharged (Enable Only When Starting The Game) ">
+</Cheat>
+<Cheat Text="Instant Max Energy (Use To Increase/Disable)">
+</Cheat>
+<Cheat Text="Infinite Ammo">
+</Cheat>
+<Cheat Text="Lot Of Money On Gain">
+</Cheat>
+<Cheat Text="Max XP (Enable After Level 3)">
+</Cheat>
+</Trainer>
