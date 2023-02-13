@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA06052" Game="Rogue Stormers" Moder="Celogamez" Process="eboot.bin" Version="01.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Infinite Health (Disable At The End of The Stage) ">
+</Cheat>
+<Cheat Text="Max/Infinite Coins">
+</Cheat>
+<Cheat Text="Max/Infinite Special Hability">
+</Cheat>
+<Cheat Text="Infinite Secondary Weapons">
+</Cheat>
+<Cheat Text="Infinite Weapons Durability">
+</Cheat>
+<Cheat Text="Level Up On gain XP">
+</Cheat>
+</Trainer>

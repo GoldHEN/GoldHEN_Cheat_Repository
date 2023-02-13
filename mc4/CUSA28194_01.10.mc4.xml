@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA28194" Game="Sonic Frontiers" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.10" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Max Rings">
+</Cheat>
+<Cheat Text="Infinite Boost">
+</Cheat>
+<Cheat Text="Max Skill Points">
+</Cheat>
+<Cheat Text="Max Fishing Attempts">
+</Cheat>
+<Cheat Text="Max Marks - Fishing Area">
+</Cheat>
+<Cheat Text="Max Gold Cards - Fishing Area">
+</Cheat>
+<Cheat Text="Max Vault Keys + Portal Gears ( use it first after Stage 1-2 )">
+</Cheat>
+<Cheat Text="Max Heart Token">
+</Cheat>
+<Cheat Text="Max Kocos">
+</Cheat>
+<Cheat Text="Max Red Power Seed">
+</Cheat>
+<Cheat Text="Max Blue Power Seed">
+</Cheat>
+<Cheat Text="Max Star Pieces ( on gain )">
+</Cheat>
+<Cheat Text="Freeze Level Timer">
+</Cheat>
+<Cheat Text="Freeze Challenge 1 Timer">
+</Cheat>
+<Cheat Text="Freeze Challenge 2 Timer">
+</Cheat>
+<Cheat Text="Freeze Timer ( Training Simulator )">
+</Cheat>
+<Cheat Text="Max Ring Stats">
+</Cheat>
+<Cheat Text="Max Attack Stats">
+</Cheat>
+<Cheat Text="Max Shield Stats">
+</Cheat>
+<Cheat Text="Max Speed Stats">
+</Cheat>
+</Trainer>

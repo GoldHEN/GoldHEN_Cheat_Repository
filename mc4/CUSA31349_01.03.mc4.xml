@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA31349" Game="CRISIS CORE ?FINAL FANTASY VII? REUNION" Moder="WanderFW9.00" Process="eboot.bin" Version="01.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite MP">
+</Cheat>
+<Cheat Text="Infinite AP">
+</Cheat>
+<Cheat Text="Infinite Items (when use)">
+</Cheat>
+<Cheat Text="Max Gil (when Buying)">
+</Cheat>
+<Cheat Text="Max SP (after first battle)">
+</Cheat>
+<Cheat Text="Fast Leveling up (after 2nd or 3rd fight)">
+</Cheat>
+</Trainer>
