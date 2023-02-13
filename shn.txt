@@ -96,6 +96,7 @@ CUSA07559_01.00_hackGU_vol2.elf.shn=Hack GU Link Part II
 CUSA24853_02.03.shn=CUSA24853_00-KENA
 SLPM62165_01.00.shn=Shikigami no Shiro
 SLUS20962_01.00.shn=Castle Shikigami 2
+CUSA01760_01.02.shn=Dark souls 2
 CUSA00552_01.00.shn=The Last of Us Remastered Dev Menu
 CUSA05636_01.51.shn=Ace Combat 7 Skies Unknown
 CUSA06810_01.00.shn=Valkyria Revolution
