@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Black ops 3" Moder="Skal" Cusa="CUSA02290" Version="01.33" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Godmode (Zombies mode)">
+    <Cheatline>
+      <Offset>151F810</Offset>
+      <Section>0</Section>
+      <ValueOn>4F-8D-84-35-C8-02-00-00-90-E9-01-37-48-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9A2F14</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F7-C8-B7-00-90-90-90-90-90-90</ValueOn>
+      <ValueOff>4F-8D-84-35-C8-02-00-00-44-29-E0</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
