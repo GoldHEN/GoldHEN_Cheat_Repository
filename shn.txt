@@ -27,6 +27,7 @@ CUSA00552_01.09.shn=The Last of Us Remastered Dev Menu
 CUSA11379_01.11.shn=Mortal Kombat 11
 SLUS20960_01.00.shn=Mega-Man-X8
 SLUS20636_01.00.shn=Suffering, The
+CUSA02290_01.33.shn=Black ops 3
 CUSA14614_01.10.shn=dragon ball z kakorot
 CUSA00683_01.02.shn=Metro Redux 5.05
 CUSA10246_01.03.shn=Code Vein
