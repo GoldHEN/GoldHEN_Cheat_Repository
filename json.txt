@@ -226,6 +226,7 @@ CUSA01623_01.01.json=God of War® III Remastered
 CUSA18008_01.11.json=Resident Evil Village
 CUSA09171_01.00.json=RESIDENT EVIL 2
 CUSA13323_01.12.json=Ghost of Tsushima
+CUSA28194_01.10.json=SONIC FRONTIERS
 CUSA10853_01.07.json=Outward
 CUSA11147_01.00.json=鬼武者
 CUSA14303_01.06.json=Legrand Legacy Tale of the Fatebounds
