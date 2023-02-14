@@ -86,6 +86,7 @@ CUSA01140_01.16.json=Metal Gear Solid V: Phantom Pain
 CUSA06545_01.00.json=[PROTOTYPE® BIOHAZARD BUNDLE]
 CUSA11260_01.13.json=DEATH STRANDING
 CUSA34390_03.00.json=God of War Ragnarok
+CUSA02017_01.00.json=Risen 3: Titan Lords - Enhanced Edition
 CUSA16345_01.01_2.json=Immortals Fenyx Rising ™
 CUSA24267_01.27.json=Call of Duty®: Black Ops Cold War
 CUSA05008_01.00_ScimitarACR.elf.json=Assassins Creed: The Ezio Collection [Assasins Creed Revelations]
