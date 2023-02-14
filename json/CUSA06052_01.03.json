@@ -1,0 +1,107 @@
+{
+    "name": "Rogue Stormers",
+    "id": "CUSA06052",
+    "version": "01.03",
+    "process": "eboot.bin",
+    "mods": [
+        {
+            "name": "Infinite Health (Disable At The End of The Stage) ",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "12BFDB0",
+                    "on": "C4C17A109560030000E954BE1EFF",
+                    "off": "0000000000000000000000000000"
+                },
+                {
+                    "offset": "4ABC09",
+                    "on": "E9A241E10090909090",
+                    "off": "C4C17A119560030000"
+                },
+                {
+                    "offset": "550C50",
+                    "on": "9090909090909090",
+                    "off": "C5FA118710010000"
+                }
+            ]
+        },
+        {
+            "name": "Max/Infinite Coins",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "12BFDD0",
+                    "on": "C783080100003F420F00E9FFE028FF",
+                    "off": "000000000000000000000000000000"
+                },
+                {
+                    "offset": "54DED8",
+                    "on": "E9F31ED70090",
+                    "off": "01B308010000"
+                }
+            ]
+        },
+        {
+            "name": "Max/Infinite Special Hability",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "12BFDBE",
+                    "on": "90E95CD520FF",
+                    "off": "000000000000"
+                },
+                {
+                    "offset": "4CD316",
+                    "on": "E9A32ADF009090909090",
+                    "off": "C7838001000000000000"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Secondary Weapons",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "12BEEC0",
+                    "on": "C5FA1083C8000000E9CA9E1FFF",
+                    "off": "00000000000000000000000000"
+                },
+                {
+                    "offset": "4B8D8F",
+                    "on": "E92C61E000909090",
+                    "off": "C5FA1183C8000000"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Weapons Durability",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "12BF440",
+                    "on": "90E9827A1FFF",
+                    "off": "000000000000"
+                },
+                {
+                    "offset": "4B6EBF",
+                    "on": "E97C85E00090909090",
+                    "off": "C4C17A1186CC000000"
+                }
+            ]
+        },
+        {
+            "name": "Level Up On gain XP",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "4EB109",
+                    "on": "41894748",
+                    "off": "45017748"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "Celogamez"
+    ]
+}
