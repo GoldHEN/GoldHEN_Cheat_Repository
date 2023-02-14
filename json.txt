@@ -942,6 +942,7 @@ SLUS20714_01.00.json=Red Ninja End of Honor
 CUSA19351_01.05.json=Sonic Colors: Ultimate
 CUSA03525_01.01.json=GOD EATER RESURRECTION
 CUSA06633_01.03.json=Outlast 2
+CUSA18522_07.20.json=Assassin's Creed® Valhalla
 CUSA03551_01.00.json=Bully
 CUSA09171_01.05.json=RESIDENT EVIL 2
 CUSA00377_01.03.json=Lords of the Fallen
