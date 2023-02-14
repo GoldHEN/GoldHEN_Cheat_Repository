@@ -194,6 +194,7 @@ CUSA26458_01.02.json=Saints Row
 CUSA25761_01.11_2.json=sifu
 CUSA02624_01.26.json=COD: Black Ops III
 CUSA08798_01.10_2.json=Darksiders III
+CUSA06052_01.03.json=Rogue Stormers
 CUSA28863_01.05.json=Elden Ring
 CUSA05040_01.12.json=NBA 2K17
 CUSA00341_01.00.json=Uncharted 4: A Thief’s End™
