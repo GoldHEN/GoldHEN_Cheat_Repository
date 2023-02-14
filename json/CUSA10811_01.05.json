@@ -1,103 +1,103 @@
 {
-    "name": "Graveyard Keeper",
-    "id": "CUSA10811",
-    "version": "01.05",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "Graveyard Keeper",
+  "id": "CUSA10811",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Items Multiplier (on pick up)",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Items Multiplier (on pick up)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "section": "14",
-                    "offset": "1E1BACA",
-                    "on": "014318",
-                    "off": "894318"
-                }
-            ]
-        },
-        {
-            "name": "Infinite Equipment Durability (turn off before Building)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC5FD60",
-                    "on": "C7432C0000803FE9269C2802",
-                    "off": "000000000000000000000000"
-                },
-                {
-                    "offset": "81EE998D",
-                    "on": "E9CE63D7FD",
-                    "off": "C5FA11432C"
-                }
-            ]
-        },
-        {
-            "name": "Infinite Stamina (turn off before Building)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "section": "14",
-                    "offset": "1B594CF",
-                    "on": "909090909090",
-                    "off": "C5FA11448220"
-                }
-            ]
-        },
-        {
-            "name": "Alot of coins (on sell)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC5FE10",
-                    "on": "C74028F0237449E905863702",
-                    "off": "000000000000000000000000"
-                },
-                {
-                    "offset": "81FD841C",
-                    "on": "E9EF79C8FD",
-                    "off": "C5FA114828"
-                }
-            ]
-        },
-        {
-            "name": "99 Items (on use/store 1 piece)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "section": "14",
-                    "offset": "274FACE",
-                    "on": "C74318630000004401E1E9F2E96CFF",
-                    "off": "000000000000000000000000000000"
-                },
-                {
-                    "section": "14",
-                    "offset": "1E1E4C9",
-                    "on": "E90016930090",
-                    "off": "8943184401E1"
-                }
-            ]
-        },
-        {
-            "name": "Technology points 999 (turn before picking a corpse)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "section": "14",
-                    "offset": "274FADF",
-                    "on": "C744822000C07944E9D79640FF",
-                    "off": "00000000000000000000000000"
-                },
-                {
-                    "section": "14",
-                    "offset": "1B591BD",
-                    "on": "E91D69BF0090",
-                    "off": "C5FA11448220"
-                }
-            ]
+          "section": "14",
+          "offset": "1E1BACA",
+          "on": "014318",
+          "off": "894318"
         }
-    ],
-    "credits": [
-        "Wander FW9.00"
-    ]
+      ]
+    },
+    {
+      "name": "Infinite Equipment Durability (turn off before Building)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FD60",
+          "on": "C7432C0000803FE9269C2802",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "81EE998D",
+          "on": "E9CE63D7FD",
+          "off": "C5FA11432C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina (turn off before Building)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "1B594CF",
+          "on": "909090909090",
+          "off": "C5FA11448220"
+        }
+      ]
+    },
+    {
+      "name": "Alot of coins (on sell)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FE10",
+          "on": "C74028F0237449E905863702",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "81FD841C",
+          "on": "E9EF79C8FD",
+          "off": "C5FA114828"
+        }
+      ]
+    },
+    {
+      "name": "99 Items (on use/store 1 piece)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "274FACE",
+          "on": "C74318630000004401E1E9F2E96CFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "section": "14",
+          "offset": "1E1E4C9",
+          "on": "E90016930090",
+          "off": "8943184401E1"
+        }
+      ]
+    },
+    {
+      "name": "Technology points 999 (turn before picking a corpse)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "274FADF",
+          "on": "C744822000C07944E9D79640FF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "section": "14",
+          "offset": "1B591BD",
+          "on": "E91D69BF0090",
+          "off": "C5FA11448220"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
 }
