@@ -340,6 +340,7 @@ CUSA14168_01.03.json=RESIDENT EVIL 3
 CUSA02980_01.00_MAGNOLIA.elf.json=Borderlands THC: Borderlands 2
 CUSA00009_01.00.json=Assassins Creed® IV Black Flag
 CUSA25087_01.04.json=Clid The Snail
+CUSA18683_01.15.json=MOBILE SUIT GUNDAM EXTREME VS. MAXIBOOST ON
 CUSA27997_01.03.json=Baldur's Gate: Dark Alliance
 CUSA08355_01.03.json=Shenmue
 CUSA09473_01.00.json=Resident Evil 7 Biohazard Gold Edition
