@@ -1,123 +1,123 @@
 {
-    "name": "MOBILE SUIT GUNDAM EXTREME VS. MAXIBOOST ON",
-    "id": "CUSA18683",
-    "version": "01.15",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "MOBILE SUIT GUNDAM EXTREME VS. MAXIBOOST ON",
+  "id": "CUSA18683",
+  "version": "01.15",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Infinite Health",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "111FC90",
-                    "on": "4180BEB806000000750C6641C78614010000E703EB0741898614010000E9DA776CFF",
-                    "off": "00000000000000000000000000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "7E7485",
-                    "on": "E9068893009090",
-                    "off": "41898614010000"
-                }
-            ]
+          "offset": "111FC90",
+          "on": "4180BEB806000000750C6641C78614010000E703EB0741898614010000E9DA776CFF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
         },
         {
-            "name": "Infinite Boost",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "111F5E0",
-                    "on": "41C7859009000010270000E97C8F63FF",
-                    "off": "00000000000000000000000000000000"
-                },
-                {
-                    "offset": "758565",
-                    "on": "E976709C009090",
-                    "off": "41898590090000"
-                }
-            ]
-        },
-        {
-            "name": "Max EX Filll (on hit)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "111F360",
-                    "on": "41C785E80900000000C842E9B87163FF",
-                    "off": "00000000000000000000000000000000"
-                },
-                {
-                    "offset": "75651F",
-                    "on": "E93C8E9C0090909090",
-                    "off": "C4C17A1185E8090000"
-                }
-            ]
-        },
-        {
-            "name": "Max GP (on spend)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "111FAE0",
-                    "on": "42C7442004FFC99A3BE925DCFFFE",
-                    "off": "0000000000000000000000000000"
-                },
-                {
-                    "offset": "11D70E",
-                    "on": "E9CD230001",
-                    "off": "46896C2004"
-                }
-            ]
-        },
-        {
-            "name": "Infinite Ranged attack 1 (might not work for certain Gundams)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "111F8A0",
-                    "on": "C747200000803FE9DB8A68FF",
-                    "off": "000000000000000000000000"
-                },
-                {
-                    "offset": "7A8382",
-                    "on": "E919759700",
-                    "off": "C5FA114F20"
-                }
-            ]
-        },
-        {
-            "name": "Infinite Ranged attack 2 (might not work for certain Gundams)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "111F8D0",
-                    "on": "C746200000803FE9B8D96CFF",
-                    "off": "000000000000000000000000"
-                },
-                {
-                    "offset": "7ED28F",
-                    "on": "E93C269300",
-                    "off": "C5FA114620"
-                }
-            ]
-        },
-        {
-            "name": "Infinite Ranged attack 3 (might not work for certain Gundams)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "111F900",
-                    "on": "C747200000803FE9CB8B68FF",
-                    "off": "000000000000000000000000"
-                },
-                {
-                    "offset": "7A84D2",
-                    "on": "E929749700",
-                    "off": "C5FA114720"
-                }
-            ]
+          "offset": "7E7485",
+          "on": "E9068893009090",
+          "off": "41898614010000"
         }
-    ],
-    "credits": [
-        "Wander FW9.00"
-    ]
+      ]
+    },
+    {
+      "name": "Infinite Boost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "111F5E0",
+          "on": "41C7859009000010270000E97C8F63FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "758565",
+          "on": "E976709C009090",
+          "off": "41898590090000"
+        }
+      ]
+    },
+    {
+      "name": "Max EX Filll (on hit)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "111F360",
+          "on": "41C785E80900000000C842E9B87163FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "75651F",
+          "on": "E93C8E9C0090909090",
+          "off": "C4C17A1185E8090000"
+        }
+      ]
+    },
+    {
+      "name": "Max GP (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "111FAE0",
+          "on": "42C7442004FFC99A3BE925DCFFFE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "11D70E",
+          "on": "E9CD230001",
+          "off": "46896C2004"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ranged attack 1 (might not work for certain Gundams)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "111F8A0",
+          "on": "C747200000803FE9DB8A68FF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "7A8382",
+          "on": "E919759700",
+          "off": "C5FA114F20"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ranged attack 2 (might not work for certain Gundams)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "111F8D0",
+          "on": "C746200000803FE9B8D96CFF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "7ED28F",
+          "on": "E93C269300",
+          "off": "C5FA114620"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ranged attack 3 (might not work for certain Gundams)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "111F900",
+          "on": "C747200000803FE9CB8B68FF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "7A84D2",
+          "on": "E929749700",
+          "off": "C5FA114720"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
 }
