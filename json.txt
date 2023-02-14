@@ -1033,6 +1033,7 @@ CUSA25889_01.02.json=NINJA GAIDEN Σ
 CUSA08519_01.13.json=Red Dead Redemption 2
 CUSA05625_01.41.json=AC: Origins
 CUSA14683_01.04.json=The Ascent
+CUSA10811_01.05.json=Graveyard Keeper
 CUSA01715_01.02.json=God of War® III Remastered
 CUSA18673_01.01.json=Crysis3® Remastered
 CUSA12529_01.01.json=Star Wars Jedi Fallen Order
