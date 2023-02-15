@@ -94,6 +94,7 @@ SLUS20780_01.00.shn=R-Type Fina
 SLES51746_01.00.shn=Space Invaders-Invasion Day
 SLUS42112_01.00.shn=Crisis Evil 2 Remake
 CUSA07559_01.00_hackGU_vol2.elf.shn=Hack GU Link Part II
+SCUS94467_01.00.shn=Spyro 3 - Year of the dragon
 CUSA24853_02.03.shn=CUSA24853_00-KENA
 SLPM62165_01.00.shn=Shikigami no Shiro
 SLUS20962_01.00.shn=Castle Shikigami 2
