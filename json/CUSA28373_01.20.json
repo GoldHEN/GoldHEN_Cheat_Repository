@@ -1,1 +1,156 @@
-{"name":"F.I.S.T.","id":"CUSA28373","version":"01.20","process":"eboot.bin","mods":[{"name":"Invincible","type":"checkbox","memory":[{"offset":"8C37DB0","on":"66837F40037402EB1066837F58000F89ACAB04FDE99FAB04FD66837F58000F889CAB04FDE98FAB04FD526564646576696C3832202D20465720392E3030","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"5C82961","on":"E94A54FB029090","off":"66837F58007808"}]},{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"8C37DED","on":"8B87040500008987600500008B8760050000E9E5DB92FA","off":"0000000000000000000000000000000000000000000000"},{"offset":"35659E3","on":"E905246D0590","off":"8B8760050000"}]},{"name":"One Hit Kill","type":"checkbox","memory":[{"offset":"8C37E04","on":"66837F400374030F57C0C5FA118760050000E9A5279DFA","off":"0000000000000000000000000000000000000000000000"},{"offset":"360A5B8","on":"E947D86205909090","off":"C5FA118760050000"}]},{"name":"Infinite SP","type":"checkbox","memory":[{"offset":"8C37E1B","on":"448BB8F00000004489B8EC000000448BB8EC000000E98623B5FA","off":"0000000000000000000000000000000000000000000000000000"},{"offset":"378A1B4","on":"E962DC4A059090","off":"448BB8EC000000"}]},{"name":"Infinite EP","type":"checkbox","memory":[{"offset":"8C37E35","on":"448BB8F00100004489B8EC010000448BB8EC010000E92726B5FA","off":"0000000000000000000000000000000000000000000000000000"},{"offset":"378A46F","on":"E9C1D94A059090","off":"448BB8EC010000"}]},{"name":"Max Money","type":"checkbox","memory":[{"offset":"8C37E50","on":"41C786B00000009F860100418B86B0000000E9E34FE2F9","off":"0000000000000000000000000000000000000000000000"},{"offset":"2A5CE43","on":"E908B01D069090","off":"418B86B0000000"}]},{"name":"Max Data Disk","type":"checkbox","memory":[{"offset":"8C37E67","on":"41C786CC0000000F270000418B86CC000000E9AF51E2F9","off":"0000000000000000000000000000000000000000000000"},{"offset":"2A5D026","on":"E93CAE1D069090","off":"418B86CC000000"}]},{"name":"Max Plant Seeds","type":"checkbox","memory":[{"offset":"8C37E7E","on":"C74488080F270000448B748808E97CB8A6FA","off":"000000000000000000000000000000000000"},{"offset":"36A3707","on":"E972475905","off":"448B748808"}]},{"name":"Multi Jump","type":"checkbox","memory":[{"offset":"8C37E90","on":"90E90AFBA0FA","off":"000000000000"},{"offset":"364799A","on":"E9F1045F0590","off":"FF8348030000"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "F.I.S.T.",
+  "id": "CUSA28373",
+  "version": "01.20",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8C37DB0",
+          "on": "66837F40037402EB1066837F58000F89ACAB04FDE99FAB04FD66837F58000F889CAB04FDE98FAB04FD526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5C82961",
+          "on": "E94A54FB029090",
+          "off": "66837F58007808"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8C37DED",
+          "on": "8B87040500008987600500008B8760050000E9E5DB92FA",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "35659E3",
+          "on": "E905246D0590",
+          "off": "8B8760050000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8C37E04",
+          "on": "66837F400374030F57C0C5FA118760050000E9A5279DFA",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "360A5B8",
+          "on": "E947D86205909090",
+          "off": "C5FA118760050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite SP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8C37E1B",
+          "on": "448BB8F00000004489B8EC000000448BB8EC000000E98623B5FA",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "378A1B4",
+          "on": "E962DC4A059090",
+          "off": "448BB8EC000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite EP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8C37E35",
+          "on": "448BB8F00100004489B8EC010000448BB8EC010000E92726B5FA",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "378A46F",
+          "on": "E9C1D94A059090",
+          "off": "448BB8EC010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8C37E50",
+          "on": "41C786B00000009F860100418B86B0000000E9E34FE2F9",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A5CE43",
+          "on": "E908B01D069090",
+          "off": "418B86B0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Data Disk",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8C37E67",
+          "on": "41C786CC0000000F270000418B86CC000000E9AF51E2F9",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A5D026",
+          "on": "E93CAE1D069090",
+          "off": "418B86CC000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Plant Seeds",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8C37E7E",
+          "on": "C74488080F270000448B748808E97CB8A6FA",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "36A3707",
+          "on": "E972475905",
+          "off": "448B748808"
+        }
+      ]
+    },
+    {
+      "name": "Multi Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8C37E90",
+          "on": "90E90AFBA0FA",
+          "off": "000000000000"
+        },
+        {
+          "offset": "364799A",
+          "on": "E9F1045F0590",
+          "off": "FF8348030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

@@ -1,75 +1,75 @@
 {
-    "name": "Neptunia x SENRAN KAGURA: Ninja Wars",
-    "id": "CUSA28812",
-    "version": "1.02",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "Neptunia x SENRAN KAGURA: Ninja Wars",
+  "id": "CUSA28812",
+  "version": "1.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Inf HP",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "1017800",
-                    "on": "80BBAC02000002750AC5FA10430CE92F7054FFC5FA114308E9257054FF",
-                    "off": "0000000000000000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "55E83D",
-                    "on": "E9BE8FAB00",
-                    "off": "C5FA114308"
-                }
-            ]
+          "offset": "1017800",
+          "on": "80BBAC02000002750AC5FA10430CE92F7054FFC5FA114308E9257054FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
         },
         {
-            "name": "Max XP",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "101781F",
-                    "on": "C783100900007F969800E949F456FF",
-                    "off": "000000000000000000000000000000"
-                },
-                {
-                    "offset": "586C70",
-                    "on": "E9AA0BA9009090",
-                    "off": "4489B310090000"
-                }
-            ]
-        },
-        {
-            "name": "InF Coins",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "1017800",
-                    "on": "BA3F420F00E975694AFF",
-                    "off": "00000000000000000000"
-                },
-                {
-                    "offset": "4BE179",
-                    "on": "E98296B50090",
-                    "off": "81F940420F00"
-                }
-            ]
-        },
-        {
-            "name": "Inf throwables",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "1017838",
-                    "on": "B8040000008903E93A9357FF",
-                    "off": "000000000000000000000000"
-                },
-                {
-                    "offset": "590B79",
-                    "on": "E9BA6CA800",
-                    "off": "89034C89E3"
-                }
-            ]
+          "offset": "55E83D",
+          "on": "E9BE8FAB00",
+          "off": "C5FA114308"
         }
-    ],
-    "credits": [
-        "2B"
-    ]
+      ]
+    },
+    {
+      "name": "Max XP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101781F",
+          "on": "C783100900007F969800E949F456FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "586C70",
+          "on": "E9AA0BA9009090",
+          "off": "4489B310090000"
+        }
+      ]
+    },
+    {
+      "name": "InF Coins",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1017800",
+          "on": "BA3F420F00E975694AFF",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "4BE179",
+          "on": "E98296B50090",
+          "off": "81F940420F00"
+        }
+      ]
+    },
+    {
+      "name": "Inf throwables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1017838",
+          "on": "B8040000008903E93A9357FF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "590B79",
+          "on": "E9BA6CA800",
+          "off": "89034C89E3"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "2B"
+  ]
 }

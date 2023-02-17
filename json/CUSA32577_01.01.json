@@ -1,1 +1,91 @@
-{"name":"Kamiwaza: Way of the Thief","id":"CUSA32577","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite Health(Red)","type":"checkbox","memory":[{"offset":"55FBBB0","on":"6641C78424CE2D0200E803E9DAAF2BFB","off":"00000000000000000000000000000000"},{"offset":"8B6B91","on":"E91A50D40490909090","off":"664589AC24CE2D0200"}]},{"name":"Infinite Stamina (yellow)","type":"checkbox","memory":[{"offset":"55FBB70","on":"66C780D8400200E803E9E9922BFB","off":"0000000000000000000000000000"},{"offset":"8B4E60","on":"E90B6DD4049090","off":"668990D8400200"}]},{"name":"Max coins (on Buy)","type":"checkbox","memory":[{"offset":"55FBAF0","on":"41C7879C2D02007F969800E9A5EE32FB","off":"00000000000000000000000000000000"},{"offset":"92A99E","on":"E94D11CD049090","off":"4529A79C2D0200"}]},{"name":"Max Style points (on buy)","type":"checkbox","memory":[{"offset":"55FBB30","on":"41C786B42D0200FFE0F505E9A36842FB","off":"00000000000000000000000000000000"},{"offset":"A223DC","on":"E94F97BD049090","off":"41298EB42D0200"}]},{"name":"Max experience gain","type":"checkbox","memory":[{"offset":"55FBBE0","on":"41C78424A42D02003F420F00E916A53CFB","off":"0000000000000000000000000000000000"},{"offset":"9C60FF","on":"E9DC5AC304909090","off":"41899C24A42D0200"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Kamiwaza: Way of the Thief",
+  "id": "CUSA32577",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health(Red)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "55FBBB0",
+          "on": "6641C78424CE2D0200E803E9DAAF2BFB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8B6B91",
+          "on": "E91A50D40490909090",
+          "off": "664589AC24CE2D0200"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina (yellow)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "55FBB70",
+          "on": "66C780D8400200E803E9E9922BFB",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "8B4E60",
+          "on": "E90B6DD4049090",
+          "off": "668990D8400200"
+        }
+      ]
+    },
+    {
+      "name": "Max coins (on Buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "55FBAF0",
+          "on": "41C7879C2D02007F969800E9A5EE32FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "92A99E",
+          "on": "E94D11CD049090",
+          "off": "4529A79C2D0200"
+        }
+      ]
+    },
+    {
+      "name": "Max Style points (on buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "55FBB30",
+          "on": "41C786B42D0200FFE0F505E9A36842FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "A223DC",
+          "on": "E94F97BD049090",
+          "off": "41298EB42D0200"
+        }
+      ]
+    },
+    {
+      "name": "Max experience gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "55FBBE0",
+          "on": "41C78424A42D02003F420F00E916A53CFB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "9C60FF",
+          "on": "E9DC5AC304909090",
+          "off": "41899C24A42D0200"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}
