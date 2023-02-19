@@ -1,1 +1,88 @@
-{"name":"United Assault - Normandy '44","id":"CUSA29456","version":"01.03","process":"eboot.bin","mods":[{"name":"Inf Health / Stamina /Ammo (Master Code)","type":"checkbox","memory":[{"offset":"56FB800","on":"4983FF00751441813E08E20A06750B41837B5C1175108B4424344189034983C304E94B4A77FB41837B581174E9EBEB9041817BF40000344275E090EBE0","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"E7026A","on":"E991B588049090","off":"4189034983C304"}]},{"name":"Ammo(No reload) / Grenades / Explosive (MC)","type":"checkbox","memory":[{"offset":"56FB82D","on":"EB01","off":"EBEB"}]},{"name":"Player Speed (Master Code)","type":"checkbox","memory":[{"offset":"56FB83F","on":"4008F141880C074D39D00F85396C7CFB41837F6F117405E92D6C7CFB41C6470643E9236C7CFB","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"EC2481","on":"E9B99383049090","off":"4008F141880C07"}]},{"name":"x2 Speed (MC)","type":"checkbox","memory":[{"offset":"56FB85B","on":"41C6470645","off":"41C6470643"}]},{"name":"Rabbit Speed (MC)","type":"checkbox","memory":[{"offset":"56FB85B","on":"41C6470647","off":"41C6470643"}]},{"name":"Normal Speed (MC)","type":"checkbox","memory":[{"section":"1","offset":"56FB85B","on":"41C6470643","off":"41C6470647"}]}],"credits":["Saso_9.00"]}
+{
+  "name": "United Assault - Normandy '44",
+  "id": "CUSA29456",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health / Stamina /Ammo (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "56FB800",
+          "on": "4983FF00751441813E08E20A06750B41837B5C1175108B4424344189034983C304E94B4A77FB41837B581174E9EBEB9041817BF40000344275E090EBE0",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E7026A",
+          "on": "E991B588049090",
+          "off": "4189034983C304"
+        }
+      ]
+    },
+    {
+      "name": "Ammo(No reload) / Grenades / Explosive (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "56FB82D",
+          "on": "EB01",
+          "off": "EBEB"
+        }
+      ]
+    },
+    {
+      "name": "Player Speed (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "56FB83F",
+          "on": "4008F141880C074D39D00F85396C7CFB41837F6F117405E92D6C7CFB41C6470643E9236C7CFB",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "EC2481",
+          "on": "E9B99383049090",
+          "off": "4008F141880C07"
+        }
+      ]
+    },
+    {
+      "name": "x2 Speed (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "56FB85B",
+          "on": "41C6470645",
+          "off": "41C6470643"
+        }
+      ]
+    },
+    {
+      "name": "Rabbit Speed (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "56FB85B",
+          "on": "41C6470647",
+          "off": "41C6470643"
+        }
+      ]
+    },
+    {
+      "name": "Normal Speed (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "1",
+          "offset": "56FB85B",
+          "on": "41C6470643",
+          "off": "41C6470647"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}
