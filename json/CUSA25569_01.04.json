@@ -1,59 +1,65 @@
 {
-  "name": "Evil West",
-  "id": "CUSA25569",
-  "version": "01.04",
-  "process": "eboot.bin",
-  "mods": [
-    {
-      "name": "Infinite Health (only after the bar shows up)",
-      "type": "checkbox",
-      "memory": [
+    "name": "Evil West",
+    "id": "CUSA25569",
+    "version": "1.04",
+    "process": "eboot.bin",
+    "mods": [
         {
-          "offset": "6BABB40",
-          "on": "817F180000C8427509C7470C00004843EB05C5FA11470CE93D104DF9",
-          "off": "00000000000000000000000000000000000000000000000000000000"
+            "name": "Inf Health / Shield / 1 Hit Kill (Master Code)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "6BAB800",
+                    "on": "909090909090909090817FA848000400750CC7470C00004843E97B134DF9C5FA11470CE971134DF9817FA80800040075ED817F0C0000803F7EE4C7470C0000803FC5FA10470CE94E134DF9909090909090",
+                    "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "7CB94",
+                    "on": "E967ECB206",
+                    "off": "C5FA11470C"
+                }
+            ]
         },
         {
-          "offset": "7CB94",
-          "on": "E9A7EFB206",
-          "off": "C5FA11470C"
-        }
-      ]
-    },
-    {
-      "name": "Max Coins (on buy turn on after first purchase)",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "6BAB710",
-          "on": "C74418503F420F00E92D3CA1F9",
-          "off": "00000000000000000000000000"
+            "name": "Inf Shield (MC)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "6BAB800",
+                    "on": "817F88480004007409",
+                    "off": "909090909090909090"
+                }
+            ]
         },
         {
-          "offset": "5BF345",
-          "on": "E9C6C35E06",
-          "off": "4489641850"
-        }
-      ]
-    },
-    {
-      "name": "Max Experience (turn on after the first level up)",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "6BAB600",
-          "on": "C7837C070000FFE0F505E96E5DB1FA",
-          "off": "000000000000000000000000000000"
+            "name": "1 Hit Kill (MC)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "6BAB810",
+                    "on": "7516",
+                    "off": "750C"
+                }
+            ]
         },
         {
-          "offset": "16C1376",
-          "on": "E985A24E059090",
-          "off": "4401B37C070000"
+            "name": "Max Gold (On Spend)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "6BAB84D",
+                    "on": "41BC3F420F00E9E93AA1F9",
+                    "off": "0000000000000000000000"
+                },
+                {
+                    "offset": "5BF33A",
+                    "on": "E90EC55E069090",
+                    "off": "442BA5D4FEFFFF"
+                }
+            ]
         }
-      ]
-    }
-  ],
-  "credits": [
-    "WanderFW9.00"
-  ]
+    ],
+    "credits": [
+        "Saso_9.00"
+    ]
 }
