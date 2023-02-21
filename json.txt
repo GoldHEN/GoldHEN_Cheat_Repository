@@ -876,6 +876,7 @@ CUSA09848_02.09.json=Biomutant
 CUSA09243_01.01.json=Ni no Kuni™ II: Revenant Kingdom
 CUSA03977_01.34.json=Dying Light: The Following – Enhanced Edition
 CUSA16782_01.04.json=Werewolf: The Apocalypse - Earthblood
+CUSA12584_01.27.json=Dying Light 2: Stay Human
 CUSA14910_01.06.json=Destroy All Humans!
 CUSA05797_01.03.json=Toukiden 2
 CUSA10872_01.00.json=Shadow of the Tomb Raider
