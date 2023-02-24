@@ -1,0 +1,86 @@
+{
+  "name": "The Callisto Protocol",
+  "id": "CUSA27373",
+  "version": "01.12",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "738B618",
+          "on": "4183BC24C401000010751CC4C17A108C241C010000C4C17A118C2418010000C744242000000000C5F25C442420E9A90612FB9090",
+          "off": "4183BC24C401000010751CC4C17A108C241C010000C4C17A118C2418010000C744242000000000C5F25C442420E9A90612FB9090"
+        },
+        {
+          "offset": "24ABCED",
+          "on": "E926F9ED0490",
+          "off": "C5F25C442420"
+        }
+      ]
+    },
+    {
+      "name": "One-hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "738B678",
+          "on": "4183BC24C4010000107408C744242000401C46C4C17A108C2418010000E9530612FB9090",
+          "off": "4183BC24C4010000107408C744242000401C46C4C17A108C2418010000E9530612FB9090"
+        },
+        {
+          "offset": "24ABCE3",
+          "on": "E990F9ED049090909090",
+          "off": "C4C17A108C2418010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite GRP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2582BBB",
+          "on": "90909090",
+          "off": "C5E25CD8"
+        },
+        {
+          "offset": "2582C5A",
+          "on": "C5E25FC0",
+          "off": "C5E25DC0"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25A79B9",
+          "on": "909090",
+          "off": "2B7044"
+        }
+      ]
+    },
+    {
+      "name": "Callisto Credits 10x (pickup/sell)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "738B6D8",
+          "on": "456BFF0A4585C0740A4489BC2428010000EB0444897B104401FF4189FFE9DF1121FB9090",
+          "off": "456BFF0A4585C0740A4489BC2428010000EB0444897B104401FF4189FFE9DF1121FB9090"
+        },
+        {
+          "offset": "259C8D3",
+          "on": "E900EEDE0490",
+          "off": "4401FF4189FF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "JustGotenks"
+  ]
+}
