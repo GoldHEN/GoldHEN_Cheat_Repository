@@ -1,1 +1,124 @@
-{"name":"Truck Driver","id":"CUSA12209","version":"01.20","process":"eboot.bin","mods":[{"name":"Max Money","type":"checkbox","memory":[{"offset":"82B33800","on":"E81B43CEFEC74020FFE0F505E9022533FE526564646576696C3832202D20465720392E3030","off":"0000000000000000000000000000000000"},{"offset":"80E65D0E","on":"E9EDDACC01","off":"E80D1E9B00"}]},{"name":"Max XP","type":"checkbox","memory":[{"offset":"82B33813","on":"E80843CEFEC740283F420F00E9A91B33FE","off":"0000000000000000000000000000000000"},{"offset":"80E653C8","on":"E946E4CC01","off":"E853279B00"}]},{"name":"No Tiredness","type":"checkbox","memory":[{"offset":"82B33826","on":"4157448B783C44897838415FC5FA104038E9009A2DFE","off":"00000000000000000000000000000000000000000000"},{"offset":"80E0D237","on":"E9EA65D201","off":"C5FA104038"}]},{"name":"Infinite Fuel","type":"checkbox","memory":[{"offset":"82B3383E","on":"C4C17A104724C4C17A114720E971B039FE","off":"0000000000000000000000000000000000"},{"offset":"80ECE8BA","on":"E97F4FC60190","off":"C4C17A114720"}]},{"name":"No Damage","type":"checkbox","memory":[{"offset":"82B33851","on":"C4A17A1154F030E9CC9D30FF","off":"000000000000000000000000"},{"offset":"81E3D622","on":"E92A62CF009090","off":"C4A17A1144F030"}]},{"name":"Max Passive Level","type":"checkbox","memory":[{"offset":"82B3385F","on":"4889434841C7471C05000000418B471CE97FC72BFE","off":"000000000000000000000000000000000000000000"},{"offset":"80DEFFEB","on":"E96F38D401909090","off":"48894348418B471C"}]},{"name":"Unlock all Passive Level","type":"checkbox","memory":[{"offset":"82B33876","on":"41C6471801410FB64718E9BAC72BFE","off":"000000000000000000000000000000"},{"offset":"80DF003A","on":"E93738D401","off":"410FB64718"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "Truck Driver",
+  "id": "CUSA12209",
+  "version": "01.20",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82B33800",
+          "on": "E81B43CEFEC74020FFE0F505E9022533FE526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80E65D0E",
+          "on": "E9EDDACC01",
+          "off": "E80D1E9B00"
+        }
+      ]
+    },
+    {
+      "name": "Max XP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82B33813",
+          "on": "E80843CEFEC740283F420F00E9A91B33FE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80E653C8",
+          "on": "E946E4CC01",
+          "off": "E853279B00"
+        }
+      ]
+    },
+    {
+      "name": "No Tiredness",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82B33826",
+          "on": "4157448B783C44897838415FC5FA104038E9009A2DFE",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80E0D237",
+          "on": "E9EA65D201",
+          "off": "C5FA104038"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Fuel",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82B3383E",
+          "on": "C4C17A104724C4C17A114720E971B039FE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80ECE8BA",
+          "on": "E97F4FC60190",
+          "off": "C4C17A114720"
+        }
+      ]
+    },
+    {
+      "name": "No Damage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82B33851",
+          "on": "C4A17A1154F030E9CC9D30FF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "81E3D622",
+          "on": "E92A62CF009090",
+          "off": "C4A17A1144F030"
+        }
+      ]
+    },
+    {
+      "name": "Max Passive Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82B3385F",
+          "on": "4889434841C7471C05000000418B471CE97FC72BFE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80DEFFEB",
+          "on": "E96F38D401909090",
+          "off": "48894348418B471C"
+        }
+      ]
+    },
+    {
+      "name": "Unlock all Passive Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82B33876",
+          "on": "41C6471801410FB64718E9BAC72BFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80DF003A",
+          "on": "E93738D401",
+          "off": "410FB64718"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}
