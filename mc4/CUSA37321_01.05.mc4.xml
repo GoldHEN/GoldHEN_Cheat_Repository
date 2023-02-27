@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA37321" Game="Atomic Heart " Moder="Wander FW9.00" Process="eboot.bin" Version="01.05" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Clip">
+</Cheat>
+<Cheat Text="999 Neuropolymer (on use only when upgrading your skill and weapons)">
+</Cheat>
+<Cheat Text="999 Materials when gaining">
+</Cheat>
+</Trainer>
