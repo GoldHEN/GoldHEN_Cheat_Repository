@@ -1,178 +1,178 @@
 {
-    "name": "Control",
-    "id": "CUSA11454",
-    "version": "1.12",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "Control",
+  "id": "CUSA11454",
+  "version": "1.12",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Mastercode Health ( must be activated )",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Mastercode Health ( must be activated )",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "1C7FE2C",
-                    "on": "83BBC4000000017508C5FA108B9400000083BBC4000000007508C5FA108B94000000C5FA108B94000000E97E2F8AFEC783940000000000803FC3C7839400000000000000C3",
-                    "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "522DD1",
-                    "on": "E956D07501909090",
-                    "off": "C5FA108B94000000"
-                }
-            ]
+          "offset": "1C7FE2C",
+          "on": "83BBC4000000017508C5FA108B9400000083BBC4000000007508C5FA108B94000000C5FA108B94000000E97E2F8AFEC783940000000000803FC3C7839400000000000000C3",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
         },
         {
-            "name": "Infinite Health [ MC ]",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "1C7FE35",
-                    "on": "E821000000909090",
-                    "off": "C5FA108B94000000"
-                }
-            ]
-        },
-        {
-            "name": "One Hit Kill [ MC ]",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "1C7FE46",
-                    "on": "E81B000000909090",
-                    "off": "C5FA108B94000000"
-                }
-            ]
-        },
-        {
-            "name": "Infinite Energy",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "1C7FDF1",
-                    "on": "C743380000803FC5FA104338E93F1C47FE",
-                    "off": "0000000000000000000000000000000000"
-                },
-                {
-                    "offset": "F1A3C",
-                    "on": "E9B0E3B801",
-                    "off": "C5FA104338"
-                }
-            ]
-        },
-        {
-            "name": "Infinite Ammo",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "1C7FDB0",
-                    "on": "C5FA1083A4010000C5FA1183A0010000E9FAAF9EFE526564646576696C3832202D20465720392E3030",
-                    "off": "000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "66ADB7",
-                    "on": "E9F44F6101909090",
-                    "off": "C5FA1183A0010000"
-                }
-            ]
-        },
-        {
-            "name": "Max Money",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "1C7FDD9",
-                    "on": "488B8508F5FFFF49C74638FFE0F5054D8B6638E9CE21E2FE",
-                    "off": "000000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "AA1FB4",
-                    "on": "E920DE1D01909090909090",
-                    "off": "488B8508F5FFFF4D8B6638"
-                }
-            ]
-        },
-        {
-            "name": "Max Skill Points",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "1C7F800",
-                    "on": "8B4138C74140FFE0F5058B4940E99B2FE2FE",
-                    "off": "000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "AA27A7",
-                    "on": "E954D01D0190",
-                    "off": "8B41388B4940"
-                }
-            ]
-        },
-        {
-            "name": "Max Items",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "1C7FE02",
-                    "on": "0F844FB3DFFEC74038E70300008B4838E9A6B1DFFE",
-                    "off": "000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "A7AFB4",
-                    "on": "E9494E200190909090",
-                    "off": "0F84A30100008B4838"
-                }
-            ]
-        },
-        {
-            "name": "Max Jukebox Coins",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "1C7FE17",
-                    "on": "0F849BB5DFFEC74038E70300008B4838E962B2DFFE",
-                    "off": "000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "A7B085",
-                    "on": "E98D4D200190909090",
-                    "off": "0F84330300008B4838"
-                }
-            ]
-        },
-        {
-            "name": "Hover Mode activated",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "1C7F814",
-                    "on": "E8372A9DFF41C6477C01E96A8AB5FE",
-                    "off": "000000000000000000000000000000"
-                },
-                {
-                    "offset": "7D8288",
-                    "on": "E987754A01",
-                    "off": "E8C39FE700"
-                }
-            ]
-        },
-        {
-            "name": "Hover Mode deactivated",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "1C7F814",
-                    "on": "E8372A9DFF41C6477C00E96A8AB5FE",
-                    "off": "000000000000000000000000000000"
-                },
-                {
-                    "offset": "7D8288",
-                    "on": "E987754A01",
-                    "off": "E8C39FE700"
-                }
-            ]
+          "offset": "522DD1",
+          "on": "E956D07501909090",
+          "off": "C5FA108B94000000"
         }
-    ],
-    "credits": [
-        "Reddevil82 ",
-        " FW 9.00"
-    ]
+      ]
+    },
+    {
+      "name": "Infinite Health [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C7FE35",
+          "on": "E821000000909090",
+          "off": "C5FA108B94000000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C7FE46",
+          "on": "E81B000000909090",
+          "off": "C5FA108B94000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C7FDF1",
+          "on": "C743380000803FC5FA104338E93F1C47FE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "F1A3C",
+          "on": "E9B0E3B801",
+          "off": "C5FA104338"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C7FDB0",
+          "on": "C5FA1083A4010000C5FA1183A0010000E9FAAF9EFE526564646576696C3832202D20465720392E3030",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "66ADB7",
+          "on": "E9F44F6101909090",
+          "off": "C5FA1183A0010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C7FDD9",
+          "on": "488B8508F5FFFF49C74638FFE0F5054D8B6638E9CE21E2FE",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "AA1FB4",
+          "on": "E920DE1D01909090909090",
+          "off": "488B8508F5FFFF4D8B6638"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C7F800",
+          "on": "8B4138C74140FFE0F5058B4940E99B2FE2FE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "AA27A7",
+          "on": "E954D01D0190",
+          "off": "8B41388B4940"
+        }
+      ]
+    },
+    {
+      "name": "Max Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C7FE02",
+          "on": "0F844FB3DFFEC74038E70300008B4838E9A6B1DFFE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A7AFB4",
+          "on": "E9494E200190909090",
+          "off": "0F84A30100008B4838"
+        }
+      ]
+    },
+    {
+      "name": "Max Jukebox Coins",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C7FE17",
+          "on": "0F849BB5DFFEC74038E70300008B4838E962B2DFFE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A7B085",
+          "on": "E98D4D200190909090",
+          "off": "0F84330300008B4838"
+        }
+      ]
+    },
+    {
+      "name": "Hover Mode activated",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C7F814",
+          "on": "E8372A9DFF41C6477C01E96A8AB5FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "7D8288",
+          "on": "E987754A01",
+          "off": "E8C39FE700"
+        }
+      ]
+    },
+    {
+      "name": "Hover Mode deactivated",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C7F814",
+          "on": "E8372A9DFF41C6477C00E96A8AB5FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "7D8288",
+          "on": "E987754A01",
+          "off": "E8C39FE700"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
 }

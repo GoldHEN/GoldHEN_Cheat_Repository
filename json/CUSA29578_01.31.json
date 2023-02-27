@@ -1,1 +1,75 @@
-{"name":"STRANGER OF PARADISE FINAL FANTASY ORIGIN","id":"CUSA29578","version":"01.31","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"33DB860","on":"C5F057C980BB1802000000750866C74310E803EB0448894B10E96E0ACEFC","off":"000000000000000000000000000000000000000000000000000000000000"},{"offset":"BC2E4","on":"E977F53103909090","off":"C5F057C948894B10"}]},{"name":"Infinite Magic","type":"checkbox","memory":[{"offset":"33DB920","on":"C783E013000000803B45E9AE20CAFC","off":"000000000000000000000000000000"},{"offset":"7D9D5","on":"E946DF3503909090","off":"C5FA1183E0130000"}]},{"name":"infinite Job points (On use)","type":"checkbox","memory":[{"offset":"33DB8D0","on":"BA630000008910C60701E9EED018FD","off":"000000000000000000000000000000"},{"offset":"5689C8","on":"E9032FE702","off":"8910C60701"}]},{"name":"Infinite item use","type":"checkbox","memory":[{"offset":"33DB990","on":"0F4FD6C6400463E9DE68CBFC","off":"000000000000000000000000"},{"offset":"92274","on":"E91797340390","off":"0F4FD6885004"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+  "id": "CUSA29578",
+  "version": "01.31",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33DB860",
+          "on": "C5F057C980BB1802000000750866C74310E803EB0448894B10E96E0ACEFC",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BC2E4",
+          "on": "E977F53103909090",
+          "off": "C5F057C948894B10"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33DB920",
+          "on": "C783E013000000803B45E9AE20CAFC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "7D9D5",
+          "on": "E946DF3503909090",
+          "off": "C5FA1183E0130000"
+        }
+      ]
+    },
+    {
+      "name": "infinite Job points (On use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33DB8D0",
+          "on": "BA630000008910C60701E9EED018FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "5689C8",
+          "on": "E9032FE702",
+          "off": "8910C60701"
+        }
+      ]
+    },
+    {
+      "name": "Infinite item use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33DB990",
+          "on": "0F4FD6C6400463E9DE68CBFC",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "92274",
+          "on": "E91797340390",
+          "off": "0F4FD6885004"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}
