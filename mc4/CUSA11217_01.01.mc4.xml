@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA11217" Game="Sinner - Sacrifice for Redemption" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Fighting"/>
+<Items/>
+<Cheat Text="Mastercode Health ( must be activated )">
+</Cheat>
+<Cheat Text="Infinite Health [ MC ]">
+</Cheat>
+<Cheat Text="One Hit Kill [ MC ]">
+</Cheat>
+<Cheat Text="Infinite Stamina">
+</Cheat>
+<Cheat Text="Max Resistance ( Ice )">
+</Cheat>
+<Cheat Text="Max Resistance ( Poison )">
+</Cheat>
+<Cheat Text="Max Items ( on use )">
+</Cheat>
+<Cheat Text="Set Challenger Timer to 1">
+</Cheat>
+</Trainer>
