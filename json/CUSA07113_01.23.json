@@ -1,1 +1,91 @@
-{"name":"Nioh","id":"CUSA07113","version":"01.23","process":"eboot.bin","mods":[{"name":"Infinite Health (can receive damage from falling or fire)","type":"checkbox","memory":[{"offset":"14473F0","on":"4839C84983FB01750B9090C743100F270000EB0448894B10E91F55D5FE","off":"0000000000000000000000000000000000000000000000000000000000"},{"offset":"19C925","on":"E9C6AA2A019090","off":"4839C848894B10"}]},{"name":"Infinite Stamina","type":"checkbox","memory":[{"offset":"1447920","on":"C5FA104704C5FA1107C5FA584710E9766ED5FE","off":"00000000000000000000000000000000000000"},{"offset":"19E7A4","on":"E977912A01","off":"C5FA584710"}]},{"name":"2 Hits kill (can die from walking into Fire)","type":"checkbox","memory":[{"offset":"1446CE0","on":"4839C84983FB017509C743100F270000EB0B48C7C10000000048894B10E92A5CD5FE","off":"00000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"19C925","on":"E9B6A32A019090","off":"4839C848894B10"}]},{"name":"Infinite Amrita (on spend)","type":"checkbox","memory":[{"offset":"1447C70","on":"C74308FFE30B54C60301E9F9221FFF","off":"000000000000000000000000000000"},{"offset":"639F72","on":"E9F9DCE00090","off":"894308C60301"}]},{"name":"99 Items (on use)","type":"checkbox","memory":[{"offset":"1447C20","on":"42C6842E1802000063E90883EAFE","off":"0000000000000000000000000000"},{"offset":"2EFF2D","on":"E9EE7C150190909090","off":"664289842E18020000"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Nioh",
+  "id": "CUSA07113",
+  "version": "01.23",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (can receive damage from falling or fire)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14473F0",
+          "on": "4839C84983FB01750B9090C743100F270000EB0448894B10E91F55D5FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "19C925",
+          "on": "E9C6AA2A019090",
+          "off": "4839C848894B10"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1447920",
+          "on": "C5FA104704C5FA1107C5FA584710E9766ED5FE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "19E7A4",
+          "on": "E977912A01",
+          "off": "C5FA584710"
+        }
+      ]
+    },
+    {
+      "name": "2 Hits kill (can die from walking into Fire)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1446CE0",
+          "on": "4839C84983FB017509C743100F270000EB0B48C7C10000000048894B10E92A5CD5FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "19C925",
+          "on": "E9B6A32A019090",
+          "off": "4839C848894B10"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Amrita (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1447C70",
+          "on": "C74308FFE30B54C60301E9F9221FFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "639F72",
+          "on": "E9F9DCE00090",
+          "off": "894308C60301"
+        }
+      ]
+    },
+    {
+      "name": "99 Items (on use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1447C20",
+          "on": "42C6842E1802000063E90883EAFE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "2EFF2D",
+          "on": "E9EE7C150190909090",
+          "off": "664289842E18020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}
