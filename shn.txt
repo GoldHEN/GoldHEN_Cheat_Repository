@@ -117,6 +117,7 @@ CUSA10300_01.07.shn=Rage 2
 CUSA11898_01.09.shn=Divinity Original Sin 2 Definitive Edition
 SLUS20962_01.00.shn=Castle Shikigami 2
 SLES53874_01.00.shn=Dragon Blaze
+CUSA08692_01.03.shn=Dark Souls Remastered
 CUSA35014_01.02.shn=MOONSCARS
 SLUS20238_01.00.shn=Crash Bandicoot-The Wrath of Cortex
 SLUS42112_01.00.shn=Crisis Evil 2 Remake
