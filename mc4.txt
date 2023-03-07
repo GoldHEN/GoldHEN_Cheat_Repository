@@ -395,6 +395,7 @@ CUSA02231_01.00.mc4.xml=Dishonored: Definitive Edition
 CUSA00557_01.09.mc4.xml=The Last Of Us
 CUSA00009_01.04.mc4.xml=Assassins Creed - Black Flag
 CUSA04013_01.13.mc4.xml=Titanfall 2
+CUSA11253_01.43.mc4.xml=Dead Cells
 CUSA05133_01.05.mc4.xml=Yakuza 0
 CUSA23443_01.10.mc4.xml=Aragami 2
 CUSA09564_01.00.mc4.xml=Uncharted: The Lost Legacy
