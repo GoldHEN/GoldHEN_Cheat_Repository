@@ -1,1 +1,108 @@
-{"name":"Wanted: Dead","id":"CUSA32701","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"6A1BDB0","on":"664181FEF09E7510C5FA1087C4000000C5FA1187C0000000C5FA1087C0000000E9B7BDD1F9526564646576696C3832202D20465720392E3030","off":"00000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"737B84","on":"E927422E06909090","off":"C5FA1087C0000000"}]},{"name":"Infinite Guard Gauge","type":"checkbox","memory":[{"offset":"6A1BDE9","on":"C5FA1087CC000000C5FA1187C8000000E90AF7C7F9","off":"000000000000000000000000000000000000000000"},{"offset":"69B500","on":"E9E4083806909090","off":"C5FA1187C8000000"}]},{"name":"Max Medi Packs ( on use )","type":"checkbox","memory":[{"offset":"6A1BDFE","on":"B8630000004189872C130000E90E9CADFA","off":"0000000000000000000000000000000000"},{"offset":"14F5A16","on":"E9E36352059090","off":"4189872C130000"}]},{"name":"Max Ammo","type":"checkbox","memory":[{"offset":"6A1BE10","on":"C7835003000063000000448BB350030000E96425ABFA","off":"00000000000000000000000000000000000000000000"},{"offset":"14CE383","on":"E988DA54059090","off":"448BB350030000"}]},{"name":"Max Ammo Clip","type":"checkbox","memory":[{"offset":"6A1BE26","on":"C78748030000630000008B8748030000E91F59CBF9","off":"000000000000000000000000000000000000000000"},{"offset":"6D1754","on":"E9CDA6340690","off":"8B8748030000"}]},{"name":"Max Grenades","type":"checkbox","memory":[{"offset":"6A1BE3B","on":"C78487980F0000630000008B8487980F0000E9F5BDADFA","off":"0000000000000000000000000000000000000000000000"},{"offset":"14F7C40","on":"E9F64152059090","off":"8B8487980F0000"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "Wanted: Dead",
+  "id": "CUSA32701",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6A1BDB0",
+          "on": "664181FEF09E7510C5FA1087C4000000C5FA1187C0000000C5FA1087C0000000E9B7BDD1F9526564646576696C3832202D20465720392E3030",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "737B84",
+          "on": "E927422E06909090",
+          "off": "C5FA1087C0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Guard Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6A1BDE9",
+          "on": "C5FA1087CC000000C5FA1187C8000000E90AF7C7F9",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "69B500",
+          "on": "E9E4083806909090",
+          "off": "C5FA1187C8000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Medi Packs ( on use )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6A1BDFE",
+          "on": "B8630000004189872C130000E90E9CADFA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "14F5A16",
+          "on": "E9E36352059090",
+          "off": "4189872C130000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6A1BE10",
+          "on": "C7835003000063000000448BB350030000E96425ABFA",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14CE383",
+          "on": "E988DA54059090",
+          "off": "448BB350030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo Clip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6A1BE26",
+          "on": "C78748030000630000008B8748030000E91F59CBF9",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6D1754",
+          "on": "E9CDA6340690",
+          "off": "8B8748030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6A1BE3B",
+          "on": "C78487980F0000630000008B8487980F0000E9F5BDADFA",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14F7C40",
+          "on": "E9F64152059090",
+          "off": "8B8487980F0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}
