@@ -13,6 +13,7 @@ CUSA07559_01.00_hackGU_vol2.elf.shn=Hack GU Link Part II
 CUSA18182_01.00.shn=NHL 21
 SLUS21390_01.00.shn=Urban Chaos - Riot Response
 CUSA00683_01.02.shn=Metro Redux 5.05
+CUSA16319_01.65.shn=Sd Gundam G Generation Cross Rays
 CUSA02350_01.00.shn=Until Dawn: Rush Of Blood
 CUSA10851_01.02.shn=Burnout Paradise Remastered
 CUSA08519_01.29.shn=Red Dead Redemption 2
