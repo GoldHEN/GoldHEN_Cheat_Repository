@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA10161" Game="Immortal Unchained" Moder="Saso_9.00" Process="eboot.bin" Version="01.17" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="FPS"/>
+<Items/>
+<Cheat Text="Health / All (Master Code)">
+</Cheat>
+<Cheat Text="Ammo / Stamina / Energy / Consumable (MC)">
+</Cheat>
+</Trainer>

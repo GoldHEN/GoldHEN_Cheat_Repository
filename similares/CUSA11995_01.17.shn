@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Marvel's Spider-Man" Moder="M3hdi PS" Cusa="CUSA11995" Version="01.17" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Max/Infinite Health">
+    <Cheatline>
+      <Offset>3BEF85F</Offset>
+      <Section>0</Section>
+      <ValueOn>66-9C-48-89-DF-89-43-74-83-BB-D4-00-00-00-00-75-19-50-48-C7-C0-00-00-48-43-66-0F-6E-D0-C5-FA-11-53-70-58-66-9D-E9-10-08-C8-FD-66-9D-E9-04-08-C8-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>187008E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CC-F7-37-02-90</ValueOn>
+      <ValueOff>48-89-DF-89-43-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Focus">
+    <Cheatline>
+      <Offset>51A87F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-A4-C3-10-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3BEF81D</Offset>
+      <Section>0</Section>
+      <ValueOn>66-9C-50-48-C7-C0-00-00-C8-42-66-0F-6E-D8-58-C5-FA-11-9C-F3-10-01-00-00-66-9D-E9-D5-AF-92-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>51A808</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-10-50-6D-03-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-9C-F3-10-01-00-00</ValueOff>
+    </Cheatline>	
+  </Cheat>
+  <Cheat Text="Infinite Ressource / Web Shooter">
+    <Cheatline>
+      <Offset>3BEF890</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-DE-44-89-E9-41-BC-63-00-00-00-E9-EC-9B-C5-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1849487</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-04-64-3A-02-90</ValueOn>
+      <ValueOff>48-89-DE-44-89-E9</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3BEF8A1</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-F4-FF-C4-FD-41-BD-63-00-00-00-44-89-68-18-E9-89-A2-C5-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>	
+    <Cheatline>
+      <Offset>1849B35</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-67-5D-3A-02-90-90-90-90</ValueOn>
+      <ValueOff>E8-66-5D-FF-FF-44-89-68-18</ValueOff>
+    </Cheatline>	
+  </Cheat>
+  <Cheat Text="Max EXP/LvL 49">
+    <Cheatline>
+      <Offset>3BEF84E</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-3F-D7-02-00-41-89-9D-48-B8-00-00-E9-E5-D9-57-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>16D23D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0C-26-A8-03-90-90</ValueOn>
+      <ValueOff>41-89-9D-48-B8-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="99x Combo">
+    <Cheatline>
+      <Offset>3BEF8B5</Offset>
+      <Section>0</Section>
+      <ValueOn>83-F8-22-B9-63-00-00-00-41-89-4E-58-E9-E2-D1-8E-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4DCAA1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0F-2E-71-03-90-90</ValueOn>
+      <ValueOff>83-F8-22-41-89-4E-58</ValueOff>
+    </Cheatline>
+  </Cheat> 
+</Trainer>

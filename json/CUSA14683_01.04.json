@@ -1,22 +1,70 @@
 {
-  "name": "The Ascent",
-  "id": "CUSA14683",
-  "version": "01.04",
-  "process": "eboot.bin",
-  "mods": [
-    {
-      "name": "Infinite Component (nop)",
-      "type": "checkbox",
-      "memory": [
+    "name": "The Ascent",
+    "id": "CUSA14683",
+    "version": "1.04",
+    "process": "eboot.bin",
+    "mods": [
         {
-          "offset": "1100545",
-          "on": "90909090",
-          "off": "895CC804"
+            "name": "Skill points ivreases (on Spend)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "69F7C70",
+                    "on": "41FF8750010000E9814F70FA",
+                    "off": "000000000000000000000000"
+                },
+                {
+                    "offset": "10FCBF6",
+                    "on": "E975B08F059090",
+                    "off": "41FF8F50010000"
+                }
+            ]
+        },
+        {
+            "name": "Max ucred (on gain)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "69F7CC0",
+                    "on": "C787F8000000FFE0F505E97BF674FA",
+                    "off": "000000000000000000000000000000"
+                },
+                {
+                    "offset": "1147344",
+                    "on": "E977098B0590",
+                    "off": "01B7F8000000"
+                }
+            ]
+        },
+        {
+            "name": "Max Basic component (pick up 2 at least)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "69F7DE0",
+                    "on": "0F48DE66C744C804E703E95A8770FA",
+                    "off": "000000000000000000000000000000"
+                },
+                {
+                    "offset": "1100542",
+                    "on": "E999788F059090",
+                    "off": "0F48DE895CC804"
+                }
+            ]
+        },
+        {
+            "name": "High Damage/Invincible to most enemies",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "75A7C4",
+                    "on": "9090909090",
+                    "off": "C5FA114708"
+                }
+            ]
         }
-      ]
-    }
-  ],
-  "credits": [
-    "aloneknight_9.00"
-  ]
+    ],
+    "credits": [
+        "Wander FW+5.05"
+    ]
 }

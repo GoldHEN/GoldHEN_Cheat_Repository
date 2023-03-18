@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA17425" Game="Snow Runner" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.37" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Racing"/>
+<Items/>
+<Cheat Text="Infinite Fuel">
+</Cheat>
+<Cheat Text="No Damage">
+</Cheat>
+<Cheat Text="Max Repair Points ( on use )">
+</Cheat>
+<Cheat Text="Freeze Timer">
+</Cheat>
+</Trainer>
