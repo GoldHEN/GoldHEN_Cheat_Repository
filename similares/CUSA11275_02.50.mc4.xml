@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA11275" Game="Horizon Chase Turbo" Moder="Celogamez" Process="eboot.bin" Version="02.50" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Genres Name="Racing"/>
-<Items/>
-<Cheat Text="Max/Infinite Fuel">
-</Cheat>
-<Cheat Text="Infinite Nitro Turbo">
-</Cheat>
-</Trainer>

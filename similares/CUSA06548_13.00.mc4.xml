@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA06548" Game="Cities Skylines" Moder="Celogamez" Process="eboot.bin" Version="13.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Genres Name="Simulation"/>
-<Genres Name="Strategy"/>
-<Items/>
-<Cheat Text="Max/Infinite Money (Unlock Loans Before)">
-</Cheat>
-</Trainer>

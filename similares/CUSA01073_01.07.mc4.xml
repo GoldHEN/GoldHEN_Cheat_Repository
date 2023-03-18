@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA01073" Game="Ratchet and Clank" Moder="George and TLH" Process="eboot.bin" Version="01.07" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Genres Name="Adventure"/>
-<Items/>
-<Cheat Text="max ammo">
-
-</Cheat>
-</Trainer>

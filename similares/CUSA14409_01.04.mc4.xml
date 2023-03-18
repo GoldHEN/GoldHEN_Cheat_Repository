@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA14409" Game="Castle Crashers Remastered" Moder="Wander FW9.00" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Genres Name="Action"/>
-<Items/>
-<Cheat Text="Max Experience/Coins (kill an enemy go to map activate cheat restart game)">
-</Cheat>
-<Cheat Text="Max Skill points(turn on in stats upgrade turn off and repeat)">
-</Cheat>
-</Trainer>
