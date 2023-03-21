@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA27462" Game="Aliens Fireteam Elite" Moder="Celogamez" Process="eboot.bin" Version="01.34" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="Max/Infinite Health/Team">
+</Cheat>
+<Cheat Text="Infinite Ammo">
+</Cheat>
+<Cheat Text="No Reload">
+</Cheat>
+<Cheat Text="Infinite Medkits">
+</Cheat>
+<Cheat Text="Infinite Consumables">
+</Cheat>
+<Cheat Text="Max/Infinite Credits/Rep Scrip">
+</Cheat>
+</Trainer>
