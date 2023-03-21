@@ -1,1 +1,97 @@
-{"name":"Minoria","id":"CUSA19057","version":"01.04","process":"eboot.bin","mods":[{"name":"Max/Infinite Health","type":"checkbox","memory":[{"offset":"185BDB0","on":"C7401800E0A044E96E3CB37E","off":"000000000000000000000000"},{"offset":"8038FA25","on":"E986C34C81","off":"C5FA114018"}]},{"name":"Infinite Incense","type":"checkbox","memory":[{"offset":"185BAA0","on":"FFC841C6461863E90BC2C67E","off":"000000000000000000000000"},{"offset":"804C7CB1","on":"E9EA3D398190","off":"FFC841894618"}]},{"name":"Infinite Heavy Thrust","type":"checkbox","memory":[{"offset":"185BB00","on":"9041C6462863E9C852B37E","off":"0000000000000000000000"},{"offset":"80390DC4","on":"E937AD4C8190909090909090909090","off":"41C787900200000000704241FF4E28"}]},{"name":"Infinite Silver Coins","type":"checkbox","memory":[{"offset":"185BC20","on":"C6836401000063E99D67CC7E","off":"000000000000000000000000"},{"offset":"805223C3","on":"E95898338190","off":"FF8364010000"},{"offset":"185B840","on":"C6836401000063E94F06DA7E","off":"000000000000000000000000"},{"offset":"805FBE94","on":"E9A7F925819090","off":"4429A364010000"}]},{"name":"Max Xp On Kill","type":"checkbox","memory":[{"section":"14","offset":"BBC88","on":"89401090","off":"44017010"}]}],"credits":["Celogamez"]}
+{
+  "name": "Minoria",
+  "id": "CUSA19057",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "185BDB0",
+          "on": "C7401800E0A044E96E3CB37E",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "8038FA25",
+          "on": "E986C34C81",
+          "off": "C5FA114018"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Incense",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "185BAA0",
+          "on": "FFC841C6461863E90BC2C67E",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "804C7CB1",
+          "on": "E9EA3D398190",
+          "off": "FFC841894618"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Heavy Thrust",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "185BB00",
+          "on": "9041C6462863E9C852B37E",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "80390DC4",
+          "on": "E937AD4C8190909090909090909090",
+          "off": "41C787900200000000704241FF4E28"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Silver Coins",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "185BC20",
+          "on": "C6836401000063E99D67CC7E",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "805223C3",
+          "on": "E95898338190",
+          "off": "FF8364010000"
+        },
+        {
+          "offset": "185B840",
+          "on": "C6836401000063E94F06DA7E",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "805FBE94",
+          "on": "E9A7F925819090",
+          "off": "4429A364010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Xp On Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "BBC88",
+          "on": "89401090",
+          "off": "44017010"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}
