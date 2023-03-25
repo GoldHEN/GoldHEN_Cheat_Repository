@@ -880,6 +880,7 @@ CUSA01410_01.00.json=Transformers Devastation
 CUSA08570_01.02.json=Ys VIII -Lacrimosa of DANA-
 CUSA05986_01.08.json=Need for Speed™ Payback
 CUSA14168_01.03.json=RESIDENT EVIL 3
+CUSA18017_01.01.json=Resident Evil Village
 CUSA00004_01.07.json=inFAMOUS: Second Son
 CUSA03679_01.05.json=Mortal Kombat XL
 CUSA00378_01.00.json=Sniper Elite 3
