@@ -2,7 +2,7 @@
 <Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call OF Duty WW2 MP" Moder="M3hdi PS" Cusa="CUSA05969" Version="01.25" Process="default_mp.elf">
   <Genres Name="Shooter" />
   <Items />
-  <Cheat Text="INF Ammo & Throwable">
+  <Cheat Text="INF Ammo &amp; Throwable">
     <Cheatline>
       <Offset>744308</Offset>
       <Section>0</Section>
