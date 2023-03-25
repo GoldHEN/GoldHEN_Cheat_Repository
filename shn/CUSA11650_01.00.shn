@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Slime Rancher" Moder="Molly" Cusa="CUSA11650" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="High Money">
+    <Cheatline>
+      <Offset>14BF800</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-FF-C9-9A-3B-41-89-84-24-54-01-00-00-E9-A0-F9-F2-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>803EF1AA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-51-06-0D-81-90-90-90</ValueOn>
+      <ValueOff>41-89-84-24-54-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items ~Gain 2 Of The Same~">
+    <Cheatline>
+      <Offset>14BF812</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-4D-EE-F1-7E-B9-63-00-00-00-89-48-1C-E9-25-E8-F1-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>803DE041</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CC-17-0E-81-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-24-06-00-00-89-48-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="99 Keys ~After Gain~">
+    <Cheatline>
+      <Offset>14BF825</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-63-00-00-00-41-89-87-60-01-00-00-E9-6C-FD-F2-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>803EF59B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-85-02-0D-81-90-90</ValueOn>
+      <ValueOff>41-89-87-60-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="99 Water ~After Gain~">
+    <Cheatline>
+      <Offset>14BF836</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-5B-EE-F1-7E-B9-63-00-00-00-89-48-1C-E9-AF-E7-F1-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>803DDFEF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-42-18-0E-81-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-A8-06-00-00-89-48-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>14BF849</Offset>
+      <Section>0</Section>
+      <ValueOn>51-B9-00-00-7A-43-66-44-0F-6E-F9-59-F3-45-0F-11-BE-4C-01-00-00-E9-EE-F4-F2-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>803EED48</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FC-0A-0D-81-90-90-90-90</ValueOn>
+      <ValueOff>F3-45-0F-11-BE-4C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="High Energy ~After Use~">
+    <Cheatline>
+      <Offset>14BF863</Offset>
+      <Section>0</Section>
+      <ValueOn>51-B9-F0-23-74-49-66-44-0F-6E-F9-59-F3-45-0F-11-BF-48-01-00-00-E9-63-DF-F2-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>803ED7D7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-87-20-0D-81-90-90-90-90</ValueOn>
+      <ValueOff>F3-45-0F-11-BF-48-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Never Get Rad">
+    <Cheatline>
+      <Offset>14BF87D</Offset>
+      <Section>0</Section>
+      <ValueOn>51-B9-00-00-00-00-66-44-0F-6E-F9-59-F3-45-0F-11-BF-50-01-00-00-E9-DF-EF-F2-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>803EE86D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0B-10-0D-81-90-90-90-90</ValueOn>
+      <ValueOff>F3-45-0F-11-BF-50-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

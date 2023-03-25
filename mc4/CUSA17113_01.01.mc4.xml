@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA17113" Game="End of Eternity" Moder="Molly" Process="eboot.bin" Version="1.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Max Money">
+</Cheat>
+<Cheat Text="Unlock All Items">
+</Cheat>
+<Cheat Text="Max Hp">
+</Cheat>
+<Cheat Text="Quick Level Up">
+</Cheat>
+<Cheat Text="No Equipment Weight">
+</Cheat>
+<Cheat Text="High Star Amount">
+</Cheat>
+<Cheat Text="Clear All Difficulties ~Load Save~">
+</Cheat>
+</Trainer>

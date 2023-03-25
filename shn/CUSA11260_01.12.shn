@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Death Stranding" Moder="Vicodin10 Rizla" Cusa="CUSA11260" Version="01.12" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Blood Never Decreases (God Mode)">
+    <Cheatline>
+      <Offset>17B44A1</Offset>
+      <Section>0</Section>
+      <ValueOn>08</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No BB Stress Meter Drain">
+    <Cheatline>
+      <Offset>1833D19</Offset>
+      <Section>0</Section>
+      <ValueOn>C2</ValueOn>
+      <ValueOff>CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Cargo Weight (Even with carriers)">
+    <Cheatline>
+      <Offset>1F425D5</Offset>
+      <Section>0</Section>
+      <ValueOn>70</ValueOn>
+      <ValueOff>40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Cargo Deterioration or Damage (Everything in Cargo Management.)">
+    <Cheatline>
+      <Offset>35D3080</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-04-00-00-C8-C2-C5-FA-10-6B-04-E9-94-D2-95-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1F30320</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5B-2D-6A-01</ValueOn>
+      <ValueOff>C5-FA-10-6B-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Boot Durability">
+    <Cheatline>
+      <Offset>17C2E16</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-8D-0C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Road Deterioration">
+    <Cheatline>
+      <Offset>205A6B9</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Structure Deterioration">
+    <Cheatline>
+      <Offset>1F69B4D</Offset>
+      <Section>0</Section>
+      <ValueOn>C9</ValueOn>
+      <ValueOff>C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set all Structure Builds to 10Mil">
+    <Cheatline>
+      <Offset>35D3060</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-85-D8-00-00-00-80-96-18-4B-C4-C1-7A-10-85-D8-00-00-00-E9-DE-6A-99-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1F69B4E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0D-95-66-01-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-85-D8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Structure Builds">
+    <Cheatline>
+      <Offset>1F69092</Offset>
+      <Section>0</Section>
+      <ValueOn>C8</ValueOn>
+      <ValueOff>C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>1ABED51</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>39-D9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite (Sticky Gun/Repair Spray/Ladder/PCC/Climbing Anchor)">
+    <Cheatline>
+      <Offset>1864173</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Battery Recharge">
+    <Cheatline>
+      <Offset>188E5D5</Offset>
+      <Section>0</Section>
+      <ValueOn>84-28-00-00-90-90-90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>80-28-00-00-C5-FA-5C-C3-C5-FA-5F-C1-C5-F8-2E-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Vehicle Battery">
+    <Cheatline>
+      <Offset>2923CF5</Offset>
+      <Section>0</Section>
+      <ValueOn>7A-11-50</ValueOn>
+      <ValueOff>FA-11-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Vehicle Durability">
+    <Cheatline>
+      <Offset>292B809</Offset>
+      <Section>0</Section>
+      <ValueOn>49-C7-C2-00-00-80-3F-4D-89-95-84-00-00-00-4D-31-D2-C4-C1-7A-11-45-78</ValueOn>
+      <ValueOff>C5-FA-5D-CA-C5-F8-57-C0-C5-EA-C2-D0-01-C5-E8-55-C9-C4-C1-7A-11-4D-78</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Resistance to Rough Terrain">
+    <Cheatline>
+      <Offset>17C122D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-34-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Monster Energy Drinks">
+    <Cheatline>
+      <Offset>18671CC</Offset>
+      <Section>0</Section>
+      <ValueOn>58</ValueOn>
+      <ValueOff>48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Hold Breath">
+    <Cheatline>
+      <Offset>17BFFD7</Offset>
+      <Section>0</Section>
+      <ValueOn>C9</ValueOn>
+      <ValueOff>C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Consciousness Drain">
+    <Cheatline>
+      <Offset>17B664F</Offset>
+      <Section>0</Section>
+      <ValueOn>9C</ValueOn>
+      <ValueOff>8C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Fast Run">
+    <Cheatline>
+      <Offset>35D3040</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-9C-3C-00-00-00-00-F0-41-C5-FA-10-A8-9C-3C-00-00-E9-8E-EF-2E-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>18C1FDD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5E-10-D1-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-A8-9C-3C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Resources Never Decrease">
+    <Cheatline>
+      <Offset>2CF8E33</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>48-29-F1</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2CF8E50</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>48-29-F1</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2CF8E6E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>48-29-F1</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2CF8E8C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>48-29-F1</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2CF8EAA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>48-29-F1</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2CF8ECD</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>48-89-48-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

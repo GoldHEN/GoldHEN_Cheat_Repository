@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA11407" Game="Metro Exodus 1.08 Backport 5.05 + 2 DLC" Moder="Dioniso" Process="eboot.bin" Version="01.08" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="FPS"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="1 Hit Kill (-Bosses)">
+</Cheat>
+<Cheat Text="Infinite Mask Filter">
+</Cheat>
+<Cheat Text="Infinite Ammo">
+</Cheat>
+<Cheat Text="Infinite Pressure (Air Gun / Flamethrower)">
+</Cheat>
+<Cheat Text="No Weapon Jam">
+</Cheat>
+<Cheat Text="Infinite Bombs">
+</Cheat>
+<Cheat Text="Infinite Molotovs">
+</Cheat>
+<Cheat Text="Infinite Knives">
+</Cheat>
+<Cheat Text="Infinite Cans">
+</Cheat>
+<Cheat Text="Infinite Resources (Pick Up)">
+</Cheat>
+<Cheat Text="No Decrease: Medkits">
+</Cheat>
+<Cheat Text="Infinite Batteries x1 (Goggles, Torch)">
+</Cheat>
+<Cheat Text="Infinite Batteries x2 Intensity">
+</Cheat>
+<Cheat Text="Infinite Batteries x4 Intensity">
+</Cheat>
+<Cheat Text="Infinite Batteries x8 Intensity">
+</Cheat>
+</Trainer>

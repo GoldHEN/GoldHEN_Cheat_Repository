@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA07384" Game="Wolfenstein 2 v1.07 5.05 Backport" Moder="Dioniso" Process="eboot.bin" Version="01.07" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="FPS"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Shield">
+</Cheat>
+<Cheat Text="Infinite Bullets">
+</Cheat>
+<Cheat Text="Infinite Laser + Granades + Hatchets (100)">
+</Cheat>
+<Cheat Text="Infinite Upgrade Kits + Enigma Codes (99)">
+</Cheat>
+<Cheat Text="Enemy Doesn't Shoot (except Uebersoldaten)">
+</Cheat>
+</Trainer>

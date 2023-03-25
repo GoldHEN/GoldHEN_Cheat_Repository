@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA19096" Game="XIII Remake" Moder="GamerX2" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="FPS"/>
+<Items/>
+<Cheat Text="Inf Ammo/Grenades/Knives">
+</Cheat>
+<Cheat Text="Infinite Body Armor">
+</Cheat>
+<Cheat Text="Infinite HP">
+</Cheat>
+<Cheat Text="Max+ Inf Items On Use">
+</Cheat>
+</Trainer>

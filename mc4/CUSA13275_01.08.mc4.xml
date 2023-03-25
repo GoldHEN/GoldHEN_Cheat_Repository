@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA13275" Game="Doom Eternal" Moder="Dioniso" Process="eboot.bin" Version="01.08" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="FPS"/>
+<Items/>
+<Cheat Text="Infinite Health (Slayer+Revenant) + Shield">
+</Cheat>
+<Cheat Text="Infinite Ammo + Fuel">
+</Cheat>
+<Cheat Text="Infinite Crucible Sword">
+</Cheat>
+<Cheat Text="Infinite Jump">
+</Cheat>
+<Cheat Text="Infinite Jumping Dash">
+</Cheat>
+<Cheat Text="1 Hit Kill">
+</Cheat>
+<Cheat Text="Infinite Radiation/Dive Suit">
+</Cheat>
+<Cheat Text="666 Keys + 6 Empyrean Keys">
+</Cheat>
+<Cheat Text="Show The Complete Menu">
+</Cheat>
+</Trainer>

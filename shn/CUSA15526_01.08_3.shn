@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="aaa" Moder="a12312" Cusa="2312" Version="2121" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+    <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>2289330</Offset>
+      <Section>0</Section>
+      <ValueOn>49-8B-47-18-49-89-47-20-E9-67-BB-D3-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FC4E9D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8E-44-2C-01-90-90</ValueOn>
+      <ValueOff>49-8B-47-20-48-85-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite KI">
+    <Cheatline>
+      <Offset>228934C</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-47-4C-C4-C1-7A-11-47-48-E9-0B-BD-D3-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FC5062</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E5-42-2C-01-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-47-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Anima">
+    <Cheatline>
+      <Offset>228936C</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-84-24-64-03-00-00-C4-C1-7A-11-84-24-60-03-00-00-E9-75-C0-D3-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FC53F0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-77-3F-2C-01-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-84-24-60-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

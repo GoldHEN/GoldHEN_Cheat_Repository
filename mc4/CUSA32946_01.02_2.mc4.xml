@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA32946" Game="Final Vendetta" Moder="Dioniso" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Arcade"/>
+<Genres Name="Fighting"/>
+<Items/>
+<Cheat Text="[01] Immunity">
+</Cheat>
+<Cheat Text="[02] Infinite Health">
+</Cheat>
+<Cheat Text="[03] Infinite Lives">
+</Cheat>
+<Cheat Text="[04] Lives: 666">
+</Cheat>
+<Cheat Text="[05] 1 Hit Kill">
+</Cheat>
+<Cheat Text="[06] SUPER Always Full">
+</Cheat>
+<Cheat Text="[07] Hold UP Arrow + Press/Release L2: Change Weapon">
+</Cheat>
+<Cheat Text="[08] Chain: No Reset">
+</Cheat>
+<Cheat Text="[09] Chain: Best To 666">
+</Cheat>
+<Cheat Text="[10] Time: 00:00">
+</Cheat>
+<Cheat Text="[11] Total Time: 00:00">
+</Cheat>
+<Cheat Text="[12] Countdown: Bit Faster">
+</Cheat>
+</Trainer>

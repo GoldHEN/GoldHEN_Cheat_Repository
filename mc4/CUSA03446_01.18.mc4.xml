@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA03446" Game="7 Days To Die" Moder="Molly" Process="eboot.bin" Version="01.18" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Horror"/>
+<Items/>
+<Cheat Text="Max Items ~When Thrown~">
+</Cheat>
+<Cheat Text="Max Items ~When Picked Up~">
+</Cheat>
+<Cheat Text="Max Items ~When Gathering~">
+</Cheat>
+<Cheat Text="Max Items ~When Crafting~">
+</Cheat>
+<Cheat Text="Max Items ~When Placing Items Down~">
+</Cheat>
+<Cheat Text="Max Ammo">
+</Cheat>
+<Cheat Text="Quick Level Up Skills">
+</Cheat>
+<Cheat Text="Max Skill Point ~After Use~">
+</Cheat>
+<Cheat Text="Quick Level Up">
+</Cheat>
+<Cheat Text="Infinite Health / Stamina">
+</Cheat>
+</Trainer>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA20469" Game="Cuphead" Moder="Saso" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Platform"/>
+<Items/>
+<Cheat Description="" Text="Inf HP">
+</Cheat>
+<Cheat Description="" Text="Inf Extra Special (On Use)">
+</Cheat>
+<Cheat Description="" Text="Inf Plane Extra Special (On Use)">
+</Cheat>
+<Cheat Description="" Text="Max Gold (Enter The Store To Activate)">
+</Cheat>
+</Trainer>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="nioh 2" Moder="ابراهيم " Cusa="CUSA15526" Version="01.08" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Unlimited Items">
+    <Cheatline>
+      <Offset>B36311</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>66-89-9C-16-74-5D-10-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlimited Anima">
+    <Cheatline>
+      <Offset>92C64C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-17</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlimited Yokai Shift Duration">
+    <Cheatline>
+      <Offset>9D801D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-5C-D9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlimited Health">
+    <Cheatline>
+      <Offset>2289330</Offset>
+      <Section>0</Section>
+      <ValueOn>49-8B-47-18-49-89-47-20-E9-67-BB-D3-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FC4E9D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8E-44-2C-01-90-90</ValueOn>
+      <ValueOff>49-8B-47-20-48-85-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlimited Ki">
+    <Cheatline>
+      <Offset>2289348</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-47-4C-C4-C1-7A-11-47-48-E9-0F-BD-D3-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FC5062</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E1-42-2C-01-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-47-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlimited Sentience">
+    <Cheatline>
+      <Offset>89D485</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-E3-69-4A-C0-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Weapon Proficiency">
+    <Cheatline>
+      <Offset>B0DAB7</Offset>
+      <Section>0</Section>
+      <ValueOn>41-01-07</ValueOn>
+      <ValueOff>41-89-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text=" Max Weapon Familiarity">
+    <Cheatline>
+      <Offset>F23FE9</Offset>
+      <Section>0</Section>
+      <ValueOn>45-01-77-0C</ValueOn>
+      <ValueOff>45-89-77-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="max amrita">
+    <Cheatline>
+      <Offset>B0CE17</Offset>
+      <Section>0</Section>
+      <ValueOn>49-01-07</ValueOn>
+      <ValueOff>49-89-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="friand never go">
+    <Cheatline>
+      <Offset>AEBFB4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>03-B7-60-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlimited Shortcut Items">
+    <Cheatline>
+      <Offset>BF74DE</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>41-29-CB</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="frind infinte hp">
+    <Cheatline>
+      <Offset>FBDA16</Offset>
+      <Section>0</Section>
+      <ValueOn>49-03-44-24-20</ValueOn>
+      <ValueOff>49-8B-44-24-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inc glory">
+    <Cheatline>
+      <Offset>BE5F31</Offset>
+      <Section>0</Section>
+      <ValueOn>01-8B-BC-04-00-00</ValueOn>
+      <ValueOff>89-8B-BC-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Yokai Shift Duration no cooldown">
+    <Cheatline>
+      <Offset>924063</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-EA-5C-E1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inc itme">
+    <Cheatline>
+      <Offset>B36311</Offset>
+      <Section>0</Section>
+      <ValueOn>66-01-9C-16-74-5D-10-00</ValueOn>
+      <ValueOff>66-01-9C-16-74-5D-10-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

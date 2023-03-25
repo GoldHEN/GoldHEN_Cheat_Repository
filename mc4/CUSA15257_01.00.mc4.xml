@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA15257" Game="Crystar" Moder="GamerX2" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Infinite HP">
+</Cheat>
+<Cheat Text="Infinite SP">
+</Cheat>
+<Cheat Text="Infinite Tears Gauge">
+</Cheat>
+<Cheat Text="Max Money On Gain">
+</Cheat>
+<Cheat Text="Infinite Money">
+</Cheat>
+<Cheat Text="Infinite Items on Use">
+</Cheat>
+<Cheat Text="Max Items On Buy">
+</Cheat>
+<Cheat Text="1 Hit = 50 Chain  | Unlocks Impulse Trophy">
+</Cheat>
+<Cheat Text="1 Hit = 100 Chain| Unlocks Unending Impulse">
+</Cheat>
+<Cheat Text="1 Hit = 200 Chain| Unlocks Wild Impulse">
+</Cheat>
+<Cheat Text="Max Chain Hit">
+</Cheat>
+<Cheat Text="Boost EXP| 50 Per Kill">
+</Cheat>
+<Cheat Text="Extra EXP| 150 Per Kill">
+</Cheat>
+<Cheat Text="Even More EXP| 400 Per Kill">
+</Cheat>
+<Cheat Text="Lots Of EXP| 2000 Per Kill">
+</Cheat>
+<Cheat Text="Hella EXP| 25000 Per Kill">
+</Cheat>
+<Cheat Text="EXP OVERLORD| 1 Kill Max Level">
+</Cheat>
+<Cheat Text="Splendor Master| Enhanced ATK">
+</Cheat>
+<Cheat Text="Falconer| Powerful ATK">
+</Cheat>
+<Cheat Text="Kendo Master| Double ATK">
+</Cheat>
+<Cheat Text="Shaolin Master| Supreme ATK">
+</Cheat>
+<Cheat Text="Plastic Slipper| Max ATK">
+</Cheat>
+</Trainer>

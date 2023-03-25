@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Horizon - Forbidden West" Moder="TLH" Cusa="CUSA28561" Version="1.17" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Player Pointer">
+    <Cheatline>
+      <Offset>2BCF560</Offset>
+      <Section>0</Section>
+      <ValueOn>48-A3-00-FE-B4-06-00-00-00-00-C5-FA-10-40-74-E9-09-13-73-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2300878</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E3-EC-8C-00</ValueOn>
+      <ValueOff>C5-FA-10-40-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Health / 1 Hit Kill">
+    <Cheatline>
+      <Offset>2BCF574</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-4C-3B-2D-83-08-B8-03-74-0E-80-3D-EF-FF-FF-FF-01-75-14-0F-57-C0-EB-0F-80-3D-E0-FF-FF-FF-01-75-06-C4-C1-7A-10-45-78-C4-C1-7A-11-45-74-E9-4E-BD-2A-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E7B2EF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-82-42-D5-01-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-45-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>2BCF574</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill">
+    <Cheatline>
+      <Offset>2BCF575</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Breath">
+    <Cheatline>
+      <Offset>1DD4C5A</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-54</ValueOn>
+      <ValueOff>C5-FA-10-43-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Focus">
+    <Cheatline>
+      <Offset>18F6DF0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-5C-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Focus recovery">
+    <Cheatline>
+      <Offset>18F6C2B</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-5F-45-58</ValueOn>
+      <ValueOff>C4-C1-7A-5D-45-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items/Ammo">
+    <Cheatline>
+      <Offset>1EE678D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="255 Items on 2nd Get">
+    <Cheatline>
+      <Offset>1EE7F6D</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-FF-00-00-00-90</ValueOn>
+      <ValueOff>44-39-E1-0F-4C-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Medical Items">
+    <Cheatline>
+      <Offset>1C16DAA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items Medical Items on Get">
+    <Cheatline>
+      <Offset>1C16305</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-4E-D6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Effects">
+    <Cheatline>
+      <Offset>1C37CA0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C0-90</ValueOn>
+      <ValueOff>C5-F2-5C-C0</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1C3D5AA</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C0-90-90-90</ValueOn>
+      <ValueOff>C4-E3-79-4A-C2-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Metal-shards">
+    <Cheatline>
+      <Offset>166BD9E</Offset>
+      <Section>0</Section>
+      <ValueOn>45-89-5C-DB-10</ValueOn>
+      <ValueOff>45-01-74-DB-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="15361" Game="Yakuza 4" Moder="IMnoob" Process="eboot.bin" Version="1.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Max Money on Buy">
+</Cheat>
+<Cheat Text="Max Exp After Get">
+</Cheat>
+<Cheat Text="Infinite Ability Point">
+</Cheat>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Heats">
+</Cheat>
+<Cheat Text="1 Hit KILL">
+</Cheat>
+</Trainer>

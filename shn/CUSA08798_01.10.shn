@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Darksiders III" Moder="GamerX2,DanteClaus and ThankachanSmith" Cusa="CUSA08798" Version="01.10" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <StartUP Text="Health Master">
+    <Cheatline>
+      <Offset>494F800</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-81-FD-60-A1-75-0D-C5-FA-11-8B-14-08-00-00-E9-F8-CA-96-FB-C5-FA-11-8B-14-08-00-00-E9-EB-CA-96-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2BC305</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F6-34-69-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-14-08-00-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>494F822</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-14-08-00-00-00-00-7A-44-EB-EF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>494F815</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-0B-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-14-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Kill">
+    <Cheatline>
+      <Offset>494F82E</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-14-08-00-00-00-00-80-3F-EB-D6</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>494F808</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-24-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-14-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Fill Wrath and Havoc">
+    <Cheatline>
+      <Offset>494F83A</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-30-01-00-00-00-00-FA-43-C5-FA-10-8B-30-01-00-00-E9-9E-ED-92-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>27E5E7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4E-12-6D-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-8B-30-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Souls on Spend">
+    <Cheatline>
+      <Offset>494F851</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-7F-96-98-00-89-08-E9-60-D3-A3-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>38CBB8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-94-2C-5C-04</ValueOn>
+      <ValueOff>45-31-ED-89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Consumables On Use">
+    <Cheatline>
+      <Offset>494F85D</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-0F-27-00-00-89-70-2C-E9-49-12-A4-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>390AAE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AA-ED-5B-04</ValueOn>
+      <ValueOff>74-03-89-70-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ingredients On Use">
+    <Cheatline>
+      <Offset>494F86A</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-63-00-00-00-89-70-2C-E9-FA-D4-A3-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>38CD6C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F9-2A-5C-04</ValueOn>
+      <ValueOff>7E-20-89-70-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Souls and Crystals (Turn off Max cheat before use)">
+    <Cheatline>
+      <Offset>38CBBB</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Consumables (Turn off Max cheat before use)">
+    <Cheatline>
+      <Offset>390AB0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-70-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ingredients (Turn off Max cheat before use)">
+    <Cheatline>
+      <Offset>38CD6E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-70-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
