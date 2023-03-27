@@ -1,70 +1,70 @@
 {
-    "name": "BloodRayne Betrayal Flesh bites",
-    "id": "CUSA26608",
-    "version": "01.01",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "BloodRayne Betrayal Flesh bites",
+  "id": "CUSA26608",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health/2 Hits Kills (Master Code)",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Max/Infinite Health/2 Hits Kills (Master Code)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "6EBDB0",
-                    "on": "81BFAC0E00000000803F7518C5FA108780020000C5FA11877C020000E97A25ADFF0F57C0C5FA11877C020000E96A25ADFF",
-                    "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "1BE343",
-                    "on": "E968DA5200909090",
-                    "off": "C5FA11877C020000"
-                }
-            ]
+          "offset": "6EBDB0",
+          "on": "81BFAC0E00000000803F7518C5FA108780020000C5FA11877C020000E97A25ADFF0F57C0C5FA11877C020000E96A25ADFF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
         },
         {
-            "name": "2 Hits Kills",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "6EBDBA",
-                    "on": "7515",
-                    "off": "7518"
-                }
-            ]
-        },
-        {
-            "name": "Infinite Ammo",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "6EBE50",
-                    "on": "41C68424100D000005E913E59FFF",
-                    "off": "0000000000000000000000000000"
-                },
-                {
-                    "offset": "EA369",
-                    "on": "E9E21A6000909090",
-                    "off": "41FE8C24100D0000"
-                }
-            ]
-        },
-        {
-            "name": "Max Score",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "6EBE10",
-                    "on": "C787040800007F969800E9018FA1FF",
-                    "off": "000000000000000000000000000000"
-                },
-                {
-                    "offset": "104D1A",
-                    "on": "E9F1705E0090",
-                    "off": "898F04080000"
-                }
-            ]
+          "offset": "1BE343",
+          "on": "E968DA5200909090",
+          "off": "C5FA11877C020000"
         }
-    ],
-    "credits": [
-        "Celogamez"
-    ]
+      ]
+    },
+    {
+      "name": "2 Hits Kills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6EBDBA",
+          "on": "7515",
+          "off": "7518"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6EBE50",
+          "on": "41C68424100D000005E913E59FFF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "EA369",
+          "on": "E9E21A6000909090",
+          "off": "41FE8C24100D0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Score",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6EBE10",
+          "on": "C787040800007F969800E9018FA1FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "104D1A",
+          "on": "E9F1705E0090",
+          "off": "898F04080000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
 }

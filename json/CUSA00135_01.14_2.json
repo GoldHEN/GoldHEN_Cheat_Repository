@@ -1,59 +1,59 @@
 {
-    "name": "BATMAN\u2122: ARKHAM KNIGHT",
-    "id": "CUSA00135",
-    "version": "01.14",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "BATMAN™: ARKHAM KNIGHT",
+  "id": "CUSA00135",
+  "version": "01.14",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Infinite Health",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7507DF",
-                    "on": "E91DF4FF019090",
-                    "off": "418907488B4DC0"
-                },
-                {
-                    "offset": "274FC01",
-                    "on": "6641817F642B020F8509000000488B4DC0E9CF0B00FE41890790488B4DC0E9C20B00FE",
-                    "off": "6641817F642B020F8509000000488B4DC0E9CF0B00FE41890790488B4DC0E9C20B00FE"
-                }
-            ]
+          "offset": "7507DF",
+          "on": "E91DF4FF019090",
+          "off": "418907488B4DC0"
         },
         {
-            "name": "1 Hit Kill",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7507DF",
-                    "on": "E91DF4FF019090",
-                    "off": "E91DF4FF019090"
-                },
-                {
-                    "offset": "274FC01",
-                    "on": "6641817F642B020F8509000000488B4DC0E9CF0B00FE41C60700488B4DC0E9C20B00FE",
-                    "off": "6641817F642B020F8509000000488B4DC0E9CF0B00FE41890790488B4DC0E9C20B00FE"
-                }
-            ]
-        },
-        {
-            "name": "Inf Skillpoints  Important ->(Deactivate Inf HP and 1 Hit Kill before using)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "274FC24",
-                    "on": "29C8B8E7030000418907E9AF0B00FE",
-                    "off": "000000000000000000000000000000"
-                },
-                {
-                    "offset": "7507DD",
-                    "on": "E942F4FF01",
-                    "off": "29C8418907"
-                }
-            ]
+          "offset": "274FC01",
+          "on": "6641817F642B020F8509000000488B4DC0E9CF0B00FE41890790488B4DC0E9C20B00FE",
+          "off": "6641817F642B020F8509000000488B4DC0E9CF0B00FE41890790488B4DC0E9C20B00FE"
         }
-    ],
-    "credits": [
-        "Talixme + Weysincha"
-    ]
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7507DF",
+          "on": "E91DF4FF019090",
+          "off": "E91DF4FF019090"
+        },
+        {
+          "offset": "274FC01",
+          "on": "6641817F642B020F8509000000488B4DC0E9CF0B00FE41C60700488B4DC0E9C20B00FE",
+          "off": "6641817F642B020F8509000000488B4DC0E9CF0B00FE41890790488B4DC0E9C20B00FE"
+        }
+      ]
+    },
+    {
+      "name": "Inf Skillpoints  Important ->(Deactivate Inf HP and 1 Hit Kill before using)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "274FC24",
+          "on": "29C8B8E7030000418907E9AF0B00FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "7507DD",
+          "on": "E942F4FF01",
+          "off": "29C8418907"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme + Weysincha"
+  ]
 }

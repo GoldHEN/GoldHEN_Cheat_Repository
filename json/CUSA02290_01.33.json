@@ -1,27 +1,27 @@
 {
-    "name": "Black ops 3",
-    "id": "CUSA02290",
-    "version": "01.33",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "Black ops 3",
+  "id": "CUSA02290",
+  "version": "01.33",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode (Zombies mode)",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Godmode (Zombies mode)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "151F810",
-                    "on": "4F8D8435C802000090E9013748FF",
-                    "off": "0000000000000000000000000000"
-                },
-                {
-                    "offset": "9A2F14",
-                    "on": "E9F7C8B700909090909090",
-                    "off": "4F8D8435C80200004429E0"
-                }
-            ]
+          "offset": "151F810",
+          "on": "4F8D8435C802000090E9013748FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "9A2F14",
+          "on": "E9F7C8B700909090909090",
+          "off": "4F8D8435C80200004429E0"
         }
-    ],
-    "credits": [
-        "Skal"
-    ]
+      ]
+    }
+  ],
+  "credits": [
+    "Skal"
+  ]
 }

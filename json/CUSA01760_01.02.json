@@ -1,38 +1,38 @@
 {
-    "name": "Dark souls 2",
-    "id": "CUSA01760",
-    "version": "01.02",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "Dark souls 2",
+  "id": "CUSA01760",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode + 1 hit kill",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Godmode + 1 hit kill",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "2077800",
-                    "on": "664181FF20667505E9418D11FE31C0E93A8D11FE",
-                    "off": "0000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "190549",
-                    "on": "E9B272EE01",
-                    "off": "0F4EC889C8"
-                }
-            ]
+          "offset": "2077800",
+          "on": "664181FF20667505E9418D11FE31C0E93A8D11FE",
+          "off": "0000000000000000000000000000000000000000"
         },
         {
-            "name": "Max souls on gain",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "403DCE",
-                    "on": "8987EC000000",
-                    "off": "898FEC000000"
-                }
-            ]
+          "offset": "190549",
+          "on": "E9B272EE01",
+          "off": "0F4EC889C8"
         }
-    ],
-    "credits": [
-        "Skal"
-    ]
+      ]
+    },
+    {
+      "name": "Max souls on gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "403DCE",
+          "on": "8987EC000000",
+          "off": "898FEC000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Skal"
+  ]
 }

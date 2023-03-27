@@ -1,113 +1,113 @@
 {
-    "name": "Call of Duty\u00ae: Infinite Warfare",
-    "id": "CUSA05369",
-    "version": "01.25",
-    "process": "default.elf",
-    "mods": [
+  "name": "Call of Duty®: Infinite Warfare",
+  "id": "CUSA05369",
+  "version": "01.25",
+  "process": "default.elf",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit Kill (Master Code/Must Be On)",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Infinite Health/1 Hit Kill (Master Code/Must Be On)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "14BBE80",
-                    "on": "6681FBA043750E4189B5E0010000E9501F14FF31F64189B5E0010000E9421F14FF43656C6F67616D657A5F392E3030",
-                    "off": "000000000000000000000000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "5FDDDC",
-                    "on": "E99FE0EB009090",
-                    "off": "4189B5E0010000"
-                }
-            ]
+          "offset": "14BBE80",
+          "on": "6681FBA043750E4189B5E0010000E9501F14FF31F64189B5E0010000E9421F14FF43656C6F67616D657A5F392E3030",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
         },
         {
-            "name": "Infinite Health (Enable MC)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "14BBE87",
-                    "on": "418BB5E0010000",
-                    "off": "4189B5E0010000"
-                }
-            ]
-        },
-        {
-            "name": "1 Hit Kill (Enable MC)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "14BBE85",
-                    "on": "750C",
-                    "off": "750E"
-                }
-            ]
-        },
-        {
-            "name": "Infinite Ammo",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC5BF60",
-                    "on": "4C89E98B5814E9E62DC780",
-                    "off": "0000000000000000000000"
-                },
-                {
-                    "offset": "8CED4B",
-                    "on": "E910D2387F90",
-                    "off": "4C89E9895814"
-                }
-            ]
-        },
-        {
-            "name": "No Reload",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC5BE80",
-                    "on": "448B6C8814E98029C780",
-                    "off": "00000000000000000000"
-                },
-                {
-                    "offset": "8CE805",
-                    "on": "E976D6387F",
-                    "off": "44896C8814"
-                }
-            ]
-        },
-        {
-            "name": "Infinite Throwables",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC59A60",
-                    "on": "0F4ED18B5014E9E85BC680",
-                    "off": "0000000000000000000000"
-                },
-                {
-                    "offset": "8BF64D",
-                    "on": "E90EA4397F90",
-                    "off": "0F4ED1895014"
-                }
-            ]
-        },
-        {
-            "name": "Infinite Jetpack",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC5B660",
-                    "on": "C4C17A100424E9DC9B6B80",
-                    "off": "0000000000000000000000"
-                },
-                {
-                    "offset": "315241",
-                    "on": "E91A64947F90",
-                    "off": "C4C17A110424"
-                }
-            ]
+          "offset": "5FDDDC",
+          "on": "E99FE0EB009090",
+          "off": "4189B5E0010000"
         }
-    ],
-    "credits": [
-        "Celogamez"
-    ]
+      ]
+    },
+    {
+      "name": "Infinite Health (Enable MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14BBE87",
+          "on": "418BB5E0010000",
+          "off": "4189B5E0010000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (Enable MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14BBE85",
+          "on": "750C",
+          "off": "750E"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5BF60",
+          "on": "4C89E98B5814E9E62DC780",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "8CED4B",
+          "on": "E910D2387F90",
+          "off": "4C89E9895814"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5BE80",
+          "on": "448B6C8814E98029C780",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "8CE805",
+          "on": "E976D6387F",
+          "off": "44896C8814"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Throwables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC59A60",
+          "on": "0F4ED18B5014E9E85BC680",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "8BF64D",
+          "on": "E90EA4397F90",
+          "off": "0F4ED1895014"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jetpack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5B660",
+          "on": "C4C17A100424E9DC9B6B80",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "315241",
+          "on": "E91A64947F90",
+          "off": "C4C17A110424"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
 }
