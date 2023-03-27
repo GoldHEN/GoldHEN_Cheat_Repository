@@ -1,0 +1,38 @@
+{
+    "name": "Sd Gundam G Generation Cross Rays",
+    "id": "CUSA16319",
+    "version": "01.65",
+    "process": "eboot.bin",
+    "mods": [
+        {
+            "name": "Infinie MP",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "7FFCC0",
+                    "on": "41C78660020000E7030000E9FE16CAFF",
+                    "off": "00000000000000000000000000000000"
+                },
+                {
+                    "offset": "4A13C7",
+                    "on": "E9F4E835009090",
+                    "off": "41898E60020000"
+                }
+            ]
+        },
+        {
+            "name": "Money",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "11EB74",
+                    "on": "9090909090909090",
+                    "off": "C744880800000000"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "zeth001"
+    ]
+}
