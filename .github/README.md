@@ -10,7 +10,8 @@ _Thanks to PS4Trainer For Initial Trainers Database and all Cheats Creators._
 - `.mc4` support
 
 ### :warning: Warnings
-The Cheat Menu is experimental, use with caution.  
+The Cheat Menu is experimental, use with caution.
+At GoldHEN organization we don't develop cheats we only support compatible formats.
 Please report cheat related issues to the cheat author(s) and/or go to https://github.com/GoldHEN/GoldHEN_Cheat_Repository/discussions/42 and follow instructions.
 
 ### Disclaimer:
@@ -37,7 +38,6 @@ While we make every effort to deliver high quality products, we do not guarantee
  - **Note:** Only one file format per `titleid` and `version` is currently supported.
 
 ### To Do:
-- Add multiple cheats support.
 - Add more cheat formats.
 
 ### Credits
