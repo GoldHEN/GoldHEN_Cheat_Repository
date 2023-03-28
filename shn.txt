@@ -14,7 +14,6 @@ CUSA12025_01.00.shn=Kingdom Hearts III
 CUSA11898_01.09_2.shn=(null)
 CUSA10812_01.01.shn=A Plague Tale Innocence
 CUSA24853_02.03.shn=CUSA24853_00-KENA
-SCUS94467_01.00.shn=Spyro 3 - Year of the dragon
 CUSA12596_01.07_2.shn=zomie army dead war 4
 SLUS20001_01.00.shn=Tekken Tag Tournamen
 CUSA14054_01.04.shn=One Piece World Seeker
