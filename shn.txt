@@ -45,6 +45,7 @@ CUSA11454_1.12.shn=(null)
 CUSA31873_01.01.shn=FIFA 23
 CUSA08692_01.03.shn=Dark Souls Remastered
 SLES53874_01.00.shn=Dragon Blaze
+CUSA33388_01.02.shn=RE4 RE
 CUSA02092_01.11.shn=Doom
 SLUS20461_01.00.shn=BloodRayne
 SLES53777_01.00.shn=Gravity Rush 2
