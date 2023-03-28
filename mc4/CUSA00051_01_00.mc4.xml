@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00051" Game="Injustice Gods Among Us Ultimate Edition" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Mastercode ( must be activated )">
+</Cheat>
+<Cheat Text="Infinite Health Player 1 [ MC ]">
+</Cheat>
+<Cheat Text="One Hit Kill Player 1 [ MC ]">
+</Cheat>
+<Cheat Text="Infinite Health Player 2 [ MC ]">
+</Cheat>
+<Cheat Text="One Hit Kill Player 2 [ MC ]">
+</Cheat>
+<Cheat Text="Infinite Supermeter Player 1 [ MC ]">
+</Cheat>
+<Cheat Text="Zero Supermeter Player 1 [ MC ]">
+</Cheat>
+<Cheat Text="Infinite Supermeter Player 2 [ MC ]">
+</Cheat>
+<Cheat Text="Zero Supermeter Player 2 [ MC ]">
+</Cheat>
+<Cheat Text="Max Player XP Level">
+</Cheat>
+<Cheat Text="Max Access Cards ( on gain - use )">
+</Cheat>
+<Cheat Text="Max Arsenal Keys ( on gain - use )">
+</Cheat>
+<Cheat Text="Freeze Timer">
+</Cheat>
+<Cheat Text="Change Timer to 999">
+</Cheat>
+</Trainer>

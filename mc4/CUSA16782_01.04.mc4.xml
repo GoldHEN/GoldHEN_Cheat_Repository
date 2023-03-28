@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA16782" Game="Werewolf: The Apocalypse - Earthblood" Moder="Wander FW9.00" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Arrow (on shoot)">
+</Cheat>
+<Cheat Text="Infinite Potions (on use)">
+</Cheat>
+<Cheat Text="Infinite Frenzy (when activating)">
+</Cheat>
+<Cheat Text="Infinite Skill points (on spend)">
+</Cheat>
+</Trainer>

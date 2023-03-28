@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA06545" Game="Prototype Biohazard Bundle 2" Moder="Celogamez" Process="prototype2_ps4f.elf" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Max/Infinite Ammo/No Reload">
+</Cheat>
+</Trainer>

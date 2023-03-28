@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA32418" Game="Lumberjacks Dynasty" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.05" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Simulation"/>
+<Items/>
+<Cheat Text="Max Money">
+</Cheat>
+<Cheat Text="Max Social Points">
+</Cheat>
+<Cheat Text="Max Items">
+</Cheat>
+<Cheat Text="No Hunger / No Sleep">
+</Cheat>
+<Cheat Text="Freeze Timer">
+</Cheat>
+</Trainer>

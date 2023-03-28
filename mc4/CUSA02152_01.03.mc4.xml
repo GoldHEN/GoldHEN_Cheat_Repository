@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA02152" Game="Middle-Earth - Shadow of Mordor" Moder="TLH" Process="eboot.bin" Version="01.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Genres Name="Arcade"/>
+<Genres Name="Fighting"/>
+<Items/>
+<StartUP Text="Health Pointer" description="">
+</StartUP>
+<StartUP Text="Health" description="">
+</StartUP>
+<Cheat Description="" Text="Infinite Health">
+</Cheat>
+<Cheat Description="" Text="1-Hit Kills">
+</Cheat>
+<Cheat Description="" Text="Infinite Focus">
+</Cheat>
+<Cheat Description="" Text="Max Arrows">
+</Cheat>
+<Cheat Description="" Text="Instant Max Level">
+</Cheat>
+<Cheat Description="" Text="Instant Max Power">
+</Cheat>
+</Trainer>

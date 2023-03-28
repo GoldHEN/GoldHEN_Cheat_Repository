@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA02962" Game="Fallout 4 (Game Of The Year Edition)" Moder="TLH" Process="eboot.bin" Version="01.22" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="FPS"/>
+<Genres Name="RPG"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Description="" Text="Bottomless Clip">
+</Cheat>
+<Cheat Description="" Text="Infinite Weight">
+</Cheat>
+<Cheat Description="" Text="Infinite Perkpoints">
+</Cheat>
+<Cheat Description="" Text="Ignore Perkpoints">
+</Cheat>
+<Cheat Description="" Text="Infinite Ammo/Items">
+</Cheat>
+<Cheat Description="" Text="Max Items on Use">
+</Cheat>
+<Cheat Description="" Text="Infinite HP, Stamina_shared">
+</Cheat>
+</Trainer>

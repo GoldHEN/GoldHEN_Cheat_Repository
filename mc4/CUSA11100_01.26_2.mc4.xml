@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA11100" Game="Call Of Duty Black Ops 4" Moder="Celogamez" Process="eboot.bin" Version="01.26" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="Max/Infinite Health">
+</Cheat>
+<Cheat Text="1 Hit Kill">
+</Cheat>
+<Cheat Text="Infinite Ammo">
+</Cheat>
+<Cheat Text="No Reload">
+</Cheat>
+<Cheat Text="Max/Infinite Grenades/Scepter Of Ra (Zombies)">
+</Cheat>
+<Cheat Text="Max Score (Zombies)">
+</Cheat>
+</Trainer>

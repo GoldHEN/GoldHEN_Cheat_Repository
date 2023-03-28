@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA02000" Game="Batman: Return to Arkham City" Moder="Cosmaty" Process="eboot.bin" Version="1.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<StartUP Text="Code">
+</StartUP>
+<Cheat Text="God Mode">
+</Cheat>
+<Cheat Text="Easy Kill">
+</Cheat>
+<Cheat Text="Add 2000 XP">
+</Cheat>
+<Cheat Text="Inf Skill Points">
+</Cheat>
+</Trainer>

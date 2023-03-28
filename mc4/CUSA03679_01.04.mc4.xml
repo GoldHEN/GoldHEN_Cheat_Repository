@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA03679" Game="Mortal Kombat XL" Moder="Vampirexx+hejran7" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Fighting"/>
+<Items/>
+<Cheat Description="" Text="P1 Infinite HP">
+</Cheat>
+<Cheat Description="" Text="P1 Easy Kill">
+</Cheat>
+<Cheat Description="" Text="P1 Infinite X-Ray">
+</Cheat>
+<Cheat Description="" Text="P1 Infinite Energy">
+</Cheat>
+<Cheat Description="" Text="Max Krypt Koins">
+</Cheat>
+<Cheat Description="" Text="Max Fatality Koins + Skip Koins">
+</Cheat>
+<Cheat Description="" Text="Freeze Timer - Tower + Story">
+</Cheat>
+<Cheat Description="" Text="Freeze Timer - Test your Might">
+</Cheat>
+</Trainer>

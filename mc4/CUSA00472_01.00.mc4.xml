@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00472" Game="Transformers Rise of the Dark Spark" Moder="Weysincha" Process="eboot.bin" Version="1.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Inf Ammo">
+</Cheat>
+<Cheat Text="Get Max Lvl">
+</Cheat>
+</Trainer>

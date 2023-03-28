@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA18522" Game="Assassin's Creed Valhalla" Moder="Celogamez" Process="eboot.bin" Version="07.20" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Max/Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Stamina">
+</Cheat>
+<Cheat Text="Horse Stamina">
+</Cheat>
+<Cheat Text="Infinite Breath (Underwater)">
+</Cheat>
+<Cheat Text="Max/Infinite Resources/Consumables//Arrows/Money(On Use/Buy)">
+</Cheat>
+<Cheat Text="Instant Max/Infinite Adrenaline On Use/Gain">
+</Cheat>
+<Cheat Text="Max/Infinite Skill Points On Gain">
+</Cheat>
+<Cheat Text="Max/Infinite Mastery Points On Gain">
+</Cheat>
+</Trainer>

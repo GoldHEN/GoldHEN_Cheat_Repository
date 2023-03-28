@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA01022" Game="DmC Devil May Cry: Definitive Edition" Moder="Weysincha" Process="eboot.bin" Version="01.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Cheat Control="Toggel" Text="Godmode">
+</Cheat>
+<Cheat Control="Toggel" Text="Earn more Red Orbs">
+</Cheat>
+</Trainer>

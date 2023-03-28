@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA10212" Game="Horizon Zero Dawn Complete Edition" Moder="FBML" Process="eboot.bin" Version="01.52" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Invincible Player (Even falling from Highest Places)">
+</Cheat>
+<Cheat Text="Invincible Player + 1H2K for any">
+</Cheat>
+<Cheat Text="Player Max and Infinite Health">
+</Cheat>
+<Cheat Text="Player Max and Infinite Oxygen">
+</Cheat>
+<Cheat Text="Infinite Inventory When Craft">
+</Cheat>
+<Cheat Text="Infinite Inventory When Sell">
+</Cheat>
+<Cheat Text="Infinite Inventory When Disassemble">
+</Cheat>
+<Cheat Text="Infinite Inventory When Drop">
+</Cheat>
+<Cheat Text="Infinite Modifications When Use">
+</Cheat>
+<Cheat Text="Infinite Metal Shards and Bluegleams When Buy">
+</Cheat>
+<Cheat Text="Infinite Metal Shards When Repair">
+</Cheat>
+<Cheat Text="Infinite Potions When Use">
+</Cheat>
+<Cheat Text="Infinite Arrows, Ammo, Traps and Tripwires">
+</Cheat>
+<Cheat Text="Max Arrows Per Shot With Highest Rate of Fire (5 Arrows)">
+</Cheat>
+<Cheat Text="Infinite Duration of Concentration">
+</Cheat>
+<Cheat Text="No Cooldown for Spear and Lance after override">
+</Cheat>
+<Cheat Text="Infinite Rope Durability When Pindown Targets">
+</Cheat>
+<Cheat Text="Infinite Rope Durability When Attacking Pinned Targets">
+</Cheat>
+<Cheat Text="Max and Infinite Skills Points When Spend (3 Pts)">
+</Cheat>
+<Cheat Text="Infinite Hunting Ground Trials Timer">
+</Cheat>
+</Trainer>

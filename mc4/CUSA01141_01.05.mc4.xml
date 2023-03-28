@@ -1,6 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA01141" Game="Uncharted 4: A Thief's End" Moder="Dioniso" Process="eboot.bin" Version="01.05" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Trainer Cusa="CUSA01141" Game="Resident Evil Revelations 2" Moder="Dioniso" Process="eboot.bin" Version="01.05" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Genres Name="Action"/>
 <Genres Name="Adventure"/>
+<Genres Name="Horror"/>
+<Genres Name="Shooter"/>
 <Items/>
+<Cheat Text="[01] Immunity">
+</Cheat>
+<Cheat Text="[02] Infinite HP">
+</Cheat>
+<Cheat Text="[03a] 1 Hit Kill">
+</Cheat>
+<Cheat Text="[03b] 1 Hit Kill (Even Torchlight/Pointing)">
+</Cheat>
+<Cheat Text="[04] L2+X Kills Instantly All NMEs">
+</Cheat>
+<Cheat Text="[05] L2+R2+X Change First Weapon In Quick Menu (Needs Autosave + Retry)">
+</Cheat>
+<Cheat Text="[06] Workbench: All Weapons Unlocked (If AUTOSAVE Then Permanent)">
+</Cheat>
+<Cheat Text="[07] Workbench: All Improvements (Infinite)">
+</Cheat>
+<Cheat Text="[08] Workbench: Use Same Upgrades Parts Possible">
+</Cheat>
+<Cheat Text="[09] Infinite Ammo / No Reload">
+</Cheat>
+<Cheat Text="[10] Aiming Laser">
+</Cheat>
+<Cheat Text="[11a] Player`s Speed x2 (Careful When jumping Down Fast)">
+</Cheat>
+<Cheat Text="[11b] Player`s Speed x4 (Careful When jumping Down Fast)">
+</Cheat>
+<Cheat Text="[12] Some Keys/Items (-Fuel, Artificial Eye, Left Liver, Sewer, Barry Episode 4)">
+</Cheat>
+<Cheat Text="[13] Bags: Slots Maxed (10-15)">
+</Cheat>
+<Cheat Text="[14] Bags: Infinite Items">
+</Cheat>
+<Cheat Text="[15] Flashlight Batteries Full">
+</Cheat>
+<Cheat Text="[16] Infinite PB (+666.666)">
+</Cheat>
+<Cheat Text="[17] S Rank: Accuracy = 100.0">
+</Cheat>
+<Cheat Text="[18] S Rank: Retries = 0">
+</Cheat>
+<Cheat Text="[19] S Rank: Clear Time  = 00:00 00">
+</Cheat>
+<Cheat Text="[20] Timer Frozen (06:06:06)">
+</Cheat>
+<Cheat Text="[21] Barry: Valves Open Easily (One Turn)">
+</Cheat>
+<Cheat Text="[22] Toxic Gas Has No Effect (Barry/Natalia -Lift)">
+</Cheat>
+<Cheat Text="[23] The Struggle: Infinite Ratios">
+</Cheat>
+<Cheat Text="[24] Raid Mode: Players` Level 100">
+</Cheat>
+<Cheat Text="[25] Raid Mode: All Weapons Upgrades Unlocked +Infinite">
+</Cheat>
+<Cheat Text="[26] Raid Mode: Weapons Level 100 (Go Once To Customize)">
+</Cheat>
+<Cheat Text="[27] Raid Mode: Firepower Hyper Beyond Limits (Go Once To Customize)">
+</Cheat>
+<Cheat Text="[28] Raid Mode: All Skills Unlocked +Maxed">
+</Cheat>
+<Cheat Text="[29] Raid Mode: Timer = 0">
+</Cheat>
+<Cheat Text="[30] Raid Mode: Infinite Gold">
+</Cheat>
+<Cheat Text="[31] Raid Mode: Infinite Skill Points (SP)">
+</Cheat>
+<Cheat Text="[32] Raid Mode: Infinite Bottles/Bombs">
+</Cheat>
+<Cheat Text="[33] Raid Mode: No Reload For Bewilder, Stealth, Armour, Rocket Skills">
+</Cheat>
+<Cheat Text="[34] Raid Mode: Infinite Stealth + Armor">
+</Cheat>
+<Cheat Text="[35a] Raid Mode: Weapons Tags [Short Range]">
+</Cheat>
+<Cheat Text="[35b] Raid Mode: Weapons Tags [Long Range]">
+</Cheat>
+<Cheat Text="[35c] Raid Mode: Weapons Tags [Speed Shot]">
+</Cheat>
+<Cheat Text="[35d] Raid Mode: Weapons Tags [Steady Shot]">
+</Cheat>
+<Cheat Text="[35e] Raid Mode: Weapons Tags [Speed Load]">
+</Cheat>
+<Cheat Text="[35f] Raid Mode: Weapons Tags [Sonic Assist]">
+</Cheat>
+<Cheat Text="[35g] Raid Mode: Weapons Tags [Sonic Assist+]">
+</Cheat>
+<Cheat Text="[35h] Raid Mode: Weapons Tags [Short Range+]">
+</Cheat>
+<Cheat Text="[35i] Raid Mode: Weapons Tags [Long Range+]">
+</Cheat>
+<Cheat Text="[35j] Raid Mode: Weapons Tags [Unique Weapon Name]">
+</Cheat>
+<Cheat Text="[36] Frozen NMEs">
+</Cheat>
+<Cheat Text="[37] NME Don`t Walk/Run (Pedro and Barry Assault = Cheat 04 Needed)">
+</Cheat>
+<Cheat Text="[38a] Player`s Size x2 (Unplayable)">
+</Cheat>
+<Cheat Text="[38b] Player`s Size x1">
+</Cheat>
+<Cheat Text="[38c] Player`s Size x0.5 (Unplayable)">
+</Cheat>
 </Trainer>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA05033" Game="Sword Art Online - Hollow Realization" Moder="TLH" Process="eboot.bin" Version="03.20" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Fighting"/>
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Description="" Text="Infinite Health">
+</Cheat>
+<Cheat Description="" Text="1 Hit Kill">
+</Cheat>
+<Cheat Description="" Text="Infinite SP">
+</Cheat>
+<Cheat Description="" Text="No Cooldown">
+</Cheat>
+<Cheat Description="" Text="Easy Damage-Multiplicator">
+</Cheat>
+<Cheat Description="" Text="Max Damage-Multiplicator">
+</Cheat>
+<Cheat Description="" Text="Max SwordSkillConnection Damage (450%)">
+</Cheat>
+<Cheat Description="" Text="Infinite SwordSkillConnection">
+</Cheat>
+<Cheat Description="" Text="Step-Costs not Increasing">
+</Cheat>
+<Cheat Description="" Text="Infinite Fairy Dance">
+</Cheat>
+<Cheat Description="" Text="Max Col on Use">
+</Cheat>
+<Cheat Description="" Text="Infinite Skillpoints">
+</Cheat>
+<Cheat Description="" Text="Infinite Items">
+</Cheat>
+<Cheat Description="" Text="Instant Max Level/XP">
+</Cheat>
+<Cheat Description="" Text="Instant Max Expertise">
+</Cheat>
+<Cheat Description="" Text="Instant Max Sword-Skill-Proficiency">
+</Cheat>
+<Cheat Description="" Text="NPC Instant Max Expertise">
+</Cheat>
+<Cheat Description="" Text="NPC Instant Max Skill">
+</Cheat>
+<Cheat Description="" Text="NPC Instant Max Affection">
+</Cheat>
+<Cheat Description="" Text="Instant Max Level Smithing">
+</Cheat>
+<Cheat Description="" Text="Smithing: Instant Max (Item)">
+</Cheat>
+<Cheat Description="" Text="Smithing: Items get Special Status (Enhance)">
+</Cheat>
+<Cheat Description="" Text="Instant Max Friendship">
+</Cheat>
+<Cheat Description="" Text="Sky Arena: Instant Max Rank">
+</Cheat>
+<Cheat Description="" Text="Easy Training">
+</Cheat>
+<Cheat Description="" Text="Enigma Order: Easy Complete">
+</Cheat>
+<Cheat Description="" Text="Fusion Skills: Max on Open Menu">
+</Cheat>
+<Cheat Description="" Text="Fusion Skills: Instant use Level 5">
+</Cheat>
+<Cheat Description="" Text="Simulate Oracle +999 (GameMax)">
+</Cheat>
+<Cheat Description="" Text="Simulate Oracle MAX">
+</Cheat>
+<Cheat Description="" Text="Infinity Dungeon: Jump to Floor 1000">
+</Cheat>
+<Cheat Description="" Text="Infinity Dungeon: No need for Keys">
+</Cheat>
+</Trainer>

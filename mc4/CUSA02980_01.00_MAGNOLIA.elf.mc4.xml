@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA02980" Game="Borderlands THC: Borderlands 2" Moder="DeathRGH" Process="MAGNOLIA.elf" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Cheat Control="Toggel" Text="Infinite Skillpoints / Badass-Tokens">
+</Cheat>
+<Cheat Control="Button" Text="Set Max Money / Eridium / Tokens">
+</Cheat>
+</Trainer>

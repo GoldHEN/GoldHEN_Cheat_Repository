@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA16164" Game="Sniper Elite 5" Moder="Celogamez" Process="eboot.bin" Version="01.23" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="Max/Infinite Health/1 Shot Kills (Master Code)">
+</Cheat>
+<Cheat Text="Max/Infinite Health (Need MC)">
+</Cheat>
+<Cheat Text="1 Shot Kills (Need MC)">
+</Cheat>
+<Cheat Text="Infinite Stamina (For Running)">
+</Cheat>
+<Cheat Text="Max/Infinite Ammo/Items">
+</Cheat>
+<Cheat Text="No Reload">
+</Cheat>
+<Cheat Text="Max XP/Levels/Skill Points On Gain (Disable/Restart The Game)">
+</Cheat>
+</Trainer>

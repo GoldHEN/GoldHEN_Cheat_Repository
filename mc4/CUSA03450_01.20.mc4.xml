@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA03450" Game="Fallout 4" Moder="Talixme/Weysincha" Process="eboot.bin" Version="01.20" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Cheat Control="Toggel" Text="Infinite Ammo">
+</Cheat>
+<Cheat Control="Toggel" Text="x2 Item Each use (Use and deactivate)">
+</Cheat>
+<Cheat Control="Button" Text="256 Skill Points (After one use)">
+</Cheat>
+</Trainer>

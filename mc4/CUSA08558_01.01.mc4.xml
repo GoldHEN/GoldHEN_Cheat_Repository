@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA08558" Game="Dead Rising 4: Frank\'s Big Package" Moder="Weysincha" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Cheat Control="Toggel" Text="Godmode">
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Ammo">
+</Cheat>
+<Cheat Control="Button" Text="Set Money to 8.999.999">
+</Cheat>
+<Cheat Control="Button" Text="Set Skillpoints to 999">
+</Cheat>
+<Cheat Control="Button" Text="Max Level">
+</Cheat>
+<Cheat Control="Button" Text="Set Kill series to 9.999.999">
+</Cheat>
+</Trainer>

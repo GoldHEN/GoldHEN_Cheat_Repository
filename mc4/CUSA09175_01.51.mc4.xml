@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA09175" Game="Days Gone" Moder="TLH" Process="eboot.bin" Version="01.51" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Fighting"/>
+<Items/>
+<Cheat Description="" Text="Bottomless Clip">
+</Cheat>
+<Cheat Description="" Text="Infinite Ammo">
+</Cheat>
+<Cheat Description="" Text="Max Items">
+</Cheat>
+<Cheat Description="" Text="Infinite Credits">
+</Cheat>
+<Cheat Description="" Text="Infinite Items">
+</Cheat>
+<Cheat Description="" Text="Instant LevelUp">
+</Cheat>
+<Cheat Description="" Text="Molotov: Ignore Crafting Limit">
+</Cheat>
+</Trainer>

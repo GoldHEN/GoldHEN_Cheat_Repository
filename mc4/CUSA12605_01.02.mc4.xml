@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA12605" Game="Death Stranding" Moder="Talixme" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Horror"/>
+<Items/>
+<Cheat Text="God Mode">
+</Cheat>
+<Cheat Text="Max Resistance">
+</Cheat>
+<Cheat Text="Inf Resistance walking wather">
+</Cheat>
+<Cheat Text="Inf Hold Air">
+</Cheat>
+<Cheat Text="Inf Water">
+</Cheat>
+<Cheat Text="Inf Boots durability">
+</Cheat>
+<Cheat Text="Inf Resin">
+</Cheat>
+<Cheat Text="Inf Metal">
+</Cheat>
+<Cheat Text="Inf Crystals">
+</Cheat>
+<Cheat Text="Inf Energy vehicules">
+</Cheat>
+</Trainer>

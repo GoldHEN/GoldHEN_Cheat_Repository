@@ -1,0 +1,5480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA07123" Game="Nioh" Moder="ShininGami" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="RPG"/>
+<inventory EmptyID="FFFFFFFF" Length="10" Size="4" name="Principal" offset="133F70" section="3" step="208">
+<value Name="qte" Type="Int16" offset="8"/>
+<value Name="item level" Type="Int16" offset="0A"/>
+</inventory>
+<Items>
+<item>
+<id>9CAE00009CAE0000</id>
+<name>Bizen-den Uchigatana</name>
+</item>
+<item>
+<id>D9450000D9450000</id>
+<name>Yamato-den Uchigatana</name>
+</item>
+<item>
+<id>8CA900008CA90000</id>
+<name>Bizen Ichimonji</name>
+</item>
+<item>
+<id>7632000076320000</id>
+<name>Senjuin Uchigatana</name>
+</item>
+<item>
+<id>7CEB00007CEB0000</id>
+<name>Hosho Sadayoshi</name>
+</item>
+<item>
+<id>2A7500002A750000</id>
+<name>Kiku-Ichimonji</name>
+</item>
+<item>
+<id>56A9000056A90000</id>
+<name>Kobizen Tomonari</name>
+</item>
+<item>
+<id>92C9000092C90000</id>
+<name>Doji-kiri Yasutsuna</name>
+</item>
+<item>
+<id>44A2000044A20000</id>
+<name>O-Denta Mitsuyo</name>
+</item>
+<item>
+<id>0E1C00000E1C0000</id>
+<name>Ishida Masamune</name>
+</item>
+<item>
+<id>A3930000A3930000</id>
+<name>Bizen-den Tachi</name>
+</item>
+<item>
+<id>49AE000049AE0000</id>
+<name>Yamato-den Tachi</name>
+</item>
+<item>
+<id>8749000087490000</id>
+<name>Bizen Osafune</name>
+</item>
+<item>
+<id>6F6600006F660000</id>
+<name>Senjuin Tachi</name>
+</item>
+<item>
+<id>3D3400003D340000</id>
+<name>Taima Kuniyuki</name>
+</item>
+<item>
+<id>378D0000378D0000</id>
+<name>Osafune Kanemitsu</name>
+</item>
+<item>
+<id>0DAB00000DAB0000</id>
+<name>Kusanagi Tsurugi</name>
+</item>
+<item>
+<id>BE860000BE860000</id>
+<name>Juzumaru Tsunetsugu</name>
+</item>
+<item>
+<id>0F4400000F440000</id>
+<name>Mikazuki Munechika</name>
+</item>
+<item>
+<id>544B0000544B0000</id>
+<name>Onimaru Kunitsuna</name>
+</item>
+<item>
+<id>DCA90000DCA90000</id>
+<name>Bastard Sword</name>
+</item>
+<item>
+<id>7369000073690000</id>
+<name>Wooden Sword</name>
+</item>
+<item>
+<id>CCB50000CCB50000</id>
+<name>Oninamida Muramasa</name>
+</item>
+<item>
+<id>93E9000093E90000</id>
+<name>Raikiri</name>
+</item>
+<item>
+<id>5128000051280000</id>
+<name>Sohaya Tsurugi</name>
+</item>
+<item>
+<id>283A0000283A0000</id>
+<name>Hikoemon Ichimonji</name>
+</item>
+<item>
+<id>0F7900000F790000</id>
+<name>Atagi Sadamune</name>
+</item>
+<item>
+<id>D24E0000D24E0000</id>
+<name>Heshikiri Hasebe</name>
+</item>
+<item>
+<id>F8450000F8450000</id>
+<name>Furiwakegami Hiromitsu</name>
+</item>
+<item>
+<id>7067000070670000</id>
+<name>Nami-oyogi Kanemitsu</name>
+</item>
+<item>
+<id>309E0000309E0000</id>
+<name>Haccho Nenbutsu</name>
+</item>
+<item>
+<id>3818000038180000</id>
+<name>Hoshi-kiri Tachi</name>
+</item>
+<item>
+<id>667F0000667F0000</id>
+<name>Sozasa Monji</name>
+</item>
+<item>
+<id>DFEA0000DFEA0000</id>
+<name>Taisharyu Wooden Sword</name>
+</item>
+<item>
+<id>653A0000653A0000</id>
+<name>Tengu-kiri</name>
+</item>
+<item>
+<id>38DA000038DA0000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>298D0000298D0000</id>
+<name>Suijingiri Kanemitsu</name>
+</item>
+<item>
+<id>92F6000092F60000</id>
+<name>Nikkari Aoe</name>
+</item>
+<item>
+<id>DC610000DC610000</id>
+<name>Magaragiri Kanemoto</name>
+</item>
+<item>
+<id>6299000062990000</id>
+<name>Kaikunigo</name>
+</item>
+<item>
+<id>4337000043370000</id>
+<name>Dragon Sword</name>
+</item>
+<item>
+<id>E3AE0000E3AE0000</id>
+<name>Dodanuki Masakuni</name>
+</item>
+<item>
+<id>7E2600007E260000</id>
+<name>Soshu-Den Dual Uchigatana</name>
+</item>
+<item>
+<id>5E3600005E360000</id>
+<name>Mino-Den Dual Uchigatana</name>
+</item>
+<item>
+<id>3990000039900000</id>
+<name>Seki-mono Dual Uchigatana</name>
+</item>
+<item>
+<id>EF150000EF150000</id>
+<name>Seki Kanenori Dual Uchigatana</name>
+</item>
+<item>
+<id>E73A0000E73A0000</id>
+<name>Izumi-no-kami Kanesada Dual Katana</name>
+</item>
+<item>
+<id>285A0000285A0000</id>
+<name>Hasebe Kunishige Dual Katana</name>
+</item>
+<item>
+<id>A7410000A7410000</id>
+<name>Soshu Masamune Dual Katana</name>
+</item>
+<item>
+<id>37EB000037EB0000</id>
+<name>Kogarasu-maru and Nuke-maru</name>
+</item>
+<item>
+<id>023E0000023E0000</id>
+<name>Kago-tsurube Muramasa &amp;amp; Inoshishi-giri</name>
+</item>
+<item>
+<id>EE060000EE060000</id>
+<name>Shichisei-ken &amp;amp; Heishishorin-ken</name>
+</item>
+<item>
+<id>4259000042590000</id>
+<name>Minoden Dual Tachi</name>
+</item>
+<item>
+<id>FA8A0000FA8A0000</id>
+<name>Soshu-Den Dual Tachi</name>
+</item>
+<item>
+<id>1CEB00001CEB0000</id>
+<name>Seki-Forged Dual Tachi</name>
+</item>
+<item>
+<id>559A0000559A0000</id>
+<name>Seki Kaneyoshi Dual Tachi</name>
+</item>
+<item>
+<id>AA0D0000AA0D0000</id>
+<name>Rai Kokutsugu Dual Tachi</name>
+</item>
+<item>
+<id>7761000077610000</id>
+<name>Soshu Sadamune Dual Katana</name>
+</item>
+<item>
+<id>0BCD00000BCD0000</id>
+<name>Magoroku Kanemoto Dual Katana</name>
+</item>
+<item>
+<id>BA040000BA040000</id>
+<name>O-Kanehira &amp;amp; Uguisu-maru</name>
+</item>
+<item>
+<id>6EDE00006EDE0000</id>
+<name>Shishi-o &amp;amp; Hone-kui</name>
+</item>
+<item>
+<id>4EFF00004EFF0000</id>
+<name>Hige-kiri and Hiza-maru</name>
+</item>
+<item>
+<id>65BE000065BE0000</id>
+<name>Dual Wooden Swords</name>
+</item>
+<item>
+<id>F7230000F7230000</id>
+<name>Fudo Kuniyuki &amp;amp; Yagen Toshiro</name>
+</item>
+<item>
+<id>C7D60000C7D60000</id>
+<name>Tsuruga Masamune &amp;amp; Hocho Toshiro</name>
+</item>
+<item>
+<id>0384000003840000</id>
+<name>Futatsu-mei Norimune &amp;amp; Hone-bami Toshiro</name>
+</item>
+<item>
+<id>B9C30000B9C30000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>0475000004750000</id>
+<name>Daihannya Nagamitsu &amp;amp; Kannagiri</name>
+</item>
+<item>
+<id>6FBB00006FBB0000</id>
+<name>Shokudaikiri Mitsutada &amp;amp; Shinogito Shiro</name>
+</item>
+<item>
+<id>7E9300007E930000</id>
+<name>Ichigo Hitofuri &amp;amp; Namazu-o Toshiro</name>
+</item>
+<item>
+<id>8E5B00008E5B0000</id>
+<name>Dual Bloodstained Hatchets</name>
+</item>
+<item>
+<id>1AE800001AE80000</id>
+<name>Spear</name>
+</item>
+<item>
+<id>8AA900008AA90000</id>
+<name>Footsoldier\'s Spear</name>
+</item>
+<item>
+<id>648D0000648D0000</id>
+<name>Officer\'s Spear</name>
+</item>
+<item>
+<id>BA990000BA990000</id>
+<name>Captain\'s Spear</name>
+</item>
+<item>
+<id>1ABD00001ABD0000</id>
+<name>Greatspear</name>
+</item>
+<item>
+<id>BC290000BC290000</id>
+<name>Sasaho Spear</name>
+</item>
+<item>
+<id>DC4F0000DC4F0000</id>
+<name>Kamedoshi Spear</name>
+</item>
+<item>
+<id>F8C90000F8C90000</id>
+<name>Lacquered Spear</name>
+</item>
+<item>
+<id>B8050000B8050000</id>
+<name>Tombo-Kiri</name>
+</item>
+<item>
+<id>4604000046040000</id>
+<name>Hinomotogo</name>
+</item>
+<item>
+<id>09E4000009E40000</id>
+<name>Jumonji Spear</name>
+</item>
+<item>
+<id>BFE10000BFE10000</id>
+<name>Squire\'s Jumonji Spear</name>
+</item>
+<item>
+<id>9880000098800000</id>
+<name>Warrior\'s Jumonji Spear</name>
+</item>
+<item>
+<id>708C0000708C0000</id>
+<name>Vassal\'s Jumonji Spear</name>
+</item>
+<item>
+<id>2BA000002BA00000</id>
+<name>Gyukaku-Jumonji Spear</name>
+</item>
+<item>
+<id>01EF000001EF0000</id>
+<name>Iwatsuki Jumonji Spear</name>
+</item>
+<item>
+<id>0ED400000ED40000</id>
+<name>Crescent Jumonji Spear</name>
+</item>
+<item>
+<id>FF5F0000FF5F0000</id>
+<name>Ningen Mukotsu</name>
+</item>
+<item>
+<id>53FB000053FB0000</id>
+<name>Chidori-Jumonji Spear</name>
+</item>
+<item>
+<id>009C0000009C0000</id>
+<name>Otegine</name>
+</item>
+<item>
+<id>54A9000054A90000</id>
+<name>Runkah</name>
+</item>
+<item>
+<id>91ED000091ED0000</id>
+<name>Wooden Spear</name>
+</item>
+<item>
+<id>BC4B0000BC4B0000</id>
+<name>Akaoni-no-Sankaku Spear</name>
+</item>
+<item>
+<id>4BBF00004BBF0000</id>
+<name>Ikkoku Nagayoshi Spear</name>
+</item>
+<item>
+<id>EE2A0000EE2A0000</id>
+<name>Oni Sakon\'s Spear</name>
+</item>
+<item>
+<id>A5E50000A5E50000</id>
+<name>Giant Frog Spear</name>
+</item>
+<item>
+<id>FB440000FB440000</id>
+<name>Hozoin Jumonji Spear</name>
+</item>
+<item>
+<id>51B3000051B30000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>4A8000004A800000</id>
+<name>Great Chidori-Jumonji Spear</name>
+</item>
+<item>
+<id>766D0000766D0000</id>
+<name>Great Halberd of Hihiragi</name>
+</item>
+<item>
+<id>DBBC0000DBBC0000</id>
+<name>Yamauba Spear</name>
+</item>
+<item>
+<id>60C7000060C70000</id>
+<name>Vermillion Spear</name>
+</item>
+<item>
+<id>7A0900007A090000</id>
+<name>Kotaimatsu</name>
+</item>
+<item>
+<id>86D1000086D10000</id>
+<name>Black Steel Axe</name>
+</item>
+<item>
+<id>A19A0000A19A0000</id>
+<name>Bandit Axe</name>
+</item>
+<item>
+<id>28F2000028F20000</id>
+<name>Kabuto-wari Axe</name>
+</item>
+<item>
+<id>2A0300002A030000</id>
+<name>Masakari Axe</name>
+</item>
+<item>
+<id>91F9000091F90000</id>
+<name>Brute\'s Axe</name>
+</item>
+<item>
+<id>894A0000894A0000</id>
+<name>Armorcrusher Axe</name>
+</item>
+<item>
+<id>69AA000069AA0000</id>
+<name>Shura\'s War Axe</name>
+</item>
+<item>
+<id>FBC20000FBC20000</id>
+<name>Holy Axe</name>
+</item>
+<item>
+<id>3940000039400000</id>
+<name>Slayer\'s Axe</name>
+</item>
+<item>
+<id>F5230000F5230000</id>
+<name>Wooden Hammer</name>
+</item>
+<item>
+<id>1357000013570000</id>
+<name>Oak Hammer</name>
+</item>
+<item>
+<id>C0520000C0520000</id>
+<name>Yari-ori Hammer</name>
+</item>
+<item>
+<id>6F1000006F100000</id>
+<name>Warrior Monk\'s Hammer</name>
+</item>
+<item>
+<id>6C7500006C750000</id>
+<name>Bronze Hammer</name>
+</item>
+<item>
+<id>5B5C00005B5C0000</id>
+<name>Iwa-kudaki Hammer</name>
+</item>
+<item>
+<id>6B9500006B950000</id>
+<name>Haja the Evil-Crusher</name>
+</item>
+<item>
+<id>9290000092900000</id>
+<name>Pickaxe</name>
+</item>
+<item>
+<id>E25B0000E25B0000</id>
+<name>Mononobe Axe</name>
+</item>
+<item>
+<id>C8B30000C8B30000</id>
+<name>Kaido Axe</name>
+</item>
+<item>
+<id>8DAE00008DAE0000</id>
+<name>Kishin Hammer</name>
+</item>
+<item>
+<id>DE390000DE390000</id>
+<name>Battle Axe</name>
+</item>
+<item>
+<id>82D0000082D00000</id>
+<name>Wooden Axe</name>
+</item>
+<item>
+<id>4ED000004ED00000</id>
+<name>Axe of Judgment</name>
+</item>
+<item>
+<id>2559000025590000</id>
+<name>Gozutenno\'s Axe</name>
+</item>
+<item>
+<id>C23F0000C23F0000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>D9390000D9390000</id>
+<name>Tatewari Axe</name>
+</item>
+<item>
+<id>5A7100005A710000</id>
+<name>Ame-no-mahitotsu\'s Axe</name>
+</item>
+<item>
+<id>C9EF0000C9EF0000</id>
+<name>Genno\'s Hammer</name>
+</item>
+<item>
+<id>FCD10000FCD10000</id>
+<name>Swordsmith\'s Hammer</name>
+</item>
+<item>
+<id>7DC100007DC10000</id>
+<name>Ryomen Sukuna\'s Axe</name>
+</item>
+<item>
+<id>AF010000AF010000</id>
+<name>Spy\'s Kusarigama</name>
+</item>
+<item>
+<id>F6260000F6260000</id>
+<name>Genin\'s Kusarigama</name>
+</item>
+<item>
+<id>41B7000041B70000</id>
+<name>Haguro Kusarigama</name>
+</item>
+<item>
+<id>35F6000035F60000</id>
+<name>Custom Kusarigama</name>
+</item>
+<item>
+<id>F0D80000F0D80000</id>
+<name>Hachiyashu Kusarigama</name>
+</item>
+<item>
+<id>E6010000E6010000</id>
+<name>Chunin\'s Kusarigama</name>
+</item>
+<item>
+<id>6904000069040000</id>
+<name>Swordsman\'s Kusarigama</name>
+</item>
+<item>
+<id>A3B50000A3B50000</id>
+<name>Yogarasu Kusarigama</name>
+</item>
+<item>
+<id>0FE700000FE70000</id>
+<name>Jonin\'s Kusarigama</name>
+</item>
+<item>
+<id>8B3200008B320000</id>
+<name>Yasha\'s Kusarigama</name>
+</item>
+<item>
+<id>20A1000020A10000</id>
+<name>Sayoarashi</name>
+</item>
+<item>
+<id>CF920000CF920000</id>
+<name>Nagi-kusarigama</name>
+</item>
+<item>
+<id>FA740000FA740000</id>
+<name>Hakujin Kusarigama</name>
+</item>
+<item>
+<id>0559000005590000</id>
+<name>Mikazuki Kusarigama</name>
+</item>
+<item>
+<id>64FD000064FD0000</id>
+<name>Hooked Kusarigama</name>
+</item>
+<item>
+<id>764E0000764E0000</id>
+<name>Nokizaru Kusarigama</name>
+</item>
+<item>
+<id>8010000080100000</id>
+<name>Togakushi Kusarigama</name>
+</item>
+<item>
+<id>AD5B0000AD5B0000</id>
+<name>Fuma Kusarigama</name>
+</item>
+<item>
+<id>46B6000046B60000</id>
+<name>Rasatsu Kusarigama</name>
+</item>
+<item>
+<id>8421000084210000</id>
+<name>Shiranui</name>
+</item>
+<item>
+<id>9CDE00009CDE0000</id>
+<name>Wooden Kusarigama</name>
+</item>
+<item>
+<id>115B0000115B0000</id>
+<name>Onikiba Kusarigama</name>
+</item>
+<item>
+<id>E9B90000E9B90000</id>
+<name>Shishido Kusarigama</name>
+</item>
+<item>
+<id>AE400000AE400000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>1F1E00001F1E0000</id>
+<name>Narukami</name>
+</item>
+<item>
+<id>2BFC00002BFC0000</id>
+<name>Isurugi</name>
+</item>
+<item>
+<id>2D5800002D580000</id>
+<name>Yukishiro</name>
+</item>
+<item>
+<id>54B2000054B20000</id>
+<name>Hayabusa Style Kusarigama</name>
+</item>
+<item>
+<id>8883000088830000</id>
+<name>Bizenden Odachi</name>
+</item>
+<item>
+<id>3311000033110000</id>
+<name>Sukesada Odachi</name>
+</item>
+<item>
+<id>FC6F0000FC6F0000</id>
+<name>Takahira Odachi</name>
+</item>
+<item>
+<id>04E6000004E60000</id>
+<name>Jakirimaru</name>
+</item>
+<item>
+<id>FE3B0000FE3B0000</id>
+<name>Kimibanzai Tomonari</name>
+</item>
+<item>
+<id>C1C10000C1C10000</id>
+<name>Yamashiroden Odachi</name>
+</item>
+<item>
+<id>D5890000D5890000</id>
+<name>Rai Odachi</name>
+</item>
+<item>
+<id>1555000015550000</id>
+<name>Rai Kuniyuki Odachi</name>
+</item>
+<item>
+<id>3FF900003FF90000</id>
+<name>Omokage</name>
+</item>
+<item>
+<id>C3AA0000C3AA0000</id>
+<name>Kamui</name>
+</item>
+<item>
+<id>E5AC0000E5AC0000</id>
+<name>Monohoshizao</name>
+</item>
+<item>
+<id>2299000022990000</id>
+<name>Hotarumaru</name>
+</item>
+<item>
+<id>5E7000005E700000</id>
+<name>Mijinmaru</name>
+</item>
+<item>
+<id>ACBB0000ACBB0000</id>
+<name>Futsunomitama</name>
+</item>
+<item>
+<id>3E8300003E830000</id>
+<name>Sekishu Kazusada</name>
+</item>
+<item>
+<id>7720000077200000</id>
+<name>Taro Tachi</name>
+</item>
+<item>
+<id>7AC000007AC00000</id>
+<name>Jiro Tachi</name>
+</item>
+<item>
+<id>8658000086580000</id>
+<name>Wooden Odachi</name>
+</item>
+<item>
+<id>BD560000BD560000</id>
+<name>Usami Nagamitsu</name>
+</item>
+<item>
+<id>1AD300001AD30000</id>
+<name>Bloodstained Cleaver</name>
+</item>
+<item>
+<id>6AFD00006AFD0000</id>
+<name>Rosewood Tonfa</name>
+</item>
+<item>
+<id>943E0000943E0000</id>
+<name>Ebony Tonfa</name>
+</item>
+<item>
+<id>73CC000073CC0000</id>
+<name>Niya\'s Tonfa</name>
+</item>
+<item>
+<id>7202000072020000</id>
+<name>Pechin\'s Tonfa</name>
+</item>
+<item>
+<id>7EB100007EB10000</id>
+<name>Ninja\'s Tonfa</name>
+</item>
+<item>
+<id>A4E10000A4E10000</id>
+<name>Martial Artist\'s Tonfa</name>
+</item>
+<item>
+<id>6908000069080000</id>
+<name>Quaking Tonfa</name>
+</item>
+<item>
+<id>ED1E0000ED1E0000</id>
+<name>Obliterating Tonfa</name>
+</item>
+<item>
+<id>E22B0000E22B0000</id>
+<name>Ueekata\'s Tonfa</name>
+</item>
+<item>
+<id>5743000057430000</id>
+<name>Anji\'s Tonfa</name>
+</item>
+<item>
+<id>C9B10000C9B10000</id>
+<name>Twin Dragon Tonfa</name>
+</item>
+<item>
+<id>77F7000077F70000</id>
+<name>Yin-Yang Tonfa</name>
+</item>
+<item>
+<id>B2620000B2620000</id>
+<name>Vajra Tonfa</name>
+</item>
+<item>
+<id>529C0000529C0000</id>
+<name>Kyakuja Tonfa</name>
+</item>
+<item>
+<id>B0280000B0280000</id>
+<name>Wooden Tonfa</name>
+</item>
+<item>
+<id>FAED0000FAED0000</id>
+<name>Sarutobi\'s Gunsticks</name>
+</item>
+<item>
+<id>217C0000217C0000</id>
+<name>Return to the Main Menu?</name>
+</item>
+<item>
+<id>E4780000E4780000</id>
+<name>Return to the Main Menu?</name>
+</item>
+<item>
+<id>BA6D0000BA6D0000</id>
+<name>Return to the Main Menu?</name>
+</item>
+<item>
+<id>F03D0000F03D0000</id>
+<name>Return to the Main Menu?</name>
+</item>
+<item>
+<id>F33B0000F33B0000</id>
+<name>Return to the Main Menu?</name>
+</item>
+<item>
+<id>FF0C0000FF0C0000</id>
+<name>Return to the Main Menu?</name>
+</item>
+<item>
+<id>1631000016310000</id>
+<name>Return to the Main Menu?</name>
+</item>
+<item>
+<id>587E0000587E0000</id>
+<name>Return to the Main Menu?</name>
+</item>
+<item>
+<id>952A0000952A0000</id>
+<name>Return to the Main Menu?</name>
+</item>
+<item>
+<id>C14A0000C14A0000</id>
+<name>Return to the Main Menu?</name>
+</item>
+<item>
+<id>DB490000DB490000</id>
+<name>Return to the Main Menu?</name>
+</item>
+<item>
+<id>C8430000C8430000</id>
+<name>Return to the Main Menu?</name>
+</item>
+<item>
+<id>5771000057710000</id>
+<name>Longbow</name>
+</item>
+<item>
+<id>0ADB00000ADB0000</id>
+<name>Shigedo Longbow</name>
+</item>
+<item>
+<id>A4C10000A4C10000</id>
+<name>Tate-ugachi Bow</name>
+</item>
+<item>
+<id>6512000065120000</id>
+<name>Warrior of the West Bow</name>
+</item>
+<item>
+<id>10C3000010C30000</id>
+<name>Yoichi\'s Bow</name>
+</item>
+<item>
+<id>042A0000042A0000</id>
+<name>Tsunonotsuki Bow</name>
+</item>
+<item>
+<id>0799000007990000</id>
+<name>Raishodo</name>
+</item>
+<item>
+<id>91B8000091B80000</id>
+<name>Tanegashima Matchlock</name>
+</item>
+<item>
+<id>A5F00000A5F00000</id>
+<name>Kunitomo Rifle</name>
+</item>
+<item>
+<id>8F6E00008F6E0000</id>
+<name>Sakai Rifle</name>
+</item>
+<item>
+<id>8D3200008D320000</id>
+<name>Negoro Rifle</name>
+</item>
+<item>
+<id>3D1E00003D1E0000</id>
+<name>Ravenwing Rifle</name>
+</item>
+<item>
+<id>E0D10000E0D10000</id>
+<name>Touchpaper Musket</name>
+</item>
+<item>
+<id>4740000047400000</id>
+<name>Inadome-style Matchlock</name>
+</item>
+<item>
+<id>6C1D00006C1D0000</id>
+<name>Tatsuke-style Matchlock</name>
+</item>
+<item>
+<id>75E4000075E40000</id>
+<name>Hand Cannon</name>
+</item>
+<item>
+<id>7665000076650000</id>
+<name>Tokiwa Hand Cannon</name>
+</item>
+<item>
+<id>F2160000F2160000</id>
+<name>Ginshu Hand Cannon</name>
+</item>
+<item>
+<id>E2550000E2550000</id>
+<name>Yoryu Cannon</name>
+</item>
+<item>
+<id>01CF000001CF0000</id>
+<name>Bellowing Tenryu</name>
+</item>
+<item>
+<id>B8FD0000B8FD0000</id>
+<name>Tatsuke-style Cannon</name>
+</item>
+<item>
+<id>2F2500002F250000</id>
+<name>Lightning Cannon</name>
+</item>
+<item>
+<id>3331000033310000</id>
+<name>Scout Armor (L): Mengu</name>
+</item>
+<item>
+<id>D7510000D7510000</id>
+<name>Scout Armor (L): Do</name>
+</item>
+<item>
+<id>F50A0000F50A0000</id>
+<name>Scout Armor (L): Kote</name>
+</item>
+<item>
+<id>7ABE00007ABE0000</id>
+<name>Scout Armor (L): Hizayoroi</name>
+</item>
+<item>
+<id>1577000015770000</id>
+<name>Scout Armor (L): Suneate</name>
+</item>
+<item>
+<id>1D8300001D830000</id>
+<name>Thief Armor (L): Mengu</name>
+</item>
+<item>
+<id>C6AD0000C6AD0000</id>
+<name>Thief Armor (L): Do</name>
+</item>
+<item>
+<id>5E7100005E710000</id>
+<name>Thief Armor (L): Kote</name>
+</item>
+<item>
+<id>CECB0000CECB0000</id>
+<name>Thief Armor (L): Hizayoroi</name>
+</item>
+<item>
+<id>E07C0000E07C0000</id>
+<name>Thief Armor (L): Suneate</name>
+</item>
+<item>
+<id>6618000066180000</id>
+<name>Pirate Armor (L): Mengu</name>
+</item>
+<item>
+<id>4E6A00004E6A0000</id>
+<name>Pirate Armor (L): Do</name>
+</item>
+<item>
+<id>5C7700005C770000</id>
+<name>Pirate Armor (L): Kote</name>
+</item>
+<item>
+<id>58F7000058F70000</id>
+<name>Pirate Armor (L): Hizayoroi</name>
+</item>
+<item>
+<id>8B7100008B710000</id>
+<name>Pirate Armor (L): Suneate</name>
+</item>
+<item>
+<id>4D4400004D440000</id>
+<name>Bandit Armor (L): Mengu</name>
+</item>
+<item>
+<id>BF780000BF780000</id>
+<name>Bandit Armor (L): Do</name>
+</item>
+<item>
+<id>4F8500004F850000</id>
+<name>Bandit Armor (L): Kote</name>
+</item>
+<item>
+<id>AD510000AD510000</id>
+<name>Bandit Armor (L): Hizayoroi</name>
+</item>
+<item>
+<id>8546000085460000</id>
+<name>Bandit Armor (L): Suneate</name>
+</item>
+<item>
+<id>EAD40000EAD40000</id>
+<name>Archer Garb: Hat</name>
+</item>
+<item>
+<id>520B0000520B0000</id>
+<name>Archer Garb: Robe</name>
+</item>
+<item>
+<id>32D0000032D00000</id>
+<name>Archer Garb: Kote</name>
+</item>
+<item>
+<id>EDEA0000EDEA0000</id>
+<name>Archer Garb: Hakama</name>
+</item>
+<item>
+<id>795E0000795E0000</id>
+<name>Archer Garb: Waraji</name>
+</item>
+<item>
+<id>44F2000044F20000</id>
+<name>Bowman\'s Armor: Kasa</name>
+</item>
+<item>
+<id>81D2000081D20000</id>
+<name>Bowman\'s Armor: Joi</name>
+</item>
+<item>
+<id>9AF200009AF20000</id>
+<name>Bowman\'s Armor: Kote</name>
+</item>
+<item>
+<id>8E5600008E560000</id>
+<name>Bowman\'s Armor: Hakama</name>
+</item>
+<item>
+<id>3816000038160000</id>
+<name>Bowman\'s Armor: Waraji</name>
+</item>
+<item>
+<id>06E2000006E20000</id>
+<name>Onmyo Mage\'s Hunting Gear: Eboshi</name>
+</item>
+<item>
+<id>DBDB0000DBDB0000</id>
+<name>Onmyo Mage\'s Hunting Gear: Joi</name>
+</item>
+<item>
+<id>1A0600001A060000</id>
+<name>Onmyo Mage\'s Hunting Gear: Tekko</name>
+</item>
+<item>
+<id>CBB00000CBB00000</id>
+<name>Onmyo Mage\'s Hunting Gear: Hakama</name>
+</item>
+<item>
+<id>E4E40000E4E40000</id>
+<name>Onmyo Mage\'s Hunting Gear: Kutsu</name>
+</item>
+<item>
+<id>A4A40000A4A40000</id>
+<name>Onmyo Mage\'s Joe: Eboshi</name>
+</item>
+<item>
+<id>603C0000603C0000</id>
+<name>Onmyo Mage\'s Joe: Joi</name>
+</item>
+<item>
+<id>369C0000369C0000</id>
+<name>Onmyo Mage\'s Joe: Tekko</name>
+</item>
+<item>
+<id>C2B70000C2B70000</id>
+<name>Onmyo Mage\'s Joe: Hakama</name>
+</item>
+<item>
+<id>62A3000062A30000</id>
+<name>Onmyo Mage\'s Joe: Kutsu</name>
+</item>
+<item>
+<id>1382000013820000</id>
+<name>L 0008 CAP</name>
+</item>
+<item>
+<id>E3B70000E3B70000</id>
+<name>L 0008 CHEST</name>
+</item>
+<item>
+<id>093E0000093E0000</id>
+<name>L 0008 ARM</name>
+</item>
+<item>
+<id>E8A40000E8A40000</id>
+<name>L 0008 LEG</name>
+</item>
+<item>
+<id>AC340000AC340000</id>
+<name>L 0008 FOOT</name>
+</item>
+<item>
+<id>6EAD00006EAD0000</id>
+<name>Yamabushi Apparel: Tokin</name>
+</item>
+<item>
+<id>F9510000F9510000</id>
+<name>Yamabushi Apparel: Joi</name>
+</item>
+<item>
+<id>5CCB00005CCB0000</id>
+<name>Yamabushi Apparel: Tekko</name>
+</item>
+<item>
+<id>39DA000039DA0000</id>
+<name>Yamabushi Apparel: Hakama</name>
+</item>
+<item>
+<id>FF2B0000FF2B0000</id>
+<name>Yamabushi Apparel: Waraji</name>
+</item>
+<item>
+<id>2008000020080000</id>
+<name>Gyousha\'s Apparel: Tokin</name>
+</item>
+<item>
+<id>6084000060840000</id>
+<name>Gyousha\'s Apparel: Joi</name>
+</item>
+<item>
+<id>6C5D00006C5D0000</id>
+<name>Gyousha\'s Apparel: Tekko</name>
+</item>
+<item>
+<id>53D8000053D80000</id>
+<name>Gyousha\'s Apparel: Hakama</name>
+</item>
+<item>
+<id>5285000052850000</id>
+<name>Gyousha\'s Apparel: Waraji</name>
+</item>
+<item>
+<id>E91F0000E91F0000</id>
+<name>Iga Jonin Apparel: Hachigane</name>
+</item>
+<item>
+<id>068A0000068A0000</id>
+<name>Iga Jonin Apparel: Do</name>
+</item>
+<item>
+<id>4B9500004B950000</id>
+<name>Iga Jonin Apparel: Kote</name>
+</item>
+<item>
+<id>0DC600000DC60000</id>
+<name>Iga Jonin Apparel: Hizayoroi</name>
+</item>
+<item>
+<id>E3AB0000E3AB0000</id>
+<name>Iga Jonin Apparel: Suneate</name>
+</item>
+<item>
+<id>D5410000D5410000</id>
+<name>Shinobi Apparel: Zukin</name>
+</item>
+<item>
+<id>CD910000CD910000</id>
+<name>Shinobi Apparel: Joi</name>
+</item>
+<item>
+<id>1CA500001CA50000</id>
+<name>Shinobi Apparel: Tekko</name>
+</item>
+<item>
+<id>0ED100000ED10000</id>
+<name>Shinobi Apparel: Hakama</name>
+</item>
+<item>
+<id>61CB000061CB0000</id>
+<name>Shinobi Apparel: Kyahan</name>
+</item>
+<item>
+<id>9C3500009C350000</id>
+<name>Chunin Apparel: Zukin</name>
+</item>
+<item>
+<id>6A9B00006A9B0000</id>
+<name>Chunin Apparel: Joi</name>
+</item>
+<item>
+<id>8389000083890000</id>
+<name>Chunin Apparel: Tekko</name>
+</item>
+<item>
+<id>4C1000004C100000</id>
+<name>Chunin Apparel: Hakama</name>
+</item>
+<item>
+<id>2079000020790000</id>
+<name>Chunin Apparel: Kyahan</name>
+</item>
+<item>
+<id>C4680000C4680000</id>
+<name>Red Demon Armor (L): Kabuto</name>
+</item>
+<item>
+<id>D6A50000D6A50000</id>
+<name>Red Demon Armor (L): Do</name>
+</item>
+<item>
+<id>486E0000486E0000</id>
+<name>Red Demon Armor (L): Kote</name>
+</item>
+<item>
+<id>D2850000D2850000</id>
+<name>Red Demon Armor (L): Hizayoroi</name>
+</item>
+<item>
+<id>D51C0000D51C0000</id>
+<name>Red Demon Armor (L): Suneate</name>
+</item>
+<item>
+<id>C0D30000C0D30000</id>
+<name>Frontline Armor (L): Kabuto</name>
+</item>
+<item>
+<id>8E4800008E480000</id>
+<name>Frontline Armor (L): Do</name>
+</item>
+<item>
+<id>F10A0000F10A0000</id>
+<name>Frontline Armor (L): Kote</name>
+</item>
+<item>
+<id>2B9200002B920000</id>
+<name>Frontline Armor (L): Hizayoroi</name>
+</item>
+<item>
+<id>4501000045010000</id>
+<name>Frontline Armor (L): Suneate</name>
+</item>
+<item>
+<id>998E0000998E0000</id>
+<name>Justice Ministry Armor (L): White Zukin</name>
+</item>
+<item>
+<id>4CB200004CB20000</id>
+<name>Justice Ministry Armor (L): Do</name>
+</item>
+<item>
+<id>B8EE0000B8EE0000</id>
+<name>Justice Ministry Armor (L): Kote</name>
+</item>
+<item>
+<id>8EB200008EB20000</id>
+<name>Justice Ministry Armor (L): Hizayoroi</name>
+</item>
+<item>
+<id>A3AB0000A3AB0000</id>
+<name>Justice Ministry Armor (L): Suneate</name>
+</item>
+<item>
+<id>EF770000EF770000</id>
+<name>Strategist\'s Armor (L): Zukin</name>
+</item>
+<item>
+<id>9616000096160000</id>
+<name>Strategist\'s Armor (L): Do</name>
+</item>
+<item>
+<id>B7110000B7110000</id>
+<name>Strategist\'s Armor (L): Kote</name>
+</item>
+<item>
+<id>8A4B00008A4B0000</id>
+<name>Strategist\'s Armor (L): Hizayoroi</name>
+</item>
+<item>
+<id>4C0C00004C0C0000</id>
+<name>Strategist\'s Armor (L): Suneate</name>
+</item>
+<item>
+<id>B7840000B7840000</id>
+<name>Yatagarasu Armor (L): Hitaiate</name>
+</item>
+<item>
+<id>55F2000055F20000</id>
+<name>Yatagarasu Armor (L): Do</name>
+</item>
+<item>
+<id>5C6700005C670000</id>
+<name>Yatagarasu Armor (L): Kote</name>
+</item>
+<item>
+<id>84BE000084BE0000</id>
+<name>Yatagarasu Armor (L): Hizayoroi</name>
+</item>
+<item>
+<id>C2C60000C2C60000</id>
+<name>Yatagarasu Armor (L): Suneate</name>
+</item>
+<item>
+<id>DD4C0000DD4C0000</id>
+<name>Saika Clan Armor (L): Kasa</name>
+</item>
+<item>
+<id>10AF000010AF0000</id>
+<name>Saika Clan Armor (L): Do</name>
+</item>
+<item>
+<id>2E2200002E220000</id>
+<name>Saika Clan Armor (L): Kote</name>
+</item>
+<item>
+<id>AA2B0000AA2B0000</id>
+<name>Saika Clan Armor (L): Hizayoroi</name>
+</item>
+<item>
+<id>5A5700005A570000</id>
+<name>Saika Clan Armor (L): Suneate</name>
+</item>
+<item>
+<id>0A8500000A850000</id>
+<name>Rifle Captain\'s Armor (L): Kabuto</name>
+</item>
+<item>
+<id>0D4B00000D4B0000</id>
+<name>Rifle Captain\'s Armor (L): Do</name>
+</item>
+<item>
+<id>A8B00000A8B00000</id>
+<name>Rifle Captain\'s Armor (L): Kote</name>
+</item>
+<item>
+<id>D6C80000D6C80000</id>
+<name>Rifle Captain\'s Armor (L): Hizayoroi</name>
+</item>
+<item>
+<id>CE540000CE540000</id>
+<name>Rifle Captain\'s Armor (L): Suneate</name>
+</item>
+<item>
+<id>6165000061650000</id>
+<name>Legendary Strategist\'s Garb: Zukin</name>
+</item>
+<item>
+<id>05B6000005B60000</id>
+<name>Legendary Strategist\'s Garb: Kinu</name>
+</item>
+<item>
+<id>A14B0000A14B0000</id>
+<name>L 0021 ARM</name>
+</item>
+<item>
+<id>2364000023640000</id>
+<name>Legendary Strategist\'s Garb: Hakama</name>
+</item>
+<item>
+<id>143F0000143F0000</id>
+<name>Legendary Strategist\'s Garb: Kutsu</name>
+</item>
+<item>
+<id>8295000082950000</id>
+<name>L 0022 CAP</name>
+</item>
+<item>
+<id>8BC500008BC50000</id>
+<name>L 0022 CHEST</name>
+</item>
+<item>
+<id>0B3D00000B3D0000</id>
+<name>L 0022 ARM</name>
+</item>
+<item>
+<id>F32F0000F32F0000</id>
+<name>L 0022 LEG</name>
+</item>
+<item>
+<id>A2FB0000A2FB0000</id>
+<name>L 0022 FOOT</name>
+</item>
+<item>
+<id>D8B60000D8B60000</id>
+<name>L 0023 CAP</name>
+</item>
+<item>
+<id>8F4900008F490000</id>
+<name>Yagyu Garb: Kinu</name>
+</item>
+<item>
+<id>1BF900001BF90000</id>
+<name>L 0023 ARM</name>
+</item>
+<item>
+<id>7623000076230000</id>
+<name>Yagyu Garb: Hakama</name>
+</item>
+<item>
+<id>27A9000027A90000</id>
+<name>Yagyu Garb: Zori</name>
+</item>
+<item>
+<id>E1160000E1160000</id>
+<name>L 0024 CAP</name>
+</item>
+<item>
+<id>D1C90000D1C90000</id>
+<name>L 0024 CHEST</name>
+</item>
+<item>
+<id>B3470000B3470000</id>
+<name>L 0024 ARM</name>
+</item>
+<item>
+<id>6FB900006FB90000</id>
+<name>L 0024 LEG</name>
+</item>
+<item>
+<id>5D9200005D920000</id>
+<name>L 0024 FOOT</name>
+</item>
+<item>
+<id>EEEE0000EEEE0000</id>
+<name>Mariner\'s Shirt</name>
+</item>
+<item>
+<id>2999000029990000</id>
+<name>Mariner\'s Pants</name>
+</item>
+<item>
+<id>4722000047220000</id>
+<name>Mariner\'s Boots</name>
+</item>
+<item>
+<id>2695000026950000</id>
+<name>Onmyo Mage\'s Suikan: Eboshi</name>
+</item>
+<item>
+<id>AF560000AF560000</id>
+<name>Onmyo Mage\'s Suikan: Joi</name>
+</item>
+<item>
+<id>B9D90000B9D90000</id>
+<name>Onmyo Mage\'s Suikan: Tekko</name>
+</item>
+<item>
+<id>9E6900009E690000</id>
+<name>Onmyo Mage\'s Suikan: Hakama</name>
+</item>
+<item>
+<id>A51E0000A51E0000</id>
+<name>Onmyo Mage\'s Suikan: Kutsu</name>
+</item>
+<item>
+<id>27C2000027C20000</id>
+<name>Kuro-Garasu Armor (L): Mengu</name>
+</item>
+<item>
+<id>B8BF0000B8BF0000</id>
+<name>Kuro-Garasu Armor (L): Do</name>
+</item>
+<item>
+<id>FA7D0000FA7D0000</id>
+<name>Kuro-Garasu Armor (L): Kote</name>
+</item>
+<item>
+<id>82CE000082CE0000</id>
+<name>Kuro-Garasu Armor (L): Hizayoroi</name>
+</item>
+<item>
+<id>2A2B00002A2B0000</id>
+<name>Kuro-Garasu Armor (L): Suneate</name>
+</item>
+<item>
+<id>8C5A00008C5A0000</id>
+<name>Tower of London Guard: Hat</name>
+</item>
+<item>
+<id>FB6C0000FB6C0000</id>
+<name>Tower of London Guard: Coat</name>
+</item>
+<item>
+<id>B1030000B1030000</id>
+<name>Tower of London Guard: Gloves</name>
+</item>
+<item>
+<id>AEC50000AEC50000</id>
+<name>Tower of London Guard: Trousers</name>
+</item>
+<item>
+<id>581D0000581D0000</id>
+<name>Tower of London Guard: Boots</name>
+</item>
+<item>
+<id>D6200000D6200000</id>
+<name>Dogi: Upper</name>
+</item>
+<item>
+<id>BCEF0000BCEF0000</id>
+<name>Dogi: Lower</name>
+</item>
+<item>
+<id>9EE100009EE10000</id>
+<name>Kojuro\'s Armor (L): Hachimaki</name>
+</item>
+<item>
+<id>E17C0000E17C0000</id>
+<name>Kojuro\'s Armor (L): Do</name>
+</item>
+<item>
+<id>2647000026470000</id>
+<name>Kojuro\'s Armor (L): Kote</name>
+</item>
+<item>
+<id>9381000093810000</id>
+<name>Kojuro\'s Armor (L): Hizayoroi</name>
+</item>
+<item>
+<id>A7B60000A7B60000</id>
+<name>Kojuro\'s Armor (L): Suneate</name>
+</item>
+<item>
+<id>ED590000ED590000</id>
+<name>Attendant\'s Armor (L): Kabuto</name>
+</item>
+<item>
+<id>8DD800008DD80000</id>
+<name>Attendant\'s Armor (L): Do</name>
+</item>
+<item>
+<id>6F9300006F930000</id>
+<name>Attendant\'s Armor (L): Kote</name>
+</item>
+<item>
+<id>276E0000276E0000</id>
+<name>Attendant\'s Armor (L): Hizayoroi</name>
+</item>
+<item>
+<id>50AC000050AC0000</id>
+<name>Attendant\'s Armor (L): Suneate</name>
+</item>
+<item>
+<id>D7B60000D7B60000</id>
+<name>Sarutobi Shinobi Apparel: Hachigane</name>
+</item>
+<item>
+<id>323E0000323E0000</id>
+<name>Sarutobi Shinobi Apparel: Joi</name>
+</item>
+<item>
+<id>C9020000C9020000</id>
+<name>Sarutobi Shinobi Apparel: Kote</name>
+</item>
+<item>
+<id>7C2800007C280000</id>
+<name>Sarutobi Shinobi Apparel: Hakama</name>
+</item>
+<item>
+<id>17D5000017D50000</id>
+<name>Sarutobi Shinobi Apparel: Suneate</name>
+</item>
+<item>
+<id>67E5000067E50000</id>
+<name>Togakushi Shinobi Apparel: Hachigane</name>
+</item>
+<item>
+<id>4721000047210000</id>
+<name>Togakushi Shinobi Apparel: Joi</name>
+</item>
+<item>
+<id>C7170000C7170000</id>
+<name>Togakushi Shinobi Apparel: Kote</name>
+</item>
+<item>
+<id>DC660000DC660000</id>
+<name>Togakushi Shinobi Apparel: Hakama</name>
+</item>
+<item>
+<id>A9510000A9510000</id>
+<name>Togakushi Shinobi Apparel: Suneate</name>
+</item>
+<item>
+<id>B8B80000B8B80000</id>
+<name>Governor of Tosa\'s Armor (L): Kabuto</name>
+</item>
+<item>
+<id>E2FC0000E2FC0000</id>
+<name>Governor of Tosa\'s Armor (L): Do</name>
+</item>
+<item>
+<id>A5F30000A5F30000</id>
+<name>Governor of Tosa\'s Armor (L): Kote</name>
+</item>
+<item>
+<id>6835000068350000</id>
+<name>Governor of Tosa\'s Armor (L): Hizayoroi</name>
+</item>
+<item>
+<id>99AE000099AE0000</id>
+<name>Governor of Tosa\'s Armor (L): Suneate</name>
+</item>
+<item>
+<id>5F4400005F440000</id>
+<name>Hayabusa Shinobi Apparel: Hachigane</name>
+</item>
+<item>
+<id>F6500000F6500000</id>
+<name>Hayabusa Shinobi Apparel: Joi</name>
+</item>
+<item>
+<id>9013000090130000</id>
+<name>Hayabusa Shinobi Apparel: Kote</name>
+</item>
+<item>
+<id>B9820000B9820000</id>
+<name>Hayabusa Shinobi Apparel: Hakama</name>
+</item>
+<item>
+<id>44C0000044C00000</id>
+<name>Hayabusa Shinobi Apparel: Suneate</name>
+</item>
+<item>
+<id>1111000011110000</id>
+<name>IE_L_6000_CAP</name>
+</item>
+<item>
+<id>2A4300002A430000</id>
+<name>IE_L_6000_CHEST</name>
+</item>
+<item>
+<id>4DF400004DF40000</id>
+<name>IE_L_6000_LEG</name>
+</item>
+<item>
+<id>D4790000D4790000</id>
+<name>IE_L_6012_CHEST</name>
+</item>
+<item>
+<id>E4CD0000E4CD0000</id>
+<name>IE_L_6012_LEG</name>
+</item>
+<item>
+<id>3714000037140000</id>
+<name>IE_L_6015_CHEST</name>
+</item>
+<item>
+<id>D3A90000D3A90000</id>
+<name>IE_L_6015_LEG</name>
+</item>
+<item>
+<id>BF1F0000BF1F0000</id>
+<name>IE_L_6019_CHEST</name>
+</item>
+<item>
+<id>5BC900005BC90000</id>
+<name>IE_L_6019_LEG</name>
+</item>
+<item>
+<id>929A0000929A0000</id>
+<name>IE_L_6503_CAP</name>
+</item>
+<item>
+<id>5CCA00005CCA0000</id>
+<name>Brawler\'s Armor (M): Kabuto</name>
+</item>
+<item>
+<id>5CC700005CC70000</id>
+<name>Brawler\'s Armor (M): Do</name>
+</item>
+<item>
+<id>4026000040260000</id>
+<name>Brawler\'s Armor (M): Kote</name>
+</item>
+<item>
+<id>7138000071380000</id>
+<name>Brawler\'s Armor (M): Hizayoroi</name>
+</item>
+<item>
+<id>EAE50000EAE50000</id>
+<name>Brawler\'s Armor (M): Suneate</name>
+</item>
+<item>
+<id>B3E00000B3E00000</id>
+<name>Youngblood Armor (M): Kabuto</name>
+</item>
+<item>
+<id>E7D50000E7D50000</id>
+<name>Youngblood Armor (M): Do</name>
+</item>
+<item>
+<id>B9750000B9750000</id>
+<name>Youngblood Armor (M): Kote</name>
+</item>
+<item>
+<id>5688000056880000</id>
+<name>Youngblood Armor (M): Hizayoroi</name>
+</item>
+<item>
+<id>BF2A0000BF2A0000</id>
+<name>Youngblood Armor (M): Suneate</name>
+</item>
+<item>
+<id>E5A40000E5A40000</id>
+<name>Footsoldier Armor (M): Jingasa</name>
+</item>
+<item>
+<id>6A4200006A420000</id>
+<name>Footsoldier Armor (M): Do</name>
+</item>
+<item>
+<id>A0B50000A0B50000</id>
+<name>Footsoldier Armor (M): Kote</name>
+</item>
+<item>
+<id>DF280000DF280000</id>
+<name>Footsoldier Armor (M): Hizayoroi</name>
+</item>
+<item>
+<id>6258000062580000</id>
+<name>Footsoldier Armor (M): Suneate</name>
+</item>
+<item>
+<id>9F5E00009F5E0000</id>
+<name>Ronin Armor (M): Mengu</name>
+</item>
+<item>
+<id>3BFD00003BFD0000</id>
+<name>Ronin Armor (M): Do</name>
+</item>
+<item>
+<id>EABC0000EABC0000</id>
+<name>Ronin Armor (M): Kote</name>
+</item>
+<item>
+<id>CB9A0000CB9A0000</id>
+<name>Ronin Armor (M): Hizayoroi</name>
+</item>
+<item>
+<id>C9DA0000C9DA0000</id>
+<name>Ronin Armor (M): Suneate</name>
+</item>
+<item>
+<id>DAFD0000DAFD0000</id>
+<name>Veteran\'s Armor (M): Kabuto</name>
+</item>
+<item>
+<id>229B0000229B0000</id>
+<name>Veteran\'s Armor (M): Do</name>
+</item>
+<item>
+<id>FF9F0000FF9F0000</id>
+<name>Veteran\'s Armor (M): Kote</name>
+</item>
+<item>
+<id>D32B0000D32B0000</id>
+<name>Veteran\'s Armor (M): Hizayoroi</name>
+</item>
+<item>
+<id>7429000074290000</id>
+<name>Veteran\'s Armor (M): Suneate</name>
+</item>
+<item>
+<id>BA6F0000BA6F0000</id>
+<name>Warrior of the West: Kabuto</name>
+</item>
+<item>
+<id>FF7E0000FF7E0000</id>
+<name>Warrior of the West: Do</name>
+</item>
+<item>
+<id>CE380000CE380000</id>
+<name>Warrior of the West: Kote</name>
+</item>
+<item>
+<id>98C4000098C40000</id>
+<name>Warrior of the West: Hizayoroi</name>
+</item>
+<item>
+<id>80A5000080A50000</id>
+<name>Warrior of the West: Suneate</name>
+</item>
+<item>
+<id>A4550000A4550000</id>
+<name>Platemail Armor (M): Kabuto</name>
+</item>
+<item>
+<id>813D0000813D0000</id>
+<name>Platemail Armor (M): Do</name>
+</item>
+<item>
+<id>DC5C0000DC5C0000</id>
+<name>Platemail Armor (M): Kote</name>
+</item>
+<item>
+<id>FF290000FF290000</id>
+<name>Platemail Armor (M): Hizayoroi</name>
+</item>
+<item>
+<id>F7300000F7300000</id>
+<name>Platemail Armor (M): Suneate</name>
+</item>
+<item>
+<id>1D5D00001D5D0000</id>
+<name>Western Warlord\'s Armor (M): Kabuto</name>
+</item>
+<item>
+<id>37E9000037E90000</id>
+<name>Western Warlord\'s Armor (M): Do</name>
+</item>
+<item>
+<id>CA020000CA020000</id>
+<name>Western Warlord\'s Armor (M): Kote</name>
+</item>
+<item>
+<id>6F6C00006F6C0000</id>
+<name>Western Warlord\'s Armor (M): Hizayoroi</name>
+</item>
+<item>
+<id>353D0000353D0000</id>
+<name>Western Warlord\'s Armor (M): Suneate</name>
+</item>
+<item>
+<id>08A6000008A60000</id>
+<name>Fanatic\'s Armor (M): Kabuto</name>
+</item>
+<item>
+<id>7B3F00007B3F0000</id>
+<name>Fanatic\'s Armor (M): Do</name>
+</item>
+<item>
+<id>0C9D00000C9D0000</id>
+<name>Fanatic\'s Armor (M): Kote</name>
+</item>
+<item>
+<id>DB360000DB360000</id>
+<name>Fanatic\'s Armor (M): Hizayoroi</name>
+</item>
+<item>
+<id>B2C10000B2C10000</id>
+<name>Fanatic\'s Armor (M): Suneate</name>
+</item>
+<item>
+<id>91B6000091B60000</id>
+<name>Battlewise Armor (M): Kabuto</name>
+</item>
+<item>
+<id>7CC600007CC60000</id>
+<name>Battlewise Armor (M): Do</name>
+</item>
+<item>
+<id>A2BD0000A2BD0000</id>
+<name>Battlewise Armor (M): Kote</name>
+</item>
+<item>
+<id>8913000089130000</id>
+<name>Battlewise Armor (M): Hizayoroi</name>
+</item>
+<item>
+<id>5E5000005E500000</id>
+<name>Battlewise Armor (M): Suneate</name>
+</item>
+<item>
+<id>9339000093390000</id>
+<name>Vassal\'s Armor (M): Kabuto</name>
+</item>
+<item>
+<id>8CDE00008CDE0000</id>
+<name>Vassal\'s Armor (M): Do</name>
+</item>
+<item>
+<id>D3220000D3220000</id>
+<name>Vassal\'s Armor (M): Kote</name>
+</item>
+<item>
+<id>372C0000372C0000</id>
+<name>Vassal\'s Armor (M): Hizayoroi</name>
+</item>
+<item>
+<id>413E0000413E0000</id>
+<name>Vassal\'s Armor (M): Suneate</name>
+</item>
+<item>
+<id>DB9A0000DB9A0000</id>
+<name>Kingo\'s Armor (M): Kabuto</name>
+</item>
+<item>
+<id>9123000091230000</id>
+<name>Kingo\'s Armor (M): Do</name>
+</item>
+<item>
+<id>38C9000038C90000</id>
+<name>Kingo\'s Armor (M): Kote</name>
+</item>
+<item>
+<id>F8C80000F8C80000</id>
+<name>Kingo\'s Armor (M): Hizayoroi</name>
+</item>
+<item>
+<id>BFE60000BFE60000</id>
+<name>Kingo\'s Armor (M): Suneate</name>
+</item>
+<item>
+<id>EC0E0000EC0E0000</id>
+<name>Frontline Warrior\'s Armor (M): Kabuto</name>
+</item>
+<item>
+<id>EBE30000EBE30000</id>
+<name>Frontline Warrior\'s Armor (M): Do</name>
+</item>
+<item>
+<id>8EE200008EE20000</id>
+<name>Frontline Warrior\'s Armor (M): Kote</name>
+</item>
+<item>
+<id>C55C0000C55C0000</id>
+<name>Frontline Warrior\'s Armor (M): Hizayoroi</name>
+</item>
+<item>
+<id>27BC000027BC0000</id>
+<name>Frontline Warrior\'s Armor (M): Suneate</name>
+</item>
+<item>
+<id>C20A0000C20A0000</id>
+<name>Ambush Unit Armor (M): Kabuto</name>
+</item>
+<item>
+<id>2016000020160000</id>
+<name>Ambush Unit Armor (M): Do</name>
+</item>
+<item>
+<id>973B0000973B0000</id>
+<name>Ambush Unit Armor (M): Kote</name>
+</item>
+<item>
+<id>4764000047640000</id>
+<name>Ambush Unit Armor (M): Hizayoroi</name>
+</item>
+<item>
+<id>94CE000094CE0000</id>
+<name>Ambush Unit Armor (M): Suneate</name>
+</item>
+<item>
+<id>32AA000032AA0000</id>
+<name>Gallantry Armor: Kabuto</name>
+</item>
+<item>
+<id>B6270000B6270000</id>
+<name>Gallantry Armor: Do</name>
+</item>
+<item>
+<id>33E6000033E60000</id>
+<name>Gallantry Armor: Kote</name>
+</item>
+<item>
+<id>ADB50000ADB50000</id>
+<name>Gallantry Armor: Hizayoroi</name>
+</item>
+<item>
+<id>B5150000B5150000</id>
+<name>Gallantry Armor: Suneate</name>
+</item>
+<item>
+<id>FBB00000FBB00000</id>
+<name>Unit Leader\'s Armor (M): Kabuto</name>
+</item>
+<item>
+<id>9715000097150000</id>
+<name>Unit Leader\'s Armor (M): Do</name>
+</item>
+<item>
+<id>0306000003060000</id>
+<name>Unit Leader\'s Armor (M): Kote</name>
+</item>
+<item>
+<id>B4CA0000B4CA0000</id>
+<name>Unit Leader\'s Armor (M): Hizayoroi</name>
+</item>
+<item>
+<id>27EA000027EA0000</id>
+<name>Unit Leader\'s Armor (M): Suneate</name>
+</item>
+<item>
+<id>4D8A00004D8A0000</id>
+<name>Samurai General\'s Armor (M): Kabuto</name>
+</item>
+<item>
+<id>A2D60000A2D60000</id>
+<name>Samurai General\'s Armor (M): Do</name>
+</item>
+<item>
+<id>690B0000690B0000</id>
+<name>Samurai General\'s Armor (M): Kote</name>
+</item>
+<item>
+<id>FC4F0000FC4F0000</id>
+<name>Samurai General\'s Armor (M): Hizayoroi</name>
+</item>
+<item>
+<id>534A0000534A0000</id>
+<name>Samurai General\'s Armor (M): Suneate</name>
+</item>
+<item>
+<id>80AE000080AE0000</id>
+<name>M 0018 CAP</name>
+</item>
+<item>
+<id>9BB300009BB30000</id>
+<name>Demon King\'s Kisenaga: Do</name>
+</item>
+<item>
+<id>BC070000BC070000</id>
+<name>Demon King\'s Kisenaga: Kote</name>
+</item>
+<item>
+<id>8251000082510000</id>
+<name>Demon King\'s Kisenaga: Hizayoroi</name>
+</item>
+<item>
+<id>4C5200004C520000</id>
+<name>Demon King\'s Kisenaga: Suneate</name>
+</item>
+<item>
+<id>49A4000049A40000</id>
+<name>Nanban-Gusoku: Kabuto</name>
+</item>
+<item>
+<id>AD880000AD880000</id>
+<name>Nanban-Gusoku: Do</name>
+</item>
+<item>
+<id>49F5000049F50000</id>
+<name>Nanban-Gusoku: Kote</name>
+</item>
+<item>
+<id>F3910000F3910000</id>
+<name>Nanban-Gusoku: Hizayoroi</name>
+</item>
+<item>
+<id>4B8400004B840000</id>
+<name>Nanban-Gusoku: Suneate</name>
+</item>
+<item>
+<id>00C7000000C70000</id>
+<name>Foreigner\'s Armor (M): Kabuto</name>
+</item>
+<item>
+<id>0585000005850000</id>
+<name>Foreigner\'s Armor (M): Do</name>
+</item>
+<item>
+<id>C0020000C0020000</id>
+<name>Foreigner\'s Armor (M): Kote</name>
+</item>
+<item>
+<id>D5D20000D5D20000</id>
+<name>Foreigner\'s Armor (M): Hizayoroi</name>
+</item>
+<item>
+<id>D2360000D2360000</id>
+<name>Foreigner\'s Armor (M): Suneate</name>
+</item>
+<item>
+<id>9D7D00009D7D0000</id>
+<name>Genius Strategist\'s Hachimaki</name>
+</item>
+<item>
+<id>7A8100007A810000</id>
+<name>Genius Strategist\'s Garb</name>
+</item>
+<item>
+<id>D35C0000D35C0000</id>
+<name>Genius Strategist\'s Tekko</name>
+</item>
+<item>
+<id>04C6000004C60000</id>
+<name>Genius Strategist\'s Hakama</name>
+</item>
+<item>
+<id>9A8800009A880000</id>
+<name>Genius Strategist\'s Geta</name>
+</item>
+<item>
+<id>2878000028780000</id>
+<name>One-Eyed Dragon\'s Armor (M): Kabuto</name>
+</item>
+<item>
+<id>A5AB0000A5AB0000</id>
+<name>One-Eyed Dragon\'s Armor (M): Do</name>
+</item>
+<item>
+<id>BFD00000BFD00000</id>
+<name>One-Eyed Dragon\'s Armor (M): Kote</name>
+</item>
+<item>
+<id>5FD200005FD20000</id>
+<name>One-Eyed Dragon\'s Armor (M): Hizayoroi</name>
+</item>
+<item>
+<id>986A0000986A0000</id>
+<name>One-Eyed Dragon\'s Armor (M): Suneate</name>
+</item>
+<item>
+<id>DFFA0000DFFA0000</id>
+<name>Nagake Armor (M): Kabuto</name>
+</item>
+<item>
+<id>45AF000045AF0000</id>
+<name>Nagake Armor (M): Do</name>
+</item>
+<item>
+<id>0512000005120000</id>
+<name>Nagake Armor (M): Kote</name>
+</item>
+<item>
+<id>C85A0000C85A0000</id>
+<name>Nagake Armor (M): Hizayoroi</name>
+</item>
+<item>
+<id>FC5D0000FC5D0000</id>
+<name>Nagake Armor (M): Suneate</name>
+</item>
+<item>
+<id>922B0000922B0000</id>
+<name>Swallowtail Armor (M): Kabuto</name>
+</item>
+<item>
+<id>46ED000046ED0000</id>
+<name>Swallowtail Armor (M): Do</name>
+</item>
+<item>
+<id>8318000083180000</id>
+<name>Swallowtail Armor (M): Kote</name>
+</item>
+<item>
+<id>7675000076750000</id>
+<name>Swallowtail Armor (M): Hizayoroi</name>
+</item>
+<item>
+<id>6933000069330000</id>
+<name>Swallowtail Armor (M): Suneate</name>
+</item>
+<item>
+<id>EA2A0000EA2A0000</id>
+<name>Scion of Virtue\'s Armor: Kabuto</name>
+</item>
+<item>
+<id>A8A00000A8A00000</id>
+<name>Scion of Virtue\'s Armor: Do</name>
+</item>
+<item>
+<id>21DC000021DC0000</id>
+<name>Scion of Virtue\'s Armor: Kote</name>
+</item>
+<item>
+<id>FF4B0000FF4B0000</id>
+<name>Scion of Virtue\'s Armor: Hizayoroi</name>
+</item>
+<item>
+<id>17CB000017CB0000</id>
+<name>Scion of Virtue\'s Armor: Suneate</name>
+</item>
+<item>
+<id>B8410000B8410000</id>
+<name>General of Kigetsu\'s Armor: Kabuto</name>
+</item>
+<item>
+<id>ED310000ED310000</id>
+<name>General of Kigetsu\'s Armor: Do</name>
+</item>
+<item>
+<id>AAD50000AAD50000</id>
+<name>General of Kigetsu\'s Armor: Kote</name>
+</item>
+<item>
+<id>003D0000003D0000</id>
+<name>General of Kigetsu\'s Armor: Hizayoroi</name>
+</item>
+<item>
+<id>F0FE0000F0FE0000</id>
+<name>General of Kigetsu\'s Armor: Suneate</name>
+</item>
+<item>
+<id>E4550000E4550000</id>
+<name>Last Great General\'s Armor: Kabuto</name>
+</item>
+<item>
+<id>3ADA00003ADA0000</id>
+<name>Last Great General\'s Armor: Do</name>
+</item>
+<item>
+<id>A9ED0000A9ED0000</id>
+<name>Last Great General\'s Armor: Kote</name>
+</item>
+<item>
+<id>5F8100005F810000</id>
+<name>Last Great General\'s Armor: Hizayoroi</name>
+</item>
+<item>
+<id>7F4C00007F4C0000</id>
+<name>Last Great General\'s Armor: Suneate</name>
+</item>
+<item>
+<id>10EC000010EC0000</id>
+<name>IE_M_6004_CAP</name>
+</item>
+<item>
+<id>3F1800003F180000</id>
+<name>IE_M_6010_CHEST</name>
+</item>
+<item>
+<id>E9E10000E9E10000</id>
+<name>IE_M_6010_LEG</name>
+</item>
+<item>
+<id>AE8A0000AE8A0000</id>
+<name>IE_M_6012_LEG</name>
+</item>
+<item>
+<id>5CAE00005CAE0000</id>
+<name>IE_M_6017_CAP</name>
+</item>
+<item>
+<id>BA590000BA590000</id>
+<name>IE_M_6017_CHEST</name>
+</item>
+<item>
+<id>3DA400003DA40000</id>
+<name>Sanada Crimson: Kabuto</name>
+</item>
+<item>
+<id>53CD000053CD0000</id>
+<name>Sanada Crimson: Do</name>
+</item>
+<item>
+<id>A5890000A5890000</id>
+<name>Sanada Crimson: Kote</name>
+</item>
+<item>
+<id>061E0000061E0000</id>
+<name>Sanada Crimson: Hizayoroi</name>
+</item>
+<item>
+<id>78B5000078B50000</id>
+<name>Sanada Crimson: Suneate</name>
+</item>
+<item>
+<id>B0FD0000B0FD0000</id>
+<name>Warlord Armor (H): Kabuto</name>
+</item>
+<item>
+<id>1009000010090000</id>
+<name>Warlord Armor (H): Do</name>
+</item>
+<item>
+<id>637E0000637E0000</id>
+<name>Warlord Armor (H): Kote</name>
+</item>
+<item>
+<id>DBC80000DBC80000</id>
+<name>Warlord Armor (H): Hizayoroi</name>
+</item>
+<item>
+<id>5699000056990000</id>
+<name>Warlord Armor (H): Suneate</name>
+</item>
+<item>
+<id>1808000018080000</id>
+<name>Unusual Armor (H): Mengu</name>
+</item>
+<item>
+<id>E44B0000E44B0000</id>
+<name>Unusual Armor (H): Do</name>
+</item>
+<item>
+<id>D0400000D0400000</id>
+<name>Unusual Armor (H): Kote</name>
+</item>
+<item>
+<id>B7D00000B7D00000</id>
+<name>Unusual Armor (H): Hizayoroi</name>
+</item>
+<item>
+<id>94C4000094C40000</id>
+<name>Unusual Armor (H): Suneate</name>
+</item>
+<item>
+<id>B42D0000B42D0000</id>
+<name>Rogue Armor (H): Kabuto</name>
+</item>
+<item>
+<id>B0940000B0940000</id>
+<name>Rogue Armor (H): Do</name>
+</item>
+<item>
+<id>1B2900001B290000</id>
+<name>Rogue Armor (H): Kote</name>
+</item>
+<item>
+<id>75FF000075FF0000</id>
+<name>Rogue Armor (H): Hizayoroi</name>
+</item>
+<item>
+<id>6BF100006BF10000</id>
+<name>Rogue Armor (H): Suneate</name>
+</item>
+<item>
+<id>D7040000D7040000</id>
+<name>Tatenashi: Kabuto</name>
+</item>
+<item>
+<id>E86C0000E86C0000</id>
+<name>Tatenashi: Do</name>
+</item>
+<item>
+<id>DCA70000DCA70000</id>
+<name>Tatenashi: Kote</name>
+</item>
+<item>
+<id>E70C0000E70C0000</id>
+<name>Tatenashi: Hizayoroi</name>
+</item>
+<item>
+<id>3C4C00003C4C0000</id>
+<name>Tatenashi: Suneate</name>
+</item>
+<item>
+<id>0421000004210000</id>
+<name>Genji Armor (H): Kabuto</name>
+</item>
+<item>
+<id>2CF100002CF10000</id>
+<name>Genji Armor (H): Do</name>
+</item>
+<item>
+<id>2340000023400000</id>
+<name>Genji Armor (H): Kote</name>
+</item>
+<item>
+<id>71C4000071C40000</id>
+<name>Genji Armor (H): Hizayoroi</name>
+</item>
+<item>
+<id>5AD400005AD40000</id>
+<name>Genji Armor (H): Suneate</name>
+</item>
+<item>
+<id>B0FE0000B0FE0000</id>
+<name>Karakawa Armor: Kabuto</name>
+</item>
+<item>
+<id>E5270000E5270000</id>
+<name>Karakawa Armor: Do</name>
+</item>
+<item>
+<id>5D1C00005D1C0000</id>
+<name>Karakawa Armor: Kote</name>
+</item>
+<item>
+<id>ABDF0000ABDF0000</id>
+<name>Karakawa Armor: Hizayoroi</name>
+</item>
+<item>
+<id>0BE300000BE30000</id>
+<name>Karakawa Armor: Suneate</name>
+</item>
+<item>
+<id>9509000095090000</id>
+<name>Heike Armor (H): Kabuto</name>
+</item>
+<item>
+<id>51CB000051CB0000</id>
+<name>Heike Armor (H): Do</name>
+</item>
+<item>
+<id>7116000071160000</id>
+<name>Heike Armor (H): Kote</name>
+</item>
+<item>
+<id>A4B30000A4B30000</id>
+<name>Heike Armor (H): Hizayoroi</name>
+</item>
+<item>
+<id>B1D00000B1D00000</id>
+<name>Heike Armor (H): Suneate</name>
+</item>
+<item>
+<id>CB4A0000CB4A0000</id>
+<name>Kaido Armor (H): Hachimaki</name>
+</item>
+<item>
+<id>0059000000590000</id>
+<name>Kaido Armor (H): Do</name>
+</item>
+<item>
+<id>64E9000064E90000</id>
+<name>Kaido Armor (H): Kote</name>
+</item>
+<item>
+<id>B7760000B7760000</id>
+<name>Kaido Armor (H): Hizayoroi</name>
+</item>
+<item>
+<id>DEC20000DEC20000</id>
+<name>Kaido Armor (H): Suneate</name>
+</item>
+<item>
+<id>4DF200004DF20000</id>
+<name>Four Great Commanders (H): Kabuto</name>
+</item>
+<item>
+<id>DE570000DE570000</id>
+<name>Four Great Commanders (H): Do</name>
+</item>
+<item>
+<id>CCBB0000CCBB0000</id>
+<name>Four Great Commanders (H): Kote</name>
+</item>
+<item>
+<id>9C8200009C820000</id>
+<name>Four Great Commanders (H): Hizayoroi</name>
+</item>
+<item>
+<id>1846000018460000</id>
+<name>Four Great Commanders (H): Suneate</name>
+</item>
+<item>
+<id>42E4000042E40000</id>
+<name>Guard Armor (H): Kabuto</name>
+</item>
+<item>
+<id>B3BF0000B3BF0000</id>
+<name>Guard Armor (H): Do</name>
+</item>
+<item>
+<id>EDBA0000EDBA0000</id>
+<name>Guard Armor (H): Kote</name>
+</item>
+<item>
+<id>E6100000E6100000</id>
+<name>Guard Armor (H): Hizayoroi</name>
+</item>
+<item>
+<id>9268000092680000</id>
+<name>Guard Armor (H): Suneate</name>
+</item>
+<item>
+<id>47C5000047C50000</id>
+<name>Obsidian Armor (H): Kabuto</name>
+</item>
+<item>
+<id>5133000051330000</id>
+<name>Obsidian Armor (H): Do</name>
+</item>
+<item>
+<id>BA4C0000BA4C0000</id>
+<name>Obsidian Armor (H): Kote</name>
+</item>
+<item>
+<id>9806000098060000</id>
+<name>Obsidian Armor (H): Hizayoroi</name>
+</item>
+<item>
+<id>C2360000C2360000</id>
+<name>Obsidian Armor (H): Suneate</name>
+</item>
+<item>
+<id>7333000073330000</id>
+<name>Hero\'s Armor (H): Kabuto</name>
+</item>
+<item>
+<id>E0BD0000E0BD0000</id>
+<name>Hero\'s Armor (H): Do</name>
+</item>
+<item>
+<id>08CE000008CE0000</id>
+<name>Hero\'s Armor (H): Kote</name>
+</item>
+<item>
+<id>993E0000993E0000</id>
+<name>Hero\'s Armor (H): Hizayoroi</name>
+</item>
+<item>
+<id>15FA000015FA0000</id>
+<name>Hero\'s Armor (H): Suneate</name>
+</item>
+<item>
+<id>D6E00000D6E00000</id>
+<name>Warrior Armor (H): Kabuto</name>
+</item>
+<item>
+<id>A2AD0000A2AD0000</id>
+<name>Warrior Armor (H): Do</name>
+</item>
+<item>
+<id>29E6000029E60000</id>
+<name>Warrior Armor (H): Kote</name>
+</item>
+<item>
+<id>ECCF0000ECCF0000</id>
+<name>Warrior Armor (H): Hizayoroi</name>
+</item>
+<item>
+<id>8208000082080000</id>
+<name>Warrior Armor (H): Suneate</name>
+</item>
+<item>
+<id>D36D0000D36D0000</id>
+<name>Greater Good: Kabuto</name>
+</item>
+<item>
+<id>5941000059410000</id>
+<name>Greater Good: Do</name>
+</item>
+<item>
+<id>082C0000082C0000</id>
+<name>Greater Good: Kote</name>
+</item>
+<item>
+<id>64EC000064EC0000</id>
+<name>Greater Good: Hizayoroi</name>
+</item>
+<item>
+<id>AA190000AA190000</id>
+<name>Greater Good: Suneate</name>
+</item>
+<item>
+<id>8176000081760000</id>
+<name>Warrior of the East: Kabuto</name>
+</item>
+<item>
+<id>CC220000CC220000</id>
+<name>Warrior of the East: Do</name>
+</item>
+<item>
+<id>3C8500003C850000</id>
+<name>Warrior of the East: Kote</name>
+</item>
+<item>
+<id>1C1800001C180000</id>
+<name>Warrior of the East: Hizayoroi</name>
+</item>
+<item>
+<id>BD600000BD600000</id>
+<name>Warrior of the East: Suneate</name>
+</item>
+<item>
+<id>52F3000052F30000</id>
+<name>Armor of the Exceptional: Kabuto</name>
+</item>
+<item>
+<id>5EA500005EA50000</id>
+<name>Armor of the Exceptional: Do</name>
+</item>
+<item>
+<id>7341000073410000</id>
+<name>Armor of the Exceptional: Kote</name>
+</item>
+<item>
+<id>3087000030870000</id>
+<name>Armor of the Exceptional: Hizayoroi</name>
+</item>
+<item>
+<id>3ED800003ED80000</id>
+<name>Armor of the Exceptional: Suneate</name>
+</item>
+<item>
+<id>C52D0000C52D0000</id>
+<name>The Raging Bull: Kabuto</name>
+</item>
+<item>
+<id>4043000040430000</id>
+<name>The Raging Bull: Do</name>
+</item>
+<item>
+<id>4BF100004BF10000</id>
+<name>The Raging Bull: Kote</name>
+</item>
+<item>
+<id>1B8B00001B8B0000</id>
+<name>The Raging Bull: Hizayoroi</name>
+</item>
+<item>
+<id>5481000054810000</id>
+<name>The Raging Bull: Suneate</name>
+</item>
+<item>
+<id>4044000040440000</id>
+<name>Master Swordsman\'s Armor (H): Kan</name>
+</item>
+<item>
+<id>F53A0000F53A0000</id>
+<name>Master Swordsman\'s Armor (H): Do</name>
+</item>
+<item>
+<id>CC080000CC080000</id>
+<name>Master Swordsman\'s Armor (H): Kote</name>
+</item>
+<item>
+<id>9139000091390000</id>
+<name>Master Swordsman\'s Armor (H): Hizayoroi</name>
+</item>
+<item>
+<id>64C8000064C80000</id>
+<name>Master Swordsman\'s Armor (H): Suneate</name>
+</item>
+<item>
+<id>C7E70000C7E70000</id>
+<name>Brave General (H): Kabuto</name>
+</item>
+<item>
+<id>4895000048950000</id>
+<name>Brave General (H): Do</name>
+</item>
+<item>
+<id>F5190000F5190000</id>
+<name>Brave General (H): Kote</name>
+</item>
+<item>
+<id>15D5000015D50000</id>
+<name>Brave General (H): Hizayoroi</name>
+</item>
+<item>
+<id>3EF800003EF80000</id>
+<name>Brave General (H): Suneate</name>
+</item>
+<item>
+<id>F7AC0000F7AC0000</id>
+<name>Great Helm</name>
+</item>
+<item>
+<id>93EA000093EA0000</id>
+<name>Breastplate</name>
+</item>
+<item>
+<id>855B0000855B0000</id>
+<name>Gauntlets</name>
+</item>
+<item>
+<id>78BB000078BB0000</id>
+<name>Cuisses</name>
+</item>
+<item>
+<id>9BF300009BF30000</id>
+<name>Greaves</name>
+</item>
+<item>
+<id>85C5000085C50000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>94F1000094F10000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>5B3400005B340000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>7EC700007EC70000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>1EEC00001EEC0000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>B6F70000B6F70000</id>
+<name>Gold Nioh Armor: Kabuto</name>
+</item>
+<item>
+<id>DC260000DC260000</id>
+<name>Gold Nioh Armor: Do</name>
+</item>
+<item>
+<id>2E8A00002E8A0000</id>
+<name>Gold Nioh Armor: Kote</name>
+</item>
+<item>
+<id>FD2A0000FD2A0000</id>
+<name>Gold Nioh Armor: Hizayoroi</name>
+</item>
+<item>
+<id>FD010000FD010000</id>
+<name>Gold Nioh Armor: Suneate</name>
+</item>
+<item>
+<id>8C0100008C010000</id>
+<name>Unrivaled Warrior\'s Armor: Kabuto</name>
+</item>
+<item>
+<id>3C9000003C900000</id>
+<name>Unrivaled Warrior\'s Armor: Do</name>
+</item>
+<item>
+<id>63D1000063D10000</id>
+<name>Unrivaled Warrior\'s Armor: Kote</name>
+</item>
+<item>
+<id>7335000073350000</id>
+<name>Unrivaled Warrior\'s Armor: Hizayoroi</name>
+</item>
+<item>
+<id>CFC20000CFC20000</id>
+<name>Unrivaled Warrior\'s Armor: Suneate</name>
+</item>
+<item>
+<id>785E0000785E0000</id>
+<name>Rikishi Unit\'s Armor (H): Kabuto</name>
+</item>
+<item>
+<id>E26F0000E26F0000</id>
+<name>Rikishi Unit\'s Armor (H): Do</name>
+</item>
+<item>
+<id>E57E0000E57E0000</id>
+<name>Rikishi Unit\'s Armor (H): Kote</name>
+</item>
+<item>
+<id>E9B70000E9B70000</id>
+<name>Rikishi Unit\'s Armor (H): Hizayoroi</name>
+</item>
+<item>
+<id>814A0000814A0000</id>
+<name>Rikishi Unit\'s Armor (H): Suneate</name>
+</item>
+<item>
+<id>DC890000DC890000</id>
+<name>Hiraishi Armor: Kabuto</name>
+</item>
+<item>
+<id>B1D60000B1D60000</id>
+<name>Hiraishi Armor: Do</name>
+</item>
+<item>
+<id>E6FE0000E6FE0000</id>
+<name>Hiraishi Armor: Kote</name>
+</item>
+<item>
+<id>AAC90000AAC90000</id>
+<name>Hiraishi Armor: Hizayoroi</name>
+</item>
+<item>
+<id>414F0000414F0000</id>
+<name>Hiraishi Armor: Suneate</name>
+</item>
+<item>
+<id>A0D70000A0D70000</id>
+<name>Armor of the Rising Sun: Kabuto</name>
+</item>
+<item>
+<id>6566000065660000</id>
+<name>Armor of the Rising Sun: Do</name>
+</item>
+<item>
+<id>D2400000D2400000</id>
+<name>Armor of the Rising Sun: Kote</name>
+</item>
+<item>
+<id>1922000019220000</id>
+<name>Armor of the Rising Sun: Hizayoroi</name>
+</item>
+<item>
+<id>DE1C0000DE1C0000</id>
+<name>Armor of the Rising Sun: Suneate</name>
+</item>
+<item>
+<id>E0800000E0800000</id>
+<name>Child of the Sun\'s Armor: Kabuto</name>
+</item>
+<item>
+<id>91C7000091C70000</id>
+<name>Child of the Sun\'s Armor: Do</name>
+</item>
+<item>
+<id>AE4A0000AE4A0000</id>
+<name>Child of the Sun\'s Armor: Kote</name>
+</item>
+<item>
+<id>CCAB0000CCAB0000</id>
+<name>Child of the Sun\'s Armor: Hizayoroi</name>
+</item>
+<item>
+<id>59F9000059F90000</id>
+<name>Child of the Sun\'s Armor: Suneate</name>
+</item>
+<item>
+<id>70C4000070C40000</id>
+<name>IE_H_6001_CAP</name>
+</item>
+<item>
+<id>042E0000042E0000</id>
+<name>IE_H_6001_LEG</name>
+</item>
+<item>
+<id>2624000026240000</id>
+<name>IE_H_6004_CHEST</name>
+</item>
+<item>
+<id>F1190000F1190000</id>
+<name>IE_H_6004_LEG</name>
+</item>
+<item>
+<id>0560000005600000</id>
+<name>IE_H_6006_CAP</name>
+</item>
+<item>
+<id>4507000045070000</id>
+<name>IE_H_6008_CHEST</name>
+</item>
+<item>
+<id>E9D40000E9D40000</id>
+<name>IE_H_6017_CHEST</name>
+</item>
+<item>
+<id>9B9100009B910000</id>
+<name>IE_H_6017_LEG</name>
+</item>
+<item>
+<id>DC990000DC990000</id>
+<name>IE_H_6501_ARM</name>
+</item>
+<item>
+<id>5FB600005FB60000</id>
+<name>IE_H_6501_FOOT</name>
+</item>
+<item>
+<id>D84E0000D84E0000</id>
+<name>Horned Turban Kabuto</name>
+</item>
+<item>
+<id>1880000018800000</id>
+<name>Scorpionfish Kabuto</name>
+</item>
+<item>
+<id>4580000045800000</id>
+<name>Water Buffalo Horn Kabuto</name>
+</item>
+<item>
+<id>C13D0000C13D0000</id>
+<name>Eboshi Kabuto</name>
+</item>
+<item>
+<id>64BB000064BB0000</id>
+<name>Wakan Kabuto</name>
+</item>
+<item>
+<id>3250000032500000</id>
+<name>Tower Ushirodate Kabuto</name>
+</item>
+<item>
+<id>4ED800004ED80000</id>
+<name>Bear\'s Head Kabuto</name>
+</item>
+<item>
+<id>991C0000991C0000</id>
+<name>Running Water Maedate Kabuto</name>
+</item>
+<item>
+<id>BFA90000BFA90000</id>
+<name>Butterfly Kabuto</name>
+</item>
+<item>
+<id>BE240000BE240000</id>
+<name>Tokan Kabuto</name>
+</item>
+<item>
+<id>0FBC00000FBC0000</id>
+<name>Khakkara Ushirodate Kabuto</name>
+</item>
+<item>
+<id>5F8D00005F8D0000</id>
+<name>Elephant\'s Trunk Kabuto</name>
+</item>
+<item>
+<id>1943000019430000</id>
+<name>Gosu Kabuto</name>
+</item>
+<item>
+<id>52D5000052D50000</id>
+<name>Flashfire Kabuto</name>
+</item>
+<item>
+<id>6474000064740000</id>
+<name>Coiled Snake Kabuto</name>
+</item>
+<item>
+<id>9845000098450000</id>
+<name>Golden Shachi Zudate Kabuto</name>
+</item>
+<item>
+<id>4CB700004CB70000</id>
+<name>Cloud Dragon Kabuto</name>
+</item>
+<item>
+<id>17E2000017E20000</id>
+<name>Fan Maedate Kabuto</name>
+</item>
+<item>
+<id>6651000066510000</id>
+<name>Rabbit Ear Wakidachi Kabuto</name>
+</item>
+<item>
+<id>9DE400009DE40000</id>
+<name>Rabbit Ear Kabuto</name>
+</item>
+<item>
+<id>D4770000D4770000</id>
+<name>Old Sage Visor</name>
+</item>
+<item>
+<id>4A0700004A070000</id>
+<name>Female Demon Visor</name>
+</item>
+<item>
+<id>61EE000061EE0000</id>
+<name>Woman\'s Face Visor</name>
+</item>
+<item>
+<id>9328000093280000</id>
+<name>Tengu Visor</name>
+</item>
+<item>
+<id>0C9B00000C9B0000</id>
+<name>Demon God Visor</name>
+</item>
+<item>
+<id>2011000020110000</id>
+<name>Vengeful Spirit Visor</name>
+</item>
+<item>
+<id>34B6000034B60000</id>
+<name>Shuri-no-suke\'s Kabuto</name>
+</item>
+<item>
+<id>3B6100003B610000</id>
+<name>Koreto-hyuga\'s Kabuto</name>
+</item>
+<item>
+<id>D1800000D1800000</id>
+<name>Kame-wari Shibata\'s Kabuto</name>
+</item>
+<item>
+<id>4EF000004EF00000</id>
+<name>Bellflower Kabuto</name>
+</item>
+<item>
+<id>9EA600009EA60000</id>
+<name>Usurper\'s Kabuto</name>
+</item>
+<item>
+<id>1B2500001B250000</id>
+<name>Warrior Monk\'s Hood</name>
+</item>
+<item>
+<id>12B6000012B60000</id>
+<name>Shugo-daimyo\'s Eboshi</name>
+</item>
+<item>
+<id>250E0000250E0000</id>
+<name>Nue Mask</name>
+</item>
+<item>
+<id>D3540000D3540000</id>
+<name>Kodama Bowl</name>
+</item>
+<item>
+<id>AB440000AB440000</id>
+<name>Ogress Mask</name>
+</item>
+<item>
+<id>3B1900003B190000</id>
+<name>Rokuji-myogo Kabuto</name>
+</item>
+<item>
+<id>5EDF00005EDF0000</id>
+<name>Ichi-no-Tani Kabuto</name>
+</item>
+<item>
+<id>2631000026310000</id>
+<name>Braided Straw Kabuto</name>
+</item>
+<item>
+<id>B5FE0000B5FE0000</id>
+<name>Takezo\'s Headband</name>
+</item>
+<item>
+<id>983D0000983D0000</id>
+</item>
+<item>
+<id>CBB90000CBB90000</id>
+<name>X 0100 CAP</name>
+</item>
+<item>
+<id>430B0000430B0000</id>
+<name>X 0110 CAP</name>
+</item>
+<item>
+<id>9274000092740000</id>
+<name>X 0111 CAP</name>
+</item>
+<item>
+<id>1510000015100000</id>
+<name>X 0112 CAP</name>
+</item>
+<item>
+<id>F3E60000F3E60000</id>
+<name>X 0113 CAP</name>
+</item>
+<item>
+<id>ECD50000ECD50000</id>
+<name>X 0114 CAP</name>
+</item>
+<item>
+<id>565D0000565D0000</id>
+<name>X 0115 CAP</name>
+</item>
+<item>
+<id>8ABA00008ABA0000</id>
+<name>X 0116 CAP</name>
+</item>
+<item>
+<id>6913000069130000</id>
+<name>Onryoki Kabuto</name>
+</item>
+<item>
+<id>864E0000864E0000</id>
+<name>Hino-enma Kabuto</name>
+</item>
+<item>
+<id>143B0000143B0000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>758B0000758B0000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>4C4D00004C4D0000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>FBCC0000FBCC0000</id>
+<name>Ai-ji Maedate Kabuto</name>
+</item>
+<item>
+<id>1663000016630000</id>
+<name>Red Kappa Kabuto</name>
+</item>
+<item>
+<id>8798000087980000</id>
+<name>Suwahossho Kabuto</name>
+</item>
+<item>
+<id>4C8100004C810000</id>
+<name>Royal Horned Helm</name>
+</item>
+<item>
+<id>77DB000077DB0000</id>
+<name>Golden Sun Kabuto</name>
+</item>
+<item>
+<id>697F0000697F0000</id>
+<name>Ogosho\'s Hood</name>
+</item>
+<item>
+<id>10AC000010AC0000</id>
+<name>Frolicking Cats Kabuto</name>
+</item>
+<item>
+<id>0C9800000C980000</id>
+<name>Moon Charm Kabuto</name>
+</item>
+<item>
+<id>DCF00000DCF00000</id>
+<name>Dokisai\'s Kabuto</name>
+</item>
+<item>
+<id>4DB600004DB60000</id>
+<name>Black Fox Mask</name>
+</item>
+<item>
+<id>2D5F00002D5F0000</id>
+<name>White Fox Mask</name>
+</item>
+<item>
+<id>792A0000792A0000</id>
+<name>Dharmachakra Kabuto</name>
+</item>
+<item>
+<id>1C0100001C010000</id>
+<name>IE_X_6016_CAP</name>
+</item>
+<item>
+<id>B3410000B3410000</id>
+<name>IE_X_6030_CAP</name>
+</item>
+<item>
+<id>E31C0000E31C0000</id>
+<name>IE_X_6039_CAP</name>
+</item>
+<item>
+<id>982B0000982B0000</id>
+<name>Omamori Charm</name>
+</item>
+<item>
+<id>82FD000082FD0000</id>
+<name>Fire Omamori Charm</name>
+</item>
+<item>
+<id>B8F60000B8F60000</id>
+<name>Water Omamori Charm</name>
+</item>
+<item>
+<id>38ED000038ED0000</id>
+<name>Wind Omamori Charm</name>
+</item>
+<item>
+<id>6BD300006BD30000</id>
+<name>Lightning Omamori Charm</name>
+</item>
+<item>
+<id>E7730000E7730000</id>
+<name>Earth Omamori Charm</name>
+</item>
+<item>
+<id>A3890000A3890000</id>
+<name>Poison Omamori Charm</name>
+</item>
+<item>
+<id>4093000040930000</id>
+<name>Paralysis Omamori Charm</name>
+</item>
+<item>
+<id>D4920000D4920000</id>
+<name>Prayer Beads</name>
+</item>
+<item>
+<id>A8510000A8510000</id>
+<name>Prayer Beads</name>
+</item>
+<item>
+<id>EB0C0000EB0C0000</id>
+<name>Prayer Beads</name>
+</item>
+<item>
+<id>9F2300009F230000</id>
+<name>Omamori Charm</name>
+</item>
+<item>
+<id>6064000060640000</id>
+<name>Medicine Case</name>
+</item>
+<item>
+<id>5672000056720000</id>
+<name>Medicine Case</name>
+</item>
+<item>
+<id>E8FA0000E8FA0000</id>
+<name>Medicine Case</name>
+</item>
+<item>
+<id>6779000067790000</id>
+<name>Magatama</name>
+</item>
+<item>
+<id>1725000017250000</id>
+<name>Magatama</name>
+</item>
+<item>
+<id>5F5D00005F5D0000</id>
+<name>Magatama</name>
+</item>
+<item>
+<id>A7F20000A7F20000</id>
+<name>Fan</name>
+</item>
+<item>
+<id>B6A70000B6A70000</id>
+<name>Fan</name>
+</item>
+<item>
+<id>8542000085420000</id>
+<name>Fan</name>
+</item>
+<item>
+<id>6C8F00006C8F0000</id>
+<name>Omamori Charm</name>
+</item>
+<item>
+<id>4530000045300000</id>
+<name>Yasakani Magatama</name>
+</item>
+<item>
+<id>A8AA0000A8AA0000</id>
+<name>Yata Mirror</name>
+</item>
+<item>
+<id>E7050000E7050000</id>
+<name>Elixir</name>
+</item>
+<item>
+<id>8DD500008DD50000</id>
+<name>Medicine</name>
+</item>
+<item>
+<id>6BA700006BA70000</id>
+<name>Spectral Salve</name>
+</item>
+<item>
+<id>CC870000CC870000</id>
+<name>Shingiku Medicine</name>
+</item>
+<item>
+<id>24D6000024D60000</id>
+<name>Antidote</name>
+</item>
+<item>
+<id>C9330000C9330000</id>
+<name>Anti-toxin Pill</name>
+</item>
+<item>
+<id>810B0000810B0000</id>
+<name>Antiparalytic Needle</name>
+</item>
+<item>
+<id>2142000021420000</id>
+<name>Fragrant Wood</name>
+</item>
+<item>
+<id>A6B40000A6B40000</id>
+<name>Shikin-gan Pill</name>
+</item>
+<item>
+<id>E6570000E6570000</id>
+<name>Daion-jin\'s Sake</name>
+</item>
+<item>
+<id>0545000005450000</id>
+<name>Sacred Ash</name>
+</item>
+<item>
+<id>1D0A00001D0A0000</id>
+<name>Young Samurai\'s Locks</name>
+</item>
+<item>
+<id>D5FB0000D5FB0000</id>
+<name>Master Samurai\'s Locks</name>
+</item>
+<item>
+<id>9CBA00009CBA0000</id>
+<name>Famed Samurai\'s Locks</name>
+</item>
+<item>
+<id>AD0B0000AD0B0000</id>
+<name>Young Ninja\'s Locks</name>
+</item>
+<item>
+<id>4F2600004F260000</id>
+<name>Master Ninja\'s Locks</name>
+</item>
+<item>
+<id>8B8400008B840000</id>
+<name>Famed Ninja\'s Locks</name>
+</item>
+<item>
+<id>06F0000006F00000</id>
+<name>Young Onmyo Mage\'s Locks</name>
+</item>
+<item>
+<id>849F0000849F0000</id>
+<name>Master Onmyo Mage\'s Locks</name>
+</item>
+<item>
+<id>17C5000017C50000</id>
+<name>Famed Onmyo Mage\'s Locks</name>
+</item>
+<item>
+<id>BAA40000BAA40000</id>
+<name>Small Spirit Stone</name>
+</item>
+<item>
+<id>2314000023140000</id>
+<name>Spirit Stone</name>
+</item>
+<item>
+<id>97E0000097E00000</id>
+<name>Large Spirit Stone</name>
+</item>
+<item>
+<id>9A3B00009A3B0000</id>
+<name>Small Soulstone</name>
+</item>
+<item>
+<id>1335000013350000</id>
+<name>Soulstone</name>
+</item>
+<item>
+<id>B81B0000B81B0000</id>
+<name>Large Soulstone</name>
+</item>
+<item>
+<id>4BDE00004BDE0000</id>
+<name>Embercite Fragment</name>
+</item>
+<item>
+<id>0BF700000BF70000</id>
+<name>Embercite Shard</name>
+</item>
+<item>
+<id>6C8400006C840000</id>
+<name>Embercite Crystal</name>
+</item>
+<item>
+<id>9CC500009CC50000</id>
+<name>Mysticite Fragment</name>
+</item>
+<item>
+<id>65F6000065F60000</id>
+<name>Mysticite Shard</name>
+</item>
+<item>
+<id>9476000094760000</id>
+<name>Mysticite Crystal</name>
+</item>
+<item>
+<id>89EE000089EE0000</id>
+<name>Cruxidian Fragment</name>
+</item>
+<item>
+<id>840D0000840D0000</id>
+<name>Cruxidian Shard</name>
+</item>
+<item>
+<id>11CC000011CC0000</id>
+<name>Cruxidian Crystal</name>
+</item>
+<item>
+<id>7C2E00007C2E0000</id>
+<name>Deityte Fragment</name>
+</item>
+<item>
+<id>935C0000935C0000</id>
+<name>Deityte Shard</name>
+</item>
+<item>
+<id>EC420000EC420000</id>
+<name>Deityte Crystal</name>
+</item>
+<item>
+<id>F11E0000F11E0000</id>
+<name>Silabar Ingot</name>
+</item>
+<item>
+<id>4B9300004B930000</id>
+<name>Sandalwood Splinter</name>
+</item>
+<item>
+<id>BE9F0000BE9F0000</id>
+<name>Ranjatai Fragment</name>
+</item>
+<item>
+<id>2074000020740000</id>
+<name>Tortoiseshell Hairpin</name>
+</item>
+<item>
+<id>278F0000278F0000</id>
+<name>Whetstone</name>
+</item>
+<item>
+<id>6F9500006F950000</id>
+<name>Nikawa Glue</name>
+</item>
+<item>
+<id>B29D0000B29D0000</id>
+<name>Shinobi Box</name>
+</item>
+<item>
+<id>BEDD0000BEDD0000</id>
+<name>Sacred Brush</name>
+</item>
+<item>
+<id>A8BE0000A8BE0000</id>
+<name>Saisetsu-shin\'s Sake</name>
+</item>
+<item>
+<id>3241000032410000</id>
+<name>Uchiko Powder</name>
+</item>
+<item>
+<id>D0AF0000D0AF0000</id>
+<name>Sacred Water</name>
+</item>
+<item>
+<id>5F5500005F550000</id>
+<name>Visitor Charm</name>
+</item>
+<item>
+<id>CD870000CD870000</id>
+<name>Signpost Talisman</name>
+</item>
+<item>
+<id>8804000088040000</id>
+<name>Yokai Incense</name>
+</item>
+<item>
+<id>342F0000342F0000</id>
+<name>Moment Talisman</name>
+</item>
+<item>
+<id>107D0000107D0000</id>
+<name>Dung Ball</name>
+</item>
+<item>
+<id>7619000076190000</id>
+<name>Noble Dung Ball</name>
+</item>
+<item>
+<id>2DE200002DE20000</id>
+<name>Sticky Pot</name>
+</item>
+<item>
+<id>3B1E00003B1E0000</id>
+<name>Salt</name>
+</item>
+<item>
+<id>1757000017570000</id>
+<name>Yokai Water Pot</name>
+</item>
+<item>
+<id>D1C30000D1C30000</id>
+<name>Hyottoko Mask</name>
+</item>
+<item>
+<id>E3C00000E3C00000</id>
+<name>Inhabited Kodama Bowl</name>
+</item>
+<item>
+<id>72A3000072A30000</id>
+<name>Raven Tengu Tokko</name>
+</item>
+<item>
+<id>09B7000009B70000</id>
+<name>Burning Oil Jar</name>
+</item>
+<item>
+<id>BCAC0000BCAC0000</id>
+<name>Tengu\'s Fan</name>
+</item>
+<item>
+<id>6FFB00006FFB0000</id>
+<name>Arrowproof Amulet</name>
+</item>
+<item>
+<id>AD3F0000AD3F0000</id>
+<name>Amulet of Camaraderie</name>
+</item>
+<item>
+<id>691E0000691E0000</id>
+<name>Seimei Fire Talisman</name>
+</item>
+<item>
+<id>2503000025030000</id>
+<name>Seimei Water Talisman</name>
+</item>
+<item>
+<id>76FC000076FC0000</id>
+<name>Seimei Wind Talisman</name>
+</item>
+<item>
+<id>5489000054890000</id>
+<name>Seimei Lightning Talisman</name>
+</item>
+<item>
+<id>7527000075270000</id>
+<name>Seimei Earth Talisman</name>
+</item>
+<item>
+<id>BC6F0000BC6F0000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>285F0000285F0000</id>
+<name>Jewel of Life</name>
+</item>
+<item>
+<id>CEA70000CEA70000</id>
+<name>Soul Stone</name>
+</item>
+<item>
+<id>2F5000002F500000</id>
+<name>Mud Jar</name>
+</item>
+<item>
+<id>0939000009390000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>9C9C00009C9C0000</id>
+<name>Arrow</name>
+</item>
+<item>
+<id>E7450000E7450000</id>
+<name>Poison Arrow</name>
+</item>
+<item>
+<id>526B0000526B0000</id>
+<name>Numbing Arrow</name>
+</item>
+<item>
+<id>8447000084470000</id>
+<name>Hamaya Arrow</name>
+</item>
+<item>
+<id>77BD000077BD0000</id>
+<name>Rifle Ammunition</name>
+</item>
+<item>
+<id>625A0000625A0000</id>
+<name>Roaring-Gun Ammunition</name>
+</item>
+<item>
+<id>D56B0000D56B0000</id>
+<name>Hand Cannon Ammunition</name>
+</item>
+<item>
+<id>E8030000E8030000</id>
+<name>Explosive Rounds</name>
+</item>
+<item>
+<id>F8110000F8110000</id>
+<name>Stone</name>
+</item>
+<item>
+<id>7B0100007B010000</id>
+<name>Shuriken</name>
+</item>
+<item>
+<id>B8CA0000B8CA0000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>EABF0000EABF0000</id>
+<name>Poison Shuriken</name>
+</item>
+<item>
+<id>4B7E00004B7E0000</id>
+<name>Paralysis Shuriken</name>
+</item>
+<item>
+<id>80E1000080E10000</id>
+<name>Kunai</name>
+</item>
+<item>
+<id>A9C00000A9C00000</id>
+<name>Fire Shuriken</name>
+</item>
+<item>
+<id>C09F0000C09F0000</id>
+<name>Kayaku-dama</name>
+</item>
+<item>
+<id>0A7600000A760000</id>
+<name>Iga Style Kayaku-dama</name>
+</item>
+<item>
+<id>1AF700001AF70000</id>
+<name>Horoku-dama</name>
+</item>
+<item>
+<id>FF9D0000FF9D0000</id>
+<name>Iga Style Horoku-dama</name>
+</item>
+<item>
+<id>DB250000DB250000</id>
+<name>Iga Style Mega Horoku-dama</name>
+</item>
+<item>
+<id>F6220000F6220000</id>
+<name>Makibishi</name>
+</item>
+<item>
+<id>1E4D00001E4D0000</id>
+<name>Makibishi Ball</name>
+</item>
+<item>
+<id>402A0000402A0000</id>
+<name>Blister-Beetle Powder</name>
+</item>
+<item>
+<id>8783000087830000</id>
+<name>Medusa Powder</name>
+</item>
+<item>
+<id>8B0900008B090000</id>
+<name>Blinding Shell</name>
+</item>
+<item>
+<id>84D0000084D00000</id>
+<name>Smoke Ball</name>
+</item>
+<item>
+<id>DD5B0000DD5B0000</id>
+<name>H 0019 FOOT</name>
+</item>
+<item>
+<id>7B7800007B780000</id>
+<name>H 0019 FOOT</name>
+</item>
+<item>
+<id>BE820000BE820000</id>
+<name>Fire Talisman</name>
+</item>
+<item>
+<id>FE8C0000FE8C0000</id>
+<name>Fire Amulet</name>
+</item>
+<item>
+<id>5EF300005EF30000</id>
+<name>Water Talisman</name>
+</item>
+<item>
+<id>787D0000787D0000</id>
+<name>Water Amulet</name>
+</item>
+<item>
+<id>DEE20000DEE20000</id>
+<name>Wind Talisman</name>
+</item>
+<item>
+<id>5C8A00005C8A0000</id>
+<name>Wind Amulet</name>
+</item>
+<item>
+<id>CE7F0000CE7F0000</id>
+<name>Lightning Talisman</name>
+</item>
+<item>
+<id>B9F80000B9F80000</id>
+<name>Lightning Amulet</name>
+</item>
+<item>
+<id>05D7000005D70000</id>
+<name>Earth Talisman</name>
+</item>
+<item>
+<id>345E0000345E0000</id>
+<name>Earth Amulet</name>
+</item>
+<item>
+<id>8613000086130000</id>
+<name>Sloth Talisman</name>
+</item>
+<item>
+<id>BE770000BE770000</id>
+<name>Kekkai Talisman</name>
+</item>
+<item>
+<id>9392000093920000</id>
+</item>
+<item>
+<id>3B7F00003B7F0000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>7922000079220000</id>
+<name>Gallnut Broth</name>
+</item>
+<item>
+<id>9737000097370000</id>
+<name>Hemlock Broth</name>
+</item>
+<item>
+<id>ADBD0000ADBD0000</id>
+<name>Improvised Projectile Scroll</name>
+</item>
+<item>
+<id>2C4800002C480000</id>
+<name>Catwalking Scroll</name>
+</item>
+<item>
+<id>FD430000FD430000</id>
+<name>Tiger-running Scroll</name>
+</item>
+<item>
+<id>20EF000020EF0000</id>
+<name>Power Pill</name>
+</item>
+<item>
+<id>71C1000071C10000</id>
+<name>Groundfire</name>
+</item>
+<item>
+<id>9FBE00009FBE0000</id>
+<name>Quick-change Scroll</name>
+</item>
+<item>
+<id>F69A0000F69A0000</id>
+<name>Shadow-hider Scroll</name>
+</item>
+<item>
+<id>5DFA00005DFA0000</id>
+<name>Suppa Scroll</name>
+</item>
+<item>
+<id>C8AE0000C8AE0000</id>
+<name>Token-Throwing Scroll</name>
+</item>
+<item>
+<id>FB4C0000FB4C0000</id>
+<name>Kodama Transformation Scroll</name>
+</item>
+<item>
+<id>D7E20000D7E20000</id>
+<name>Storm Kunai</name>
+</item>
+<item>
+<id>DD590000DD590000</id>
+<name>Toxic Groundfire</name>
+</item>
+<item>
+<id>A8400000A8400000</id>
+<name>Paralytic Groundfire</name>
+</item>
+<item>
+<id>E6730000E6730000</id>
+<name>Noxious Groundfire</name>
+</item>
+<item>
+<id>CACA0000CACA0000</id>
+<name>Touch-me-not Scroll</name>
+</item>
+<item>
+<id>3FAE00003FAE0000</id>
+<name>Flame Dragon Scroll</name>
+</item>
+<item>
+<id>D3330000D3330000</id>
+<name>Retaliation Scroll</name>
+</item>
+<item>
+<id>8C6800008C680000</id>
+<name>Levitation Scroll</name>
+</item>
+<item>
+<id>09C2000009C20000</id>
+<name>Firestop Talisman</name>
+</item>
+<item>
+<id>6FAE00006FAE0000</id>
+<name>Waterstop Talisman</name>
+</item>
+<item>
+<id>CD560000CD560000</id>
+<name>Windstop Talisman</name>
+</item>
+<item>
+<id>7105000071050000</id>
+<name>Lightningstop Talisman</name>
+</item>
+<item>
+<id>FB320000FB320000</id>
+<name>Earthstop Talisman</name>
+</item>
+<item>
+<id>2D6E00002D6E0000</id>
+<name>Steel Talisman</name>
+</item>
+<item>
+<id>C5200000C5200000</id>
+<name>Resistance Talisman</name>
+</item>
+<item>
+<id>52CC000052CC0000</id>
+<name>Devigorate Talisman</name>
+</item>
+<item>
+<id>82AF000082AF0000</id>
+<name>Weakness Talisman</name>
+</item>
+<item>
+<id>A8C30000A8C30000</id>
+<name>Divination Talisman</name>
+</item>
+<item>
+<id>23FE000023FE0000</id>
+<name>Luckbringer Talisman</name>
+</item>
+<item>
+<id>A9D90000A9D90000</id>
+<name>Rejuvenation Talisman</name>
+</item>
+<item>
+<id>04D6000004D60000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>68A4000068A40000</id>
+<name>Protection Talisman</name>
+</item>
+<item>
+<id>0E9F00000E9F0000</id>
+<name>Oasis Talisman</name>
+</item>
+<item>
+<id>F06D0000F06D0000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>E9F40000E9F40000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>F1F40000F1F40000</id>
+<name>Guardian Spirit Talisman</name>
+</item>
+<item>
+<id>56E5000056E50000</id>
+<name>Pleiades Talisman</name>
+</item>
+<item>
+<id>D3320000D3320000</id>
+<name>Extraction Talisman</name>
+</item>
+<item>
+<id>061F0000061F0000</id>
+<name>Shadowround Talisman</name>
+</item>
+<item>
+<id>5B4D00005B4D0000</id>
+<name>Lifeseal Talisman</name>
+</item>
+<item>
+<id>7B9900007B990000</id>
+<name>Carnage Talisman</name>
+</item>
+<item>
+<id>581F0000581F0000</id>
+<name>Wealthbringer Talisman</name>
+</item>
+<item>
+<id>027F0000027F0000</id>
+<name>Shockwave Talisman</name>
+</item>
+<item>
+<id>75FC000075FC0000</id>
+<name>Soul Release Talisman</name>
+</item>
+<item>
+<id>F95D0000F95D0000</id>
+<name>Fistfighter Talisman</name>
+</item>
+<item>
+<id>237A0000237A0000</id>
+<name>Fire Shot</name>
+</item>
+<item>
+<id>970E0000970E0000</id>
+<name>Water Shot</name>
+</item>
+<item>
+<id>B3CB0000B3CB0000</id>
+<name>Wind Shot</name>
+</item>
+<item>
+<id>680F0000680F0000</id>
+<name>Lightning Shot</name>
+</item>
+<item>
+<id>6461000064610000</id>
+<name>Earth Shot</name>
+</item>
+<item>
+<id>4016000040160000</id>
+<name>Fire Talisman</name>
+</item>
+<item>
+<id>81F3000081F30000</id>
+<name>Water Talisman</name>
+</item>
+<item>
+<id>09A3000009A30000</id>
+<name>Wind Talisman</name>
+</item>
+<item>
+<id>CF2D0000CF2D0000</id>
+<name>Lightning Talisman</name>
+</item>
+<item>
+<id>2172000021720000</id>
+<name>Earth Talisman</name>
+</item>
+<item>
+<id>89E7000089E70000</id>
+<name>Sloth Talisman</name>
+</item>
+<item>
+<id>79EF000079EF0000</id>
+<name>Kekkai Talisman</name>
+</item>
+<item>
+<id>B10E0000B10E0000</id>
+</item>
+<item>
+<id>8CBC00008CBC0000</id>
+<name>Steel Talisman</name>
+</item>
+<item>
+<id>0681000006810000</id>
+<name>Devigorate Talisman</name>
+</item>
+<item>
+<id>BEF80000BEF80000</id>
+<name>Weakness Talisman</name>
+</item>
+<item>
+<id>19B2000019B20000</id>
+<name>Rejuvenation Talisman</name>
+</item>
+<item>
+<id>1BD400001BD40000</id>
+<name>Oasis Talisman</name>
+</item>
+<item>
+<id>2174000021740000</id>
+<name>Lifeseal Talisman</name>
+</item>
+<item>
+<id>0CB200000CB20000</id>
+<name>Carnage Talisman</name>
+</item>
+<item>
+<id>3D8A00003D8A0000</id>
+<name>Ki Burst Talisman</name>
+</item>
+<item>
+<id>D7B30000D7B30000</id>
+<name>Explosive Shot</name>
+</item>
+<item>
+<id>1BD600001BD60000</id>
+<name>Geyser Shot</name>
+</item>
+<item>
+<id>0466000004660000</id>
+<name>Gale Shot</name>
+</item>
+<item>
+<id>8238000082380000</id>
+<name>Thunderstorm Shot</name>
+</item>
+<item>
+<id>EACF0000EACF0000</id>
+<name>Groundquake Mine</name>
+</item>
+<item>
+<id>6C9200006C920000</id>
+<name>Hermit Talisman</name>
+</item>
+<item>
+<id>17B0000017B00000</id>
+<name>Leeching Talisman</name>
+</item>
+<item>
+<id>8CE900008CE90000</id>
+<name>Degeneration Talisman</name>
+</item>
+<item>
+<id>79B5000079B50000</id>
+<name>Reciprocity Talisman</name>
+</item>
+<item>
+<id>C2580000C2580000</id>
+<name>Purging Talisman</name>
+</item>
+<item>
+<id>E8CA0000E8CA0000</id>
+<name>Soul Purge Talisman</name>
+</item>
+<item>
+<id>B8510000B8510000</id>
+<name>Sanctity Talisman</name>
+</item>
+<item>
+<id>7CA300007CA30000</id>
+<name>Flying Sword Talisman</name>
+</item>
+<item>
+<id>F82B0000F82B0000</id>
+<name>Mind Control Talisman</name>
+</item>
+<item>
+<id>2E1100002E110000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>B9F60000B9F60000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>5ABD00005ABD0000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>C6720000C6720000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>0DE700000DE70000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>98BC000098BC0000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>62D4000062D40000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>8D7500008D750000</id>
+<name>Spirit Iron Fragment</name>
+</item>
+<item>
+<id>8CB200008CB20000</id>
+<name>Spirit Iron Chunk</name>
+</item>
+<item>
+<id>CFE60000CFE60000</id>
+<name>Divine Fragment</name>
+</item>
+<item>
+<id>1D6A00001D6A0000</id>
+<name>Anima Stone</name>
+</item>
+<item>
+<id>8821000088210000</id>
+<name>Umbracite</name>
+</item>
+<item>
+<id>EAFD0000EAFD0000</id>
+<name>Quality Umbracite</name>
+</item>
+<item>
+<id>F0DA0000F0DA0000</id>
+<name>Fabled Umbracite</name>
+</item>
+<item>
+<id>65D2000065D20000</id>
+<name>Divine Umbracite</name>
+</item>
+<item>
+<id>5607000056070000</id>
+<name>Tamahagane</name>
+</item>
+<item>
+<id>07C4000007C40000</id>
+<name>Quality Tamahagane</name>
+</item>
+<item>
+<id>6636000066360000</id>
+<name>High-Quality Tamahagane</name>
+</item>
+<item>
+<id>7295000072950000</id>
+<name>Highest Quality Tamahagane</name>
+</item>
+<item>
+<id>3F4600003F460000</id>
+<name>Wood</name>
+</item>
+<item>
+<id>BBF90000BBF90000</id>
+<name>Quality Wood</name>
+</item>
+<item>
+<id>67FD000067FD0000</id>
+<name>High-Quality Wood</name>
+</item>
+<item>
+<id>3747000037470000</id>
+<name>Highest Quality Wood</name>
+</item>
+<item>
+<id>6B1A00006B1A0000</id>
+<name>Ingot</name>
+</item>
+<item>
+<id>1653000016530000</id>
+<name>Quality Ingot</name>
+</item>
+<item>
+<id>9A4000009A400000</id>
+<name>High-Quality Ingot</name>
+</item>
+<item>
+<id>4821000048210000</id>
+<name>Highest Quality Ingot</name>
+</item>
+<item>
+<id>C5330000C5330000</id>
+<name>Lacquer</name>
+</item>
+<item>
+<id>BCCE0000BCCE0000</id>
+<name>Quality Lacquer</name>
+</item>
+<item>
+<id>F5B50000F5B50000</id>
+<name>High-Quality Lacquer</name>
+</item>
+<item>
+<id>5047000050470000</id>
+<name>Highest Quality Lacquer</name>
+</item>
+<item>
+<id>A26E0000A26E0000</id>
+<name>Leather Cord</name>
+</item>
+<item>
+<id>EB560000EB560000</id>
+<name>Quality Leather Cord</name>
+</item>
+<item>
+<id>2BB300002BB30000</id>
+<name>High-Quality Leather Cord</name>
+</item>
+<item>
+<id>ECCE0000ECCE0000</id>
+<name>Highest Quality Leather Cord</name>
+</item>
+<item>
+<id>9F9900009F990000</id>
+<name>Leather Kozane</name>
+</item>
+<item>
+<id>A3CF0000A3CF0000</id>
+<name>Quality Leather Kozane</name>
+</item>
+<item>
+<id>629B0000629B0000</id>
+<name>High-Quality Leather Kozane</name>
+</item>
+<item>
+<id>B15E0000B15E0000</id>
+<name>Highest Quality Leather Kozane</name>
+</item>
+<item>
+<id>9B5100009B510000</id>
+<name>Iron Kozane</name>
+</item>
+<item>
+<id>A0B20000A0B20000</id>
+<name>Quality Iron Kozane</name>
+</item>
+<item>
+<id>1B1200001B120000</id>
+<name>High Quality Iron Kozane</name>
+</item>
+<item>
+<id>FDDB0000FDDB0000</id>
+<name>Highest Quality Iron Kozane</name>
+</item>
+<item>
+<id>B49B0000B49B0000</id>
+<name>Demon\'s Horn</name>
+</item>
+<item>
+<id>A6A80000A6A80000</id>
+<name>Hank of Yokai Hair</name>
+</item>
+<item>
+<id>3BEC00003BEC0000</id>
+<name>Kappa Shell</name>
+</item>
+<item>
+<id>9C4700009C470000</id>
+<name>Writhing Tongue</name>
+</item>
+<item>
+<id>3BBE00003BBE0000</id>
+<name>Bangasa Rib</name>
+</item>
+<item>
+<id>064D0000064D0000</id>
+<name>Raven Tengu Feather</name>
+</item>
+<item>
+<id>86E5000086E50000</id>
+<name>Nue\'s Claw</name>
+</item>
+<item>
+<id>8DE300008DE30000</id>
+<name>Great Centipede\'s Fang</name>
+</item>
+<item>
+<id>7D3600007D360000</id>
+<name>Spider\'s Leg Husk</name>
+</item>
+<item>
+<id>2439000024390000</id>
+<name>Umi-bozu\'s Eyestone</name>
+</item>
+<item>
+<id>7208000072080000</id>
+<name>White Tiger Fur</name>
+</item>
+<item>
+<id>8A5D00008A5D0000</id>
+<name>Ogress\'s Claw</name>
+</item>
+<item>
+<id>B2650000B2650000</id>
+<name>Gargantuan Tail Bone</name>
+</item>
+<item>
+<id>9DB300009DB30000</id>
+<name>Orochi Scale</name>
+</item>
+<item>
+<id>6EA300006EA30000</id>
+<name>Namahage Horn</name>
+</item>
+<item>
+<id>A6000000A6000000</id>
+<name>Slender Vertebra</name>
+</item>
+<item>
+<id>AC7D0000AC7D0000</id>
+<name>Red Kappa Shell</name>
+</item>
+<item>
+<id>FB380000FB380000</id>
+<name>Centipede Carapace</name>
+</item>
+<item>
+<id>A08E0000A08E0000</id>
+<name>Bloodstained Blade Scraps</name>
+</item>
+<item>
+<id>66A2000066A20000</id>
+<name>Fox Spirit\'s Pelt</name>
+</item>
+<item>
+<id>CB0D0000CB0D0000</id>
+<name>Fox Spirit\'s Tail</name>
+</item>
+<item>
+<id>ECB40000ECB40000</id>
+<name>Demon Bird\'s Beak</name>
+</item>
+<item>
+<id>EB660000EB660000</id>
+<name>Spirit Stone Arm</name>
+</item>
+<item>
+<id>C3FB0000C3FB0000</id>
+<name>Droplet of Decay</name>
+</item>
+<item>
+<id>161B0000161B0000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>02D4000002D40000</id>
+<name>Dungeon Key</name>
+</item>
+<item>
+<id>AFE60000AFE60000</id>
+<name>KEY TO RESIDENCE</name>
+</item>
+<item>
+<id>06A4000006A40000</id>
+<name>BOSS\'S ROOM KEY</name>
+</item>
+<item>
+<id>A3A60000A3A60000</id>
+<name>EAST GATE KEY</name>
+</item>
+<item>
+<id>7984000079840000</id>
+<name>Central Mine Key</name>
+</item>
+<item>
+<id>FD6D0000FD6D0000</id>
+<name>Key to the Teahouse Garden</name>
+</item>
+<item>
+<id>4531000045310000</id>
+<name>Key to the Castle Gates</name>
+</item>
+<item>
+<id>F3870000F3870000</id>
+<name>Onmyo Grotto Key</name>
+</item>
+<item>
+<id>6CDA00006CDA0000</id>
+<name>Ruins Key</name>
+</item>
+<item>
+<id>9124000091240000</id>
+<name>Hiragumo Fragment I</name>
+</item>
+<item>
+<id>8CD400008CD40000</id>
+<name>Hiragumo Fragment II</name>
+</item>
+<item>
+<id>ECDB0000ECDB0000</id>
+<name>Hiragumo Fragment III</name>
+</item>
+<item>
+<id>F3EE0000F3EE0000</id>
+<name>Hiragumo Fragment IV</name>
+</item>
+<item>
+<id>53EA000053EA0000</id>
+<name>Hiragumo Fragment V</name>
+</item>
+<item>
+<id>D64A0000D64A0000</id>
+<name>Hiragumo Fragment VI</name>
+</item>
+<item>
+<id>17ED000017ED0000</id>
+<name>Hiragumo Fragment VII</name>
+</item>
+<item>
+<id>BE180000BE180000</id>
+<name>Seiryuji Temple Key</name>
+</item>
+<item>
+<id>B4270000B4270000</id>
+<name>Storehouse Key</name>
+</item>
+<item>
+<id>0C6800000C680000</id>
+<name>Soul-Soothing Comb</name>
+</item>
+<item>
+<id>A51A0000A51A0000</id>
+<name>Twin Fox Orb</name>
+</item>
+<item>
+<id>E1170000E1170000</id>
+<name>Gaoler\'s Keychain</name>
+</item>
+<item>
+<id>8123000081230000</id>
+<name>Alchemist\'s Laboratory Key</name>
+</item>
+<item>
+<id>B3250000B3250000</id>
+<name>Back Room Key</name>
+</item>
+<item>
+<id>53A9000053A90000</id>
+<name>Dragon Insignia Key</name>
+</item>
+<item>
+<id>C1A90000C1A90000</id>
+<name>Gate Tower Key</name>
+</item>
+<item>
+<id>D2D70000D2D70000</id>
+<name>Fortress Keychain</name>
+</item>
+<item>
+<id>FFF90000FFF90000</id>
+<name>Mountain Fort Key</name>
+</item>
+<item>
+<id>F3830000F3830000</id>
+<name>Audience Hall Key</name>
+</item>
+<item>
+<id>0C0600000C060000</id>
+<name>Wood Tile: "I"</name>
+</item>
+<item>
+<id>6DC900006DC90000</id>
+<name>Wood Tile: "Ro"</name>
+</item>
+<item>
+<id>9941000099410000</id>
+<name>Wood Tile: "Ha"</name>
+</item>
+<item>
+<id>C1860000C1860000</id>
+<name>Wood Tiles: "I" - "Ro" - "Ha"</name>
+</item>
+<item>
+<id>A1080000A1080000</id>
+<name>Old Charm</name>
+</item>
+<item>
+<id>766C0000766C0000</id>
+<name>Joganseiyo</name>
+</item>
+<item>
+<id>7A5800007A580000</id>
+<name>Atagi Sadamune</name>
+</item>
+<item>
+<id>82E2000082E20000</id>
+<name>Ranjatai Fragment</name>
+</item>
+<item>
+<id>F94C0000F94C0000</id>
+<name>Sandalwood Splinter</name>
+</item>
+<item>
+<id>18A9000018A90000</id>
+<name>Flint</name>
+</item>
+<item>
+<id>6494000064940000</id>
+<name>Giant Cannonball</name>
+</item>
+<item>
+<id>D76A0000D76A0000</id>
+<name>The Gilded Nioh</name>
+</item>
+<item>
+<id>746E0000746E0000</id>
+<name>The Battle at Sanada Maru</name>
+</item>
+<item>
+<id>8358000083580000</id>
+<name>Demonblood Pellet</name>
+</item>
+<item>
+<id>A8F20000A8F20000</id>
+<name>Chaki</name>
+</item>
+<item>
+<id>DFF50000DFF50000</id>
+<name>Furiwakegami Hiromitsu</name>
+</item>
+<item>
+<id>5507000055070000</id>
+<name>Kagatsuchi\'s Magatama</name>
+</item>
+<item>
+<id>0782000007820000</id>
+<name>Summoner\'s Candle</name>
+</item>
+<item>
+<id>4B5600004B560000</id>
+<name>Bell of Invocation</name>
+</item>
+<item>
+<id>09D9000009D90000</id>
+<name>Book of Reincarnation</name>
+</item>
+<item>
+<id>367E0000367E0000</id>
+<name>Koan Manual</name>
+</item>
+<item>
+<id>C2C30000C2C30000</id>
+<name>Ochoko</name>
+</item>
+<item>
+<id>4756000047560000</id>
+<name>Cracked Ochoko Cup</name>
+</item>
+<item>
+<id>CC740000CC740000</id>
+<name>White Ochoko Cup</name>
+</item>
+<item>
+<id>101E0000101E0000</id>
+<name>Hora-gai Shell</name>
+</item>
+<item>
+<id>8EF900008EF90000</id>
+<name>Sacred Salt</name>
+</item>
+<item>
+<id>A1850000A1850000</id>
+<name>Harakiri Sword</name>
+</item>
+<item>
+<id>74F7000074F70000</id>
+<name>Earthfolding Talisman</name>
+</item>
+<item>
+<id>EFCB0000EFCB0000</id>
+<name>Travel Amulet</name>
+</item>
+<item>
+<id>1718000017180000</id>
+<name>Himorogi Fragment</name>
+</item>
+<item>
+<id>0AB700000AB70000</id>
+<name>Himorogi Branch</name>
+</item>
+<item>
+<id>8D2100008D210000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>A6890000A6890000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>C4B80000C4B80000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>8D6400008D640000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>D1650000D1650000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>9644000096440000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>B2300000B2300000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>5043000050430000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>AD360000AD360000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>D1CA0000D1CA0000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>3DF300003DF30000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>B03A0000B03A0000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>89D2000089D20000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>CFB00000CFB00000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>F7530000F7530000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>1821000018210000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>8046000080460000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>0C2000000C200000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>F8E50000F8E50000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>290C0000290C0000</id>
+<name>Unnamed Item</name>
+</item>
+<item>
+<id>1D1700001D170000</id>
+<name>The Art of Combat: Flame Dragon</name>
+</item>
+<item>
+<id>960B0000960B0000</id>
+<name>The Art of Combat: Izuna Drop</name>
+</item>
+<item>
+<id>EF860000EF860000</id>
+<name>Smithing Text: Oninamida Muramasa</name>
+</item>
+<item>
+<id>595D0000595D0000</id>
+<name>Smithing Text: Raikiri</name>
+</item>
+<item>
+<id>D0310000D0310000</id>
+<name>Smithing Text: Sohaya Tsurugi</name>
+</item>
+<item>
+<id>AC1D0000AC1D0000</id>
+<name>Smithing Text: Hikoemon Ichimonji</name>
+</item>
+<item>
+<id>83CE000083CE0000</id>
+<name>Smithing Text: Atagi Sadamune</name>
+</item>
+<item>
+<id>524E0000524E0000</id>
+<name>Smithing Text: Heshikiri Hasebe</name>
+</item>
+<item>
+<id>7847000078470000</id>
+<name>Smithing Text: Furiwakegami Hiromitsu</name>
+</item>
+<item>
+<id>F0620000F0620000</id>
+<name>Smithing Text: Nami-oyogi Kanemitsu</name>
+</item>
+<item>
+<id>AEAB0000AEAB0000</id>
+<name>Smithing Text: Haccho Nenbutsu</name>
+</item>
+<item>
+<id>99EF000099EF0000</id>
+<name>Smithing Text: Hoshi-kiri Tachi</name>
+</item>
+<item>
+<id>D5F80000D5F80000</id>
+<name>Smithing Text: Sozasa Monji</name>
+</item>
+<item>
+<id>D1CD0000D1CD0000</id>
+<name>Smithing Text: Fudo Kuniyuki &amp;amp; Yagen Toshiro</name>
+</item>
+<item>
+<id>022D0000022D0000</id>
+<name>Smithing Text: Tsuruga Masamune &amp;amp; Hocho Toshiro</name>
+</item>
+<item>
+<id>B6650000B6650000</id>
+<name>Smithing Text: Tombo-Kiri</name>
+</item>
+<item>
+<id>4BE900004BE90000</id>
+<name>Smithing Text: Akaoni-no-Sankaku Spear</name>
+</item>
+<item>
+<id>D8440000D8440000</id>
+<name>Smithing Text: Ikkoku Nagayoshi Spear</name>
+</item>
+<item>
+<id>A4330000A4330000</id>
+<name>Smithing Text: Oni Sakon\'s Spear</name>
+</item>
+<item>
+<id>EE690000EE690000</id>
+<name>Smithing Text: Onikiba Kusarigama</name>
+</item>
+<item>
+<id>2EFC00002EFC0000</id>
+<name>Smithing Text: Shishido Kusarigama</name>
+</item>
+<item>
+<id>5EED00005EED0000</id>
+<name>Smithing Text: Gozutenno\'s Axe</name>
+</item>
+<item>
+<id>54D1000054D10000</id>
+<name>Smithing Text: Warrior of the West Bow</name>
+</item>
+<item>
+<id>07EF000007EF0000</id>
+<name>Smithing Text: Ravenwing Rifle</name>
+</item>
+<item>
+<id>4F6900004F690000</id>
+<name>Smithing Text: Taisharyu Wooden Sword</name>
+</item>
+<item>
+<id>89F0000089F00000</id>
+<name>Smithing Text: Tengu-kiri</name>
+</item>
+<item>
+<id>FA280000FA280000</id>
+<name>Smithing Text: Futatsu-mei Norimune &amp;amp; Hone-bami Toshiro</name>
+</item>
+<item>
+<id>4B0500004B050000</id>
+<name>Smithing Text: Hozoin Jumonji Spear</name>
+</item>
+<item>
+<id>86A4000086A40000</id>
+<name>Smithing Text: Axe of Judgment</name>
+</item>
+<item>
+<id>8E3000008E300000</id>
+<name>Smithing Text: Kaido Axe</name>
+</item>
+<item>
+<id>FFE70000FFE70000</id>
+<name>Smithing Text: Ishida Masamune</name>
+</item>
+<item>
+<id>23BF000023BF0000</id>
+<name>Smithing Text: Unnamed Item</name>
+</item>
+<item>
+<id>F1960000F1960000</id>
+<name>Smithing Text: Unnamed Item</name>
+</item>
+<item>
+<id>F52D0000F52D0000</id>
+<name>Smithing Text: Unnamed Item</name>
+</item>
+<item>
+<id>2F3E00002F3E0000</id>
+<name>Smithing Text: Unnamed Item</name>
+</item>
+<item>
+<id>0AFE00000AFE0000</id>
+<name>Smithing Text: Unnamed Item</name>
+</item>
+<item>
+<id>8210000082100000</id>
+<name>Smithing Text: Greater Good Armor</name>
+</item>
+<item>
+<id>757E0000757E0000</id>
+<name>Smithing Text: Fanatic\'s Armor</name>
+</item>
+<item>
+<id>7435000074350000</id>
+<name>Smithing Text: Kingo\'s Armor</name>
+</item>
+<item>
+<id>87FD000087FD0000</id>
+<name>Smithing Text: Legendary Strategist\'s Garb: Kinu</name>
+</item>
+<item>
+<id>F70D0000F70D0000</id>
+<name>Smithing Text: Warrior of the West\'s Armor</name>
+</item>
+<item>
+<id>7612000076120000</id>
+<name>Smithing Text: Yatagarasu Armor</name>
+</item>
+<item>
+<id>B4140000B4140000</id>
+<name>Smithing Text: Obsidian Armor</name>
+</item>
+<item>
+<id>ABCE0000ABCE0000</id>
+<name>Smithing Text: Demon King\'s Kisenaga</name>
+</item>
+<item>
+<id>1C8E00001C8E0000</id>
+<name>Smithing Text: Justice Ministry Armor</name>
+</item>
+<item>
+<id>01F7000001F70000</id>
+<name>Smithing Text: Warrior of the East\'s Armor</name>
+</item>
+<item>
+<id>B6760000B6760000</id>
+<name>Smithing Text: Red Demon Armor</name>
+</item>
+<item>
+<id>4FB800004FB80000</id>
+<name>Smithing Text: The Raging Bull\'s Armor</name>
+</item>
+<item>
+<id>BEE10000BEE10000</id>
+<name>Smithing Text: Armor of the Exceptional</name>
+</item>
+<item>
+<id>6A0A00006A0A0000</id>
+<name>Smithing Text: Iga Jonin Apparel</name>
+</item>
+<item>
+<id>F3510000F3510000</id>
+<name>Smithing Text: Hero\'s Armor</name>
+</item>
+<item>
+<id>8C2700008C270000</id>
+<name>Smithing Text: Platemail Armor</name>
+</item>
+<item>
+<id>D8D10000D8D10000</id>
+<name>Smithing Text: Saika Clan Armor</name>
+</item>
+<item>
+<id>59C1000059C10000</id>
+<name>Smithing Text: Genius Strategist\'s Garb</name>
+</item>
+<item>
+<id>D5D60000D5D60000</id>
+<name>Smithing Text: Yagyu Garb: Kinu</name>
+</item>
+<item>
+<id>66DA000066DA0000</id>
+<name>Smithing Text: Master Swordsman\'s Armor</name>
+</item>
+<item>
+<id>4234000042340000</id>
+<name>Smithing Text: Gallantry Armor</name>
+</item>
+<item>
+<id>40A2000040A20000</id>
+<name>Smithing Text: Kaido Armor</name>
+</item>
+<item>
+<id>3C2A00003C2A0000</id>
+<name>Smithing Text: Onryoki Kabuto</name>
+</item>
+<item>
+<id>9673000096730000</id>
+<name>Smithing Text: Hino-enma Kabuto</name>
+</item>
+<item>
+<id>F5EE0000F5EE0000</id>
+<name>Smithing Text: Unnamed Item</name>
+</item>
+<item>
+<id>D0E50000D0E50000</id>
+<name>Smithing Text: Unnamed Item</name>
+</item>
+<item>
+<id>CF750000CF750000</id>
+<name>Smithing Text: Unnamed Item</name>
+</item>
+<item>
+<id>9058000090580000</id>
+<name>Smithing Text: Unnamed Item</name>
+</item>
+<item>
+<id>BC280000BC280000</id>
+<name>Smithing Text: Japan\'s Greatest Soldier\'s Armor</name>
+</item>
+<item>
+<id>A40F0000A40F0000</id>
+<name>Smithing Text: Ogress Mask</name>
+</item>
+<item>
+<id>4963000049630000</id>
+<name>Smithing Text: Kodama Bowl</name>
+</item>
+<item>
+<id>959C0000959C0000</id>
+<name>Smithing Text: Shingiku Medicine</name>
+</item>
+<item>
+<id>1FD000001FD00000</id>
+<name>Smithing Text: Sacred Ash</name>
+</item>
+<item>
+<id>C1FD0000C1FD0000</id>
+<name>Smithing Text: Raven Tengu Tokko</name>
+</item>
+<item>
+<id>C28B0000C28B0000</id>
+<name>Smithing Text: Yokai Water Pot</name>
+</item>
+<item>
+<id>364D0000364D0000</id>
+<name>Smithing Text: Yokai Incense</name>
+</item>
+<item>
+<id>30B7000030B70000</id>
+<name>Smithing Text: Sticky Pot</name>
+</item>
+<item>
+<id>349E0000349E0000</id>
+<name>Smithing Text: Daion-jin\'s Sake</name>
+</item>
+<item>
+<id>D4E90000D4E90000</id>
+<name>Smithing Text: Saisetsu-shin\'s Sake</name>
+</item>
+<item>
+<id>DAB40000DAB40000</id>
+<name>Smithing Text: Summoner\'s Candle</name>
+</item>
+<item>
+<id>70D4000070D40000</id>
+<name>Smithing Text: Sacred Brush</name>
+</item>
+<item>
+<id>ABA40000ABA40000</id>
+<name>Smithing Text: Shinobi Box</name>
+</item>
+<item>
+<id>BE2C0000BE2C0000</id>
+<name>Smithing Text: Inhabited Kodama Bowl</name>
+</item>
+<item>
+<id>D08D0000D08D0000</id>
+<name>Smithing Text: White Ochoko Cup</name>
+</item>
+<item>
+<id>B5500000B5500000</id>
+<name>Smithing Text: Tengu\'s Fan</name>
+</item>
+<item>
+<id>C03F0000C03F0000</id>
+<name>Smithing Text: Amulet of Camaraderie</name>
+</item>
+<item>
+<id>D23B0000D23B0000</id>
+<name>Smithing Text: Arrowproof Amulet</name>
+</item>
+<item>
+<id>0C9C00000C9C0000</id>
+<name>Smithing Text: Anima Stone</name>
+</item>
+<item>
+<id>0951000009510000</id>
+<name>Smithing Text: Mud Jar</name>
+</item>
+<item>
+<id>460E0000460E0000</id>
+<name>Smithing Text: Burning Oil Jar</name>
+</item>
+<item>
+<id>DC510000DC510000</id>
+<name>Smithing Text: Soul Stone</name>
+</item>
+<item>
+<id>5405000054050000</id>
+<name>Smithing Text: Jewel of Life</name>
+</item>
+<item>
+<id>BC230000BC230000</id>
+<name>Smithing Text: Gold Nioh Armor</name>
+</item>
+<item>
+<id>C1F40000C1F40000</id>
+<name>Smithing Text: Doji-kiri Yasutsuna</name>
+</item>
+<item>
+<id>A5D70000A5D70000</id>
+<name>Smithing Text: O-Denta Mitsuyo</name>
+</item>
+<item>
+<id>AF760000AF760000</id>
+<name>Smithing Text: Kusanagi Tsurugi</name>
+</item>
+<item>
+<id>EE320000EE320000</id>
+<name>Smithing Text: Juzumaru Tsunetsugu</name>
+</item>
+<item>
+<id>B1E20000B1E20000</id>
+<name>Smithing Text: Mikazuki Munechika</name>
+</item>
+<item>
+<id>C7150000C7150000</id>
+<name>Smithing Text: Onimaru Kunitsuna</name>
+</item>
+<item>
+<id>1BE500001BE50000</id>
+<name>Smithing Text: Kago-tsurube Muramasa &amp;amp; Inoshishi-giri</name>
+</item>
+<item>
+<id>BBAD0000BBAD0000</id>
+<name>Smithing Text: Shichisei-ken &amp;amp; Heishishorin-ken</name>
+</item>
+<item>
+<id>3A5F00003A5F0000</id>
+<name>Smithing Text: O-Kanehira &amp;amp; Uguisu-maru</name>
+</item>
+<item>
+<id>3419000034190000</id>
+<name>Smithing Text: Shishi-o &amp;amp; Hone-kui</name>
+</item>
+<item>
+<id>68B0000068B00000</id>
+<name>Smithing Text: Hige-kiri and Hiza-maru</name>
+</item>
+<item>
+<id>510B0000510B0000</id>
+<name>Smithing Text: Hinomotogo</name>
+</item>
+<item>
+<id>CF480000CF480000</id>
+<name>Smithing Text: Otegine</name>
+</item>
+<item>
+<id>3C9600003C960000</id>
+<name>Smithing Text: Giant Frog Spear</name>
+</item>
+<item>
+<id>A8CB0000A8CB0000</id>
+<name>Smithing Text: Sayoarashi</name>
+</item>
+<item>
+<id>CE410000CE410000</id>
+<name>Smithing Text: Shiranui</name>
+</item>
+<item>
+<id>514C0000514C0000</id>
+<name>Smithing Text: Pickaxe</name>
+</item>
+<item>
+<id>7CD600007CD60000</id>
+<name>Smithing Text: Mononobe Axe</name>
+</item>
+<item>
+<id>6C6A00006C6A0000</id>
+<name>Smithing Text: Kishin Hammer</name>
+</item>
+<item>
+<id>F2860000F2860000</id>
+<name>Smithing Text: Yoichi\'s Bow</name>
+</item>
+<item>
+<id>D6580000D6580000</id>
+<name>Smithing Text: Bellowing Tenryu</name>
+</item>
+<item>
+<id>C95C0000C95C0000</id>
+<name>Smithing Text: Tatenashi</name>
+</item>
+<item>
+<id>5414000054140000</id>
+<name>Smithing Text: Karakawa Armor</name>
+</item>
+<item>
+<id>9748000097480000</id>
+<name>Smithing Text: Ai-ji Maedate Kabuto</name>
+</item>
+<item>
+<id>7D5400007D540000</id>
+<name>Smithing Text: Suijingiri Kanemitsu</name>
+</item>
+<item>
+<id>5898000058980000</id>
+<name>Smithing Text: Swallowtail Armor</name>
+</item>
+<item>
+<id>EA050000EA050000</id>
+<name>Smithing Text: Unrivaled Warrior\'s Armor</name>
+</item>
+<item>
+<id>D4C10000D4C10000</id>
+<name>Smithing Text: One-Eyed Dragon\'s Armor</name>
+</item>
+<item>
+<id>6070000060700000</id>
+<name>Smithing Text: Kojuro\'s Armor</name>
+</item>
+<item>
+<id>28ED000028ED0000</id>
+<name>Smithing Text: Narukami</name>
+</item>
+<item>
+<id>9E4D00009E4D0000</id>
+<name>Smithing Text: Daihannya Nagamitsu &amp;amp; Kannagiri</name>
+</item>
+<item>
+<id>B9570000B9570000</id>
+<name>Smithing Text: Great Halberd of Hihiragi</name>
+</item>
+<item>
+<id>1500000015000000</id>
+<name>Smithing Text: Vermillion Spear</name>
+</item>
+<item>
+<id>A6A70000A6A70000</id>
+<name>Smithing Text: Kamui</name>
+</item>
+<item>
+<id>D99C0000D99C0000</id>
+<name>Smithing Text: Usami Nagamitsu</name>
+</item>
+<item>
+<id>F77D0000F77D0000</id>
+<name>Smithing Text: Shokudaikiri Mitsutada &amp;amp; Shinogito Shiro</name>
+</item>
+<item>
+<id>AD480000AD480000</id>
+<name>Smithing Text: Tatewari Axe</name>
+</item>
+<item>
+<id>A38E0000A38E0000</id>
+<name>Smithing Text: Hotarumaru</name>
+</item>
+<item>
+<id>6FFA00006FFA0000</id>
+<name>Smithing Text: Bloodstained Cleaver</name>
+</item>
+<item>
+<id>5E6D00005E6D0000</id>
+<name>Smithing Text: Dual Bloodstained Hatchets</name>
+</item>
+<item>
+<id>83A1000083A10000</id>
+<name>Smithing Text: Tsunonotsuki Bow</name>
+</item>
+<item>
+<id>D54E0000D54E0000</id>
+<name>Smithing Text: Inadome-style Matchlock</name>
+</item>
+<item>
+<id>BACF0000BACF0000</id>
+<name>Smithing Text: Wooden Sword</name>
+</item>
+<item>
+<id>E4160000E4160000</id>
+<name>Smithing Text: Dual Wooden Swords</name>
+</item>
+<item>
+<id>4A4900004A490000</id>
+<name>Smithing Text: Wooden Spear</name>
+</item>
+<item>
+<id>380B0000380B0000</id>
+<name>Smithing Text: Wooden Axe</name>
+</item>
+<item>
+<id>F6690000F6690000</id>
+<name>Smithing Text: Wooden Kusarigama</name>
+</item>
+<item>
+<id>2350000023500000</id>
+<name>Smithing Text: Wooden Odachi</name>
+</item>
+<item>
+<id>7255000072550000</id>
+<name>Smithing Text: Wooden Tonfa</name>
+</item>
+<item>
+<id>F3C50000F3C50000</id>
+<name>Smithing Text: Bastard Sword</name>
+</item>
+<item>
+<id>4A5B00004A5B0000</id>
+<name>Smithing Text: Runkah</name>
+</item>
+<item>
+<id>AC660000AC660000</id>
+<name>Smithing Text: Battle Axe</name>
+</item>
+<item>
+<id>BED20000BED20000</id>
+<name>Smithing Text: Touchpaper Musket</name>
+</item>
+<item>
+<id>9213000092130000</id>
+<name>Smithing Text: Kogarasu-maru and Nuke-maru</name>
+</item>
+<item>
+<id>1032000010320000</id>
+<name>Smithing Text: Haja the Evil-Crusher</name>
+</item>
+<item>
+<id>BFC50000BFC50000</id>
+<name>Smithing Text: Horned Turban Kabuto</name>
+</item>
+<item>
+<id>C8060000C8060000</id>
+<name>Smithing Text: Khakkara Ushirodate Kabuto</name>
+</item>
+<item>
+<id>BA1A0000BA1A0000</id>
+<name>Smithing Text: Gosu Kabuto</name>
+</item>
+<item>
+<id>082E0000082E0000</id>
+<name>Smithing Text: Coiled Snake Kabuto</name>
+</item>
+<item>
+<id>358C0000358C0000</id>
+<name>Smithing Text: Fan Maedate Kabuto</name>
+</item>
+<item>
+<id>0A5900000A590000</id>
+<name>Smithing Text: Tengu Visor</name>
+</item>
+<item>
+<id>342C0000342C0000</id>
+<name>Smithing Text: Shuri-no-suke\'s Kabuto</name>
+</item>
+<item>
+<id>2336000023360000</id>
+<name>Smithing Text: Koreto-hyuga\'s Kabuto</name>
+</item>
+<item>
+<id>20FE000020FE0000</id>
+<name>Smithing Text: Kame-wari Shibata\'s Kabuto</name>
+</item>
+<item>
+<id>1EA400001EA40000</id>
+<name>Smithing Text: Bellflower Kabuto</name>
+</item>
+<item>
+<id>95A7000095A70000</id>
+<name>Smithing Text: Usurper\'s Kabuto</name>
+</item>
+<item>
+<id>40ED000040ED0000</id>
+<name>Smithing Text: Warrior Monk\'s Hood</name>
+</item>
+<item>
+<id>DA9B0000DA9B0000</id>
+<name>Smithing Text: Shugo-daimyo\'s Eboshi</name>
+</item>
+<item>
+<id>25C1000025C10000</id>
+<name>Smithing Text: Nue Mask</name>
+</item>
+<item>
+<id>43AE000043AE0000</id>
+<name>Smithing Text: Rokuji-myogo Kabuto</name>
+</item>
+<item>
+<id>C2FF0000C2FF0000</id>
+<name>Smithing Text: Ichi-no-Tani Kabuto</name>
+</item>
+<item>
+<id>AB300000AB300000</id>
+<name>Smithing Text: Takezo\'s Headband</name>
+</item>
+<item>
+<id>EDDD0000EDDD0000</id>
+<name>Smithing Text: Red Kappa Kabuto</name>
+</item>
+<item>
+<id>6DE400006DE40000</id>
+<name>Smithing Text: Attendant\'s Armor</name>
+</item>
+<item>
+<id>2193000021930000</id>
+<name>Smithing Text: Nagake Armor</name>
+</item>
+<item>
+<id>0A6500000A650000</id>
+<name>Smithing Text: Rikishi Unit\'s Armor</name>
+</item>
+<item>
+<id>C9390000C9390000</id>
+<name>Smithing Text: Anji\'s Tonfa</name>
+</item>
+<item>
+<id>F0400000F0400000</id>
+<name>Smithing Text: Twin Dragon Tonfa</name>
+</item>
+<item>
+<id>0993000009930000</id>
+<name>Smithing Text: Yin-Yang Tonfa</name>
+</item>
+<item>
+<id>BDD50000BDD50000</id>
+<name>Smithing Text: Sarutobi\'s Gunsticks</name>
+</item>
+<item>
+<id>1C1200001C120000</id>
+<name>Smithing Text: Sekishu Kazusada</name>
+</item>
+<item>
+<id>D73F0000D73F0000</id>
+<name>Smithing Text: Monohoshizao</name>
+</item>
+<item>
+<id>F03E0000F03E0000</id>
+<name>Smithing Text: Isurugi</name>
+</item>
+<item>
+<id>9618000096180000</id>
+<name>Smithing Text: Ame-no-mahitotsu\'s Axe</name>
+</item>
+<item>
+<id>DBB60000DBB60000</id>
+<name>Smithing Text: Magaragiri Kanemoto</name>
+</item>
+<item>
+<id>244A0000244A0000</id>
+<name>Smithing Text: Kaikunigo</name>
+</item>
+<item>
+<id>8E7500008E750000</id>
+<name>Smithing Text: Great Chidori-Jumonji Spear</name>
+</item>
+<item>
+<id>DFB30000DFB30000</id>
+<name>Smithing Text: Tatsuke-style Matchlock</name>
+</item>
+<item>
+<id>D9660000D9660000</id>
+<name>Smithing Text: Tatsuke-style Cannon</name>
+</item>
+<item>
+<id>1B8400001B840000</id>
+<name>Smithing Text: Dokisai\'s Kabuto</name>
+</item>
+<item>
+<id>05F4000005F40000</id>
+<name>Smithing Text: Black Fox Mask</name>
+</item>
+<item>
+<id>2F8A00002F8A0000</id>
+<name>Smithing Text: White Fox Mask</name>
+</item>
+<item>
+<id>6B0600006B060000</id>
+<name>Smithing Text: Suwahossho Kabuto</name>
+</item>
+<item>
+<id>C32E0000C32E0000</id>
+<name>Smithing Text: Royal Horned Helm</name>
+</item>
+<item>
+<id>4267000042670000</id>
+<name>Smithing Text: Hiraishi</name>
+</item>
+<item>
+<id>5610000056100000</id>
+<name>Smithing Text: Scion of Virtue\'s Armor</name>
+</item>
+<item>
+<id>578D0000578D0000</id>
+<name>Smithing Text: General of Kigetsu\'s Armor</name>
+</item>
+<item>
+<id>A35D0000A35D0000</id>
+<name>Smithing Text: Sarutobi Shinobi Apparel</name>
+</item>
+<item>
+<id>7823000078230000</id>
+<name>Smithing Text: Tower of London Guard: Coat</name>
+</item>
+<item>
+<id>EE330000EE330000</id>
+<name>Smithing Text: Breastplate</name>
+</item>
+<item>
+<id>D2E10000D2E10000</id>
+<name>Smithing Text: Nikkari Aoe</name>
+</item>
+<item>
+<id>15D4000015D40000</id>
+<name>Smithing Text: Dragon Sword</name>
+</item>
+<item>
+<id>85A6000085A60000</id>
+<name>Smithing Text: Dodanuki Masakuni</name>
+</item>
+<item>
+<id>BCE30000BCE30000</id>
+<name>Smithing Text: Ichigo Hitofuri &amp;amp; Namazu-o Toshiro</name>
+</item>
+<item>
+<id>85FE000085FE0000</id>
+<name>Smithing Text: Yamauba Spear</name>
+</item>
+<item>
+<id>9066000090660000</id>
+<name>Smithing Text: Kotaimatsu</name>
+</item>
+<item>
+<id>9A7500009A750000</id>
+<name>Smithing Text: Genno\'s Hammer</name>
+</item>
+<item>
+<id>BD230000BD230000</id>
+<name>Smithing Text: Swordsmith\'s Hammer</name>
+</item>
+<item>
+<id>B6770000B6770000</id>
+<name>Smithing Text: Ryomen Sukuna\'s Axe</name>
+</item>
+<item>
+<id>BF900000BF900000</id>
+<name>Smithing Text: Yukishiro</name>
+</item>
+<item>
+<id>4976000049760000</id>
+<name>Smithing Text: Hayabusa Style Kusarigama</name>
+</item>
+<item>
+<id>A4E30000A4E30000</id>
+<name>Smithing Text: Mijinmaru</name>
+</item>
+<item>
+<id>8931000089310000</id>
+<name>Smithing Text: Futsunomitama</name>
+</item>
+<item>
+<id>EEB50000EEB50000</id>
+<name>Smithing Text: Taro Tachi</name>
+</item>
+<item>
+<id>034F0000034F0000</id>
+<name>Smithing Text: Jiro Tachi</name>
+</item>
+<item>
+<id>9BC000009BC00000</id>
+<name>Smithing Text: Vajra Tonfa</name>
+</item>
+<item>
+<id>72A5000072A50000</id>
+<name>Smithing Text: Kyakuja Tonfa</name>
+</item>
+<item>
+<id>9D7900009D790000</id>
+<name>Smithing Text: Raishodo</name>
+</item>
+<item>
+<id>4CE500004CE50000</id>
+<name>Smithing Text: Lightning Cannon</name>
+</item>
+<item>
+<id>9899000098990000</id>
+<name>Smithing Text: Moon Charm Kabuto</name>
+</item>
+<item>
+<id>6286000062860000</id>
+<name>Smithing Text: Golden Sun Kabuto</name>
+</item>
+<item>
+<id>5CD300005CD30000</id>
+<name>Smithing Text: Ogosho\'s Hood</name>
+</item>
+<item>
+<id>5222000052220000</id>
+<name>Smithing Text: Frolicking Cats Kabuto</name>
+</item>
+<item>
+<id>F3430000F3430000</id>
+<name>Smithing Text: Governor of Tosa\'s Armor (L)</name>
+</item>
+<item>
+<id>41A4000041A40000</id>
+<name>Smithing Text: Hayabusa Shinobi Apparel</name>
+</item>
+<item>
+<id>5363000053630000</id>
+<name>Smithing Text: Last Great General\'s Armor</name>
+</item>
+<item>
+<id>D1F50000D1F50000</id>
+<name>Smithing Text: Armor of the Rising Sun</name>
+</item>
+<item>
+<id>267F0000267F0000</id>
+<name>Smithing Text: Child of the Sun\'s Armor</name>
+</item>
+<item>
+<id>28D3000028D30000</id>
+<name>Smithing Text: Mariner\'s Shirt</name>
+</item>
+<item>
+<id>C3C40000C3C40000</id>
+<name>Smithing Text: Dharmachakra Kabuto</name>
+</item>
+</Items>
+<StartUP Text="Default">
+</StartUP>
+<Cheat Text="God Mode">
+</Cheat>
+<Cheat Text="2 hit kill">
+</Cheat>
+<Cheat Text="infinit Ki">
+</Cheat>
+</Trainer>

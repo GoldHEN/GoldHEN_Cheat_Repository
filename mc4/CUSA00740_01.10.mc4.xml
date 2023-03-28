@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00740" Game="Terraria" Moder="hejran7+Molly " Process="eboot.bin" Version="1.10" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Cheat Description="" Text="Invincible cant be hit">
+</Cheat>
+<Cheat Description="" Text="Godmode">
+</Cheat>
+<Cheat Description="" Text="Max Items">
+</Cheat>
+<Cheat Description="" Text="One Hit Kill">
+</Cheat>
+<Cheat Description="" Text="Max Breath">
+</Cheat>
+<Cheat Description="" Text="Always Have Max Mana">
+</Cheat>
+<Cheat Description="" Text="Have Adamantite Waraxev On item move">
+</Cheat>
+<Cheat Description="" Text="Item Size ~3x bigger~">
+</Cheat>
+</Trainer>

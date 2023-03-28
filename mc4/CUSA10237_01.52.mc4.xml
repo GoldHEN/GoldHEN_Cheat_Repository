@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA10237" Game="Horizon Zero Dawn: Complete Edition" Moder="Rizla" Process="eboot.bin" Version="01.52" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Weaver Armour">
+</Cheat>
+<Cheat Text="Infinite Items">
+</Cheat>
+<Cheat Text="x2 Items on Use">
+</Cheat>
+<Cheat Text="Max Shards on Buy">
+</Cheat>
+<Cheat Text="x2 Shards on Buy">
+</Cheat>
+<Cheat Text="x2 Skill Points on Spend">
+</Cheat>
+<Cheat Text="x4 XP">
+</Cheat>
+<Cheat Text="Infinite Weapon Zoom">
+</Cheat>
+<Cheat Text="One Hit Kill">
+</Cheat>
+<Cheat Text="Freeze Trial Timer">
+</Cheat>
+<Cheat Text="Infinite Underwater Breath">
+</Cheat>
+</Trainer>

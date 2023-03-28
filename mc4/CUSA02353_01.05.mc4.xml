@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA02353" Game="salt and sanctuary" Moder="cjwine" Process="eboot.bin" Version="01.05" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Stamina inf">
+</Cheat>
+<Cheat Text="moeny inf">
+</Cheat>
+<Cheat Text="salt inf">
+</Cheat>
+<Cheat Text="god mode">
+</Cheat>
+<Cheat Text="Upgrade Points+1 after use">
+</Cheat>
+<Cheat Text="item+1">
+</Cheat>
+<Cheat Text="ammo+1 after use">
+</Cheat>
+</Trainer>

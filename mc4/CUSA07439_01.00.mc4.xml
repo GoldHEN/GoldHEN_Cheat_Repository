@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA07439" Game="Dark Souls III: The Fire Fades Edition" Moder="Shiningami/Rizla" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="RPG"/>
+<Items/>
+<StartUP Text="Master code">
+</StartUP>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Magic">
+</Cheat>
+<Cheat Text="Infinite Stamina">
+</Cheat>
+<Cheat Text="1 Hit Kill">
+</Cheat>
+<Cheat Text="Infinite Souls">
+</Cheat>
+<Cheat Text="Infinite Weapon Durability">
+</Cheat>
+<Cheat Text="Infinite Armour Durability">
+</Cheat>
+<Cheat Text="Max Items on Use">
+</Cheat>
+<Cheat Text="No Effects">
+</Cheat>
+</Trainer>

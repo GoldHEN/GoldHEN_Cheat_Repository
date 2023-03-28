@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00076" Game="The Order: 1886" Moder="Talixme / Weysincha" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="FPS"/>
+<Genres Name="Horror"/>
+<Cheat Control="Toggel" Text="Godmode">
+</Cheat>
+<Cheat Control="Toggel" Text="No Reload">
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Ammo">
+</Cheat>
+<Cheat Text="Infinite Grenates">
+</Cheat>
+</Trainer>

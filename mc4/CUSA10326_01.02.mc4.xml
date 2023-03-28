@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA10326" Game="Far Cry 3 Classic Edition" Moder="Celogamez" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Invincibility">
+</Cheat>
+<Cheat Text="Infinite Breath (Underwater)">
+</Cheat>
+<Cheat Text="Infinite Health Syringes">
+</Cheat>
+<Cheat Text="Infinite Ammo">
+</Cheat>
+<Cheat Text="No Reload">
+</Cheat>
+<Cheat Text="Infinite Throwables (After Getting Throwables)">
+</Cheat>
+<Cheat Text="Lot Of Infinite Money On First Buy">
+</Cheat>
+<Cheat Text="Max/Infinite Skill Points">
+</Cheat>
+<Cheat Text="Stop Time">
+</Cheat>
+<Cheat Text="Stop Time Seringues">
+</Cheat>
+<Cheat Text="No Damage To The Helicopter">
+</Cheat>
+</Trainer>

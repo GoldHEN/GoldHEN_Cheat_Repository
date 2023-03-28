@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA12529" Game="Star Wars Jedi: Fallen Order" Moder="Wander / Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.12" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Force">
+</Cheat>
+<Cheat Text="Infinite Stamina">
+</Cheat>
+</Trainer>

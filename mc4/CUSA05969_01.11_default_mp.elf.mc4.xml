@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA05969" Game="COD: World War II" Moder="DeathRGH" Process="default_mp.elf" Version="01.11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Cheat Control="Toggel" Text="All Client Infinite Ammo">
+</Cheat>
+<Cheat Control="Toggel" Text="All Client Godmode">
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Specialist (Zombies)">
+</Cheat>
+</Trainer>

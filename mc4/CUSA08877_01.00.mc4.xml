@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA08877" Game="Final Fantasy IX" Moder="Molly" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Max Money">
+</Cheat>
+<Cheat Text="Max Items &amp;quot;After Buy/Use&amp;quot; ">
+</Cheat>
+<Cheat Text="Quick Level Up">
+</Cheat>
+<Cheat Text="Inf. Magic Stones &amp;quot;After Use&amp;quot;">
+</Cheat>
+<Cheat Text="Quickly Gain Abilities">
+</Cheat>
+<Cheat Text="Max Stats &amp;quot;After Level Up&amp;quot;">
+</Cheat>
+<Cheat Text="Max Trace &amp;quot;After 1 Battle&amp;quot;">
+</Cheat>
+<Cheat Text="Godmode">
+</Cheat>
+</Trainer>

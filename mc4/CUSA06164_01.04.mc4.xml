@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA06164" Game="The Evil Within 2" Moder="TLH" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Horror"/>
+<Genres Name="RPG"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Description="" Text="Infinite Health">
+</Cheat>
+<Cheat Description="" Text="Bottomless Clip">
+</Cheat>
+<Cheat Description="" Text="Infinite Stamina">
+</Cheat>
+<Cheat Description="" Text="Infinite Weapon Parts">
+</Cheat>
+<Cheat Description="" Text="Max Items on 2nd Pick">
+</Cheat>
+<Cheat Description="" Text="Infinite Bottles">
+</Cheat>
+<Cheat Description="" Text="Infinite Resources">
+</Cheat>
+</Trainer>

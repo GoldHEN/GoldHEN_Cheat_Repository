@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA05282" Game="COD: Infinite Warfare" Moder="DeathRGH" Process="default.elf" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Cheat Control="Toggel" Text="All Client Infinite Ammo">
+</Cheat>
+<Cheat Control="Toggel" Text="All Client Godmode">
+</Cheat>
+<Cheat Control="Toggel" Text="Infinite Jetpack">
+</Cheat>
+<Cheat Control="Button" Text="Enable Exo Movement (Player 1)">
+</Cheat>
+<Cheat Control="Button" Text="Enable Exo Movement (Player 2)">
+</Cheat>
+<Cheat Control="Button" Text="Enable Exo Movement (Player 3)">
+</Cheat>
+<Cheat Control="Button" Text="Enable Exo Movement (Player 4)">
+</Cheat>
+</Trainer>

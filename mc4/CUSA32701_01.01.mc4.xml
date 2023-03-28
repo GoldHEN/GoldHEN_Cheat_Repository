@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA32701" Game="Wanted Dead" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Guard Gauge">
+</Cheat>
+<Cheat Text="Max Medi Packs ( on use )">
+</Cheat>
+<Cheat Text="Max Ammo">
+</Cheat>
+<Cheat Text="Max Ammo Clip">
+</Cheat>
+<Cheat Text="Max Grenades">
+</Cheat>
+</Trainer>

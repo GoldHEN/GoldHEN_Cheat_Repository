@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA02491" Game="Mass Effect Andromeda" Moder="Weysincha" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="RPG"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="Inf Ammo">
+</Cheat>
+<Cheat Text="Inf HP">
+</Cheat>
+<Cheat Text="Inf Credits / Money (On buy)">
+</Cheat>
+<Cheat Text="Inf Skillpoints">
+</Cheat>
+</Trainer>
