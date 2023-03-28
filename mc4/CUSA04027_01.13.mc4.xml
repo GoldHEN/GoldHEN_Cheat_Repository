@@ -1,3 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA04027" Game="Titanfall 2" Moder="N_A" Process="eboot.bin" Version="01.13" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Trainer Cusa="CUSA04027" Game="Tifanfall 2" Moder="Fullcodes" Process="eboot.bin" Version="01.13" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="No Reload and Infinite Grenade">
+</Cheat>
+<Cheat Text="Infinite AMMO">
+</Cheat>
+<Cheat Text="Skill No Cooldown">
+</Cheat>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Jump">
+</Cheat>
+<Cheat Text="Infintie Titan Thrust">
+</Cheat>
+<Cheat Text="Enemy 1 Hit Kill //Unlock Before Boss Battle">
+</Cheat>
 </Trainer>
