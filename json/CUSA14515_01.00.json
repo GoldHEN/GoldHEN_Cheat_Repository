@@ -1,1 +1,60 @@
-{"name":"Gladiator: Blades of Fury","id":"CUSA14515","version":"01.00","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"17D7DB0","on":"83BFEC000000017507C747240000C842C5FA104724E92510F77E526564646576696C3832202D20465720392E3030","off":"0000000000000000000000000000000000000000000000000000"},{"offset":"80748DEA","on":"E9C1EF0881","off":"C5FA104724"}]},{"name":"One Hit Kill","type":"checkbox","memory":[{"offset":"17D7DDE","on":"83BFEC0000000275030F57C0C5FA114724E91711F77E","off":"00000000000000000000000000000000000000000000"},{"offset":"80748F06","on":"E9D3EE0881","off":"C5FA114724"}]},{"name":"Infinite Timer","type":"checkbox","memory":[{"offset":"17D7DF4","on":"C787A800000000009643E90BACDC7E","off":"000000000000000000000000000000"},{"offset":"805A2A06","on":"E9E9532381909090","off":"C5FA1187A8000000"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "Gladiator: Blades of Fury",
+  "id": "CUSA14515",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17D7DB0",
+          "on": "83BFEC000000017507C747240000C842C5FA104724E92510F77E526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80748DEA",
+          "on": "E9C1EF0881",
+          "off": "C5FA104724"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17D7DDE",
+          "on": "83BFEC0000000275030F57C0C5FA114724E91711F77E",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80748F06",
+          "on": "E9D3EE0881",
+          "off": "C5FA114724"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17D7DF4",
+          "on": "C787A800000000009643E90BACDC7E",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "805A2A06",
+          "on": "E9E9532381909090",
+          "off": "C5FA1187A8000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

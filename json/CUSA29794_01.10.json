@@ -1,1 +1,91 @@
-{"name":"Sword and Fairy : Together Forever","id":"CUSA29794","version":"01.10","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"7D46BB0","on":"817F48000000407509C74708003C1C46EB05C5FA114708E96D3335F8","off":"00000000000000000000000000000000000000000000000000000000"},{"offset":"99F34","on":"E977CCCA07","off":"C5FA114708"}]},{"name":"Max Experience","type":"checkbox","memory":[{"offset":"7D46C00","on":"F7D841C706FFE0F505E9213462FC","off":"0000000000000000000000000000"},{"offset":"436A02A","on":"E9D1CB9D03","off":"F7D8418906"}]},{"name":"Max Items (on use)","type":"checkbox","memory":[{"offset":"7D46C70","on":"0F49D085D2C60663E9CE0B6AF9","off":"00000000000000000000000000"},{"offset":"13E7844","on":"E927F495069090","off":"0F49D085D28916"}]},{"name":"Max coins","type":"checkbox","memory":[{"offset":"7D46CF0","on":"41C786D0000000FFE0F505E9A4F569F9","off":"00000000000000000000000000000000"},{"offset":"13E629D","on":"E94E0A96069090","off":"41898ED0000000"}]},{"name":"Max Gift points (on spend)","type":"checkbox","memory":[{"offset":"7D46AA0","on":"4B8D74261001DAC60663E92B5A6BF9","off":"000000000000000000000000000000"},{"offset":"13FC4D1","on":"E9CAA5940690909090","off":"4B8D74261001DA8916"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Sword and Fairy : Together Forever",
+  "id": "CUSA29794",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7D46BB0",
+          "on": "817F48000000407509C74708003C1C46EB05C5FA114708E96D3335F8",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "99F34",
+          "on": "E977CCCA07",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7D46C00",
+          "on": "F7D841C706FFE0F505E9213462FC",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "436A02A",
+          "on": "E9D1CB9D03",
+          "off": "F7D8418906"
+        }
+      ]
+    },
+    {
+      "name": "Max Items (on use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7D46C70",
+          "on": "0F49D085D2C60663E9CE0B6AF9",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "13E7844",
+          "on": "E927F495069090",
+          "off": "0F49D085D28916"
+        }
+      ]
+    },
+    {
+      "name": "Max coins",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7D46CF0",
+          "on": "41C786D0000000FFE0F505E9A4F569F9",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "13E629D",
+          "on": "E94E0A96069090",
+          "off": "41898ED0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Gift points (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7D46AA0",
+          "on": "4B8D74261001DAC60663E92B5A6BF9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "13FC4D1",
+          "on": "E9CAA5940690909090",
+          "off": "4B8D74261001DA8916"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}
