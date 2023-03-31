@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 5" Moder="hejran7" Cusa="CUSA04437" Version="01.01" Process="eboot.bin">
+  <Genres Name="Horror" />
+  <Items />
+  <Cheat Text="Inf HP (L1+L3 On) (L1+R3 Off)">
+    <Cheatline>
+      <Offset>11F3800</Offset>
+      <Section>0</Section>
+      <ValueOn>44-89-BB-F0-00-00-00-50-A1-C0-D1-19-02-02-00-00-00-66-3D-02-01-75-02-EB-06-66-3D-04-01-75-09-A3-00-40-00-00-00-00-00-00-58-E9-B7-EE-A0-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C026DE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1D-11-5F-00-90-90</ValueOn>
+      <ValueOff>44-89-BB-F0-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11F3836</Offset>
+      <Section>0</Section>
+      <ValueOn>66-81-3D-C1-07-A1-FE-02-01-75-03-66-89-C1-66-89-8B-68-1E-00-00-E9-6B-29-42-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6161B4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7D-D6-BD-00-90-90</ValueOn>
+      <ValueOff>66-89-8B-68-1E-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Health Always On" Description="">
+    <Cheatline>
+      <Offset>6161B4</Offset>
+      <Section>0</Section>
+      <ValueOn>66-89-83-68-1E-00-00</ValueOn>
+      <ValueOff>66-89-8B-68-1E-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Car HP">
+    <Cheatline>
+      <Offset>11F3855</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7F-1C-02-75-03-66-89-C1-66-89-8F-68-1E-00-00-E9-81-8F-BA-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D9C7E4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6C-70-45-00-90-90</ValueOn>
+      <ValueOff>66-89-8F-68-1E-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload" Description="">
+    <Cheatline>
+      <Offset>7381E5</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>29-56-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Weapon No Overheat" Description="">
+    <Cheatline>
+      <Offset>647A86</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-58-87-2C-28-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf Ammo on Reload" Description="">
+    <Cheatline>
+      <Offset>7373D7</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8B-46-10-90-90</ValueOn>
+      <ValueOff>41-8B-46-0C-29-C8</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>73803E</Offset>
+      <Section>0</Section>
+      <ValueOn>45-8B-67-10-90</ValueOn>
+      <ValueOff>45-29-F4-31-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf Grenade on Use" Description="">
+    <Cheatline>
+      <Offset>11F388C</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8B-44-24-10-41-89-44-24-0C-E9-B3-EE-F3-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>132749</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3E-11-0C-01</ValueOn>
+      <ValueOff>41-89-44-24-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money on Spend" Description="">
+    <Cheatline>
+      <Offset>11F387C</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-7F-96-98-00-89-87-94-01-00-00-E9-97-79-61-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80B21D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5A-86-9E-00-90</ValueOn>
+      <ValueOff>89-87-94-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mx Resources On sell" Description="">
+    <Cheatline>
+      <Offset>11F386D</Offset>
+      <Section>0</Section>
+      <ValueOn>44-0F-AF-E7-41-BE-E7-03-00-00-E9-CB-75-24-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>43AE40</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-28-8A-DB-00-90-90</ValueOn>
+      <ValueOff>44-0F-AF-E7-41-29-FE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Run without Pressing X or L3" Description="">
+    <Cheatline>
+      <Offset>C0114B</Offset>
+      <Section>0</Section>
+      <ValueOn>0D-02-00-01-00</ValueOn>
+      <ValueOff>0D-00-00-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Countup Timer - STORY-LIN-DS" Description="">
+    <Cheatline>
+      <Offset>728A8E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-58-84-C7-68-46-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Countdown Timer - DS" Description="">
+    <Cheatline>
+      <Offset>9A98</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-9C-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Combo Count - Mercenaries" Description="">
+    <Cheatline>
+      <Offset>3A51A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-A1-7A-11-94-21-E4-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Bonus Combo Time - Mercenaries" Description="">
+    <Cheatline>
+      <Offset>3A591</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-A1-7A-11-8C-20-EC-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Countdown Timer - Mercenaries" Description="">
+    <Cheatline>
+      <Offset>4621F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-A0-07-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

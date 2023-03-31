@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mortal Kombat 11" Moder="hejran7" Cusa="CUSA11379" Version="01.01" Process="eboot.bin">
+  <Genres Name="Fighting" />
+  <Items />
+  <Cheat Text="P1 Inf HP" Description="">
+    <Cheatline>
+      <Offset>FFFFFFFFFFC04000</Offset>
+      <Section>0</Section>
+      <ValueOn>80-7B-16-00-0F-84-49-22-3A-03-C5-FA-11-83-4C-23-00-00-E9-3C-22-3A-03</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2FA624B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B0-DD-C5-FC-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-4C-23-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf hp 1HK " Description="">
+    <Cheatline>
+      <Offset>FFFFFFFFFFC04000</Offset>
+      <Section>0</Section>
+      <ValueOn>80-7B-16-00-0F-84-49-22-3A-03-C5-FA-11-8B-4C-23-00-00-E9-3C-22-3A-03</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2FA624B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B0-DD-C5-FC-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-4C-23-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

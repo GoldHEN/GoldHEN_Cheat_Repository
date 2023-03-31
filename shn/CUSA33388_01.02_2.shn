@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 4" Moder="hejran7" Cusa="CUSA33388" Version="01.02" Process="eboot.bin">
+  <Genres Name="Horror" />
+  <Items />
+  <StartUP Text="HP_Untouchable MC (must be on)" description="">
+    <Cheatline>
+      <Offset>FFFFFFFFFFC04000</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-88-48-01-00-00-C6-41-18-00-C6-41-19-00-E9-21-D7-68-02</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>229172E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CD-28-97-FD-90-90</ValueOn>
+      <ValueOff>48-8B-88-48-01-00-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Untouchable" Description="">
+    <Cheatline>
+      <Offset>FFFFFFFFFFC04007</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-41-18-01</ValueOn>
+      <ValueOff>C6-41-18-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>FFFFFFFFFFC0400B</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-41-19-01</ValueOn>
+      <ValueOff>C6-41-19-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ptas" Description="">
+    <Cheatline>
+      <Offset>B8238BF</Offset>
+      <Section>0</Section>
+      <ValueOn>4C-89-FF-C7-40-10-FF-C9-9A-3B-8B-50-10-E9-5D-19-B3-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5355228</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-92-E6-4C-06-90</ValueOn>
+      <ValueOff>4C-89-FF-8B-50-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Spinel" Description="">
+    <Cheatline>
+      <Offset>B8238A0</Offset>
+      <Section>0</Section>
+      <ValueOn>4C-89-E7-C7-40-20-0F-27-00-00-8B-50-20-E9-CD-50-D2-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5548979</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-22-AF-2D-06-90</ValueOn>
+      <ValueOff>4C-89-E7-8B-50-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Completion Points" Description="">
+    <Cheatline>
+      <Offset>28DD370</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4C-C1</ValueOn>
+      <ValueOff>0F-4C-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Knife Durability" Description="">
+    <Cheatline>
+      <Offset>3B61489</Offset>
+      <Section>0</Section>
+      <ValueOn>45-89-6F-30</ValueOn>
+      <ValueOff>45-89-67-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>B8238B2</Offset>
+      <Section>0</Section>
+      <ValueOn>83-C0-01-41-89-44-24-44-E9-1A-62-CB-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>44D9AD4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D9-9D-34-07</ValueOn>
+      <ValueOff>41-89-44-24-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo_Items_Crafting" Description="">
+    <Cheatline>
+      <Offset>321F148</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>2B-4A-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf Ammo_Inf Items_Crafting" Description="">
+    <Cheatline>
+      <Offset>321F159</Offset>
+      <Section>0</Section>
+      <ValueOn>89-D1-90</ValueOn>
+      <ValueOff>0F-4C-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Reset Save Count to 1" Description="">
+    <Cheatline>
+      <Offset>599AB52</Offset>
+      <Section>0</Section>
+      <ValueOn>31-C0-90-90</ValueOn>
+      <ValueOff>41-8B-45-4C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Aim Focus" Description="">
+    <Cheatline>
+      <Offset>A7453B</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-D2</ValueOn>
+      <ValueOff>C5-FA-5D-D2</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

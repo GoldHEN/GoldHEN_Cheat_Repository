@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DARK SOULS II - Scholar of the First Sin" Moder="hejran7" Cusa="CUSA01760" Version="01.02" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <StartUP Text="HP OHK MC (Must Be On)" description="">
+    <Cheatline>
+      <Offset>2077800</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-81-FF-20-66-75-15-90-90-90-90-90-90-90-41-89-87-70-01-00-00-E9-3A-8D-11-FE-31-C0-41-89-87-70-01-00-00-E9-2C-8D-11-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>19054E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AD-72-EE-01-90-90</ValueOn>
+      <ValueOff>41-89-87-70-01-00-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Invincible MC (Must Be On)" description="">
+    <Cheatline>
+      <Offset>2077829</Offset>
+      <Section>0</Section>
+      <ValueOn>66-81-FF-20-66-75-16-C7-81-F0-05-00-00-00-00-00-00-83-B9-F0-05-00-00-00-E9-08-C7-11-FE-83-B9-F0-05-00-00-00-E9-FC-C6-11-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>193F47</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DD-38-EE-01-90-90</ValueOn>
+      <ValueOff>83-B9-F0-05-00-00-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Speed Hack MC (Must Be On)" description="">
+    <Cheatline>
+      <Offset>2077852</Offset>
+      <Section>0</Section>
+      <ValueOn>66-81-FB-20-66-75-17-C7-83-B0-02-00-00-00-00-80-3F-C5-FA-10-83-B0-02-00-00-E9-98-6D-2E-FE-C7-83-B0-02-00-00-00-00-80-3F-C5-FA-10-83-B0-02-00-00-E9-81-6D-2E-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>35E600</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4D-92-D1-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-83-B0-02-00-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Pass Through Any Door MC (Must Be On)" description="">
+    <Cheatline>
+      <Offset>2077887</Offset>
+      <Section>0</Section>
+      <ValueOn>66-81-FE-20-66-75-0A-C7-82-2C-06-00-00-00-00-00-00-83-BA-2C-06-00-00-00-E9-34-08-36-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3D80D1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B1-F7-C9-01-90-90</ValueOn>
+      <ValueOff>83-BA-2C-06-00-00-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Inf Health" Description="">
+    <Cheatline>
+      <Offset>2077808</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8B-87-78-01-00-00</ValueOn>
+      <ValueOff>90-90-90-90-90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill" Description="">
+    <Cheatline>
+      <Offset>2077806</Offset>
+      <Section>0</Section>
+      <ValueOn>75-13</ValueOn>
+      <ValueOff>75-15</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Invincible" Description="">
+    <Cheatline>
+      <Offset>2077830</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-81-F0-05-00-00-01-00-00-00</ValueOn>
+      <ValueOff>C7-81-F0-05-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Stamina" Description="">
+    <Cheatline>
+      <Offset>20778A4</Offset>
+      <Section>0</Section>
+      <ValueOn>66-3D-20-66-0F-84-91-70-31-FE-C5-FA-11-88-B4-01-00-00-E9-84-70-31-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>38E937</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-68-8F-CE-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-88-B4-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Spells" Description="">
+    <Cheatline>
+      <Offset>1E0D84</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-C5-90</ValueOn>
+      <ValueOff>44-0F-4F-E8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Items" Description="">
+    <Cheatline>
+      <Offset>107D199</Offset>
+      <Section>0</Section>
+      <ValueOn>72-31</ValueOn>
+      <ValueOff>76-31</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>107D1B1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Souls" Description="when spend_and get">
+    <Cheatline>
+      <Offset>403E80</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-46-C8</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>403DCE</Offset>
+      <Section>0</Section>
+      <ValueOn>89-87-EC-00-00-00</ValueOn>
+      <ValueOff>89-8F-EC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Durability" Description="">
+    <Cheatline>
+      <Offset>1DF900</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Items (Shop)" Description="">
+    <Cheatline>
+      <Offset>20778BB</Offset>
+      <Section>0</Section>
+      <ValueOn>88-43-22-41-B7-FF-44-88-7B-23-E9-06-7D-16-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1DF5C9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-ED-82-E9-01-90-90</ValueOn>
+      <ValueOff>88-43-22-44-88-7B-23</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Speed Hack 1.25" Description="">
+    <Cheatline>
+      <Offset>2077859</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-B0-02-00-00-00-00-A0-3F</ValueOn>
+      <ValueOff>C7-83-B0-02-00-00-00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Speed Hack 1.50" Description="">
+    <Cheatline>
+      <Offset>2077859</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-B0-02-00-00-00-00-C0-3F</ValueOn>
+      <ValueOff>C7-83-B0-02-00-00-00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Speed Hack 2.00" Description="">
+    <Cheatline>
+      <Offset>2077859</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-B0-02-00-00-00-00-00-40</ValueOn>
+      <ValueOff>C7-83-B0-02-00-00-00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Speed Hack Slow Ai" Description="">
+    <Cheatline>
+      <Offset>2077870</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-B0-02-00-00-00-00-80-3E</ValueOn>
+      <ValueOff>C7-83-B0-02-00-00-00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Pass Through Any Door" Description="">
+    <Cheatline>
+      <Offset>207788E</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-82-2C-06-00-00-01-00-00-00</ValueOn>
+      <ValueOff>C7-82-2C-06-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Souls loss Upon Death" Description="">
+    <Cheatline>
+      <Offset>2AC713</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-80-EC-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Memory Souls" Description="">
+    <Cheatline>
+      <Offset>403DFF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-87-F4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Reset Memory Souls to 125" Description="">
+    <Cheatline>
+      <Offset>403DFF</Offset>
+      <Section>0</Section>
+      <ValueOn>89-B7-F4-00-00-00</ValueOn>
+      <ValueOff>89-87-F4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

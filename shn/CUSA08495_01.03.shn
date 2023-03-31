@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dark Souls Remastered" Moder="hejran7" Cusa="CUSA08495" Version="01.03" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <StartUP Text="HP MC (Must Be On)">
+    <Cheatline>
+      <Offset>1837800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-BF-C0-00-00-00-00-75-0E-41-89-B7-00-04-00-00-E9-7E-FB-A3-FE-31-F6-41-89-B7-00-04-00-00-E9-70-FB-A3-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>27738D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6E-04-5C-01-90-90</ValueOn>
+      <ValueOff>41-89-B7-00-04-00-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Stamina MC (Must Be On)">
+    <Cheatline>
+      <Offset>1837824</Offset>
+      <Section>0</Section>
+      <ValueOn>83-BB-C4-00-00-00-00-75-13-90-90-90-90-90-90-89-8B-10-04-00-00-E9-64-04-A4-FE-31-C9-89-8B-10-04-00-00-E9-57-04-A4-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>277C9C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-83-FB-5B-01-90</ValueOn>
+      <ValueOff>89-8B-10-04-00-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Speed Hack MC (Must Be On)">
+    <Cheatline>
+      <Offset>1837878</Offset>
+      <Section>0</Section>
+      <ValueOn>66-81-FC-90-83-75-0F-C7-00-00-00-80-3F-C5-FA-59-00-E9-CC-04-B6-FE-48-0F-44-C1-C5-FA-59-00-E9-BF-04-B6-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>397D52</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-21-FB-49-01-90-90-90</ValueOn>
+      <ValueOff>48-0F-44-C1-C5-FA-59-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Drop Rate MC (Must Be On)">
+    <Cheatline>
+      <Offset>183789B</Offset>
+      <Section>0</Section>
+      <ValueOn>49-B9-78-BA-8A-69-02-00-00-00-4D-8B-09-41-83-F9-06-75-0B-41-C7-87-84-00-00-00-63-00-00-00-89-94-07-9C-70-00-00-E9-E5-39-C8-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Player Infinite Health" Description="">
+    <Cheatline>
+      <Offset>183780A</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-87-00-04-00-00</ValueOn>
+      <ValueOff>41-89-B7-00-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Player + Enemy Inf HP" Description="">
+    <Cheatline>
+      <Offset>27738D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>E9-6E-04-5C-01-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Player Only Inf Stamina" Description="">
+    <Cheatline>
+      <Offset>183782D</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-8B-14-04-00-00</ValueOn>
+      <ValueOff>90-90-90-90-90-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>277B79</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-8B-10-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Player + NPC Inf Stamina" Description="">
+    <Cheatline>
+      <Offset>1837824</Offset>
+      <Section>0</Section>
+      <ValueOn>81-3B-68-60-C5-01-90</ValueOn>
+      <ValueOff>83-BB-C4-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>183782D</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-8B-14-04-00-00</ValueOn>
+      <ValueOff>90-90-90-90-90-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>277B79</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-8B-10-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Everyone Else 0 Stamina" Description="">
+    <Cheatline>
+      <Offset>183782B</Offset>
+      <Section>0</Section>
+      <ValueOn>75-11</ValueOn>
+      <ValueOff>75-13</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Infinite Spell Uses" Description="">
+    <Cheatline>
+      <Offset>6EC089</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-44-B7-1C</ValueOn>
+      <ValueOff>41-89-54-B7-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Humanity on Use" Description="">
+    <Cheatline>
+      <Offset>27CE6E</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-11-90</ValueOn>
+      <ValueOff>83-F8-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Infinite Souls" Description="">
+    <Cheatline>
+      <Offset>6F6423</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-FF-C9-9A-3B-90</ValueOn>
+      <ValueOff>81-FE-00-CA-9A-3B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Dupe Anything (Storage) + Max Items" Description="">
+    <Cheatline>
+      <Offset>6E825E</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C3</ValueOn>
+      <ValueOff>39-C3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Never Lose Humanity when Die" Description="">
+    <Cheatline>
+      <Offset>3E414F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-C7-86-84-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Never Lose Souls when Die" Description="">
+    <Cheatline>
+      <Offset>3E4131</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-8E-94-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bleed Resistance" Description="">
+    <Cheatline>
+      <Offset>27D36A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-86-38-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Poison Resistance" Description="Tax_Pois">
+    <Cheatline>
+      <Offset>27D244</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-86-34-04-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>27D2EC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-86-30-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Curse Resistance" Description="">
+    <Cheatline>
+      <Offset>27D3E8</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-86-3C-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Speed Hack x1.25" Description="">
+    <Cheatline>
+      <Offset>183787F</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-00-00-00-A0-3F</ValueOn>
+      <ValueOff>C7-00-00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Speed Hack x1.50" Description="">
+    <Cheatline>
+      <Offset>183787F</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-00-00-00-C0-3F</ValueOn>
+      <ValueOff>C7-00-00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Speed Hack x2.00" Description="">
+    <Cheatline>
+      <Offset>183787F</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-00-00-00-00-40</ValueOn>
+      <ValueOff>C7-00-00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="100% Drop Rate Press L3+R3" Description="Max Humanity-66-66-06-40">
+    <Cheatline>
+      <Offset>12B0794</Offset>
+      <Section>0</Section>
+      <ValueOn>F6-3F-1C-46</ValueOn>
+      <ValueOff>66-66-06-40</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12B076C</Offset>
+      <Section>0</Section>
+      <ValueOn>F6-3F-1C-46</ValueOn>
+      <ValueOff>66-66-06-40</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4BB2A3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F3-C5-37-01-90-90</ValueOn>
+      <ValueOff>89-94-07-9C-70-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

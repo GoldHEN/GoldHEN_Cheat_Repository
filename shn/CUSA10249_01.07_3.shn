@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Last Of Us Part 2" Moder="hejran7" Cusa="CUSA10249" Version="01.07" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Dev Menu Hold L3" Description="">
+    <Cheatline>
+      <Offset>2CA9A53</Offset>
+      <Section>0</Section>
+      <ValueOn>53-BB-E8-80-B6-03-67-8B-1B-81-E3-00-04-00-00-75-14-C6-80-A1-3A-00-00-00-80-B8-A1-3A-00-00-00-5B-E9-1F-91-5A-FD-C6-80-A1-3A-00-00-01-80-B8-A1-3A-00-00-00-5B-E9-0B-91-5A-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>252B90</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BE-6E-A5-02-90-90</ValueOn>
+      <ValueOff>80-B8-A1-3A-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Show All Dev Menu Details" Description="">
+    <Cheatline>
+      <Offset>252BAB</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BC-01-00-00-00-90</ValueOn>
+      <ValueOff>44-8B-A0-B4-3A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Hide All Dev Menu Details" Description="">
+    <Cheatline>
+      <Offset>252B8A</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-F0-01-00-00</ValueOn>
+      <ValueOff>0F-85-F0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Silencer Ammo">
+    <Cheatline>
+      <Offset>15DF257</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-FF-8E-14-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Borderlands THC Borderlands 2" Moder="hejran7" Cusa="CUSA02980" Version="01.02" Process="MAGNOLIA.elf">
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Instant lvl 72 - Inf Ammo - Inf HP" Description="">
+    <Cheatline>
+      <Offset>73DD6A</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-9B-A0-00-00-00</ValueOn>
+      <ValueOff>C5-FA-11-93-A0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Credits-Eridium-Seraph-Torgue" Description="">
+    <Cheatline>
+      <Offset>1EC380E</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-86-78-04-00-00-FF-E0-F5-05-41-8B-84-86-78-04-00-00-E9-7A-55-DA-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C68D99</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-70-AA-25-01-90-90-90</ValueOn>
+      <ValueOff>41-8B-84-86-78-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Skill Points - Badass Tokens On Use" Description="">
+    <Cheatline>
+      <Offset>5BBFB</Offset>
+      <Section>0</Section>
+      <ValueOn>03-45-C8</ValueOn>
+      <ValueOff>2B-45-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Increase Redeem Taken By 20%" Description="">
+    <Cheatline>
+      <Offset>1EC3827</Offset>
+      <Section>0</Section>
+      <ValueOn>49-FF-47-28-8B-03-05-00-01-00-00-FF-C0-E9-FC-82-19-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5BB2D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F5-7C-E6-01-90-90-90</ValueOn>
+      <ValueOff>49-FF-47-28-8B-03-FF-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo - Grenades" Description="">
+    <Cheatline>
+      <Offset>73DD32</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-F2-5C-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload- Inf Ammo must be On" Description="">
+    <Cheatline>
+      <Offset>5B77E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>41-89-0E</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

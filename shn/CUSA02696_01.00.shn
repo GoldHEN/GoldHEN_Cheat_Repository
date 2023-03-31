@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="This War of Mine" Moder="Vampirex+Hejran" Cusa="CUSA02696" Version="01.00" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Inf Items Backpack">
+    <Cheatline>
+      <Offset>787800</Offset>
+      <Section>0</Section>
+      <ValueOn>51-42-8B-4C-3B-20-42-89-4C-3B-20-59-E9-C4-85-8D-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5FDD0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2B-7A-72-00</ValueOn>
+      <ValueOff>42-89-44-3B-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo and Items Consumables">
+    <Cheatline>
+      <Offset>787811</Offset>
+      <Section>0</Section>
+      <ValueOn>51-41-8B-4F-08-41-89-4F-08-59-E9-6D-25-CA-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>429D88</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-84-DA-35-00</ValueOn>
+      <ValueOff>29-C8-41-89-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Day never increased (Use after Day1)">
+    <Cheatline>
+      <Offset>110096</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C2</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

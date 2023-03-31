@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Borderlands 3" Moder="hejran7" Cusa="CUSA08025" Version="01.11" Process="eboot.bin">
+  <Genres Name="FPS" />
+  <Genres Name="Shooter" />
+  <Items />
+  <StartUP Text="Money^Eridium MC (Must Be On)" description="">
+    <Cheatline>
+      <Offset>930007A</Offset>
+      <Section>0</Section>
+      <ValueOn>48-81-F9-00-0F-00-00-74-09-48-81-F9-C0-0E-00-00-74-00-03-02-48-83-C2-40-E9-5F-59-E4-FB-C7-02-FF-E0-F5-05-8B-02-48-83-C2-40-E9-4E-59-E4-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>51459F0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-85-A6-1B-04-90</ValueOn>
+      <ValueOff>03-02-48-83-C2-40</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Speed Hack MC (Must Be On)" description="">
+    <Cheatline>
+      <Offset>9300110</Offset>
+      <Section>0</Section>
+      <ValueOn>80-7B-08-48-74-0D-C5-FA-59-83-08-11-00-00-E9-81-74-85-FB-C7-83-08-11-00-00-00-00-80-3F-C5-FA-59-83-08-11-00-00-E9-6A-74-85-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4B5759C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6F-8B-7A-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-59-83-08-11-00-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Max Inf HP\Shield" Description="">
+    <Cheatline>
+      <Offset>930005C</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-3D-AD-3F-90-F6-C7-87-A0-00-00-00-80-4F-C3-47-C5-FA-10-97-A0-00-00-00-E9-60-83-8F-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4BF83D2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-85-7C-70-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-97-A0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf Ammo" Description="">
+    <Cheatline>
+      <Offset>930002F</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-8B-AC-00-00-00-C5-FA-11-8B-A0-00-00-00-E9-AE-84-8F-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4BF84EA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-40-7B-70-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-A0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo No Reload" Description="">
+    <Cheatline>
+      <Offset>52574C0</Offset>
+      <Section>0</Section>
+      <ValueOn>C3</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf Ammo Insta Refil" Description="">
+    <Cheatline>
+      <Offset>4BF79B0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-8B-E8-00-00-00</ValueOn>
+      <ValueOff>C5-FA-11-9B-E8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Recoil" Description="">
+    <Cheatline>
+      <Offset>9300044</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C0-F3-41-0F-11-07-F3-41-0F-11-47-04-C4-C1-7A-10-07-E9-5F-D9-F3-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>523D9B6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-89-26-0C-04</ValueOn>
+      <ValueOff>C4-C1-7A-10-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload" Description="">
+    <Cheatline>
+      <Offset>525750D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-87-B0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Super Jump" Description="">
+    <Cheatline>
+      <Offset>93000CC</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-05-4A-3F-90-F6-00-40-97-45-81-3D-40-3F-90-F6-00-00-52-44-7E-11-48-A1-20-40-00-00-00-00-00-00-48-89-83-84-01-00-00-C5-F2-58-83-84-01-00-00-E9-A5-08-3E-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>36E099D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2A-F7-C1-05-90-90-90</ValueOn>
+      <ValueOff>C5-F2-58-83-84-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Super Speed" Description="">
+    <Cheatline>
+      <Offset>9300123</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-08-11-00-00-00-00-A0-40</ValueOn>
+      <ValueOff>C7-83-08-11-00-00-00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Super Accuracy" Description="">
+    <Cheatline>
+      <Offset>DFEA54</Offset>
+      <Section>0</Section>
+      <ValueOn>74-37</ValueOn>
+      <ValueOff>75-37</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Rapid Fire 30%" Description="">
+    <Cheatline>
+      <Offset>52670BD</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-05-83-22-1A-02</ValueOn>
+      <ValueOff>C5-FA-10-05-83-22-1A-02</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5267030</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-88-00-00-00-90</ValueOn>
+      <ValueOff>0F-86-87-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Rapid Fire 50%" Description="">
+    <Cheatline>
+      <Offset>52670BD</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-05-96-45-F9-FA</ValueOn>
+      <ValueOff>C5-FA-10-05-83-22-1A-02</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5267030</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-88-00-00-00-90</ValueOn>
+      <ValueOff>0F-86-87-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Rapid Fire 100%" Description="">
+    <Cheatline>
+      <Offset>52670BD</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-05-59-E8-69-FB</ValueOn>
+      <ValueOff>C5-FA-10-05-83-22-1A-02</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5267030</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-88-00-00-00-90</ValueOn>
+      <ValueOff>0F-86-87-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf Money" Description="">
+    <Cheatline>
+      <Offset>9300081</Offset>
+      <Section>0</Section>
+      <ValueOn>74-14</ValueOn>
+      <ValueOff>74-09</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf Eridium" Description="">
+    <Cheatline>
+      <Offset>930008A</Offset>
+      <Section>0</Section>
+      <ValueOn>74-0B</ValueOn>
+      <ValueOff>74-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Insta lvl Up" Description="">
+    <Cheatline>
+      <Offset>9300100</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BD-FF-C9-9A-3B-C4-C1-7A-2A-C5-E9-B9-67-DF-F7</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>10F68C4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-37-98-20-08</ValueOn>
+      <ValueOff>C4-C1-7A-2A-C5</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf Golden keys" Description="">
+    <Cheatline>
+      <Offset>9300000</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-6D-74-87-F7-C7-41-08-FF-E0-F5-05-8B-41-08-E9-64-74-87-F7</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B77474</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-87-8B-78-08</ValueOn>
+      <ValueOff>74-03-8B-41-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Open Chest W\O key" Description="when read-when writ">
+    <Cheatline>
+      <Offset>9300015</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-58-74-87-F7-48-A3-00-40-00-00-00-00-00-00-B8-01-00-00-00-E9-4A-74-87-F7</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B77474</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9C-8B-78-08</ValueOn>
+      <ValueOff>74-03-8B-41-08</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B77695</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>44-01-72-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Guardian Tokens" Description="">
+    <Cheatline>
+      <Offset>93000A8</Offset>
+      <Section>0</Section>
+      <ValueOn>49-C7-C7-9F-86-01-00-4C-89-B8-6C-01-00-00-E9-93-0F-F1-F7</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1211047</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5C-F0-0E-08-90-90</ValueOn>
+      <ValueOff>4C-63-B8-6C-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11040B7</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-FF-8E-6C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Weapons No Overheat" Description="">
+    <Cheatline>
+      <Offset>528245E</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-2A</ValueOn>
+      <ValueOff>75-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Buy Skills W\O Skill Points" Description="">
+    <Cheatline>
+      <Offset>93000BB</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-01-00-00-00-41-89-86-60-01-00-00-E9-D9-30-6A-F7</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9A319E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-18-CF-95-08-90-90</ValueOn>
+      <ValueOff>41-8B-86-60-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Everyone Super Acoursay" Description="">
+    <Cheatline>
+      <Offset>4BF799C</Offset>
+      <Section>0</Section>
+      <ValueOn>75-6B</ValueOn>
+      <ValueOff>74-6B</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

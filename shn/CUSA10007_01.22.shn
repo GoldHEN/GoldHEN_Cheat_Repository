@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Friday The 13Th The Game" Moder="hejran7" Cusa="CUSA10007" Version="01.22" Process="eboot.bin">
+  <Genres Name="Horror" />
+  <Items />
+  <Cheat Text="Instant Rage" Description="">
+    <Cheatline>
+      <Offset>5357</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>72-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Traps" Description="">
+    <Cheatline>
+      <Offset>100810F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-FF-8C-24-08-17-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Knifes" Description="">
+    <Cheatline>
+      <Offset>101159E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8B-AC-15-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant All Skills" Description="">
+    <Cheatline>
+      <Offset>FFA130</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-84-94-00-12-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-5D-84-94-00-12-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Shift Skill" Description="">
+    <Cheatline>
+      <Offset>FFA216</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-F8-13-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FF9476</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-58-84-84-38-12-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-58-84-84-34-12-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Morph Skill" Description="">
+    <Cheatline>
+      <Offset>FFA2F6</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-58-84-84-38-12-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-58-84-84-34-12-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Stalker Skill" Description="">
+    <Cheatline>
+      <Offset>FF96D6</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-94-24-00-17-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-10-94-24-FC-16-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FF9476</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-58-84-84-38-12-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-58-84-84-34-12-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Sense Skill" Description="">
+    <Cheatline>
+      <Offset>FFAFD0</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-58-84-24-24-13-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-58-84-24-1C-13-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FF9476</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-58-84-84-38-12-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-58-84-84-34-12-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Knifes Instant Cooldown" Description="">
+    <Cheatline>
+      <Offset>FDD8A0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-83-E4-15-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Skills Instant Cooldown" Description="">
+    <Cheatline>
+      <Offset>FFA300</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-81-7A-10-84-B4-10-12-00-00</ValueOn>
+      <ValueOff>C4-81-7A-5D-84-B4-10-12-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Offline Bots Countdown Timer" Description="">
+    <Cheatline>
+      <Offset>F5C712</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-8E-FC-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Challenges Countup Timer" Description="">
+    <Cheatline>
+      <Offset>F5C796</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-FF-86-F8-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Out of Bound 15 Sec Warning Test" Description="">
+    <Cheatline>
+      <Offset>FA73A2</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-84-24-C0-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Uncharted Collection - UNC2 Dev Menu" Moder="hejran7" Cusa="CUSA02320" Version="01.00" Process="big2-ps4_Shipping.elf">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Cheat Text="Dev Menu L3+Upper L or R Touch Pad" Description="">
+    <Cheatline>
+      <Offset>DFB800</Offset>
+      <Section>0</Section>
+      <ValueOn>51-B9-18-E5-2B-01-67-8B-09-83-E1-02-75-14-C6-80-8C-48-00-00-00-80-B8-8C-48-00-00-00-59-E9-06-6F-53-FF-C6-80-8C-48-00-00-01-80-B8-8C-48-00-00-00-59-E9-F2-6E-53-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>332721</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DA-90-AC-00-90-90</ValueOn>
+      <ValueOff>80-B8-8C-48-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Enable FPS View - Hold L3" Description="">
+    <Cheatline>
+      <Offset>14C504</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-C1-0B-00-00</ValueOn>
+      <ValueOff>0F-85-C1-0B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Enable Task View - Hold L3" Description="">
+    <Cheatline>
+      <Offset>DFB836</Offset>
+      <Section>0</Section>
+      <ValueOn>41-50-41-B8-18-E5-2B-01-67-45-8B-00-41-83-E0-02-75-14-C6-81-B9-39-00-00-01-8A-89-B9-39-00-00-41-58-E9-86-24-64-FF-C6-81-B9-39-00-00-00-8A-89-B9-39-00-00-41-58-E9-72-24-64-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>43DCDC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-55-DB-9B-00-90</ValueOn>
+      <ValueOff>8A-89-B9-39-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

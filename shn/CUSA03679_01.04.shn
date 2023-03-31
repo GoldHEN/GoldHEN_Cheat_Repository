@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mortal Kombat XL" Moder="Vampirexx+hejran7" Cusa="CUSA03679" Version="01.04" Process="eboot.bin">
+  <Genres Name="Fighting" />
+  <Items />
+  <Cheat Text="P1 Infinite HP" Description="">
+    <Cheatline>
+      <Offset>2DD782A</Offset>
+      <Section>0</Section>
+      <ValueOn>48-BA-B0-BF-68-FF-02-00-00-00-48-39-DA-0F-85-55-02-37-FD-C5-FA-11-93-38-0A-00-00-E9-48-02-37-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>147A8A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9B-FD-C8-02-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-93-38-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="P1 Easy Kill" Description="">
+    <Cheatline>
+      <Offset>2DD7800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-BA-F0-06-65-FF-02-00-00-00-48-39-DA-0F-84-7F-02-37-FD-C5-7A-11-B3-38-0A-00-00-E9-72-02-37-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>147A8A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-71-FD-C8-02-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-93-38-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="P1 Infinite X-Ray" Description="">
+    <Cheatline>
+      <Offset>2DD784A</Offset>
+      <Section>0</Section>
+      <ValueOn>49-BA-F0-06-65-FF-02-00-00-00-4D-39-F2-75-0F-C7-83-8C-02-00-00-00-00-80-3F-E9-6E-A7-69-FD-C5-FA-11-83-8C-02-00-00-E9-61-A7-69-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>471FCE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-77-58-96-02-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-8C-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="P1 Infinite Energy" Description="">
+    <Cheatline>
+      <Offset>2DD7875</Offset>
+      <Section>0</Section>
+      <ValueOn>49-B8-44-C2-A8-16-02-00-00-00-4D-39-F8-0F-84-0E-93-6A-FD-C4-C1-7A-11-07-E9-04-93-6A-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>480B91</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DF-6C-95-02</ValueOn>
+      <ValueOff>C4-C1-7A-11-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Krypt Koins" Description="">
+    <Cheatline>
+      <Offset>2DD7892</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-48-DF-BB-7F-96-98-00-41-89-59-08-E9-16-75-56-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>33EDB2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DB-8A-A9-02-90-90</ValueOn>
+      <ValueOff>0F-48-DF-41-89-59-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Fatality Koins + Skip Koins" Description="">
+    <Cheatline>
+      <Offset>2DD78A3</Offset>
+      <Section>0</Section>
+      <ValueOn>44-0F-4E-E9-B9-7F-96-98-00-E9-09-B2-7C-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5A2AB3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EB-4D-83-02-90-90</ValueOn>
+      <ValueOff>44-0F-4E-E9-44-29-E9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Timer - Tower + Story" Description="">
+    <Cheatline>
+      <Offset>369462</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-8F-48-19-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>  
+  <Cheat Text="Freeze Timer - Test your Might" Description="">
+    <Cheatline>
+      <Offset>1EBD8BF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>89-1A</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

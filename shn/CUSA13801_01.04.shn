@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sekiro Shadows Die Twice" Moder="hejran7" Cusa="CUSA13801" Version="01.04" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <StartUP Text="Speed Hack MC (Must Be On)" description="">
+    <Cheatline>
+      <Offset>38A7800</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-FC-00-74-0F-C7-87-70-09-00-00-00-00-80-3F-E9-AF-F2-D2-FD-C7-87-70-09-00-00-00-00-80-3F-E9-A0-F2-D2-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15D6ABA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-41-0D-2D-02-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-87-70-09-00-00-00-00-80-3F</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Posture MC (Must Be On)" Description="">
+    <Cheatline>
+      <Offset>38A784E</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-7D-18-00-75-13-90-90-90-90-90-90-90-45-89-A5-48-01-00-00-E9-28-8C-E4-FD-45-89-A5-48-01-00-00-E9-1C-8C-E4-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>16F0489</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C0-73-1B-02-90-90</ValueOn>
+      <ValueOff>45-89-A5-48-01-00-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Inf Health" Description="">
+    <Cheatline>
+      <Offset>162A14A</Offset>
+      <Section>0</Section>
+      <ValueOn>66-81-FC-90-82-90-90</ValueOn>
+      <ValueOff>80-BD-B0-FE-FF-FF-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf HP + OHK" Description="">
+    <Cheatline>
+      <Offset>162A14A</Offset>
+      <Section>0</Section>
+      <ValueOn>66-81-FC-90-82-90-90</ValueOn>
+      <ValueOff>80-BD-B0-FE-FF-FF-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>162A5C5</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-B6-30-01-00-00</ValueOn>
+      <ValueOff>41-89-86-30-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Undetected" Description="">
+    <Cheatline>
+      <Offset>E332EC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-87-68-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E332FC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>8D-48-FE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Enemies Location" Description="">
+    <Cheatline>
+      <Offset>E332EC</Offset>
+      <Section>0</Section>
+      <ValueOn>45-89-87-68-01-00-00</ValueOn>
+      <ValueOff>41-89-87-68-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlimited Posture" Description="">
+    <Cheatline>
+      <Offset>38A7855</Offset>
+      <Section>0</Section>
+      <ValueOn>45-8B-A5-4C-01-00-00</ValueOn>
+      <ValueOff>90-90-90-90-90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quick Deathblow" Description="">
+    <Cheatline>
+      <Offset>38A7868</Offset>
+      <Section>0</Section>
+      <ValueOn>45-89-BD-48-01-00-00</ValueOn>
+      <ValueOff>45-89-A5-48-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Fall Damage" Description="">
+    <Cheatline>
+      <Offset>1689253</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C8-90</ValueOn>
+      <ValueOff>44-29-E0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Status Effects" Description="Poison\Terror\Burn\Enfeeblement\Shock\Stepping into the fire">
+    <Cheatline>
+      <Offset>132D123</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C8-90</ValueOn>
+      <ValueOff>0F-4E-C1</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>132D15E</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C8-90</ValueOn>
+      <ValueOff>0F-4E-C1</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>132D1A3</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C8-90</ValueOn>
+      <ValueOff>0F-4E-C1</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>132D1DE</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C8-90</ValueOn>
+      <ValueOff>0F-4E-C1</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>132D21B</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C8-90</ValueOn>
+      <ValueOff>0F-4E-C1</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>163780F</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-C6-90</ValueOn>
+      <ValueOff>44-0F-4E-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf Money" Description="">
+    <Cheatline>
+      <Offset>139222A</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C8-90</ValueOn>
+      <ValueOff>0F-4C-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf Items" Description="">
+    <Cheatline>
+      <Offset>1083056</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-C7</ValueOn>
+      <ValueOff>41-39-C7</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Exp Quick lvl Up" Description="">
+    <Cheatline>
+      <Offset>38A7824</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8B-8D-F0-09-00-00-FF-C9-41-39-8D-60-01-00-00-7D-0C-41-89-8D-60-01-00-00-E9-46-8C-0F-FE-41-8B-8D-60-01-00-00-E9-3A-8C-0F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>19A0481</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9E-73-F0-01-90-90</ValueOn>
+      <ValueOff>41-8B-8D-60-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Super Jump" Description="">
+    <Cheatline>
+      <Offset>38A7874</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-79-10-86-C0-08-00-00-C5-F9-11-05-7B-C7-35-FC-C7-05-75-C7-35-FC-00-00-A0-41-C5-F9-10-05-69-C7-35-FC-E9-02-24-82-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>10C9C95</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DA-DB-7D-02-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-79-10-86-C0-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Speed Hack 1.25" Description="">
+    <Cheatline>
+      <Offset>38A7806</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-70-09-00-00-00-00-A0-3F</ValueOn>
+      <ValueOff>C7-87-70-09-00-00-00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Speed Hack 1.50" Description="">
+    <Cheatline>
+      <Offset>38A7806</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-70-09-00-00-00-00-C0-3F</ValueOn>
+      <ValueOff>C7-87-70-09-00-00-00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Speed Hack 2.00" Description="">
+    <Cheatline>
+      <Offset>38A7806</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-70-09-00-00-00-00-00-40</ValueOn>
+      <ValueOff>C7-87-70-09-00-00-00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Every1 Inf HP 4 Practice" Description="">
+    <Cheatline>
+      <Offset>162A5C5</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-86-30-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Money\Exp loss Upon Death" Description="">
+    <Cheatline>
+      <Offset>1E44746</Offset>
+      <Section>0</Section>
+      <ValueOn>44-89-F2</ValueOn>
+      <ValueOff>0F-4F-D0</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1E4482F</Offset>
+      <Section>0</Section>
+      <ValueOn>44-89-CF</ValueOn>
+      <ValueOff>0F-4F-F9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Auto Pick Enemy Drops" Description="">
+    <Cheatline>
+      <Offset>124B827</Offset>
+      <Section>0</Section>
+      <ValueOn>B0-00</ValueOn>
+      <ValueOff>B0-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
