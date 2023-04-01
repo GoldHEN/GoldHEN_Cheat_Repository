@@ -1,1 +1,75 @@
-{"name":"Police Simulator: Patrol Officers","id":"CUSA19608","version":"01.08","process":"eboot.bin","mods":[{"name":"Max SP (on Get after second gain)","type":"checkbox","memory":[{"offset":"6FBFBE0","on":"C7833C060000804FC347E920976DFA","off":"000000000000000000000000000000"},{"offset":"1699307","on":"E9D4689205909090","off":"C5FA11833C060000"}]},{"name":"Max CP (on lose)","type":"checkbox","memory":[{"offset":"6FBFC50","on":"C7833806000000C07944E953946DFA","off":"000000000000000000000000000000"},{"offset":"16990AA","on":"E9A16B9205909090","off":"C5FA118338060000"}]},{"name":"Infinite ammo (handgun)","type":"checkbox","memory":[{"offset":"6FBFCD0","on":"C747080000C642E9FD5714F9","off":"000000000000000000000000"},{"offset":"1054D4","on":"E9F7A7EB06","off":"C5FA114708"}]},{"name":"Infinite Ammo (stun gun)","type":"checkbox","memory":[{"offset":"6FBFA10","on":"41C78424880000000000C642E9E56F63FA","off":"0000000000000000000000000000000000"},{"offset":"15F69FC","on":"E90F909C059090909090","off":"C4C17A11842488000000"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Police Simulator: Patrol Officers",
+  "id": "CUSA19608",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max SP (on Get after second gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6FBFBE0",
+          "on": "C7833C060000804FC347E920976DFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1699307",
+          "on": "E9D4689205909090",
+          "off": "C5FA11833C060000"
+        }
+      ]
+    },
+    {
+      "name": "Max CP (on lose)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6FBFC50",
+          "on": "C7833806000000C07944E953946DFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "16990AA",
+          "on": "E9A16B9205909090",
+          "off": "C5FA118338060000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite ammo (handgun)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6FBFCD0",
+          "on": "C747080000C642E9FD5714F9",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "1054D4",
+          "on": "E9F7A7EB06",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo (stun gun)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6FBFA10",
+          "on": "41C78424880000000000C642E9E56F63FA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "15F69FC",
+          "on": "E90F909C059090909090",
+          "off": "C4C17A11842488000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

@@ -1,1 +1,43 @@
-{"name":"Battlefield™ V","id":"CUSA08724","version":"01.33","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"42B7A10","on":"807B6C11750FC5FA10431CC5FA11431CE9890C21FEC5FA11431CE97F0C21FE","off":"00000000000000000000000000000000000000000000000000000000000000"},{"offset":"24C86A9","on":"E962F3DE01","off":"C5FA11431C"}]},{"name":"Infinite Ammo/Grenades","type":"checkbox","memory":[{"offset":"42B7970","on":"8B8350020000E9F7F955FE","off":"0000000000000000000000"},{"offset":"281736C","on":"E9FF05AA0190","off":"898350020000"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Battlefield™ V",
+  "id": "CUSA08724",
+  "version": "01.33",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "42B7A10",
+          "on": "807B6C11750FC5FA10431CC5FA11431CE9890C21FEC5FA11431CE97F0C21FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "24C86A9",
+          "on": "E962F3DE01",
+          "off": "C5FA11431C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "42B7970",
+          "on": "8B8350020000E9F7F955FE",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "281736C",
+          "on": "E9FF05AA0190",
+          "off": "898350020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}
