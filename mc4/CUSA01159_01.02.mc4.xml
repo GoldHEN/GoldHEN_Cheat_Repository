@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA01159" Game="Sengoku Basara Sumeragi PS4" Moder="Q8Despair" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Gold Won">t Decrease"&gt;
+    
+
+</Cheat>
+<Cheat Text="special coin x99999 in battle">
+</Cheat>
+<Cheat Text="Growth points won">t Decrease x10"&gt;
+    
+
+</Cheat>
+<Cheat Text="Weapon points won">t Decrease x10"&gt;
+    
+
+</Cheat>
+<Cheat Text="Weapon rank points won">t Decrease"&gt;
+    
+
+</Cheat>
+</Trainer>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA07823" Game="Borderlands 3" Moder="Celogamez" Process="eboot.bin" Version="01.29" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="Max/Infinite Health+Shield+Action Skill (Master Code)">
+</Cheat>
+<Cheat Text="1 Hit Kill (Enable MC)">
+</Cheat>
+<Cheat Text="Infinite Ammo">
+</Cheat>
+<Cheat Text="No Reload">
+</Cheat>
+<Cheat Text="Max/Infinite Skill Points">
+</Cheat>
+<Cheat Text="Max/Infinite Money On Pick Up">
+</Cheat>
+<Cheat Text="Infinite Grenades">
+</Cheat>
+<Cheat Text="Max XP On Kill">
+</Cheat>
+</Trainer>

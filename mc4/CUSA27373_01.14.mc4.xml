@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA27373" Game="The Callisto Protocol" Moder="Celogamez" Process="eboot.bin" Version="01.14" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="Max/Infinite Health">
+</Cheat>
+<Cheat Text="1 Hit Kill">
+</Cheat>
+<Cheat Text="No Reload">
+</Cheat>
+<Cheat Text="Max/Infinite GRP">
+</Cheat>
+<Cheat Text="Max/Infinite Callisto Credits">
+</Cheat>
+</Trainer>
