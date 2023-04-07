@@ -2,7 +2,7 @@
 <Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 4" Moder="hejran7" Cusa="CUSA33388" Version="01.02" Process="eboot.bin">
   <Genres Name="Horror" />
   <Items />
-  <StartUP Text="HP_Untouchable MC (must be on) c" description="">
+  <StartUP Text="HP_Untouchable MC (must be on)" description="">
     <Cheatline>
       <Offset>FFFFFFFFFFC04000</Offset>
       <Section>0</Section>

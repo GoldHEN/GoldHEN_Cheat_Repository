@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Uncharted The Lost Legacy" Moder="hejran7" Cusa="CUSA07875" Version="01.09" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Dev Menu (L3 + Upper L or R Touch Pad)" Description="">
+    <Cheatline>
+      <Offset>219B800</Offset>
+      <Section>0</Section>
+      <ValueOn>51-8B-0D-42-6A-72-00-80-E1-40-41-88-8F-F9-2E-00-00-41-80-BF-F9-2E-00-00-00-59-E9-1F-5A-06-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>201236</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C5-A5-F9-01-90-90-90</ValueOn>
+      <ValueOff>41-80-BF-F9-2E-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Hide All Dev Menu Details">
+    <Cheatline>
+      <Offset>1FE198</Offset>
+      <Section>0</Section>
+      <ValueOn>80-B8-08-2F-00-00-01</ValueOn>
+      <ValueOff>80-B8-08-2F-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
