@@ -1,0 +1,172 @@
+{
+    "name": "Immortals Fenyx Rising ™",
+    "id": "CUSA16345",
+    "version": "1.34",
+    "process": "eboot.bin",
+    "mods": [
+        {
+            "name": "Infinite Health",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "6FCBDB0",
+                    "on": "8B8734FEFFFF898730FEFFFF8B8730FEFFFFE9EFE024FC526564646576696C3832202D20465720392E3030",
+                    "off": "0000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "3219EB0",
+                    "on": "E9FB1EDB0390",
+                    "off": "8B8730FEFFFF"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Stamina",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "6FCBDDB",
+                    "on": "C4C17A10855C010000C4C17A1185D0010000E99D4825FC",
+                    "off": "0000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "3220686",
+                    "on": "E950B7DA0390909090",
+                    "off": "C4C17A1185D0010000"
+                }
+            ]
+        },
+        {
+            "name": "Max Items ( on gain )",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "6FCBDF2",
+                    "on": "4885DBC70063000000E9736F7EFC",
+                    "off": "0000000000000000000000000000"
+                },
+                {
+                    "offset": "37B2D6E",
+                    "on": "E97F908103",
+                    "off": "4885DB8910"
+                }
+            ]
+        },
+        {
+            "name": "Max Items ( on use )",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "6FCBE01",
+                    "on": "29C841C746F863000000E901777EFC",
+                    "off": "000000000000000000000000000000"
+                },
+                {
+                    "offset": "37B350B",
+                    "on": "E9F188810390",
+                    "off": "29C8418946F8"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Jumps ( with Wings )",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "6FCBE10",
+                    "on": "31C08983B4060000E9B6CF28FE",
+                    "off": "00000000000000000000000000"
+                },
+                {
+                    "offset": "5258DCD",
+                    "on": "E93E30D70190",
+                    "off": "8983B4060000"
+                }
+            ]
+        },
+        {
+            "name": "Max Sword",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "6FCBE1D",
+                    "on": "C780A4020000060000008B80A4020000E93BF2F1FC",
+                    "off": "000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "3EEB067",
+                    "on": "E9B10D0E0390",
+                    "off": "8B80A4020000"
+                }
+            ]
+        },
+        {
+            "name": "Max Axe",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "6FCBE32",
+                    "on": "C780A8020000060000008B80A8020000E948F2F1FC",
+                    "off": "000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "3EEB089",
+                    "on": "E9A40D0E0390",
+                    "off": "8B80A8020000"
+                }
+            ]
+        },
+        {
+            "name": "Max Helmet",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "6FCBE47",
+                    "on": "C780B0020000060000008B80B0020000E91E53F2FC",
+                    "off": "000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "3EF1174",
+                    "on": "E9CEAC0D0390",
+                    "off": "8B80B0020000"
+                }
+            ]
+        },
+        {
+            "name": "Max Armor",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "6FCBE5C",
+                    "on": "C780B4020000060000008B80B4020000E91153F2FC",
+                    "off": "000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "3EF117C",
+                    "on": "E9DBAC0D0390",
+                    "off": "8B80B4020000"
+                }
+            ]
+        },
+        {
+            "name": "Max Bow",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "6FCBE71",
+                    "on": "C780AC020000060000008B80AC020000E901F2F1FC",
+                    "off": "000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "3EEB081",
+                    "on": "E9EB0D0E0390",
+                    "off": "8B80AC020000"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "Reddevil82 ",
+        " FW 9.00"
+    ]
+}
