@@ -136,6 +136,7 @@ CUSA02320_01.02.shn=Uncharted Collection - UNC1 Dev Menu
 CUSA03946_01.07.shn=Dying Light The Following - EE
 CUSA10812_01.01.shn=A Plague Tale Innocence
 SLUS20040_01.00.shn=Gradius III and IV
+CUSA32167_01.03.shn=No More Heroes III
 CUSA10851_01.02.shn=Burnout Paradise Remastered
 CUSA09171_01.04.shn=Resident Evil 2
 CUSA11650_01.00.shn=Slime Rancher
