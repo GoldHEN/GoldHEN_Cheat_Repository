@@ -1,1 +1,91 @@
-{"name":"God of War® III Remastered","id":"CUSA01715","version":"01.02","process":"eboot.bin","mods":[{"name":"Max/Infinite Health","type":"checkbox","memory":[{"offset":"3BFDB0","on":"4180BD98020000007517C4C17A1085D0010000C4C17A1185CC010000E93606C9FFC4C17A1185CC010000E92806C9FF","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"503FE","on":"E9ADF9360090909090","off":"C4C17A1185CC010000"}]},{"name":"Infinite Magic","type":"checkbox","memory":[{"offset":"7FC4BA50","on":"C5FA1083D0010000E977724280","off":"00000000000000000000000000"},{"offset":"72CCC","on":"E97F8DBD7F909090","off":"C5FA1183D0010000"}]},{"name":"Infinite Item Meter","type":"checkbox","memory":[{"offset":"7FC4BA70","on":"C5FA1087D4010000E912734280","off":"00000000000000000000000000"},{"offset":"72D87","on":"E9E48CBD7F909090","off":"C5FA1187D4010000"}]},{"name":"Infinite Rage Of Sparta","type":"checkbox","memory":[{"offset":"7FC4BA90","on":"C783D8010000286B6E4EE911EF4180","off":"000000000000000000000000000000"},{"offset":"6A9A8","on":"E9E310BE7F909090","off":"C5FA118BD8010000"}]},{"name":"Max/Infinite Red Orbs","type":"checkbox","memory":[{"offset":"7FC4BA30","on":"C787E8010000F0237449E9B5EF4180","off":"000000000000000000000000000000"},{"offset":"6A9EC","on":"E93F10BE7F909090","off":"C5FA1187E8010000"}]}],"credits":["Celogamez"]}
+{
+  "name": "God of War® III Remastered",
+  "id": "CUSA01715",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BFDB0",
+          "on": "4180BD98020000007517C4C17A1085D0010000C4C17A1185CC010000E93606C9FFC4C17A1185CC010000E92806C9FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "503FE",
+          "on": "E9ADF9360090909090",
+          "off": "C4C17A1185CC010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BA50",
+          "on": "C5FA1083D0010000E977724280",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "72CCC",
+          "on": "E97F8DBD7F909090",
+          "off": "C5FA1183D0010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Item Meter",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BA70",
+          "on": "C5FA1087D4010000E912734280",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "72D87",
+          "on": "E9E48CBD7F909090",
+          "off": "C5FA1187D4010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Rage Of Sparta",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BA90",
+          "on": "C783D8010000286B6E4EE911EF4180",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "6A9A8",
+          "on": "E9E310BE7F909090",
+          "off": "C5FA118BD8010000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Red Orbs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4BA30",
+          "on": "C787E8010000F0237449E9B5EF4180",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "6A9EC",
+          "on": "E93F10BE7F909090",
+          "off": "C5FA1187E8010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}
