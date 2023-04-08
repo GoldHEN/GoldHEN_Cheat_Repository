@@ -38,6 +38,7 @@ CUSA33388_01.02_2.shn=Resident Evil 4
 CUSA10249_01.07.shn=the last of us 2
 CUSA29092_01.08.shn=Call of Duty Vanguard
 CUSA33388_01.02.shn=RE4 RE
+CUSA08418_01.00.shn=Okami
 CUSA05969_01.25_default.elf.shn=Call OF Duty WW2
 CUSA08495_01.03.shn=Dark Souls Remastered
 CUSA16296_01.00.shn=Doom 64

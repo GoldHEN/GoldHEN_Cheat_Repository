@@ -98,7 +98,6 @@ CUSA07143_01.04.mc4.xml=Bulletstorm full Clip Edition
 CUSA07340_01.01.mc4.xml=Dragon\'s Dogma: Dark Arisen
 CUSA34029_01.08_sp22-cod.elf.mc4.xml=Call of Duty Modern Warfare II
 CUSA05105_01.00.mc4.xml=Tales of Berseria
-CUSA08418_01.00.mc4.xml=Okami
 CUSA09682_01.04.mc4.xml=Kingdom Come: Deliverance
 CUSA31337_01.01.mc4.xml=Greak: Memories of Azur
 CUSA03824_01.00.mc4.xml=The Technomancer

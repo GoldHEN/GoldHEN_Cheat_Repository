@@ -1023,7 +1023,6 @@ CUSA03440_01.00.json=Assassin’s Creed® Chronicles: Trilogy Pack
 CUSA13262_01.04.json=Ary and the Secret of Seasons
 CUSA10123_01.01.json=Assassins Creed® Rogue Remastered
 CUSA07254_01.00.json=Stellaris: Console Edition
-CUSA08418_01.00.json=ŌKAMI HD
 CUSA17052_01.15.json=Sakuna: Of Rice and Ruin
 CUSA25502_01.19.json=Hot Wheels Unleashed
 CUSA01073_01.07.json=Ratchet & Clank™
