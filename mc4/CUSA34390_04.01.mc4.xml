@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA34390" Game="God Of War Ragnarok" Moder="Celogamez" Process="eboot.bin" Version="04.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="(Kratos)Infinite Health/Rage (Disable Health Atreus)">
+</Cheat>
+<Cheat Text="(Atreus) Infinite Health/Arrows/Rage (Disable Health Kratos)">
+</Cheat>
+<Cheat Text="Instant Infinite Rage On First Hit Kratos/Atreus (Disable Health Both)">
+</Cheat>
+<Cheat Text="Max/Infinite XP/HS/Resources On Pick Up/Buy/Sell">
+</Cheat>
+<Cheat Text="Crystalline Fragment (100/Use Only For It)">
+</Cheat>
+<Cheat Text="No Cooldown">
+</Cheat>
+</Trainer>
