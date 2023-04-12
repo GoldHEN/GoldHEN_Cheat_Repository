@@ -123,6 +123,7 @@ CUSA04841_03.05.shn=No Man's Sky
 CUSA05933_01.00_khBBS.elf.shn=Kingdom Hearts Birth by Sleep
 CUSA07708_11.01.shn=Monster Huanter Storeies iceborne
 CUSA05933_01.00_khRecom.elf.shn=Kingdom Hearts Re Chain Of Memories
+CUSA33388_01.04.shn=Resident Evil 4 Remake
 CUSA10249_01.07_3.shn=The Last Of Us Part 2
 CUSA03991_01.33.shn=Dying Light The Following Enhanced Edition
 CUSA00552_01.09.shn=The Last of Us Remastered
