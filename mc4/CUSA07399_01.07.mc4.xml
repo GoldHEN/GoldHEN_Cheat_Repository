@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA07399" Game="CBNST" Moder="Saso_9.00" Process="eboot.bin" Version="01.07" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Master Code">
+</Cheat>
+<Cheat Text="Invincible ">
+</Cheat>
+<Cheat Text="Max Boxes">
+</Cheat>
+<Cheat Text="Max Apple">
+</Cheat>
+<Cheat Text="Max Lives">
+</Cheat>
+<Cheat Text="Max Diamonds">
+</Cheat>
+</Trainer>
