@@ -1,54 +1,54 @@
 {
-    "name": "Resident Evil Origins Collection",
-    "id": "CUSA03178",
-    "version": "1.01",
-    "process": "bh0hd.elf",
-    "mods": [
+  "name": "Resident Evil Origins Collection",
+  "id": "CUSA03178",
+  "version": "1.01",
+  "process": "bh0hd.elf",
+  "mods": [
+    {
+      "name": "Infinite Health/1hit kill (resident evil 0)",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Infinite Health/1hit kill (resident evil 0)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "B03840",
-                    "on": "80BF740200000C7509C6875013000096EB0BBE0000000089B750130000E9E44C66FF",
-                    "off": "00000000000000000000000000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "168540",
-                    "on": "E9FBB2990090",
-                    "off": "89B750130000"
-                }
-            ]
+          "offset": "B03840",
+          "on": "80BF740200000C7509C6875013000096EB0BBE0000000089B750130000E9E44C66FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
         },
         {
-            "name": "Infinite Ammo(Resident evil 0)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "B03940",
-                    "on": "43C644FC0832E94CDA60FF",
-                    "off": "0000000000000000000000"
-                },
-                {
-                    "offset": "111392",
-                    "on": "E9A9259F00",
-                    "off": "478974FC08"
-                }
-            ]
-        },
-        {
-            "name": "Infinite Ink (Resident evil 0)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "110A77",
-                    "on": "9090",
-                    "off": "29C8"
-                }
-            ]
+          "offset": "168540",
+          "on": "E9FBB2990090",
+          "off": "89B750130000"
         }
-    ],
-    "credits": [
-        "Wander FW9.00"
-    ]
+      ]
+    },
+    {
+      "name": "Infinite Ammo(Resident evil 0)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B03940",
+          "on": "43C644FC0832E94CDA60FF",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "111392",
+          "on": "E9A9259F00",
+          "off": "478974FC08"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ink (Resident evil 0)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "110A77",
+          "on": "9090",
+          "off": "29C8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
 }

@@ -1,1 +1,59 @@
-{"name":"Resident Evil Origins Collection","id":"CUSA03178","version":"01.01","process":"bh1hd.elf","mods":[{"name":"Infinite Ink (on use) (Resident evil)","type":"checkbox","memory":[{"offset":"AA7CB0","on":"41C6470463418A0424E96A9562FF","off":"0000000000000000000000000000"},{"offset":"D1220","on":"E98B6A9D00909090","off":"41894704418A0424"}]},{"name":"Infinite Ammo (Resident evil)","type":"checkbox","memory":[{"offset":"AA7CF0","on":"C644C33063E9778D62FF","off":"00000000000000000000"},{"offset":"D0A6C","on":"E97F729D00","off":"448964C330"}]},{"name":"Infinite health (Resident evil)","type":"checkbox","memory":[{"offset":"AA7D60","on":"6641C7864C170000B004E9F74E6EFF","off":"000000000000000000000000000000"},{"offset":"18CC5F","on":"E9FCB091009090","off":"4189864C170000"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Resident Evil Origins Collection",
+  "id": "CUSA03178",
+  "version": "01.01",
+  "process": "bh1hd.elf",
+  "mods": [
+    {
+      "name": "Infinite Ink (on use) (Resident evil)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "AA7CB0",
+          "on": "41C6470463418A0424E96A9562FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "D1220",
+          "on": "E98B6A9D00909090",
+          "off": "41894704418A0424"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo (Resident evil)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "AA7CF0",
+          "on": "C644C33063E9778D62FF",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "D0A6C",
+          "on": "E97F729D00",
+          "off": "448964C330"
+        }
+      ]
+    },
+    {
+      "name": "Infinite health (Resident evil)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "AA7D60",
+          "on": "6641C7864C170000B004E9F74E6EFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "18CC5F",
+          "on": "E9FCB091009090",
+          "off": "4189864C170000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}
