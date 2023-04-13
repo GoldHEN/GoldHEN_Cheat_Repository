@@ -142,6 +142,7 @@ CUSA07029_01.01.mc4.xml=Wonder Boy
 CUSA05532_01.07.mc4.xml=FINAL FANTASY 12 THE ZODIAC AGE 
 CUSA05088_01.15.mc4.xml=Dragon Ball Xenoverse 2
 CUSA03617_01.00.mc4.xml=Mafia III
+CUSA36986_01.04.mc4.xml=Wo Long Fallen Dynasty
 CUSA10872_01.00.mc4.xml=Shadow of Tomb Raider (Definitive Edition)
 CUSA03450_01.20.mc4.xml=Fallout 4
 CUSA03991_01.06.mc4.xml=Dying Light: The Following Enhanced Edition
