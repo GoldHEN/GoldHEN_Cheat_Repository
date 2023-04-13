@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA36986" Game="Wo Long Fallen Dynasty" Moder="Celogamez" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Max/Infinite Dragon Cure Potion">
+</Cheat>
+<Cheat Text="Infinite Throwables/Items">
+</Cheat>
+<Cheat Text="Instant Infinite Divine Beast Gauge (Hit Enemy)">
+</Cheat>
+<Cheat Text="Infinite Tiger Beast Gauge">
+</Cheat>
+<Cheat Text="Infinite Wizardry Spell">
+</Cheat>
+<Cheat Text="Infinite Wizardry Spell Points">
+</Cheat>
+<Cheat Text="Max Moral">
+</Cheat>
+<Cheat Text="Infinite Buffs">
+</Cheat>
+<Cheat Text="Max/Infinite Accolades On Buy">
+</Cheat>
+<Cheat Text="Max/Infinite Coppers">
+</Cheat>
+<Cheat Text="Max/Infinite Genuine Qi (Gain/Use)">
+</Cheat>
+</Trainer>
