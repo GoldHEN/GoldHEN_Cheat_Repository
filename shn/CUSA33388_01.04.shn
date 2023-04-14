@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 4 Remake" Moder="hejran7" Cusa="CUSA33388" Version="1.04" Process="eboot.bin">
-  <StartUP Text="HP_Untouchable MC (must be on)" Description="1st Leon_2nd AI">
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 4 Remake" Moder="hejran7" Cusa="CUSA33388" Version="01.04" Process="eboot.bin">
+  <Genres Name="Horror" />
+  <Items />
+  <StartUP Text="HP_Untouchable MC (must be on)">
     <Cheatline>
       <Offset>B3CF889</Offset>
       <Section>0</Section>
@@ -272,6 +274,14 @@
       <Section>0</Section>
       <ValueOn>E9-16-C0-E4-06-90</ValueOn>
       <ValueOff>01-81-DC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Mercenaries Timer" Description="">
+    <Cheatline>
+      <Offset>24996FE</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-5F-C1</ValueOn>
+      <ValueOff>C5-FA-5C-C1</ValueOff>
     </Cheatline>
   </Cheat>
 </Trainer>
