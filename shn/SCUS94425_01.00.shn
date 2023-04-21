@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Spyro 2" Moder="Skal" Cusa="SCUS94425" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Max gems">
+    <Cheatline>
+      <Offset>15236C</Offset>
+      <Section>11</Section>
+      <ValueOn>61-A8</ValueOn>
+      <ValueOff>61-A8</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
