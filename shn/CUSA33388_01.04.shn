@@ -132,10 +132,10 @@
       <ValueOff>C5-FA-11-43-30</ValueOff>
     </Cheatline>
     <Cheatline>
-      <Offset>63AA833</Offset>
+      <Offset>63AA839</Offset>
       <Section>0</Section>
-      <ValueOn>90-90-90-90-90-90</ValueOn>
-      <ValueOff>C4-C1-7A-10-46-08</ValueOff>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-38</ValueOff>
     </Cheatline>
   </Cheat>
   <Cheat Text="No Reload" Description="">
@@ -150,6 +150,14 @@
       <Section>0</Section>
       <ValueOn>E9-4B-BF-39-08</ValueOn>
       <ValueOff>C4-C2-78-F2-C6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Grenade" Description="">
+    <Cheatline>
+      <Offset>532514E</Offset>
+      <Section>0</Section>
+      <ValueOn>89-CA</ValueOn>
+      <ValueOff>89-D1</ValueOff>
     </Cheatline>
   </Cheat>
   <Cheat Text="Inf Ammo_Items_Crafting" Description="">
@@ -276,6 +284,14 @@
       <ValueOff>01-81-DC-00-00-00</ValueOff>
     </Cheatline>
   </Cheat>
+  <Cheat Text="Freeze Story Mode Timer" Description="">
+    <Cheatline>
+      <Offset>4BC4AA1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CE-00-00-00-90</ValueOn>
+      <ValueOff>0F-84-CD-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
   <Cheat Text="Freeze Mercenaries Timer" Description="">
     <Cheatline>
       <Offset>24996FE</Offset>
@@ -284,7 +300,7 @@
       <ValueOff>C5-FA-5C-C1</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Set Chapter Play Time to 10 Minutes">
+  <Cheat Text="Chapter Play Time Always 10 Minutes (End Chapter)" Description="">
     <Cheatline>
       <Offset>B3CF934</Offset>
       <Section>0</Section>
@@ -296,6 +312,34 @@
       <Section>0</Section>
       <ValueOn>E9-0B-EF-1E-0A-90-90</ValueOn>
       <ValueOff>48-3B-05-F5-F7-4F-0E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Compleation Time (Always less Than 4 hrs)" Description="">
+    <Cheatline>
+      <Offset>B3CF94C</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-52-18-48-81-7A-18-00-E9-A4-35-7E-08-48-C7-42-18-80-25-DB-33-48-03-4A-18-E9-59-5C-A0-F6</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1DD55BC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8B-A3-5F-09-90-90-90</ValueOn>
+      <ValueOff>48-8B-52-18-48-03-4A-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Total Play time Always Zero (End Chapter)" Description="">
+    <Cheatline>
+      <Offset>B3CF96B</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-7F-18-48-C7-47-18-00-00-00-00-48-03-47-18-E9-94-74-E4-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5216E0C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5A-8B-1B-06-90-90-90</ValueOn>
+      <ValueOff>48-8B-7F-18-48-03-47-18</ValueOff>
     </Cheatline>
   </Cheat>
 </Trainer>

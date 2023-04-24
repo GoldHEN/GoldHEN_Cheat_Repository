@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA15690" Game="Frostpunk" Moder="LMN" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="coal never decrease">
+</Cheat>
+<Cheat Text="inf overdrive">
+</Cheat>
+<Cheat Text="no build cost">
+</Cheat>
+<Cheat Text="no tech upgrade cost">
+</Cheat>
+<Cheat Text="food never decrease">
+</Cheat>
+<Cheat Text="inf stockpiles (disable to be able to remove one)">
+</Cheat>
+<Cheat Text="set all resources to 200 OR">
+</Cheat>
+<Cheat Text="set all resources to 9999">
+</Cheat>
+</Trainer>
