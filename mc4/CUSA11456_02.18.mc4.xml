@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA11456" Game="Ghost Of Tsushima" Moder="Celogamez" Process="eboot.bin" Version="02.18" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Max/Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Resolve">
+</Cheat>
+<Cheat Text="Max/Infinite Resources On Pick Up">
+</Cheat>
+<Cheat Text="Infinite Technique Points (Enable When you get 1)">
+</Cheat>
+</Trainer>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA12555" Game="Dying Light 2 Stay Human" Moder="Celogamez" Process="eboot.bin" Version="01.30" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health (Not Against Your Own Molotov)">
+</Cheat>
+<Cheat Text="Infinite Stamina/Breath">
+</Cheat>
+<Cheat Text="Infinite Items/Arrows/Craft On Use (Need 2 To work)">
+</Cheat>
+<Cheat Text="Infinite Throwables">
+</Cheat>
+<Cheat Text="Infinite Weapons Durability">
+</Cheat>
+<Cheat Text="Infinite Immunity/Chemical Area">
+</Cheat>
+<Cheat Text="Infinite UV Flashlight">
+</Cheat>
+<Cheat Text="Max/Infinite Money">
+</Cheat>
+<Cheat Text="Infinite Time challenge (Disable B4 Finishing)">
+</Cheat>
+<Cheat Text="Max XP (Use After Escaping Waltz)">
+</Cheat>
+</Trainer>

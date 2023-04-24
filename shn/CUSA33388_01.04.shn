@@ -284,4 +284,18 @@
       <ValueOff>C5-FA-5C-C1</ValueOff>
     </Cheatline>
   </Cheat>
+  <Cheat Text="Set Chapter Play Time to 10 Minutes">
+    <Cheatline>
+      <Offset>B3CF934</Offset>
+      <Section>0</Section>
+      <ValueOn>48-C7-46-18-00-46-C3-23-48-8B-46-18-48-3B-05-D9-08-31-04-E9-DF-10-E1-F5</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11E0A24</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0B-EF-1E-0A-90-90</ValueOn>
+      <ValueOff>48-3B-05-F5-F7-4F-0E</ValueOff>
+    </Cheatline>
+  </Cheat>
 </Trainer>

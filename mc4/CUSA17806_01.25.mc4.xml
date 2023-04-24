@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA17806" Game="Hellpoint" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.25" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Energy">
+</Cheat>
+<Cheat Text="Infinite Stamina">
+</Cheat>
+<Cheat Text="Max Axions ( on gain - use )">
+</Cheat>
+<Cheat Text="One Hit Kill">
+</Cheat>
+<Cheat Text="Perfect Temperature">
+</Cheat>
+<Cheat Text="Infinite Air">
+</Cheat>
+<Cheat Text="No Radiation">
+</Cheat>
+<Cheat Text="No Sanity">
+</Cheat>
+<Cheat Text="Max Tenacity">
+</Cheat>
+<Cheat Text="No load Equipment">
+</Cheat>
+<Cheat Text="Max Power Up ( on gain )">
+</Cheat>
+<Cheat Text="Max Stats">
+</Cheat>
+<Cheat Text="Max Items">
+</Cheat>
+</Trainer>
