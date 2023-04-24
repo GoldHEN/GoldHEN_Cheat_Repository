@@ -126,7 +126,6 @@ CUSA03173_01.00.shn=Bloodborne GOTY
 SLES52599_01.00.shn=Metal Slug 3
 CUSA11898_01.09.shn=(null)
 CUSA11995_01.17.shn=Marvel's Spider-Man
-CUSA08519_01.29.shn=Red Dead Redemption 2
 CUSA03651_01.01.shn=One Piece - Burning Blood
 CUSA05032_01.07.shn=Vikings - Wolves of Midgard
 CUSA09421_01.03.shn=Sky Force Reloaded
