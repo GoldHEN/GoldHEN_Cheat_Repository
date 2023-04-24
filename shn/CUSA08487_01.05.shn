@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Life is Strange - Before the Storm" Moder="illusion, TLH" Cusa="CUSA08487" Version="01.05" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="60 FPS">
+    <Cheatline>
+      <Offset>E53DAA</Offset>
+      <Section>0</Section>
+      <ValueOn>40-0F-94-C6</ValueOn>
+      <ValueOff>40-0F-95-C6</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

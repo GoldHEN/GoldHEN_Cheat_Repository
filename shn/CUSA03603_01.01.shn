@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dishonored 2" Moder="TLH" Cusa="CUSA03603" Version="01.01" Process="eboot.bin">
+  <Cheat Control="Toggel" Text="Godmode">
+    <Cheatline>
+      <Offset>294C1B0</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-FF-FF-FF-FF-39-73-4E-0F-84-2C-EA-BA-FE-C5-FA-11-43-20-E9-22-EA-BA-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14FABE5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C6-15-45-01</ValueOn>
+      <ValueOff>C5-FA-11-43-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Control="Toggel" Text="Infinite Money">
+    <Cheatline>
+      <Offset>294C1C8</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-3F-42-0F-00-89-9F-6C-01-00-00-E9-63-46-98-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12D0835</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8E-B9-67-01-90</ValueOn>
+      <ValueOff>01-9F-6C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Control="Toggel" Text="Infinite Mana">
+    <Cheatline>
+      <Offset>15360D5</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-47-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Control="Toggel" Text="Infinite Items/Ammo">
+    <Cheatline>
+      <Offset>12D078C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>89-5C-31-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

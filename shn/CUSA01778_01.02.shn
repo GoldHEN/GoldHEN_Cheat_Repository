@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dead or Alive 5 - Last Round" Moder="TLH" Cusa="CUSA01778" Version="01.02" Process="eboot.bin">
+  <Genres Name="Fighting" />
+  <Items />
+  <StartUP Text="Health" description="">
+    <Cheatline>
+      <Offset>144B800</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-41-54-49-C7-C4-00-B8-84-01-48-83-FB-01-74-11-41-80-3C-24-01-74-1B-41-80-7C-24-01-01-74-18-EB-1A-41-80-3C-24-02-74-0A-41-80-7C-24-01-02-74-07-EB-09-66-89-C8-EB-04-66-B8-00-00-41-5C-66-41-89-46-2C-E9-30-87-F1-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>363F73</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8A-78-0E-01</ValueOn>
+      <ValueOff>66-41-89-46-2C</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Player 1: Infinite Health" Description="">
+    <Cheatline>
+      <Offset>144B800</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Player 2: Infinite Health" Description="">
+    <Cheatline>
+      <Offset>144B800</Offset>
+      <Section>0</Section>
+      <ValueOn>02</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Player 1: 1-Hit K.O." Description="">
+    <Cheatline>
+      <Offset>144B801</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Player 2: 1-Hit K.O." Description="">
+    <Cheatline>
+      <Offset>144B801</Offset>
+      <Section>0</Section>
+      <ValueOn>02</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Score" Description="">
+    <Cheatline>
+      <Offset>363484</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C1-90</ValueOn>
+      <ValueOff>0F-42-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

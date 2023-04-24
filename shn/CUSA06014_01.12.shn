@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tekken 7" Moder="TLH" Cusa="CUSA06014" Version="01.12" Process="eboot.bin">
+  <Genres Name="Fighting" />
+  <Items />
+  <StartUP Text="Health" description="">
+    <Cheatline>
+      <Offset>52A381C</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-41-56-41-39-87-D4-11-00-00-76-3B-49-C7-C6-1C-38-6A-05-41-80-BF-D0-11-00-00-01-74-0F-41-80-3E-01-74-18-41-80-7E-01-01-74-18-EB-1B-41-80-3E-02-74-09-41-80-7E-01-02-74-09-EB-0C-B8-00-00-00-01-EB-05-B8-00-00-00-AA-41-5E-41-89-87-D4-11-00-00-E9-69-04-0D-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1373CD4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-45-FB-F2-03-90-90</ValueOn>
+      <ValueOff>41-89-87-D4-11-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1373C8E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-87-D4-11-00-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Infinite Money" Description="">
+    <Cheatline>
+      <Offset>52A3800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-3D-40-42-0F-00-7D-07-48-C7-C0-40-42-0F-00-48-39-03-7D-03-48-89-03-E9-33-99-AB-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D5D143</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B8-66-54-04</ValueOn>
+      <ValueOff>48-89-03-EB-07</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D5D148</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>48-C7-03-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Player 1: Infinite Health" Description="">
+    <Cheatline>
+      <Offset>52A381C</Offset>
+      <Section>0</Section>
+      <ValueOn>1</ValueOn>
+      <ValueOff>0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Player 2: Infinite Health" Description="">
+    <Cheatline>
+      <Offset>52A381C</Offset>
+      <Section>0</Section>
+      <ValueOn>02</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Player 1: 1-Hit K.O." Description="">
+    <Cheatline>
+      <Offset>52A381D</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Player 2: 1-Hit K.O." Description="">
+    <Cheatline>
+      <Offset>52A381D</Offset>
+      <Section>0</Section>
+      <ValueOn>02</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

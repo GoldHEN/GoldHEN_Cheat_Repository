@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sleeping Dogs" Moder="TLH" Cusa="CUSA01004" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Arcade" />
+  <Genres Name="Fighting" />
+  <Genres Name="Racing" />
+  <Genres Name="Shooter" />
+  <Items />
+  <StartUP Text="Player Pointer" description="">
+    <Cheatline>
+      <Offset>12B3800</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-48-A3-F0-7F-AE-01-00-00-00-00-C5-FA-2C-40-54-E9-E2-A9-37-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>62E1F3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0A-56-C8-00</ValueOn>
+      <ValueOff>C5-FA-2C-40-54</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Health / 1 Hit Kills" description="">
+    <Cheatline>
+      <Offset>12B3816</Offset>
+      <Section>0</Section>
+      <ValueOn>49-C7-C6-F0-7F-AE-01-4D-8B-36-4C-39-F7-49-89-FE-75-11-80-3D-D1-FF-FF-FF-01-75-16-C4-C1-72-5F-56-5C-EB-14-80-3D-C1-FF-FF-FF-01-75-05-0F-57-D2-EB-06-C4-C1-72-5D-56-5C-E9-71-4D-2A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5585BD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-54-B2-D5-00-90</ValueOn>
+      <ValueOff>C4-C1-72-5D-56-5C</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Game-Speed" description="">
+    <Cheatline>
+      <Offset>12B38CA</Offset>
+      <Section>0</Section>
+      <ValueOn>00-80-3D-F8-FF-FF-FF-01-74-1B-80-3D-EF-FF-FF-FF-02-74-1B-80-3D-E6-FF-FF-FF-03-74-1B-C7-40-38-00-00-80-3F-EB-19-C7-40-38-CD-CC-CC-3D-EB-10-C7-40-38-9A-99-99-3E-EB-07-C7-40-38-00-00-00-40-C5-FA-10-40-38-E9-3A-1B-FC-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>275447</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7F-E4-03-01</ValueOn>
+      <ValueOff>C5-FA-10-40-38</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Day-Time" description="">
+    <Cheatline>
+      <Offset>12B3912</Offset>
+      <Section>0</Section>
+      <ValueOn>00-80-3D-F8-FF-FF-FF-01-74-10-80-3D-EF-FF-FF-FF-02-74-10-C5-FA-11-43-24-EB-10-C7-43-24-00-00-00-00-EB-07-C7-43-24-00-C0-28-47-E9-E7-68-DB-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6A223</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EB-96-24-01</ValueOn>
+      <ValueOff>C5-FA-11-43-24</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>12B3800</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill" Description="">
+    <Cheatline>
+      <Offset>12B3801</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Health Regeneration" Description="">
+    <Cheatline>
+      <Offset>5A154B</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-5F-C9</ValueOn>
+      <ValueOff>C5-FA-5D-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money" Description="">
+    <Cheatline>
+      <Offset>4BBAC4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>44-29-B0-C4-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money on use" Description="">
+    <Cheatline>
+      <Offset>4BBAC4</Offset>
+      <Section>0</Section>
+      <ValueOn>44-89-A0-C4-03-00-00</ValueOn>
+      <ValueOff>44-29-B0-C4-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>569F63</Offset>
+      <Section>0</Section>
+      <ValueOn>89-F2-90</ValueOn>
+      <ValueOff>0F-4F-D6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bottomless Clip" Description="">
+    <Cheatline>
+      <Offset>569841</Offset>
+      <Section>0</Section>
+      <ValueOn>89-D1-90</ValueOn>
+      <ValueOff>0F-4F-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Never Wanted" Description="">
+    <Cheatline>
+      <Offset>4B63BB</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C0-90-90</ValueOn>
+      <ValueOff>C5-FA-10-45-EC</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Gauge" Description="">
+    <Cheatline>
+      <Offset>12B3852</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-98-10-18-00-00-C5-F8-2E-83-0C-06-00-00-76-0A-C5-FA-10-05-55-3D-DB-FF-EB-08-C5-FA-5D-05-4B-3D-DB-FF-E9-83-2A-20-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4B62F5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-58-D5-DF-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-5D-05-CB-12-BB-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlock Skills" Description="">
+    <Cheatline>
+      <Offset>12B387A</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-F8-13-74-20-48-83-F8-14-74-1A-48-83-F8-15-74-14-48-83-F8-1D-74-15-48-83-F8-1E-74-0F-48-83-F8-1F-74-10-74-0E-B8-0A-00-00-00-EB-0E-B8-10-27-00-00-EB-07-B8-F0-55-00-00-EB-00-89-84-B1-CC-02-00-00-EB-07-8B-84-81-CC-02-00-00-E9-46-25-1E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>495E09</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6C-DA-E1-00-90-90</ValueOn>
+      <ValueOff>8B-84-81-CC-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Game-Speed: Very Slow (0.1)" Description="">
+    <Cheatline>
+      <Offset>12B38CA</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Game-Speed: Slow (0.3)" Description="">
+    <Cheatline>
+      <Offset>12B38CA</Offset>
+      <Section>0</Section>
+      <ValueOn>02</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Game-Speed: Fast (2)" Description="">
+    <Cheatline>
+      <Offset>12B38CA</Offset>
+      <Section>0</Section>
+      <ValueOn>03</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Day-Time: Midnight" Description="">
+    <Cheatline>
+      <Offset>12B3912</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Day-Time: Noon" Description="">
+    <Cheatline>
+      <Offset>12B3912</Offset>
+      <Section>0</Section>
+      <ValueOn>02</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>  
+</Trainer>

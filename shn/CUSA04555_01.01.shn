@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dead or Alive - Xtreme 3 Fortune" Moder="TLH" Cusa="CUSA04555" Version="1.01" Process="eboot.bin">
+  <Genres Name="Arcade" />
+  <Genres Name="Sports" />
+  <Items />
+  <Cheat Text="Max Money" Description="">
+    <Cheatline>
+      <Offset>2AA7CC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-0F-4E-FA</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1CF5F7</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-4E-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Level" Description="">
+    <Cheatline>
+      <Offset>703800</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-FF-FF-FF-00-41-B9-FF-FF-FF-FF-E9-1C-61-BB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2B9926</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D5-9E-44-00-90</ValueOn>
+      <ValueOff>41-B9-FF-FF-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

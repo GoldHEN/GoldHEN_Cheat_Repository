@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 3" Moder="TLH, Rizla" Cusa="CUSA14168" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Fighting" />
+  <Genres Name="Shooter" />
+  <Items />
+  <StartUP Text="Player Pointer">
+    <Cheatline>
+      <Offset>712E240</Offset>
+      <Section>0</Section>
+      <ValueOn>48-A3-F0-3F-EF-0B-00-00-00-00-44-8B-78-58-E9-6E-BE-96-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A9A072</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C9-41-69-06-90</ValueOn>
+      <ValueOff>44-8B-78-58-EB-49</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Health / 1 Hit">
+    <Cheatline>
+      <Offset>712E253</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-48-A1-F0-3F-EF-0B-00-00-00-00-48-39-F0-8B-46-58-74-0D-80-3D-E6-FF-FF-FF-01-75-0D-31-C0-EB-0E-80-3D-D8-FF-FF-FF-01-74-05-0F-4C-CA-29-C8-E9-C8-B2-7C-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8F954A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-06-4D-83-06</ValueOn>
+      <ValueOff>0F-4C-CA-29-C8</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>712E253</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill" Description="">
+    <Cheatline>
+      <Offset>712E254</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bottomless Clip" Description="">
+    <Cheatline>
+      <Offset>1E31F5E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-F2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Clip Ammo" Description="">
+    <Cheatline>
+      <Offset>1E31F66</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C2-90</ValueOn>
+      <ValueOff>0F-4E-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>1E99A03</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>2B-95-78-FF-FF-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1E99A0B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-01-F2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ammo on Reload" Description="">
+    <Cheatline>
+      <Offset>1E99A10</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C2-90</ValueOn>
+      <ValueOff>0F-4E-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items" Description="">
+    <Cheatline>
+      <Offset>FA8600</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-AB-FC-82-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>60D11B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>29-48-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Short Animationtime for Aiming" Description="">
+    <Cheatline>
+      <Offset>DEA8BB</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C0-90</ValueOn>
+      <ValueOff>C5-FA-5C-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Gun-Focus" Description="">
+    <Cheatline>
+      <Offset>1D34444</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-05-D4-73-2A-03</ValueOn>
+      <ValueOff>C5-F3-58-C0-C5-FB-5A-C0</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1D34E05</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-5F-05-13-6A-2A-03</ValueOn>
+      <ValueOff>C5-FA-5D-05-13-6A-2A-03</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1D3466D</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-05-AB-71-2A-03</ValueOn>
+      <ValueOff>C5-F3-58-C0-C5-FB-5A-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze SaveCounter" Description="">
+    <Cheatline>
+      <Offset>15D3882</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items on Combine" Description="">
+    <Cheatline>
+      <Offset>1E98F51</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C2-90</ValueOn>
+      <ValueOff>0F-4E-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items on move from Storage" Description="">
+    <Cheatline>
+      <Offset>1E328B1</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-C5-90</ValueOn>
+      <ValueOff>44-0F-4E-E8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Itemslots on Get" Description="">
+    <Cheatline>
+      <Offset>60B95E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>45-0F-4C-F4</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Nemesis stays down" Description="">
+    <Cheatline>
+      <Offset>236EA01</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-28-C1</ValueOn>
+      <ValueOff>C5-F2-5C-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Nemesis instant recover" Description="">
+    <Cheatline>
+      <Offset>236EA01</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C0-90</ValueOn>
+      <ValueOff>C5-F2-5C-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Always Open Code-Locks" Description="">
+    <Cheatline>
+      <Offset>15CA801</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>75-2B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Max Modded Weapons" Description="">
+    <Cheatline>
+      <Offset>1E9B493</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-40-18-FF-00</ValueOn>
+      <ValueOff>44-09-E9-89-48-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Points on Spend">
+    <Cheatline>
+      <Offset>1E5A44F</Offset>
+      <Section>0</Section>
+      <ValueOn>89-51-7C</ValueOn>
+      <ValueOff>89-41-7C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wonder Boy" Moder="TLH" Cusa="CUSA07029" Version="01.01" Process="eboot.bin">
+  <Genres Name="Fighting" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>37F800</Offset>
+      <Section>0</Section>
+      <ValueOn>81-E3-FF-1F-00-00-48-81-FB-52-0F-00-00-74-04-44-88-34-18-E9-BC-94-CF-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>78CCA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-31-6B-30-00-90-90-90-90-90</ValueOn>
+      <ValueOff>81-E3-FF-1F-00-00-44-88-34-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

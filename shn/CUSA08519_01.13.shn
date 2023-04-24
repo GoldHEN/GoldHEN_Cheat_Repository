@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Red dead Redemption 2" Moder="TLH" Cusa="CUSA08519" Version="01.13" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>2A4B3A5</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>44-89-7C-08-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bottomless Clip" Description="">
+    <Cheatline>
+      <Offset>2A94945</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-4F-F1</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

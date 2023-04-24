@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="inFAMOUS - First Light" Moder="TLH" Cusa="CUSA00897" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Fighting" />
+  <Items />
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>2113B1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-EA-5C-D1</ValueOff>
+    </Cheatline>
+  </Cheat>  
+  <Cheat Text="Infinite Neon" Description="">
+    <Cheatline>
+      <Offset>210432</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F2-5F-C8</ValueOn>
+      <ValueOff>C5-F2-5D-C8</ValueOff>
+    </Cheatline>
+  </Cheat>  
+  <Cheat Text="Infinite Singularity" Description="">
+    <Cheatline>
+      <Offset>1DAC9C</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-28-C1-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-F8-2E-C1-0F-84-10-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Melee Finisher" Description="">
+    <Cheatline>
+      <Offset>1DAC30</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-02-00-00-00-90-90-90</ValueOn>
+      <ValueOff>39-B7-F8-00-00-00-74-37</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Missiles" Description="">
+    <Cheatline>
+      <Offset>1DABF0</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-04-00-00-00-90-90-90</ValueOn>
+      <ValueOff>39-B7-F4-00-00-00-74-37</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Skillpoints" Description="">
+    <Cheatline>
+      <Offset>1D9BC1</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-E7-03-00-00-90-89-9F-FC-00-00-00-90</ValueOn>
+      <ValueOff>89-9F-FC-00-00-00-80-BF-51-0D-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

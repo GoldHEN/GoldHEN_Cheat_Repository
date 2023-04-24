@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Need for Speed - Rivals" Moder="TLH" Cusa="CUSA00168" Version="01.04" Process="eboot.bin">
+  <Genres Name="Racing" />
+  <Items />
+  <Cheat Text="Infinite SP" Description="">
+    <Cheatline>
+      <Offset>D5DB7F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>44-29-60-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

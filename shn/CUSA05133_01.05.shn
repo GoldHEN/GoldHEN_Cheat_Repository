@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Yakuza 0" Moder="TLH" Cusa="CUSA05133" Version="01.05" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Arcade" />
+  <Genres Name="Fighting" />
+  <Items />
+  <StartUP Text="Health / 1 Hit" description="">
+    <Cheatline>
+      <Offset>12F3800</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-41-56-49-BE-10-30-3E-00-02-00-00-00-4C-39-F0-74-1D-49-BE-10-34-3E-00-02-00-00-00-4C-39-F0-74-0E-80-3D-D8-FF-FF-FF-01-75-10-66-31-C9-EB-0B-80-3D-C9-FF-FF-FF-01-75-02-EB-04-66-89-48-16-41-5E-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2ACFBD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-40-68-04-01</ValueOn>
+      <ValueOff>66-89-48-16-C3</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Heat" description="">
+    <Cheatline>
+      <Offset>12F3842</Offset>
+      <Section>0</Section>
+      <ValueOn>00-80-3D-F8-FF-FF-FF-01-74-26-80-3D-EF-FF-FF-FF-02-74-26-80-3D-E6-FF-FF-FF-03-74-26-80-3D-DD-FF-FF-FF-04-74-26-80-3D-D4-FF-FF-FF-05-74-26-75-2B-C7-43-1C-00-00-00-00-EB-22-C7-43-1C-00-00-DB-45-EB-19-C7-43-1C-00-00-5B-46-EB-10-C7-43-1C-00-00-B0-46-EB-07-C7-43-1C-00-10-A4-46-C5-FA-10-43-1C-E9-CD-7D-D5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4B66F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CF-81-2A-01</ValueOn>
+      <ValueOff>C5-FA-10-43-1C</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Blood Alcohol" description="">
+    <Cheatline>
+      <Offset>12F38A7</Offset>
+      <Section>0</Section>
+      <ValueOn>00-48-8B-80-B0-1B-00-00-80-3D-F1-FF-FF-FF-01-74-2F-80-3D-E8-FF-FF-FF-02-74-2E-80-3D-DF-FF-FF-FF-03-74-2D-80-3D-D6-FF-FF-FF-04-74-2C-80-3D-CD-FF-FF-FF-05-74-2B-80-3D-C4-FF-FF-FF-06-74-2A-EB-2E-66-C7-40-08-00-00-EB-26-66-C7-40-08-64-00-EB-1E-66-C7-40-08-2C-01-EB-16-66-C7-40-08-F4-01-EB-0E-66-C7-40-08-BC-02-EB-06-66-C7-40-08-E7-03-E9-1C-36-00-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2F6F2F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-74-C9-FF-00-90-90</ValueOn>
+      <ValueOff>48-8B-80-B0-1B-00-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Money/CP" description="">
+    <Cheatline>
+      <Offset>12F393F</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-49-81-FE-00-10-00-00-7F-14-80-3D-EF-FF-FF-FF-01-74-1F-80-3D-E6-FF-FF-FF-02-74-2B-EB-30-80-3D-DA-FF-FF-FF-01-74-0B-80-3D-D1-FF-FF-FF-02-74-0B-EB-1C-4C-39-74-C3-08-72-15-EB-18-49-BE-FF-E3-0B-54-02-00-00-00-EB-07-49-C7-C6-63-00-00-00-4C-89-74-C3-08-E9-9C-35-4E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7D6F2F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0D-CA-B1-00</ValueOn>
+      <ValueOff>4C-89-74-C3-08</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Pocket Car Circuit: Infinite Boost/Gauge" description="">
+    <Cheatline>
+      <Offset>12F3998</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-48-8D-88-B0-00-00-00-80-3D-F0-FF-FF-FF-01-75-07-C7-41-F8-05-00-00-00-80-3D-E1-FF-FF-FF-01-75-04-D9-E8-D9-19-F3-0F-10-01-E9-F6-0C-AE-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DD46B5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E0-F2-51-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-80-B0-00-00-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Cabaret: Health / Max Hostess Stats/Level" description="">
+    <Cheatline>
+      <Offset>12F3A07</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-80-3D-F6-FF-FF-FF-01-75-10-41-8B-4F-14-41-89-4F-10-41-C7-47-3C-00-00-00-00-80-3D-DE-FF-FF-FF-01-75-28-B9-64-00-00-00-48-31-C0-41-89-4C-87-18-FF-C0-83-F8-04-7C-F4-B9-02-00-00-00-48-31-C0-41-89-4C-87-44-FF-C0-83-F8-04-7C-F4-80-3D-AE-FF-FF-FF-01-75-10-41-C7-47-14-E8-03-00-00-41-C7-47-6C-FF-C9-9A-3B-41-8B-4F-10-41-8B-47-14-E9-4E-79-27-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>56B3C0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-45-86-D8-00-90-90-90</ValueOn>
+      <ValueOff>41-8B-4F-10-41-8B-47-14</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>12F3800</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill" Description="">
+    <Cheatline>
+      <Offset>12F3801</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Heat: Empty" Description="">
+    <Cheatline>
+      <Offset>12F3842</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Heat: Bar 2" Description="">
+    <Cheatline>
+      <Offset>12F3842</Offset>
+      <Section>0</Section>
+      <ValueOn>02</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Heat: Bar 3" Description="">
+    <Cheatline>
+      <Offset>12F3842</Offset>
+      <Section>0</Section>
+      <ValueOn>03</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Heat: Max" Description="">
+    <Cheatline>
+      <Offset>12F3842</Offset>
+      <Section>0</Section>
+      <ValueOn>04</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Blood Alcohol: Sober" Description="">
+    <Cheatline>
+      <Offset>12F38A7</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Blood Alcohol: Less Sober" Description="">
+    <Cheatline>
+      <Offset>12F38A7</Offset>
+      <Section>0</Section>
+      <ValueOn>02</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Blood Alcohol: Alcoholized" Description="">
+    <Cheatline>
+      <Offset>12F38A7</Offset>
+      <Section>0</Section>
+      <ValueOn>03</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Blood Alcohol: Bit Drunk" Description="">
+    <Cheatline>
+      <Offset>12F38A7</Offset>
+      <Section>0</Section>
+      <ValueOn>04</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Blood Alcohol: Drunk" Description="">
+    <Cheatline>
+      <Offset>12F38A7</Offset>
+      <Section>0</Section>
+      <ValueOn>05</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Blood Alcohol: Drunk (Max)" Description="">
+    <Cheatline>
+      <Offset>12F38A7</Offset>
+      <Section>0</Section>
+      <ValueOn>06</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina" Description="">
+    <Cheatline>
+      <Offset>12F3A7A</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-57-C0-C5-FA-11-43-0C-E9-2A-34-00-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2F6EAD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C8-CB-FF-00</ValueOn>
+      <ValueOff>C5-FA-11-43-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Money: Infinite" Description="">
+    <Cheatline>
+      <Offset>12F393F</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Money: Max on Use" Description="">
+    <Cheatline>
+      <Offset>12F393F</Offset>
+      <Section>0</Section>
+      <ValueOn>02</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="CP: Infinite" Description="">
+    <Cheatline>
+      <Offset>12F3940</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="CP: Max on Use" Description="">
+    <Cheatline>
+      <Offset>12F3940</Offset>
+      <Section>0</Section>
+      <ValueOn>02</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>7D5D92</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-1B</ValueOn>
+      <ValueOff>77-1B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ammo on Shot" Description="">
+    <Cheatline>
+      <Offset>7D5DA5</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-0F-4C-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Weapon Durability on Use" Description="">
+    <Cheatline>
+      <Offset>7D5B3C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-0F-4C-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Weapon Durability" Description="">
+    <Cheatline>
+      <Offset>7D5B29</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-19</ValueOn>
+      <ValueOff>74-19</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items" Description="">
+    <Cheatline>
+      <Offset>7D4FC6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items (Warehouse)" Description="">
+    <Cheatline>
+      <Offset>7D4A30</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-89-77-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Real Estate: Instant Payout" Description="">
+    <Cheatline>
+      <Offset>5E4C66</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-40-08-00-01-90-90</ValueOn>
+      <ValueOff>C6-40-09-00-C6-40-08-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Pocket Car Circuit: Infinite Boost" Description="">
+    <Cheatline>
+      <Offset>12F3998</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Pocket Car Circuit: Infinite Gauge" Description="">
+    <Cheatline>
+      <Offset>12F3999</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Cabaret: Infinite Time" Description="">
+    <Cheatline>
+      <Offset>564BC2</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8B-B4-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Cabaret: Instant End" Description="">
+    <Cheatline>
+      <Offset>12F39E7</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-B4-01-00-00-00-00-00-00-E9-D2-11-27-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>564BC2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-20-EE-D8-00-90</ValueOn>
+      <ValueOff>FF-8B-B4-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Cabaret: Max Fever Gauge" Description="">
+    <Cheatline>
+      <Offset>12F39F6</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-48-00-00-C8-42-C5-FA-10-43-48-E9-C1-A4-27-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>56DEC3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2E-5B-D8-00</ValueOn>
+      <ValueOff>C5-FA-10-43-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Cabaret: Max Hostess Health" Description="">
+    <Cheatline>
+      <Offset>12F3A07</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Cabaret: Max Hostess Stats" Description="">
+    <Cheatline>
+      <Offset>12F3A08</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Cabaret: Max Hostess Level" Description="">
+    <Cheatline>
+      <Offset>12F3A09</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Completition" Description="">
+    <Cheatline>
+      <Offset>705FFC</Offset>
+      <Section>0</Section>
+      <ValueOn>89-F2</ValueOn>
+      <ValueOff>39-F2</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>705FFE</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-C2-90</ValueOn>
+      <ValueOff>0F-4F-D6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Dance Battle Points" Description="">
+    <Cheatline>
+      <Offset>5CEE99</Offset>
+      <Section>0</Section>
+      <ValueOn>4D-01-9F-A8-00-00-00</ValueOn>
+      <ValueOff>41-01-87-A8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Baseball: No StrikeOut" Description="">
+    <Cheatline>
+      <Offset>503A59</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>FF-43-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Baseball: S-Ranking" Description="">
+    <Cheatline>
+      <Offset>12F391A</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-63-00-00-00-41-89-8E-84-11-00-00-E9-BE-1D-22-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5156E2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-33-E2-DD-00-90-90</ValueOn>
+      <ValueOff>41-8B-8E-84-11-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Baseball: Gold Rush: Dont loose Money" Description="">
+    <Cheatline>
+      <Offset>503A8A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>48-2B-43-28</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>503A96</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-41-18-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>503A9D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>48-C7-43-28-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Baseball: Gold Rush: Easy Money" Description="">
+    <Cheatline>
+      <Offset>12F392B</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-49-20-48-C7-C0-FF-E0-F5-05-48-89-41-28-E9-F5-4D-21-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>50872C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FA-B1-DE-00-90-90-90</ValueOn>
+      <ValueOff>48-8B-49-20-48-01-41-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bowling: Infinite Balls (Split-Game)" Description="">
+    <Cheatline>
+      <Offset>496EB1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-88-88-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="TelTel Boys Club: Infinite Time" Description="">
+    <Cheatline>
+      <Offset>65CAE9</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-F1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Casino: Big Win (10.000.000)" Description="">
+    <Cheatline>
+      <Offset>12F39C7</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-F8-01-75-13-57-48-8B-7C-C3-08-49-39-FE-5F-76-0C-49-81-C6-80-96-98-00-4C-89-74-C3-08-EB-AC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12F398E</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-37-90-90-90</ValueOn>
+      <ValueOff>4C-89-74-C3-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Training (Bacchus/Komaki/Areshi)" Description="">
+    <Cheatline>
+      <Offset>B6C17</Offset>
+      <Section>0</Section>
+      <ValueOn>89-D1-90</ValueOn>
+      <ValueOff>0F-48-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="ItemEditor (L2=PrevID / R2=NextID)" Description="">
+    <Cheatline>
+      <Offset>12F3ADA</Offset>
+      <Section>0</Section>
+      <ValueOn>53-48-C7-C3-E0-7F-B1-01-50-A1-88-43-41-00-08-00-00-00-48-3B-43-08-75-0B-80-7B-FE-20-74-05-FE-43-FE-EB-3D-48-89-43-08-C6-43-FE-00-48-8B-1B-80-7B-06-00-74-2C-48-83-F8-00-74-26-48-3D-00-02-00-00-74-0A-48-3D-00-01-00-00-74-0D-EB-14-66-83-3B-FF-74-0E-66-FF-03-EB-09-66-83-3B-01-74-03-66-FF-0B-58-48-C7-C3-E0-7F-B1-01-80-7B-FF-00-74-0C-80-7B-FF-01-74-0C-80-7B-FF-02-74-0C-5B-E9-CE-46-46-FF-5B-E9-5D-41-D6-FE-5B-E9-D2-8E-45-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12F3A88</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8D-7D-88-66-8B-18-53-48-C7-C3-E0-7F-B1-01-C6-43-FF-00-48-89-03-5B-EB-39-90-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12F3AC0</Offset>
+      <Section>0</Section>
+      <ValueOn>49-8B-86-B8-34-00-00-48-C7-C1-E0-7F-B1-01-C6-41-FF-02-48-89-01-EB-03-90-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>74CA31</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8A-70-BA-00-90-90</ValueOn>
+      <ValueOff>49-8B-86-B8-34-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>758221</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-62-B8-B9-00-90-90</ValueOn>
+      <ValueOff>48-8D-7D-88-66-8B-18</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12F3AA4</Offset>
+      <Section>0</Section>
+      <ValueOn>66-8B-18-48-8D-7D-88-53-48-C7-C3-E0-7F-B1-01-C6-43-FF-01-48-89-03-5B-EB-1D-90-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>57CB6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E9-BD-29-01-90-90</ValueOn>
+      <ValueOff>66-8B-18-48-8D-7D-88</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

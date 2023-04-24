@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dishonored (Definitive Edition)" Moder="TLH" Cusa="CUSA02231" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Fighting" />
+  <Genres Name="RPG" />
+  <Items />
+  <StartUP Text="Health Pointer" description="">
+    <Cheatline>
+      <Offset>1CB3800</Offset>
+      <Section>0</Section>
+      <ValueOn>49-8B-07-48-8D-7D-80-4C-89-3D-E2-C7-68-00-E9-7A-B4-A4-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6FEC86</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-75-4B-5B-01-90-90</ValueOn>
+      <ValueOff>49-8B-07-48-8D-7D-80</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Health / 1 Hit" description="">
+    <Cheatline>
+      <Offset>1CB3813</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-41-8B-86-00-04-00-00-4C-39-35-CD-C7-68-00-74-0D-80-3D-E8-FF-FF-FF-01-75-16-31-C0-EB-14-80-3D-DA-FF-FF-FF-01-75-09-41-8B-86-04-04-00-00-EB-02-29-C8-E9-41-79-4B-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>16B183</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8D-86-B4-01-90-90-90-90</ValueOn>
+      <ValueOff>41-8B-86-00-04-00-00-29-C8</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>1CB3813</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6CD4F9</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>41-29-C6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill" Description="">
+    <Cheatline>
+      <Offset>1CB3814</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Mana" Description="">
+    <Cheatline>
+      <Offset>6D7AD8</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-4F-CE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Breath" Description="">
+    <Cheatline>
+      <Offset>6F3651</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-28-D0</ValueOn>
+      <ValueOff>C5-FA-5C-D2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bottomless Clip" Description="">
+    <Cheatline>
+      <Offset>8CC0D4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-F1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>88C200</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-F2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Control="Toggel" Text="Infinite Items">
+    <Cheatline>
+      <Offset>88C076</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-FF-8C-85-08-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money" Description="">
+    <Cheatline>
+      <Offset>88CE7D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-FE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Runes" Description="">
+    <Cheatline>
+      <Offset>88CE7F</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-14-00-00-00-90</ValueOn>
+      <ValueOff>85-F6-41-0F-4E-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stealth" Description="">
+    <Cheatline>
+      <Offset>1CB3875</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-00-00-00-00-88-87-F0-00-00-00-E9-82-BB-AD-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>78F400</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-70-44-52-01-90-90</ValueOn>
+      <ValueOff>0F-B6-87-F0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Dark Vision" Description="">
+    <Cheatline>
+      <Offset>86EC4C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-F2-5C-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Cooldown: Blink" Description="">
+    <Cheatline>
+      <Offset>8725B2</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-83-AC-01-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Possession" Description="">
+    <Cheatline>
+      <Offset>87A37D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-F2-5C-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Choke" Description="">
+    <Cheatline>
+      <Offset>6691E7</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C0-90-90</ValueOn>
+      <ValueOff>C5-FA-10-45-B4</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Adrenaline" Description="">
+    <Cheatline>
+      <Offset>6DF189</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-F2-5C-C0</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6DAA50</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-87-A8-0B-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6CF525</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-45-E4</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6CF52A</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-28-C8-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-58-8B-A8-0B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Wheels Instant Turn" Description="">
+    <Cheatline>
+      <Offset>1CB384B</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-D0-03-00-00-00-00-80-3F-C5-FA-10-83-D0-03-00-00-E9-30-D9-98-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>64118A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BC-26-67-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-58-83-D0-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Safe always Open" Description="">
+    <Cheatline>
+      <Offset>1CB3862</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-8F-F4-00-00-00-89-C8-89-87-F0-00-00-00-E9-D7-3D-65-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1307646</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-17-C2-9A-00-90</ValueOn>
+      <ValueOff>8B-8F-F4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Perfect Stats" Description="">
+    <Cheatline>
+      <Offset>1CB3885</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-F8-00-74-1A-48-83-F8-03-74-14-48-83-F8-06-74-0E-48-83-F8-09-74-08-48-83-F8-0C-74-02-EB-05-0F-57-C0-EB-06-C5-FA-58-44-81-04-E9-A1-59-A0-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6B9250</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-30-A6-5F-01-90</ValueOn>
+      <ValueOff>C5-FA-58-44-81-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

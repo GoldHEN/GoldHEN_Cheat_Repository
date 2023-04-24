@@ -1,125 +1,25 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Doom" Moder="Dioniso" Cusa="CUSA02092" Version="01.11" Process="eboot.bin">
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Doom" Moder="TLH" Cusa="CUSA02092" Version="01.11" Process="eboot.bin">
   <Genres Name="Action" />
+  <Genres Name="Fighting" />
   <Genres Name="FPS" />
+  <Genres Name="Horror" />
   <Genres Name="Shooter" />
   <Items />
-  <Cheat Text="Infinite Health + Shield">
+  <Cheat Text="Infinite Health/Shield" Description="">
     <Cheatline>
-      <Offset>3B6F800</Offset>
+      <Offset>7562E6</Offset>
       <Section>0</Section>
-      <ValueOn>41-C7-45-00-00-00-48-43-48-8B-45-80-84-C0-E9-2B-6B-BE-FC</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>756338</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-C3-94-41-03-90</ValueOn>
-      <ValueOff>48-8B-45-80-84-C0</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="1 Hit Kill">
-    <Cheatline>
-      <Offset>3B6F910</Offset>
-      <Section>0</Section>
-      <ValueOn>C4-C3-79-17-5D-00-01-41-C7-47-18-00-00-00-00-E9-79-61-A9-FC</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>605A96</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-75-9E-56-03-90-90</ValueOn>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
       <ValueOff>C4-C3-79-17-5D-00-01</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite Ammo">
+  <Cheat Text="Infinite Ammo" Description="">
     <Cheatline>
-      <Offset>3B6F7A0</Offset>
+      <Offset>E0CBD8</Offset>
       <Section>0</Section>
-      <ValueOn>48-89-C7-44-89-F6-C7-47-38-9A-02-00-00-E9-0D-D4-29-FD</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>E0CBB9</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-E2-2B-D6-02-90</ValueOn>
-      <ValueOff>48-89-C7-44-89-F6</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Infinite Grenades (Frag+Holograms+Siphon)">
-    <Cheatline>
-      <Offset>3B6F890</Offset>
-      <Section>0</Section>
-      <ValueOn>41-FF-8D-28-CB-00-00-48-83-F9-09-0F-85-1F-FA-18-FD-48-83-FA-01-0F-85-15-FA-18-FD-41-C7-85-28-CB-00-00-02-00-00-00-E9-05-FA-18-FD</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>CFF2B9</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-D2-05-E7-02-90-90</ValueOn>
-      <ValueOff>41-FF-8D-28-CB-00-00</ValueOff>
-    </Cheatline>
-	<Cheatline>
-      <Offset>3B6F8E0</Offset>
-      <Section>0</Section>
-      <ValueOn>41-FF-8F-28-CB-00-00-48-83-FE-00-0F-85-4B-C4-1A-FD-49-81-FB-E1-1D-00-00-0F-85-3E-C4-1A-FD-41-C7-87-28-CB-00-00-02-00-00-00-E9-2E-C4-1A-FD</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>D1BD35</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-A6-3B-E5-02-90-90</ValueOn>
-      <ValueOff>41-FF-8F-28-CB-00-00</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Infinite Praetor Points (Need Buy Once)">
-    <Cheatline>
-      <Offset>3B6F8D0</Offset>
-      <Section>0</Section>
-      <ValueOn>48-89-DF-C7-43-38-42-00-00-00-E9-26-C7-29-FD</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>E0BFFF</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-CC-38-D6-02-90</ValueOn>
-      <ValueOff>48-89-DF-89-43-38</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Infinite Weapon Points (Need Buy Once)">
-    <Cheatline>
-      <Offset>3B6F860</Offset>
-      <Section>0</Section>
-      <ValueOn>C7-83-70-5A-05-00-42-00-00-00-8B-83-70-5A-05-00-E9-72-30-12-FD</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>C928E1</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-7A-CF-ED-02-90</ValueOn>
-      <ValueOff>89-83-70-5A-05-00</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Infinite Jump (Need Delta V Jump-Boots)">
-    <Cheatline>
-      <Offset>3B6F820</Offset>
-      <Section>0</Section>
-      <ValueOn>C7-83-94-1E-00-00-00-00-00-00-83-BB-94-1E-00-00-02-E9-54-E1-79-FC</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>30D983</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-98-1E-86-03-90-90</ValueOn>
-      <ValueOff>83-BB-94-1E-00-00-02</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Infinite Rune Trial Time">
-    <Cheatline>
-      <Offset>A6FC9F</Offset>
-      <Section>0</Section>
-      <ValueOn>90-90-90</ValueOn>
-      <ValueOff>44-29-F0</ValueOff>
+      <ValueOn>EB-40</ValueOn>
+      <ValueOff>74-32</ValueOff>
     </Cheatline>
   </Cheat>
 </Trainer>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Witcher 3 Wild Hunt" Moder="Cosmaty, TLH" Cusa="CUSA05574" Version="01.50" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <StartUP Text="Code">
+    <Cheatline>
+      <Offset>24F3800</Offset>
+      <Section>0</Section>
+      <ValueOn>83-79-20-03-74-0E-83-79-20-07-74-23-83-79-20-05-74-29-EB-41-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-EB-26-90-90-90-90-90-90-90-90-90-90-EB-1A-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-EB-06-C5-FA-10-44-81-04-C5-FA-11-04-81-83-FB-06-0F-85-D3-AB-C0-FE-E9-B9-AB-C0-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>10FE41A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E1-53-3F-01</ValueOn>
+      <ValueOff>C5-FA-11-04-81</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="God Mode">
+    <Cheatline>
+      <Offset>24F3814</Offset>
+      <Section>0</Section>
+      <ValueOn>83-F8-00-74-36</ValueOn>
+      <ValueOff>90-90-90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Kill">
+    <Cheatline>
+      <Offset>24F383B</Offset>
+      <Section>0</Section>
+      <ValueOn>81-3C-81-00-00-F0-38-74-11-C7-04-81-00-00-F0-38-EB-0D</ValueOn>
+      <ValueOff>90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Stamina">
+    <Cheatline>
+      <Offset>24F3819</Offset>
+      <Section>0</Section>
+      <ValueOn>83-F8-03-74-31</ValueOn>
+      <ValueOff>90-90-90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Toxic">
+    <Cheatline>
+      <Offset>24F381E</Offset>
+      <Section>0</Section>
+      <ValueOn>83-F8-05-74-37</ValueOn>
+      <ValueOff>90-90-90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Adrenaline">
+    <Cheatline>
+      <Offset>24F3823</Offset>
+      <Section>0</Section>
+      <ValueOn>83-F8-09-74-27</ValueOn>
+      <ValueOff>90-90-90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Oxygen">
+    <Cheatline>
+      <Offset>24F3828</Offset>
+      <Section>0</Section>
+      <ValueOn>83-F8-0C-74-22</ValueOn>
+      <ValueOff>90-90-90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Horse Run">
+    <Cheatline>
+      <Offset>24F382F</Offset>
+      <Section>0</Section>
+      <ValueOn>83-F8-03-74-1B</ValueOn>
+      <ValueOff>90-90-90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Min Horse Panic">
+    <Cheatline>
+      <Offset>24F3834</Offset>
+      <Section>0</Section>
+      <ValueOn>83-F8-06-74-16</ValueOn>
+      <ValueOff>90-90-90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Money 999999">
+    <Cheatline>
+      <Offset>24F3868</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-FA-2C-74-10-48-83-FA-2D-74-0A-44-01-E0-89-01-E9-F4-AB-3B-FE-C7-01-3F-42-0F-00-E9-E9-AB-3B-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8AE46D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F6-53-C4-01</ValueOn>
+      <ValueOff>44-01-E0-89-01</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>24F3889</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-FC-2C-74-0B-41-83-FC-2D-74-05-E9-5A-B3-3B-FE-C7-00-3F-42-0F-00-E9-4F-B3-3B-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8AEB5C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-28-4D-C4-01</ValueOn>
+      <ValueOff>E9-93-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Waight 999999">
+    <Cheatline>
+      <Offset>24F38A5</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-FB-00-74-0C-C4-81-7A-10-4C-E7-0C-E9-F7-6F-75-FE-43-81-7C-E7-10-00-00-70-42-74-0C-C4-81-7A-10-4C-E7-0C-E9-E0-6F-75-FE-43-C7-44-E7-0C-F0-23-74-49-43-C7-44-E7-10-F0-23-74-49-E9-C9-6F-75-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C4A8A7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F9-8F-8A-01-90-90</ValueOn>
+      <ValueOff>C4-81-7A-10-4C-E7-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="XP x4 (Turn off first: x8, x16)">
+    <Cheatline>
+      <Offset>24F38E5</Offset>
+      <Section>0</Section>
+      <ValueOn>48-39-F3-75-0C-41-8B-04-24-03-45-C8-E9-0C-27-DF-FE-41-81-7C-24-04-E8-03-00-00-7D-02-EB-E7-B8-04-00-00-00-F7-65-C8-41-03-04-24-E9-EE-26-DF-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12E5FFB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E5-D8-20-01-90-90</ValueOn>
+      <ValueOff>41-8B-04-24-03-45-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="XP x8 (Turn off first: x4, x16)">
+    <Cheatline>
+      <Offset>24F38E5</Offset>
+      <Section>0</Section>
+      <ValueOn>48-39-F3-75-0C-41-8B-04-24-03-45-C8-E9-0C-27-DF-FE-41-81-7C-24-04-E8-03-00-00-7D-02-EB-E7-B8-08-00-00-00-F7-65-C8-41-03-04-24-E9-EE-26-DF-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12E5FFB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E5-D8-20-01-90-90</ValueOn>
+      <ValueOff>41-8B-04-24-03-45-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="XP x16 (Turn off first: x4, x8)">
+    <Cheatline>
+      <Offset>24F38E5</Offset>
+      <Section>0</Section>
+      <ValueOn>48-39-F3-75-0C-41-8B-04-24-03-45-C8-E9-0C-27-DF-FE-41-81-7C-24-04-E8-03-00-00-7D-02-EB-E7-B8-10-00-00-00-F7-65-C8-41-03-04-24-E9-EE-26-DF-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12E5FFB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E5-D8-20-01-90-90</ValueOn>
+      <ValueOff>41-8B-04-24-03-45-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Skill Points">
+    <Cheatline>
+      <Offset>24F3914</Offset>
+      <Section>0</Section>
+      <ValueOn>48-39-F3-75-0C-41-8B-04-24-2B-45-C8-E9-AD-27-DF-FE-41-81-7C-24-0C-E8-03-00-00-7D-02-EB-E7-B8-63-00-00-00-E9-96-27-DF-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12E60CB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-44-D8-20-01-90-90</ValueOn>
+      <ValueOff>41-8B-04-24-2B-45-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Durable Weapons and Armor">
+    <Cheatline>
+      <Offset>24F393C</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-44-19-64-00-00-C8-42-49-8B-07-E9-F4-DD-3C-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8C1739</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FE-21-C3-01-90-90</ValueOn>
+      <ValueOff>89-44-19-64-49-8B-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items" Description="">
+    <Cheatline>
+      <Offset>8AEB4A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-CA</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>24F394C</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-45-AC-39-42-04-7D-03-89-42-04-E9-1E-DB-3C-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8C1474</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D3-24-C3-01-90</ValueOn>
+      <ValueOff>8B-45-AC-89-42-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

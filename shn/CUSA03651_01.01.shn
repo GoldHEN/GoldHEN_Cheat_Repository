@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="One Piece - Burning Blood" Moder="TLH" Cusa="CUSA03651" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Arcade" />
+  <Genres Name="Fighting" />
+  <Genres Name="RPG" />
+  <Items />
+  <StartUP Text="Health / 1 Hit" description="">
+    <Cheatline>
+      <Offset>7B7800</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-41-80-7E-2C-00-75-12-80-3D-F0-FF-FF-FF-01-75-1E-41-8B-86-98-00-00-00-EB-15-80-3D-DF-FF-FF-FF-01-75-0C-B8-00-00-00-00-41-89-86-94-00-00-00-41-89-86-90-00-00-00-E9-B9-A4-9E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1A1CEE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0F-5B-61-00-90-90</ValueOn>
+      <ValueOff>41-89-86-90-00-00-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>7B7800</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kills" Description="">
+    <Cheatline>
+      <Offset>7B7801</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Gauge" Description="">
+    <Cheatline>
+      <Offset>1A0694</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C8-90</ValueOn>
+      <ValueOff>0F-4E-C1</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>19F7DD</Offset>
+      <Section>0</Section>
+      <ValueOn>89-CA-90</ValueOn>
+      <ValueOff>0F-4E-D1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Support Usage" Description="">
+    <Cheatline>
+      <Offset>1D488C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-FF-4B-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Cooldown" Description="">
+    <Cheatline>
+      <Offset>1D5CC6</Offset>
+      <Section>0</Section>
+      <ValueOn>66-44-89-C7-90</ValueOn>
+      <ValueOff>66-41-0F-4E-F8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Partner Gauge" Description="">
+    <Cheatline>
+      <Offset>7B783C</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-46-20-00-00-7A-44-C4-C1-7A-10-4E-20-E9-F5-2E-A2-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1DA73E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F9-D0-5D-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4E-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money" Description="">
+    <Cheatline>
+      <Offset>22D7C8</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-D9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money on Get" Description="">
+    <Cheatline>
+      <Offset>1362C8</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-4C-D6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Max XP" Description="">
+    <Cheatline>
+      <Offset>1366EE</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-4E-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

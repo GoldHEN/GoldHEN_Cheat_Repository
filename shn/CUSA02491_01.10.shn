@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mass Effect - Andromeda" Moder="TLH" Cusa="CUSA02491" Version="01.10" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="RPG" />
+  <Genres Name="Shooter" />
+  <Items />
+  <StartUP Text="Health / 2 Hit Kills" description="">
+    <Cheatline>
+      <Offset>3BE7800</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-49-83-F9-13-75-18-49-83-FA-0D-75-12-80-3D-EB-FF-FF-FF-01-75-24-C4-C1-7A-10-44-24-20-EB-1B-80-3D-DA-FF-FF-FF-01-75-12-41-C7-44-24-1C-00-00-80-3F-C4-C1-7A-10-44-24-1C-EB-07-C4-C1-7A-11-44-24-1C-E9-FC-22-94-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1529B3C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C1-DC-6B-02-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-44-24-1C</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>3BE7800</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="2 Hit Kills" Description="">
+    <Cheatline>
+      <Offset>3BE7801</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Shield" Description="">
+    <Cheatline>
+      <Offset>3BE788E</Offset>
+      <Section>0</Section>
+      <ValueOn>49-81-FB-A5-8C-00-00-74-04-C5-FA-5D-C1-E9-55-44-94-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>152BCED</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9C-BB-6B-02-90-90-90</ValueOn>
+      <ValueOff>C5-F2-5F-CA-C5-FA-5D-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Life Conservation" Description="">
+    <Cheatline>
+      <Offset>3BE785A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90-90-90-90-90-41-C7-44-24-30-00-00-48-43-C4-C1-7A-10-44-24-30-E9-EA-C1-F2-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2B13A60</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F5-3D-0D-01-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-44-24-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bottomless Clip" Description="">
+    <Cheatline>
+      <Offset>12247D1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>12324F8</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>45-29-EC</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Energycells" Description="">
+    <Cheatline>
+      <Offset>10231DD</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-C3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Cooldown" Description="">
+    <Cheatline>
+      <Offset>100090A</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-E0-57-DB</ValueOn>
+      <ValueOff>C5-E2-5F-D9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Skillpoints" Description="">
+    <Cheatline>
+      <Offset>1006E41</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>2B-14-B9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Skillpoints" Description="">
+    <Cheatline>
+      <Offset>3BE787D</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-E7-03-00-00-89-30-BA-10-00-00-00-E9-21-5C-42-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>100D4A8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D0-A3-BD-02-90-90</ValueOn>
+      <ValueOff>8B-30-BA-10-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Credits" Description="">
+    <Cheatline>
+      <Offset>E9F8CC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Credits/Resources/Research Points" Description="">
+    <Cheatline>
+      <Offset>3BE78A0</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-44-24-70-BA-3F-42-0F-00-41-89-57-1C-E9-1F-53-2B-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E9CBC9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D2-AC-D4-02-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-44-24-70-41-8B-57-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Max Level" Description="">
+    <Cheatline>
+      <Offset>3BE78B3</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BC-F1-3E-0F-00-45-89-A6-FC-00-00-00-E9-0F-64-42-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>100DCCD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E1-9B-BD-02-90-90</ValueOn>
+      <ValueOff>45-01-A6-FC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Monolith Scanning" Description="">
+    <Cheatline>
+      <Offset>3BE78D5</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-78-11-46-20-B8-03-00-00-00-41-89-46-30-E9-56-29-F3-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2B1A235</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9B-D6-0C-01-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-78-11-46-20-41-89-46-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
