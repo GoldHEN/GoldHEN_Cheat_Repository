@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 6" Moder="TLH" Cusa="CUSA03856" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Fighting" />
+  <Genres Name="FPS" />
+  <Genres Name="Horror" />
+  <Genres Name="RPG" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>71240B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-F1</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>197968</Offset>
+      <Section>0</Section>
+      <ValueOn>66-89-93-68-13-00-00</ValueOn>
+      <ValueOff>66-89-8B-68-13-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina/Air" Description="">
+    <Cheatline>
+      <Offset>712A03</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>76-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo/Items" Description="">
+    <Cheatline>
+      <Offset>B324C4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-F0</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>17CB812</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-BF-44-47-0E-83-F8-02-7D-05-B8-02-00-00-00-E9-CC-6B-36-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B323ED</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-20-94-C9-00</ValueOn>
+      <ValueOff>0F-BF-44-47-0E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Skillpoints" Description="">
+    <Cheatline>
+      <Offset>6A67EF</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-7F-96-98-00-90-90</ValueOn>
+      <ValueOff>8B-94-08-20-07-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy QTE" Description="">
+    <Cheatline>
+      <Offset>17CB800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-47-38-00-00-61-44-C5-FA-10-40-38-E9-0A-57-91-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E0F16</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E5-A8-6E-01-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-38</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E0CB9</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-28-CA-90</ValueOn>
+      <ValueOff>C5-FA-58-4B-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Time" Description="">
+    <Cheatline>
+      <Offset>14A506</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-5C-C2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Score" Description="">
+    <Cheatline>
+      <Offset>153335</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-46-D1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Combo" Description="">
+    <Cheatline>
+      <Offset>153379</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-62-00-00-00-90-90-90</ValueOn>
+      <ValueOff>42-8B-84-2B-64-40-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>153373</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-0F-46-CC</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Abilitypoints" Description="">
+    <Cheatline>
+      <Offset>6A771C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>29-83-18-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

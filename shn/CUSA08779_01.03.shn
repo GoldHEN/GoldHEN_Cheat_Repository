@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dishonored - Death of the Outsider" Moder="TLH" Cusa="CUSA08779" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Fighting" />
+  <Genres Name="RPG" />
+  <Items />
+  <StartUP Text="Health Pointer" description="">
+    <Cheatline>
+      <Offset>37D3800</Offset>
+      <Section>0</Section>
+      <ValueOn>49-8B-06-4C-89-F7-4C-89-35-E3-47-DE-01-E9-BD-90-45-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1C2C8C9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-32-6F-BA-01-90</ValueOn>
+      <ValueOff>49-8B-06-4C-89-F7</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Health / 1 Hit" description="">
+    <Cheatline>
+      <Offset>37D3812</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-C5-FA-10-4B-20-48-39-1D-D0-47-DE-01-75-17-80-3D-E9-FF-FF-FF-01-75-1C-C7-43-20-00-00-C8-42-C5-FA-10-43-20-EB-12-80-3D-D3-FF-FF-FF-01-75-05-0F-57-C0-EB-04-C5-F2-5C-C0-E9-55-AF-66-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1E3E79C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-73-50-99-01-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-4B-20-C5-F2-5C-C0</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>37D3812</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kills" Description="">
+    <Cheatline>
+      <Offset>37D3813</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Mana" Description="">
+    <Cheatline>
+      <Offset>1E9C186</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-53-20</ValueOn>
+      <ValueOff>C5-FA-11-43-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Breath" Description="">
+    <Cheatline>
+      <Offset>21FF7C3</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-28-C1</ValueOn>
+      <ValueOff>C5-F2-5C-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bottomless Clip" Description="">
+    <Cheatline>
+      <Offset>1B2DC19</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-CE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo/Items" Description="">
+    <Cheatline>
+      <Offset>1AE538A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-F3</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1AE538D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-4E-D8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ammo/Items on Get" Description="">
+    <Cheatline>
+      <Offset>1AE5139</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-CE-90</ValueOn>
+      <ValueOff>44-0F-4F-F1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money on Get" Description="">
+    <Cheatline>
+      <Offset>37D3850</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-7C-01-00-00-9F-86-01-00-E9-09-1D-31-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1AE5562</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E9-E2-CE-01-90-90</ValueOn>
+      <ValueOff>45-01-B7-7C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

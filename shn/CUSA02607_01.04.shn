@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sword Art Online - Hollow Fragment" Moder="TLH" Cusa="CUSA02607" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Fighting" />
+  <Genres Name="RPG" />
+  <Genres Name="Simulation" />
+  <Items />
+  <Cheat Text="Infinite Money" Description="">
+    <Cheatline>
+      <Offset>F93800</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-FF-C9-9A-3B-89-88-B4-06-00-00-E9-8C-34-33-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2C6C96</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-65-CB-CC-00-90</ValueOn>
+      <ValueOff>89-88-B4-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Time" Description="">
+    <Cheatline>
+      <Offset>3ECD13</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>89-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Skillpoints" Description="">
+    <Cheatline>
+      <Offset>F93810</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-BE-54-01-6A-48-83-F8-0B-75-05-BA-FF-00-00-00-E9-06-22-4C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>455A26</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E5-DD-B3-00</ValueOn>
+      <ValueOff>0F-BE-54-01-6A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite SP" Description="">
+    <Cheatline>
+      <Offset>F93836</Offset>
+      <Section>0</Section>
+      <ValueOn>66-B8-2C-01-66-89-87-6C-02-00-00-E9-2E-4A-0A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3826D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C4-B5-F5-00-90-90</ValueOn>
+      <ValueOff>66-89-87-6C-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items (Storage)" Description="">
+    <Cheatline>
+      <Offset>F93846</Offset>
+      <Section>0</Section>
+      <ValueOn>48-21-FE-48-09-D6-57-48-8B-39-48-39-F7-72-03-48-89-FE-5F-E9-F4-FC-32-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2C354C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F5-02-CD-00-90</ValueOn>
+      <ValueOff>48-21-FE-48-09-D6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Max Weapon Mastery" Description="">
+    <Cheatline>
+      <Offset>390A6</Offset>
+      <Section>0</Section>
+      <ValueOn>66-BE-10-27</ValueOn>
+      <ValueOff>66-8B-75-C6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Max Level" Description="">
+    <Cheatline>
+      <Offset>F9385E</Offset>
+      <Section>0</Section>
+      <ValueOn>66-44-89-82-8E-02-00-00-B9-FF-C9-9A-3B-E9-B8-52-0A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>38B1D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3C-AD-F5-00-90-90-90-90-90-90</ValueOn>
+      <ValueOff>66-44-89-82-8E-02-00-00-8B-4D-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>F93870</Offset>
+      <Section>0</Section>
+      <ValueOn>53-48-BB-E0-20-ED-0A-02-00-00-00-48-39-DF-75-0C-8B-9F-68-02-00-00-89-9F-64-02-00-00-5B-8B-87-64-02-00-00-E9-58-74-09-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2ACEA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-81-8B-F6-00-90</ValueOn>
+      <ValueOff>8B-87-64-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Burst" Description="">
+    <Cheatline>
+      <Offset>F93898</Offset>
+      <Section>0</Section>
+      <ValueOn>66-89-D6-66-C7-01-F4-01-E9-23-63-09-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>29BC2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D1-9C-F6-00-90</ValueOn>
+      <ValueOff>66-89-D6-66-89-31</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items" Description="">
+    <Cheatline>
+      <Offset>2C5A3A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-48-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

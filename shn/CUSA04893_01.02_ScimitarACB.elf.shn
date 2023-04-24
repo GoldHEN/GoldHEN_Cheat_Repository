@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassin's Creed: The Ezio Collection [Assasins Creed Brotherhood]" Moder="TLH" Cusa="CUSA04893" Version="01.02" Process="ScimitarACB.elf">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Fighting" />
+  <Items />
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>18AF47F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-4F-C6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money/Items" Description="">
+    <Cheatline>
+      <Offset>1BD2EA2</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-F0</ValueOff>
+    </Cheatline>
+  </Cheat>  
+</Trainer>

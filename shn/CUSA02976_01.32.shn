@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hitman" Moder="TLH" Cusa="CUSA02976" Version="01.32" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Fighting" />
+  <Genres Name="FPS" />
+  <Genres Name="RPG" />
+  <Genres Name="Shooter" />
+  <Genres Name="Strategy" />
+  <Items />
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>1C1781C</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-24-02-00-00-00-00-C8-42-C5-FA-10-83-24-02-00-00-C7-83-2C-02-00-00-00-00-C8-42-C5-FA-10-83-2C-02-00-00-E9-4E-B8-B4-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>763083</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-94-47-4B-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-83-24-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stealth" Description="">
+    <Cheatline>
+      <Offset>1C17800</Offset>
+      <Section>0</Section>
+      <ValueOn>31-C9-89-88-60-0C-00-00-E9-E3-46-97-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>58BEEA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-11-B9-68-01-90</ValueOn>
+      <ValueOff>8B-88-60-0C-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>54C68F</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C0-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-F8-2E-05-31-53-26-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bottomless Clip" Description="">
+    <Cheatline>
+      <Offset>1C17845</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-87-76-03-00-00-FF-00-0F-B7-87-76-03-00-00-E9-F3-73-B3-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>74EC46</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FA-8B-4C-01-90-90</ValueOn>
+      <ValueOff>0F-B7-87-76-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>9C7AA5</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>43-01-84-AE-64-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9C7AF8</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>47-29-A4-AE-64-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Enemys dont Attack" Description="">
+    <Cheatline>
+      <Offset>59AFB5</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-1A</ValueOn>
+      <ValueOff>74-1A</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

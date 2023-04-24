@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Evil Within 2" Moder="TLH" Cusa="CUSA06164" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Horror" />
+  <Genres Name="RPG" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>F284EE</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-5F-8F-C8-0B-00-00</ValueOn>
+      <ValueOff>C5-FA-5D-8F-C8-0B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bottomless Clip" Description="">
+    <Cheatline>
+      <Offset>11C3A6E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-D9</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11C3A8D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>2B-8A-A4-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina" Description="">
+    <Cheatline>
+      <Offset>10648D6</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-28-C1</ValueOn>
+      <ValueOff>C5-F2-5C-C0</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>103DDB1</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-83-E0-17-00-00</ValueOn>
+      <ValueOff>C5-FA-58-83-E0-17-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1074F4D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-58-05-07-42-08-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Weapon Parts" Description="">
+    <Cheatline>
+      <Offset>11C056E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-01-E8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items on 2nd Pick" Description="">
+    <Cheatline>
+      <Offset>11C10A6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-4E-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Bottles" Description="">
+    <Cheatline>
+      <Offset>11C0B19</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-CE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Resources" Description="">
+    <Cheatline>
+      <Offset>11C1709</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

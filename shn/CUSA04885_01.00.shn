@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 4" Moder="TLH" Cusa="CUSA04885" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="FPS" />
+  <Genres Name="Puzzele" />
+  <Genres Name="RPG" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Health: Leon/Ada" Description="">
+    <Cheatline>
+      <Offset>208A0C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-DA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health: Ashley/Louis" Description="">
+    <Cheatline>
+      <Offset>208A74</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bottomless Clip" Description="">
+    <Cheatline>
+      <Offset>2E208E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-43-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>2E0DEC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite PTAS" Description="">
+    <Cheatline>
+      <Offset>2F9D0D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-C1</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5368C9</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>29-81-0C-50-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="999.999 PTAS on Pick" Description="">
+    <Cheatline>
+      <Offset>91F800</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-3F-42-0F-00-01-81-0C-50-00-00-E9-CF-80-9B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2D78D9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-22-7F-64-00-90</ValueOn>
+      <ValueOff>01-81-0C-50-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Save-Counter" Description="">
+    <Cheatline>
+      <Offset>2A4794</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Retry-Counter" Description="">
+    <Cheatline>
+      <Offset>25DA93</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>41-FF-C5</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25DA8E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>41-FF-C7</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Shooting Range" Description="">
+    <Cheatline>
+      <Offset>44F987</Offset>
+      <Section>0</Section>
+      <ValueOn>45-89-CC-90</ValueOn>
+      <ValueOff>46-8B-24-81</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>91F810</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-8E-9E-01-B3-FF-C7-40-0C-FF-00-00-00-E9-98-01-B3-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>44F9B5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-56-FE-4C-00</ValueOn>
+      <ValueOff>7E-03-FF-40-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

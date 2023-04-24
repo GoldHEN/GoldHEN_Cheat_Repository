@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sword Art Online - Lost Song" Moder="TLH" Cusa="CUSA02823" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Fighting" />
+  <Genres Name="RPG" />
+  <Genres Name="Simulation" />
+  <Items />
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>2FCDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F2-5F-C0</ValueOn>
+      <ValueOff>C5-F2-5D-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill" Description="">
+    <Cheatline>
+      <Offset>ADAF7</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-D2-90</ValueOn>
+      <ValueOff>C5-F2-5C-D0</ValueOff>
+    </Cheatline>
+  </Cheat>  
+  <Cheat Text="Infinite AP" Description="">
+    <Cheatline>
+      <Offset>A1D35</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-5C-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina" Description="">
+    <Cheatline>
+      <Offset>EEB69</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-28-C1</ValueOn>
+      <ValueOff>C5-F2-5C-C0</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>EEB8E</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F2-5F-C8</ValueOn>
+      <ValueOff>C5-F2-5D-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Yuld" Description="">
+    <Cheatline>
+      <Offset>3CCFC6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Yuld" Description="">
+    <Cheatline>
+      <Offset>3CBC48</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-0F-46-C7</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items" Description="">
+    <Cheatline>
+      <Offset>3CC899</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-F1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Max XP" Description="">
+    <Cheatline>
+      <Offset>7055A</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-30</ValueOn>
+      <ValueOff>41-89-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Union Gauge" Description="">
+    <Cheatline>
+      <Offset>304B0A</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-28-C1</ValueOn>
+      <ValueOff>C5-F2-5C-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Union Gauge" Description="">
+    <Cheatline>
+      <Offset>EF14D</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F2-5F-C0</ValueOn>
+      <ValueOff>C5-F2-5D-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Skills via Menu" Description="">
+    <Cheatline>
+      <Offset>70376</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-E8-03-00-00-89-4F-30-89-C8</ValueOn>
+      <ValueOff>8B-4F-30-31-C0-85-C9-0F-49-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

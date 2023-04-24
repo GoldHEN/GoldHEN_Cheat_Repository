@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Metro Redux" Moder="TLH" Cusa="CUSA00593" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Fighting" />
+  <Genres Name="FPS" />
+  <Genres Name="RPG" />
+  <Genres Name="Shooter" />
+  <Genres Name="Strategy" />
+  <Items />
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>E33800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8B-9E-00-05-00-00-39-DE-72-07-41-89-B6-00-05-00-00-E9-AA-98-3B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1ED0BA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-41-67-C4-00-90-90</ValueOn>
+      <ValueOff>41-89-B6-00-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bottomless Clip" Description="">
+    <Cheatline>
+      <Offset>E33817</Offset>
+      <Section>0</Section>
+      <ValueOn>53-41-8B-9C-24-58-04-00-00-39-DE-7D-07-83-FE-03-72-02-89-DE-41-89-B4-24-58-04-00-00-5B-E9-0C-E6-3D-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>211E3D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D5-19-C2-00-90-90-90</ValueOn>
+      <ValueOff>41-89-B4-24-58-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

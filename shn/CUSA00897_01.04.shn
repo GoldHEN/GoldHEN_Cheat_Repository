@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="inFAMOUS: First Light" Moder="TLH" Cusa="CUSA00897" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Fighting" />
+  <Cheat Control="Toggel" Text="Infinite Health">
+    <Cheatline>
+      <Offset>261AF9</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-EA-5C-D3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Control="Toggel" Text="Infinite Neon">
+    <Cheatline>
+      <Offset>257D94</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-5F-C1</ValueOn>
+      <ValueOff>C5-FA-5D-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Control="Toggel" Text="Infinite Singularity">
+    <Cheatline>
+      <Offset>225536</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-28-C1-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-F8-2E-C1-0F-84-24-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Control="Toggel" Text="Infinite Melee Finisher">
+    <Cheatline>
+      <Offset>2254C0</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-02-00-00-00-90</ValueOn>
+      <ValueOff>39-B7-F8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Missiles" Description="">
+    <Cheatline>
+      <Offset>225470</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-04-00-00-00-90-90-90</ValueOn>
+      <ValueOff>39-B7-F4-00-00-00-74-43</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Control="Toggel" Text="Infinite Skillpoints">
+    <Cheatline>
+      <Offset>2241B4</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-E7-03-00-00-89-9F-FC-00-00-00-90-90</ValueOn>
+      <ValueOff>89-9F-FC-00-00-00-80-BF-51-0D-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlock Skills" Description="">
+    <Cheatline>
+      <Offset>DBB800</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-84-87-0C-01-00-00-07-00-00-00-B8-07-00-00-00-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>221903</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F8-9E-B9-00-90-90</ValueOn>
+      <ValueOff>8B-84-87-0C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Challenges" Description="">
+    <Cheatline>
+      <Offset>225EEA</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-F0-A2-9A-3B-90-90</ValueOn>
+      <ValueOff>03-94-C7-4C-09-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Hostage Health (Challenge)" Description="">
+    <Cheatline>
+      <Offset>5B153A</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-11-8C-24-14-0C-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-14-0C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

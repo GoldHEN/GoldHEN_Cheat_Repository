@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sword Art Online - Hollow Realization" Moder="TLH" Cusa="CUSA05033" Version="03.20" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Fighting" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>7A9741</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C3-90</ValueOn>
+      <ValueOff>0F-4E-D8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill" Description="">
+    <Cheatline>
+      <Offset>7D71E9</Offset>
+      <Section>0</Section>
+      <ValueOn>31-DB-90</ValueOn>
+      <ValueOff>0F-4E-D8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite SP" Description="">
+    <Cheatline>
+      <Offset>76D3AB</Offset>
+      <Section>0</Section>
+      <ValueOn>66-89-C8-90</ValueOn>
+      <ValueOff>66-0F-4C-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Cooldown" Description="">
+    <Cheatline>
+      <Offset>791077</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-CD-CC-CC-3D-66-0F-6E-C0-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-84-96-64-A0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Damage-Multiplicator" Description="">
+    <Cheatline>
+      <Offset>7B2DB1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-F2-5C-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Damage-Multiplicator" Description="">
+    <Cheatline>
+      <Offset>E6B87A</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-1D-DB-BB-28-00-C5-FA-10-05-5E-9F-E7-FF-C5-FA-11-00-E9-7E-E3-BE-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A59C09</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6C-1C-41-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-1D-DB-BB-28-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max SwordSkillConnection Damage (450%)" Description="">
+    <Cheatline>
+      <Offset>7A7446</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-5F-05-06-C3-53-00</ValueOn>
+      <ValueOff>C5-FA-5D-05-06-C3-53-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite SwordSkillConnection" Description="">
+    <Cheatline>
+      <Offset>7A73A7</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Step-Costs not Increasing" Description="">
+    <Cheatline>
+      <Offset>797DB2</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-FE-87-24-F8-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Fairy Dance" Description="">
+    <Cheatline>
+      <Offset>7A8585</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-FE-84-24-23-F8-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Col on Use" Description="">
+    <Cheatline>
+      <Offset>97368A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-46-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Skillpoints" Description="">
+    <Cheatline>
+      <Offset>6E97C6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-D3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items" Description="">
+    <Cheatline>
+      <Offset>E6B800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BF-02-00-00-00-41-83-FE-01-45-0F-44-F7-44-8B-7B-04-45-39-F7-45-0F-4F-F7-44-0F-B6-7B-02-E9-2B-51-B0-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>970949</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B2-AE-4F-00</ValueOn>
+      <ValueOff>44-0F-B6-7B-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Max Level/XP" Description="">
+    <Cheatline>
+      <Offset>7804FB</Offset>
+      <Section>0</Section>
+      <ValueOn>89-E1-90</ValueOn>
+      <ValueOff>8B-4D-D8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Max Expertise" Description="">
+    <Cheatline>
+      <Offset>6E8BF9</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-0F-4E-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Max Sword-Skill-Proficiency" Description="">
+    <Cheatline>
+      <Offset>6EA3AB</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-0F-42-D1</ValueOff>
+    </Cheatline>
+  </Cheat>  
+  <Cheat Text="NPC Instant Max Expertise" Description="">
+    <Cheatline>
+      <Offset>87390B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-0F-4E-F1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="NPC Instant Max Skill" Description="">
+    <Cheatline>
+      <Offset>87393A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-0F-4E-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="NPC Instant Max Affection" Description="">
+    <Cheatline>
+      <Offset>6D4F34</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-0F-4C-CB</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Max Level Smithing" Description="">
+    <Cheatline>
+      <Offset>B14678</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-0F-4E-CA</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B146A1</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-02</ValueOn>
+      <ValueOff>7F-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Smithing: Instant Max (Item)" Description="">
+    <Cheatline>
+      <Offset>B14122</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>7C-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Smithing: Items get Special Status (Enhance)" Description="">
+    <Cheatline>
+      <Offset>B1412C</Offset>
+      <Section>0</Section>
+      <ValueOn>41-80-C9-80</ValueOn>
+      <ValueOff>41-80-E1-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Max Friendship" Description="">
+    <Cheatline>
+      <Offset>872E77</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C3-90</ValueOn>
+      <ValueOff>0F-4F-D8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Sky Arena: Instant Max Rank" Description="">
+    <Cheatline>
+      <Offset>BBDFC4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-0F-4C-FA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Training" Description="">
+    <Cheatline>
+      <Offset>6F990C</Offset>
+      <Section>0</Section>
+      <ValueOn>89-F2-90</ValueOn>
+      <ValueOff>0F-4D-D6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Enigma Order: Easy Complete" Description="">
+    <Cheatline>
+      <Offset>E6B823</Offset>
+      <Section>0</Section>
+      <ValueOn>44-8B-74-01-08-44-89-74-01-0C-E9-77-D0-D3-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BA88A4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7A-2F-2C-00</ValueOn>
+      <ValueOff>44-8B-74-01-0C</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E6B832</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-57-34-89-54-06-10-3B-54-06-10-E9-33-7B-D6-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BD336E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BF-84-29-00-90-90</ValueOn>
+      <ValueOff>8B-57-34-3B-54-06-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Fusion Skills: Max on Open Menu" Description="">
+    <Cheatline>
+      <Offset>E6B869</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-55-55-00-00-66-89-81-1C-01-00-00-E9-3D-8E-D6-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BD46B0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B4-71-29-00-90-90</ValueOn>
+      <ValueOff>0F-B7-81-1C-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E6B856</Offset>
+      <Section>0</Section>
+      <ValueOn>66-B8-55-55-66-A3-1C-D7-51-01-00-00-00-00-E9-57-8E-D6-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BD46B9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-98-71-29-00-90-90</ValueOn>
+      <ValueOff>0F-B7-05-5C-90-54-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Fusion Skills: Instant use Level 5" Description="">
+    <Cheatline>
+      <Offset>79E529</Offset>
+      <Section>0</Section>
+      <ValueOn>B1-04-90-90-90-90</ValueOn>
+      <ValueOff>8A-0D-EA-F1-97-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BD4ABA</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-05-58-8C-54-00-04</ValueOn>
+      <ValueOff>C6-05-58-8C-54-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BD4C3C</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-05-D6-8A-54-00-04</ValueOn>
+      <ValueOff>C6-05-D6-8A-54-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Simulate Oracle +999 (GameMax)" Description="">
+    <Cheatline>
+      <Offset>9734B9</Offset>
+      <Section>0</Section>
+      <ValueOn>66-43-C7-44-3E-10-E7-03-90</ValueOn>
+      <ValueOff>48-8B-43-10-4B-89-44-3E-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Simulate Oracle MAX" Description="">
+    <Cheatline>
+      <Offset>9734B9</Offset>
+      <Section>0</Section>
+      <ValueOn>66-43-C7-44-3E-10-FF-FF-90</ValueOn>
+      <ValueOff>48-8B-43-10-4B-89-44-3E-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinity Dungeon: Jump to Floor 1000" Description="">
+    <Cheatline>
+      <Offset>6B47B8</Offset>
+      <Section>0</Section>
+      <ValueOn>48-C7-C1-E7-03-00-00</ValueOn>
+      <ValueOff>49-63-4D-2C-48-FF-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinity Dungeon: No need for Keys" Description="">
+    <Cheatline>
+      <Offset>68BBD5</Offset>
+      <Section>0</Section>
+      <ValueOn>31-C0-B0-01</ValueOn>
+      <ValueOff>0F-B6-04-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

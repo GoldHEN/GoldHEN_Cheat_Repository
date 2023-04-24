@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wolfenstein - The New Order" Moder="TLH" Cusa="CUSA00320" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Fighting" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>83650B</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-28-C1</ValueOn>
+      <ValueOff>C5-F2-5C-C2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health OverCharge" Description="">
+    <Cheatline>
+      <Offset>8363FC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-EA-5C-D3</ValueOff>
+    </Cheatline>
+  </Cheat>  
+  <Cheat Text="Instant Health Regeneration" Description="">
+    <Cheatline>
+      <Offset>8363E1</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-28-D1</ValueOn>
+      <ValueOff>C5-EA-5D-D4</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Vehicle Health" Description="">
+    <Cheatline>
+      <Offset>105607F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-F2-5C-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bottomless Clip" Description="">
+    <Cheatline>
+      <Offset>C64075</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>29-43-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>C60C0E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>41-29-5C-24-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Armor" Description="">
+    <Cheatline>
+      <Offset>8364C5</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-28-CA</ValueOn>
+      <ValueOff>C5-EA-5C-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Perks" Description="">
+    <Cheatline>
+      <Offset>BCFDCA</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C8-90</ValueOn>
+      <ValueOff>0F-4F-C1</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BD0D46</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C8-90</ValueOn>
+      <ValueOff>0F-4F-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Perk Conditions to Max" Description="">
+    <Cheatline>
+      <Offset>170B800</Offset>
+      <Section>0</Section>
+      <ValueOn>44-89-C1-43-89-8C-26-B4-2D-00-00-E9-B0-59-40-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B111B8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-43-A6-BF-00-90-90-90</ValueOn>
+      <ValueOff>43-8B-8C-26-B4-2D-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>170B810</Offset>
+      <Section>0</Section>
+      <ValueOn>44-89-C1-43-89-8C-26-B8-2D-00-00-E9-89-5A-40-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B112A1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6A-A5-BF-00-90-90-90</ValueOn>
+      <ValueOff>43-8B-8C-26-B8-2D-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

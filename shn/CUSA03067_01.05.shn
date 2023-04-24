@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Agents of Mayhem" Moder="TLH" Cusa="CUSA03067" Version="01.05" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Fighting" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>15C14</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>66-44-0F-43-FE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite HP" Description="">
+    <Cheatline>
+      <Offset>1AEB800</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-80-4F-C3-47-89-03-89-45-C4-E9-81-EE-79-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>28A68B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-70-11-86-01</ValueOn>
+      <ValueOff>8B-03-89-45-C4</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Shields" Description="">
+    <Cheatline>
+      <Offset>1AEB80F</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-03-80-4F-C3-47-C5-FA-10-03-C5-FA-5E-43-08-E9-ED-45-F3-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A1FE0B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FF-B9-0C-01</ValueOn>
+      <ValueOff>C5-FA-5E-43-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill (Use with InfiniteHealth)" Description="">
+    <Cheatline>
+      <Offset>1AEB823</Offset>
+      <Section>0</Section>
+      <ValueOn>41-81-3C-24-80-4F-C3-47-75-04-C5-F8-28-C1-E9-F7-4B-F3-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A20425</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F9-B3-0C-01-90-90-90</ValueOn>
+      <ValueOff>C5-F2-58-85-44-FB-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items/XP on Get" Description="">
+    <Cheatline>
+      <Offset>9BD480</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BC-3F-42-0F-00</ValueOn>
+      <ValueOff>41-BC-FF-FF-FF-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9BD488</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>44-0F-43-E0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Skillpoints" Description="">
+    <Cheatline>
+      <Offset>3380B3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-88-84-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

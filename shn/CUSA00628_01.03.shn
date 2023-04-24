@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Shadow Warrior" Moder="TLH" Cusa="CUSA00628" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Fighting" />
+  <Genres Name="FPS" />
+  <Genres Name="RPG" />
+  <Genres Name="Shooter" />
+  <Genres Name="Simulation" />
+  <Items />
+  <Cheat Text="Infinite Stamina" Description="">
+    <Cheatline>
+      <Offset>D73800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-3D-20-07-00-00-75-0C-51-48-8B-4C-03-60-48-39-CA-59-72-05-48-89-54-03-60-E9-C4-22-DB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B25ADD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1E-DD-24-00</ValueOn>
+      <ValueOff>48-89-54-03-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

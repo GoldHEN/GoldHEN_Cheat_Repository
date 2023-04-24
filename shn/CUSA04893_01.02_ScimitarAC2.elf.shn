@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassin's Creed - The Ezio Collection [Assasins Creed 2]" Moder="TLH" Cusa="CUSA04893" Version="01.02" Process="ScimitarAC2.elf">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Fighting" />
+  <Items />
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>B8F947</Offset>
+      <Section>0</Section>
+      <ValueOn>44-89-F8-90</ValueOn>
+      <ValueOff>41-0F-4E-C7</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money/Items on Get" Description="">
+    <Cheatline>
+      <Offset>DC8BC7</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C3-90</ValueOn>
+      <ValueOff>0F-47-D8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money/Items" Description="">
+    <Cheatline>
+      <Offset>DC8BF3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

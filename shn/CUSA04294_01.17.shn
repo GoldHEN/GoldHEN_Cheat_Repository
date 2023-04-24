@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Watch Dogs 2" Moder="TLH, Rizla" Cusa="CUSA04294" Version="01.17" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Arcade" />
+  <Genres Name="Fighting" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>5F8F800</Offset>
+      <Section>0</Section>
+      <ValueOn>81-7B-1C-00-00-C8-42-74-05-C5-FA-11-43-18-E9-B5-45-D0-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2C93DC3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-38-BA-2F-03</ValueOn>
+      <ValueOff>C5-FA-11-43-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Botnet" Description="">
+    <Cheatline>
+      <Offset>E4CBDC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-47-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bottomless Clip" Description="">
+    <Cheatline>
+      <Offset>13812C5</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8B-A0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>133CFBA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-41-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stealth" Description="">
+    <Cheatline>
+      <Offset>7FA8FB</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4D-30</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8FD5FD</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-30-00-00-00-00</ValueOn>
+      <ValueOff>C7-43-30-00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Never Wanted" Description="">
+    <Cheatline>
+      <Offset>5F8F813</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-00-00-00-00-89-1F-E9-76-3B-A2-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9B3390</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7E-C4-5D-05</ValueOn>
+      <ValueOff>0F-4E-DA-89-1F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money on Gain/Use" Description="">
+    <Cheatline>
+      <Offset>5F8F81F</Offset>
+      <Section>0</Section>
+      <ValueOn>48-C7-C1-FF-C9-9A-3B-49-89-8E-A0-06-00-00-E9-3D-97-8D-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1868F68</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B2-68-72-04-90-90</ValueOn>
+      <ValueOff>49-8B-8E-A0-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Followers on 2nd Gain" Description="">
+    <Cheatline>
+      <Offset>5F8F832</Offset>
+      <Section>0</Section>
+      <ValueOn>48-C7-C1-F0-39-58-00-49-89-8E-B8-06-00-00-E9-DF-99-8D-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>186921D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-10-66-72-04-90-90</ValueOn>
+      <ValueOff>49-8B-8E-B8-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Followers After Missions" Description="">
+    <Cheatline>
+      <Offset>5F8F845</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-FF-C9-9A-3B-89-47-14-E9-45-91-40-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1398992</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AE-6E-BF-04</ValueOn>
+      <ValueOff>75-03-8B-47-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
