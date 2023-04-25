@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Astroneer" Moder="LMN" Cusa="CUSA16473" Version="01.43" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="infinite oxygen">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>190322A</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-B1-CD-F2-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="printing material never disappears">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>188445B</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-20-AB-20-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf fuel">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>1831587</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-84-D4-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="bytes never decrease">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>1A2DF2B</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FB-11-80-B0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf soil canister">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>1AA9B3A</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-31-C6-FC-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf jetpack fuel">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>18256F8</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-13-93-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

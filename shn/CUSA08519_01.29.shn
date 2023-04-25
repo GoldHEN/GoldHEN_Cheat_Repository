@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Red Dead Redemption 2" Moder="LMN" Cusa="CUSA08519" Version="01.29" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="MASTER CODE for god mode and honor always max">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>779B800</Offset>
+      <ValueOn>4C-8B-52-10-B9-04-04-00-00-80-3D-6C-00-00-00-01-74-0A-48-C7-42-18-00-00-00-00-EB-08-48-C7-42-18-11-10-00-00-80-3D-52-00-00-00-01-0F-85-3D-63-0E-F9-50-48-B8-40-9D-46-5F-02-00-00-00-66-C7-00-10-27-58-E9-27-63-0E-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>881B65</Offset>
+      <ValueOn>E9-96-9C-F1-06-90-90-90-90</ValueOn>
+      <ValueOff>4C-8B-52-10-B9-04-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="God Mode (player and horse)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>779B87C</Offset>
+      <ValueOn>1</ValueOn>
+      <ValueOff>0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="infinite dead eye">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>144E525</Offset>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>FF-50-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="infinite stamina (horse/player)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>100F487</Offset>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>FF-50-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="never wanted and zero bounty">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>DB2116</Offset>
+      <ValueOn>83-3D-37-1C-D9-06-05</ValueOn>
+      <ValueOff>83-3D-37-1C-D9-06-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>779B847</Offset>
+      <ValueOn>C7-83-EC-3D-00-00-00-00-00-00-E9-4E-ED-60-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>DAA59E</Offset>
+      <ValueOn>E9-A4-12-9F-06-90</ValueOn>
+      <ValueOff>89-83-EC-3D-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite items and consumables(disable during unique mission items like bounty posters...)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>C8C303</Offset>
+      <ValueOn>49-89-46-18</ValueOn>
+      <ValueOff>4D-89-7E-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="HONOR always maxed">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>779B87D</Offset>
+      <ValueOn>1</ValueOn>
+      <ValueOff>0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="MAX Honor updated(set honor to max one time, do an honor related task to see the difference)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>25F469D40</Offset>
+      <ValueOn>A0-86-01-00</ValueOn>
+      <ValueOff>A0-86-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="add 30 pelts(enable after skinning pelt disable after putting on horse!)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>C8C2FF</Offset>
+      <ValueOn>49-83-C7-1F</ValueOn>
+      <ValueOff>4C-0F-44-FB</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="infinite ammo (in game cheat)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>779B867</Offset>
+      <ValueOn>C7-87-18-02-00-00-90-E9-00-00-32-8F-18-02-00-00-E9-DF-64-8E-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>1081D55</Offset>
+      <ValueOn>E9-0D-9B-71-06-90</ValueOn>
+      <ValueOff>32-8F-18-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="no reload">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2C11E3B</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-80-65-F9-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="fast shooting (no bullet loading , skips the animation of loading bullets)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>48D52CD</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-80-8D-3B-06-00-00-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="weapons always clean">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>779B856</Offset>
+      <ValueOn>C5-F8-57-C0-C5-FA-11-80-D0-00-00-00-E9-DA-A6-86-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>3005F39</Offset>
+      <ValueOn>E9-18-59-79-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-80-D0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="infinite ammo ,throwables ,arrows ,no reload ,weapons stay clean">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2B95803</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-78-C5-07-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>C80A4C</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-AF-46-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="freeze all(ammo,throwables,money,items,trapper and pearson stock)disable during unique mission items like bounty posters...">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>C8637F</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-CC-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
