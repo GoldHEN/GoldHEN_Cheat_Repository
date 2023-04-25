@@ -1,1 +1,214 @@
-{"name":"Shadow of the Tomb Raider","id":"CUSA10872","version":"02.01","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"183BEB6","on":"4983FD367515F30F10CA0F57E4C5DA584828F30F10CAE9CE5AF1FEC5DA584828E9C45AF1FE","off":"00000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"75199A","on":"E917A50E01","off":"C5DA584828"}]},{"name":"Infinite Health + One Hit Kill","type":"checkbox","memory":[{"offset":"183BEDB","on":"4983FD367515F30F10CA0F57E4C5DA584828F30F10CAE9A95AF1FEC7402800000000C5DA584828E9985AF1FE","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"75199A","on":"E93CA50E01","off":"C5DA584828"}]},{"name":"Infinite Breath","type":"checkbox","memory":[{"offset":"183BDD5","on":"41C787981B000000004842E98FDA61FF","off":"00000000000000000000000000000000"},{"offset":"E5986B","on":"E965259E0090909090","off":"C4C17A119F981B0000"}]},{"name":"Max Ammo","type":"checkbox","memory":[{"offset":"183BDB0","on":"C7400CE7030000440FB7700CE9035320FF526564646576696C3832202D20465720392E3030","off":"0000000000000000000000000000000000"},{"offset":"A410BF","on":"E9ECACDF00","off":"440FB7700C"}]},{"name":"No Reload","type":"checkbox","memory":[{"offset":"183BDFA","on":"418B8424A405000041898424A0050000418B8424A0050000E9F4A3C0FF","off":"0000000000000000000000000000000000000000000000000000000000"},{"offset":"1446203","on":"E9F25B3F00909090","off":"418B8424A0050000"}]},{"name":"Max Potion","type":"checkbox","memory":[{"offset":"183BE4E","on":"0F841660AFFF66C7400C0F270FB7400CE90560AFFF","off":"000000000000000000000000000000000000000000"},{"offset":"1331E62","on":"E9E79F500090","off":"740C0FB7400C"}]},{"name":"Max Items","type":"checkbox","memory":[{"offset":"183BE63","on":"0F848103C5FF4983FF0375184983FF0375124983FF03750C4983FF03750666C7400CE7030FB7400CE95603C5FF","off":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"148C1E0","on":"E97EFC3A0090","off":"740E0FB7400C"}]},{"name":"Max Skillpoints","type":"checkbox","memory":[{"offset":"183BE17","on":"0F42D183E900E9104B9EFF","off":"0000000000000000000000"},{"offset":"122092D","on":"E9E5B46100","off":"0F42D129D1"},{"offset":"183BE22","on":"488B8060110100C7404C630000008B404CE94387BBFF","off":"00000000000000000000000000000000000000000000"},{"offset":"13F4571","on":"E9AC7844009090909090","off":"488B80601101008B404C"}]},{"name":"Max Gold","type":"checkbox","memory":[{"offset":"183BDE5","on":"0F84CC24B9FF66C7400CD0840FB7400CE9BA24B9FF","off":"000000000000000000000000000000000000000000"},{"offset":"13CE2AE","on":"E932DB460090","off":"740D0FB7400C"}]},{"name":"Max XP ( on gain )","type":"checkbox","memory":[{"offset":"183BE90","on":"8944241041C746403F420F0045016E40E934B79BFF","off":"000000000000000000000000000000000000000000"},{"offset":"11F75D1","on":"E9BA486400909090","off":"8944241045016E40"}]},{"name":"XP Multiplier ( x 10 )","type":"checkbox","memory":[{"offset":"183BEA5","on":"89442410456BED0A45016E40E923B79BFF","off":"0000000000000000000000000000000000"},{"offset":"11F75D1","on":"E9CF486400909090","off":"8944241045016E40"}]},{"name":"Max Score ( Challenge )","type":"checkbox","memory":[{"offset":"183BE38","on":"488B88A8070000C7412C3F420F008B512CE9915BC1FF","off":"00000000000000000000000000000000000000000000"},{"offset":"14519D5","on":"E95EA43E009090909090","off":"488B88A80700008B512C"}]}],"credits":["Reddevil82 "," FW 9.00"]}
+{
+  "name": "Shadow of the Tomb Raider",
+  "id": "CUSA10872",
+  "version": "02.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "183BEB6",
+          "on": "4983FD367515F30F10CA0F57E4C5DA584828F30F10CAE9CE5AF1FEC5DA584828E9C45AF1FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "75199A",
+          "on": "E917A50E01",
+          "off": "C5DA584828"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health + One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "183BEDB",
+          "on": "4983FD367515F30F10CA0F57E4C5DA584828F30F10CAE9A95AF1FEC7402800000000C5DA584828E9985AF1FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "75199A",
+          "on": "E93CA50E01",
+          "off": "C5DA584828"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Breath",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "183BDD5",
+          "on": "41C787981B000000004842E98FDA61FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "E5986B",
+          "on": "E965259E0090909090",
+          "off": "C4C17A119F981B0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "183BDB0",
+          "on": "C7400CE7030000440FB7700CE9035320FF526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "A410BF",
+          "on": "E9ECACDF00",
+          "off": "440FB7700C"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "183BDFA",
+          "on": "418B8424A405000041898424A0050000418B8424A0050000E9F4A3C0FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1446203",
+          "on": "E9F25B3F00909090",
+          "off": "418B8424A0050000"
+        }
+      ]
+    },
+    {
+      "name": "Max Potion",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "183BE4E",
+          "on": "0F841660AFFF66C7400C0F270FB7400CE90560AFFF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1331E62",
+          "on": "E9E79F500090",
+          "off": "740C0FB7400C"
+        }
+      ]
+    },
+    {
+      "name": "Max Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "183BE63",
+          "on": "0F848103C5FF4983FF0375184983FF0375124983FF03750C4983FF03750666C7400CE7030FB7400CE95603C5FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "148C1E0",
+          "on": "E97EFC3A0090",
+          "off": "740E0FB7400C"
+        }
+      ]
+    },
+    {
+      "name": "Max Skillpoints",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "183BE17",
+          "on": "0F42D183E900E9104B9EFF",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "122092D",
+          "on": "E9E5B46100",
+          "off": "0F42D129D1"
+        },
+        {
+          "offset": "183BE22",
+          "on": "488B8060110100C7404C630000008B404CE94387BBFF",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "13F4571",
+          "on": "E9AC7844009090909090",
+          "off": "488B80601101008B404C"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "183BDE5",
+          "on": "0F84CC24B9FF66C7400CD0840FB7400CE9BA24B9FF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "13CE2AE",
+          "on": "E932DB460090",
+          "off": "740D0FB7400C"
+        }
+      ]
+    },
+    {
+      "name": "Max XP ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "183BE90",
+          "on": "8944241041C746403F420F0045016E40E934B79BFF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "11F75D1",
+          "on": "E9BA486400909090",
+          "off": "8944241045016E40"
+        }
+      ]
+    },
+    {
+      "name": "XP Multiplier ( x 10 )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "183BEA5",
+          "on": "89442410456BED0A45016E40E923B79BFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "11F75D1",
+          "on": "E9CF486400909090",
+          "off": "8944241045016E40"
+        }
+      ]
+    },
+    {
+      "name": "Max Score ( Challenge )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "183BE38",
+          "on": "488B88A8070000C7412C3F420F008B512CE9915BC1FF",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14519D5",
+          "on": "E95EA43E009090909090",
+          "off": "488B88A80700008B512C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}
