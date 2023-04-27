@@ -105,14 +105,28 @@
     <Cheatline>
       <Offset>15CF85B</Offset>
       <Section>0</Section>
-      <ValueOn>C5-F8-29-50-20-83-78-28-00-0F-8E-FD-E6-64-FF-81-78-28-33-33-0B-41-0F-8D-F0-E6-64-FF-68-CD-CC-8C-3F-D9-40-28-D8-0C-24-D9-58-28-48-83-C4-08-E9-D9-E6-64-FF</ValueOn>
+      <ValueOn>C5-F8-29-40-20-83-78-28-00-0F-8E-A6-44-63-FF-81-78-28-00-00-C8-42-0F-8D-99-44-63-FF-68-00-00-50-40-D9-40-28-D8-0C-24-D9-58-28-48-83-C4-08-E9-82-44-63-FF</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
-      <Offset>C1DF62</Offset>
+      <Offset>C03D0B</Offset>
       <Section>0</Section>
-      <ValueOn>E9-F4-18-9B-00</ValueOn>
-      <ValueOff>C5-F8-29-50-20</ValueOff>
+      <ValueOn>E9-4B-BB-9C-00</ValueOn>
+      <ValueOff>C5-F8-29-40-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Moon Jump" Description="">
+    <Cheatline>
+      <Offset>15CF800</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-29-40-20-83-78-28-00-0F-8E-01-45-63-FF-81-78-28-00-00-C8-42-0F-8D-F4-44-63-FF-68-00-00-A0-40-D9-40-28-D8-0C-24-D9-58-28-48-83-C4-08-E9-DD-44-63-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C03D0B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F0-BA-9C-00</ValueOn>
+      <ValueOff>C5-F8-29-40-20</ValueOff>
     </Cheatline>
   </Cheat>
   <Cheat Text="Full Hunger and Cold Meter" Description="">
