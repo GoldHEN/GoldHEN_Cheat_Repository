@@ -140,6 +140,7 @@ CUSA32074_01.02.mc4.xml=Pac-Man World Re-Pac
 CUSA26054_01.02.mc4.xml=SaGa Frontier Remastered
 CUSA02231_01.01.mc4.xml=Dishonored (Definitive Edition)
 CUSA03522_01.13_default_mp.elf.mc4.xml=COD: Modern Warfare Remastered
+CUSA31429_01.02.mc4.xml=Mega Man Battle Network Legacy Collection Vol. 2
 CUSA08393_01.41.mc4.xml=AC: Origins
 CUSA08779_01.02.mc4.xml=Dishonored - Death of the Outsider
 CUSA07712_01.00.mc4.xml=Outlast
