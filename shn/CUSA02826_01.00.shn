@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Uncharted Collection - UNC1 Dev Menu" Moder="hejran7" Cusa="CUSA02826" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Cheat Text="Dev Menu L3+Upper L or R Touch Pad" Description="">
+    <Cheatline>
+      <Offset>95F800</Offset>
+      <Section>0</Section>
+      <ValueOn>51-B9-68-3F-EA-00-67-8B-09-83-E1-02-75-14-C6-83-44-48-00-00-00-80-BB-44-48-00-00-00-59-E9-AA-5E-90-FF-C6-83-44-48-00-00-01-80-BB-44-48-00-00-00-59-E9-96-5E-90-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2656C5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-36-A1-6F-00-90-90</ValueOn>
+      <ValueOff>80-BB-44-48-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Enable FPS View - Hold L3" Description="">
+    <Cheatline>
+      <Offset>2CF8B8</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-AC-0E-00-00</ValueOn>
+      <ValueOff>0F-85-AC-0E-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Enable Task View - Hold L3" Description="">
+    <Cheatline>
+      <Offset>95F836</Offset>
+      <Section>0</Section>
+      <ValueOn>51-B9-68-3F-EA-00-67-8B-09-83-E1-02-75-14-C6-80-B9-39-00-00-01-80-B8-B9-39-00-00-00-59-E9-75-D9-A0-FF-C6-80-B9-39-00-00-00-80-B8-B9-39-00-00-00-59-E9-61-D9-A0-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>36D1C6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6B-26-5F-00-90-90</ValueOn>
+      <ValueOff>80-B8-B9-39-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -69,6 +69,22 @@
       ]
     },
     {
+      "name": "Infinite Fury",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "900F5F0",
+          "on": "C780800000000000803FE961B8E5F9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2E6AE58",
+          "on": "E993471A06909090",
+          "off": "C5FA118080000000"
+        }
+      ]
+    },
+    {
       "name": "Max Cash (on get turn off items cheat first)",
       "type": "checkbox",
       "memory": [

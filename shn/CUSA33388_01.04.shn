@@ -160,7 +160,7 @@
       <ValueOff>89-D1</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Inf Ammo_Items_Crafting" Description="">
+  <Cheat Text="Infinite Ammo_Items_Crafting" Description="">
     <Cheatline>
       <Offset>531F598</Offset>
       <Section>0</Section>
@@ -200,7 +200,7 @@
       <ValueOff>89-48-34</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Freezer Timer (Shooting Range)" Description="">
+  <Cheat Text="Freeze Timer (Shooting Range)" Description="">
     <Cheatline>
       <Offset>457ACDD</Offset>
       <Section>0</Section>
