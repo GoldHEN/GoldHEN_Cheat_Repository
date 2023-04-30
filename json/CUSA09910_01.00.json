@@ -1,285 +1,285 @@
 {
-    "name": "Nights of Azure 2: Bride of the New Moon",
-    "id": "CUSA09910",
-    "version": "1.00",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "Nights of Azure 2: Bride of the New Moon",
+  "id": "CUSA09910",
+  "version": "1.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Mastercode Infinite Health + One Hit Kill ( must be activate )",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Mastercode Infinite Health + One Hit Kill ( must be activate )",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "B87DAB",
-                    "on": "4383BCBD1C020000007505438B44BD104381BCBD1C0200000024744C7505438B44BD10438B44BD10E94A9E49FF438B84BDC0000000438944BD10C343C744BD1000000000C3526564646576696C3832202D20465720392E3030",
-                    "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "21C1D",
-                    "on": "E98961B600",
-                    "off": "438B44BD10"
-                }
-            ]
+          "offset": "B87DAB",
+          "on": "4383BCBD1C020000007505438B44BD104381BCBD1C0200000024744C7505438B44BD10438B44BD10E94A9E49FF438B84BDC0000000438944BD10C343C744BD1000000000C3526564646576696C3832202D20465720392E3030",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
         },
         {
-            "name": "Infinite Health [MC]",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "B87DB6",
-                    "on": "E81D000000",
-                    "off": "438B44BD10"
-                }
-            ]
-        },
-        {
-            "name": "One Hit Kill [MC]",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "B87DC9",
-                    "on": "E818000000",
-                    "off": "438B44BD10"
-                }
-            ]
-        },
-        {
-            "name": "Infinite MP",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "B87F20",
-                    "on": "4863C683FE01750E4150448B448718448944871041588B448710E9488949FF",
-                    "off": "00000000000000000000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "20880",
-                    "on": "E99B76B6009090",
-                    "off": "4863C68B448710"
-                }
-            ]
-        },
-        {
-            "name": "Skill no Cooldown",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "B87E04",
-                    "on": "C5FA119324070000C5FA108B24070000E941EF49FF",
-                    "off": "000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "26D52",
-                    "on": "E9AD10B600909090",
-                    "off": "C5FA108B24070000"
-                }
-            ]
-        },
-        {
-            "name": "Infinite Double Chase Gauge",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "B87E19",
-                    "on": "448BB3280100004489B398010000448BB398010000E9F1596EFF",
-                    "off": "0000000000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "26D81D",
-                    "on": "E9F7A591009090",
-                    "off": "448BB398010000"
-                }
-            ]
-        },
-        {
-            "name": "Max Tension Gauge",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "B87E33",
-                    "on": "C7874C010000E80300008B874C010000E95E5C6EFF",
-                    "off": "000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "26DAA0",
-                    "on": "E98EA3910090",
-                    "off": "8B874C010000"
-                }
-            ]
-        },
-        {
-            "name": "Max Blood",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "B87E48",
-                    "on": "41C785F801000050571200418B8DF8010000E947FE81FF",
-                    "off": "0000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "3A7C9F",
-                    "on": "E9A4017E009090",
-                    "off": "418B8DF8010000"
-                }
-            ]
-        },
-        {
-            "name": "Max Libra",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "B87E5F",
-                    "on": "41C785000200007F969800418B8D00020000E9F3FC81FF",
-                    "off": "0000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "3A7B62",
-                    "on": "E9F8027E009090",
-                    "off": "418B8D00020000"
-                }
-            ]
-        },
-        {
-            "name": "Max Ability Points",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "B87E76",
-                    "on": "41C785080200000F270000418B8D08020000E9455279FF",
-                    "off": "0000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "31D0CB",
-                    "on": "E9A6AD86009090",
-                    "off": "418B8D08020000"
-                }
-            ]
-        },
-        {
-            "name": "Max Servan Points",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "B87E8D",
-                    "on": "488B8920060000C741243F420F008B4924E9E8277AFF",
-                    "off": "00000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "32A681",
-                    "on": "E907D885009090909090",
-                    "off": "488B89200600008B4924"
-                }
-            ]
-        },
-        {
-            "name": "Max Level Aluche",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "B87EA3",
-                    "on": "6641C74424023200410FBF742402E9DEFF58FF",
-                    "off": "00000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "117E8E",
-                    "on": "E91000A70090",
-                    "off": "410FBF742402"
-                }
-            ]
-        },
-        {
-            "name": "Max XP Lilly ( on gain )",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "B87EB6",
-                    "on": "FF909801000041C7461C50571200418B5E1CE96AB176FF",
-                    "off": "0000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "2F302D",
-                    "on": "E9844E89009090909090",
-                    "off": "FF9098010000418B5E1C"
-                }
-            ]
-        },
-        {
-            "name": "Max Affinity Level",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "B87ECD",
-                    "on": "0F84DC7580FF41C7461858020000E99E7480FF",
-                    "off": "00000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "38F378",
-                    "on": "E9508B7F0090",
-                    "off": "0F8437010000"
-                }
-            ]
-        },
-        {
-            "name": "Max Combo ( on gain )",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "B87EE0",
-                    "on": "488D05E1E25C00C743080F270000E9300E6FFF",
-                    "off": "00000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "278D18",
-                    "on": "E9C3F19000909090909090",
-                    "off": "488D05E1E25C0044897308"
-                }
-            ]
-        },
-        {
-            "name": "Infinite Moon Phase",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "B87EF3",
-                    "on": "41C744242400000000458B7C2424E9A1FC59FF",
-                    "off": "00000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "127BA2",
-                    "on": "E94C03A600",
-                    "off": "458B7C2424"
-                }
-            ]
-        },
-        {
-            "name": "Freeze Mission Timer",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "271748",
-                    "on": "9090909090",
-                    "off": "C5FA5C45E4"
-                }
-            ]
-        },
-        {
-            "name": "Set Mission Timer ( 1 hour )",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "B87F06",
-                    "on": "41C7875001000000006145C4C17A108750010000E925986EFF",
-                    "off": "00000000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "27173B",
-                    "on": "E9C667910090909090",
-                    "off": "C4C17A108750010000"
-                }
-            ]
+          "offset": "21C1D",
+          "on": "E98961B600",
+          "off": "438B44BD10"
         }
-    ],
-    "credits": [
-        "Reddevil82 ",
-        " FW 9.00"
-    ]
+      ]
+    },
+    {
+      "name": "Infinite Health [MC]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87DB6",
+          "on": "E81D000000",
+          "off": "438B44BD10"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill [MC]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87DC9",
+          "on": "E818000000",
+          "off": "438B44BD10"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87F20",
+          "on": "4863C683FE01750E4150448B448718448944871041588B448710E9488949FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "20880",
+          "on": "E99B76B6009090",
+          "off": "4863C68B448710"
+        }
+      ]
+    },
+    {
+      "name": "Skill no Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87E04",
+          "on": "C5FA119324070000C5FA108B24070000E941EF49FF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "26D52",
+          "on": "E9AD10B600909090",
+          "off": "C5FA108B24070000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Double Chase Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87E19",
+          "on": "448BB3280100004489B398010000448BB398010000E9F1596EFF",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "26D81D",
+          "on": "E9F7A591009090",
+          "off": "448BB398010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Tension Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87E33",
+          "on": "C7874C010000E80300008B874C010000E95E5C6EFF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "26DAA0",
+          "on": "E98EA3910090",
+          "off": "8B874C010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Blood",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87E48",
+          "on": "41C785F801000050571200418B8DF8010000E947FE81FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3A7C9F",
+          "on": "E9A4017E009090",
+          "off": "418B8DF8010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Libra",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87E5F",
+          "on": "41C785000200007F969800418B8D00020000E9F3FC81FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3A7B62",
+          "on": "E9F8027E009090",
+          "off": "418B8D00020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ability Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87E76",
+          "on": "41C785080200000F270000418B8D08020000E9455279FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "31D0CB",
+          "on": "E9A6AD86009090",
+          "off": "418B8D08020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Servan Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87E8D",
+          "on": "488B8920060000C741243F420F008B4924E9E8277AFF",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "32A681",
+          "on": "E907D885009090909090",
+          "off": "488B89200600008B4924"
+        }
+      ]
+    },
+    {
+      "name": "Max Level Aluche",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87EA3",
+          "on": "6641C74424023200410FBF742402E9DEFF58FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "117E8E",
+          "on": "E91000A70090",
+          "off": "410FBF742402"
+        }
+      ]
+    },
+    {
+      "name": "Max XP Lilly ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87EB6",
+          "on": "FF909801000041C7461C50571200418B5E1CE96AB176FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2F302D",
+          "on": "E9844E89009090909090",
+          "off": "FF9098010000418B5E1C"
+        }
+      ]
+    },
+    {
+      "name": "Max Affinity Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87ECD",
+          "on": "0F84DC7580FF41C7461858020000E99E7480FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "38F378",
+          "on": "E9508B7F0090",
+          "off": "0F8437010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Combo ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87EE0",
+          "on": "488D05E1E25C00C743080F270000E9300E6FFF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "278D18",
+          "on": "E9C3F19000909090909090",
+          "off": "488D05E1E25C0044897308"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Moon Phase",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87EF3",
+          "on": "41C744242400000000458B7C2424E9A1FC59FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "127BA2",
+          "on": "E94C03A600",
+          "off": "458B7C2424"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Mission Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "271748",
+          "on": "9090909090",
+          "off": "C5FA5C45E4"
+        }
+      ]
+    },
+    {
+      "name": "Set Mission Timer ( 1 hour )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87F06",
+          "on": "41C7875001000000006145C4C17A108750010000E925986EFF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "27173B",
+          "on": "E9C667910090909090",
+          "off": "C4C17A108750010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
 }
