@@ -788,6 +788,7 @@ CUSA08798_01.10.json=Darksiders III
 CUSA10300_01.09.json=RAGE2
 CUSA32074_01.02.json=Pac-Man World Re-Pac
 CUSA03178_01.01_bh1hd.elf.json=Resident Evil Origins Collection
+CUSA09910_01.00.json=Nights of Azure 2: Bride of the New Moon
 CUSA19640_01.00.json=Persona 5 Striker
 CUSA13285_01.02.json=Hollow Knight
 CUSA24853_01.00.json=Kena: Bridge of Spirits
