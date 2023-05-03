@@ -162,6 +162,7 @@ CUSA00054_01.04.shn=Mad Max
 CUSA19120_01.00.shn=Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition
 CUSA09171_01.04.shn=Resident Evil 2
 CUSA05597_01.05.shn=Metal Gear Solid V - The Definitive Experience
+CUSA00265_02.64.shn=Minecraft
 CUSA18008_01.01_2.shn=Resident Evil Village
 CUSA00556_01.09.shn=The Last of Us
 CUSA07615_01.09.shn=Yakuza Kiwami
