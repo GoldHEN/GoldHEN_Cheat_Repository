@@ -62,6 +62,7 @@ CUSA15036_01.00.shn=Catherine - Full Body
 CUSA10246_01.03.shn=Code Vein
 CUSA14212_01.11.shn=Generation Zero
 CUSA03309_01.03.shn=Far Cry Primal
+CUSA12584_01.33.shn=DLSH
 CUSA16345_01.01.shn=Immortals Fenyx Rising
 CUSA18008_01.11.shn=Resident Evil Village
 CUSA08779_01.02.shn=Dishonored - Death of the Outsider
