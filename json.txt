@@ -132,6 +132,7 @@ CUSA14275_01.08_2.json=Back 4 Blood
 CUSA18008_01.01.json=Resident Evil Village
 CUSA10507_01.24.json=Remnant: From the Ashes
 CUSA10688_01.04.json=Injustice 2: Legendary Edition
+CUSA00265_02.64.json=Minecraft
 CUSA15161_01.01.json=Chronos Before the Ashes
 CUSA03842_01.00.json=Resident Evil 7
 CUSA13094_01.00.json=Wolfenstein: Youngblood
