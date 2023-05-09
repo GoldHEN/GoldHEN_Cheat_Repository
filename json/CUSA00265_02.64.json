@@ -1,67 +1,66 @@
 {
-   "name":"Minecraft",
-   "id":"CUSA00265",
-   "version":"02.64",
-   "process":"eboot.bin",
-   "mods":[
-      {
-         "name":"🔝Multijump🔝",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"177AE50",
-               "on":"85D27552",
-               "off":"85D27452"
-            } 
-         ]
-      },
-      {
-         "name":"➡️Jump Foward x4➡️",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"85013C4",
-               "on":"33333340",
-               "off":"CDCC4C3E"
-            }
-         ]
-      },
-      {
-         "name":"➡️Jump Foward x2➡️",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"85013C4",
-               "on":"52B81B3F",
-               "off":"CDCC4C3E"
-            }
-         ]
-      },
-      {
-         "name":"⚔️Unfair Attack⚔️",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"8500E43",
-               "on":"0000008040000040",
-               "off":"00CDCCCC3D000080"
-            }
-         ]
-      },
-      {
-         "name":"⚔️Antiknockback⚔️",
-         "type":"checkbox",
-         "memory":[
-            {
-               "offset":"4532D10",
-               "on":"C3",
-               "off":"55"
-
-            }
-         ]
-      }
-   ],
-   "credits":[
-      "🔥MELTED NINJA🔥"
-   ]
+  "name": "Minecraft",
+  "id": "CUSA00265",
+  "version": "02.64",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "🔝Multijump🔝",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "177AE50",
+          "on": "85D27552",
+          "off": "85D27452"
+        }
+      ]
+    },
+    {
+      "name": "➡️Jump Foward x4➡️",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85013C4",
+          "on": "33333340",
+          "off": "CDCC4C3E"
+        }
+      ]
+    },
+    {
+      "name": "➡️Jump Foward x2➡️",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85013C4",
+          "on": "52B81B3F",
+          "off": "CDCC4C3E"
+        }
+      ]
+    },
+    {
+      "name": "⚔️Unfair Attack⚔️",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8500E43",
+          "on": "0000008040000040",
+          "off": "00CDCCCC3D000080"
+        }
+      ]
+    },
+    {
+      "name": "⚔️Antiknockback⚔️",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4532D10",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "🔥MELTED NINJA🔥"
+  ]
 }
