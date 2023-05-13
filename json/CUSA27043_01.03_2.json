@@ -1,0 +1,353 @@
+{
+  "name": "Dead Island 2",
+  "id": "CUSA27043",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "HP Master (Must Be ON for health/one hit)",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3421E8B",
+          "on": "C5FA5E80F0000000",
+          "off": "C5FA5E80F0000000"
+        },
+        {
+          "offset": "9417000",
+          "on": "C5FA5E80F000000048A3009FDB0A00000000E97CAE00FA",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3421E8B",
+          "on": "E97051FF05909090",
+          "off": "C5FA5E80F0000000"
+        },
+        {
+          "offset": "2B2B92E",
+          "on": "C5FA118D34FFFFFF",
+          "off": "C5FA118D34FFFFFF"
+        },
+        {
+          "offset": "9417017",
+          "on": "483B3DE22E9A017406F30F10C0EB08C5FA108778010000E9034971F9",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2B2B92E",
+          "on": "E9E4B68E06909090",
+          "off": "C5FA118D34FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9417026",
+          "on": "C5FA1087F0000000",
+          "off": "C5FA108778010000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9417020",
+          "on": "0F57C090",
+          "off": "F30F10C0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3012885",
+          "on": "F30F10D0",
+          "off": "C5EA5DC0"
+        }
+      ]
+    },
+    {
+      "name": "Zombie No Stamina Recovery after Hit",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "30126E5",
+          "on": "0F57C090",
+          "off": "C5EA5DC0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapon Durability",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "31693F6",
+          "on": "C5F25FC0",
+          "off": "C5F25CC0"
+        }
+      ]
+    },
+    {
+      "name": "Max XP on Gain",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "329F7C8",
+          "on": "4589EF90",
+          "off": "450F4FEF"
+        }
+      ]
+    },
+    {
+      "name": "Max Items on Gain",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6FA8EBC",
+          "on": "4589CE90",
+          "off": "410F4FD6"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items+Money (Disable to Sell Items)",
+      "hint": "This will also allow you to drop unlimited amount of weapons from your inventory but weapons you drop seem to not become usable after you pick them up. ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6FA9264",
+          "on": "4531F6",
+          "off": "4429F0"
+        }
+      ]
+    },
+    {
+      "name": "9999999 Money (Open Player Menu or Workbench)",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3622C82",
+          "on": "E869B09803",
+          "off": "E869B09803"
+        },
+        {
+          "offset": "9417033",
+          "on": "488935CE2E9A01E8B16CB9FDE943BC20FA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "3622C82",
+          "on": "E9AC43DF05",
+          "off": "E869B09803"
+        },
+        {
+          "offset": "6FADD80",
+          "on": "440330EBDB",
+          "off": "440330EBDB"
+        },
+        {
+          "offset": "9417044",
+          "on": "483B1DBD2E9A017506C7007F969800440330E9056DB9FDE9256DB9FD",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6FADD80",
+          "on": "E9BF924602",
+          "off": "440330EBDB"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2FEB869",
+          "on": "BA00000000",
+          "off": "B901000000"
+        }
+      ]
+    },
+    {
+      "name": "No Recoil",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2FD7934",
+          "on": "BE00000000909090909090909090",
+          "off": "BE01000000C4C17A1185AC010000"
+        }
+      ]
+    },
+    {
+      "name": "Less Bullet Spread",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2FED79F",
+          "on": "0F57C090",
+          "off": "C5FA5EC1"
+        }
+      ]
+    },
+    {
+      "name": "Max Fury on Gain",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3269C74",
+          "on": "C5FA108B58010000C5FA11888000000090",
+          "off": "7407C681B000000001C5FA118880000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Infinite Fury on Use",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "398FB5B",
+          "on": "F30F10C3",
+          "off": "C5F25CC0"
+        }
+      ]
+    },
+    {
+      "name": "No Fall Damage+Immune to Some Effects (Effects Also Applies to Some Zombies)",
+      "hint": "By Effects i mean Fire, Poison, Frozen... It does not work for every single one only some of them.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2C61822",
+          "on": "9090909090",
+          "off": "E8F956FFFF"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E394E1",
+          "on": "31C990",
+          "off": "894E08"
+        }
+      ]
+    },
+    {
+      "name": "Crazy Weapon Stats (May reset after buying a mod in shop for the weapon)",
+      "hint": "This does not work on every stat or on every weapon only works on some of them. ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "296BB14",
+          "on": "E977B5AA06",
+          "off": "E977B5AA06"
+        },
+        {
+          "offset": "94170A8",
+          "on": "415741BF7F96184B44893C01415FC5FA100C01E9594A55F9",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "296BB14",
+          "on": "E98FB5AA06",
+          "off": "E977B5AA06"
+        }
+      ]
+    },
+    {
+      "name": "x2 Melee Weapon Attack Speed (Disable & Swap Weapon for Original Speed)",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28D2F8F",
+          "on": "C5FA105210",
+          "off": "C5FA105210"
+        },
+        {
+          "offset": "94170C0",
+          "on": "83F8027507C7421000000040C5FA105210E9BEBE4BF9",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "28D2F8F",
+          "on": "E92C41B406",
+          "off": "C5FA105210"
+        }
+      ]
+    },
+    {
+      "name": "x3 Melee Weapon Attack Speed (Disable & Swap Weapon for Original Speed)",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28D2F8F",
+          "on": "C5FA105210",
+          "off": "C5FA105210"
+        },
+        {
+          "offset": "94170C0",
+          "on": "83F8027507C7421000004040C5FA105210E9BEBE4BF9",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "28D2F8F",
+          "on": "E92C41B406",
+          "off": "C5FA105210"
+        }
+      ]
+    },
+    {
+      "name": "x4 Melee Weapon Attack Speed (Disable & Swap Weapon for Original Speed)",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28D2F8F",
+          "on": "C5FA105210",
+          "off": "C5FA105210"
+        },
+        {
+          "offset": "94170C0",
+          "on": "83F8027507C7421000008040C5FA105210E9BEBE4BF9",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "28D2F8F",
+          "on": "E92C41B406",
+          "off": "C5FA105210"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Rizla"
+  ]
+}
