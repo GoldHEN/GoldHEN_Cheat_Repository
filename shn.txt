@@ -33,7 +33,6 @@ CUSA04402_01.11.shn=Middle-Earth - Shadow of War
 CUSA18008_01.01.shn=Resident Evil Village
 CUSA07708_02.00.shn=Monster Hunter World
 CUSA05904_01.01.shn=Far Cry 5
-CUSA15526_01.08_3.shn=aaa
 CUSA04893_01.00_ScimitarACB.elf.shn=Assassin's Creed: The Ezio Collection [Assasins Creed Brotherhood]
 CUSA11260_01.12.shn=Death Stranding
 CUSA02231_01.01.shn=Dishonored (Definitive Edition)
