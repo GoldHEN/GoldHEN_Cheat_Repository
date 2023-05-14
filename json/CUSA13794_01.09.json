@@ -1,1 +1,59 @@
-{"name":"LEGO Star Wars: The Skywalker Saga","id":"CUSA13794","version":"01.09","process":"eboot.bin","mods":[{"name":"Inf HP","type":"checkbox","memory":[{"offset":"7513829","on":"4183BC24C405000003750AC4C17A108C2478050000C4C17A118C2470050000E9710787F9","off":"000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"D83FB4","on":"E970F878069090909090","off":"C4C17A118C2470050000"}]},{"name":"Inf Studs (On Gain)","type":"checkbox","memory":[{"offset":"7513817","on":"48C743187F9698004C89EFE96DD636FB","off":"00000000000000000000000000000000"},{"offset":"2880E8D","on":"E98529C9049090","off":"488943184C89EF"}]},{"name":"Inf Kyber Bricks (Turn Off after Use, Value will go negative if don't unlock all upgrades)","type":"checkbox","memory":[{"offset":"7513800","on":"0383CC000000C783CC000000AF040000E903DCF9FB","off":"000000000000000000000000000000000000000000"},{"offset":"34B1412","on":"E9E923060490","off":"0383CC000000"}]}],"credits":["DJFlameDat"]}
+{
+  "name": "LEGO Star Wars: The Skywalker Saga",
+  "id": "CUSA13794",
+  "version": "01.09",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7513829",
+          "on": "4183BC24C405000003750AC4C17A108C2478050000C4C17A118C2470050000E9710787F9",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D83FB4",
+          "on": "E970F878069090909090",
+          "off": "C4C17A118C2470050000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Studs (On Gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7513817",
+          "on": "48C743187F9698004C89EFE96DD636FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2880E8D",
+          "on": "E98529C9049090",
+          "off": "488943184C89EF"
+        }
+      ]
+    },
+    {
+      "name": "Inf Kyber Bricks (Turn Off after Use, Value will go negative if don't unlock all upgrades)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7513800",
+          "on": "0383CC000000C783CC000000AF040000E903DCF9FB",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "34B1412",
+          "on": "E9E923060490",
+          "off": "0383CC000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DJFlameDat"
+  ]
+}

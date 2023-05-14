@@ -1,1 +1,59 @@
-{"name":"Haven","id":"CUSA23384","version":"01.06","process":"eboot.bin","mods":[{"name":"Infinite Health (1 player)","type":"checkbox","memory":[{"offset":"82D4BF50","on":"4181BDA0000000C030B501750A41C7452800C07944EB06C4C17A114D28E97E7DBAFD","off":"00000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"808F3CEA","on":"E96182450290","off":"C4C17A114D28"}]},{"name":"99 Items (on get)","type":"checkbox","memory":[{"offset":"82D4BF10","on":"41C644241863E975D5A6FD","off":"0000000000000000000000"},{"offset":"807B948B","on":"E9802A5902","off":"4589742418"}]},{"name":"Max Experience","type":"checkbox","memory":[{"offset":"82D4BFB0","on":"488B4018C740343F420F00E91D5E8AFD","off":"00000000000000000000000000000000"},{"offset":"805F1DD6","on":"E9D5A175029090","off":"488B4018895834"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Haven",
+  "id": "CUSA23384",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (1 player)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82D4BF50",
+          "on": "4181BDA0000000C030B501750A41C7452800C07944EB06C4C17A114D28E97E7DBAFD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "808F3CEA",
+          "on": "E96182450290",
+          "off": "C4C17A114D28"
+        }
+      ]
+    },
+    {
+      "name": "99 Items (on get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82D4BF10",
+          "on": "41C644241863E975D5A6FD",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "807B948B",
+          "on": "E9802A5902",
+          "off": "4589742418"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82D4BFB0",
+          "on": "488B4018C740343F420F00E91D5E8AFD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "805F1DD6",
+          "on": "E9D5A175029090",
+          "off": "488B4018895834"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

@@ -1,1 +1,75 @@
-{"name":"guilty gear strive","id":"CUSA19210","version":"01.26","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"7C338B0","on":"807F4C00750CC78778110000E8030000EB06898F78110000E9B2EB26F9","off":"0000000000000000000000000000000000000000000000000000000000"},{"offset":"EA2479","on":"E93214D90690","off":"898F78110000"}]},{"name":"infinite Burst ","type":"checkbox","memory":[{"offset":"7C10BE0","on":"C7848848140000983A0000E90C2424F9","off":"00000000000000000000000000000000"},{"offset":"E52FF4","on":"E9E7DBDB06909090","off":"4489B48848140000"}]},{"name":"Max Level","type":"checkbox","memory":[{"offset":"7C33620","on":"C744010CFFE0F505E9D4E4A2F9","off":"00000000000000000000000000"},{"offset":"1661AFC","on":"E91F1B5D06","off":"44897C010C"}]},{"name":"Max World Dollar After Gaining","type":"checkbox","memory":[{"offset":"7C33910","on":"C78744330300FFE0F505E974673FF9","off":"000000000000000000000000000000"},{"offset":"102A08D","on":"E97E98C00690","off":"898744330300"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "guilty gear strive",
+  "id": "CUSA19210",
+  "version": "01.26",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7C338B0",
+          "on": "807F4C00750CC78778110000E8030000EB06898F78110000E9B2EB26F9",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "EA2479",
+          "on": "E93214D90690",
+          "off": "898F78110000"
+        }
+      ]
+    },
+    {
+      "name": "infinite Burst ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7C10BE0",
+          "on": "C7848848140000983A0000E90C2424F9",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "E52FF4",
+          "on": "E9E7DBDB06909090",
+          "off": "4489B48848140000"
+        }
+      ]
+    },
+    {
+      "name": "Max Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7C33620",
+          "on": "C744010CFFE0F505E9D4E4A2F9",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "1661AFC",
+          "on": "E91F1B5D06",
+          "off": "44897C010C"
+        }
+      ]
+    },
+    {
+      "name": "Max World Dollar After Gaining",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7C33910",
+          "on": "C78744330300FFE0F505E974673FF9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "102A08D",
+          "on": "E97E98C00690",
+          "off": "898744330300"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}
