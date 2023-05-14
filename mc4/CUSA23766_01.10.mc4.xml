@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA23766" Game="Tiny Tina's Wonderlands" Moder="2B" Process="eboot.bin" Version="01.10" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Genres Name="Action"/>
+<Trainer Game="Tiny Tina" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">s Wonderlands" Moder="2B" Cusa="CUSA23766" Version="01.10" Process="eboot.bin"&gt;
+  <Genres Name="Action"/>
 <Items/>
 <Cheat Text="Inf HP">
 </Cheat>
