@@ -1,0 +1,54 @@
+{
+    "name": "Hitman Absolution HD",
+    "id": "CUSA12650",
+    "version": "01.02",
+    "process": "eboot.bin",
+    "mods": [
+        {
+            "name": "Max Infinite Health",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "F87800",
+                    "on": "C4C17A11A724020000E9EDFD75FF",
+                    "off": "0000000000000000000000000000"
+                },
+                {
+                    "offset": "6E75F2",
+                    "on": "E909028A0090909090",
+                    "off": "C4C17A118724020000"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Instinct",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "6909BF",
+                    "on": "C5FA1122",
+                    "off": "C5FA1112"
+                }
+            ]
+        },
+        {
+            "name": "Max Infinite Ammo [99]",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "F87812",
+                    "on": "C7835605000063000000E92CEC4EFF",
+                    "off": "000000000000000000000000000000"
+                },
+                {
+                    "offset": "476446",
+                    "on": "E9C713B1009090",
+                    "off": "6689B356050000"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "Arafat"
+    ]
+}
