@@ -989,6 +989,7 @@ CUSA18672_01.01.json=Crysis2® Remastered
 CUSA25058_01.12.json=Habroxia 2
 CUSA03980_01.00.json=BioShock Infinite: The Collection
 CUSA25298_01.01.json=Wukong
+CUSA12433_01.26.json=Call of Duty®: Black Ops 4
 CUSA14000_01.00.json=Ghoulboy
 CUSA08570_01.02.json=Ys VIII -Lacrimosa of DANA-
 CUSA16990_01.02.json=Mafia II: Definitive Edition
