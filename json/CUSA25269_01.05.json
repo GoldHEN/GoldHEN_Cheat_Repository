@@ -1,1 +1,65 @@
-{"name":"SCARLET NEXUS","id":"CUSA25269","version":"01.05","process":"eboot.bin","mods":[{"name":"999999 Funds","type":"checkbox","memory":[{"offset":"8013814","on":"B83F420F0001C3E9827910F9","off":"000000000000000000000000"},{"offset":"111B19C","on":"E97386EF0690","off":"418B465001C3"}]},{"name":"Infinite Items (Use in Battle)","type":"checkbox","memory":[{"offset":"111C22D","on":"9090","off":"8939"}]},{"name":"999 BP after 1 use","type":"checkbox","memory":[{"offset":"1120B8E","on":"BBe70300009090","off":"41039ED0020000"}]},{"name":"1 Hit Kill ","type":"checkbox","memory":[{"offset":"8013800","on":"4883FE0A750D837FE0007407C747E0010000008B3410893411E98870E3F8","off":"000000000000000000000000000000000000000000000000000000000000"},{"offset":"E4A8A0","on":"E95B8F1C0790","off":"8B3410893411"}]}],"credits":["EvilGoku"]}
+{
+  "name": "SCARLET NEXUS",
+  "id": "CUSA25269",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "999999 Funds",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8013814",
+          "on": "B83F420F0001C3E9827910F9",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "111B19C",
+          "on": "E97386EF0690",
+          "off": "418B465001C3"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items (Use in Battle)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "111C22D",
+          "on": "9090",
+          "off": "8939"
+        }
+      ]
+    },
+    {
+      "name": "999 BP after 1 use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1120B8E",
+          "on": "BBe70300009090",
+          "off": "41039ED0020000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8013800",
+          "on": "4883FE0A750D837FE0007407C747E0010000008B3410893411E98870E3F8",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E4A8A0",
+          "on": "E95B8F1C0790",
+          "off": "8B3410893411"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "EvilGoku"
+  ]
+}
