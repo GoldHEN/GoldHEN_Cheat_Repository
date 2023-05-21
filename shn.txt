@@ -112,6 +112,7 @@ CUSA03173_01.00.shn=Bloodborne GOTY
 CUSA05787_01.00_kh3d.elf.shn=KINGDOM HEARTS Dream Drop Distance
 CUSA04893_01.02_ScimitarACR.elf.shn=Assassin's Creed: The Ezio Collection [Assasins Creed Revelations]
 CUSA07410_01.00.shn=God Of War
+CUSA00606_01.05.shn=Assassins Creed - Unity
 CUSA05597_01.05.shn=Metal Gear Solid V - The Definitive Experience
 CUSA08798_01.10.shn=Darksiders III
 CUSA15300_01.01.shn=Travis Strikes Again: No More Heroes 
