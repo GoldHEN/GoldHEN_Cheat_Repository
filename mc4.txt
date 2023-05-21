@@ -310,6 +310,7 @@ CUSA27312_01.18.mc4.xml=Baldo The guardian owls
 CUSA11253_01.45.mc4.xml=Dead Cells
 CUSA08161_01.08.mc4.xml=devil may cry 5
 CUSA02629_01.01.mc4.xml=Disgaea 5
+CUSA33388_01.04_2.mc4.xml=Resident Evil 4 Remake
 CUSA03455_01.00.mc4.xml=7 Days To Die
 CUSA06052_01.03.mc4.xml=Rogue Stormers
 CUSA03617_01.00.mc4.xml=Mafia III
