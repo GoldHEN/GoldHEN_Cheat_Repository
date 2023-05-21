@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA10872" Game="Shadow Of The Tomb Raider" Moder="Celogamez" Process="eboot.bin" Version="02.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Health+1 Hit Kill">
+</Cheat>
+<Cheat Text="Infinite Breath">
+</Cheat>
+<Cheat Text="No Reload">
+</Cheat>
+<Cheat Text="Max/Infinite Ammo/Arrows/Items/Gold">
+</Cheat>
+<Cheat Text="Max XP On Gain">
+</Cheat>
+<Cheat Text="Infinite Skill Points">
+</Cheat>
+<Cheat Text="Max Score challenge Tombs">
+</Cheat>
+</Trainer>
