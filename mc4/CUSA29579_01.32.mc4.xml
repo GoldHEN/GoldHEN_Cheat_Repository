@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA29579" Game="Stranger Of Paradise - Final Fantasy" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.32" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Stamina">
+</Cheat>
+<Cheat Text="Infinite Break Gauge">
+</Cheat>
+<Cheat Text="Infinite MP + Max MP">
+</Cheat>
+<Cheat Text="One Hit Kill">
+</Cheat>
+<Cheat Text="Max Potion">
+</Cheat>
+<Cheat Text="Max Abilities ( if available )">
+</Cheat>
+<Cheat Text="Max Anima ( Job Menu - you need one )">
+</Cheat>
+<Cheat Text="Max Anima, Maginit ( Items Inventory - you need one )">
+</Cheat>
+<Cheat Text="Max Job Points ( on use )">
+</Cheat>
+</Trainer>
