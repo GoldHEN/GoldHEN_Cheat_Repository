@@ -1,1 +1,65 @@
-{"name":"Power Rangers - Battle for The Grid","id":"CUSA15284","version":"01.24","process":"eboot.bin","mods":[{"name":"Inf HP / Easy Win (Master Code)","type":"checkbox","memory":[{"offset":"1CECC00","on":"488B40086681FDF05D751452488B553883BAEC050000015A7505BB28230000895C8820E916DADA7F9052488B553883BAEC050000005A75E783FB017EE2BB01000000EBDB","off":"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"81A9A636","on":"E9C5252580909090","off":"488B4008895C8820"}]},{"name":"Easy Win (MC)","type":"checkbox","memory":[{"offset":"1CECC18","on":"750F","off":"7505"}]},{"name":"Inf Super (Master Code)","type":"checkbox","memory":[{"offset":"1CECCA0","on":"6681FD305E75364981FA1E010000752D4153515248BAF0FFFFFF0F0000004989C3486BC9044901CB4983C3204909D3664183FBF05A59415B75034589E744897C8820E936DADA7F4531FFEBF1","off":"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"81A9A718","on":"E983252580","off":"44897C8820"}]},{"name":"Enemy Super 0 (MC)","type":"checkbox","memory":[{"offset":"1CECCD8","on":"750D","off":"7503"}]}],"credits":["Saso_900"]}
+{
+  "name": "Power Rangers - Battle for The Grid",
+  "id": "CUSA15284",
+  "version": "01.24",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP / Easy Win (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CECC00",
+          "on": "488B40086681FDF05D751452488B553883BAEC050000015A7505BB28230000895C8820E916DADA7F9052488B553883BAEC050000005A75E783FB017EE2BB01000000EBDB",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81A9A636",
+          "on": "E9C5252580909090",
+          "off": "488B4008895C8820"
+        }
+      ]
+    },
+    {
+      "name": "Easy Win (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CECC18",
+          "on": "750F",
+          "off": "7505"
+        }
+      ]
+    },
+    {
+      "name": "Inf Super (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CECCA0",
+          "on": "6681FD305E75364981FA1E010000752D4153515248BAF0FFFFFF0F0000004989C3486BC9044901CB4983C3204909D3664183FBF05A59415B75034589E744897C8820E936DADA7F4531FFEBF1",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81A9A718",
+          "on": "E983252580",
+          "off": "44897C8820"
+        }
+      ]
+    },
+    {
+      "name": "Enemy Super 0 (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CECCD8",
+          "on": "750D",
+          "off": "7503"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_900"
+  ]
+}

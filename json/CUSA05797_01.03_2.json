@@ -1,75 +1,75 @@
 {
-    "name": "Toukiden 2",
-    "id": "CUSA05797",
-    "version": "1.03",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "Toukiden 2",
+  "id": "CUSA05797",
+  "version": "1.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Inf HP",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "D7F800",
-                    "on": "C4C17A10868C010000C4C17A118690010000C4C17A108690010000E98D4B5FFF",
-                    "off": "0000000000000000000000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "3743A4",
-                    "on": "E957B4A00090909090",
-                    "off": "C4C17A108690010000"
-                }
-            ]
+          "offset": "D7F800",
+          "on": "C4C17A10868C010000C4C17A118690010000C4C17A108690010000E98D4B5FFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
         },
         {
-            "name": "Inf Stam",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "D7F822",
-                    "on": "C5FA10838C010000C5FA1183A0010000C5FA1083A0010000E9EBD064FF",
-                    "off": "0000000000000000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "3CC922",
-                    "on": "E9FB2E9B00909090",
-                    "off": "C5FA1083A0010000"
-                }
-            ]
-        },
-        {
-            "name": "Inf Money (On Buy)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "D7F841",
-                    "on": "C78094C504007F969800E9A2DC9BFF",
-                    "off": "000000000000000000000000000000"
-                },
-                {
-                    "offset": "73D4EC",
-                    "on": "E95023640090",
-                    "off": "899094C50400"
-                }
-            ]
-        },
-        {
-            "name": "Inf Items (On Sell need 2+)",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "D7F852",
-                    "on": "66C7448F026300E910FD6EFF",
-                    "off": "000000000000000000000000"
-                },
-                {
-                    "offset": "46F569",
-                    "on": "E9E4029100",
-                    "off": "6689448F02"
-                }
-            ]
+          "offset": "3743A4",
+          "on": "E957B4A00090909090",
+          "off": "C4C17A108690010000"
         }
-    ],
-    "credits": [
-        "DJFlameDat"
-    ]
+      ]
+    },
+    {
+      "name": "Inf Stam",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D7F822",
+          "on": "C5FA10838C010000C5FA1183A0010000C5FA1083A0010000E9EBD064FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3CC922",
+          "on": "E9FB2E9B00909090",
+          "off": "C5FA1083A0010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money (On Buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D7F841",
+          "on": "C78094C504007F969800E9A2DC9BFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "73D4EC",
+          "on": "E95023640090",
+          "off": "899094C50400"
+        }
+      ]
+    },
+    {
+      "name": "Inf Items (On Sell need 2+)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D7F852",
+          "on": "66C7448F026300E910FD6EFF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "46F569",
+          "on": "E9E4029100",
+          "off": "6689448F02"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DJFlameDat"
+  ]
 }
