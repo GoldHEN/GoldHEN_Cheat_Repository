@@ -5,88 +5,61 @@
   "process": "eboot.bin",
   "mods": [
     {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2093c03",
+          "on": "C5FA114814",
+          "off": "C5FA114814"
+        },
+        {
+          "offset": "b1eb000",
+          "on": "83B8D000000000750CC7401400007A44E9F38BEAF6C5FA114814E9E98BEAF6",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2093c03",
+          "on": "E9F8731509",
+          "off": "C5FA114814"
+        }
+      ]
+    },
+    {
       "name": "Infinite Ammo",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "3E8CD78",
-          "on": "4901C7",
-          "off": "4989C7"
+          "offset": "3e8cb40",
+          "on": "C3",
+          "off": "55"
         }
       ]
     },
     {
-      "name": "Infinite Bombs/Mines/Lockpick",
+      "name": "Infinite Lei (Money)",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "3E8CD56",
-          "on": "909090",
-          "off": "29434C"
+          "offset": "3e9111a",
+          "on": "41C747487F9698009090",
+          "off": "418B4F4801D141894F48"
         }
       ]
     },
     {
-      "name": "Infinite Usable/Craft Items",
+      "name": "Infinite Crafting Items",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "3E8DCAD",
-          "on": "909090",
-          "off": "89484C"
-        }
-      ]
-    },
-    {
-      "name": "Max Craftable Items/Ammo On Use",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "B1EB011",
-          "on": "4429E1B96300000089484CE98F2CCAF8",
-          "off": "00000000000000000000000000000000"
-        },
-        {
-          "offset": "3E8DCAA",
-          "on": "E962D3350790",
-          "off": "4429E189484C"
-        }
-      ]
-    },
-    {
-      "name": "Max Money",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "B1EB025",
-          "on": "01D1B97F96980041894F48E9EF60CAF8",
-          "off": "00000000000000000000000000000000"
-        },
-        {
-          "offset": "3E9111E",
-          "on": "E9029F350790",
-          "off": "01D141894F48"
-        }
-      ]
-    },
-    {
-      "name": "Max Treasure",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "B1EB039",
-          "on": "0F857461F5F841C7474C7F969800418B474CE9DD57F5F8",
-          "off": "0000000000000000000000000000000000000000000000"
-        },
-        {
-          "offset": "4140823",
-          "on": "E911A80A079090909090",
-          "off": "0F8590090000418B474C"
+          "offset": "3e8dca6",
+          "on": "C7404C0F270000909090",
+          "off": "440F4EE34429E189484C"
         }
       ]
     }
   ],
   "credits": [
-    "GamerX2"
+    "DeathRGH"
   ]
 }

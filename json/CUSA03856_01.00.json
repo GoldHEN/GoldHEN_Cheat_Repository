@@ -1,115 +1,44 @@
 {
-  "name": "RESIDENT EVIL 6",
+  "name": "Resident Evil 6",
   "id": "CUSA03856",
   "version": "01.00",
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Health",
+      "name": "Godmode",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "712424",
-          "on": "66898768130000",
-          "off": "66898F68130000"
-        },
-        {
-          "offset": "197968",
-          "on": "66899368130000",
-          "off": "66898B68130000"
+          "offset": "71240b",
+          "on": "01F16639F00FBF87",
+          "off": "29F16639F00FBF87"
         }
       ]
     },
     {
-      "name": "No Reload",
+      "name": "Modded Stock Ammo",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "B324D0",
-          "on": "9090909090",
-          "off": "6689544F0E"
+          "offset": "b324c4",
+          "on": "01F0F6C480660F44",
+          "off": "29F16639F00FBF87"
         }
       ]
     },
     {
-      "name": "Max Inf Ammo Items",
+      "name": "Stamina Will Stay At 1 Bar",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "B323ED",
-          "on": "0FBF444714",
-          "off": "0FBF44470E"
-        }
-      ]
-    },
-    {
-      "name": "Max Stamina - Air ????",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "79DAC3",
-          "on": "909090909090909090",
-          "off": "C4C17A118E50470000"
-        }
-      ]
-    },
-    {
-      "name": "Max Skill Points on Spend",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "6A771C",
-          "on": "018318050000",
-          "off": "298318050000"
-        }
-      ]
-    },
-    {
-      "name": "Auto Escape from Grab",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "DF9D1",
-          "on": "C743380000C842",
-          "off": "C7433800000000"
-        }
-      ]
-    },
-    {
-      "name": "Freeze Countup Timer - Story",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "B22EE3",
-          "on": "909090909090909090",
-          "off": "C5FA118407401B0000"
-        }
-      ]
-    },
-    {
-      "name": "Freeze Countdown Timer-Mercenaries",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "14A568",
-          "on": "909090909090909090",
-          "off": "C4C17A118768460000"
-        }
-      ]
-    },
-    {
-      "name": "Combo Count Never Dec-Mercenaries",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "14AFBD",
-          "on": "90909090",
-          "off": "C5FA1108"
+          "offset": "79da9b",
+          "on": "29D8C5F057C9C4E1",
+          "off": "89D8C5F057C9C4E1"
         }
       ]
     }
   ],
   "credits": [
-    "hejran7"
+    "PS4Guru"
   ]
 }
