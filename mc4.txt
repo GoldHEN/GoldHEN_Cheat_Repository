@@ -415,6 +415,7 @@ CUSA08070_01.03.mc4.xml=Nanatsu no Taizai (Seven Deadly Sins) - Knights of Brita
 CUSA04126_01.00.mc4.xml=Hitman Go
 CUSA12594_01.02.mc4.xml=Nefarious
 CUSA04099_01.15.mc4.xml=Sniper Elite 4
+CUSA27520_01.05.mc4.xml=dol
 CUSA00967_01.00.mc4.xml=Mortal Kombat X
 CUSA06465_01.01.mc4.xml=Slain Back from Hell
 CUSA05625_01.41.mc4.xml=AC: Origins
