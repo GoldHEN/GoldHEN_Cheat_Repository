@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA27520" Game="dol" Moder="Saso_900" Process="eboot.bin" Version="01.05" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="HP / All  (Master Code)">
+</Cheat>
+<Cheat Text="1 Hit Kill (MC)">
+</Cheat>
+<Cheat Text="Stamina / Energy (MC)">
+</Cheat>
+<Cheat Text="Max Nanites ( Enable Stamina Cheat)">
+</Cheat>
+<Cheat Text="Freez Enemy (Enable Stamina Cheat)">
+</Cheat>
+</Trainer>
