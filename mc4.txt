@@ -194,7 +194,6 @@ CUSA00186_01.16.mc4.xml=Zen Pinball 2
 CUSA27306_01.51.mc4.xml=Demon Slayer
 CUSA11638_03.01.mc4.xml=Jump Force
 CUSA16273_01.06.mc4.xml=The Survivalists
-CUSA00362_01.04.mc4.xml=Alien: Isolation
 CUSA08974_01.04.mc4.xml=The Evil Within 2 
 CUSA03234_01.00.mc4.xml=AdVenture Capitalist
 CUSA16745_01.01.mc4.xml=Yakuza Like a Dragon
