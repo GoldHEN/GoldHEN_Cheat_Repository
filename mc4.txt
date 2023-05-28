@@ -1,3 +1,4 @@
+CUSA37321_01.12.mc4.xml=Atomic Heart
 CUSA12584_01.30.mc4.xml=Dying Light 2 Stay Human
 CUSA03604_01.05.mc4.xml=Dishonored 2
 CUSA03293_01.09.mc4.xml=Vampyr
@@ -385,6 +386,7 @@ CUSA05662_01.05_gz.elf.mc4.xml=Metal Gear Solid V zero
 CUSA00938_01.00.mc4.xml=Homefront:The Revolution
 CUSA02475_01.00.mc4.xml=Matterfall
 CUSA01875_01.01.mc4.xml=Final Fantasy 7
+CUSA15284_01.24.mc4.xml=Power Rangers: Battle For The Grid
 CUSA28863_01.13.mc4.xml=Elden Ring
 CUSA24853_02.06.mc4.xml=Kena Bridge Of Spirits
 CUSA14245_01.01.mc4.xml=Subdivision Infinity DX

@@ -1005,7 +1005,6 @@ CUSA13801_01.04_2.json=Sekiro™: Shadows Die Twice
 CUSA16345_01.34.json=Immortals Fenyx Rising ™
 CUSA15257_01.00.json=CRYSTAR
 CUSA24705_01.18.json=Horizon Forbidden West
-CUSA15284_01.24.json=Power Rangers - Battle for The Grid
 CUSA05008_01.00_ScimitarACB.elf.json=Assassins Creed: The Ezio Collection [Assasins Creed Brotherhood]
 CUSA13275_01.23.json=DOOM Eternal
 CUSA34384_04.00.json=God of War Ragnarök
