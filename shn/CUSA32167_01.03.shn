@@ -2,7 +2,7 @@
 <Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="No More Heroes III" Moder="Skal" Cusa="CUSA32167" Version="01.03" Process="eboot.bin">
   <Genres Name="Action" />
   <Items />
-  <Cheat Text="1 Hit Kill + Godmode (Normal Combat Only)" Description="What/how/when is this Cheat: Change me!">
+  <Cheat Text="1 Hit Kill + Godmode (Normal Combat Only)" Description="">
     <Cheatline>
       <Section>0</Section>
       <Offset>64CB900</Offset>
@@ -16,7 +16,7 @@
       <ValueOff>89-B7-64-0A-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Sword battery never decreases" Description="What/how/when is this Cheat: Change me!">
+  <Cheat Text="Sword battery never decreases" Description="">
     <Cheatline>
       <Section>0</Section>
       <Offset>E21996</Offset>
@@ -24,7 +24,7 @@
       <ValueOff>89-87-34-1D-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Max Uc on gain" Description="What/how/when is this Cheat: Change me!">
+  <Cheat Text="Max Uc on gain" Description="">
     <Cheatline>
       <Section>0</Section>
       <Offset>64CB800</Offset>
@@ -38,7 +38,7 @@
       <ValueOff>89-8F-2C-03-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Max WESN on gain" Description="What/how/when is this Cheat: Change me!">
+  <Cheat Text="Max WESN on gain" Description="">
     <Cheatline>
       <Section>0</Section>
       <Offset>64CB811</Offset>

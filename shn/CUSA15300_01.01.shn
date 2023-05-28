@@ -2,7 +2,7 @@
 <Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Travis Strikes Again: No More Heroes " Moder="Scalerize" Cusa="CUSA15300" Version="01.01" Process="eboot.bin">
   <Genres Name="Action" />
   <Items />
-  <Cheat Text="Max Exp On Gain" Description="What/how/when is this Cheat: Change me!">
+  <Cheat Text="Max Exp On Gain" Description="">
     <Cheatline>
       <Section>0</Section>
       <Offset>625455</Offset>
@@ -10,7 +10,7 @@
       <ValueOff>41-89-46-50</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Max LB On Gain" Description="What/how/when is this Cheat: Change me!">
+  <Cheat Text="Max LB On Gain" Description="">
     <Cheatline>
       <Section>0</Section>
       <Offset>4D9381D</Offset>

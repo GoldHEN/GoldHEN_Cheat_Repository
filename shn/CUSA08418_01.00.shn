@@ -2,7 +2,7 @@
 <Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Okami" Moder="Skal" Cusa="CUSA08418" Version="01.00" Process="eboot.bin">
   <Genres Name="Action" />
   <Items />
-  <Cheat Text="Infinite Health" Description="What/how/when is this Cheat: Change me!">
+  <Cheat Text="Infinite Health" Description="">
     <Cheatline>
       <Section>14</Section>
       <Offset>8CB87D</Offset>
@@ -16,7 +16,7 @@
       <ValueOff>66-89-10-66-85-D2</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="1 Hit Kill (Small enemies only)" Description="What/how/when is this Cheat: Change me!">
+  <Cheat Text="1 Hit Kill (Small enemies only)" Description="">
     <Cheatline>
       <Section>14</Section>
       <Offset>8CB800</Offset>
@@ -30,7 +30,7 @@
       <ValueOff>44-29-BB-44-0E-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Max Yen On Gain" Description="What/how/when is this Cheat: Change me!">
+  <Cheat Text="Max Yen On Gain" Description="">
     <Cheatline>
       <Section>14</Section>
       <Offset>8CB860</Offset>
@@ -44,7 +44,7 @@
       <ValueOff>89-71-10-7E-31</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Max Karma On Gain" Description="What/how/when is this Cheat: Change me!">
+  <Cheat Text="Max Karma On Gain" Description="">
     <Cheatline>
       <Section>14</Section>
       <Offset>8CB900</Offset>
@@ -58,7 +58,7 @@
       <ValueOff>66-89-50-0A-66-BA-0F-27</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Max Demon Fangs On Gain" Description="What/how/when is this Cheat: Change me!">
+  <Cheat Text="Max Demon Fangs On Gain" Description="">
     <Cheatline>
       <Section>14</Section>
       <Offset>8CB86E</Offset>
@@ -72,7 +72,7 @@
       <ValueOff>66-42-89-5C-68-60</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite Double Jump (After It Is Unlocked)" Description="What/how/when is this Cheat: Change me!">
+  <Cheat Text="Infinite Double Jump (After It Is Unlocked)" Description="">
     <Cheatline>
       <Section>14</Section>
       <Offset>2D4704</Offset>
