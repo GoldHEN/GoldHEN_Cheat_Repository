@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA17598" Game="Weird West" Moder="d01v" Process="eboot.bin" Version="01.17" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite AP">
+</Cheat>
+<Cheat Text="Infinite Bullets">
+</Cheat>
+<Cheat Text="Stop Decreasing Durability">
+</Cheat>
+<Cheat Text="99 Basic Items get / spend / transfer">
+</Cheat>
+<Cheat Text="99 Items get / drop / transfer (wep/utility/etc)">
+</Cheat>
+<Cheat Text="Money (Master Code)">
+</Cheat>
+<Cheat Text="Nimp Relics (MC1)">
+</Cheat>
+<Cheat Text="Golden Aces of Spades (Need MC and MC1)">
+</Cheat>
+</Trainer>
