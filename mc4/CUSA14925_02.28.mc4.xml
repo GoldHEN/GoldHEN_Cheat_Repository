@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA14925" Game="Bus Simulator 21" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="02.28" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Simulation"/>
+<Items/>
+<Cheat Text="Max Money">
+</Cheat>
+<Cheat Text="Freeze Timer">
+</Cheat>
+</Trainer>
