@@ -132,6 +132,7 @@ CUSA10237_01.52.json=Horizon Zero Dawn: Complete Edition
 CUSA28305_01.11.json=Diablo 2 Resurrected
 CUSA04802_01.00.json=2Dark
 CUSA26357_01.00.json=Shadow Warrior 3
+CUSA09175_01.81_3.json=DAYS GONE
 CUSA16195_06.02.json=DIRT 5™
 CUSA25706_01.31.json=Car Mechanic Simulator 2021
 CUSA29735_01.03.json=Miraculous: Rise of the Sphinx
