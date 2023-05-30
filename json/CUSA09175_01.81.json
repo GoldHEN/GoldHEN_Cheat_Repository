@@ -43,17 +43,6 @@
       ]
     },
     {
-      "name": "Lock Credits/Money",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "1179CCF",
-          "on": "90909090",
-          "off": "41894774"
-        }
-      ]
-    },
-    {
       "name": "Infinite Ammo",
       "type": "checkbox",
       "memory": [
@@ -164,8 +153,6 @@
     }
   ],
   "credits": [
-    "Mikey",
-    "SiSTRo",
-    "Kameleon"
+    "Pharaoh2k"
   ]
 }
