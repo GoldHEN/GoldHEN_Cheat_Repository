@@ -335,6 +335,7 @@ CUSA14409_01.04.mc4.xml=Castle Crashers Remastered
 CUSA02431_01.03.mc4.xml=Wasteland 2: Director
 CUSA32805_01.03.mc4.xml=Red Dead Redemption 2
 CUSA34386_04.02.mc4.xml=God Of War Ragnarok
+CUSA06339_01.01.mc4.xml=Twin Robots
 CUSA07399_01.07.mc4.xml=CBNST
 CUSA01708_01.00.mc4.xml=Devil May Cry 4 Special Edition
 CUSA01773_01.00.mc4.xml=Zombie Army Trilogy
