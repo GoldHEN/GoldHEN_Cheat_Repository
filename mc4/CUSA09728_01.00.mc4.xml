@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA09728" Game="Ghost 1.0" Moder="Wander FW9.00" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="Infinite Health (when haunting the other will get inf hp)">
+</Cheat>
+<Cheat Text="Infinite Ammo">
+</Cheat>
+<Cheat Text="Max Golden Cube">
+</Cheat>
+</Trainer>
