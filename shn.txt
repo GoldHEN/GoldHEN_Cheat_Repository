@@ -154,6 +154,7 @@ CUSA08992_01.05.shn=Dragonball FighterZ
 CUSA35014_01.02.shn=MOONSCARS
 CUSA01671_01.00.shn=Devil May Cry 4 Special Edition
 SLUS20960_01.00.shn=Mega-Man-X8
+CUSA33388_01.04_2.shn=Resident Evil 4 Remake
 CUSA11047_01.07.shn=Metro Exodus
 CUSA08418_01.00.shn=Okami
 CUSA02607_01.04.shn=Sword Art Online - Hollow Fragment
