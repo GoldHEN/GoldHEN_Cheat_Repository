@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA16400" Game="Effie" Moder="Wander FW9.00" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Master Code Infinite Skill usage (turn off when gliding)">
+</Cheat>
+<Cheat Text="Infinite health (M)">
+</Cheat>
+<Cheat Text="Max Experience (M) (the game will freeze turn it off to take effect)">
+</Cheat>
+</Trainer>
