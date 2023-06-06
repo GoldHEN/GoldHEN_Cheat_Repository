@@ -55,6 +55,7 @@ CUSA07408_01.33.shn=God Of War
 CUSA05597_01.05.shn=Metal Gear Solid V - The Definitive Experience
 CUSA07211_01.01.shn= Final fantasy VII remake
 CUSA00557_01.10.shn=TLOU
+CUSA08624_02.16.shn=the long dark
 CUSA10249_01.07_2.shn=The Last Of Us Part 2
 CUSA09884_01.51.shn=Soul Calibur 6
 CUSA07187_01.02.shn=FINAL FANTASY VII REMAKE
