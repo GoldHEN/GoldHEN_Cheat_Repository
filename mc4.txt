@@ -359,6 +359,7 @@ CUSA34386_04.01_2.mc4.xml=God of War Ragnarök
 CUSA32701_01.01.mc4.xml=Wanted Dead
 CUSA04099_01.15.mc4.xml=Sniper Elite 4
 CUSA34388_02.00.mc4.xml=God of War Ragnarok
+CUSA35719_01.01.mc4.xml=Bramble the Mountain King
 CUSA02429_01.00.mc4.xml=Battlefield 1
 CUSA13917_01.06.mc4.xml=Far Cry New Dawn
 CUSA01796_01.00.mc4.xml=Sniper Elite 3 Ultimate edition
