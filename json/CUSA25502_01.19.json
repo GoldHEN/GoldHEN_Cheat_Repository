@@ -1,0 +1,86 @@
+{
+  "name": "Hot Wheels Unleashed",
+  "id": "CUSA25502",
+  "version": "01.19",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Coins ( on buy / sell )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7B8BDD4",
+          "on": "0F48C2B900CA9A3B894B20E9725537FA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1F01350",
+          "on": "E97FAAC80590",
+          "off": "0F48C2894B20"
+        },
+        {
+          "offset": "1F01360",
+          "on": "B900CA9A3B",
+          "off": "C4E278F2C9"
+        }
+      ]
+    },
+    {
+      "name": "Max Gears ( on buy / dissamble )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7B8BDE4",
+          "on": "0F48C2C7432400CA9A3BE9535637FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1F01440",
+          "on": "E99FA9C80590",
+          "off": "0F48C2894B24"
+        },
+        {
+          "offset": "1F01450",
+          "on": "B900CA9A3B",
+          "off": "C4E278F2C9"
+        }
+      ]
+    },
+    {
+      "name": "Max Blind Boxes ( on use )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7B8BDB0",
+          "on": "4885C041C7461400CA9A3BE98AC333FA526564646576696C3832202D20465720392E3030",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1EC8143",
+          "on": "E9683CCC059090",
+          "off": "4885C041894E14"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Boost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7B8BDF3",
+          "on": "C5FA108304010000C5FA11832C010000E9B7F037F9",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F0AEB7",
+          "on": "E9370FC806909090",
+          "off": "C5FA11832C010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

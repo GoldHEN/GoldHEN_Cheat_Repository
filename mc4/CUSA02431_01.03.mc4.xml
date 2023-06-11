@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Game="Wasteland 2: Director" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">s Cut" Moder="wander fw9.00" Cusa="CUSA02431" Version="01.03" Process="eboot.bin"&gt;
+  <Genres Name="Action"/>
+<Items/>
+<Cheat Text="Items x20 (on use)">
+</Cheat>
+<Cheat Text="Infinite AP While Moving">
+</Cheat>
+<Cheat Text="Infinite Ammo">
+</Cheat>
+<Cheat Text="Infinite AP While Shooting">
+</Cheat>
+<Cheat Text="Infinite AP While Loading">
+</Cheat>
+<Cheat Text="Infinite AP while using items">
+</Cheat>
+<Cheat Text="Infinite Water on the Map (turn off scrap cheat)">
+</Cheat>
+<Cheat Text="Max Experience (at the end of battle)">
+</Cheat>
+<Cheat Text="Infinite Skill points after Commiting points">
+</Cheat>
+<Cheat Text="Infinite Perk points">
+</Cheat>
+<Cheat Text="Infinite Attribute points after Commiting points">
+</Cheat>
+<Cheat Text="Max Scrap on buy (turn off water cheat)">
+</Cheat>
+</Trainer>

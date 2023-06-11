@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Trainer Cusa="CUSA03370" Game="GOD EATER 2 RAGE BURST" Moder="Weysincha" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Cheat Control="Toggel" Text="Godmode">
-
 </Cheat>
 <Cheat Control="Toggel" Text="Infinite Stamina">
-
 </Cheat>
 <Cheat Control="Toggel" Text="Infinite OP">
-
 </Cheat>
 <Cheat Control="Button" Text="Max Money">
-
 </Cheat>
 </Trainer>

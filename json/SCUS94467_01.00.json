@@ -1,0 +1,44 @@
+{
+  "name": "Spyro 3 - Year of the dragon",
+  "id": "SCUS94467",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "157A24",
+          "on": "63",
+          "off": "4"
+        }
+      ]
+    },
+    {
+      "name": "Max gems",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1579BC",
+          "on": "204E",
+          "off": "204E"
+        }
+      ]
+    },
+    {
+      "name": "Max eggs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "157900",
+          "on": "96",
+          "off": "96"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Skal"
+  ]
+}

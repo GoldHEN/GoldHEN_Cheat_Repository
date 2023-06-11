@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="One Piece - Unlimited World (Red Deluxe Edition)" Moder="TLH" Cusa="CUSA08306" Version="01.00" Process="eboot.bin">
+  <Genres Name="Arcade" />
+  <Genres Name="Fighting" />
+  <Genres Name="RPG" />
+  <Items />
+  <StartUP Text="Health + 1 Hit Kills" description="">
+    <Cheatline>
+      <Offset>5F3800</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-41-3B-57-04-74-5C-50-48-C7-C0-00-38-9F-00-41-83-7F-CD-FF-74-27-41-83-7F-F5-FF-74-28-48-B8-00-00-00-10-02-00-00-00-49-39-C7-48-C7-C0-00-38-9F-00-7D-1D-41-81-7F-04-D0-07-00-00-75-08-80-78-02-01-75-1F-74-05-80-38-01-75-18-41-8B-57-04-EB-12-41-81-7F-04-D0-07-00-00-74-06-80-78-01-01-75-02-31-D2-58-85-C9-41-89-17-0F-84-9C-E9-A4-FF-E9-6C-E9-A4-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>421DC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-22-16-5B-00</ValueOn>
+      <ValueOff>41-89-17-74-2B</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>5F3800</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kills" Description="">
+    <Cheatline>
+      <Offset>5F3801</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Gauge" Description="">
+    <Cheatline>
+      <Offset>5F3802</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items (Storage)" Description="">
+    <Cheatline>
+      <Offset>18954D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>89-F3</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1883CD</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>89-FA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items (Inventory)" Description="">
+    <Cheatline>
+      <Offset>46F9C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>89-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items (Sale)" Description="">
+    <Cheatline>
+      <Offset>1898AD</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>89-F8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Berry on Get" Description="">
+    <Cheatline>
+      <Offset>5F3875</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-FF-C9-9A-3B-89-4E-08-C6-46-04-08-E9-23-50-B9-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1888A2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CE-AF-46-00-90-90</ValueOn>
+      <ValueOff>89-4E-08-C6-46-04-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Berry" Description="">
+    <Cheatline>
+      <Offset>1896C4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-F2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Pirate Points" Description="">
+    <Cheatline>
+      <Offset>141401</Offset>
+      <Section>0</Section>
+      <ValueOn>89-FA-90</ValueOn>
+      <ValueOff>0F-42-D7</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

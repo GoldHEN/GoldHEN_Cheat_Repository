@@ -1,0 +1,60 @@
+{
+  "name": "The Hong Kong Massacre",
+  "id": "CUSA12943",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Slow Motion Power",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "153BDB0",
+          "on": "C747680000803FC5FA104768E9FE9EE77E526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "803B5CBA",
+          "on": "E9F1601881",
+          "off": "C5FA104768"
+        }
+      ]
+    },
+    {
+      "name": "Max Stars",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "153BDD5",
+          "on": "488B7C24F8C74764E70300008B4764E9F4C2E57E",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "803980D5",
+          "on": "E9FB3C1A81909090",
+          "off": "488B7C24F88B4764"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "153BDE9",
+          "on": "8B7424F4C74768F4010000E96C3BE17E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8034F95E",
+          "on": "E986C41E819090",
+          "off": "8B7424F4897768"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

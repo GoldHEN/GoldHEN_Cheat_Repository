@@ -1,0 +1,44 @@
+{
+  "name": "DIRT 5™",
+  "id": "CUSA16195",
+  "version": "06.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1023DB0",
+          "on": "415741BF00CA9A3B4489B840190100415F8B8040190100E96E6ABFFF526564646576696C3832202D20465720392E3030",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C1A834",
+          "on": "E97795400090",
+          "off": "8B8040190100"
+        }
+      ]
+    },
+    {
+      "name": "Max XP ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1023DE0",
+          "on": "BA3F420F008915E56FDD00E90D83B8FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "BAC0F7",
+          "on": "E9E47C470090",
+          "off": "8915D3EC2401"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

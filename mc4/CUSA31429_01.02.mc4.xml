@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA31429" Game="Mega Man Battle Network Legacy Collection Vol. 2" Moder="Wander FW9.00" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Infinite Health (battle network 4 Red Sun)">
+</Cheat>
+<Cheat Text="Infinite Health (battle network 4 Blue moon)">
+</Cheat>
+<Cheat Text="Infinite Health (Battle Network 5 Team Protoman)">
+</Cheat>
+<Cheat Text="Infinite Health (battle network 5 Team Colonel)">
+</Cheat>
+<Cheat Text="Infinite Health (battle Network 6 Cybeast falzar)">
+</Cheat>
+<Cheat Text="Infinite Health (battle Network 6 Cybeast Gregar)">
+</Cheat>
+</Trainer>

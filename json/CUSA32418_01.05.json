@@ -1,0 +1,92 @@
+{
+  "name": "Lumberjack's Dynasty",
+  "id": "CUSA32418",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "473DB0",
+          "on": "415741BFF023744944893DAD964000C5FA100DA5964000415FE9CDF3D6FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1E3193",
+          "on": "E9180C2900909090",
+          "off": "C5FA100DD1A26900"
+        }
+      ]
+    },
+    {
+      "name": "Max Social Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "473DCE",
+          "on": "415741BF3F420F0044893D939640008B0D8D964000415FE9A0F4D6FF526564646576696C3832202D20465720392E3030",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1E3284",
+          "on": "E9450B290090",
+          "off": "8B0DE6A16900"
+        }
+      ]
+    },
+    {
+      "name": "Max Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "473DFE",
+          "on": "C78488A00F0000630000008B9488A00F0000E9F917D4FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B5607",
+          "on": "E9F2E72B009090",
+          "off": "8B9488A00F0000"
+        }
+      ]
+    },
+    {
+      "name": "No Hunger / No Sleep",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "473856",
+          "on": "C705149C40000000803FC7050E9C40000000803FE94D05E2FF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "293DAC",
+          "on": "E9A5FA1D00909090",
+          "off": "C5FA1105C0965E00"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "473E15",
+          "on": "90E92C3ACCFF",
+          "off": "000000000000"
+        },
+        {
+          "offset": "13783F",
+          "on": "E9D1C53300909090",
+          "off": "C5FA1105D1587400"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

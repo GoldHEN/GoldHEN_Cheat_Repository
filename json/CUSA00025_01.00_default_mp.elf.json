@@ -1,16 +1,15 @@
 {
-  "name": "COD: Ghosts (MP)",
+  "name": "Call of Duty® Ghosts",
   "id": "CUSA00025",
   "version": "01.00",
   "process": "default_mp.elf",
   "mods": [
     {
       "name": "All Client Infinite Ammo",
-      "hint": null,
       "type": "checkbox",
       "memory": [
         {
-          "offset": "5124B3",
+          "offset": "1124B3",
           "on": "9090909090",
           "off": "44297C8104"
         }
@@ -18,11 +17,10 @@
     },
     {
       "name": "All Client Godmode",
-      "hint": null,
       "type": "checkbox",
       "memory": [
         {
-          "offset": "6B8F85",
+          "offset": "2B8F85",
           "on": "9090909090909090",
           "off": "41299C24DC010000"
         }

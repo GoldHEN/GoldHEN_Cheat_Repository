@@ -1,0 +1,150 @@
+{
+  "name": "Divinity: Original Sin 2 - Definitive Edition on Steam",
+  "id": "CUSA11898",
+  "version": "01.15",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (level Up and fight your first figh)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24C7F60",
+          "on": "81BBF801000030786261750CC783F80100000F270000EB06898BF8010000E99D6C2CFE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "78EC1A",
+          "on": "E94193D30190",
+          "off": "898BF8010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite AP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24C7EB0",
+          "on": "C680100200000CE9228A2CFE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "7908D7",
+          "on": "E9D475D3019090",
+          "off": "4489A010020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Coins(on pick up)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24C7E20",
+          "on": "C787840100009F860100E9AEC43EFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "8B42D7",
+          "on": "E9443BC10190",
+          "off": "89B784010000"
+        }
+      ]
+    },
+    {
+      "name": "Items do not decrease Coins is included",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8B42D7",
+          "on": "909090909090",
+          "off": "89B784010000"
+        }
+      ]
+    },
+    {
+      "name": "Talents points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24C7AD0",
+          "on": "C6800C03000014E9520C6EFE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "BA8727",
+          "on": "E9A4F391019090",
+          "off": "4489A00C030000"
+        }
+      ]
+    },
+    {
+      "name": "Attributes points (Spend and confim and repeat for all points)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24C7D10",
+          "on": "C680000300000AE918066EFE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "BA832E",
+          "on": "E9DDF9910190",
+          "off": "898800030000"
+        }
+      ]
+    },
+    {
+      "name": "Experience Multiplier",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24C7E80",
+          "on": "41818618020000FFE0F505E9CC1690FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "DC9555",
+          "on": "E926E96F019090",
+          "off": "41899E18020000"
+        }
+      ]
+    },
+    {
+      "name": "Combats Ability points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24C7AD0",
+          "on": "C6800403000014E9EA0A6EFE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "BA85C0",
+          "on": "E90BF5910190",
+          "off": "898804030000"
+        }
+      ]
+    },
+    {
+      "name": "Civil Ability points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24C7B00",
+          "on": "C6800803000014E9C90A6EFE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "BA85CF",
+          "on": "E92CF5910190",
+          "off": "898808030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Little Dragons Cafe" Moder="Molly" Cusa="CUSA12545" Version="01.02" Process="eboot.bin">
+  <Genres Name="Simulation" />
+  <Items />
+  <Cheat Text="Unlock All Ingredients">
+    <Cheatline>
+      <Offset>12CB811</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-70-FA-FF-7E-C7-46-10-63-00-00-00-83-7E-10-00-E9-62-FA-FF-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>802CB283</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-89-05-00-81-90</ValueOn>
+      <ValueOff>74-08-83-7E-10-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12CB800</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-40-10-63-44-8B-60-10-48-8B-5A-18-E9-D2-C5-02-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>802F7DDB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-20-3A-FD-80-90-90-90</ValueOn>
+      <ValueOff>44-8B-60-10-48-8B-5A-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Dragons Hp">
+    <Cheatline>
+      <Offset>12CB827</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-85-B1-39-F6-7E-41-C7-47-20-64-00-00-00-45-8B-77-20-E9-5E-39-F6-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8022F196</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8C-C6-09-81-90</ValueOn>
+      <ValueOff>75-4C-45-8B-77-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

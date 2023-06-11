@@ -1,0 +1,87 @@
+{
+  "name": "Graveyard Keeper",
+  "id": "CUSA10811",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Technology points after spend Turn off before carrying a corpse",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82A0BBE0",
+          "on": "C744822000C07944E9D69540FF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "81E151BD",
+          "on": "E91E6ABF0090",
+          "off": "C5FA11448220"
+        }
+      ]
+    },
+    {
+      "name": "Max Coins after buying",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82A0BC20",
+          "on": "C74028804FC347E9F5C75CFF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "81FD841C",
+          "on": "E9FF37A300",
+          "off": "C5FA114828"
+        }
+      ]
+    },
+    {
+      "name": "99 Items after use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82A0BC60",
+          "on": "4C8B6C2438C6431863E95EE86CFF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "820DA4C4",
+          "on": "E997179300909090",
+          "off": "4C8B6C2438894318"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina(turn off before Building)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "14",
+          "offset": "1B594CF",
+          "on": "909090909090",
+          "off": "C5FA11448220"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Equipment Durability (turn off before Building)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82A0BCA0",
+          "on": "C7432C0000803FE9E6DC4DFF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "81EE998D",
+          "on": "E90E23B200",
+          "off": "C5FA11432C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

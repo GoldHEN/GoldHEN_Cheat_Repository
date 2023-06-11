@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Kingdom Hearts III" Moder="illusion" Cusa="CUSA12025" Version="01.00" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="720p Resolution">
+    <Cheatline>
+      <Offset>528DD60</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F0-57-C9-C7-04-20-0A-57-85-42-C5-FA-10-00</ValueOn>
+      <ValueOff>48-8B-05-59-9E-CF-05-C5-F0-57-C9-C5-FA-10-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

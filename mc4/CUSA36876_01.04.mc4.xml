@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA36876" Game="Fatal Frame Mask of Lunar Eclipse" Moder="d01v" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Horror"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Enemy Health is 1">
+</Cheat>
+<Cheat Text="Enemy Health is 1 using Flashlight">
+</Cheat>
+<Cheat Text="Infinite Items">
+</Cheat>
+<Cheat Text="Instant Camera Film">
+</Cheat>
+<Cheat Text="Instant Shutter Lock">
+</Cheat>
+<Cheat Text="Instant Spirit Power">
+</Cheat>
+<Cheat Text="Max Score">
+</Cheat>
+<Cheat Text="Stop Time">
+</Cheat>
+<Cheat Text="Instant Lunar Power (flashlight)">
+</Cheat>
+<Cheat Text="Stop Mission Time (New Game+)">
+</Cheat>
+<Cheat Text="Mission Score (New Game+)">
+</Cheat>
+</Trainer>

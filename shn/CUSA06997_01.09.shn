@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Yakuza Kiwami" Moder="TLH" Cusa="CUSA06997" Version="01.09" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Fighting" />
+  <StartUP Text="Health / 1 Hit Kills" description="">
+    <Cheatline>
+      <Offset>11D7800</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-49-BD-D0-2F-09-00-02-00-00-00-4C-39-E8-74-0D-80-3D-E9-FF-FF-FF-01-75-11-31-C9-EB-0F-80-3D-DB-FF-FF-FF-01-75-04-89-D1-EB-02-29-F1-0F-B7-70-1A-E9-EA-F5-0B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>296E1A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E3-09-F4-00-90</ValueOn>
+      <ValueOff>29-F1-0F-B7-70-1A</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="MesuKing: Health / 1 Hit Kills" description="">
+    <Cheatline>
+      <Offset>11D7862</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-66-81-7F-20-10-41-75-0E-80-3D-EF-FF-FF-FF-01-75-10-44-89-C0-EB-0B-80-3D-E2-FF-FF-FF-01-75-02-31-C0-89-87-D8-00-00-00-E9-E2-13-3A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>578C6C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F3-EB-C5-00-90</ValueOn>
+      <ValueOff>89-87-D8-00-00-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>11D7800</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kills" Description="">
+    <Cheatline>
+      <Offset>11D7801</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Heat Gauge" Description="">
+    <Cheatline>
+      <Offset>24E90B</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-1C-00-8C-86-47-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-45-D4-C5-FA-11-40-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Weapon Durability" Description="">
+    <Cheatline>
+      <Offset>754AE5</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-25</ValueOn>
+      <ValueOff>74-25</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Weapon Durability" Description="">
+    <Cheatline>
+      <Offset>754B04</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-0F-4C-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>754D35</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-25</ValueOn>
+      <ValueOff>77-25</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ammo" Description="">
+    <Cheatline>
+      <Offset>754D54</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-0F-4C-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money, CP" Description="">
+    <Cheatline>
+      <Offset>7567CC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>4C-01-F2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Skillpoints" Description="">
+    <Cheatline>
+      <Offset>752BF2</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>48-01-DA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money, CP on Use" Description="">
+    <Cheatline>
+      <Offset>7567D6</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-F1-90</ValueOn>
+      <ValueOff>48-0F-4F-CE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Skillpoints on Use" Description="">
+    <Cheatline>
+      <Offset>752C00</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-F2-90</ValueOn>
+      <ValueOff>48-0F-4D-D6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items" Description="">
+    <Cheatline>
+      <Offset>753BA6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Item Storage: Infinite Items" Description="">
+    <Cheatline>
+      <Offset>7535F0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-89-77-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Item Storage: Max Items" Description="">
+    <Cheatline>
+      <Offset>7536BF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-0F-4C-D6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bowling: Split-Game Infinite Balls" Description="">
+    <Cheatline>
+      <Offset>4986C5</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-88-88-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Baseball: Max Score" Description="">
+    <Cheatline>
+      <Offset>11D7836</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-0F-27-00-00-01-84-8E-84-11-00-00-E9-A0-6B-33-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>50E3E0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-51-94-CC-00-90-90</ValueOn>
+      <ValueOff>01-84-8E-84-11-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11D7847</Offset>
+      <Section>0</Section>
+      <ValueOn>81-84-88-84-11-00-00-0F-27-00-00-81-84-88-D8-B5-00-00-0F-27-00-00-E9-E6-6E-33-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>50E738</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0A-91-CC-00-90-90-90</ValueOn>
+      <ValueOff>83-84-88-84-11-00-00-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Darts: Easy Win" Description="">
+    <Cheatline>
+      <Offset>4115EE</Offset>
+      <Section>0</Section>
+      <ValueOn>45-31-F6</ValueOn>
+      <ValueOff>45-29-C6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Train" Description="">
+    <Cheatline>
+      <Offset>B27F6</Offset>
+      <Section>0</Section>
+      <ValueOn>31-C9</ValueOn>
+      <ValueOff>FF-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP on Get" Description="">
+    <Cheatline>
+      <Offset>752C1C</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-F3-90</ValueOn>
+      <ValueOff>48-0F-4D-DE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Pocket Car Circuit: Infinite Stabilize-Gauge" Description="">
+    <Cheatline>
+      <Offset>D1E17D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-58-05-2B-5E-27-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Pocket Car Circuit: Infinite Boost" Description="">
+    <Cheatline>
+      <Offset>D1EEEF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8B-B0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Shogi-Points on Get" Description="">
+    <Cheatline>
+      <Offset>7567D6</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-F1-90</ValueOn>
+      <ValueOff>48-0F-4F-CE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Cee-Loo: Max Points on Win" Description="">
+    <Cheatline>
+      <Offset>7FE81BA6</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-3F-42-0F-00</ValueOn>
+      <ValueOff>C4-E1-FA-2C-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Casino/Colusseum: Max Chips/Points" Description="">
+    <Cheatline>
+      <Offset>7567D6</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-F1-90</ValueOn>
+      <ValueOff>48-0F-4F-CE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Colusseum: Max XP" Description="">
+    <Cheatline>
+      <Offset>7568AA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>48-0F-4C-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="MesuKing: Infinite Health" Description="">
+    <Cheatline>
+      <Offset>11D7862</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="MesuKing: 1 Hit Kill" Description="">
+    <Cheatline>
+      <Offset>11D7863</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Hostess: Max Love-Gauge" Description="">
+    <Cheatline>
+      <Offset>3F0EEE</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-4C-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Majima Rank" Description="">
+    <Cheatline>
+      <Offset>68579C</Offset>
+      <Section>0</Section>
+      <ValueOn>66-44-89-D6-90</ValueOn>
+      <ValueOff>66-41-0F-4D-F2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Alcohol: Sober" Description="">
+    <Cheatline>
+      <Offset>75276B</Offset>
+      <Section>0</Section>
+      <ValueOn>31-C0</ValueOn>
+      <ValueOff>01-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Alcohol: Drunk" Description="">
+    <Cheatline>
+      <Offset>752780</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-0F-4C-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

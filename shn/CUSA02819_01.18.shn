@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tom Clancys - Ghost Recon Wildlands" Moder="cjwine, TLH" Cusa="CUSA02819" Version="01.18" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="FPS" />
+  <Genres Name="Shooter" />
+  <Genres Name="Strategy" />
+  <Items />
+  <Cheat Text="Bottomless Clip" Description="">
+    <Cheatline>
+      <Offset>20ECAF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-C7</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>963FD</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-CE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Grenades" Description="">
+    <Cheatline>
+      <Offset>7206D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Grenades on Use" Description="">
+    <Cheatline>
+      <Offset>72064</Offset>
+      <Section>0</Section>
+      <ValueOn>66-B8-FF-00</ValueOn>
+      <ValueOff>66-8B-47-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Mines" Description="">
+    <Cheatline>
+      <Offset>152813</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Mines on Use" Description="">
+    <Cheatline>
+      <Offset>15280C</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-FF-00-00-00</ValueOn>
+      <ValueOff>41-0F-B7-45-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite C4" Description="">
+    <Cheatline>
+      <Offset>15411F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Skillpoints" Description="">
+    <Cheatline>
+      <Offset>42E8CA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-D1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="255 Skillpoints on Use" Description="">
+    <Cheatline>
+      <Offset>42E8C6</Offset>
+      <Section>0</Section>
+      <ValueOn>66-B9-FF-00</ValueOn>
+      <ValueOff>8B-4C-87-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Add 200.000.000 Resources after restart game" Description="">
+    <Cheatline>
+      <Offset>8B5D29</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-06-00-C2-EB-0B</ValueOn>
+      <ValueOff>41-33-40-20-41-89-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlock Tier-One-Mode" Description="">
+    <Cheatline>
+      <Offset>45C64D</Offset>
+      <Section>0</Section>
+      <ValueOn>39-D8</ValueOn>
+      <ValueOff>39-C3</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

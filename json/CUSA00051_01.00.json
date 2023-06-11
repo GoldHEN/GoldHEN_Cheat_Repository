@@ -1,0 +1,201 @@
+{
+  "name": "Injustice: Gods Among Us Ultimate Edition",
+  "id": "CUSA00051",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Mastercode ( must be activated )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A97800",
+          "on": "837B0C007512C5FA118483C4040000C5FA118483C4040000817B0C000001007517C5FA118483C4040000C5FA118483C4040000E9AFD2B8FEC5FA118483C4040000E9A1D2B8FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "624ADE",
+          "on": "E91D2D470190909090",
+          "off": "C5FA118483C4040000"
+        },
+        {
+          "offset": "1A97E00",
+          "on": "837F08007512C5FAC287C403000004C5FAC287C403000004837F08017517C5FAC287C403000004C5FAC287C403000004E9DC09C1FEC5FAC287C403000004E9CE09C1FE526564646576696C3832202D20465720392E3030",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6A8808",
+          "on": "E9F3F53E0190909090",
+          "off": "C5FAC287C403000004"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health Player 1 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A97806",
+          "on": "C5FA108483C8040000",
+          "off": "C5FA118483C4040000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill Player 1 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A97806",
+          "on": "0F57C0909090909090",
+          "off": "C5FA118483C4040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health Player 2 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A97821",
+          "on": "C5FA108483C8040000",
+          "off": "C5FA118483C4040000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill Player 2 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A97821",
+          "on": "0F57C0909090909090",
+          "off": "C5FA118483C4040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Supermeter Player 1 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A97E06",
+          "on": "C787C40300000000803F9090909090909090",
+          "off": "C5FAC287C403000004C5FAC287C403000004"
+        }
+      ]
+    },
+    {
+      "name": "Zero Supermeter Player 1 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A97E06",
+          "on": "C787C4030000000000009090909090909090",
+          "off": "C5FAC287C403000004C5FAC287C403000004"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Supermeter Player 2 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A97E1E",
+          "on": "C787C40300000000803F9090909090909090",
+          "off": "C5FAC287C403000004C5FAC287C403000004"
+        }
+      ]
+    },
+    {
+      "name": "Zero Supermeter Player 2 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A97E1E",
+          "on": "C787C4030000000000009090909090909090",
+          "off": "C5FAC287C403000004C5FAC287C403000004"
+        }
+      ]
+    },
+    {
+      "name": "Max Player XP Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A97DD0",
+          "on": "0F84CA2E95FF014310C74310FFC99A3BE96C2E95FF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "13EAC4C",
+          "on": "E97FD16A00",
+          "off": "7458014310"
+        }
+      ]
+    },
+    {
+      "name": "Max Access Cards ( on gain - use )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A97DB0",
+          "on": "BBE7030000899848F20000E94F4BC9FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "72C909",
+          "on": "E9A2B4360190",
+          "off": "899848F20000"
+        }
+      ]
+    },
+    {
+      "name": "Max Arsenal Keys ( on gain - use )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A97DC0",
+          "on": "BBE703000089984CF20000E9DF4BC9FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "72C9A9",
+          "on": "E912B4360190",
+          "off": "89984CF20000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "764368",
+          "on": "909090909090",
+          "off": "898864040000"
+        }
+      ]
+    },
+    {
+      "name": "Change Timer to 999",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A97DE5",
+          "on": "B9E7030000898864040000E979C5CCFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "764368",
+          "on": "E9783A330190",
+          "off": "898864040000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "name": "DAYS GONE",
+  "id": "CUSA08966",
+  "version": "01.81",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "MASTER CODE For Infinite Life and 1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5725000",
+          "on": "483D00007042750EC5FA5C8548FFFFFF90E9A075BFFBC5FA5C8548FFFFFFE99375BFFB",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "131C5AE",
+          "on": "E94D8A4004909090",
+          "off": "C5FA5C8548FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Life. MUST enable Master Code first",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5725008",
+          "on": "C4C17A1187CC1F0000",
+          "off": "C5FA5C8548FFFFFF90"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill. MUST enable Master Code first. Must disable on chases",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5725016",
+          "on": "C5FA5CC090909090",
+          "off": "C5FA5C8548FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1271BA3",
+          "on": "9090",
+          "off": "29D0"
+        },
+        {
+          "offset": "1273517",
+          "on": "9090",
+          "off": "29D1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2422F48",
+          "on": "90909090",
+          "off": "C5FA1106"
+        }
+      ]
+    },
+    {
+      "name": "Infinite fuel",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14F2A0D",
+          "on": "90909090",
+          "off": "C5F82EC1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite motorbike durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14EFD61",
+          "on": "909090909090909090",
+          "off": "C4C17A1185D8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Nitrous",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15264E8",
+          "on": "909090909090909090",
+          "off": "C4C17A118714050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Motorbike Durability excluding enemies",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5725031",
+          "on": "664181FD80D20F842DADDCFBC4C17A1185D8000000E91FADDCFB",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14EFD61",
+          "on": "E9CB52230490909090",
+          "off": "C4C17A1185D8000000"
+        }
+      ]
+    },
+    {
+      "name": "Dont subtract items when selling",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1275C05",
+          "on": "9090",
+          "off": "29D0"
+        }
+      ]
+    },
+    {
+      "name": "No skill points reduction",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E76C29",
+          "on": "909090909090",
+          "off": "2b9180000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15E475E",
+          "on": "C5F828C1",
+          "off": "C5F25CC0"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Pharaoh2k"
+  ]
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA13338" Game="Doom Eternal" Moder="GamerX2" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="FPS"/>
+<Items/>
+<Cheat Text="Infinite Ammo+Fuel">
+</Cheat>
+</Trainer>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dragon Ball Z Kakarot" Moder="LMN" Cusa="CUSA14835" Version="01.91" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Caution : i would advise not using XP gain cheat unless you need to (creat a backup save) cz if you level up too high the game becames boring">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>7E237FE</Offset>
+      <ValueOn>00-00</ValueOn>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf HP">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>F5944F</Offset>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-81-78-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf ki">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>F594AF</Offset>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-81-7C-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf medals/items">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>7E23800</Offset>
+      <ValueOn>C7-44-90-04-E7-03-00-00-03-5C-90-04-48-FF-C2-E9-13-22-4E-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>1305A20</Offset>
+      <ValueOn>E9-DB-DD-B1-06-90-90</ValueOn>
+      <ValueOff>03-5C-90-04-48-FF-C2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max money">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>7E23816</Offset>
+      <ValueOn>C7-03-3F-42-0F-00-8B-03-48-83-C4-08-E9-24-8D-2A-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>20CC545</Offset>
+      <ValueOn>E9-CC-72-D5-05-90</ValueOn>
+      <ValueOff>8B-03-48-83-C4-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="max ORBs">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>7E23829</Offset>
+      <ValueOn>C7-00-3F-42-0F-00-8B-00-5B-41-5E-E9-F1-58-CD-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>1AF9125</Offset>
+      <ValueOn>E9-FF-A6-32-06</ValueOn>
+      <ValueOff>8B-00-5B-41-5E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="XP gain x 2">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>7E2383B</Offset>
+      <ValueOn>4D-01-FF-44-01-FA-B8-FF-C9-9A-3B-E9-95-61-13-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>F599D8</Offset>
+      <ValueOn>E9-5E-9E-EC-06-90-90-90</ValueOn>
+      <ValueOff>44-01-FA-B8-FF-C9-9A-3B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="XP gain x 4">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>7E2383B</Offset>
+      <ValueOn>4D-01-FF-4D-01-FF-44-01-FA-B8-FF-C9-9A-3B-E9-92-61-13-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>F599D8</Offset>
+      <ValueOn>E9-5E-9E-EC-06-90-90-90</ValueOn>
+      <ValueOff>44-01-FA-B8-FF-C9-9A-3B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="XP gain x 8">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>7E2383B</Offset>
+      <ValueOn>4D-01-FF-4D-01-FF-4D-01-FF-44-01-FA-B8-FF-C9-9A-3B-E9-8F-61-13-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>F599D8</Offset>
+      <ValueOn>E9-5E-9E-EC-06-90-90-90</ValueOn>
+      <ValueOff>44-01-FA-B8-FF-C9-9A-3B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="XP gain x 32">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>7E2383B</Offset>
+      <ValueOn>4D-01-FF-4D-01-FF-4D-01-FF-4D-01-FF-4D-01-FF-44-01-FA-B8-FF-C9-9A-3B-E9-89-61-13-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>F599D8</Offset>
+      <ValueOn>E9-5E-9E-EC-06-90-90-90</ValueOn>
+      <ValueOff>44-01-FA-B8-FF-C9-9A-3B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="XP gain x 256">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>7E2383B</Offset>
+      <ValueOn>4D-01-FF-4D-01-FF-4D-01-FF-4D-01-FF-4D-01-FF-4D-01-FF-4D-01-FF-4D-01-FF-44-01-FA-B8-FF-C9-9A-3B-E9-80-61-13-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>F599D8</Offset>
+      <ValueOn>E9-5E-9E-EC-06-90-90-90</ValueOn>
+      <ValueOff>44-01-FA-B8-FF-C9-9A-3B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="player lvl 250 (after 2 battles) = one hit kills = boring and permenent">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>7E23862</Offset>
+      <ValueOn>48-C7-81-70-02-00-00-EC-0C-F6-19-E9-8B-61-13-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>F599F6</Offset>
+      <ValueOn>E9-67-9E-EC-06-90-90</ValueOn>
+      <ValueOff>48-89-91-70-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

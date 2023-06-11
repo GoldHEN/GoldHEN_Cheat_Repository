@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Far Cry 4" Moder="TLH" Cusa="CUSA00462" Version="01.07" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="FPS" />
+  <Genres Name="Shooter" />
+  <Items />
+  <StartUP Text="PlayerBase Pointer" description="">
+    <Cheatline>
+      <Offset>303F800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-7F-40-48-C7-C0-F0-7F-7C-03-48-89-38-48-8B-07-E9-32-B8-82-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>86B041</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BA-47-7D-02-90-90</ValueOn>
+      <ValueOff>48-8B-7F-40-48-8B-07</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>303F816</Offset>
+      <Section>0</Section>
+      <ValueOn>48-C7-C6-F0-7F-7C-03-48-8B-36-48-39-CE-75-07-C5-FA-5F-49-1C-EB-05-C5-FA-5D-49-1C-49-8B-34-24-E9-7F-F7-05-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>109EFB4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5D-08-FA-01</ValueOn>
+      <ValueOff>C5-FA-5F-49-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bottomless Clip" Description="">
+    <Cheatline>
+      <Offset>145B48A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-CE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>130B2A2</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-F8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Grenades" Description="">
+    <Cheatline>
+      <Offset>1301846</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-DE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Ignore Grenade Count" Description="">
+    <Cheatline>
+      <Offset>130127D</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-24</ValueOn>
+      <ValueOff>7F-24</ValueOff>
+    </Cheatline>
+  </Cheat>  
+  <Cheat Text="Infinite Money" Description="">
+    <Cheatline>
+      <Offset>1330D55</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Skillpoints" Description="">
+    <Cheatline>
+      <Offset>CDCDF2</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>41-29-44-24-70</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="XP x2" Description="">
+    <Cheatline>
+      <Offset>CDC2C5</Offset>
+      <Section>0</Section>
+      <ValueOn>41-D1-E7-44-01-7B-64-90-90</ValueOn>
+      <ValueOff>8B-4B-64-44-01-F9-89-4B-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="XP x4" Description="">
+    <Cheatline>
+      <Offset>CDC2C5</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C1-E7-02-44-01-7B-64-90</ValueOn>
+      <ValueOff>8B-4B-64-44-01-F9-89-4B-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="XP x8" Description="">
+    <Cheatline>
+      <Offset>CDC2C5</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C1-E7-03-44-01-7B-64-90</ValueOn>
+      <ValueOff>8B-4B-64-44-01-F9-89-4B-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="XP x16" Description="">
+    <Cheatline>
+      <Offset>CDC2C5</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C1-E7-04-44-01-7B-64-90</ValueOn>
+      <ValueOff>8B-4B-64-44-01-F9-89-4B-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="XP x256" Description="">
+    <Cheatline>
+      <Offset>CDC2C5</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C1-E7-07-44-01-7B-64-90</ValueOn>
+      <ValueOff>8B-4B-64-44-01-F9-89-4B-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

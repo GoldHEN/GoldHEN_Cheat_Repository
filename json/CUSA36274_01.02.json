@@ -1,0 +1,72 @@
+{
+  "name": "OCTOPATH TRAVELER II",
+  "id": "CUSA36274",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "INFINTE  HP turns off INF SP AND BP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5C4EC00",
+          "on": "8B1681FEC465FFEE7509837EF40074038B56F489175DE90DF7177A",
+          "off": "8B1681FEC465FFEE75030000000000000000000000000000000000"
+        },
+        {
+          "section": "7",
+          "offset": "3E323",
+          "on": "E9D808E885",
+          "off": "8B1689175D"
+        }
+      ]
+    },
+    {
+      "name": "INFINTE SP AND BP turns off INF HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5C4EC00",
+          "on": "8B1681FEAC88FFEE7509807E04B075038B56F481FEFC76FFEE750E817EE40078FFEE7505BA0500000089175DE9F7F6177A",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "section": "7",
+          "offset": "3E323",
+          "on": "E9D808E885",
+          "off": "8B1689175D"
+        }
+      ]
+    },
+    {
+      "name": "INFINTE  MONEY BUY/SELL TURN OFF AFTER USE",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "AA0901",
+          "on": "4589A424E8020000",
+          "off": "41898424E8020000"
+        }
+      ]
+    },
+    {
+      "name": "INF ITEM BUY SELL",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5C4F800",
+          "on": "488B124889143BC6443B0463E95F3C53FA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "183469",
+          "on": "E992C3AC059090",
+          "off": "488B124889143B"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "ran"
+  ]
+}

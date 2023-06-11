@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Trainer Cusa="CUSA00315" Game="The Swapper" Moder="DeathRGH" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Cheat Control="Toggel" Text="Infinite Clones">
-
 </Cheat>
 </Trainer>

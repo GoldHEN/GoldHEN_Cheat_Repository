@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA25924" Game="Mickey Storm and the Cursed Mask" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Invincible">
+</Cheat>
+<Cheat Text="Max Blue Lightning ( on gain )">
+</Cheat>
+<Cheat Text="Max Hearts - Battery ( on gain )">
+</Cheat>
+<Cheat Text="Freeze Timer">
+</Cheat>
+</Trainer>

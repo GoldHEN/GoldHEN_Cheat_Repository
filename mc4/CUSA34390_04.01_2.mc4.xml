@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA34390" Game="God of War Ragnarök" Moder="Saso" Process="eboot.bin" Version="04.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Health / 1 Hit Kill (Master Code)">
+</Cheat>
+<Cheat Text="1 Hit Kill (MC)">
+</Cheat>
+<Cheat Text="Rage / Arrows (Master Code)">
+</Cheat>
+<Cheat Text="Inf Arrows (MC)">
+</Cheat>
+<Cheat Text="Max Resource / XP">
+</Cheat>
+</Trainer>

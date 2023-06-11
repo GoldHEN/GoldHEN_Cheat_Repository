@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA41097" Game="Afterimage" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.05" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Mastercode ( must be activated )">
+</Cheat>
+<Cheat Text="Max Health [ MC ]">
+</Cheat>
+<Cheat Text="Infinite Health [ MC ]">
+</Cheat>
+<Cheat Text="Infinite MP [ MC ]">
+</Cheat>
+<Cheat Text="Max MP [ MC ]">
+</Cheat>
+<Cheat Text="Max Attack [ MC ]">
+</Cheat>
+<Cheat Text="Max Defense [ MC ]">
+</Cheat>
+<Cheat Text="Max Items ( on gain - use )">
+</Cheat>
+<Cheat Text="Max Dew Currency [ MC ]">
+</Cheat>
+<Cheat Text="Max Talent Points ( You need 1 ) [ MC ]">
+</Cheat>
+<Cheat Text="Set used Talent Points to 0 [ MC ]">
+</Cheat>
+<Cheat Text="Max Player Level [ MC ]">
+</Cheat>
+<Cheat Text="Max XP ( after fisnish Level Stage )">
+</Cheat>
+<Cheat Text="Max Divine Seed [ MC ]">
+</Cheat>
+<Cheat Text="Activate Gravity Jump [ MC ]">
+</Cheat>
+<Cheat Text="Deactivate Gravity Jump [ MC ]">
+</Cheat>
+<Cheat Text="Kill all Enemies [ MC ]">
+</Cheat>
+<Cheat Text="Activate Invincible Mode [ MC ]">
+</Cheat>
+<Cheat Text="Deactivate Invincible Mode [ MC ]">
+</Cheat>
+<Cheat Text="Infinite Dash [ MC ]">
+</Cheat>
+</Trainer>

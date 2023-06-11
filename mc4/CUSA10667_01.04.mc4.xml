@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA10667" Game="super bomberman_ CUSA10667 v1 04" Moder="Dante" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="inf money on spend">
+</Cheat>
+</Trainer>

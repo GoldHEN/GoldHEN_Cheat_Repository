@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA07953" Game="Bloodstained Ritual of the Night" Moder="GamerX2" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Platformer"/>
+<Items/>
+<Cheat Text="Infinite MP">
+</Cheat>
+<Cheat Text="Max Gold On Gain">
+</Cheat>
+<Cheat Text="Max Gold On Spend">
+</Cheat>
+<Cheat Text="Max Items On Buy/Gain">
+</Cheat>
+<Cheat Text="Infinite Items And Materials">
+</Cheat>
+<Cheat Text="Max Items And Materials On Use/Sell">
+</Cheat>
+<Cheat Text="Freeze PlayTime">
+</Cheat>
+<Cheat Text="Rest PlayTime">
+</Cheat>
+<Cheat Text="Boost EXP">
+</Cheat>
+<Cheat Text="Extra EXP">
+</Cheat>
+<Cheat Text="Even More EXP">
+</Cheat>
+<Cheat Text="Lots Of EXP">
+</Cheat>
+<Cheat Text="Hella EXP">
+</Cheat>
+<Cheat Text="EXP OVERLORD | MAX LEVEL">
+</Cheat>
+</Trainer>

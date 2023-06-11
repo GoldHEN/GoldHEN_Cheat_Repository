@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA14245" Game="Subdivision Infinity DX" Moder="fbin" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Strategy"/>
+<Items/>
+<Cheat Text="Escudo Infinito">
+</Cheat>
+<Cheat Text="Vida Infinita">
+</Cheat>
+<Cheat Text="Velocidade Infinita">
+</Cheat>
+<Cheat Text="Arma Base Infinita">
+</Cheat>
+<Cheat Text="Arma Pesada Infinita">
+</Cheat>
+</Trainer>

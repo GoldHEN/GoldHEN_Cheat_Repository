@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dying Light The Following Enhanced Edition" Moder="M3hdi PS" Cusa="CUSA03991" Version="01.33" Process="eboot.bin">
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dying Light The Following Enhanced Edition" Moder="M3hdi PS" Cusa="CUSA03991" Version="1.33" Process="eboot.bin">
   <Genres Name="Horror" />
   <Items />
   <Cheat Text="Infinite HP">
@@ -18,7 +18,7 @@
       <ValueOff>45-89-37</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite Bolt + Arrows">
+  <Cheat Text="Infinite Bolt &amp; Arrows">
     <Cheatline>
       <Offset>D72866</Offset>
       <Section>0</Section>

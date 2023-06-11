@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA12209" Game="Truck Driver" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.20" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Max Money">
+</Cheat>
+<Cheat Text="Max XP">
+</Cheat>
+<Cheat Text="No Tiredness">
+</Cheat>
+<Cheat Text="Infinite Fuel">
+</Cheat>
+<Cheat Text="No Damage">
+</Cheat>
+<Cheat Text="Max Passive Level">
+</Cheat>
+<Cheat Text="Unlock all Passive Level">
+</Cheat>
+</Trainer>

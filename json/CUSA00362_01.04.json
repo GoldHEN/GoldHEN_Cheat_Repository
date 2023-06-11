@@ -1,21 +1,20 @@
 {
-  "name": "Alien: Isolation",
+  "name": "Alien: Isolation™",
   "id": "CUSA00362",
   "version": "01.04",
   "process": "eboot.bin",
   "mods": [
     {
       "name": "Godmode",
-      "hint": null,
       "type": "checkbox",
       "memory": [
         {
-          "offset": "582250",
+          "offset": "182250",
           "on": "E90B4FD500",
           "off": "664189551C"
         },
         {
-          "offset": "12D7160",
+          "offset": "ED7160",
           "on": "4183BDE0050000FF0F8505000000E9E2B02AFF664189551CE9D8B02AFF",
           "off": "0000000000000000000000000000000000000000000000000000000000"
         }
@@ -23,18 +22,28 @@
     },
     {
       "name": "Infinite Crafting Materials",
-      "hint": null,
       "type": "checkbox",
       "memory": [
         {
-          "offset": "5AE72E",
+          "offset": "1AE72E",
           "on": "01",
           "off": "89"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E8B4",
+          "on": "90909090909090",
+          "off": "41898528010000"
         }
       ]
     }
   ],
   "credits": [
-    "Talixme"
+    "Talixme/Mrpc85"
   ]
 }

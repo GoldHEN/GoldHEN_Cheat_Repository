@@ -1,0 +1,140 @@
+{
+  "name": "Chorus",
+  "id": "CUSA20221",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Mastercode Health / Shield ( must be activated )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5907E0A",
+          "on": "837B4801750DC5FA1183E0020000E9BC0298FE837B48007508C5FA1183E0020000C5FA1183E0020000E9A10298FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "42880D1",
+          "on": "E934FD6701909090",
+          "off": "C5FA1183E0020000"
+        },
+        {
+          "offset": "5907E38",
+          "on": "4183BC248C00000000750AC4C17A118424180100004183BC248C00000001750AC4C17A11842418010000C4C17A11842418010000E9618288FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "41900C8",
+          "on": "E96B7D77019090909090",
+          "off": "C4C17A11842418010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5907E43",
+          "on": "C4C17A108424D8000000",
+          "off": "C4C17A11842418010000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5907E58",
+          "on": "0F57C090909090909090",
+          "off": "C4C17A11842418010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Shield [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5907E10",
+          "on": "C5FA118BE0020000",
+          "off": "C5FA1183E0020000"
+        }
+      ]
+    },
+    {
+      "name": "No Shield Enemy [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5907E23",
+          "on": "0F57C09090909090",
+          "off": "C5FA1183E0020000"
+        }
+      ]
+    },
+    {
+      "name": "No Gatling Gun Overheat",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5907DF0",
+          "on": "C5FA118B4C080000E96591ADFE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "43E0F5A",
+          "on": "E9916E5201909090",
+          "off": "C5FA11834C080000"
+        },
+        {
+          "offset": "5907DFD",
+          "on": "C5FA1193A4060000E9DD90ADFE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "43E0EDF",
+          "on": "E9196F5201909090",
+          "off": "C5FA1183A4060000"
+        }
+      ]
+    },
+    {
+      "name": "No Laser Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5907DD9",
+          "on": "C5FA108300080000C5FA1183FC070000E9F3D9ACFE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "43D57D9",
+          "on": "E9FB255301909090",
+          "off": "C5FA1183FC070000"
+        }
+      ]
+    },
+    {
+      "name": "Max Credits",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5907DB0",
+          "on": "C787180500003F420F008B8718050000E9E5BCC0FE526564646576696C3832202D20465720392E3030",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4513AA4",
+          "on": "E907433F0190",
+          "off": "8B8718050000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Vikings - Wolves of Midgard" Moder="TLH" Cusa="CUSA05032" Version="01.07" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Genres Name="Arcade" />
+  <Genres Name="Fighting" />
+  <Items />
+  <StartUP Text="Pointer" description="">
+    <Cheatline>
+      <Offset>11CF800</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-49-8B-07-4C-89-3D-E4-87-1B-00-E9-07-61-2F-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>804C5913</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EA-9E-D0-80</ValueOn>
+      <ValueOff>49-8B-07-90-90</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Health / 1 Hit Kills" description="">
+    <Cheatline>
+      <Offset>11CF811</Offset>
+      <Section>0</Section>
+      <ValueOn>4C-39-25-D8-87-1B-00-74-0F-80-3D-E0-FF-FF-FF-01-75-0F-45-0F-57-FF-EB-09-80-3D-D0-FF-FF-FF-01-74-0A-F3-45-0F-11-BC-24-14-03-00-00-E9-3D-5F-29-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80465774</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-98-A0-D6-80-90-90-90-90-90</ValueOn>
+      <ValueOff>F3-45-0F-11-BC-24-14-03-00-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>11CF800</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kills" Description="">
+    <Cheatline>
+      <Offset>11CF801</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Gift-Points" Description="">
+    <Cheatline>
+      <Offset>4B0137</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>2B-0C-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Regeneration" Description="">
+    <Cheatline>
+      <Offset>11CF856</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-14-03-00-00-00-50-C3-47-E9-6B-77-2F-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>804C6FC8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-89-88-D0-80-90-90-90-90</ValueOn>
+      <ValueOff>F3-45-0F-11-BF-14-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Cooldown" Description="">
+    <Cheatline>
+      <Offset>509B6D</Offset>
+      <Section>15</Section>
+      <ValueOn>0F-57-C0-90</ValueOn>
+      <ValueOff>F3-0F-5A-C0</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5094D9</Offset>
+      <Section>15</Section>
+      <ValueOn>0F-57-C1-90</ValueOn>
+      <ValueOff>F2-0F-5C-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Heal-Skill Usage" Description="">
+    <Cheatline>
+      <Offset>11CF841</Offset>
+      <Section>0</Section>
+      <ValueOn>41-39-86-AC-06-00-00-7D-07-41-89-86-AC-06-00-00-E9-5E-ED-2F-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>804CE5AD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8F-12-D0-80-90-90</ValueOn>
+      <ValueOff>41-89-86-AC-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina" Description="">
+    <Cheatline>
+      <Offset>1FA24A2</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>F3-44-0F-11-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Blood on Get" Description="">
+    <Cheatline>
+      <Offset>4AFE1D</Offset>
+      <Section>15</Section>
+      <ValueOn>B9-FF-E0-F5-05-90</ValueOn>
+      <ValueOff>8B-08-03-4C-24-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Gold on Get" Description="">
+    <Cheatline>
+      <Offset>4B02D6</Offset>
+      <Section>15</Section>
+      <ValueOn>B9-9F-86-01-00</ValueOn>
+      <ValueOff>8B-08-03-0C-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Iron on Get" Description="">
+    <Cheatline>
+      <Offset>4B0429</Offset>
+      <Section>15</Section>
+      <ValueOn>B9-9F-86-01-00</ValueOn>
+      <ValueOff>8B-08-03-0C-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Wood on Get" Description="">
+    <Cheatline>
+      <Offset>4B0579</Offset>
+      <Section>15</Section>
+      <ValueOn>B9-9F-86-01-00</ValueOn>
+      <ValueOff>8B-08-03-0C-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Blood" Description="">
+    <Cheatline>
+      <Offset>4B0230</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>2B-4C-24-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Gold" Description="">
+    <Cheatline>
+      <Offset>4B039C</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>2B-0C-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Iron" Description="">
+    <Cheatline>
+      <Offset>4B04EF</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>2B-0C-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Wood" Description="">
+    <Cheatline>
+      <Offset>4B063F</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>2B-0C-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,204 @@
+{
+  "name": "Dead Island 2 Gold Edition",
+  "id": "CUSA27043",
+  "version": "1.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Ammo No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BC8EEA",
+          "on": "8B8704010000",
+          "off": "038704010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "90081FF",
+          "on": "C5FA108720010000C5FA118314010000E998A6C0F9",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2C128A4",
+          "on": "E956593F06909090",
+          "off": "C5FA118314010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2D69402",
+          "on": "9090909090909090",
+          "off": "C5FA1187780B0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Medkit/Parts | Drop Items/Weapons For Duplicates",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6BA9264",
+          "on": "909090",
+          "off": "4429F0"
+        }
+      ]
+    },
+    {
+      "name": "Max Parts On Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9008000",
+          "on": "B96300000041894CDC20E9BC0EBAFD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "6BA8EC6",
+          "on": "E935F14502",
+          "off": "41894CDC20"
+        }
+      ]
+    },
+    {
+      "name": "50x Medkits/Items/Parts/Ammo in Inventory",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9008180",
+          "on": "0F85D45BBAFD66C7003200448B30E9F05BBAFD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6BADD7E",
+          "on": "E9FDA34502",
+          "off": "75E0440330"
+        }
+      ]
+    },
+    {
+      "name": "Max Money ON Sell| Turn off After Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "90080DA",
+          "on": "B97F96980041894CDC20E9E20DBAFD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "6BA8EC6",
+          "on": "E90FF24502",
+          "off": "41894CDC20"
+        }
+      ]
+    },
+    {
+      "name": "+200 EXP Per Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9008048",
+          "on": "4189D681C6C80000004189F7E96F7EE9F9",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "2E9FEC2",
+          "on": "E98181160690",
+          "off": "4189D64189F7"
+        }
+      ]
+    },
+    {
+      "name": "+500 EXP Per Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9008061",
+          "on": "4189D681C6F40100004189F7E9567EE9F9",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "2E9FEC2",
+          "on": "E99A81160690",
+          "off": "4189D64189F7"
+        }
+      ]
+    },
+    {
+      "name": "+1500 EXP Per Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9008078",
+          "on": "4189D681C6DC0500004189F7E93F7EE9F9",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "2E9FEC2",
+          "on": "E9B181160690",
+          "off": "4189D64189F7"
+        }
+      ]
+    },
+    {
+      "name": "+3500 EXP Per Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9008091",
+          "on": "4189D681C6AC0D00004189F7E9267EE9F9",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "2E9FEC2",
+          "on": "E9CA81160690",
+          "off": "4189D64189F7"
+        }
+      ]
+    },
+    {
+      "name": "+9999 exp Per Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "90080A8",
+          "on": "4189D681C60F2700004189F7E90F7EE9F9",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "2E9FEC2",
+          "on": "E9E181160690",
+          "off": "4189D64189F7"
+        }
+      ]
+    },
+    {
+      "name": "+99999 EXP Per Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "90080C1",
+          "on": "4189D681C69F8601004189F7E9F67DE9F9",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "2E9FEC2",
+          "on": "E9FA81160690",
+          "off": "4189D64189F7"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "GamerX2"
+  ]
+}

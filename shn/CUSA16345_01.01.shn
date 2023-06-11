@@ -101,124 +101,18 @@
       <ValueOff>41-89-84-24-6C-01-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite Jump (With Wings)">
-    <Cheatline>
-      <Offset>6D1A780</Offset>
-      <Section>0</Section>
-      <ValueOn>31-C0-89-83-B4-06-00-00-E9-C6-DC-2D-FE</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>4FF844D</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-2E-23-D2-01-90</ValueOn>
-      <ValueOff>89-83-B4-06-00-00</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Speed: Fly Turbo x5">
+   <Cheat Text="Flying Turbo Speed x5">
     <Cheatline>
       <Offset>6D1A600</Offset>
       <Section>0</Section>
-      <ValueOn>C4-C1-7A-11-8C-24-48-04-00-00-49-83-FB-04-0F-85-DD-7E-05-FE-41-81-BC-24-48-04-00-00-00-00-20-41-0F-82-CB-7E-05-FE-41-C7-84-24-48-04-00-00-00-00-48-42-C4-C1-7A-10-8C-24-48-04-00-00-E9-B0-7E-05-FE</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+      <ValueOn>C4-C1-7A-11-8C-24-48-04-00-00-49-83-FB-04-0F-85-DD-7E-05-FE-49-83-F8-00-41-81-BC-24-48-04-00-00-00-00-20-41-0F-82-C7-7E-05-FE-41-C7-84-24-48-04-00-00-00-00-48-42-C4-C1-7A-10-8C-24-48-04-00-00-E9-AC-7E-05-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
       <Offset>4D724E7</Offset>
       <Section>0</Section>
       <ValueOn>E9-14-81-FA-01-90-90-90-90-90</ValueOn>
       <ValueOff>C4-C1-7A-11-8C-24-48-04-00-00</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Speed: Walk / Run x2">
-    <Cheatline>
-      <Offset>6D1A670</Offset>
-      <Section>0</Section>
-      <ValueOn>C4-C1-7A-11-84-24-94-04-00-00-C4-C1-7A-11-8C-24-48-04-00-00-41-83-BC-24-48-04-00-00-00-0F-84-5E-7E-05-FE-49-83-FB-20-75-10-F3-0F-58-C9-C4-C1-7A-11-8C-24-48-04-00-00-EB-0C-49-83-FB-30-0F-85-34-7E-05-FE-EB-E4-49-81-FD-01-F4-ED-05-0F-84-2F-7E-05-FE-49-81-FD-00-F4-ED-05-0F-84-22-7E-05-FE-0F-57-C9-C4-C1-7A-11-8C-24-48-04-00-00-E9-10-7E-05-FE</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>4D724DD</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-8E-81-FA-01-90-90-90-90-90</ValueOn>
-      <ValueOff>C4-C1-7A-11-84-24-94-04-00-00</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Mega Jump: Ares's Wrath (not 100%)">
-    <Cheatline>
-      <Offset>6D1A800</Offset>
-      <Section>0</Section>
-      <ValueOn>48-3D-71-01-00-00-75-23-80-BC-01-50-01-00-00-01-75-19-66-81-BC-01-56-01-00-00-01-01-75-0D-49-83-FD-05-74-07-C6-05-25-E9-24-79-42-80-BC-01-50-01-00-00-00-E9-B9-47-6E-FD-90-90</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>43FEFE9</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-12-B8-91-02-90-90-90</ValueOn>
-      <ValueOff>80-BC-01-50-01-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>6D1A730</Offset>
-      <Section>0</Section>
-      <ValueOn>83-7F-2C-02-75-19-48-8B-47-28-83-78-04-02-75-0F-48-8B-00-81-B8-00-01-00-00-90-A0-D8-07-74-0C-48-8B-47-28-49-89-FF-E9-9A-B6-7F-FA-80-3D-EE-E9-24-79-42-75-EB-C6-05-E5-E9-24-79-00-48-8B-47-28-81-40-68-00-00-10-00-EB-DB</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>1515DEE</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-3D-49-80-05-90-90</ValueOn>
-      <ValueOff>48-8B-47-28-49-89-FF</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Invisible To Enemy">
-    <Cheatline>
-      <Offset>6D1A790</Offset>
-      <Section>0</Section>
-      <ValueOn>41-C7-87-34-01-00-00-00-00-00-00-E9-A4-25-4D-FC-90</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>31ECC77</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-14-DB-B2-03-90-90-90-90</ValueOn>
-      <ValueOff>C4-C1-7A-11-87-34-01-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>6D1A7B0</Offset>
-      <Section>0</Section>
-      <ValueOn>41-C7-87-34-01-00-00-00-00-00-00-E9-84-25-4D-FC</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>31ECD39</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-72-DA-B2-03-90-90-90-90-90-90</ValueOn>
-      <ValueOff>41-C7-87-34-01-00-00-00-00-80-3F</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>6D1A7C0</Offset>
-      <Section>0</Section>
-      <ValueOn>41-C7-87-30-01-00-00-00-00-00-00-E9-8D-23-4D-FC</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>31ECB54</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-67-DC-B2-03-90-90-90-90</ValueOn>
-      <ValueOff>C4-C1-7A-11-87-30-01-00-00</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Enemy Doesn't Move">
-    <Cheatline>
-      <Offset>6D1A700</Offset>
-      <Section>0</Section>
-      <ValueOn>50-48-8B-00-81-B8-00-01-00-00-90-A0-D8-07-75-0B-58-C5-F8-11-48-60-E9-2D-03-80-FA-58-E9-27-03-80-FA</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>151AA43</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-B8-FC-7F-05</ValueOn>
-      <ValueOff>C5-F8-11-48-60</ValueOff>
     </Cheatline>
   </Cheat>
   <Cheat Text="Maxed Sword">
@@ -261,20 +155,6 @@
       <Section>0</Section>
       <ValueOn>E9-D1-E4-EA-02-90</ValueOn>
       <ValueOff>8B-80-AC-02-00-00</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Bow Instantly Charged + Thunderbolt Upgrade">
-    <Cheatline>
-      <Offset>6D1A840</Offset>
-      <Section>0</Section>
-      <ValueOn>C7-80-F8-09-00-00-00-00-80-40-C7-80-00-0A-00-00-00-00-80-40-C6-80-30-0A-00-00-01-E9-03-8A-3C-FE</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>50E325B</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-E0-75-C3-01-90-90-90</ValueOn>
-      <ValueOff>C5-FA-11-80-F8-09-00-00</ValueOff>
     </Cheatline>
   </Cheat>
   <Cheat Text="Maxed Armour">

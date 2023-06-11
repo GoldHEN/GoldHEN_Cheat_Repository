@@ -1,0 +1,92 @@
+{
+  "name": "Monster Energy Supercross - The Official Videogame 5",
+  "id": "CUSA28535",
+  "version": "01.13",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Credits",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7DE7DB0",
+          "on": "C787A0000000FFC99A3B8B87A0000000E975C02BFA526564646576696C3832202D20465720392E3030",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "20A3E34",
+          "on": "E9773FD40590",
+          "off": "8B87A0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill Points ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7DE7DD9",
+          "on": "41C787E0000000E7030000418B87E0000000E95DDB0CFA",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1EB5946",
+          "on": "E98E24F3059090",
+          "off": "418B87E0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max XP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7DE7E26",
+          "on": "C787C8000000FFE0F5058BB7C8000000E9FFB42BFA",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "20A3334",
+          "on": "E9ED4AD40590",
+          "off": "8BB7C8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Rewinds",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7DE7DF0",
+          "on": "C7805803000000004040C5FA108058030000E95E8550FA",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "22F035D",
+          "on": "E98E7AAF05909090",
+          "off": "C5FA108058030000"
+        }
+      ]
+    },
+    {
+      "name": "No Gear AI",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7DE7E07",
+          "on": "488B80E80D000083BFC4030000007407C7402C000000008B402CE90F7C0EF9",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "ECFA2B",
+          "on": "E9D783F1069090909090",
+          "off": "488B80E80D00008B402C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

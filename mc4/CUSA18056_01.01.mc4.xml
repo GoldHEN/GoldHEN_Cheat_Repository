@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA18056" Game="Ys Memories of Celceta" Moder="GamerX2" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Infinite HP">
+</Cheat>
+<Cheat Text="Max Gold On Gain| Battle">
+</Cheat>
+<Cheat Text="Max+ Inf Gold On Buy">
+</Cheat>
+<Cheat Text="Max Level | Kill  Few Monsters">
+</Cheat>
+<Cheat Text="Max SP Slots On Hit ">
+</Cheat>
+<Cheat Text="Instant EXTRA Skill Gauge">
+</Cheat>
+<Cheat Text="Instant Skill Level Up| Use Skill Once">
+</Cheat>
+<Cheat Text="Freeze GamePlay Timer">
+</Cheat>
+<Cheat Text="Rest GamePlay Timer">
+</Cheat>
+<Cheat Text="Max+ Inf  Items On Use">
+</Cheat>
+<Cheat Text="Unlock All Weapons/Armour/Usable Items">
+</Cheat>
+<Cheat Text="Max Consumables/Weapons/Minerals/Materials">
+</Cheat>
+<Cheat Text="Max+ Inf Minerals and Materials | Blacksmith Shop">
+</Cheat>
+</Trainer>

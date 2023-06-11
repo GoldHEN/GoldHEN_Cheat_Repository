@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA19057" Game="Minoria" Moder="Celogamez" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Max/Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Incense">
+</Cheat>
+<Cheat Text="Infinite Heavy Thrust">
+</Cheat>
+<Cheat Text="Infinite Silver Coins">
+</Cheat>
+<Cheat Text="Max Xp On Kill">
+</Cheat>
+</Trainer>

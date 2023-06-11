@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Need for Speed Heat" Moder="hejran7" Cusa="CUSA15090" Version="01.07" Process="eboot.bin">
+  <Genres Name="Racing" />
+  <Items />
+  <Cheat Text="Max Inf Cash" Description="">
+    <Cheatline>
+      <Offset>4B48500</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-45-E0-48-C7-40-38-FF-C9-9A-3B-48-8B-40-38-E9-8B-F4-B5-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>16A7998</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-63-0B-4A-03-90-90-90</ValueOn>
+      <ValueOff>48-8B-45-E0-48-8B-40-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Nitro Instant Refill " Description="">
+    <Cheatline>
+      <Offset>24D2ED9</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-E2-58-D0</ValueOn>
+      <ValueOff>C5-E2-58-D1</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

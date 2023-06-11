@@ -1,0 +1,33 @@
+{
+  "name": "Borderlands® 2 VR",
+  "id": "CUSA13946",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Skillpoints / Badass-Tokens (deactivate after use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7A3D9",
+          "on": "909090",
+          "off": "2B45C8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo + Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A85FD5",
+          "on": "90909090",
+          "off": "C5F25CCA"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "ToFi"
+  ]
+}

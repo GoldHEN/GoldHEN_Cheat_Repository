@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA09370" Game="The Incredible Adventures of Van Helsing II" Moder="Wander FW9.00" Process="eboot.bin" Version="01.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Mana">
+</Cheat>
+<Cheat Text="Infinite Stat point Van Helsing">
+</Cheat>
+<Cheat Text="Infinite Power Points">
+</Cheat>
+<Cheat Text="Infinite Perk Points">
+</Cheat>
+<Cheat Text="Infinite Stats Lady Katarina">
+</Cheat>
+<Cheat Text="Max Experience">
+</Cheat>
+<Cheat Text="Max Coins (on get)">
+</Cheat>
+</Trainer>

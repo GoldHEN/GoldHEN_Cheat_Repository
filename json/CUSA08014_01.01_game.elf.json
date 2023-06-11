@@ -1,0 +1,49 @@
+{
+  "name": "KNACK 2",
+  "id": "CUSA08014",
+  "version": "01.01",
+  "process": "game.elf",
+  "mods": [
+    {
+      "name": "Inf Health / Relic Energy (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11FF800",
+          "on": "52488B5708817A06435259537518817A0E4E554D005A750FB8500000004189041FE982E017FF5A8B45D04189041FE975E017FF52488B5708817A06434F494E5A75E5B8AB110100EBE1",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "37D8A1",
+          "on": "E95A1FE8009090",
+          "off": "8B45D04189041F"
+        }
+      ]
+    },
+    {
+      "name": "Inf Relic Energy On Spend (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11FF816",
+          "on": "751B",
+          "off": "750F"
+        }
+      ]
+    },
+    {
+      "name": "Inf Super Crystal Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81441B",
+          "on": "C4C17A1087481D0000",
+          "off": "C4C17A10873C1D0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

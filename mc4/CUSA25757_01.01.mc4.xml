@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA25757" Game="Curse of the Sea Rats" Moder="Wander / Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Arcade"/>
+<Items/>
+<Cheat Text="Invulnerable">
+</Cheat>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="One Hit Kill">
+</Cheat>
+<Cheat Text="Infinite EP">
+</Cheat>
+<Cheat Text="Max Coins">
+</Cheat>
+<Cheat Text="Max Spirit">
+</Cheat>
+<Cheat Text="Infinite Items">
+</Cheat>
+</Trainer>

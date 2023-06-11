@@ -1,33 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Trainer Cusa="CUSA07399" Game="Crash Bandicoot N Sane Trilogy" Moder="Weysincha/Talixme" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Cheat Control="Button" Text="Godmode">
-
 </Cheat>
 <Cheat Control="Button" Text="Set Apples to 99">
-
 </Cheat>
 <Cheat Control="Button" Text="Set Lives to 999">
-
 </Cheat>
 <Cheat Control="Button" Text="Set Boxes to 999">
-
 </Cheat>
 <Cheat Control="Button" Text="Set Diamonds to 99">
-
 </Cheat>
 <Cheat Control="Button" Text="Set Platin to 99">
-
 </Cheat>
 <Cheat Control="Button" Text="Set Gold to 99">
-
 </Cheat>
 <Cheat Control="Button" Text="Set Saphir to 99">
-
 </Cheat>
 <Cheat Control="Button" Text="Set Keys to 99">
-
 </Cheat>
 <Cheat Control="Button" Text="Set Crystals to 99">
-
 </Cheat>
 </Trainer>

@@ -1,0 +1,172 @@
+{
+  "name": "Wonder Boy: Asha in Monster World",
+  "id": "CUSA26736",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Red Hearts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18E7E09",
+          "on": "C687D80200000F8B87D8020000E93B54B17E",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "803FD250",
+          "on": "E9B4AB4E8190",
+          "off": "8B87D8020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Red Hearts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18E7E1B",
+          "on": "8B87E0020000C687D00200000FE98F77B17E",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "803FF5B6",
+          "on": "E960884E8190",
+          "off": "8B87E0020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Blue Hearts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18E7DD3",
+          "on": "C680E40200000F8B98E4020000E9BE97B67E",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8045159D",
+          "on": "E93168498190",
+          "off": "8B98E4020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Blue Hearts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18E7DF7",
+          "on": "8B83F0020000C683E80200000FE9DA77B17E",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "803FF5DD",
+          "on": "E915884E8190",
+          "off": "8B83F0020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Charge Power",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18E7E2D",
+          "on": "C68318030000088B8318030000E9BF37B17E",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "803FB5F8",
+          "on": "E930C84E8190",
+          "off": "8B8318030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18E7E63",
+          "on": "0F84A343D37EC6448820638B448820E94139D37E",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8061B7AE",
+          "on": "E9B0C62C819090909090",
+          "off": "0F845E0A00008B448820"
+        }
+      ]
+    },
+    {
+      "name": "Max Coins ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18E7DB0",
+          "on": "C780FC0200009F860100E9F8C9B17E526564646576696C3832202D20465720392E3030",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "804047B1",
+          "on": "E9FA354E8190",
+          "off": "8988FC020000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18E7E63",
+          "on": "41C7858000000000000000E94C97C67E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "805515B8",
+          "on": "E9A66839819090",
+          "off": "41898580000000"
+        }
+      ]
+    },
+    {
+      "name": "Change Difficult [ EASY ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18E7E3F",
+          "on": "C68070010000018B8070010000E9DB0ED37E",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80618D26",
+          "on": "E914F12C8190",
+          "off": "8B8070010000"
+        }
+      ]
+    },
+    {
+      "name": "Change Difficult [ NORMAL ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18E7E51",
+          "on": "C68070010000028B8070010000E9C90ED37E",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80618D26",
+          "on": "E926F12C8190",
+          "off": "8B8070010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

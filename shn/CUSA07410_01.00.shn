@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="God Of War" Moder="FBML, Rizla, TLH" Cusa="CUSA07410" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Invincible Player (No Damage)">
+    <Cheatline>
+      <Offset>54A0D0</Offset>
+      <Section>0</Section>
+      <ValueOn>B0-01-90-90-90-90</ValueOn>
+      <ValueOff>8A-05-94-2D-ED-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max and Infinite Bow Arrows">
+    <Cheatline>
+      <Offset>C58F60</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-EA-5F-C3-41-81-FB-01-10-00-00-74-09-C5-FA-5D-DC-E9-7B-E5-88-FF-41-83-FE-00-75-F1-41-83-FC-00-75-EB-F3-0F-10-DC-E9-66-E5-88-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4E74E9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-72-1A-77-00-90-90-90</ValueOn>
+      <ValueOff>C5-EA-5F-C3-C5-FA-5D-DC</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max and Infinite XP,HS,Resources When Get or Spend">
+    <Cheatline>
+      <Offset>C38690</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-FD-FF-74-0D-41-81-FE-FF-FF-FF-7F-75-07-C7-43-30-3F-42-0F-00-48-8B-4B-28-8B-43-30-E9-A7-ED-CC-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>90744C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3F-12-33-00-90-90</ValueOn>
+      <ValueOff>48-8B-4B-28-8B-43-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max and Infinite XP,HS,Resources When Get or Spend Includes Max Labours Resources When Get">
+    <Cheatline>
+      <Offset>C38690</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-FD-FF-74-0D-41-81-FE-FF-FF-FF-7F-74-10-44-89-73-30-48-8B-4B-28-8B-43-30-E9-A4-ED-CC-FF-C7-43-30-3F-42-0F-00-EB-EB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>90744C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3F-12-33-00-90-90</ValueOn>
+      <ValueOff>48-8B-4B-28-8B-43-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max and Infinite Rage when Transfer">
+    <Cheatline>
+      <Offset>C5922F</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-FD-03-75-38-41-83-FB-01-75-32-53-48-BB-00-00-00-00-C0-0F-00-00-49-39-DA-75-12-48-C7-C3-00-00-FA-43-C4-E1-F9-6E-C3-5B-0F-5B-C0-EB-15-48-BB-01-00-00-00-C0-0F-00-00-49-39-DA-74-DF-5B-C5-F8-28-45-C0-E9-54-8F-C5-FF-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8B21C6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-64-70-3A-00</ValueOn>
+      <ValueOff>C5-F8-28-45-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max and Infinite Rage when Get or Hit">
+    <Cheatline>
+      <Offset>C59279</Offset>
+      <Section>0</Section>
+      <ValueOn>48-81-FE-C0-00-00-00-74-20-48-81-FE-A0-00-00-00-74-17-49-83-F9-01-75-06-49-83-F8-00-74-0B-C4-C1-7A-5D-55-30-E9-96-55-B6-FF-53-48-C7-C3-00-00-FA-43-C4-E1-F9-6E-C3-5B-0F-5B-C0-F3-0F-10-D0-EB-E4</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7BE832</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-42-AA-49-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-5D-55-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kills" Description="">
+    <Cheatline>
+      <Offset>E07800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-81-7E-20-00-00-80-3F-72-0A-41-C7-46-20-00-00-80-3F-EB-08-41-C7-46-20-00-00-00-00-C4-C1-7A-10-46-20-E9-29-9C-75-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>56144A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B1-63-8A-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-46-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Cooldown" Description="">
+    <Cheatline>
+      <Offset>E07827</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-47-48-00-00-00-00-C4-C1-7A-10-47-48-E9-EB-4C-91-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>71C51F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-03-B3-6E-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-47-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Stats/Rank on Item Change" Description="">
+    <Cheatline>
+      <Offset>E0783A</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-82-C0-4C-00-00-00-80-A2-43-C4-C1-7A-10-84-82-C0-4C-00-00-E9-AF-26-B1-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>919EFA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3B-D9-4E-00-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-82-C0-4C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP/Hacksilver/Resources" Description="">
+    <Cheatline>
+      <Offset>E07855</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-36-30-7F-96-98-00-41-8B-44-36-30-E9-8E-CC-A9-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8A44F0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-60-33-56-00-90</ValueOn>
+      <ValueOff>41-83-7C-36-30-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

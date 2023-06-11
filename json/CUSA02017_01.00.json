@@ -1,0 +1,59 @@
+{
+  "name": "Risen 3: Titan Lords - Enhanced Edition",
+  "id": "CUSA02017",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/Glory",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1097E30",
+          "on": "6641C7448E1C9F86E9FA7836FF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "3FF732",
+          "on": "E9F986C900",
+          "off": "41895C8E1C"
+        }
+      ]
+    },
+    {
+      "name": "99 Ammo/Item",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1097DB0",
+          "on": "0F49C841C6473463E9F84A2DFF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "36C8AE",
+          "on": "E9FDB4D2009090",
+          "off": "0F49C841894F34"
+        }
+      ]
+    },
+    {
+      "name": "99999 Gold (only activate when grabiing gold affect items)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1097E90",
+          "on": "0F49C841C747347F969800E9154A2DFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "36C8AE",
+          "on": "E9DDB5D2009090",
+          "off": "0F49C841894F34"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

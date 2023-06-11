@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Travis Strikes Again: No More Heroes " Moder="Scalerize" Cusa="CUSA15300" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Max Exp On Gain" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>625455</Offset>
+      <ValueOn>49-89-5E-50</ValueOn>
+      <ValueOff>41-89-46-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max LB On Gain" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>4D9381D</Offset>
+      <ValueOn>41-C7-46-48-FF-E0-F5-05-E9-3B-07-89-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>623F5B</Offset>
+      <ValueOn>E9-BD-F8-76-04</ValueOn>
+      <ValueOff>E9-AE-F8-76-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

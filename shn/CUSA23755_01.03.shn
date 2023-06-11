@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Asterix and Obelix - Slap them All" Moder="TLH" Cusa="CUSA23755" Version="01.03" Process="eboot.bin">
+  <Genres Name="Arcade" />
+  <Items />
+  <Cheat Text="Hacky Max Score">
+    <Cheatline>
+      <Offset>687110</Offset>
+      <Section>15</Section>
+      <ValueOn>01-7F-10</ValueOn>
+      <ValueOff>01-77-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>396538</Offset>
+      <Section>15</Section>
+      <ValueOn>C5-FA-10-40-14</ValueOn>
+      <ValueOff>C5-FA-10-40-10</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>396546</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-5C-C2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Throwing">
+    <Cheatline>
+      <Offset>68DF4F</Offset>
+      <Section>15</Section>
+      <ValueOn>C5-FA-10-48-14</ValueOn>
+      <ValueOff>C5-FA-10-48-10</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>68DF58</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-F2-5C-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

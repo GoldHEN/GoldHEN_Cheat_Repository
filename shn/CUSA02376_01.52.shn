@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassins Creed - Syndicate" Moder="TLH" Cusa="CUSA02376" Version="01.52" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Fighting" />
+  <Genres Name="RPG" />
+  <Genres Name="Simulation" />
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>5543800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-F9-03-75-1A-81-BF-E4-00-00-00-B8-0B-00-00-75-0E-8B-87-E4-00-00-00-89-87-E0-00-00-00-EB-06-8B-87-E0-00-00-00-E9-8B-DE-F8-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14D16B0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4B-21-07-04-90</ValueOn>
+      <ValueOff>8B-87-E0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bottomless Clip" Description="">
+    <Cheatline>
+      <Offset>1175A7D</Offset>
+      <Section>0</Section>
+      <ValueOn>89-CA-90</ValueOn>
+      <ValueOff>0F-44-D1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>1ABF9D5</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-C7-90</ValueOn>
+      <ValueOff>44-0F-42-F8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money, Items" Description="">
+    <Cheatline>
+      <Offset>1AB59AA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money/Items on Pick" Description="">
+    <Cheatline>
+      <Offset>1AB4F5B</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-C6-90</ValueOn>
+      <ValueOff>44-0F-47-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Control="Toggel" Text="Fast XP">
+    <Cheatline>
+      <Offset>1BD5C84</Offset>
+      <Section>0</Section>
+      <ValueOn>41-01-84-24-24-01-00-00</ValueOn>
+      <ValueOff>41-89-84-24-24-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Control="Toggel" Text="Very Fast XP">
+    <Cheatline>
+      <Offset>1BD5C84</Offset>
+      <Section>0</Section>
+      <ValueOn>45-89-B4-24-24-01-00-00</ValueOn>
+      <ValueOff>41-89-84-24-24-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

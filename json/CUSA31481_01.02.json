@@ -1,0 +1,75 @@
+{
+  "name": "Risen",
+  "id": "CUSA31481",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3B03AA0",
+          "on": "43807CAE5000750A6643C744AE1C6400EB05478964AE1CE9BD083DFE",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1ED4374",
+          "on": "E927F7C201",
+          "off": "478964AE1C"
+        }
+      ]
+    },
+    {
+      "name": "Max Coins (on buy/sell)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3B03B50",
+          "on": "09D089DAC7069F860100E90C6DB8FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "168A865",
+          "on": "E9E692470290",
+          "off": "09D089DA8906"
+        }
+      ]
+    },
+    {
+      "name": "99 item/food turn off when doing missions",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3B03510",
+          "on": "81E30000E0FF09FBC60063E9C96FC3FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "173A4DF",
+          "on": "E92C903C029090909090",
+          "off": "81E30000E0FF09FB8918"
+        }
+      ]
+    },
+    {
+      "name": "Max learning Points/stats/skill (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3B03AC0",
+          "on": "6643C744AE1CE703EB8D",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "3B03A52",
+          "on": "EB6C",
+          "off": "478964AE1C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

@@ -1,16 +1,15 @@
 {
-  "name": "COD: Advanced Warfare",
+  "name": "Call of Duty®: Advanced Warfare",
   "id": "CUSA00851",
   "version": "01.00",
   "process": "default_mp.elf",
   "mods": [
     {
       "name": "All Client Infinite Ammo",
-      "hint": null,
       "type": "checkbox",
       "memory": [
         {
-          "offset": "5768EF",
+          "offset": "1768EF",
           "on": "9090909090",
           "off": "44297C8108"
         }
@@ -18,11 +17,10 @@
     },
     {
       "name": "All Client Godmode",
-      "hint": null,
       "type": "checkbox",
       "memory": [
         {
-          "offset": "71389A",
+          "offset": "31389A",
           "on": "90909090909090",
           "off": "4529A7D0010000"
         }

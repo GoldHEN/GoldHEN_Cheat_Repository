@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Uncharted Collection - UNC3 Dev Menu" Moder="hejran7" Cusa="CUSA02320" Version="01.00" Process="big3-ps4_Shipping.elf">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Cheat Text="L3 + Upper L or Upper R Touch Pad" Description="">
+    <Cheatline>
+      <Offset>01357800</Offset>
+      <Section>0</Section>
+      <ValueOn>51-48-B9-24-07-83-01-00-00-00-00-48-8B-09-48-83-E1-02-75-0D-C6-80-FC-4B-00-00-00-59-E9-C6-82-A5-FF-C6-80-FC-4B-00-00-01-59-E9-B9-82-A5-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DAFAE0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1B-7D-5A-00-90-90</ValueOn>
+      <ValueOff>80-B8-FC-4B-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Enable FPS View - Hold L3" Description="">
+    <Cheatline>
+      <Offset>162194</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-C1-0B-00-00</ValueOn>
+      <ValueOff>0F-85-C1-0B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Enable Task View - Hold L3" Description="">
+    <Cheatline>
+      <Offset>0135782E</Offset>
+      <Section>0</Section>
+      <ValueOn>53-48-BB-24-07-83-01-00-00-00-00-48-8B-1B-48-83-E3-02-75-0D-C6-81-B9-39-00-00-01-5B-E9-03-9F-51-FF-C6-81-B9-39-00-00-00-5B-E9-F6-9E-51-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>87174A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DF-60-AE-00-90-90-90-74-27</ValueOn>
+      <ValueOff>8A-89-B9-39-00-00-0A-08-75-27</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

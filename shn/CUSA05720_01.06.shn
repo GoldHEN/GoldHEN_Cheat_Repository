@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Rise of the Tomb Raider 20 Year Celebration" Moder="hejran7" Cusa="CUSA05720" Version="01.06" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Inf HP" Description="">
+    <Cheatline>
+      <Offset>15CF800</Offset>
+      <Section>0</Section>
+      <ValueOn>66-9C-49-83-F9-06-75-0E-66-9D-C7-47-28-00-00-E1-43-E9-88-3F-DD-FE-66-9D-C5-FA-11-4F-28-E9-7C-3F-DD-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3A3799</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-62-C0-22-01</ValueOn>
+      <ValueOff>C5-FA-11-4F-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo - Res" Description="">
+    <Cheatline>
+      <Offset>88751C</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-40-0C-FF</ValueOn>
+      <ValueOff>66-89-58-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload" Description="">
+    <Cheatline>
+      <Offset>8EB263</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Recoil" Description="">
+    <Cheatline>
+      <Offset>15CF830</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-90-04-00-00-00-00-00-00-C7-83-F0-04-00-00-00-00-00-00-C7-83-F8-04-00-00-00-00-00-00-C5-FA-10-8B-90-04-00-00-E9-6F-50-32-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8F48C2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-69-AF-CD-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-8B-90-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Rapid Fire" Description="">
+    <Cheatline>
+      <Offset>A09D51</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-85-FC-10-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Skill Points on Use" Description="">
+    <Cheatline>
+      <Offset>15CF822</Offset>
+      <Section>0</Section>
+      <ValueOn>44-0F-42-F1-B9-FF-00-00-00-E9-62-17-61-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BE0F8B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-92-E8-9E-00-90-90</ValueOn>
+      <ValueOff>44-0F-42-F1-44-29-F1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Super Jump" Description="">
+    <Cheatline>
+      <Offset>15CF85B</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-29-40-20-83-78-28-00-0F-8E-A6-44-63-FF-81-78-28-00-00-C8-42-0F-8D-99-44-63-FF-68-00-00-50-40-D9-40-28-D8-0C-24-D9-58-28-48-83-C4-08-E9-82-44-63-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C03D0B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4B-BB-9C-00</ValueOn>
+      <ValueOff>C5-F8-29-40-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Moon Jump" Description="">
+    <Cheatline>
+      <Offset>15CF800</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-29-40-20-83-78-28-00-0F-8E-01-45-63-FF-81-78-28-00-00-C8-42-0F-8D-F4-44-63-FF-68-00-00-A0-40-D9-40-28-D8-0C-24-D9-58-28-48-83-C4-08-E9-DD-44-63-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C03D0B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F0-BA-9C-00</ValueOn>
+      <ValueOff>C5-F8-29-40-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Bonus Time" Description="">
+    <Cheatline>
+      <Offset>90B8E9</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-85-C4-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Combo Time" Description="">
+    <Cheatline>
+      <Offset>908E46</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-93-C8-02-00-00</ValueOn>
+      <ValueOff>C5-FA-11-83-C8-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Full Hunger Meter" Description="">
+    <Cheatline>
+      <Offset>8F8706</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-47-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Full Cold Meter" Description="">
+    <Cheatline>
+      <Offset>8F7135</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-47-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Full Hunger and Cold Meter" Description="">
+    <Cheatline>
+      <Offset>DAA141</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-8B-3C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

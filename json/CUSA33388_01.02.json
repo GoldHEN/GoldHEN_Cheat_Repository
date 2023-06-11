@@ -1,0 +1,150 @@
+{
+  "name": "Resident Evil 4",
+  "id": "CUSA33388",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B8238F0",
+          "on": "90E9364A93F6",
+          "off": "000000000000"
+        },
+        {
+          "offset": "2158327",
+          "on": "E9C4B56C09",
+          "off": "E8E473D6FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite ammo box/Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B823C00",
+          "on": "C640340C498B4618E964B59FF7",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "321F16A",
+          "on": "E9914A60089090",
+          "off": "894834498B4618"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Knife Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B823CE0",
+          "on": "6641C74730DC054883C408E9A1D733F8",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "3B61489",
+          "on": "E95228CC07909090",
+          "off": "458967304883C408"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B823B90",
+          "on": "41C744244432000000E93B5FCBF8",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "44D9AD4",
+          "on": "E9B7A03407",
+          "off": "4189442444"
+        }
+      ]
+    },
+    {
+      "name": "Max Ptas (on collect)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B823C40",
+          "on": "41C7442410FFE0F505E93E33CCF7",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "34E6F87",
+          "on": "E9B4CC3308",
+          "off": "4189442410"
+        }
+      ]
+    },
+    {
+      "name": "Max Spinel (on get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B823ED0",
+          "on": "440F4FF8C743209F860100E92FD608F8",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "38B1507",
+          "on": "E9C429F707909090",
+          "off": "440F4FF844897B20"
+        }
+      ]
+    },
+    {
+      "name": "Max Score (at shooting range)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B823DF0",
+          "on": "C781DC0000003F420F00E9497DD2F7",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "354BB42",
+          "on": "E9A9822D0890",
+          "off": "0181DC000000"
+        }
+      ]
+    },
+    {
+      "name": "Golden Coin Multiplier",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "50A31CA",
+          "on": "014834",
+          "off": "894834"
+        }
+      ]
+    },
+    {
+      "name": "Max CP (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B823920",
+          "on": "C783A0000000FFE0F505E9559A0BF7",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "28DD37D",
+          "on": "E99E65F4089090",
+          "off": "4489BBA0000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Legend of Heroes Trails of Cold Steel II" Moder="GamerX2 &amp; DanteClaus" Cusa="CUSA12566" Version="01.00" Process="eboot.bin">
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Legend of Heroes Trails of Cold Steel II" Moder="GamerX2 - DanteClaus" Cusa="CUSA12566" Version="01.00" Process="eboot.bin">
   <Genres Name="RPG" />
   <Items />
   <Cheat Text="Infinite CP | In Battle">

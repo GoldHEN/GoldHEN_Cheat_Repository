@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA27305" Game="Demon Slayer Kimetsu no Yaiba The Hinokami Chronicles" Moder="2B" Process="eboot.bin" Version="01.81" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="invinsible">
+</Cheat>
+<Cheat Text="One Hit Kill">
+</Cheat>
+<Cheat Text="Inf Stamina">
+</Cheat>
+<Cheat Text="Inf Boost">
+</Cheat>
+<Cheat Text="Inf Kimetsu Points">
+</Cheat>
+<Cheat Text="Freeze time in battle">
+</Cheat>
+</Trainer>

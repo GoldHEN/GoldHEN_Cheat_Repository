@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Trainer Cusa="CUSA08393" Game="AC: Origins" Moder="Talixme/Weysincha" Process="eboot.bin" Version="01.41" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Cheat Control="Toggel" Text="Godmode">
-
 </Cheat>
 <Cheat Control="Toggel" Text="Infinite Arrows">
-
 </Cheat>
 <Cheat Control="Toggel" Text="21 Skillpoints / Kill">
-
 </Cheat>
 <Cheat Control="Button" Text="Max Money">
-
 </Cheat>
 </Trainer>

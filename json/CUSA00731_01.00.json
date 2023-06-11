@@ -1,0 +1,91 @@
+{
+  "name": "The Legend of Korra",
+  "id": "CUSA00731",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "99BAB0",
+          "on": "80BFDC03000000750B66C787B4060000E703EB068997B4060000E92AB378FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "126DF3",
+          "on": "E9B84C870090",
+          "off": "8997B4060000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Chi (after Charging)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "99B9A0",
+          "on": "C7432C0000C842E92BE570FF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "A9ED2",
+          "on": "E9C91A8F00",
+          "off": "C5FA114B2C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "99BB80",
+          "on": "C7432800003243E9012486FF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "1FDF88",
+          "on": "E9F3DB7900",
+          "off": "C5FA114B28"
+        }
+      ]
+    },
+    {
+      "name": "Max Energy orbs (on collect)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "99BBB0",
+          "on": "C780EC0000007F969800E99BCD88FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "228954",
+          "on": "E95732770090",
+          "off": "8990EC000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "99BA60",
+          "on": "42C7043B20BCBE4CE9810E88FF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "21C8E8",
+          "on": "E973F1770090",
+          "off": "C4A17A11043B"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "WanderFW9.00"
+  ]
+}

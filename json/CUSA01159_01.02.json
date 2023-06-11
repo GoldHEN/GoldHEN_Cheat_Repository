@@ -1,0 +1,91 @@
+{
+  "name": "戦国BASARA4 皇",
+  "id": "CUSA01159",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Gold Won't Decrease",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16BF800",
+          "on": "B89999990990E98CA226FF",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "929A91",
+          "on": "E96A5DD90090",
+          "off": "8988DC000000"
+        }
+      ]
+    },
+    {
+      "name": "special coin x99999",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12BF9E0",
+          "on": "C787E80200003F420F00E9C888D9FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "582B0",
+          "on": "E92B7726019090",
+          "off": "F001B7E8020000"
+        }
+      ]
+    },
+    {
+      "name": "Growth points won't Decrease x10",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12BF800",
+          "on": "B89999990990E9D03024FF",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "5028D4",
+          "on": "E927CFDB009090",
+          "off": "412985B4060000"
+        }
+      ]
+    },
+    {
+      "name": "Weapon points won't Decrease x10",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12BF80D",
+          "on": "B89999090090E9B4172AFF",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "560FC6",
+          "on": "E942E8D50090",
+          "off": "8981E4000000"
+        }
+      ]
+    },
+    {
+      "name": "Weapon rank points won't Decrease",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12BF80D",
+          "on": "B89900000090E98FEE29FF",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "55E6A1",
+          "on": "E96711D60090",
+          "off": "8990E8000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Q8Despair"
+  ]
+}

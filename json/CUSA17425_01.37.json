@@ -1,0 +1,71 @@
+{
+  "name": "Snow Runner",
+  "id": "CUSA17425",
+  "version": "01.37",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Fuel",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2753DB0",
+          "on": "C5FA1088A8060000C5FA1188A0060000C5FA1088A0060000E98E77B5FE526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "12AB553",
+          "on": "E958884A01909090",
+          "off": "C5FA1088A0060000"
+        }
+      ]
+    },
+    {
+      "name": "No Damage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2753DE1",
+          "on": "480F44C3C70000000000E93D4986FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "FB8727",
+          "on": "E9B5B6790190",
+          "off": "480F44C38908"
+        }
+      ]
+    },
+    {
+      "name": "Max Repair Points ( on use )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2753DF0",
+          "on": "418B8EBC06000041898EB8060000E9D9F659FE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "CF34D5",
+          "on": "E91609A6019090",
+          "off": "41898EB8060000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E2D7F5",
+          "on": "9090909090909090",
+          "off": "C5FA118138010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

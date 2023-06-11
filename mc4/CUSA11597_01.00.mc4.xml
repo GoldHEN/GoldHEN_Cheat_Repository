@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA11597" Game="SteamWorld Dig2" Moder="fbin/Celogamez" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Family"/>
+<Items/>
+<Cheat Text="Vida Infinita">
+</Cheat>
+<Cheat Text="Engrenagem Infinita">
+</Cheat>
+<Cheat Text="Bala Infinita">
+</Cheat>
+<Cheat Text="luz Infinita">
+</Cheat>
+<Cheat Text="Dinheiro Infinito">
+</Cheat>
+<Cheat Text="Nivel Maximo">
+</Cheat>
+</Trainer>

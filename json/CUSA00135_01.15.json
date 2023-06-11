@@ -1,0 +1,162 @@
+{
+  "name": "BATMAN™: ARKHAM KNIGHT",
+  "id": "CUSA00135",
+  "version": "01.15",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26EBDB0",
+          "on": "C6825C04000064E95FBDEAFE526564646576696C383220465720392E3030",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "1597B12",
+          "on": "E9994215019090",
+          "off": "83BA5C04000000"
+        }
+      ]
+    },
+    {
+      "name": "Invincible ( No Attacks )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16009EB",
+          "on": "90909090909090",
+          "off": "83BF5C04000000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill ( Disable Max Skillpoints )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26EBE40",
+          "on": "4989442420418B074883F9017505B801000000E925C404FE",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "738275",
+          "on": "E9C63BFB01909090",
+          "off": "4989442420418B07"
+        }
+      ]
+    },
+    {
+      "name": "Max Special Combo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26EBDCE",
+          "on": "41C70600000041C4C17A1006C4C17A1106E9797D04FE",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "733B58",
+          "on": "E97182FB01",
+          "off": "C4C17A1106"
+        }
+      ]
+    },
+    {
+      "name": "Max Skillpoints ( Disable One Hit Kill - on gain / use )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26EBE20",
+          "on": "29C8B83F420F00418907E953C404FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "73827D",
+          "on": "E99E3BFB01",
+          "off": "29C8418907"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health ( Batmobile )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26EBDE4",
+          "on": "458B97600400004589975C040000E966D33AFF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A99156",
+          "on": "E9892CC5009090",
+          "off": "458B975C040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Missiles ( Batmobile )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26EBDF7",
+          "on": "C4C17A1085D41F0000C4C17A1185D01F0000E9209A3EFF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1AD5825",
+          "on": "E9CD65C10090909090",
+          "off": "C4C17A1085D01F0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Afterburner ( Batmobile )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26EBE10",
+          "on": "C4C17A118D68030000E94B463FFF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1AE0460",
+          "on": "E9ABB9C00090909090",
+          "off": "C4C17A118568030000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer [ER - Challenges]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F46234",
+          "on": "90909090",
+          "off": "C5FA1106"
+        }
+      ]
+    },
+    {
+      "name": "Max Score [ER - Challenges] ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26EBE30",
+          "on": "4189CC41C7063F420F00E9FCBA04FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "737935",
+          "on": "E9F644FB0190",
+          "off": "4189CC458926"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

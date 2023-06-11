@@ -1,0 +1,22 @@
+{
+  "name": "KINGDOM HEARTS - HD 1.5+2.5 ReMIX -",
+  "id": "CUSA05786",
+  "version": "01.04",
+  "process": "kingdom1.elf",
+  "mods": [
+    {
+      "name": "Max Money",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "2C1EE0C",
+          "on": "F4230F",
+          "off": "F4230F"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TylerMods"
+  ]
+}

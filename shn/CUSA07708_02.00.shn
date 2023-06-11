@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Monster Hunter World" Moder="TLH" Cusa="CUSA07708" Version="02.00" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Genres Name="Fighting" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinite HP" Description="">
+    <Cheatline>
+      <Offset>2603F64</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-EA-5F-D1</ValueOn>
+      <ValueOff>C5-EA-5D-D1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina" Description="">
+    <Cheatline>
+      <Offset>27B4E5E</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F2-5F-C8</ValueOn>
+      <ValueOff>C5-F2-5D-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items" Description="">
+    <Cheatline>
+      <Offset>1CFFE3A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>7E-29</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1CFFE3C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-01-F3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>27DE28C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

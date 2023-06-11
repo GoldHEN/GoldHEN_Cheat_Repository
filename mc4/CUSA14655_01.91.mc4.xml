@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA14655" Game="DRAGON BALL Z: KAKAROT" Moder="LMN" Process="eboot.bin" Version="01.91" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Caution : i would advise not using XP gain cheat unless you need to (creat a backup save) cz if you level up too high the game becames boring">
+</Cheat>
+<Cheat Text="inf HP">
+</Cheat>
+<Cheat Text="inf ki">
+</Cheat>
+<Cheat Text="inf medals/items">
+</Cheat>
+<Cheat Text="Max money">
+</Cheat>
+<Cheat Text="max ORBs">
+</Cheat>
+<Cheat Text="XP gain x 2">
+</Cheat>
+<Cheat Text="XP gain x 4">
+</Cheat>
+<Cheat Text="XP gain x 8">
+</Cheat>
+<Cheat Text="XP gain x 32">
+</Cheat>
+<Cheat Text="XP gain x 256">
+</Cheat>
+<Cheat Text="player lvl 250 (after 2 battles) = one hit kills = boring and permenent">
+</Cheat>
+</Trainer>

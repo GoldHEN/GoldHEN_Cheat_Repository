@@ -1,22 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA15717" Game="Far Cry 6" Moder="Celogamez" Process="eboot.bin" Version="01.10" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Genres Name="Action"/>
-<Genres Name="Shooter"/>
+<Trainer Cusa="CUSA15717" Game="Far Cry 6" Moder="JustGotenks" Process="eboot.bin" Version="01.10" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
 <Items/>
-<Cheat Text="Infinite Health">
+<Cheat Text="No Damage">
 </Cheat>
-<Cheat Text="Invincibility">
+<Cheat Text="Infinite Sprint/Swim">
 </Cheat>
-<Cheat Text="Infinite Stamina">
+<Cheat Text="Infinite Ammo/Throwables">
 </Cheat>
-<Cheat Text="Infinite Breath (Underwater)">
+<Cheat Text="Max Resource (on get)">
 </Cheat>
-<Cheat Text="Infinite Ammo/Medkits/Throwables">
+<Cheat Text="One-hit Kill">
+</Cheat>
+<Cheat Text="One-hit Kill Animals">
 </Cheat>
 <Cheat Text="No Reload">
 </Cheat>
-<Cheat Text="Max/Infinite Pesos/Materials/Resources/Uranium On Gain">
+<Cheat Text="No Overheat">
 </Cheat>
-<Cheat Text="Max/Infinite Glints/Cash/Respect/Penance On Gain (DLC's)">
+<Cheat Text="No Recoil">
+</Cheat>
+<Cheat Text="Super Accuracy">
+</Cheat>
+<Cheat Text="Super Jump">
+</Cheat>
+<Cheat Text="Teleport to sky">
+</Cheat>
+<Cheat Text="Always Wanted">
+</Cheat>
+<Cheat Text="Never Wanted">
 </Cheat>
 </Trainer>

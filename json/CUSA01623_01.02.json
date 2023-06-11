@@ -5,17 +5,17 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Max/Infinite Health",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "7FC4BE60",
-          "on": "4183BD1C050000007517C4C17A1185CC010000C4C17A1085CC010000E986454080C4C17A1085CC010000E978454080",
+          "offset": "3BFDB0",
+          "on": "4180BD98020000007517C4C17A1085D0010000C4C17A1185CC010000E93606C9FFC4C17A1185CC010000E92806C9FF",
           "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
         },
         {
           "offset": "503FE",
-          "on": "E95DBABF7F90909090",
+          "on": "E9ADF9360090909090",
           "off": "C4C17A1185CC010000"
         }
       ]
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Infinite Red Orbs",
+      "name": "Max/Infinite Red Orbs",
       "type": "checkbox",
       "memory": [
         {
@@ -86,6 +86,6 @@
     }
   ],
   "credits": [
-    "Celogamez_9.00"
+    "Celogamez"
   ]
 }

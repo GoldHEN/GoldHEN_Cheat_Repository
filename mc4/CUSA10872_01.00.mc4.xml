@@ -5,29 +5,19 @@
 <Genres Name="Shooter"/>
 <Items/>
 <StartUP Text="Health Pointer">
-
-
 </StartUP>
 <StartUP Text="Health / 1 Hit Kill">
-
-
 </StartUP>
 <Cheat Description="" Text="Infinite Health">
-
 </Cheat>
 <Cheat Description="" Text="1 Hit Kill">
-
 </Cheat>
 <Cheat Description="" Text="Max Ammo/Items">
-
 </Cheat>
 <Cheat Description="" Text="Bottomless Clip">
-
 </Cheat>
 <Cheat Description="" Text="Easy XP">
-
 </Cheat>
 <Cheat Description="" Text="Easy Challenge">
-
 </Cheat>
 </Trainer>

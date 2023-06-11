@@ -1,0 +1,107 @@
+{
+  "name": "Call of Duty®: Black Ops 4",
+  "id": "CUSA11100",
+  "version": "01.26",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B57DB0",
+          "on": "4983FA077515438B84014C0300004389840148030000E9FE1004FF4389840148030000E9F11004FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B98EC1",
+          "on": "E9EAEEFB00909090",
+          "off": "4389840148030000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B57C00",
+          "on": "B800000000898748030000E98792B1FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1670E91",
+          "on": "E96A6D4E0090",
+          "off": "898748030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B572A0",
+          "on": "90E9F333C3FF",
+          "off": "000000000000"
+        },
+        {
+          "offset": "178A694",
+          "on": "E907CC3C00",
+          "off": "E847C0FFFF"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B57990",
+          "on": "8A8A24130000848A24130000E97236C3FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "178B00D",
+          "on": "E97EC93C0090",
+          "off": "848A24130000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Grenades/Scepter Of Ra (Zombies)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B57800",
+          "on": "41C745180000C842C4C17A104518E9FD5EBBFE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "70D70A",
+          "on": "E9F1A0440190",
+          "off": "C4C17A114518"
+        }
+      ]
+    },
+    {
+      "name": "Max Score (Zombies)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B578E0",
+          "on": "41C7866C4400003F420F00E9E0DC36FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "EC55C9",
+          "on": "E91223C9009090",
+          "off": "4189866C440000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

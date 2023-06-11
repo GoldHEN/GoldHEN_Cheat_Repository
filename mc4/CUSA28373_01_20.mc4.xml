@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA28373" Game="F.I.S.T - Forged In Shadow Torch" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.20" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Invincible">
+</Cheat>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="One Hit Kill">
+</Cheat>
+<Cheat Text="Infinite SP">
+</Cheat>
+<Cheat Text="Infinite EP">
+</Cheat>
+<Cheat Text="Max Money">
+</Cheat>
+<Cheat Text="Max Data Disk">
+</Cheat>
+<Cheat Text="Max Plant Seeds">
+</Cheat>
+<Cheat Text="Multi Jump">
+</Cheat>
+</Trainer>

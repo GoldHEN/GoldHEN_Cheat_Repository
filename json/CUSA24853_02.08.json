@@ -1,0 +1,181 @@
+{
+  "name": "Kena: Bridge of Spirits",
+  "id": "CUSA24853",
+  "version": "02.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit Kill (Master Code/Must Be On)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7BE3DE0",
+          "on": "C5EA5CC04983FB10750CC5FA1107E9FEE42BFA0F57C0C5FA1107E9F2E42BFA",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1EA22E9",
+          "on": "E9F21AD405909090",
+          "off": "C5EA5CC0C5FA1107"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (Enable MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7BE3DEA",
+          "on": "C5FA1007",
+          "off": "C5FA1107"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (Enable MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7BE3DE8",
+          "on": "7509",
+          "off": "750C"
+        }
+      ]
+    },
+    {
+      "name": "Invencibility",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7BE3DB0",
+          "on": "90E917FB32FA",
+          "off": "000000000000"
+        },
+        {
+          "offset": "1F138C7",
+          "on": "E9E404CD0590",
+          "off": "FF90C0080000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Shield",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7BE3BF0",
+          "on": "90E9601646FA",
+          "off": "000000000000"
+        },
+        {
+          "offset": "2045250",
+          "on": "E99BE9B90590",
+          "off": "FF9040040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Infinite Rots/Level On Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7BE3990",
+          "on": "C7872C02000064000000E9887C32FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1F0B621",
+          "on": "E96A83CD0590",
+          "off": "89872C020000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Rots On Use (Disable Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7BE35F0",
+          "on": "C5EA5CC0C70700009643E9F2EC2BFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1EA22E9",
+          "on": "E90213D405909090",
+          "off": "C5EA5CC0C5FA1107"
+        }
+      ]
+    },
+    {
+      "name": "No Wasting Time To Use Rots",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7BE39E0",
+          "on": "C5F82EC1C7000000A040E9B9E42BFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1EA1EA0",
+          "on": "E93B1BD405909090",
+          "off": "C5F82EC1C5FA1100"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Skill Points On Gain/Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7BE38F0",
+          "on": "C5F82EC1C700003C1C46E9A9E52BFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1EA1EA0",
+          "on": "E94B1AD405909090",
+          "off": "C5F82EC1C5FA1100"
+        },
+        {
+          "offset": "7BE3910",
+          "on": "C5EA5CC0C707003C1C46E9D2E92BFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1EA22E9",
+          "on": "E92216D405909090",
+          "off": "C5EA5CC0C5FA1107"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Cristals On Gain/Buy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7BE3780",
+          "on": "4489F8C7033F420F00E9537829FA",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1E7AFDB",
+          "on": "E9A087D60590",
+          "off": "4489F844893B"
+        },
+        {
+          "offset": "7BE37B0",
+          "on": "488D44DF08C7003F420F00E900056AFA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2283CB9",
+          "on": "E9F2FA95059090",
+          "off": "488D44DF088910"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

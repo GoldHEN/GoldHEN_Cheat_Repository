@@ -1,0 +1,332 @@
+{
+  "name": "SONIC FRONTIERS",
+  "id": "CUSA28194",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Rings",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBC40",
+          "on": "448B412444894128448B4928E9761200FF526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "11ECEBF",
+          "on": "E97CEDFF00909090",
+          "off": "448B4124448B4928"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Boost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBC65",
+          "on": "C5FA104338C5FA11433CE95F2800FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "11EE4CE",
+          "on": "E992D7FF00",
+          "off": "C5FA11433C"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBC7A",
+          "on": "66C783D0000000E7030FB793D0000000E95EE50EFE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2DA1E6",
+          "on": "E98F1AF1019090",
+          "off": "0FB793D0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Fishing Attempts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBD43",
+          "on": "C780B8000000E70300000FB798B8000000E920F118FF",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "137AE72",
+          "on": "E9CC0EE7009090",
+          "off": "0FB798B8000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Marks - Fishing Area",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBD59",
+          "on": "6641C785BA000000E703410FB7B5BA000000E9649C11FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "13059CC",
+          "on": "E98863EE00909090",
+          "off": "410FB7B5BA000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold Cards - Fishing Area",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBD70",
+          "on": "6641C785BC000000E703410FB7B5BC000000E9847111FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1302F03",
+          "on": "E9688EEE00909090",
+          "off": "410FB7B5BC000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Vault Keys + Portal Gears ( use it first after Stage 1-2 )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBC90",
+          "on": "42C684300010000063428A9C3000100000E9364BDFFE",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "FE07D4",
+          "on": "E9B7B42001909090",
+          "off": "428A9C3000100000"
+        }
+      ]
+    },
+    {
+      "name": "Max Heart Token",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBD18",
+          "on": "C78060190000E70300008BB060190000E9A68413FF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "13241CD",
+          "on": "E9467BEC0090",
+          "off": "8BB060190000"
+        }
+      ]
+    },
+    {
+      "name": "Max Kocos",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBD2D",
+          "on": "4403A06C190000C7806C190000E7030000E9630DC4FE",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E2CA9F",
+          "on": "E989F23B019090",
+          "off": "4403A06C190000"
+        }
+      ]
+    },
+    {
+      "name": "Max Red Power Seed",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBD87",
+          "on": "C780B0000000E70300008B98B0000000E9FAF218FF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "137B090",
+          "on": "E9F20CE70090",
+          "off": "8B98B0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Blue Power Seed",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBCBB",
+          "on": "C780B4000000E70300008B98B4000000E9EAF418FF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "137B1B4",
+          "on": "E9020BE70090",
+          "off": "8B98B4000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Star Pieces ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBCA6",
+          "on": "C78310010000E70300008B9310010000E9364910FF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "12F05EB",
+          "on": "E9B6B6EF0090",
+          "off": "8B9310010000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Level Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBC74",
+          "on": "90E9FAB918FE",
+          "off": "000000000000"
+        },
+        {
+          "offset": "37766F",
+          "on": "E90046E701",
+          "off": "C5FA114728"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Challenge 1 Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBDD0",
+          "on": "90E9A9B910FE",
+          "off": "000000000000"
+        },
+        {
+          "offset": "2F7777",
+          "on": "E95446EF01909090",
+          "off": "C5FA1183A8000000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Challenge 2 Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBDD6",
+          "on": "90E9269F62FE",
+          "off": "000000000000"
+        },
+        {
+          "offset": "815CF9",
+          "on": "E9D8609D0190909090",
+          "off": "C4C17A118344020000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer ( Training Simulator )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBD9C",
+          "on": "90E9B19A18FE",
+          "off": "000000000000"
+        },
+        {
+          "offset": "37584E",
+          "on": "E94965E701",
+          "off": "C5FA114668"
+        }
+      ]
+    },
+    {
+      "name": "Max Ring Stats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBCD0",
+          "on": "C68082000000638A9882000000E95EC018FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1377D3A",
+          "on": "E9913FE70090",
+          "off": "8A9882000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Attack Stats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBCE2",
+          "on": "C680AC000000638A98AC000000E9EEBD18FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1377ADC",
+          "on": "E90142E70090",
+          "off": "8A98AC000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Shield Stats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBCF4",
+          "on": "C680AD000000638A98AD000000E9E8BE18FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1377BE8",
+          "on": "E90741E70090",
+          "off": "8A98AD000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Speed Stats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21EBD06",
+          "on": "C68083000000638A9883000000E937C218FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1377F49",
+          "on": "E9B83DE70090",
+          "off": "8A9883000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

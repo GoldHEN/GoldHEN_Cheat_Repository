@@ -1,99 +1,165 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-16"?>
 <Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Rage 2" Moder="hejran7" Cusa="CUSA10300" Version="01.07" Process="eboot.bin">
-  <StartUP Text="Inf HP MC" Description="">
+  <Genres Name="Shooter" />
+  <Items />
+  <StartUP Text="HP MC (Must Be On)" description="">
     <Cheatline>
-      <Offset>02C95200</Offset>
+      <Offset>2CA6B9B</Offset>
       <Section>0</Section>
-      <ValueOn>83-BB-F4-02-00-00-11-75-0F-66-89-93-0E-03-00-00-E9-9F-02-06-FF-66-31-D2-66-89-93-0E-03-00-00-E9-90-02-06-FF</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+      <ValueOn>80-BB-D8-00-00-00-DB-75-0C-66-89-93-0E-03-00-00-E9-44-88-05-FF-80-3B-A0-75-0F-66-89-93-0E-03-00-00-E9-33-88-05-FF-66-31-D2-66-89-93-0E-03-00-00-E9-24-88-05-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
-      <Offset>01CF54AD</Offset>
+      <Offset>1CFF3ED</Offset>
       <Section>0</Section>
-      <ValueOn>E9-4E-FD-F9-00-90-90</ValueOn>
+      <ValueOn>E9-A9-77-FA-00-90-90</ValueOn>
       <ValueOff>66-89-93-0E-03-00-00</ValueOff>
     </Cheatline>
   </StartUP>
-  <Cheat Text="Max Inf HP" Description="">
+  <Cheat Text="Max Player HP" Description="">
     <Cheatline>
-      <Offset>02C95209</Offset>
+      <Offset>2CA6BA4</Offset>
       <Section>0</Section>
       <ValueOn>66-89-8B-0E-03-00-00</ValueOn>
       <ValueOff>66-89-93-0E-03-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="One Hit Kill" Description="">
+  <Cheat Text="Easy Kill" Description="">
     <Cheatline>
-      <Offset>02C95207</Offset>
+      <Offset>2CA6BB3</Offset>
       <Section>0</Section>
       <ValueOn>75-0C</ValueOn>
       <ValueOff>75-0F</ValueOff>
     </Cheatline>
   </Cheat>
+  <Cheat Text="Inf Ammo " Description="player and Vehicle">
+    <Cheatline>
+      <Offset>1D3F0E0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>45-89-75-20</ValueOff>
+    </Cheatline>
+  </Cheat>
   <Cheat Text="No Reload" Description="">
     <Cheatline>
-      <Offset>01DE6E60</Offset>
+      <Offset>2CA6BE6</Offset>
       <Section>0</Section>
-      <ValueOn>8B-B7-04-04-00-00-89-B7-00-04-00-00-C3</ValueOn>
-      <ValueOff>89-B7-00-04-00-00-C3-90-90-90-90-90-90</ValueOff>
+      <ValueOn>8B-B7-0C-04-00-00-89-B7-08-04-00-00-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1DF10C0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-21-5B-EB-00-90-90</ValueOn>
+      <ValueOff>89-B7-08-04-00-00-C3</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Inf Ammo cave 1" Description="">
+  <Cheat Text="Instant OverDirve" Description="">
     <Cheatline>
-      <Offset>02C95237</Offset>
+      <Offset>2CA6BF3</Offset>
       <Section>0</Section>
-      <ValueOn>66-81-FC-E0-ED-74-04-45-89-75-20-0F-85-3E-00-0A-FF-E9-29-00-0A-FF</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+      <ValueOn>C7-83-70-0F-00-00-00-00-80-3F-C5-FA-10-83-70-0F-00-00-E9-27-16-6F-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
-      <Offset>01D35270</Offset>
+      <Offset>2398229</Offset>
       <Section>0</Section>
-      <ValueOn>E9-C2-FF-F5-00-90</ValueOn>
-      <ValueOff>45-89-75-20-75-10</ValueOff>
+      <ValueOn>E9-C5-E9-90-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-83-70-0F-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Max Inf Cash cave 3" Description="">
+  <Cheat Text="Inf Shop Items" Description="">
     <Cheatline>
-      <Offset>02C95224</Offset>
+      <Offset>23E8296</Offset>
       <Section>0</Section>
-      <ValueOn>41-89-14-24-C7-41-20-FF-C9-9A-3B-8B-51-20-E9-03-44-0F-FF</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-D9</ValueOff>
     </Cheatline>
     <Cheatline>
-      <Offset>01D89633</Offset>
+      <Offset>2292F80</Offset>
       <Section>0</Section>
-      <ValueOn>E9-EC-BB-F0-00-90-90</ValueOn>
-      <ValueOff>41-89-14-24-8B-51-20</ValueOff>
+      <ValueOn>44-03-48-0C</ValueOn>
+      <ValueOff>44-03-48-08</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2292F87</Offset>
+      <Section>0</Section>
+      <ValueOn>45-89-D1-90</ValueOn>
+      <ValueOff>45-0F-4F-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf Cash" Description="">
+    <Cheatline>
+      <Offset>2CA6C0A</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-BE-A7-66-FF-C7-42-20-FF-C9-9A-3B-8B-42-20-E9-B5-A7-66-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>23113CF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-36-58-99-00</ValueOn>
+      <ValueOff>74-03-8B-42-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Project Points" Description="">
+    <Cheatline>
+      <Offset>2CA6C1F</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-C1-AD-66-FF-C7-41-20-FF-C9-9A-3B-8B-51-20-E9-AD-AD-66-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>23119DC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3E-52-99-00</ValueOn>
+      <ValueOff>74-0E-8B-51-20</ValueOff>
     </Cheatline>
   </Cheat>
   <Cheat Text="Inf Items\Throwables" Description="">
     <Cheatline>
-      <Offset>01D310C4</Offset>
+      <Offset>1D3AEB4</Offset>
       <Section>0</Section>
       <ValueOn>90-90-90-90</ValueOn>
       <ValueOff>44-89-68-20</ValueOff>
     </Cheatline>
   </Cheat>
+  <Cheat Text="Inf Items\Throwables v2" Description="">
+    <Cheatline>
+      <Offset>2CA6C34</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-24-C3-08-FF-C7-42-20-04-00-00-00-8B-42-20-E9-03-C3-08-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1D32F47</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E8-3C-F7-00</ValueOn>
+      <ValueOff>74-1B-8B-42-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Vehicle HP" Description="">
+    <Cheatline>
+      <Offset>2CA6BB5</Offset>
+      <Section>0</Section>
+      <ValueOn>66-89-8B-0E-03-00-00</ValueOn>
+      <ValueOff>66-89-93-0E-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
   <Cheat Text="Vehicle Inf Boost" Description="">
     <Cheatline>
-      <Offset>0245EA82</Offset>
+      <Offset>24A842C</Offset>
       <Section>0</Section>
       <ValueOn>90-90-90-90</ValueOn>
       <ValueOff>C5-FA-5C-C1</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Max Inf Project Points cave 2" Description="">
+  <Cheat Text="Vehicle Gun No Overheat" Description="">
     <Cheatline>
-      <Offset>02C9524D</Offset>
+      <Offset>1E00895</Offset>
       <Section>0</Section>
-      <ValueOn>0F-84-93-80-69-FF-C7-42-20-FF-C9-9A-3B-8B-42-20-E9-81-80-69-FF</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>0232D2DE</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-6A-7F-96-00</ValueOn>
-      <ValueOff>74-0C-8B-42-20</ValueOff>
+      <ValueOn>C5-FA-10-05-77-F7-1F-FE-90</ValueOn>
+      <ValueOff>C4-C1-7A-58-86-28-06-00-00</ValueOff>
     </Cheatline>
   </Cheat>
 </Trainer>

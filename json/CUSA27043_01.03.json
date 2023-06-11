@@ -1,0 +1,155 @@
+{
+  "name": "Dead Island 2",
+  "id": "CUSA27043",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "900D590",
+          "on": "4180BF7001000002750D41C7877801000000803B45EB09C4C17A118778010000E95FEC71F9",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "272C20B",
+          "on": "E980138E0690909090",
+          "off": "C4C17A118778010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "900D510",
+          "on": "C787780B00000000C842E9EBBED5F9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2D69402",
+          "on": "E909412A06909090",
+          "off": "C5FA1187780B0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9008810",
+          "on": "C783140100000000C842E98DA0C0F9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2C128A4",
+          "on": "E9675F3F06909090",
+          "off": "C5FA118314010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9015450",
+          "on": "C687040100001EE99A3ABBF9",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "2BC8EF0",
+          "on": "E95BC5440690",
+          "off": "898704010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Fury",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "900F5F0",
+          "on": "C780800000000000803FE961B8E5F9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2E6AE58",
+          "on": "E993471A06909090",
+          "off": "C5FA118080000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Cash (on get turn off items cheat first)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "900C260",
+          "on": "41C744DC20FFE0F505E95DCCB9FD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "6BA8EC6",
+          "on": "E995334602",
+          "off": "41894CDC20"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience (on 2nd kill)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "900D1E0",
+          "on": "C74078FFC99A3B44037078498B0424E90829E9F9",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2E9FAF4",
+          "on": "E9E7D61606909090",
+          "off": "44037078498B0424"
+        }
+      ]
+    },
+    {
+      "name": "sell 999 items (on the store if items cheat bugged out)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "900D400",
+          "on": "66C783E0090000E703E9ECC407FA",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "30898F4",
+          "on": "E9073BF80590",
+          "off": "898BE0090000"
+        }
+      ]
+    },
+    {
+      "name": "x60 Items (on get turn off the cash cheat and have 2 items)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "900D4A0",
+          "on": "41C644DC203CE920BAB9FD",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "6BA8EC6",
+          "on": "E9D5454602",
+          "off": "41894CDC20"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

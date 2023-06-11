@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA16161" Game="Vanquish" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Stamina">
+</Cheat>
+<Cheat Text="One Hit Kill">
+</Cheat>
+<Cheat Text="Max Ammo ( Weapon right )">
+</Cheat>
+<Cheat Text="Max Ammo ( Weapon up )">
+</Cheat>
+<Cheat Text="Max Ammo ( Weapon down )">
+</Cheat>
+<Cheat Text="Max Grenades">
+</Cheat>
+<Cheat Text="Max EMP Grenades">
+</Cheat>
+<Cheat Text="No Reload">
+</Cheat>
+<Cheat Text="Max Total Score ( after Level finished )">
+</Cheat>
+</Trainer>

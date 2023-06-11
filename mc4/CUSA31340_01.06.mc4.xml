@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA31340" Game="Prodeus" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.06" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Invulnerable">
+</Cheat>
+<Cheat Text="Ignore me ( Enemies won?t attack you )">
+</Cheat>
+<Cheat Text="Infinite Health ( after hit )">
+</Cheat>
+<Cheat Text="Infinite Armor ( after hit )">
+</Cheat>
+<Cheat Text="Infinite Ammo">
+</Cheat>
+<Cheat Text="No Reload">
+</Cheat>
+</Trainer>

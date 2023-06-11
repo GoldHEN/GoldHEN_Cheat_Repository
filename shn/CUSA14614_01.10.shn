@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="dragon ball z kakorot" Moder="Ibraheem" Cusa="CUSA14614" Version="01.10" Process="eboot.bin">
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="dragon ball z kakorot" Moder="ابراهيم" Cusa="CUSA14614" Version="01.10" Process="eboot.bin">
   <Genres Name="Action" />
   <Genres Name="Adventure" />
   <Items />

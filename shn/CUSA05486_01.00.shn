@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Elder Scrolls - V - Skyrim (Special Edition)" Moder="TLH" Cusa="CUSA05486" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Fighting" />
+  <Genres Name="RPG" />
+  <StartUP Text="Health/Magic/Stamina" description="">
+    <Cheatline>
+      <Offset>1C57800</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00-00-00-41-55-49-BD-10-65-2E-09-10-00-00-00-4D-39-EE-41-5D-74-14-48-83-FB-18-74-43-48-83-FB-19-74-51-48-83-FB-1A-74-56-EB-7A-48-83-FB-18-74-0E-48-83-FB-19-74-13-48-83-FB-1A-74-18-EB-66-80-3D-B8-FF-FF-FF-01-74-42-75-5B-80-3D-AE-FF-FF-FF-01-74-37-75-50-80-3D-A4-FF-FF-FF-01-74-2C-75-45-80-3D-9A-FF-FF-FF-02-74-21-80-3D-91-FF-FF-FF-01-74-1E-75-31-80-3D-87-FF-FF-FF-01-74-13-75-26-80-3D-7D-FF-FF-FF-01-74-08-75-1B-C5-F8-57-C0-EB-1A-41-55-49-BD-00-50-C3-C7-00-00-00-00-66-41-0F-6E-C5-41-5D-EB-05-C4-C1-7A-5C-0F-E9-05-CD-AA-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7045B1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-50-32-55-01</ValueOn>
+      <ValueOff>C4-C1-7A-5C-0F</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>1C57800</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Magic" Description="">
+    <Cheatline>
+      <Offset>1C57801</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina" Description="">
+    <Cheatline>
+      <Offset>1C57802</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Enemy Infinite Health" Description="">
+    <Cheatline>
+      <Offset>1C57803</Offset>
+      <Section>0</Section>
+      <ValueOn>02</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kills" Description="">
+    <Cheatline>
+      <Offset>1C57803</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Enemy Magic" Description="">
+    <Cheatline>
+      <Offset>1C57804</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Enemy Stamina" Description="">
+    <Cheatline>
+      <Offset>1C57805</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Stats" Description="">
+    <Cheatline>
+      <Offset>1C578B1</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-04-8E-00-40-1C-46-C5-FA-10-04-8E-E9-D7-26-AD-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>729F94</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-18-D9-52-01</ValueOn>
+      <ValueOff>C5-FA-10-04-8E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Talentpoints" Description="">
+    <Cheatline>
+      <Offset>1C578C2</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-80-11-0A-00-00-FF-0F-B6-98-11-0A-00-00-E9-31-4C-DD-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A2C4FF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BE-B3-22-01-90-90</ValueOn>
+      <ValueOff>0F-B6-98-11-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Legendary" Description="">
+    <Cheatline>
+      <Offset>1C578D5</Offset>
+      <Section>0</Section>
+      <ValueOn>53-BB-FF-00-00-00-89-9C-B0-E0-00-00-00-89-D8-5B-E9-A5-FF-BA-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807888</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-48-00-45-01-90-90</ValueOn>
+      <ValueOff>8B-84-B0-E0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Level" Description="">
+    <Cheatline>
+      <Offset>1C578B1</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-47-10-FF-00-0F-B7-47-10-F6-47-08-80-E9-64-29-48-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DA220</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8C-D6-B7-01-90-90-90</ValueOn>
+      <ValueOff>0F-B7-47-10-F6-47-08-80</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items" Description="">
+    <Cheatline>
+      <Offset>1C578EA</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-9F-86-01-00-41-89-46-10-44-29-E8-E9-E2-C8-4E-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1441D6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0F-37-B1-01-90-90</ValueOn>
+      <ValueOff>41-8B-46-10-44-29-E8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items" Description="">
+    <Cheatline>
+      <Offset>13CFBF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-29-46-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items on Move" Description="">
+    <Cheatline>
+      <Offset>1C578FB</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-9F-86-01-00-41-89-44-24-10-E9-44-24-4E-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>139D49</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AD-DB-B1-01</ValueOn>
+      <ValueOff>41-89-44-24-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

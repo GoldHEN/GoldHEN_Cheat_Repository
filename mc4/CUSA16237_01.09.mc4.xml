@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA16237" Game="Streets Of Rage 4" Moder="Celogamez" Process="eboot.bin" Version="01.09" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Arcade"/>
+<Genres Name="Fighting"/>
+<Items/>
+<Cheat Text="Max/Infinite Health/Special Attack/1 Hit Kill (Master Code)">
+</Cheat>
+<Cheat Text="1 Hit Kill (Enable MC)">
+</Cheat>
+<Cheat Text="Max/Infinite Lives">
+</Cheat>
+<Cheat Text="Max/Infinite Stars">
+</Cheat>
+<Cheat Text="Max Score On Gain">
+</Cheat>
+</Trainer>

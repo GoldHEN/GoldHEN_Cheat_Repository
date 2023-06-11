@@ -1,0 +1,203 @@
+{
+  "name": "Wo Long: Fallen Dynasty",
+  "id": "CUSA36986",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/Invisible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32EE170",
+          "on": "4180BF1403000002750A41C7471000C07944EB06C4C17C114710E9FFA921FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "508B88",
+          "on": "E9E355DE0290",
+          "off": "C4C17C114710"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Buff duration ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3357AA0",
+          "on": "41C787880000000000FA44E9628812FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "480309",
+          "on": "E99277ED0290909090",
+          "off": "C4C17A118788000000"
+        }
+      ]
+    },
+    {
+      "name": "NoStun/infinite spell(reach max lvl in morals and character)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32EF930",
+          "on": "0F8422F320FDC74010689C2F4D8B4810E910F320FD",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4FEC50",
+          "on": "E9DB0CDF02",
+          "off": "740C8B4810"
+        }
+      ]
+    },
+    {
+      "name": "Max Morals (on losing 1 moral)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32E82F0",
+          "on": "41C744241040787D01E9F36E1FFD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "4DF1EC",
+          "on": "E9FF90E002",
+          "off": "41894C2410"
+        }
+      ]
+    },
+    {
+      "name": "Max Accolades (on buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3357870",
+          "on": "0F42CFC7400CFFC99A3BE9EC74D7FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "10CED65",
+          "on": "E9068B280290",
+          "off": "0F42CF89480C"
+        }
+      ]
+    },
+    {
+      "name": "99 Dragon cure potion(on use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3357A20",
+          "on": "C680ADA6000063E9824AD7FD",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "10CC4A8",
+          "on": "E973B5280290",
+          "off": "8888ADA60000"
+        }
+      ]
+    },
+    {
+      "name": "Max Genuine Qi (on get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3357980",
+          "on": "0F42D1C7007F969800E933E1D6FD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "10C5ABC",
+          "on": "E9BF1E2902",
+          "off": "0F42D18910"
+        }
+      ]
+    },
+    {
+      "name": "Max Coppers (on get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32EB210",
+          "on": "0F42CFC74008FFC99A3BE9A93ADEFD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "10CECC2",
+          "on": "E949C5210290",
+          "off": "0F42CF894808"
+        }
+      ]
+    },
+    {
+      "name": "99 Wizardy spell (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "331E990",
+          "on": "C68481D401000063E9BC9ADAFD",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "10C8452",
+          "on": "E9396525029090",
+          "off": "89B481D4010000"
+        }
+      ]
+    },
+    {
+      "name": "99 Throwables/items (on use/spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3357A50",
+          "on": "C647086389F0E9609D9FFD",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "D517B6",
+          "on": "E995626002",
+          "off": "29770889F0"
+        }
+      ]
+    },
+    {
+      "name": "Instant Beast power charge (after1 hit done to enemies)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3357B40",
+          "on": "41C744245000007A44E926341BFD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "50AF6D",
+          "on": "E9CECBE4029090",
+          "off": "C4C17811442450"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Tiger Beast duration",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32E3E30",
+          "on": "C741700F2700008B4970394B38E91048E8FD",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "116864C",
+          "on": "E9DFB7170290",
+          "off": "8B4970394B38"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "wander FW9.00"
+  ]
+}

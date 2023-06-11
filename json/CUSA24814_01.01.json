@@ -1,0 +1,59 @@
+{
+  "name": "BALAN WONDERWORLD",
+  "id": "CUSA24814",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Crystals (while on Act)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "954ADC0",
+          "on": "4080FE04C704889F860100E9D1A80FF857616E646572204657392E3030",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "164569A",
+          "on": "E92157F0079090",
+          "off": "4080FE04893C88"
+        }
+      ]
+    },
+    {
+      "name": "Max Crystals (on gather after throwing them at feeding ground)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "954AE00",
+          "on": "89F2C704919F860100E920630BF857616E646572204657392E3030",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1601129",
+          "on": "E9D29CF407",
+          "off": "89F2890491"
+        }
+      ]
+    },
+    {
+      "name": "Max Keys (in level after gaining a  key)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "954AE40",
+          "on": "66C78714030000E703E95AA90FF8",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "16457A1",
+          "on": "E99A56F0079090",
+          "off": "66898F14030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

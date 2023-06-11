@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mad Max" Moder="hejran7" Cusa="CUSA00103" Version="01.04" Process="eboot.bin">
   <Genres Name="Action" />
-  <Genres Name="Adventure" />
-  <StartUP Text="Master Code 1">
+  <Items />
+  <StartUP Text="Master Code 1 (Must Be On)" description="">
     <Cheatline>
-      <Offset>01353874</Offset>
+      <Offset>1353874</Offset>
       <Section>0</Section>
-      <ValueOn>C4-C1-7A-11-4C-CA-0C-48-83-FA-08-75-09-C4-C1-7A-11-4C-CA-0C-90-90-48-83-FA-04-75-09-C4-C1-7A-11-4C-CA-0C-90-90-48-83-FA-44-0F-85-C4-00-0A-FF-C4-C1-7A-11-4C-CA-0C-90-90-E9-B6-00-0A-FF</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+      <ValueOn>48-81-FB-80-47-69-05-75-06-0F-48-C1-89-47-04-48-81-FB-70-75-69-05-0F-85-35-1B-71-FB-0F-48-C1-89-47-04-E9-2A-1B-71-FB-0F-48-C1-C7-47-04-00-00-00-00-E9-1B-1B-71-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
       <Offset>3F3960</Offset>
@@ -16,9 +16,9 @@
       <ValueOff>C4-C1-7A-11-4C-CA-0C</ValueOff>
     </Cheatline>
   </StartUP>
-  <StartUP Text="Master Code 2">
+  <StartUP Text="Master Code 2 (Must Be On)" description="">
     <Cheatline>
-      <Offset>0135394E</Offset>
+      <Offset>135394E</Offset>
       <Section>0</Section>
       <ValueOn>8D-50-01-89-11-41-54-49-BC-88-83-40-00-08-00-00-00-4D-8B-24-24-41-81-FC-04-01-00-00-75-0E-44-89-25-8D-06-8B-FE-41-5C-E9-50-D5-73-FF-41-81-FC-04-02-00-00-75-07-44-89-25-76-06-8B-FE-41-5C-E9-39-D5-73-FF</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
@@ -40,7 +40,7 @@
   </Cheat>
   <Cheat Text="Max Fury R3+L2 On R3+R2 Off" Description="">
     <Cheatline>
-      <Offset>01353922</Offset>
+      <Offset>1353922</Offset>
       <Section>0</Section>
       <ValueOn>41-89-44-0D-00-48-83-F9-70-0F-85-31-29-39-FF-66-81-3D-C6-06-8B-FE-04-01-0F-85-22-29-39-FF-41-C7-44-0D-00-00-80-3B-44-E9-14-29-39-FF</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
@@ -54,7 +54,7 @@
   </Cheat>
   <Cheat Text="Max Inf Fury" Description="">
     <Cheatline>
-      <Offset>01353832</Offset>
+      <Offset>1353832</Offset>
       <Section>0</Section>
       <ValueOn>48-83-F9-70-75-0E-41-C7-44-0D-00-00-80-3B-44-E9-1C-2A-39-FF-41-89-44-0D-00-E9-12-2A-39-FF</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
@@ -68,7 +68,7 @@
   </Cheat>
   <Cheat Text="Max Inf Ammo" Description="">
     <Cheatline>
-      <Offset>01353850</Offset>
+      <Offset>1353850</Offset>
       <Section>0</Section>
       <ValueOn>89-D1-41-B9-63-00-00-00-44-89-C9-E9-E8-99-22-FF</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
@@ -92,7 +92,7 @@
       <ValueOff>74-08</ValueOff>
     </Cheatline>
     <Cheatline>
-      <Offset>01353860</Offset>
+      <Offset>1353860</Offset>
       <Section>0</Section>
       <ValueOn>89-CE-B8-63-00-00-00-89-C6-0F-8D-5A-FF-3A-FF-E9-4B-FF-3A-FF</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
@@ -120,7 +120,7 @@
   </Cheat>
   <Cheat Text="Max Inf Canteen" Description="">
     <Cheatline>
-      <Offset>01353881</Offset>
+      <Offset>1353881</Offset>
       <Section>0</Section>
       <ValueOn>41-C7-44-CA-0C-00-00-7A-44</ValueOn>
       <ValueOff>C4-C1-7A-11-4C-CA-0C-90-90</ValueOff>
@@ -128,7 +128,7 @@
   </Cheat>
   <Cheat Text="Max Inf Fuel" Description="">
     <Cheatline>
-      <Offset>01353890</Offset>
+      <Offset>1353890</Offset>
       <Section>0</Section>
       <ValueOn>41-C7-44-CA-0C-00-00-48-42</ValueOn>
       <ValueOff>C4-C1-7A-11-4C-CA-0C-90-90</ValueOff>
@@ -136,7 +136,7 @@
   </Cheat>
   <Cheat Text="Max Inf Scraps" Description="">
     <Cheatline>
-      <Offset>013538A3</Offset>
+      <Offset>13538A3</Offset>
       <Section>0</Section>
       <ValueOn>41-C7-44-CA-0C-F0-23-74-49</ValueOn>
       <ValueOff>C4-C1-7A-11-4C-CA-0C-90-90</ValueOff>
@@ -144,7 +144,7 @@
   </Cheat>
   <Cheat Text="Inf Car Health" Description="">
     <Cheatline>
-      <Offset>013538B1</Offset>
+      <Offset>13538B1</Offset>
       <Section>0</Section>
       <ValueOn>81-FB-50-98-FF-EE-0F-84-1A-27-3F-FF-C4-C1-7A-11-06-E9-10-27-3F-FF</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
@@ -158,7 +158,7 @@
   </Cheat>
   <Cheat Text="Inf Griffa Tokens x1" Description="">
     <Cheatline>
-      <Offset>013538C7</Offset>
+      <Offset>13538C7</Offset>
       <Section>0</Section>
       <ValueOn>C6-87-28-01-00-00-01-E9-73-7E-2F-FF</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
@@ -172,7 +172,7 @@
   </Cheat>
   <Cheat Text="Inf Griffa Tokens x5" Description="">
     <Cheatline>
-      <Offset>013538D3</Offset>
+      <Offset>13538D3</Offset>
       <Section>0</Section>
       <ValueOn>C6-87-28-01-00-00-05-E9-67-7E-2F-FF</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA08014" Game="Knack 2" Moder="Saso_9.00" Process="game.elf" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Inf Health / Relic Energy (Master Code)">
+</Cheat>
+<Cheat Text="Inf Relic Energy On Spend (MC)">
+</Cheat>
+<Cheat Text="Inf Super Crystal Gauge">
+</Cheat>
+</Trainer>

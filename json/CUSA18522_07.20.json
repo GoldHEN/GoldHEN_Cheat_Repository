@@ -1,0 +1,149 @@
+{
+  "name": "Assassin's Creed® Valhalla",
+  "id": "CUSA18522",
+  "version": "07.20",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "62BBE60",
+          "on": "C7873801000054010000E9CB9832FC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "25E5734",
+          "on": "E92767CD0390",
+          "off": "899738010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "62BBAF0",
+          "on": "C5FA10570CE9613A7DFC",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "2A8F556",
+          "on": "E995C58203",
+          "off": "C5FA11570C"
+        },
+        {
+          "offset": "62BBA10",
+          "on": "C5FA10470CE9173C7DFC",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "2A8F62C",
+          "on": "E9DFC38203",
+          "off": "C5FA11470C"
+        }
+      ]
+    },
+    {
+      "name": "Horse Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "62BBB90",
+          "on": "C4C17A10470CE9B7487DFC",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "2A9044C",
+          "on": "E93FB7820390",
+          "off": "C4C17A11470C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Breath (Underwater)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "62BBC40",
+          "on": "C5FA108084060000E9F85748FE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "474143D",
+          "on": "E9FEA7B701909090",
+          "off": "C5FA118084060000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Resources/Consumables//Arrows/Money(On Use/Buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "62BBDB0",
+          "on": "0F42C141C704247F969800E9C4A38BFC",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2B7617D",
+          "on": "E92E5C74039090",
+          "off": "0F42C141890424"
+        }
+      ]
+    },
+    {
+      "name": "Instant Max/Infinite Adrenaline On Use/Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "62BBDE0",
+          "on": "41C78740010000F4010000E9DAF331FC",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "25DB1C3",
+          "on": "E9180CCE039090",
+          "off": "41899F40010000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Skill Points On Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "62BBF00",
+          "on": "410F47DDC74110E7030000E94EF374FC",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2A0B257",
+          "on": "E9A40C8B039090",
+          "off": "410F47DD895910"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Mastery Points On Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "62BB900",
+          "on": "410F47DDC741183E000000E902F974FC",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2A0B20B",
+          "on": "E9F0068B039090",
+          "off": "410F47DD895918"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

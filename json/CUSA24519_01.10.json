@@ -1,0 +1,76 @@
+{
+  "name": "Legend of Mana",
+  "id": "CUSA24519",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Lucre",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "41FDB0",
+          "on": "4C89C3C7414C3F420F008B794CE92460CFFF526564646576696C3832202D20465720392E3030",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "115DE0",
+          "on": "E9CB9F300090",
+          "off": "4C89C38B794C"
+        }
+      ]
+    },
+    {
+      "name": "Max Items ( after buy )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "41FDD6",
+          "on": "C68401E035000063E95E27D3FF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "152539",
+          "on": "E998D82C00909090",
+          "off": "4088B401E0350000"
+        }
+      ]
+    },
+    {
+      "name": "Max Character Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "41FDE3",
+          "on": "C6840850060000630FB6BC0850060000E9BD5ECFFF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "115CAD",
+          "on": "E931A13000909090",
+          "off": "0FB6BC0850060000"
+        }
+      ]
+    },
+    {
+      "name": "Max HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "41FDF8",
+          "on": "66C78408540600000F270FB7BC0854060000E9AA63CFFF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1161B1",
+          "on": "E9429C3000909090",
+          "off": "0FB7BC0854060000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

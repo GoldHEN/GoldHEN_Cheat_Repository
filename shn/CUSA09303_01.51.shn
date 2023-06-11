@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassins Creed - Odyssey" Moder="TLH" Cusa="CUSA09303" Version="01.51" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Fighting" />
+  <Items />
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>3A6423F</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C1-90</ValueOn>
+      <ValueOff>0F-4E-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Adrenaline" Description="">
+    <Cheatline>
+      <Offset>3A4EA00</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C3-90</ValueOn>
+      <ValueOff>0F-42-D8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ability Points" Description="">
+    <Cheatline>
+      <Offset>3DEF116</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-01-47-14</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3DEE225</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>EB-03</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3DDEBD3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>2B-48-14</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5EDA899</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>2B-41-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="99 Ability Points on Get" Description="">
+    <Cheatline>
+      <Offset>3E98102</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-63-00-00-00-90-90-90-90</ValueOn>
+      <ValueOff>8B-88-0C-06-00-00-44-01-E1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Kills" Description="">
+    <Cheatline>
+      <Offset>3A3BF10</Offset>
+      <Section>0</Section>
+      <ValueOn>31-C0-90-90-90-90</ValueOn>
+      <ValueOff>8B-87-58-FF-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Breath" Description="">
+    <Cheatline>
+      <Offset>6B66116</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-28-C1</ValueOn>
+      <ValueOff>C5-F2-5C-C0</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6B76E6E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-5C-81-80-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Breath" Description="">
+    <Cheatline>
+      <Offset>6B6610E</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-88-EC-05-00-00</ValueOn>
+      <ValueOff>C5-FA-10-88-F0-05-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6B76E66</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-80-EC-05-00-00</ValueOn>
+      <ValueOff>C5-FA-10-80-F0-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Hunter: High Damage" Description="">
+    <Cheatline>
+      <Offset>485C6BD</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-7F-96-98-00</ValueOn>
+      <ValueOff>C4-E1-FA-2C-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Assassin: High Damage" Description="">
+    <Cheatline>
+      <Offset>485C858</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-7F-96-98-00</ValueOn>
+      <ValueOff>C4-E1-FA-2C-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Warrior: High Damage" Description="">
+    <Cheatline>
+      <Offset>485CB69</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-7F-96-98-00</ValueOn>
+      <ValueOff>C4-E1-FA-2C-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money/Resources" Description="">
+    <Cheatline>
+      <Offset>429DB21</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money/Resources" Description="">
+    <Cheatline>
+      <Offset>42980B1</Offset>
+      <Section>0</Section>
+      <ValueOn>89-CA-90</ValueOn>
+      <ValueOff>0F-47-D1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ship-Stamina/Adrenaline__" Description="">
+    <Cheatline>
+      <Offset>5DAED87</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-43-50-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-46-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Max Level" Description="">
+    <Cheatline>
+      <Offset>87FB800</Offset>
+      <Section>0</Section>
+      <ValueOn>44-8B-24-0A-41-FF-C4-44-39-24-0A-E9-8B-EA-0A-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>48AA295</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-66-15-F5-03-90</ValueOn>
+      <ValueOff>44-39-24-0A-77-17</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>48AA2C8</Offset>
+      <Section>0</Section>
+      <ValueOn>44-89-E7-90</ValueOn>
+      <ValueOff>42-8D-3C-3E</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

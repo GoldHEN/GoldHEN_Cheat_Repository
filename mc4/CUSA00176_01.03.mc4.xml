@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Trainer Cusa="CUSA00176" Game="Dead Nations" Moder="Vampirexx" Process="eboot.bin" Version="01.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Cheat Control="Toggel" Text="Inf Health">
-
-
 </Cheat>
 <Cheat Control="Toggel" Text="Infinite Ammo">
-
-
 </Cheat>
 <Cheat Control="Toggel" Text="Inf. Flares/Grenades/Molotovs/Mines">
-
 </Cheat>
 <Cheat Control="Toggel" Text="Infinite Money">
-
-
-
 </Cheat>
 <Cheat Control="Toggel" Text="Infinite Stamina">
-
 </Cheat>
 </Trainer>

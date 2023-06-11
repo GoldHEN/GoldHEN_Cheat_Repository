@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 2" Moder="TLH, hejran7, KevinTamvan" Cusa="CUSA09171" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Fighting" />
+  <Genres Name="Shooter" />
+  <Items />
+  <StartUP Text="SpeedHack Code" description="">
+    <Cheatline>
+      <Offset>7E2B825</Offset>
+      <Section>0</Section>
+      <ValueOn>00-80-78-08-01-75-19-80-3D-F2-FF-FF-FF-01-74-09-C7-40-1C-00-00-80-3F-EB-07-C7-40-1C-00-00-40-40-C5-FA-10-40-1C-E9-99-BD-4F-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>13275E3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3E-42-B0-06</ValueOn>
+      <ValueOff>C5-FA-10-40-1C</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>1D62385</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-F9</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1D5E53D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>74-0D</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kills" Description="">
+    <Cheatline>
+      <Offset>315214D</Offset>
+      <Section>0</Section>
+      <ValueOn>31-D2</ValueOn>
+      <ValueOff>29-F2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bottomless Clip" Description="">
+    <Cheatline>
+      <Offset>2FBB459</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-F2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Clip Ammo" Description="">
+    <Cheatline>
+      <Offset>2FBB461</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C2-90</ValueOn>
+      <ValueOff>0F-4E-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>1115663</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>2B-95-70-FF-FF-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>111566B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-01-F2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ammo on Reload" Description="">
+    <Cheatline>
+      <Offset>1115670</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C2-90</ValueOn>
+      <ValueOff>0F-4E-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items on Move (Storage)" Description="">
+    <Cheatline>
+      <Offset>EA6479</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>29-48-20</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>EA695D</Offset>
+      <Section>0</Section>
+      <ValueOn>44-89-70-20</ValueOn>
+      <ValueOff>44-29-78-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items on Combine/Get" Description="">
+    <Cheatline>
+      <Offset>1115373</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-C6-90</ValueOn>
+      <ValueOff>44-0F-4E-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items on Get" Description="">
+    <Cheatline>
+      <Offset>2FBBB39</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-C5-90</ValueOn>
+      <ValueOff>44-0F-4E-E8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items" Description="">
+    <Cheatline>
+      <Offset>2FBB2AB</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-20-54-33-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items (Dupe into Storage)" Description="">
+    <Cheatline>
+      <Offset>6064A1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-F8-11-40-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Items swap 1st Aid Spray on Get or Move" Description="">
+    <Cheatline>
+      <Offset>7E2B800</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-A4-03-19-FB-B8-01-00-00-00-89-41-10-E9-FC-02-19-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2FBBB06</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F5-FC-E6-04-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-A4-00-00-00-89-41-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Short Animationtime for Aiming" Description="">
+    <Cheatline>
+      <Offset>1B06F5B</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C0-90</ValueOn>
+      <ValueOff>C5-FA-5C-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Gun-Focus" Description="">
+    <Cheatline>
+      <Offset>F0BA19</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-EB-59-C9</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F0BA1D</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-28-C1</ValueOn>
+      <ValueOff>C5-F3-58-C0</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>EE8880</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-5F-05-B8-73-9F-04</ValueOn>
+      <ValueOff>C5-FA-5D-05-B8-73-9F-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Zombies Can't Grab Player">
+    <Cheatline>
+      <Offset>3151ED7</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-48-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="20 Inventory Slots" Description="">
+    <Cheatline>
+      <Offset>7E2B813</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BC-14-00-00-00-44-89-A0-90-00-00-00-E9-28-89-06-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E94146</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C8-76-F9-06-90-90</ValueOn>
+      <ValueOff>44-8B-A0-90-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Speed Hack" Description="">
+    <Cheatline>
+      <Offset>7E2B825</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

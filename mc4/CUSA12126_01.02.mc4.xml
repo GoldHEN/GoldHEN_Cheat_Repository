@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA12126" Game="Little Dragons Cafe" Moder="Molly" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Simulation"/>
+<Items/>
+<Cheat Text="Unlock All Ingredients">
+</Cheat>
+<Cheat Text="Dragons Hp">
+</Cheat>
+<Cheat Text="Char Walk Speed x2">
+</Cheat>
+<Cheat Text="High Jump">
+</Cheat>
+<Cheat Text="Super Jump">
+</Cheat>
+<Cheat Text="Dragon Walk Speed X2">
+</Cheat>
+<Cheat Text="Infinite Dragon Manure">
+</Cheat>
+</Trainer>

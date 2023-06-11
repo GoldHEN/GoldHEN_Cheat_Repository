@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA27730" Game="Soul Hackers 2" Moder="Wander FW9.00" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite MP">
+</Cheat>
+<Cheat Text="Max Experience (Summoners)">
+</Cheat>
+<Cheat Text="Fast Level up (Demons)">
+</Cheat>
+<Cheat Text="Max Yen (on gain)">
+</Cheat>
+<Cheat Text="Max items (On use)">
+</Cheat>
+</Trainer>

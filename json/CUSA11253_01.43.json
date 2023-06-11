@@ -1,0 +1,144 @@
+{
+  "name": "Dead Cells",
+  "id": "CUSA11253",
+  "version": "01.43",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health/1 Hit Kill (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1767E70",
+          "on": "41807C246000751741898424640100004189842464010000E9949093FE31C04189842464010000E9859093FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A0F19",
+          "on": "E9526F6C01909090",
+          "off": "4189842464010000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Health (Need MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1767E78",
+          "on": "418B84246C010000",
+          "off": "4189842464010000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill Need MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1767E76",
+          "on": "7515",
+          "off": "7517"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Arrows",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3ED634",
+          "on": "448B6B30",
+          "off": "44896B30"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1767EB0",
+          "on": "BE40420F00897048E947B5BCFE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "3333FF",
+          "on": "E9AC4A4301",
+          "off": "01DE897048"
+        },
+        {
+          "offset": "1767F50",
+          "on": "29DEC7404840420F00E969BBBCFE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "333AC2",
+          "on": "E989444301",
+          "off": "29DE897048"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Cells",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1767ED0",
+          "on": "41C78424AC04000040420F00E99AC7BCFE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "334673",
+          "on": "E958384301909090",
+          "off": "4189B424AC040000"
+        },
+        {
+          "offset": "1767F96",
+          "on": "41C786AC04000040420F00E93FC8BCFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "3347DE",
+          "on": "E9B33743019090",
+          "off": "4189B6AC040000"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown Ability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1767F90",
+          "on": "90E953579AFE",
+          "off": "000000000000"
+        },
+        {
+          "offset": "10D6E2",
+          "on": "E9A9A865019090",
+          "off": "488983A0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jumps",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1767F30",
+          "on": "90E999FCC0FE",
+          "off": "000000000000"
+        },
+        {
+          "offset": "377BC8",
+          "on": "E963033F019090",
+          "off": "41FF8780030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

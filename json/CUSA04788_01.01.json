@@ -1,0 +1,108 @@
+{
+  "name": "Marvel Ultimate Alliance 2",
+  "id": "CUSA04788",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F0B887",
+          "on": "837B2801741F837B28027419837B28037413837B2804740DC5FA108328060000E97B4DACFFC5FA108330060000C5FA118328060000C5FA108328060000E95E4DACFF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "9D061F",
+          "on": "E963B25300909090",
+          "off": "C5FA108328060000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F0B800",
+          "on": "C5FA108340060000C5FA118338060000C5FA108B38060000E959C08CFF526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7D786E",
+          "on": "E98D3F7300909090",
+          "off": "C5FA108B38060000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Fusion",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F0B833",
+          "on": "488B4110C74038640000003B5838E9EE7954FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "45322D",
+          "on": "E90186AB009090",
+          "off": "488B41103B5838"
+        }
+      ]
+    },
+    {
+      "name": "Max Power Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F0B848",
+          "on": "6641C745080F27490FBF7508E9AED253FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "448B02",
+          "on": "E9412DAC00",
+          "off": "490FBF7508"
+        }
+      ]
+    },
+    {
+      "name": "Max Ability Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F0B85B",
+          "on": "E8C05B1BFF41C7460C3F420F004963760CE9ABD553FF",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "448E17",
+          "on": "E93F2AAC00",
+          "off": "E80486C7FF"
+        }
+      ]
+    },
+    {
+      "name": "Max XP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F0B873",
+          "on": "C5FC114740C3C7472021CF5500E93B1EC0FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B0D6BA",
+          "on": "E9B4E13F00",
+          "off": "C5FC114740"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

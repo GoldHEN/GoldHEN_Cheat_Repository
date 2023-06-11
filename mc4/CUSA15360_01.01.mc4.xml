@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="15360" Game="Yakuza III Remastered" Moder="IMnoob" Process="eboot.bin" Version="1.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Max money on Buy">
+</Cheat>
+<Cheat Text="Infinite Experience ">
+</Cheat>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Heats">
+</Cheat>
+<Cheat Text="1 HIT KILL">
+</Cheat>
+</Trainer>

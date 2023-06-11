@@ -1,11 +1,11 @@
 {
-  "name": "Nux",
+  "name": "SCARLET NEXUS",
   "id": "CUSA25132",
   "version": "01.05",
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "999999 Fund",
+      "name": "999999 Funds",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "inf Items  use In Battle",
+      "name": "Infinite Items (Use in Battle)",
       "type": "checkbox",
       "memory": [
         {
@@ -60,6 +60,6 @@
     }
   ],
   "credits": [
-    "any"
+    "EvilGoku"
   ]
 }

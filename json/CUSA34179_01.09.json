@@ -1,0 +1,139 @@
+{
+  "name": "WWE2K23",
+  "id": "CUSA34179",
+  "version": "01.09",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP (CHEATS DON'T WORK ON MY RISE MODE BUT LAST ONE)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "397B800",
+          "on": "83BB0C0C0000157504F30F10DAC5FA115B10E9F50F70FD",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "107C807",
+          "on": "E9F4EF8F02",
+          "off": "C5FA115B10"
+        }
+      ]
+    },
+    {
+      "name": "Inf Recovery Bar (On Gain, the bar is invisible, restart match to make it appear otherwise ignore)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "397B819",
+          "on": "4181BFC40400000000A7087504F30F10DAC4C17A115F20E9D8F86FFD",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "107B107",
+          "on": "E90D07900290",
+          "off": "C4C17A115F20"
+        }
+      ]
+    },
+    {
+      "name": "Inf Finisher (On Gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "397B888",
+          "on": "4183BF1C0B00001C7504F30F10D3C4C17A115710E9C3A16FFD",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1075A5E",
+          "on": "E9255E900290",
+          "off": "C4C17A115710"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "397B852",
+          "on": "4183BECC0A00001C7504F30F10C3C4C17A114618E9B9B073FD",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "10B691E",
+          "on": "E92F4F8C0290",
+          "off": "C4C17A114618"
+        }
+      ]
+    },
+    {
+      "name": "No Stun (On Gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "397B86D",
+          "on": "81BBC80A00000100A70075030F57DBC5FA115B44E98120C9FD",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "160D902",
+          "on": "E966DF3602",
+          "off": "C5FA115B44"
+        }
+      ]
+    },
+    {
+      "name": "Inf Out of Ring Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "397B8A3",
+          "on": "41C78424B801000000000000E95C81DEFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1763A08",
+          "on": "E9967E2102909090",
+          "off": "41899C24B8010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Pin Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "397B8B6",
+          "on": "C780B801000001000000E96659DEFD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1761225",
+          "on": "E98CA6210290",
+          "off": "8990B8010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Superstar Attribute Points (On Use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "397B8C7",
+          "on": "C783F80500000F270000E92BE67CFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2149EFB",
+          "on": "E9C719830190",
+          "off": "89B3F8050000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DJFlameDat"
+  ]
+}

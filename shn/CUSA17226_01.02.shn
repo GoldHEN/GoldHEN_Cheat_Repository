@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="ONE PIECE PIRATE WARRIORS 4 " Moder="Ibraheem" Cusa="CUSA17226" Version="01.02" Process="eboot.bin">
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="ONE PIECE PIRATE WARRIORS 4 " Moder="أبراهيم " Cusa="CUSA17226" Version="01.02" Process="eboot.bin">
   <Genres Name="Action" />
   <Items />
   <Cheat Text="max inf skills charge">

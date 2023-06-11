@@ -1,0 +1,27 @@
+{
+  "name": "Aven Colony",
+  "id": "CUSA08055",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinito Água/Comidas/Nanitas Ao Gastar",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "50AFDB0",
+          "on": "C7840764040000F0237449E9613C1EFB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "293A18",
+          "on": "E993C3E10490909090",
+          "off": "C5FA11840764040000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

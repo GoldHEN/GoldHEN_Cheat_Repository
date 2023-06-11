@@ -1,0 +1,44 @@
+{
+  "name": "LEGO® Jurassic World™",
+  "id": "CUSA01519",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Hearts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DBBDB0",
+          "on": "41C6852908000004410FBE8529080000E9CB620FFF526564646576696C3832202D20465720392E3030",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "EB2088",
+          "on": "E9239DF000909090",
+          "off": "410FBE8529080000"
+        }
+      ]
+    },
+    {
+      "name": "Max Studs ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DBBDD9",
+          "on": "49BEFFE30B54020000004C897330E969BD75FE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "517B4D",
+          "on": "E987428A01909090",
+          "off": "4C8973304C897328"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

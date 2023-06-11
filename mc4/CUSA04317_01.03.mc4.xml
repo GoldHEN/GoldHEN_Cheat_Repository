@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA04317" Game="ELEX" Moder="GamerX2" Process="eboot.bin" Version="01.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Infinite Items">
+</Cheat>
+<Cheat Text="Use Attribute/Learning Point for Max Skill and Ability">
+</Cheat>
+<Cheat Text="Max Items and Money On Use/Sell/Buy">
+</Cheat>
+</Trainer>

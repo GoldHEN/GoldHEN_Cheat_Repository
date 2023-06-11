@@ -1,0 +1,107 @@
+{
+  "name": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
+  "id": "CUSA18600",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F9F9A0",
+          "on": "410F4DDF4180BE980100000275096641C7467CE703EB0441895E7CE9EFB7FDFA",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F7B1A7",
+          "on": "E9F4470205909090",
+          "off": "410F4DDF41895E7C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F9FAB0",
+          "on": "6641C78680000000E703E95DB8FDFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "F7B315",
+          "on": "E9964702059090",
+          "off": "41898680000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F9FA60",
+          "on": "C787C0000000FFE0F505E906C6B5FB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1AFC06F",
+          "on": "E9EC394A0490",
+          "off": "898FC0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite skill points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F9FA10",
+          "on": "2B88B8000000C602C7E9EB6CC7FB",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1C16701",
+          "on": "E90A933804909090",
+          "off": "2B88B8000000890A"
+        }
+      ]
+    },
+    {
+      "name": "Max level (after 2nd fight)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F9F9D0",
+          "on": "C783B0000000FFE0F505E9CC7101FB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "FB6BA4",
+          "on": "E9278EFE049090",
+          "off": "4489BBB0000000"
+        }
+      ]
+    },
+    {
+      "name": "999 items in bag (On use/discard)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F9FB10",
+          "on": "440F4DE266C74318E703E935A407FB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1019F4D",
+          "on": "E9BE5BF8049090",
+          "off": "440F4DE2894318"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

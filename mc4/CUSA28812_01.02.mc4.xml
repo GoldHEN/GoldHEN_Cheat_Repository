@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA28812" Game="neptunia x senran kagura ninja wars" Moder="2B" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Inf HP">
+</Cheat>
+<Cheat Text="Max XP">
+</Cheat>
+<Cheat Text="InF Coins">
+</Cheat>
+<Cheat Text="Inf throwables">
+</Cheat>
+</Trainer>

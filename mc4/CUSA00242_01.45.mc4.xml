@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00242" Game="Diablo 3" Moder="d01v" Process="eboot.bin" Version="01.45" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Stamina / Mana">
+</Cheat>
+<Cheat Text="Magic Find (Legendary Drops / Req level 11)">
+</Cheat>
+<Cheat Text="Max Gold">
+</Cheat>
+</Trainer>

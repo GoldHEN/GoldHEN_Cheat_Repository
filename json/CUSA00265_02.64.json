@@ -1,0 +1,207 @@
+{
+  "name": "Minecraft",
+  "id": "CUSA00265",
+  "version": "02.64",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "🔝Multijump🔝",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "177AE50",
+          "on": "85D27552",
+          "off": "85D27452"
+        }
+      ]
+    },
+    {
+      "name": "➡️Jump Foward x4➡️",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85013C4",
+          "on": "33333340",
+          "off": "CDCC4C3E"
+        }
+      ]
+    },
+    {
+      "name": "➡️Jump Foward x2➡️",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85013C4",
+          "on": "52B81B3F",
+          "off": "CDCC4C3E"
+        }
+      ]
+    },
+    {
+      "name": "⚔️Unfair Attack⚔️",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8500E43",
+          "on": "0000008040000040",
+          "off": "00CDCCCC3D000080"
+        }
+      ]
+    },
+    {
+      "name": "⚔️Antiknockback⚔️",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4532D10",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    },
+    {
+      "name": "❤️Godmode❤️",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "AB9614F",
+          "on": "C780A40000000000A041C5FA1080A4000000E9DA9EA0F6",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15A0038",
+          "on": "E912615F09909090",
+          "off": "C5FA1080A4000000"
+        }
+      ]
+    },
+    {
+      "name": "🍖Infinite Food🍖",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "AB96166",
+          "on": "41C782A40000000000A041C4C17A1082A4000000E9DFAED8F9",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4921055",
+          "on": "E90C51270690909090",
+          "off": "C4C17A1082A4000000"
+        }
+      ]
+    },
+    {
+      "name": "😤Infinite Oxygen😤",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82B8E55",
+          "on": "909090909090",
+          "off": "664489740812"
+        }
+      ]
+    },
+    {
+      "name": "♾️Infinite Max Items♾️",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "AB9617F",
+          "on": "42C644362A4042807C362A000F846FA34EF9E9DFA34EF9",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "408056D",
+          "on": "E90D5CB106909090",
+          "off": "42807C362A00748B"
+        }
+      ]
+    },
+    {
+      "name": "♾️Infinite Items♾️",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "AB96196",
+          "on": "C6432A40807B2A00C5F857C0E91FAADFF9",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "4990BBE",
+          "on": "E9D3552006909090",
+          "off": "807B2A00C5F857C0"
+        }
+      ]
+    },
+    {
+      "name": "🔴Change Specified Colour To Red🔴",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B351D20",
+          "on": "00002041",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "🟢Change Specified Colour To Green🟢",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B351D24",
+          "on": "00002041",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "🔵Change Specified Colour To Blue🔵",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B351D28",
+          "on": "00002041",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "🔵Set Entity Colour Aqua🔵",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B351DB0",
+          "on": "00000000000020410000204100000040",
+          "off": "00000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "🟢Set Entity Colour Green🟢",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B351DB0",
+          "on": "00000000000020550000200000000040",
+          "off": "00000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "⚫Set Entity Colour Black⚫",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B351DB0",
+          "on": "00000000204100002041000000000040",
+          "off": "00000000000000000000000000000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "🔥MELTED NINJA🔥"
+  ]
+}

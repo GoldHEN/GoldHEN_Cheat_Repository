@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00018" Game="Call of Duty Ghosts" Moder="GamerX2" Process="default.elf" Version="1.20" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="Infinite Ammo And Grenades| Story Mode">
+</Cheat>
+<Cheat Text="Invincible|Story Mode">
+</Cheat>
+</Trainer>

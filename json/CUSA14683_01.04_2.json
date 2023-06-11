@@ -1,0 +1,22 @@
+{
+  "name": "The Ascent",
+  "id": "CUSA14683",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Component (nop)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1100545",
+          "on": "90909090",
+          "off": "895CC804"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "aloneknight_9.00"
+  ]
+}

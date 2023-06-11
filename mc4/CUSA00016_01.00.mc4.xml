@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Trainer Cusa="CUSA00016" Game="Watch Dogs" Moder="golden" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Cheat Control="Toggel" Text="Infinite Ammo">
-
 </Cheat>
 <Cheat Control="Toggel" Text="Infinite Battery">
-
 </Cheat>
 </Trainer>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sd Gundam G Generation Cross Rays" Moder="zeth001" Cusa="CUSA16319" Version="01.65" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinie MP">
+    <Cheatline>
+      <Offset>7FFCC0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-60-02-00-00-E7-03-00-00-E9-FE-16-CA-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4A13C7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F4-E8-35-00-90-90</ValueOn>
+      <ValueOff>41-89-8E-60-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Money">
+    <Cheatline>
+      <Offset>11EB74</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-44-88-08-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

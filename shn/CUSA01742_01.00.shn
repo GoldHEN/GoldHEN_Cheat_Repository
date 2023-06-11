@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="One Piece - Pirate Warriors 3" Moder="TLH" Cusa="CUSA01742" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Arcade" />
+  <Genres Name="Fighting" />
+  <Items />
+  <StartUP Text="Infinite Health + Pointer" description="">
+    <Cheatline>
+      <Offset>75F828</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-52-48-C7-C2-F0-7F-C2-00-4C-89-02-48-C7-C2-28-F8-B5-00-80-3A-01-5A-75-0B-C4-C1-7A-2A-80-34-06-00-00-EB-09-C4-C1-7A-2A-80-38-06-00-00-E9-37-B0-9B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11A889</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9C-4F-64-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-2A-80-38-06-00-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <StartUP Text="Health + 1 Hit Kills" description="">
+    <Cheatline>
+      <Offset>75F85B</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8B-BC-24-38-06-00-00-50-48-C7-C0-F0-7F-C2-00-48-8B-00-49-39-C4-48-C7-C0-28-F8-B5-00-75-07-80-38-01-75-0F-EB-0F-80-78-01-01-75-07-BF-00-00-00-00-EB-02-29-D7-58-E9-93-FD-AA-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>20F61F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-37-02-55-00-90-90-90-90-90</ValueOn>
+      <ValueOff>41-8B-BC-24-38-06-00-00-29-D7</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>75F828</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kills" Description="">
+    <Cheatline>
+      <Offset>75F829</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Gauge" Description="">
+    <Cheatline>
+      <Offset>75F800</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-83-3E-06-00-00-E8-0F-0F-BF-83-3E-06-00-00-E9-D8-80-AB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2178E6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-15-7F-54-00-90-90</ValueOn>
+      <ValueOff>0F-BF-83-3E-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Berry" Description="">
+    <Cheatline>
+      <Offset>1B0B15</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-F9</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>27223B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Berry on Get" Description="">
+    <Cheatline>
+      <Offset>265577</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-46-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Stats" Description="">
+    <Cheatline>
+      <Offset>75F815</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-47-64-FF-FF-FF-FF-C7-47-68-FF-FF-FF-FF-0F-B7-47-68-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>26DF00</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-10-19-4F-00</ValueOn>
+      <ValueOff>0F-B7-47-68-C3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Crew Gauge" Description="">
+    <Cheatline>
+      <Offset>75F896</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-58-FC-00-00-89-97-00-01-00-00-E9-DB-CE-9B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11C77B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-16-31-64-00-90</ValueOn>
+      <ValueOff>8B-97-00-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

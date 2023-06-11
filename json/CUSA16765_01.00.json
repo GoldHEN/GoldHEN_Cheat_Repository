@@ -1,0 +1,204 @@
+{
+  "name": "WONDER BOY RETURNS REMIX",
+  "id": "CUSA16765",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1543E78",
+          "on": "41C687C001000001410FB687C0010000E96F28047F",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "805866F4",
+          "on": "E97FD7FB80909090",
+          "off": "410FB687C0010000"
+        }
+      ]
+    },
+    {
+      "name": "Deactivate Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1543E8D",
+          "on": "41C687C001000000410FB687C0010000E95A28047F",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "805866F4",
+          "on": "E994D7FB80909090",
+          "off": "410FB687C0010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1543DC0",
+          "on": "41C7877C01000000008442E9DCDD037F",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80581BA3",
+          "on": "E91822FC8090909090",
+          "off": "F3450F11BF7C010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1543DD0",
+          "on": "C681800100006348638980010000E932A2017F",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8055E00E",
+          "on": "E9BD5DFE809090",
+          "off": "48638980010000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill Boss",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1543EB7",
+          "on": "0F8451DBFB7E41C747700100000049634770E9FFDAFB7E",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "805019C3",
+          "on": "E9EF2404819090909090",
+          "off": "0F844B00000049634770"
+        }
+      ]
+    },
+    {
+      "name": "Mega Shoots",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1543DE3",
+          "on": "41C787EC0100000000803FE9C537047F526564646576696C3832202D20465720392E3030",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "805875AF",
+          "on": "E92FC8FB8090909090",
+          "off": "F3450F11BFEC010000"
+        }
+      ]
+    },
+    {
+      "name": "Power Up ( Square Button )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1543E20",
+          "on": "41C787EC0100000000803FF3410F1087EC010000E94D37047F",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8058757D",
+          "on": "E99EC8FB8090909090",
+          "off": "F3410F1087EC010000"
+        }
+      ]
+    },
+    {
+      "name": "Activate Board Equipment",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1543E50",
+          "on": "41C687BD01000001410FB687BD010000E9F332047F",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80587150",
+          "on": "E9FBCCFB80909090",
+          "off": "410FB687BD010000"
+        }
+      ]
+    },
+    {
+      "name": "Activate Angel Equipment",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1543E65",
+          "on": "C680BE010000010FB680BE010000E92460057F",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80599E95",
+          "on": "E9CB9FFA809090",
+          "off": "0FB680BE010000"
+        }
+      ]
+    },
+    {
+      "name": "Activate Devil Equipment",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1543EA2",
+          "on": "41C687BF01000001410FB687BF010000E95E28047F",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8058670D",
+          "on": "E990D7FB80909090",
+          "off": "410FB687BF010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Score ( Level )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1543DB0",
+          "on": "41C786840100007F969800E9C5BC037F",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8057FA7E",
+          "on": "E92D43FC809090",
+          "off": "41898684010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Score",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1543E07",
+          "on": "0F846E34027F41C74730FFE0F50549634730E91A34027F",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8056722E",
+          "on": "E9D4CBFD809090909090",
+          "off": "0F844D00000049634730"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

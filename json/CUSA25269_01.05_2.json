@@ -1,0 +1,177 @@
+{
+  "name": "Scarlet Nexus",
+  "id": "CUSA25269",
+  "version": "1.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7F3DCA0",
+          "on": "8B34104883FE00751B4983FC087515837FE000740FC747E001000000893411E9E2CBF0F88B3411893411E9D7CBF0F8",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E4A8A0",
+          "on": "E9FB330F0790",
+          "off": "8B3410893411"
+        }
+      ]
+    },
+    {
+      "name": "Infinte Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7F3DC40",
+          "on": "488B8710030000807F0A2074078B00E9D2CCF0F8C7000F2700008B00E9C5CCF0F8",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E4A91D",
+          "on": "E91E330F0790909090",
+          "off": "488B87100300008B00"
+        }
+      ]
+    },
+    {
+      "name": "Max Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7F3DD00",
+          "on": "488B8718010000807F0A2074078B00E9D2CCF0F8C7000F2700008B00E9C5CCF0F8",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E4A9DD",
+          "on": "E91E330F0790909090",
+          "off": "488B87180100008B00"
+        }
+      ]
+    },
+    {
+      "name": "SAS Skill Instant Refill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7F3DD60",
+          "on": "0F831D5654F96681FEBC9C7419C5FA100FE9075654F9833F007E11C70700000000E9F75554F9C70700000C42C5FA100FE9E85554F9",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1483377",
+          "on": "E9E4A9AB0690",
+          "off": "7310C5FA100F"
+        }
+      ]
+    },
+    {
+      "name": "SAS Skill No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7F3DF00",
+          "on": "4983C0046681FC209E7408418903E9AB4AEFF941833B007E0C41C7030000F041E9994AEFF9418903E9914AEFF9",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1E329B7",
+          "on": "E944B510069090",
+          "off": "4983C004418903"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Psychokenesis Attack ( Still Decrease But Always Avaliable )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7F3DF60",
+          "on": "4883FA3B740EE83546B3FC488B4B10E9805464FCC783C800000000C07944C783CC00000000C07944E81346B3FC488B4B10E95E5464FC",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "45833EB",
+          "on": "E970AB9B0390909090",
+          "off": "E8B0F14E00488B4B10"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7F3DDC0",
+          "on": "4889E5B8FFE0F505E9DAD21DF9",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "111B0A1",
+          "on": "E91A2DE20690",
+          "off": "4889E58B4750"
+        }
+      ]
+    },
+    {
+      "name": "Infinite BP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1120AE0",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    },
+    {
+      "name": "Infinte Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "111BB30",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    },
+    {
+      "name": "Max EXP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7F3DE10",
+          "on": "C5FC108080000000415541BD7F9698004489680C415DE9B533F9F8",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "ED11D8",
+          "on": "E933CC0607909090",
+          "off": "C5FC108080000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7F3DEB0",
+          "on": "0F845DDC1DF9B863000000E959DC1DF9",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "111BB14",
+          "on": "E99723E206",
+          "off": "74038B4108"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Broken Angel"
+  ]
+}

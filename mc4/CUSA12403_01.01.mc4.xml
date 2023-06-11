@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA12403" Game="Fall of Light - Darkest Edition" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Invulnerable">
+</Cheat>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Stamina">
+</Cheat>
+<Cheat Text="One Hit Kill">
+</Cheat>
+<Cheat Text="Max Black Medallion Heal">
+</Cheat>
+<Cheat Text="Infinite Latern">
+</Cheat>
+<Cheat Text="Infinite Shrine Bar">
+</Cheat>
+</Trainer>

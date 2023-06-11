@@ -1,0 +1,91 @@
+{
+  "name": "Elden Ring",
+  "id": "CUSA28863",
+  "version": "01.12",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "39C7DD0",
+          "on": "4981F8289351037505B83408000041898548010000E9F34771FD",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "10DC5D6",
+          "on": "E9F5B78E029090",
+          "off": "41898548010000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "39C7DB0",
+          "on": "41C78558010000C2010000E97E4E71FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "10DCC37",
+          "on": "E974B18E029090",
+          "off": "41898558010000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "39C7E00",
+          "on": "41C78664010000AA000000E9DE4F71FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "10DCDE7",
+          "on": "E914B08E029090",
+          "off": "41898664010000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Items/Potions/Arrows",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "39C7E40",
+          "on": "438944A70CC701E7030000E973C942FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "DF47BB",
+          "on": "E98036BD02909090",
+          "off": "438944A70C448931"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Runes On Start",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "39C7E70",
+          "on": "8B09C7406CFFC99A3BE9CAAD9CFD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1392C43",
+          "on": "E928526302",
+          "off": "8B0989486C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

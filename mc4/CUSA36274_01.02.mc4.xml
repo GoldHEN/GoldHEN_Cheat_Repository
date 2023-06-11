@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA36274" Game="Octopath traveller" Moder="@ran" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="INFINTE  HP turns off INF SP AND BP">
+</Cheat>
+<Cheat Text="INFINTE SP AND BP turns off INF HP">
+</Cheat>
+<Cheat Text="INFINTE  MONEY BUY/SELL TURN OFF AFTER USE">
+</Cheat>
+</Trainer>

@@ -1,0 +1,75 @@
+{
+  "name": "MARVEL VS. CAPCOM: INFINITE",
+  "id": "CUSA06400",
+  "version": "1.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4BC3800",
+          "on": "83BF000300000075068BB7B806000089B7BC060000E937E053FB",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "10184B",
+          "on": "E9B01FAC0490",
+          "off": "89B7BC060000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Super (On Gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4BC3836",
+          "on": "8378680075038B501089500CE9CD9C56FB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "12D50F",
+          "on": "E92263A904",
+          "off": "89500C85F6"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stone Meter (On Gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4BC3849",
+          "on": "0F42CA415249BAF0FFFFFF0F0000004909C2664183FAFC415A750BC70010270000E970C553FB8908E969C553FB",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "FFDDA",
+          "on": "E96A3AAC04",
+          "off": "0F42CA8908"
+        }
+      ]
+    },
+    {
+      "name": "Inf Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4BC3829",
+          "on": "B0634188475EE9CF9B58FB",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "14D3FA",
+          "on": "E92A64A70490909090",
+          "off": "4188475E41C6475F90"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DJFlameDat"
+  ]
+}

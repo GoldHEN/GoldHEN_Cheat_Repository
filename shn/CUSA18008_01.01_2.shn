@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil Village" Moder="hejran7" Cusa="CUSA18008" Version="01.01" Process="eboot.bin">
+  <Genres Name="Horror" />
+  <Items />
+  <StartUP Text="HP MC (Must Be On)">
+    <Cheatline>
+      <Offset>B1EB000</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-F9-00-75-11-90-90-90-90-C5-FA-11-48-14-E9-F4-8B-EA-F6-0F-57-C9-C5-FA-11-48-14-E9-E7-8B-EA-F6</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2093C03</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F8-73-15-09</ValueOn>
+      <ValueOff>C5-FA-11-48-14</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Max Health" Description="">
+    <Cheatline>
+      <Offset>B1EB006</Offset>
+      <Section>0</Section>
+      <ValueOn>F3-0F-10-C8</ValueOn>
+      <ValueOff>90-90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill" Description="">
+    <Cheatline>
+      <Offset>B1EB004</Offset>
+      <Section>0</Section>
+      <ValueOn>75-0E</ValueOn>
+      <ValueOff>75-11</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max CP" Description="">
+    <Cheatline>
+      <Offset>52866C7</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-0F-4C-CF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Lei" Description="">
+    <Cheatline>
+      <Offset>3E9111A</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-FF-E0-F5-05-90</ValueOn>
+      <ValueOff>41-8B-4F-48-01-D1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo" Description="">
+    <Cheatline>
+      <Offset>3E8DCAA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-E1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload" Description="">
+    <Cheatline>
+      <Offset>4FD68F0</Offset>
+      <Section>0</Section>
+      <ValueOn>31-C9-90-90-90</ValueOn>
+      <ValueOff>B9-01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Items" Description="">
+    <Cheatline>
+      <Offset>3E8CD56</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>29-43-4C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Crafting Materials">
+    <Cheatline>
+      <Offset>3E8DCAA</Offset>
+      <Section>0</Section>
+      <ValueOn>83-E9-00</ValueOn>
+      <ValueOff>44-29-E1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Combo Timer" Description="">
+    <Cheatline>
+      <Offset>B1EB021</Offset>
+      <Section>0</Section>
+      <ValueOn>81-7E-18-00-00-70-41-0F-84-DA-5E-9D-F6-C5-FA-11-46-14-E9-D0-5E-9D-F6</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1BC0F03</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-19-A1-62-09</ValueOn>
+      <ValueOff>C5-FA-11-46-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Pause Menu Inc Timer" Description="">
+    <Cheatline>
+      <Offset>2A7322C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>49-89-46-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Pause Menu Freeze Timer" Description="">
+    <Cheatline>
+      <Offset>2A732FD</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-DB</ValueOn>
+      <ValueOff>75-DB</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tank Gun No Cooldown" Description="">
+    <Cheatline>
+      <Offset>1BC0EFB</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C0-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-5C-80-54-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

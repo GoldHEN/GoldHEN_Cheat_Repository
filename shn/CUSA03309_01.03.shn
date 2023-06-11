@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Far Cry Primal" Moder="M3hdi PS" Cusa="CUSA03309" Version="01.03" Process="eboot.bin">
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Far Cry Primal" Moder="M3hdi PS" Cusa="CUSA03309" Version="1.03" Process="eboot.bin">
   <Genres Name="RPG" />
   <Items />
   <Cheat Text="Infinite Arrows/Clubs/spears">

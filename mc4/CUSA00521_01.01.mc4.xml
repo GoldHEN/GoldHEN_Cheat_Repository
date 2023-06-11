@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00521" Game="SteamWorld Dig" Moder="fbin" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Family"/>
+<Items/>
+<Cheat Text="Vida Infinita">
+</Cheat>
+<Cheat Text="Dinheiro Infinito">
+</Cheat>
+<Cheat Text="Nivel Maximo - Venda tesouros pelo menos 2 vezes">
+</Cheat>
+<Cheat Text="Luz Infinita">
+</Cheat>
+<Cheat Text="Perola Azul Infinita">
+</Cheat>
+<Cheat Text="Itens Infinitos">
+</Cheat>
+<Cheat Text="Poderes Infinitos">
+</Cheat>
+</Trainer>

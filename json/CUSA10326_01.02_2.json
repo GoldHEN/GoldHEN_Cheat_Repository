@@ -5,17 +5,60 @@
   "process": "eboot.bin",
   "mods": [
     {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3B6BDB0",
+          "on": "4C89F690E927549DFC",
+          "off": "000000000000000000"
+        },
+        {
+          "offset": "5411DA",
+          "on": "E9D1AB620390",
+          "off": "4C89F6FF5128"
+        }
+      ]
+    },
+    {
+      "name": "Invincibility",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3B6BDF0",
+          "on": "90E9CAFD9CFC",
+          "off": "000000000000"
+        },
+        {
+          "offset": "53BBBA",
+          "on": "E93102630390",
+          "off": "FF90E0020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Breath (Underwater)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3B6BE40",
+          "on": "90E9C4129DFC",
+          "off": "000000000000"
+        },
+        {
+          "offset": "53D105",
+          "on": "E936ED6203",
+          "off": "E8E6040000"
+        }
+      ]
+    },
+    {
       "name": "Infinite Health Syringes",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "7FC5AE10",
-          "on": "C7839000000003000000E96BB76B81",
-          "off": "000000000000000000000000000000"
-        },
-        {
           "offset": "1316584",
-          "on": "E98748947E90",
+          "on": "8B8390000000",
           "off": "898390000000"
         }
       ]
@@ -25,14 +68,9 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "7FC5A750",
-          "on": "D841034618E9D7566181",
-          "off": "0000000000000000000000"
-        },
-        {
-          "offset": "126FE2C",
-          "on": "E91FA99E7E90",
-          "off": "29D841894618"
+          "offset": "126FE2E",
+          "on": "418B4618",
+          "off": "41894618"
         }
       ]
     },
@@ -41,13 +79,8 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "7FC5BDC0",
-          "on": "0391D8000000E95B215481",
-          "off": "0000000000000000000000"
-        },
-        {
           "offset": "119DF20",
-          "on": "E99BDEAB7E90",
+          "on": "8B91D8000000",
           "off": "8991D8000000"
         }
       ]
@@ -57,30 +90,20 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "7FC5AB90",
-          "on": "488945D0037370E95AA46681",
-          "off": "000000000000000000000000"
-        },
-        {
-          "offset": "12C4FEF",
-          "on": "E99C5B997E9090",
-          "off": "488945D0897370"
+          "offset": "12C4FF3",
+          "on": "8B7370",
+          "off": "897370"
         }
       ]
     },
     {
-      "name": "Max/Infinite Money On First Buy",
+      "name": "Lot Of Infinite Money On First Buy",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "7FC5BCA0",
-          "on": "8B470889F8E93BA76381",
-          "off": "00000000000000000000"
-        },
-        {
-          "offset": "12963E0",
-          "on": "E9BB589C7E",
-          "off": "8B470829F0"
+          "offset": "12963E3",
+          "on": "89F8",
+          "off": "29F0"
         }
       ]
     },
@@ -89,14 +112,62 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "7FC5AE50",
-          "on": "FFC941894764E915095280",
-          "off": "0000000000000000000000"
+          "offset": "3B6BE20",
+          "on": "FFC941C747643F420F00E941F960FC",
+          "off": "000000000000000000000000000000"
         },
         {
           "offset": "17B76A",
-          "on": "E9E1F6AD7F90",
-          "off": "FFC941894F64"
+          "on": "E9B1069F0390",
+          "off": "FFC941894764"
+        }
+      ]
+    },
+    {
+      "name": "Stop Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3B6BEE0",
+          "on": "C4C17A1007E961BAE3FC",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "9A7946",
+          "on": "E995451C03",
+          "off": "C4C17A1107"
+        }
+      ]
+    },
+    {
+      "name": "Stop Time Seringues",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3B6B9E0",
+          "on": "C4C17A10453CE920ACE3FC",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "9A6605",
+          "on": "E9D6531C0390",
+          "off": "C4C17A11453C"
+        }
+      ]
+    },
+    {
+      "name": "No Damage To The Helicopter",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3B6BA30",
+          "on": "C4C17A108750010000E9E6C87DFD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "134831B",
+          "on": "E91037820290909090",
+          "off": "C4C17A118750010000"
         }
       ]
     }

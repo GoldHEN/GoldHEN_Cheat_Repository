@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dying light 2" Moder="LMN" Cusa="CUSA12584" Version="01.33" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="GOD Mod">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>335F9D6</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-F5-AF-4A-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>33627D6</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-F5-81-4A-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>2811398</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-A3-16-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>2724AB7</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-14-5F-0E-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="freeze Stamina/Breath">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>3392405</Offset>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-44-24-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Items/Craftables/consumables/thrwoables never decrease (Need 2 or more)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>33092E8</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-63-B8-D3-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf lock picks">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>33095F0</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-5B-B5-D3-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max durability">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>654F813</Offset>
+      <ValueOn>C7-83-A8-00-00-00-00-80-3B-45-E9-EB-6F-A6-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>2FB6805</Offset>
+      <ValueOn>E9-09-90-59-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-A8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="max money">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>654F800</Offset>
+      <ValueOn>C7-47-34-FF-E0-F5-05-E8-84-77-DB-FC-E9-61-78-DB-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>330706A</Offset>
+      <ValueOn>E9-91-87-24-03-90-90-90</ValueOn>
+      <ValueOff>89-47-34-E8-1E-FF-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf immunity">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>3367EFD</Offset>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze timer">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>2963161</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-48-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf UV Flashlight">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>2916DED</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-0E-4E-FC-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload for Crossbow/Boomsticks">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>352F914</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-37-52-B1-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="MAX XP/legend/inhibitators on get">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>654F824</Offset>
+      <ValueOn>48-C7-C0-00-95-79-00-49-89-46-18-0F-88-09-22-01-FD-E9-4D-21-01-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>356197D</Offset>
+      <ValueOn>E9-A2-DE-FE-02-90-90-90-90-90</ValueOn>
+      <ValueOff>49-89-46-18-0F-88-B7-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="bounty tokens never decrease (bounty vendor)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>3309869</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-E2-B2-D3-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="agent level 1000 / get 1000 token (complete a single bounty)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>654F83C</Offset>
+      <ValueOn>48-C7-C1-40-42-0F-00-48-89-4C-10-38-E9-43-4D-09-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>35E458B</Offset>
+      <ValueOn>E9-AC-B2-F6-02</ValueOn>
+      <ValueOff>48-89-4C-10-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

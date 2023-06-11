@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA05350" Game="Dragon Ball Xenoverse 2" Moder="Celogamez" Process="eboot.bin" Version="01.36" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Fighting"/>
+<Items/>
+<Cheat Text="Max/Infinite Health/1 Hit Kill (Master Code)">
+</Cheat>
+<Cheat Text="1 Hit Kill (Enable MC)">
+</Cheat>
+<Cheat Text="Max/Infinite Stamina">
+</Cheat>
+<Cheat Text="Max/Infinite Ki">
+</Cheat>
+<Cheat Text="Max/Infinite Zeni">
+</Cheat>
+<Cheat Text="Max/Infinite TP On Activation">
+</Cheat>
+<Cheat Text="Max/Infinite Attribute Points (Activate/Exit/Enter)">
+</Cheat>
+</Trainer>

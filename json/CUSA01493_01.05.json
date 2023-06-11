@@ -6,11 +6,10 @@
   "mods": [
     {
       "name": "Godmode",
-      "hint": null,
       "type": "checkbox",
       "memory": [
         {
-          "offset": "1482ADE",
+          "offset": "1082ADE",
           "on": "90909090909090",
           "off": "C7434000000000"
         }
@@ -18,11 +17,10 @@
     },
     {
       "name": "Infinite Ammo",
-      "hint": null,
       "type": "checkbox",
       "memory": [
         {
-          "offset": "1105482",
+          "offset": "D05482",
           "on": "9090909090909090",
           "off": "4689A4ABA8010000"
         }
@@ -30,18 +28,97 @@
     },
     {
       "name": "No Reload",
-      "hint": null,
       "type": "checkbox",
       "memory": [
         {
-          "offset": "11DCC54",
+          "offset": "DDCC54",
           "on": "90909090909090",
           "off": "4489B328020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4F000",
+          "on": "8B4340E9DD3A4381",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "1082ADE",
+          "on": "E91DC5BC7E9090",
+          "off": "C7434000000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4E710",
+          "on": "42C684ABA801000063E96C6D0B81",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "D05482",
+          "on": "E98992F47E909090",
+          "off": "4689A4ABA8010000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4E980",
+          "on": "448BB328020000E9CFE21881",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "DDCC54",
+          "on": "E9271DE77E9090",
+          "off": "4489B328020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4E9B0",
+          "on": "468BA4ABA8010000E9CD6A0B81",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "D05482",
+          "on": "E92995F47E909090",
+          "off": "4689A4ABA8010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Time Challenges",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC4F040",
+          "on": "C4C17A10855C020000E99F963181",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "F686E4",
+          "on": "E95769CE7E90909090",
+          "off": "C4C17A11855C020000"
         }
       ]
     }
   ],
   "credits": [
-    "Talixme"
+    "Talixme & Celogamez"
   ]
 }

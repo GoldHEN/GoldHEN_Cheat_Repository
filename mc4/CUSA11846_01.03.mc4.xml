@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA11846" Game="The Last Remnant Remastered" Moder="GamerX2" Process="eboot.bin" Version="01.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Instant Max Morale">
+</Cheat>
+<Cheat Text="Max Chain">
+</Cheat>
+<Cheat Text="Infinite DIGS ">
+</Cheat>
+<Cheat Text="Infinite Timeshift | Press R2 To Shift Back To Normal">
+</Cheat>
+<Cheat Text="Infinite Gold">
+</Cheat>
+<Cheat Text="Max Gold On Buy">
+</Cheat>
+<Cheat Text="Inf Items| On Sell Or Use">
+</Cheat>
+<Cheat Text="Max+ Inf Items/Components/Captured | On Sell Or Use">
+</Cheat>
+<Cheat Text="Unlock All Consumables/Components/Captures/Special Items">
+</Cheat>
+<Cheat Text="Max Items On Buy">
+</Cheat>
+<Cheat Text="Boost Strength| Change Accessory">
+</Cheat>
+<Cheat Text="Boost DEF | Change Weapon ">
+</Cheat>
+<Cheat Text="Boost ATK Main Hand| Change Weapon ">
+</Cheat>
+<Cheat Text="Boost ATK 2 Main Hand| Change Weapon ">
+</Cheat>
+<Cheat Text="Max Off Hand ATK">
+</Cheat>
+<Cheat Text="Wizardry Mode|First Person View| Press Down Button ">
+</Cheat>
+<Cheat Text="Enhanced Field Of View | Press Down/UP Button">
+</Cheat>
+</Trainer>

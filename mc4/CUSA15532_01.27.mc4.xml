@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA15532" Game="Nioh 2" Moder="Wander FW9.00" Process="eboot.bin" Version="01.27" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Stamina">
+</Cheat>
+<Cheat Text="Max Amrita/Gold ">
+</Cheat>
+<Cheat Text="99 Items (on use)">
+</Cheat>
+<Cheat Text="Infinite Anima">
+</Cheat>
+<Cheat Text="Infinite Oni form bar">
+</Cheat>
+<Cheat Text="999 Samurai Skill points">
+</Cheat>
+</Trainer>
