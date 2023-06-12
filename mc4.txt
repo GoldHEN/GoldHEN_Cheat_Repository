@@ -497,6 +497,7 @@ CUSA03991_01.00.mc4.xml=Dying Light
 CUSA05906_01.00.mc4.xml=Pang Adventures
 CUSA05625_01.41.mc4.xml=AC: Origins
 CUSA12605_01.13.mc4.xml=DEATH STRANDING
+CUSA12092_01.01.mc4.xml=GeneRain
 CUSA07188_01.00.mc4.xml=Bulletstorm
 CUSA00135_01.15.mc4.xml=Batman -  Arkham Night
 CUSA00016_01.00.mc4.xml=Watch Dogs

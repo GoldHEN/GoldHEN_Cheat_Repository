@@ -116,6 +116,7 @@ CUSA08025_01.11.shn=Borderlands 3
 SLUS42112_01.00.shn=Crisis Evil 2 Remake
 CUSA02826_01.00.shn=Uncharted Collection - UNC1 Dev Menu
 CUSA02320_01.02_big3-ps4_Shipping.elf_3.shn=Uncharted Collection - UNC3 Dev Menu
+CUSA31498_01.01.shn=STREETFIGHTER
 CUSA03173_01.00.shn=Bloodborne GOTY
 CUSA19120_01.00.shn=Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition
 CUSA18017_01.11_2.shn=Resident Evil Village
