@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA13879" Game="RAD" Moder="Wander FW9.00" Process="eboot.bin" Version="01.06" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Max Infinite Health">
+</Cheat>
+<Cheat Text="Max Cash (on get 2 at least)">
+</Cheat>
+<Cheat Text="Max Floppy Disks (on use)">
+</Cheat>
+<Cheat Text="Max Mutation (use once)">
+</Cheat>
+</Trainer>
