@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA19541" Game="Asterix e Obelix XXL" Moder="fbin" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Vida Infinita">
+</Cheat>
+<Cheat Text="Elixir Magico Infinito">
+</Cheat>
+<Cheat Text="Capacetes Infinito">
+</Cheat>
+<Cheat Text="Coroa Romana Infinita">
+</Cheat>
+<Cheat Text="Tocha de Fogo Infinita">
+</Cheat>
+</Trainer>
