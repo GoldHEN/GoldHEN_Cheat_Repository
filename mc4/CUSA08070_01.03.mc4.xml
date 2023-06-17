@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA08070" Game="The Seven Deadly Sins Knights of Britannia" Moder="fbin" Process="eboot.bin" Version="01.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Vida Infinita">
+</Cheat>
+<Cheat Text="Barra de Poder Infinita">
+</Cheat>
+<Cheat Text="Cristais Magicos Infinitos">
+</Cheat>
+<Cheat Text="Pontos Infinitos">
+</Cheat>
+<Cheat Text="Tempo Infinito">
+</Cheat>
+<Cheat Text="Fofoca Max100">
+</Cheat>
+</Trainer>

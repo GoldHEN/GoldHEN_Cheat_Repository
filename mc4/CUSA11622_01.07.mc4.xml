@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA11622" Game="Agony" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.07" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Stamina">
+</Cheat>
+<Cheat Text="Infinite Breath">
+</Cheat>
+<Cheat Text="Infinite Astral Timer">
+</Cheat>
+<Cheat Text="Max Health">
+</Cheat>
+<Cheat Text="Max Stamina">
+</Cheat>
+<Cheat Text="Max Breath">
+</Cheat>
+<Cheat Text="Max Astral Timer">
+</Cheat>
+<Cheat Text="Max Skills">
+</Cheat>
+<Cheat Text="Max Knowledge">
+</Cheat>
+</Trainer>
