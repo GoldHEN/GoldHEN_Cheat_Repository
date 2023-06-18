@@ -101,6 +101,7 @@ CUSA23511_01.04.shn=Crash Bandicoot 4
 CUSA00552_01.00.shn=The Last of Us Remastered
 CUSA08487_01.05.shn=Life is Strange - Before the Storm
 CUSA11995_01.17.shn=Marvel's Spider-Man
+CUSA08357_01.08.shn=WWE 2K18
 SLUS62390_01.00.shn=Super Mario -64
 CUSA33388_01.04_2.shn=Resident Evil 4 Remake
 CUSA00552_01.10.shn=The Last of Us Remastered
