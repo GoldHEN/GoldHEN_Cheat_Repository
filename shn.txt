@@ -103,7 +103,6 @@ CUSA08487_01.05.shn=Life is Strange - Before the Storm
 CUSA11995_01.17.shn=Marvel's Spider-Man
 CUSA08357_01.08.shn=WWE 2K18
 SLUS62390_01.00.shn=Super Mario -64
-CUSA33388_01.04_2.shn=Resident Evil 4 Remake
 CUSA00552_01.10.shn=The Last of Us Remastered
 CUSA02826_01.00_big3-ps4_Shipping.elf_3.shn=Uncharted Collection - UNC3 Dev Menu
 CUSA09171_01.04_2.shn=Resident Evil 2
