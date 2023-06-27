@@ -235,6 +235,7 @@ CUSA10812_01.01.shn=A Plague Tale Innocence
 CUSA00109_01.01.shn=Tomb Raider
 CUSA07875_01.00.shn=Uncharted The Lost Legacy
 CUSA03856_01.01.shn=Resident Evil 6
+CUSA06014_05.10.shn=Tekken 7
 CUSA08070_01.03.shn=Nanatsu no Taizai (Seven Deadly Sins) - Knights of Britannia
 CUSA02962_01.22.shn=Fallout 4 (Game Of The Year Edition)
 CUSA05716_01.06.shn=Rise of the Tomb Raider (20 Years Edition)
