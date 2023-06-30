@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA14939" Game="Maid of Sker" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.09" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Horror"/>
+<Items/>
+<Cheat Description="Location Mastercode" Text="Location Save - Load Mastercode ( must be activate )">
+</Cheat>
+<Cheat Text="Godmode">
+</Cheat>
+<Cheat Description="Infinite Health" Text="Infinite Health">
+</Cheat>
+<Cheat Description="Max Health" Text="Max Health">
+</Cheat>
+<Cheat Description="Infinite Breath" Text="Infinite Breath">
+</Cheat>
+<Cheat Description="Max Breath" Text="Max Breath">
+</Cheat>
+<Cheat Description="No Cough" Text="No Cough">
+</Cheat>
+<Cheat Description="Max Items / Ammo" Text="Max Items / Ammo">
+</Cheat>
+<Cheat Description="No Reload" Text="No Reload">
+</Cheat>
+<Cheat Description="Save Location [ MC ]" Text="Save Location [ MC ]">
+</Cheat>
+<Cheat Description="Load Location [ MC ]" Text="Load Location [ MC ]">
+</Cheat>
+<Cheat Description="Freeze Timer" Text="Freeze Timer">
+</Cheat>
+<Cheat Description="Reset Timer" Text="Reset Timer">
+</Cheat>
+</Trainer>
