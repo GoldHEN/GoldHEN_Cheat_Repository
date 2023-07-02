@@ -12,6 +12,7 @@ CUSA06465_01.01.mc4.xml=Slain Back from Hell
 CUSA00025_01.00_default_mp.elf.mc4.xml=COD: Ghosts
 CUSA25931_01.07.mc4.xml=Landflix Odysee
 CUSA29645_01.02.mc4.xml=Wildcat Gun Machine
+CUSA32091_01.02.mc4.xml=Pyramid Quest
 CUSA16400_01.02.mc4.xml=Effie
 CUSA04630_01.00.mc4.xml=Grand Kingdom
 CUSA14925_02.22.mc4.xml=Bus Simulator 21
