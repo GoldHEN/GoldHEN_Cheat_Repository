@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA18017" Game="Resident Evil Village" Moder="Celogamez" Process="eboot.bin" Version="01.13" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Horror"/>
+<Items/>
+<Cheat Text="(Ethan) Max/Infinite Health">
+</Cheat>
+<Cheat Text="(Ethan) 1 Hit Kill">
+</Cheat>
+<Cheat Text="(Rose) Infinite Health/1 Hit Kill (Master Code/Must Be On)">
+</Cheat>
+<Cheat Text="(Rose) Infinite Health (Enable MC)">
+</Cheat>
+<Cheat Text="(Rose) 1 Hit Kill (Enable MC)">
+</Cheat>
+<Cheat Text="Max/Infinite Ammo/White Sage (Rose)">
+</Cheat>
+<Cheat Text="No Reload">
+</Cheat>
+<Cheat Text="Max/Infinite Stun Enemies (Rose)">
+</Cheat>
+<Cheat Text="Max/Infinite Throwables/Items On Craft">
+</Cheat>
+<Cheat Text="Max/Infinite Lei">
+</Cheat>
+<Cheat Text="Lot Of CP Points">
+</Cheat>
+</Trainer>

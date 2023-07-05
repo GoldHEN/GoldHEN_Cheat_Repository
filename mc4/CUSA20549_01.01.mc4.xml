@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA20549" Game="Bite - The Bullet" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Arcade"/>
+<Items/>
+<Cheat Description="Infinite Health" Text="Infinite Health">
+</Cheat>
+<Cheat Description="Max Health" Text="Max Health">
+</Cheat>
+<Cheat Description="Infinite Special" Text="Infinite Special">
+</Cheat>
+<Cheat Description="Max Special" Text="Max Special">
+</Cheat>
+<Cheat Description="Max Lives ( after Die )" Text="Max Lives ( after Die )">
+</Cheat>
+<Cheat Description="Infinite Ammo - Grenades" Text="Infinite Ammo - Grenades">
+</Cheat>
+<Cheat Description="Max Ammo" Text="Max Ammo">
+</Cheat>
+<Cheat Description="Max Grenades" Text="Max Grenades">
+</Cheat>
+<Cheat Description="Max Protein" Text="Max Protein">
+</Cheat>
+<Cheat Description="Zero Fat" Text="Zero Fat">
+</Cheat>
+<Cheat Description="Max XP ( on gain )" Text="Max XP ( on gain )">
+</Cheat>
+<Cheat Description="Max Level ( on gain )" Text="Max Level ( on gain )">
+</Cheat>
+<Cheat Description="Max Skillpoints" Text="Max Skillpoints">
+</Cheat>
+</Trainer>
