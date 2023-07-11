@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA06633" Game="Outlast 2" Moder="Weysincha" Process="eboot.bin" Version="01.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Cheat Control="Toggel" Text="Infinite Battery">
+<Trainer Cusa="CUSA06633" Game="Outlast 2" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Description="Infinite Health" Text="Infinite Health">
+</Cheat>
+<Cheat Description="Infinite Stamina" Text="Infinite Stamina">
+</Cheat>
+<Cheat Description="Infinite Battery Life Value" Text="Infinite Battery Life Value">
+</Cheat>
+<Cheat Description="Max Bandage" Text="Max Bandage">
+</Cheat>
+<Cheat Description="Nax Battery" Text="Max Battery">
 </Cheat>
 </Trainer>
