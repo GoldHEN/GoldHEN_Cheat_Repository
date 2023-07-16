@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA08216" Game="Devil May Cry 5" Moder="Celogamez" Process="eboot.bin" Version="01.10" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Trainer Cusa="CUSA08216" Game="Devil May Cry 5" Moder="Celogamez and DreamRunner" Process="eboot.bin" Version="01.10" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Genres Name="Action"/>
 <Items/>
 <Cheat Text="(Virgil) Infinite Health/1 Hit Kill (Master Code)">
@@ -10,7 +10,7 @@
 </Cheat>
 <Cheat Text="(Virgil) Max/Infinite Devil Triger">
 </Cheat>
-<Cheat Text="(Virgil) Max/Infinite Virgil's Concentration">
+<Cheat Text="(Virgil) Max/Infinite Virgils Concentration">
 </Cheat>
 <Cheat Text="(Nero) Infinite Health/1 Hit Kill (Master Code)">
 </Cheat>
@@ -55,5 +55,19 @@
 <Cheat Text="Max/Infinite Gold Orbs On Gain Or Buy">
 </Cheat>
 <Cheat Text="Stop Time In The Bloody Palace">
+</Cheat>
+<Cheat Text="Speed (Master Code)">
+</Cheat>
+<Cheat Text="Speed [x2.0]">
+</Cheat>
+<Cheat Text="Speed [x3.0]">
+</Cheat>
+<Cheat Text="Super Jump">
+</Cheat>
+<Cheat Text="SSS Style Rank">
+</Cheat>
+<Cheat Text="Max/Inf Vergil Demon Form (Doppelgange)">
+</Cheat>
+<Cheat Text="Max Vergil Devil Trigger (by DreamRunner)">
 </Cheat>
 </Trainer>
