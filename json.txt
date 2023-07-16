@@ -1082,6 +1082,7 @@ CUSA24814_01.01.json=BALAN WONDERWORLD
 CUSA00462_01.00.json=Far Cry® 4
 CUSA01589_01.02.json=DARK SOULS™ II: Scholar of the First Sin
 CUSA16579_01.61.json=Cyberpunk 2077
+CUSA04482_01.12.json=Prey
 CUSA04250_01.00.json=Aegis of Earth: Protonovus Assault
 CUSA01839_01.07.json=Street Figther 4
 CUSA15090_01.06.json=Need for Speed™ Heat

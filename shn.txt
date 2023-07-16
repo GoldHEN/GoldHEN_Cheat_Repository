@@ -29,6 +29,7 @@ SLUS20962_01.00.shn=Castle Shikigami 2
 CUSA04294_01.15.shn=Watch Dogs 2
 SLES50193_01.00.shn=Silpheed-The Lost Planet
 CUSA13930_01.21.shn=world war z
+CUSA05597_01.11.shn=METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE
 CUSA02980_01.02_MAGNOLIA.elf.shn=Borderlands THC Borderlands 2
 SLUS20151_01.00.shn=Klonoa 2-Lunateas Veil
 CUSA11650_01.00.shn=Slime Rancher
