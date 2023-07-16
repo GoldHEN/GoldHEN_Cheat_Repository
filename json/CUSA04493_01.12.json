@@ -1,1 +1,55 @@
-{"name":"Prey","id":"CUSA04493","version":"01.12","process":"eboot.bin","mods":[{"name":"x99 All Items(gain/use have 2 at least)","type":"checkbox","memory":[{"offset":"7FC5B390","on":"410F4EDF41C6465463E906A04C01","off":"0000000000000000000000000000"},{"offset":"8112539C","on":"E9EF5FB3FE909090","off":"410F4EDF41895E54"}]},{"name":"Infinite Ammo / No reload","type":"checkbox","memory":[{"offset":"7FC5B3E0","on":"41C687D404000063E9A371C601","off":"00000000000000000000000000"},{"offset":"818C2589","on":"E9528E39FE9090","off":"4189B7D4040000"}]},{"name":"Infinite Health","type":"checkbox","memory":[{"section":"11","offset":"18C2C42","on":"90909090909090","off":"C4C17A11442440"}]}],"credits":["Wander_9.00"]}
+{
+  "name": "Prey",
+  "id": "CUSA04493",
+  "version": "01.12",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "x99 All Items(gain/use have 2 at least)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5B390",
+          "on": "410F4EDF41C6465463E906A04C01",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "8112539C",
+          "on": "E9EF5FB3FE909090",
+          "off": "410F4EDF41895E54"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo / No reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5B3E0",
+          "on": "41C687D404000063E9A371C601",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "818C2589",
+          "on": "E9528E39FE9090",
+          "off": "4189B7D4040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "11",
+          "offset": "18C2C42",
+          "on": "90909090909090",
+          "off": "C4C17A11442440"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander_9.00"
+  ]
+}
