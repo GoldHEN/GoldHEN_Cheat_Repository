@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA30448" Game="Sonic Origins" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="02.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Description="Mastercode ( must be activated for [ MC ] Cheats )" Text="Mastercode ( must be activated for [ MC ] Cheats )">
+</Cheat>
+<Cheat Description="Invincible Sonic 1 + 2" Text="Invincible Sonic 1 + 2">
+</Cheat>
+<Cheat Description="Invincible Sonic 3" Text="Invincible Sonic 3">
+</Cheat>
+<Cheat Description="Invincible Sonic CD" Text="Invincible Sonic CD">
+</Cheat>
+<Cheat Description="Max Rings Sonic 1 + 2" Text="Max Rings Sonic 1 + 2">
+</Cheat>
+<Cheat Description="Max Rings Sonic 3" Text="Max Rings Sonic 3">
+</Cheat>
+<Cheat Description="Max Rings Sonic CD" Text="Max Rings Sonic CD">
+</Cheat>
+<Cheat Description="Max Lives Sonic 1 [ MC ]" Text="Max Lives Sonic 1 [ MC ]">
+</Cheat>
+<Cheat Description="Max Lives Sonic 2 [ MC ]" Text="Max Lives Sonic 2 [ MC ]">
+</Cheat>
+<Cheat Description="Max Lives Sonic 3 ( Classic Mode )" Text="Max Lives Sonic 3 ( Classic Mode )">
+</Cheat>
+<Cheat Description="Max Lives Sonic CD [ MC ]" Text="Max Lives Sonic CD [ MC ]">
+</Cheat>
+<Cheat Description="Max Score Sonic 1 [ MC ]" Text="Max Score Sonic 1 [ MC ]">
+</Cheat>
+<Cheat Description="Max Score Sonic 2 [ MC ]" Text="Max Score Sonic 2 [ MC ]">
+</Cheat>
+<Cheat Description="Max Score Sonic 3" Text="Max Score Sonic 3">
+</Cheat>
+<Cheat Description="Max Score Sonic CD [ MC ]" Text="Max Score Sonic CD [ MC ]">
+</Cheat>
+<Cheat Description="Freeze Timer Sonic 1 + 2" Text="Freeze Timer Sonic 1 + 2">
+</Cheat>
+<Cheat Description="Freeze Timer Sonic 3" Text="Freeze Timer Sonic 3">
+</Cheat>
+<Cheat Description="Freeze Timer Sonic CD" Text="Freeze Timer Sonic CD">
+</Cheat>
+<Cheat Description="Infinite Breath Sonic 1 + 2" Text="Infinite Breath Sonic 1 + 2">
+</Cheat>
+<Cheat Description="Infinite Breath Sonic 3" Text="Infinite Breath Sonic 3">
+</Cheat>
+<Cheat Description="Infinite Breath Sonic CD" Text="Infinite Breath Sonic CD">
+</Cheat>
+<Cheat Description="Max Coins ( Museum )" Text="Max Coins ( Museum )">
+</Cheat>
+<Cheat Description="Max Rings Sonic 2 ( Special Stage )" Text="Max Rings Sonic 2 ( Special Stage )">
+</Cheat>
+<Cheat Description="Blue Spheres Left Sonic 3 ( Special Stage )" Text="Blue Spheres Left Sonic 3 ( Special Stage )">
+</Cheat>
+<Cheat Description="Rings Left Sonic 3 ( Special Stage )" Text="Rings Left Sonic 3 ( Special Stage )">
+</Cheat>
+<Cheat Description="Only 1 Ufo collect Sonic CD ( Special Stage )" Text="Only 1 Ufo collect Sonic CD ( Special Stage )">
+</Cheat>
+<Cheat Description="Max Rings Sonic CD ( Special Stage ) " Text="Max Rings Sonic CD ( Special Stage ) ">
+</Cheat>
+<Cheat Description="Max Timer Sonic CD ( Special Main Stage )" Text="Max Timer Sonic CD ( Special Main Stage )">
+</Cheat>
+<Cheat Description="All Emeralds Sonic 1 + 2" Text="All Emeralds Sonic 1 + 2">
+</Cheat>
+<Cheat Description="All Emeralds Sonic 3" Text="All Emeralds Sonic 3">
+</Cheat>
+<Cheat Description="All Time Stones Sonic CD" Text="All Time Stones Sonic CD">
+</Cheat>
+<Cheat Description="Tails Never Exhausted Sonic 1 + 2" Text="Tails Never Exhausted Sonic 1 + 2">
+</Cheat>
+<Cheat Description="Tails Never Exhausted Sonic 3" Text="Tails Never Exhausted Sonic 3">
+</Cheat>
+<Cheat Description="Tails Never Exhausted Sonic CD" Text="Tails Never Exhausted Sonic CD">
+</Cheat>
+<Cheat Description="Normal Player Speed Sonic 1 + 2" Text="Normal Player Speed Sonic 1 + 2">
+</Cheat>
+<Cheat Description="Super Player Speed Sonic 1 + 2" Text="Super Player Speed Sonic 1 + 2">
+</Cheat>
+<Cheat Description="Hyper Player Speed Sonic 1 + 2" Text="Hyper Player Speed Sonic 1 + 2">
+</Cheat>
+<Cheat Description="Normal Player Speed Sonic 3" Text="Normal Player Speed Sonic 3">
+</Cheat>
+<Cheat Description="Super Player Speed Sonic 3" Text="Super Player Speed Sonic 3">
+</Cheat>
+<Cheat Description="Hyper Player Speed Sonic 3" Text="Hyper Player Speed Sonic 3">
+</Cheat>
+<Cheat Description="Normal Player Speed Sonic CD" Text="Normal Player Speed Sonic CD">
+</Cheat>
+<Cheat Description="Super Player Speed Sonic CD" Text="Super Player Speed Sonic CD">
+</Cheat>
+<Cheat Description="Hyper Player Speed Sonic CD" Text="Hyper Player Speed Sonic CD">
+</Cheat>
+<Cheat Description="Normal Jump Sonic 1 + 2" Text="Normal Jump Sonic 1 + 2">
+</Cheat>
+<Cheat Description="Super Jump Sonic 1 + 2" Text="Super Jump Sonic 1 + 2">
+</Cheat>
+<Cheat Description="Mega Jump Sonic 1 + 2" Text="Mega Jump Sonic 1 + 2">
+</Cheat>
+<Cheat Description="Normal Jump Sonic 3" Text="Normal Jump Sonic 3">
+</Cheat>
+<Cheat Description="Super Jump Sonic 3" Text="Super Jump Sonic 3">
+</Cheat>
+<Cheat Description="Mega Jump Sonic 3" Text="Mega Jump Sonic 3">
+</Cheat>
+<Cheat Description="Normal Jump Sonic CD" Text="Normal Jump Sonic CD">
+</Cheat>
+<Cheat Description="Super Jump Sonic CD" Text="Super Jump Sonic CD">
+</Cheat>
+<Cheat Description="Mega Jump Sonic CD" Text="Mega Jump Sonic CD">
+</Cheat>
+<Cheat Description="Unlock D.A. Garden Sonic CD [ MC ]" Text="Unlock D.A. Garden Sonic CD [ MC ]">
+</Cheat>
+<Cheat Description="Unlock Visual Mode Sonic CD [ MC ]" Text="Unlock Visual Mode Sonic CD [ MC ]">
+</Cheat>
+<Cheat Description="Unlock Sound Test Sonic CD [ MC ]" Text="Unlock Sound Test Sonic CD [ MC ]">
+</Cheat>
+<Cheat Description="Unlock Stage Select Sonic CD [ MC ]" Text="Unlock Stage Select Sonic CD [ MC ]">
+</Cheat>
+<Cheat Description="Debug Mode Sonic 1 + 2" Text="Debug Mode Sonic 1 + 2">
+</Cheat>
+<Cheat Description="Debug Mode Sonic 3" Text="Debug Mode Sonic 3">
+</Cheat>
+<Cheat Description="Debug Mode Sonic CD" Text="Debug Mode Sonic CD">
+</Cheat>
+</Trainer>
