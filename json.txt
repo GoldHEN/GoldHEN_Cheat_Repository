@@ -328,6 +328,7 @@ CUSA25234_01.08.json=Dark Alliance
 CUSA06166_01.04.json=The Evil Within® 2
 CUSA02962_01.22.json=Fallout 4
 CUSA00706_01.00.json=How To Survive
+CUSA17801_01.25.json=Hellpoint
 CUSA03856_01.00.json=Resident Evil 6
 CUSA04493_01.12.json=Prey
 CUSA24095_01.01.json=NINJA GAIDEN 3: Razors Edge
