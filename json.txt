@@ -745,6 +745,7 @@ CUSA18797_01.20.json=Minecraft Dungeons
 CUSA08670_01.01.json=Battlefield™ V
 CUSA08661_01.33.json=theHunter: Call of the Wild
 CUSA32074_01.02.json=Pac-Man World Re-Pac
+CUSA24828_01.01.json=Paw Paw Paw
 CUSA00803_01.24_default.elf.json=Call of Duty®: Advanced Warfare
 CUSA17425_01.37.json=Snow Runner
 CUSA07411_01.00.json=God of War

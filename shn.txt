@@ -141,6 +141,7 @@ CUSA04893_01.02_ScimitarACB.elf.shn=Assassin's Creed: The Ezio Collection [Assas
 SLUS42112_01.00.shn=Crisis Evil 2 Remake
 SLUS20981_01.00.shn=Teenage Mutant Ninja Turtles 2
 CUSA16473_01.43.shn=Astroneer
+CUSA00917_01.33.shn=Uncharted 4 Dev Menu
 CUSA02819_01.18.shn=Tom Clancys - Ghost Recon Wildlands
 CUSA10007_01.08.shn=Friday The 13Th The Game
 CUSA03173_01.09_2.shn=Bloodborne GOTY
