@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00220" Game="Dragon Age" Moder="d01v" Process="eboot.bin" Version="01.12" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<StartUP Description="All Cheats Triggered instantly, if not try equip or unequip any item, or interact by loot, climb etc" Text="MasterCode">
+</StartUP>
+<Cheat Description="need MC" Text="Disable Infinite Health">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Health">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Infinite Stamina / Mana">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Stamina / Mana">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Infinite Focus">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Focus">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max EXP">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Ability Points">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Cooldown">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max STR">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max DEX">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max MAG">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Cunning">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Willpower">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max CON">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Attack">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Guard Damage">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Penetration">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Barrier Damage Bonus">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Critical Damage Bonus">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Critical Chance">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Main Hand Bonus">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Off Hand Bonus">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Sunder On Hit">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Stagger On Hit">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Heal On Kill">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Flanking Damage">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Magic Defense">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Melee Defense">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Range Defense">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Cold Resistance">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Electric Resistance">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Fire Resistance">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Spirit Resistance">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Guard (Auto Cast)">
+</Cheat>
+<Cheat Description="need MC" Text="Disable Max Barrier (Auto Cast)">
+</Cheat>
+<Cheat Description="use / sell max instantly, for discard it needs x2 to max" Text="Max Item">
+</Cheat>
+<Cheat Description="What/how/when is this Cheat: Change me!" Text="Max Gold">
+</Cheat>
+</Trainer>
