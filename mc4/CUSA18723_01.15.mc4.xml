@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA18723" Game="Elden Ring" Moder="Celogamez" Process="eboot.bin" Version="01.15" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Max/Infinite Health">
+</Cheat>
+<Cheat Text="Max/Infinite Health+1 Hit Kill">
+</Cheat>
+<Cheat Text="Max/Infinite Stamina">
+</Cheat>
+<Cheat Text="Max/Infinite FP">
+</Cheat>
+<Cheat Text="Max/Infinite Items/Potions/Arrows (On Pick Up/x2 To Work)">
+</Cheat>
+<Cheat Text="Max/Infinite Runes On Start">
+</Cheat>
+</Trainer>
