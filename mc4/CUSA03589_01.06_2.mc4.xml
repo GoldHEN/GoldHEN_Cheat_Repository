@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA03589" Game="Mortal Kombat XL" Moder="Celogamez" Process="eboot.bin" Version="01.06" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Fighting"/>
+<Items/>
+<Cheat Text="Max/Infinite Health">
+</Cheat>
+<Cheat Text="Max/Infinite Super">
+</Cheat>
+<Cheat Text="Max Koins/XP/Levels">
+</Cheat>
+</Trainer>

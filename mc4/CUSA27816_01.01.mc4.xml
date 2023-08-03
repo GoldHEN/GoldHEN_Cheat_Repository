@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA27816" Game="Marsupilami Hoobadventure" Moder="fbin" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Family"/>
+<Items/>
+<Cheat Text="Vida Infinita">
+</Cheat>
+<Cheat Text="Frutas Infinita">
+</Cheat>
+<Cheat Text="Penas Infinita">
+</Cheat>
+<Cheat Text="Tiquetes Infinito">
+</Cheat>
+</Trainer>

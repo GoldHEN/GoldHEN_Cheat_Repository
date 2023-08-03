@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA33616" Game="Lord of the Rings Gollum" Moder="d01v" Process="eboot.bin" Version="01.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Master Code">
+</Cheat>
+<Cheat Text="Infinite Health (MC)">
+</Cheat>
+<Cheat Text="Max Health 9999 (MC)">
+</Cheat>
+<Cheat Text="Infinite Dash">
+</Cheat>
+<Cheat Text="Doesnt Detect / Invincible">
+</Cheat>
+<Cheat Text="Drone View x1000">
+</Cheat>
+<Cheat Text="Drone View x10000">
+</Cheat>
+</Trainer>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA32091" Game="Pyramid Quest" Moder="Saso_9.00" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Untouchable">
+</Cheat>
+<Cheat Text="Inf Lives">
+</Cheat>
+<Cheat Text="Inf Knives">
+</Cheat>
+</Trainer>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE" Moder="Saso_9.00" Cusa="CUSA05597" Version="01.11" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>1D1CE3E</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-11-74-8C-CC</ValueOn>
+      <ValueOff>C4-C1-7A-11-6C-8C-CC</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo / No Relaod">
+    <Cheatline>
+      <Offset>2164BB1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-89-0C-72</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B3DDF7</Offset>
+      <Section>0</Section>
+      <ValueOn>89-19</ValueOn>
+      <ValueOff>89-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Suppressor">
+    <Cheatline>
+      <Offset>1FA5CBD</Offset>
+      <Section>0</Section>
+      <ValueOn>40-8A-7C-72-05</ValueOn>
+      <ValueOff>40-8A-7C-72-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Grenades">
+    <Cheatline>
+      <Offset>34EA100</Offset>
+      <Section>0</Section>
+      <ValueOn>39-CE-66-B9-08-00-E9-3F-AE-C7-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2164F44</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B7-51-38-01-90</ValueOn>
+      <ValueOff>39-CE-66-0F-46-CE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max GMP (5000000)">
+    <Cheatline>
+      <Offset>3452300</Offset>
+      <Section>0</Section>
+      <ValueOn>44-39-C2-0F-8F-05-16-71-FE-BA-40-4B-4C-00-E9-EF-15-71-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1B638FD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FE-E9-8E-01</ValueOn>
+      <ValueOff>44-39-C2-7F-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

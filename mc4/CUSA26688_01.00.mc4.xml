@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA26688" Game="Road Fury" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Arcade"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="One Hit Kill ( Boss )">
+</Cheat>
+<Cheat Text="Max Money">
+</Cheat>
+<Cheat Text="Max Level">
+</Cheat>
+<Cheat Text="Max driving Distance">
+</Cheat>
+<Cheat Text="Max Damage Cars">
+</Cheat>
+<Cheat Text="Max Booster">
+</Cheat>
+<Cheat Text="Max Damage ( Police Cars )">
+</Cheat>
+</Trainer>

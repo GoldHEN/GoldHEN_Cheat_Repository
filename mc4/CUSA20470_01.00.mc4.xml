@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA20470" Game="Max and the book of chaos" Moder="fbin" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Family"/>
+<Items/>
+<Cheat Text="Vida Infinita">
+</Cheat>
+<Cheat Text="5000 Moedas">
+</Cheat>
+<Cheat Text="Bala Especial Infinita">
+</Cheat>
+<Cheat Text="Power UP Infinito">
+</Cheat>
+<Cheat Text="Power Down Infinito">
+</Cheat>
+<Cheat Text="Arma Raio Eletrico Infinita">
+</Cheat>
+<Cheat Text="Paralisar o Tempo">
+</Cheat>
+</Trainer>

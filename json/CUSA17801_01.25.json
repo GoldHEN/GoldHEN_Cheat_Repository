@@ -1,0 +1,381 @@
+{
+  "name": "Hellpoint",
+  "id": "CUSA17801",
+  "version": "01.25",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "HP Pointer (Must Be ON)",
+      "hint": "Required for HP Master and Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C723D6",
+          "on": "488B034889DF",
+          "off": "488B034889DF"
+        },
+        {
+          "offset": "1DC7000",
+          "on": "48891DF9CE4000488B034889DFE9CAB3EA7E",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80C723D6",
+          "on": "E9254C158190",
+          "off": "488B034889DF"
+        }
+      ]
+    },
+    {
+      "name": "Player Pointer (Must Be ON)",
+      "hint": "Required for Weight, Heat+Cooling and Toxic cheats.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80E59124",
+          "on": "C5FA104020",
+          "off": "C5FA104020"
+        },
+        {
+          "offset": "1DC7012",
+          "on": "48A3083F1D0200000000C5FA104020E90321097F",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80E59124",
+          "on": "E9E9DEF680",
+          "off": "C5FA104020"
+        }
+      ]
+    },
+    {
+      "name": "HP Master (Must Be ON)",
+      "hint": "Required for HP/One Hit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80A94115",
+          "on": "C5FA118558FFFFFF",
+          "off": "C5FA118558FFFFFF"
+        },
+        {
+          "offset": "1DC7106",
+          "on": "4C3B3DF3CD40007415C5FA108558FFFFFF909090C5FA118558FFFFFFEB13C5FA108558FFFFFF909090C5FA118558FFFFFFE9E1CFCC7E",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80A94115",
+          "on": "E9EC2F3381909090",
+          "off": "C5FA118558FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DC7124",
+          "on": "51B900000000660F6EC159",
+          "off": "C5FA118558FFFFFF909090"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DC710F",
+          "on": "51B9804FC347660F6EC159",
+          "off": "C5FA108558FFFFFF909090"
+        }
+      ]
+    },
+    {
+      "name": "Invincible",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80A95476",
+          "on": "C5FC110424",
+          "off": "C5FC110424"
+        },
+        {
+          "offset": "1DC7074",
+          "on": "4C3B3585CE40000F8400E4CC7EC5FC110424E9F0E3CC7E",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80A95476",
+          "on": "E9F91B3381",
+          "off": "C5FC110424"
+        }
+      ]
+    },
+    {
+      "name": "No Fall Damage",
+      "hint": "If you fall out of the map disable this cheat to die and respawn or reload save.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80A95BEA",
+          "on": "80781C01",
+          "off": "80781C00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Magic",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80A97E55",
+          "on": "C5FA114338",
+          "off": "C5FA114338"
+        },
+        {
+          "offset": "1DC708B",
+          "on": "C5FA10433CC5FA114338E9C00DCD7E",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80A97E55",
+          "on": "E931F23281",
+          "off": "C5FA114338"
+        },
+        {
+          "offset": "80FB74A2",
+          "on": "F30F10C8",
+          "off": "C5FA5DC1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81664F3E",
+          "on": "C5FA114354",
+          "off": "C5FA114354"
+        },
+        {
+          "offset": "1DC709A",
+          "on": "C5FA104358C5FA114354E99ADE897F",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "81664F3E",
+          "on": "E957217680",
+          "off": "C5FA114354"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Heal",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8165D6B1",
+          "on": "9090909090",
+          "off": "C5FA11432C"
+        }
+      ]
+    },
+    {
+      "name": "Max Heal on Gain",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81046C57",
+          "on": "C5FA11432C",
+          "off": "C5FA11432C"
+        },
+        {
+          "offset": "1DC7026",
+          "on": "C5FA104330C5FA11432CE927FC277F",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "81046C57",
+          "on": "E9CA03D880",
+          "off": "C5FA11432C"
+        }
+      ]
+    },
+    {
+      "name": "0 Weight",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "816662EF",
+          "on": "418985A8000000",
+          "off": "418985A8000000"
+        },
+        {
+          "offset": "1DC70A9",
+          "on": "4C3B2D58CE4000750231C0418985A8000000E936F2897F",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "816662EF",
+          "on": "E9B50D76809090",
+          "off": "418985A8000000"
+        }
+      ]
+    },
+    {
+      "name": "No Heat+Freeze Increase",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81665344",
+          "on": "C5EA5FD3C5F82ED1",
+          "off": "C5EA5FD3C5F82ED1"
+        },
+        {
+          "offset": "1DC70C0",
+          "on": "483B1D41CE400075030F57C0C5EA5FD3C5F82ED1E973E2897F",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81665344",
+          "on": "E9771D7680909090",
+          "off": "C5EA5FD3C5F82ED1"
+        }
+      ]
+    },
+    {
+      "name": "No Toxic Increase",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8166548D",
+          "on": "C5EA5FD3C5F82ED0",
+          "off": "C5EA5FD3C5F82ED0"
+        },
+        {
+          "offset": "1DC70D9",
+          "on": "483B1D28CE400075030F57E4C5EA5FD3C5F82ED0E9A3E3897F",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8166548D",
+          "on": "E9471C7680909090",
+          "off": "C5EA5FD3C5F82ED0"
+        }
+      ]
+    },
+    {
+      "name": "Max Axions when Infuse",
+      "hint": "You will be able to level up when you open the Infuse menu, to see changes you must level up or kill an enemy.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8165EA48",
+          "on": "498B471849894618",
+          "off": "498B471849894618"
+        },
+        {
+          "offset": "1DC70F2",
+          "on": "48C7C0FFC99A3B4989471849894618E94A79897F",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8165EA48",
+          "on": "E9A5867680909090",
+          "off": "498B471849894618"
+        }
+      ]
+    },
+    {
+      "name": "Max Axions on Get",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80A9822F",
+          "on": "4D01B7B8000000",
+          "off": "4D01B7B8000000"
+        },
+        {
+          "offset": "1DC7035",
+          "on": "49C787B8000000FFC99A3BE9F111CD7E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80A9822F",
+          "on": "E901EE32819090",
+          "off": "4D01B7B8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Axions",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80A9AC67",
+          "on": "90909090909090",
+          "off": "49898EB8000000"
+        },
+        {
+          "offset": "80C84852",
+          "on": "4831F6",
+          "off": "4829F0"
+        }
+      ]
+    },
+    {
+      "name": "Keep Axions after Death",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C848A6",
+          "on": "90909090909090",
+          "off": "4889B7B8000000"
+        }
+      ]
+    },
+    {
+      "name": "99999 Crafting Resources on Get",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "810AB3D3",
+          "on": "C743349F860100",
+          "off": "448973344489F1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Crafting Resources",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "810AB502",
+          "on": "4531F6",
+          "off": "4429F1"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Rizla"
+  ]
+}

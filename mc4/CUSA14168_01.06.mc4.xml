@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA14168" Game="Resident Evil 3" Moder="Celogamez" Process="eboot.bin" Version="01.06" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Horror"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="1 Hit Kill">
+</Cheat>
+<Cheat Text="Infinite Ammo">
+</Cheat>
+<Cheat Text="No Reload/Infinite Granades">
+</Cheat>
+<Cheat Text="Max Items on move from Storage">
+</Cheat>
+<Cheat Text="20 Inventory Slot">
+</Cheat>
+<Cheat Text="Save Always At 0">
+</Cheat>
+<Cheat Text="Reset Time (Enable/Disable)">
+</Cheat>
+</Trainer>

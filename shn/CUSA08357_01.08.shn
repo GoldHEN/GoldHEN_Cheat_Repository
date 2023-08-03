@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="WWE 2K18" Moder="DreamRunner" Cusa="CUSA08357" Version="01.08" Process="eboot.bin">
+  <Genres Name="Fighting" />
+  <Items />
+  <Cheat Text="Inf Finisher after use">
+    <Cheatline>
+      <Offset>2DD7800</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-1C-E7-03-00-00-E9-34-54-0D-FE-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>EACC3B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C0-AB-F2-01</ValueOn>
+      <ValueOff>29-C1-89-4B-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

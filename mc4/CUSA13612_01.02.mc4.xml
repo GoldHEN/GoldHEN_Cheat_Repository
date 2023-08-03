@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA13612" Game="Hitman - Blood Money HD" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Description="Infinite Health" Text="Infinite Health">
+</Cheat>
+<Cheat Description="Max Health" Text="Max Health">
+</Cheat>
+<Cheat Description="Max Ammo + No Reload" Text="Max Ammo + No Reload">
+</Cheat>
+<Cheat Description="Max Clip Ammo" Text="Max Clip Ammo">
+</Cheat>
+<Cheat Description="No Recoil" Text="No Recoil">
+</Cheat>
+<Cheat Description="Max Money" Text="Max Money">
+</Cheat>
+<Cheat Description="Set saved data to 0" Text="Set saved data to 0">
+</Cheat>
+</Trainer>

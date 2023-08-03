@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00031" Game="Rayman Legends" Moder="d01v" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Platformer"/>
+<Items/>
+<Cheat Text="Invisible (Run Disable / Turn off before entering Room)">
+</Cheat>
+<Cheat Text="Invulnerable (enemy only, not on traps)">
+</Cheat>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Always Start with Heart">
+</Cheat>
+<Cheat Text="Instant Teensy Unlock All">
+</Cheat>
+<Cheat Text="Increase Walk Speed x2 (MC)">
+</Cheat>
+<Cheat Text="Increase Walk Speed x3 (MC)">
+</Cheat>
+<Cheat Text="Instant Lucky Ticket">
+</Cheat>
+<Cheat Text="Instant 1m Lums">
+</Cheat>
+</Trainer>
