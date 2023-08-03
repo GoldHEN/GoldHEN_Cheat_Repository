@@ -1,0 +1,44 @@
+{
+  "name": "Call of Duty®: Black Ops Cold War",
+  "id": "CUSA15010",
+  "version": "01.39",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "125C69E",
+          "on": "90909090909090",
+          "off": "488B8D90FEFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12EBE77",
+          "on": "909090",
+          "off": "8B45F0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F0AEEE",
+          "on": "9090909090909090",
+          "off": "4189848EDC130000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "EchoStretch"
+  ]
+}
