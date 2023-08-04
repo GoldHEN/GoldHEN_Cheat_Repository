@@ -271,6 +271,7 @@ CUSA05040_01.12.json=NBA 2K17
 CUSA02629_01.00.json=Disgaea 5: Alliance of Vengeance
 CUSA11100_01.26.json=Call of Duty®: Black Ops 4
 CUSA35014_01.04.json=Moonscars
+CUSA31873_01.01.json=FIFA 23
 CUSA00434_01.25.json=Diablo III: Reaper of Souls – Ultimate Evil Edition
 CUSA10688_01.04.json=Injustice 2: Legendary Edition
 CUSA14046_01.31.json=World War Z Aftermath

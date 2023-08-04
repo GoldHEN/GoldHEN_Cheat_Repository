@@ -243,6 +243,7 @@ CUSA14046_01.41.mc4.xml=World War Z Aftermath
 CUSA02000_01.02.mc4.xml=Batman: Return to Arkham City
 CUSA01618_01.00.mc4.xml=Yu Gi Oh Legacy of the Duelist
 CUSA03467_01.00.mc4.xml=EARTH DEFENSE FORCE 4.1 The Shadow of New Despair
+CUSA20239_01.04_2.mc4.xml=Alex Kidd in Miracle World DX
 CUSA26967_01.01.mc4.xml=Tunic
 CUSA14835_01.91.mc4.xml=DRAGON BALL Z: KAKAROT
 CUSA03980_01.00.mc4.xml=BioShock Infinite: The Collection
