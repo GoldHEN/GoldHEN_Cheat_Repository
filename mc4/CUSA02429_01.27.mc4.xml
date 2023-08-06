@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA02429" Game="Battlefield 1" Moder="Celogamez" Process="eboot.bin" Version="01.27" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="God Mode">
+</Cheat>
+<Cheat Text="Infinite ammo">
+</Cheat>
+<Cheat Text="No Reload/Grenades/Tank Cannon/Plane Missiles">
+</Cheat>
+<Cheat Text="No Damage For Tank">
+</Cheat>
+<Cheat Text="No Damage For Plane (Disable For Tank)">
+</Cheat>
+</Trainer>

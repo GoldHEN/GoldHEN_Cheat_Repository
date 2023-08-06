@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA34255" Game="LEGO 2K Drive" Moder="fbin" Process="eboot.bin" Version="01.09" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Genres Name="Family"/>
+<Items/>
+<Cheat Text="Turbo Infinito">
+</Cheat>
+<Cheat Text="Grana Infinita - Ativar uma unica vez para pegar o valor e depois desative!">
+</Cheat>
+<Cheat Text="Nivel Maximo">
+</Cheat>
+</Trainer>
