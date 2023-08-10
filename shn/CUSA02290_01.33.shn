@@ -32,18 +32,4 @@
       <ValueOff>89-83-A4-6E-01-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite Ammo (Zombies mode)" Description="What/how/when is this Cheat: Change me!">
-    <Cheatline>
-      <Section>2</Section>
-      <Offset>151F861</Offset>
-      <ValueOn>C7-00-FF-03-00-00-E9-C1-45-C7-FF</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Section>2</Section>
-      <Offset>1193E2A</Offset>
-      <ValueOn>E9-32-BA-38-00-90</ValueOn>
-      <ValueOff>44-89-28-44-89-F0</ValueOff>
-    </Cheatline>
-  </Cheat>
 </Trainer>
