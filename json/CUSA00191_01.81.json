@@ -6,7 +6,6 @@
   "mods": [
     {
       "name": "Infinite Health",
-      "hint": null,
       "type": "button",
       "memory": [
         {
@@ -18,7 +17,6 @@
     },
     {
       "name": "Infinite Ammo",
-      "hint": null,
       "type": "checkbox",
       "memory": [
         {
