@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA17425" Game="Snow Runner" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.40" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Simulation"/>
+<Items/>
+<Cheat Description="Mastercode Money - XP ( must be activate )" Text="Mastercode Money - XP ( must be activate )">
+</Cheat>
+<Cheat Description="Infinite Fuel" Text="Infinite Fuel">
+</Cheat>
+<Cheat Description="No Damage" Text="No Damage">
+</Cheat>
+<Cheat Description="Max Repair Points" Text="Max Repair Points">
+</Cheat>
+<Cheat Description="Max Money Campaign [ MC ]" Text="Max Money Campaign [ MC ]">
+</Cheat>
+<Cheat Description="Max XP Campaign [ MC ]" Text="Max XP Campaign [ MC ]">
+</Cheat>
+<Cheat Description="Time of the Day [ Night ]" Text="Time of the Day [ Night ]">
+</Cheat>
+<Cheat Description="Time of the Day [ Morning ]" Text="Time of the Day [ Morning ]">
+</Cheat>
+<Cheat Description="Time of the Day [ Midday ]" Text="Time of the Day [ Midday ]">
+</Cheat>
+<Cheat Description="Time of the Day [ Afternoon ]" Text="Time of the Day [ Afternoon ]">
+</Cheat>
+<Cheat Description="Time of the Day [ Evening ]" Text="Time of the Day [ Evening ]">
+</Cheat>
+</Trainer>
