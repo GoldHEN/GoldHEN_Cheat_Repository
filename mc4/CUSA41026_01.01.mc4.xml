@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA41026" Game="Clunky Hero" Moder="Saso_9.00" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Untouchable">
+</Cheat>
+<Cheat Text="Inf HP/1 Hit Kill (Master Code)">
+</Cheat>
+<Cheat Text="1 Hit Kill (MC)">
+</Cheat>
+<Cheat Text="Unlimited Jump">
+</Cheat>
+<Cheat Text="Max Gold">
+</Cheat>
+<Cheat Text="Inf Consumables">
+</Cheat>
+</Trainer>
