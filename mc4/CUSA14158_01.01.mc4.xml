@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA14158" Game="Crocs World" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Arcade"/>
+<Items/>
+<Cheat Description="Max Lives" Text="Max Lives">
+</Cheat>
+<Cheat Description="Max Timer" Text="Max Timer">
+</Cheat>
+<Cheat Description="Max Gems" Text="Max Gems">
+</Cheat>
+<Cheat Description="Max Stones - [ Infinite Health ]" Text="Max Stones - [ Infinite Health ]">
+</Cheat>
+<Cheat Description="Max Score" Text="Max Score">
+</Cheat>
+<Cheat Description="Moon Jump" Text="Moon Jump">
+</Cheat>
+<Cheat Description="Unlock All Stages [ World 1 ]" Text="Unlock All Stages [ World 1 ]">
+</Cheat>
+<Cheat Description="Unlock All Stages [ World 2 ]" Text="Unlock All Stages [ World 2 ]">
+</Cheat>
+</Trainer>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA17858" Game="Crocs World 3" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Arcade"/>
+<Items/>
+<Cheat Description="Max Lives" Text="Max Lives">
+</Cheat>
+<Cheat Description="Max Timer" Text="Max Timer">
+</Cheat>
+<Cheat Description="Max Gems" Text="Max Gems">
+</Cheat>
+<Cheat Description="Max Stones - [ Infinite Health ]" Text="Max Stones - [ Infinite Health ]">
+</Cheat>
+<Cheat Description="Max Defeated Opponents" Text="Max Defeated Opponents">
+</Cheat>
+<Cheat Description="Moon Jump" Text="Moon Jump">
+</Cheat>
+<Cheat Description="Max Stars [ World Map ]" Text="Max Stars [ World Map ]">
+</Cheat>
+</Trainer>
