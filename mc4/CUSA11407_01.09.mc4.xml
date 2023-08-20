@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA37321" Game="Atomic Heart" Moder="Celogamez" Process="eboot.bin" Version="01.16" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health/Energy/Dash/Shock">
+</Cheat>
+<Cheat Text="No Reload">
+</Cheat>
+<Cheat Text="Infinite Neuropolymer/Resources (On Pick Up)">
+</Cheat>
+<Cheat Text="Infinite Neuropolymer/Resources (On Use)">
+</Cheat>
+</Trainer>

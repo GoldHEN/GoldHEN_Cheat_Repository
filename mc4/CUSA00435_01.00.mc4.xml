@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA00435" Game="Assassins Creed Freedom Cry" Moder="Saso_9.00" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Oxygen">
+</Cheat>
+<Cheat Text="Max Money/Ammo/Consumables/Ship Ammo (On Use)">
+</Cheat>
+<Cheat Text="No Reload">
+</Cheat>
+<Cheat Text="Infinite Ship Health">
+</Cheat>
+<Cheat Text="Max Swivel Ammo">
+</Cheat>
+<Cheat Text="Max Cargo (On Spend)">
+</Cheat>
+</Trainer>

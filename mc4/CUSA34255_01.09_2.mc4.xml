@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA34255" Game="Lego 2k Drive" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.09" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Racing"/>
+<Items/>
+<Cheat Description="Infinite Boost" Text="Infinite Boost">
+</Cheat>
+<Cheat Description="Max Money" Text="Max Money">
+</Cheat>
+<Cheat Description="Max XP" Text="Max XP">
+</Cheat>
+<Cheat Description="Ignore Mission Timer" Text="Ignore Mission Timer">
+</Cheat>
+<Cheat Description="Fast Smash Tour" Text="Fast Smash Tour">
+</Cheat>
+<Cheat Description="Max Score" Text="Max Score">
+</Cheat>
+</Trainer>

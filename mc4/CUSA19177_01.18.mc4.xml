@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA19177" Game="Construction Simulator" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.18" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Simulation"/>
+<Items/>
+<Cheat Description="Infinite Fuel" Text="Infinite Fuel">
+</Cheat>
+<Cheat Description="Perfect Vehicle Condition" Text="Perfect Vehicle Condition">
+</Cheat>
+<Cheat Description="Max Money" Text="Max Money">
+</Cheat>
+<Cheat Description="Max XP ( on gain )" Text="Max XP ( on gain )">
+</Cheat>
+</Trainer>

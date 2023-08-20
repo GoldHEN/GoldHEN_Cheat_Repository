@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA25335" Game="BLUE REFLECTION: Second Light" Moder="Wander FW9.00" Process="eboot.bin" Version="01.05" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite EP (turn off at the tutorial)">
+</Cheat>
+<Cheat Text="Experience Multiplier by 500">
+</Cheat>
+<Cheat Text="Experience Multiplier by 10000 (disable previous one)">
+</Cheat>
+<Cheat Text="80 items (on pickup and Craft)">
+</Cheat>
+<Cheat Text="90 TP (on spend )">
+</Cheat>
+</Trainer>

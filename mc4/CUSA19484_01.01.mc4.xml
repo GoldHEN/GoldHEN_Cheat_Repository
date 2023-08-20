@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA19484" Game="Panzer Dragoon Remake" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Description="Invincible" Text="Invincible">
+</Cheat>
+<Cheat Description="Infinite Health" Text="Infinite Health">
+</Cheat>
+<Cheat Description="Max Health" Text="Max Health">
+</Cheat>
+<Cheat Description="One Hit Kill" Text="One Hit Kill">
+</Cheat>
+<Cheat Description="Max Credits" Text="Max Credits">
+</Cheat>
+</Trainer>

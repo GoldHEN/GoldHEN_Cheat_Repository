@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA34306" Game="Tchia" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.13" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Description="Location Mastercode" Text="Location Save - Load Mastercode ( must be activate )">
+</Cheat>
+<Cheat Description="Infinite Stamina" Text="Infinite Stamina">
+</Cheat>
+<Cheat Description="Max Stamina" Text="Max Stamina">
+</Cheat>
+<Cheat Description="Infinite Mana" Text="Infinite Mana">
+</Cheat>
+<Cheat Description="Save Location [ MC ]" Text="Save Location [ MC ]">
+</Cheat>
+<Cheat Description="Load Location [ MC ]" Text="Load Location [ MC ]">
+</Cheat>
+<Cheat Description="Time of the Day [ Dawn ]" Text="Time of the Day [ Dawn ]">
+</Cheat>
+<Cheat Description="Time of the Day [ Noon ]" Text="Time of the Day [ Noon ]">
+</Cheat>
+<Cheat Description="Time of the Day [ Dusk ]" Text="Time of the Day [ Dusk ]">
+</Cheat>
+<Cheat Description="Time of the Day [ Midnight ]" Text="Time of the Day [ Midnight ]">
+</Cheat>
+<Cheat Description="Player Walk Speed [ x 2 ]" Text="Player Walk Speed [ x 2 ]">
+</Cheat>
+<Cheat Description="Player Walk Speed [ x 3 ]" Text="Player Walk Speed [ x 3 ]">
+</Cheat>
+<Cheat Description="Player Jump Height [ x 2 ]" Text="Player Jump Height [ x 2 ]">
+</Cheat>
+<Cheat Description="Player Jump Height [ x 3 ]" Text="Player Jump Height [ x 3 ]">
+</Cheat>
+<Cheat Description="Player Swim Speed [ x 1 ]" Text="Player Swim Speed [ x 1 ]">
+</Cheat>
+<Cheat Description="Player Swim Speed [ x 2 ]" Text="Player Swim Speed [ x 2 ]">
+</Cheat>
+<Cheat Description="Player Swim Speed [ x 3 ]" Text="Player Swim Speed [ x 3 ]">
+</Cheat>
+</Trainer>

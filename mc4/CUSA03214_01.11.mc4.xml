@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA03214" Game="FIFA 17" Moder="Wander FW9.00" Process="eboot.bin" Version="01.11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Sports"/>
+<Items/>
+<Cheat Text="max Score (while training)">
+</Cheat>
+<Cheat Text="Max Skill points (on use) Journey Mode">
+</Cheat>
+<Cheat Text="Max Budget (after selling Players)">
+</Cheat>
+</Trainer>
