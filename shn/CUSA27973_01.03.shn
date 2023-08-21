@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hades" Moder="Pharaoh2k" Cusa="CUSA27973" Version="01.03" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Health and Artefacts (Master Code)">
+    <Cheatline>
+      <Offset>90F800</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00-80-87-C3-40-90-90-90-80-3D-F6-FF-FF-FF-01-0F-85-9A-00-00-00-83-7D-D8-01-75-22-83-7D-E0-10-75-1C-81-7D-E8-47-40-D2-00-75-13-41-55-4C-8B-2D-CA-FF-FF-FF-4C-89-2B-41-5D-E9-1A-01-00-00-83-7D-D8-00-75-23-83-7D-E0-00-75-66-81-7D-E8-07-40-45-00-75-5D-81-7D-00-30-97-FF-EE-74-3A-81-7D-00-E0-99-FF-EE-75-4B-EB-2F-83-7D-D8-02-75-43-83-7D-E0-20-75-3D-81-7D-E8-87-40-40-00-75-34-83-FA-80-75-2F-83-3C-24-40-74-29-81-7B-07-40-03-00-00-75-20-83-7B-14-00-7F-1A-41-55-4C-8B-2D-5F-FF-FF-FF-4C-89-2B-48-89-1D-C5-07-2F-00-41-5D-E9-A8-00-00-00-80-3D-50-FF-FF-FF-01-75-61-48-39-1D-AE-07-2F-00-0F-84-92-00-00-00-83-7D-D8-02-75-24-83-7D-E0-20-75-48-81-7D-E8-87-40-40-00-75-3F-49-83-F8-02-75-39-83-7B-08-03-75-33-48-C7-03-00-00-00-00-EB-68-83-7D-D8-05-75-24-83-7D-E0-50-75-1E-81-7D-E8-47-C1-45-00-75-15-49-83-F8-02-75-0F-83-7B-08-03-75-09-48-C7-03-00-00-00-00-EB-3E-80-3D-E7-FE-FF-FF-01-75-35-83-3C-24-20-75-2F-83-7D-D8-07-75-29-83-7D-E0-70-75-23-81-7D-E8-C7-81-81-03-75-1A-48-83-F9-00-74-14-83-7B-08-03-75-0E-41-55-4C-8B-2D-AB-FE-FF-FF-4C-89-2B-41-5D-48-8B-03-48-8B-4D-D0-E9-D2-1C-99-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2A1631</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D5-E1-66-00-90-90</ValueOn>
+      <ValueOff>48-8B-03-48-8B-4D-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health (Must enable MC)" Description="Dying a few times in the game is an important part of the game story, so it's highly recommended to die and return back to House of Hades from time to time.">
+    <Cheatline>
+      <Offset>90F808</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill (Must enable MC)">
+    <Cheatline>
+      <Offset>90F809</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Artefacts on Get (Must enable MC)" Description="Artefacts are: Ambrosia, Diamond, Titan Blood, Keys, Gemstones, Nectar, Darkness">
+    <Cheatline>
+      <Offset>90F80A</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="God Mode">
+    <Cheatline>
+      <Offset>90FB00</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-05-AE-5D-34-00-00-00-00-00-C5-FA-59-05-A6-5D-34-00-C7-05-9C-5D-34-00-00-00-80-3F-E9-1F-8B-BF-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>508638</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C3-74-40-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-59-05-78-D2-74-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money">
+    <Cheatline>
+      <Offset>90F966</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00-F0-69-F8-40-81-3C-24-B0-99-FF-EE-74-0B-83-FA-C0-74-06-49-83-F8-07-7C-30-83-7D-D8-03-75-2A-83-7D-E0-30-75-24-81-7D-E8-CA-00-01-82-75-1B-81-7D-00-B0-97-FF-EE-75-12-48-A1-66-F9-D0-00-00-00-00-00-49-89-06-E9-52-1E-99-FF-48-8B-01-49-89-06-E9-47-1E-99-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2A17FE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6B-E1-66-00-90</ValueOn>
+      <ValueOff>48-8B-01-49-89-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Walk Speed (Master Code)" Description="Some enemies speed is also effected by this cheat">
+    <Cheatline>
+      <Offset>90FA66</Offset>
+      <Section>0</Section>
+      <ValueOn>50-B8-00-00-80-3F-41-89-87-AC-03-00-00-58-C4-C1-72-59-8F-AC-03-00-00-E9-06-09-C4-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>55037F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E2-F6-3B-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-72-59-8F-AC-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Speed x1.5 (Must enable walk speed MC)">
+    <Cheatline>
+      <Offset>90FA68</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-C0-3F</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Speed x2 (Must enable walk speed MC)">
+    <Cheatline>
+      <Offset>90FA68</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Speed x3 (Must enable walk speed MC)">
+    <Cheatline>
+      <Offset>90FA68</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-40-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Cast Bullets">
+    <Cheatline>
+      <Offset>337D91</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Clip">
+    <Cheatline>
+      <Offset>556B69</Offset>
+      <Section>0</Section>
+      <ValueOn>75-3F</ValueOn>
+      <ValueOff>74-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
