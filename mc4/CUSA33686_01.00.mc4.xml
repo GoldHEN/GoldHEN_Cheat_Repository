@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA33686" Game="Remoteness" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Description="Mastercode Save - Load Position ( must be activate )" Text="Mastercode Save - Load Position ( must be activate )">
+</Cheat>
+<Cheat Description="Infinite Health" Text="Infinite Health">
+</Cheat>
+<Cheat Description="Infinite Asthma" Text="Infinite Asthma">
+</Cheat>
+<Cheat Description="Infinite Stamina" Text="Infinite Stamina">
+</Cheat>
+<Cheat Description="Infinite Electro Energy" Text="Infinite Electro Energy">
+</Cheat>
+<Cheat Description="Max Medipacks ( on use )" Text="Max Medipacks ( on use )">
+</Cheat>
+<Cheat Description="Max Asthma Injections ( on use )" Text="Max Asthma Injections ( on use )">
+</Cheat>
+<Cheat Description="Max Ammo" Text="Max Ammo">
+</Cheat>
+<Cheat Description="Max Ammo Clip" Text="Max Ammo Clip">
+</Cheat>
+<Cheat Description="Max Grenades" Text="Max Grenades">
+</Cheat>
+<Cheat Description="Infinite Health [ Hanna ]" Text="Infinite Health [ Hanna ]">
+</Cheat>
+<Cheat Description="Infinite Ammo [ Hanna ]" Text="Infinite Ammo [ Hanna ]">
+</Cheat>
+<Cheat Description="Save Location [ MC ]" Text="Save Location [ MC ]">
+</Cheat>
+<Cheat Description="Load Location [ MC ]" Text="Load Location [ MC ]">
+</Cheat>
+<Cheat Description="Jump Height x 2 Multiplier [ Player ]" Text="Jump Height x 2 Multiplier [ Player ]">
+</Cheat>
+<Cheat Description="Jump Height x 3 Multiplier [ Player ]" Text="Jump Height x 3 Multiplier [ Player ]">
+</Cheat>
+<Cheat Description="Speed x 2 Multiplier [ Player ]" Text="Speed x 2 Multiplier [ Player ]">
+</Cheat>
+<Cheat Description="Speed x 4 Multiplier [ Player ]" Text="Speed x 4 Multiplier [ Player ]">
+</Cheat>
+<Cheat Description="Speed x 6 Multiplier [ Player ]" Text="Speed x 6 Multiplier [ Player ]">
+</Cheat>
+</Trainer>

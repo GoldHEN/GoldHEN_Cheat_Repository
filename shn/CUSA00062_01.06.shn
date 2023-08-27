@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="ALIENATION" Moder="Pharaoh2k" Cusa="CUSA00062" Version="01.06" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Master Switch (enable this first)" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1E9F800</Offset>
+      <ValueOn>80-3D-65-00-00-00-01-75-1C-83-F8-F9-75-17-81-7F-10-AB-37-32-9A-75-49-41-52-44-8B-57-F8-44-89-57-08-41-5A-EB-3B-83-F8-FB-75-36-81-7F-10-01-CD-1F-96-75-2D-83-7F-34-01-74-17-80-3D-2D-00-00-00-01-75-1E-41-52-44-8B-57-38-44-89-57-08-41-5A-EB-10-80-3D-18-00-00-00-01-75-07-C7-47-08-00-00-80-3F-48-8B-57-08-4C-39-D2-E9-EB-4D-31-FE-90-90-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1B4650</Offset>
+      <ValueOn>E9-AB-B1-CE-01-90-90</ValueOn>
+      <ValueOff>48-8B-57-08-4C-39-D2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>01E9F86C</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>01E9F86D</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill">
+    <Cheatline>
+      <Offset>01E9F86F</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Pause/Unpause Game (Click Touch-Pad+Dpad Right/Left)" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1E9F900</Offset>
+      <ValueOn>50-A1-B8-CD-C3-00-02-00-00-00-3D-20-00-10-00-75-0C-C7-05-E5-C6-6D-00-00-00-00-00-EB-11-3D-80-00-10-00-75-0A-C7-05-D2-C6-6D-00-00-00-80-3F-83-3D-CB-C6-6D-00-00-58-75-0D-C5-FA-59-05-C0-C6-6D-00-E9-15-A7-56-FF-C5-FA-59-05-05-00-00-00-E9-08-A7-56-FF-90-90-80-3F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>140A052</Offset>
+      <ValueOn>E9-A9-58-A9-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-59-05-BE-1C-38-01</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>257C000</Offset>
+      <ValueOn>00-00-00-01</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

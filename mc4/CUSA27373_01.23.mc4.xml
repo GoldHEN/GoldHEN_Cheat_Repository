@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA27373" Game="The Callisto Protocol" Moder="Celogamez" Process="eboot.bin" Version="01.23" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Horror"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="1 Hit Kill">
+</Cheat>
+<Cheat Text="No Reload">
+</Cheat>
+<Cheat Text="Infinite GRP">
+</Cheat>
+<Cheat Text="Max Callisto Credits">
+</Cheat>
+<Cheat Text="Infinite Health (Rebelion Mode)">
+</Cheat>
+<Cheat Text="1 Hit Kill (Rebelion Mode)">
+</Cheat>
+<Cheat Text="Max Fury (By Earning Points)">
+</Cheat>
+</Trainer>
