@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA03440" Game="accc" Moder="Saso_9.00" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Inf Health">
+</Cheat>
+<Cheat Text="Infinite Throwables">
+</Cheat>
+<Cheat Text="Inf Helix">
+</Cheat>
+</Trainer>
