@@ -1090,6 +1090,7 @@ CUSA17801_01.25.json=Hellpoint
 CUSA03946_01.07.json=Dying Light: The Following – Enhanced Edition
 CUSA07670_01.01_game.elf.json=KNACK™ 2
 CUSA32805_01.03.json=Samurai Bringer
+CUSA15010_01.40.json=Call of Duty®: Black Ops Cold War
 CUSA12025_01.10.json=KINGDOM HEARTS Ⅲ
 CUSA17573_01.05.json=FAIRY TAIL
 CUSA12605_01.02.json=DEATH STRANDING™
