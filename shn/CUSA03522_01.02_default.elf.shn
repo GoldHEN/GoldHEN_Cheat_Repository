@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call of Duty®: Modern Warfare® Remastered" Moder="x3shakir" Cusa="CUSA03522" Version="01.02" Process="default.elf">
+  <Genres Name="Action" />
+  <Cheat Text="Infinite Health/1 Hit Kill (Master Code/Must Be On)">
+    <Cheatline>
+      <Offset>7FC5BF90</Offset>
+      <Section>0</Section>
+      <ValueOn>48-81-FF-80-5F-E4-06-75-0D-EB-0B-41-C7-87-84-01-00-00-E7-03-00-00-41-8B-87-84-01-00-00-E9-A7-70-78-80-31-C0-41-89-87-84-01-00-00-E9-99-70-78-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3E3052</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-39-8F-87-7F-90-90</ValueOn>
+      <ValueOff>41-8B-87-84-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health (Enable MC)">
+    <Cheatline>
+      <Offset>5BF99</Offset>
+      <Section>6</Section>
+      <ValueOn>EB-00</ValueOn>
+      <ValueOff>EB-0B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill (Enable MC)">
+    <Cheatline>
+      <Offset>5BF97</Offset>
+      <Section>6</Section>
+      <ValueOn>75-19</ValueOn>
+      <ValueOff>75-0D</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>690BA9</Offset>
+      <Section>0</Section>
+      <ValueOn>89-DB-90-90</ValueOn>
+      <ValueOff>44-29-70-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="NoReload/InfGrenades">
+    <Cheatline>
+      <Offset>690924</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>44-29-74-88-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

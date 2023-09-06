@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call of Duty: Modern Warfare Remastered" Moder="x3shakir" Cusa="CUSA03522" Version="01.02" Process="default_mp.elf">
+  <Genres Name="Action" />
+  <Cheat Text="Godmode Client 1">
+    <Cheatline>
+      <Offset>7FC5BE10</Offset>
+      <Section>0</Section>
+      <ValueOn>48-81-FE-30-0C-53-07-75-0B-2B-9E-D0-01-00-00-E9-34-87-8E-80-29-9E-D0-01-00-00-E9-29-87-8E-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>544552</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B9-78-71-7F-90</ValueOn>
+      <ValueOff>29-9E-D0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Client Godmode">
+    <Cheatline>
+      <Offset>544552</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>29-9E-D0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Client Infinite Ammo">
+    <Cheatline>
+      <Offset>3456D9</Offset>
+      <Section>0</Section>
+      <ValueOn>89-DB-90-90</ValueOn>
+      <ValueOff>44-29-70-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Grenades">
+    <Cheatline>
+      <Offset>339D21</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>FF-48-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>342F96</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>44-29-74-88-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
