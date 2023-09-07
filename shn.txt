@@ -30,6 +30,7 @@ CUSA01760_01.00.shn=DARK SOULS II - Scholar of the First Sin
 CUSA11260_01.12.shn=Death Stranding
 CUSA01589_01.02.shn=DARK SOULS II - Scholar of the First Sin
 CUSA13275_01.23.shn=Doom Eternal 1.23
+CUSA27373_01.23.shn=Callisto Protocol
 CUSA01082_01.06.shn=The Evil Within
 CUSA02343_01.02_big3-ps4_Shipping.elf.shn=Uncharted: The Nathan Drake Collection™ (Drakes Deception)
 CUSA02882_01.00_bh0hd.elf.shn=Resident Evil 0 (Origins Collection)
