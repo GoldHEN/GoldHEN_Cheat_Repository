@@ -260,6 +260,7 @@ CUSA04841_03.05.shn=No Man's Sky
 CUSA10007_01.22.shn=Friday The 13Th The Game
 CUSA07439_01.03.shn=Dark Souls III - The Fire Fades Edition
 CUSA05933_01.00_khBBS.elf.shn=Kingdom Hearts Birth by Sleep
+CUSA07399_01.07.shn=Crash Bandicoot N-Sane Trilogy
 CUSA02320_01.02_2.shn=Uncharted: The Nathan Drake Collection™ (Drakes Fortune)
 CUSA14212_01.11.shn=Generation Zero
 CUSA03173_01.00.shn=Bloodborne GOTY
