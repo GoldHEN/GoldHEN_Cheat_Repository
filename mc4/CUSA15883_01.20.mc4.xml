@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA15883" Game="River City Girls" Moder="Saso_9.00" Process="eboot.bin" Version="01.20" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="1 Hit Kill">
+</Cheat>
+<Cheat Text="Max Money">
+</Cheat>
+<Cheat Text="Fast Lvl Up / EXP">
+</Cheat>
+</Trainer>
