@@ -102,7 +102,7 @@
       <ValueOff>48-83-7F-78-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="[03][Player] No Death When Falling/Going Out Of Limits">
+  <Cheat Text="[03][Player] No Death When Falling/Going Out Of Limits" Description="Sorry about this cheat. Turn it OFF if you use an Empyrean Key and want to teleport to the battle.">
     <Cheatline>
       <Offset>22D1E10</Offset>
       <Section>0</Section>
