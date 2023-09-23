@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA27693" Game="Tank Mechanic Simulator" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.07" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Simulation"/>
+<Items/>
+<Cheat Description="Max Money ( on gain )" Text="Max Money ( on gain )">
+</Cheat>
+<Cheat Description="Max Reputation Points" Text="Max Reputation Points">
+</Cheat>
+<Cheat Description="Max Crafting Points" Text="Max Crafting Points">
+</Cheat>
+</Trainer>

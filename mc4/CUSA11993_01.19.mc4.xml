@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA11993" Game="Marvel Spiderman" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.19" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Description="Mastercode ( must be activate for [ MC ] Cheats )" Text="Mastercode ( must be activate for [ MC ] Cheats )">
+</Cheat>
+<Cheat Description="Infinite Health [ MC ]" Text="Infinite Health [ MC ]">
+</Cheat>
+<Cheat Description="Max Health [ MC ]" Text="Max Health [ MC ]">
+</Cheat>
+<Cheat Description="Infinite Focus" Text="Infinite Focus">
+</Cheat>
+<Cheat Description="Stealth Mode" Text="Stealth Mode">
+</Cheat>
+<Cheat Description="Max XP ( on gain )" Text="Max XP ( on gain )">
+</Cheat>
+<Cheat Description="Max Skillpoints" Text="Max Skillpoints">
+</Cheat>
+<Cheat Description="Max Combo" Text="Max Combo">
+</Cheat>
+<Cheat Description="Max Ressources + Shoots" Text="Max Ressources + Shoots">
+</Cheat>
+<Cheat Description="Save Position [ MC ]" Text="Save Position [ MC ]">
+</Cheat>
+<Cheat Description="Load Position [ MC ]" Text="Load Position [ MC ]">
+</Cheat>
+<Cheat Description="Max Benchmarks" Text="Max Benchmarks">
+</Cheat>
+<Cheat Description="Max Score ( on gain )" Text="Max Score ( on gain )">
+</Cheat>
+<Cheat Description="Max Timer" Text="Max Timer">
+</Cheat>
+</Trainer>

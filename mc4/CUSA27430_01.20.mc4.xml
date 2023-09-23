@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA27430" Game="Skul the Hero Slayer" Moder="Celogamez" Process="eboot.bin" Version="01.20" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="No Cooldown">
+</Cheat>
+<Cheat Text="Infinite Jumps">
+</Cheat>
+<Cheat Text="Max/Infinite Coins/Crystals/Bones (Disable After Gain)">
+</Cheat>
+</Trainer>

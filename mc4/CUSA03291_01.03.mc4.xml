@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA03291" Game="Dead Island Definitive Edition" Moder="Celogamez" Process="eboot.bin" Version="01.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="Max/Infinite Health">
+</Cheat>
+<Cheat Text="1 Hit Kill">
+</Cheat>
+<Cheat Text="Infinite Stamina">
+</Cheat>
+<Cheat Text="Infinite Weapons Durability">
+</Cheat>
+<Cheat Text="Infinite Items">
+</Cheat>
+<Cheat Text="Infinite Flashlight">
+</Cheat>
+<Cheat Text="Max XP">
+</Cheat>
+<Cheat Text="Max/Infinite Money">
+</Cheat>
+</Trainer>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA08798" Game="Darksiders 3" Moder="Celogamez" Process="eboot.bin" Version="01.11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Max/Infinite Health">
+</Cheat>
+<Cheat Text="1 Hit Kill">
+</Cheat>
+<Cheat Text="Super Jump">
+</Cheat>
+<Cheat Text="Mega Jump">
+</Cheat>
+<Cheat Text="Max Consumables/Cristals/Igredients/Tokens On Buy/Pick/Sell (x2 To Work)">
+</Cheat>
+<Cheat Text="Max/Infinite Souls/Ingredients/Cristals/Tokens On Buy/Use (x2 To Work)">
+</Cheat>
+<Cheat Text="Instant/Infinite Wrath Attack+Havoc Form (1 Hit)">
+</Cheat>
+<Cheat Text="Infinite Consumables On Use">
+</Cheat>
+<Cheat Text="Infinite Attribute Points">
+</Cheat>
+</Trainer>
