@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA36848" Game="Lies Of Pi" Moder="Celogamez" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Infinite Health+Stamina+Fable+Legion">
+</Cheat>
+<Cheat Text="Infinite Health+Stamina+Fable+Legion+1 Hit Kill">
+</Cheat>
+<Cheat Text="Max Items On Pick Up (x2 To Work)">
+</Cheat>
+<Cheat Text="Infinite Items on Use">
+</Cheat>
+<Cheat Text="Infinite Weapons Durability">
+</Cheat>
+<Cheat Text="Max Ergo">
+</Cheat>
+</Trainer>

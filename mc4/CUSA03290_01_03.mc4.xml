@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA03290" Game="Dead Island Riptide Definitive Edition" Moder="Celogamez" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Horror"/>
+<Items/>
+<Cheat Text="Max/Infinite Health">
+</Cheat>
+<Cheat Text="1 Hit Kill">
+</Cheat>
+<Cheat Text="Infinite Stamina">
+</Cheat>
+<Cheat Text="Infinite Ammo">
+</Cheat>
+<Cheat Text="No Reload">
+</Cheat>
+<Cheat Text="Infinite Items On Use/Buy/sell (2 To Work)">
+</Cheat>
+<Cheat Text="Infinite Weapons Durability">
+</Cheat>
+<Cheat Text="Infinite Flashlight">
+</Cheat>
+<Cheat Text="Instant Max Fury On Kill">
+</Cheat>
+<Cheat Text="Max/Infinite Fury On Use">
+</Cheat>
+<Cheat Text="Max XP/Levels">
+</Cheat>
+<Cheat Text="Max/Infinite Money On Pick">
+</Cheat>
+</Trainer>

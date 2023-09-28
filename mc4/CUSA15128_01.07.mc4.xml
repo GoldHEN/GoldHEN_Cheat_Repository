@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA15128" Game="Dysmantle" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.07" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Trainer Cusa="CUSA15128" Game="DYSMANTLE" Moder="Reddevil82 ,  FW 9.00" Process="eboot.bin" Version="01.07" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Genres Name="Adventure"/>
 <Items/>
-<Cheat Description="Mastercode ( must be activate for [ MC ] Cheats )" Text="Mastercode ( must be activate for [ MC ] Cheats )">
+<Cheat Text="Mastercode ( must be activate for [ MC ] Cheats )">
 </Cheat>
-<Cheat Description="Invincibility [ MC ]" Text="Invincibility [ MC ]">
+<Cheat Text="Invincibility [ MC ]">
 </Cheat>
-<Cheat Description="Cinematic Mode [ MC ]" Text="Cinematic Mode [ MC ]">
+<Cheat Text="Cinematic Mode [ MC ]">
 </Cheat>
-<Cheat Description="Infinite Health" Text="Infinite Health">
+<Cheat Text="Infinite Health">
 </Cheat>
-<Cheat Description="One Hit Kill - Fast Destroy" Text="One Hit Kill - Fast Destroy">
+<Cheat Text="One Hit Kill - Fast Destroy">
 </Cheat>
-<Cheat Description="Infinite Projectiles" Text="Infinite Projectiles">
+<Cheat Text="Infinite Projectiles">
 </Cheat>
-<Cheat Description="Perfect Temperature" Text="Perfect Temperature">
+<Cheat Text="Perfect Temperature">
 </Cheat>
-<Cheat Description="Max Items ( on gain - need 2 )" Text="Max Items ( on gain - need 2 )">
+<Cheat Text="Max Items ( on gain - need 2 )">
 </Cheat>
-<Cheat Description="Max Collectable Slots" Text="Max Collectable Slots">
+<Cheat Text="Max Collectable Slots">
 </Cheat>
-<Cheat Description="Max XP" Text="Max XP">
+<Cheat Text="Max XP">
 </Cheat>
-<Cheat Description="Zero Deaths" Text="Zero Deaths">
+<Cheat Text="Zero Deaths">
 </Cheat>
-<Cheat Description="Save Location [ MC ]" Text="Save Location [ MC ]">
+<Cheat Text="Save Location [ MC ]">
 </Cheat>
-<Cheat Description="Load Location [ MC ]" Text="Load Location [ MC ]">
+<Cheat Text="Load Location [ MC ]">
 </Cheat>
-<Cheat Description="Game Speed [ Normal ]" Text="Game Speed [ Normal ]">
+<Cheat Text="Game Speed [ Normal ]">
 </Cheat>
-<Cheat Description="Game Speed [ x 2 ]" Text="Game Speed [ x 2 ]">
+<Cheat Text="Game Speed [ x 2 ]">
 </Cheat>
-<Cheat Description="Game Speed [ x 3 ]" Text="Game Speed [ x 3 ]">
+<Cheat Text="Game Speed [ x 3 ]">
 </Cheat>
-<Cheat Description="Game Speed [ x 4 ]" Text="Game Speed [ x 4 ]">
+<Cheat Text="Game Speed [ x 4 ]">
 </Cheat>
-<Cheat Description="Game Speed [ x 5 ]" Text="Game Speed [ x 5 ]">
+<Cheat Text="Game Speed [ x 5 ]">
 </Cheat>
 </Trainer>
