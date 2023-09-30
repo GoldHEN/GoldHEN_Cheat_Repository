@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA36848" Game="Lies of P" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Description="Mastercode ( must be activated for [ MC ] Cheats )" Text="Mastercode ( must be activated for [ MC ] Cheats )">
+</Cheat>
+<Cheat Description="Infinite Health [ MC ]" Text="Infinite Health [ MC ]">
+</Cheat>
+<Cheat Description="Max Health [ MC ]" Text="Max Health [ MC ]">
+</Cheat>
+<Cheat Description="One Hit Kill [ MC ]" Text="One Hit Kill [ MC ]">
+</Cheat>
+<Cheat Description="Infinite Stamina [ MC ]" Text="Infinite Stamina [ MC ]">
+</Cheat>
+<Cheat Description="Max Stamina [ MC ]" Text="Max Stamina [ MC ]">
+</Cheat>
+<Cheat Description="Infinite Legion [ MC ]" Text="Infinite Legion [ MC ]">
+</Cheat>
+<Cheat Description="Max Legion [ MC ]" Text="Max Legion [ MC ]">
+</Cheat>
+<Cheat Description="Infinite Blade Shapeness ( on use )" Text="Infinite Blade Shapeness ( on use )">
+</Cheat>
+<Cheat Description="Infinite Fable" Text="Infinite Fable">
+</Cheat>
+<Cheat Description="Max Items" Text="Max Items">
+</Cheat>
+<Cheat Description="Max Ergo ( on gain )" Text="Max Ergo ( on gain )">
+</Cheat>
+<Cheat Description="Zero Weight" Text="Zero Weight">
+</Cheat>
+<Cheat Description="Save Location [ MC ]" Text="Save Location [ MC ]">
+</Cheat>
+<Cheat Description="Load Location [ MC ]" Text="Load Location [ MC ]">
+</Cheat>
+<Cheat Description="Player Speed [ x 2 ]" Text="Player Speed [ x 2 ]">
+</Cheat>
+<Cheat Description="Player Speed [ x 3 ]" Text="Player Speed [ x 3 ]">
+</Cheat>
+<Cheat Description="Player Speed [ x 4 ]" Text="Player Speed [ x 4 ]">
+</Cheat>
+</Trainer>
