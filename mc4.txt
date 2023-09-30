@@ -418,6 +418,7 @@ CUSA01140_01.16.mc4.xml=Metal Gear Solid V - The Phantom Pain
 CUSA03291_01.03.mc4.xml=Dead Island Definitive Edition
 CUSA02491_01.00.mc4.xml=Mass Effect Andromeda
 CUSA01618_01.00.mc4.xml=Yu Gi Oh Legacy of the Duelist
+CUSA36848_01.02.mc4.xml=Lies of P
 CUSA35719_01.01.mc4.xml=Bramble the Mountain King
 CUSA16164_01.28.mc4.xml=Sniper Elite 5
 CUSA14000_01.00.mc4.xml=Ghoul Boy
