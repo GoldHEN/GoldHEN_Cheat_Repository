@@ -19,6 +19,7 @@ CUSA00135_01.14.mc4.xml=Batman : Arkham Knight
 CUSA12584_01.27_2.mc4.xml=Dying Light 2 Stay Human
 CUSA11638_03.01.mc4.xml=Jump Force
 CUSA00005_01.10.mc4.xml=Resogun
+CUSA36848_01.01_2.mc4.xml=Lies of P
 CUSA00016_01.00.mc4.xml=Watch Dogs
 CUSA27973_01.03.mc4.xml=Hades
 CUSA10872_01.00.mc4.xml=Shadow of Tomb Raider (Definitive Edition)
