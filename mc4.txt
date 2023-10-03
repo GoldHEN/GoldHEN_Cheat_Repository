@@ -292,6 +292,7 @@ CUSA31459_01.01.mc4.xml=Guardian of Lore
 CUSA05532_01.07.mc4.xml=FINAL FANTASY 12 THE ZODIAC AGE 
 CUSA16253_01.02.mc4.xml=Corpse Killer
 CUSA32805_01.03.mc4.xml=Red Dead Redemption 2
+CUSA26944_01.04.mc4.xml=The Forgotten City
 CUSA12943_01.03.mc4.xml=The Hong Kong Massacre
 CUSA33616_01.03.mc4.xml=Lord of the Rings Gollum
 CUSA05725_04.00.mc4.xml=The Witcher 3: Wild Hunt - Complete Edition
