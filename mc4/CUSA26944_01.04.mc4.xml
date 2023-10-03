@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA26944" Game="The Forgotten City" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Description="Mastercode ( must be activated for [ MC ] Cheats )" Text="Mastercode ( must be activated for [ MC ] Cheats )">
+</Cheat>
+<Cheat Description="Infinite Health [ MC ]" Text="Infinite Health [ MC ]">
+</Cheat>
+<Cheat Description="Max Health [ MC ]" Text="Max Health [ MC ]">
+</Cheat>
+<Cheat Description="Max Denar [ MC ]" Text="Max Denar [ MC ]">
+</Cheat>
+<Cheat Description="Max Items [ MC ]" Text="Max Items [ MC ]">
+</Cheat>
+<Cheat Description="Infinite Oxygen [ MC ]" Text="Infinite Oxygen [ MC ]">
+</Cheat>
+<Cheat Description="Max Oxygen [ MC ]" Text="Max Oxygen [ MC ]">
+</Cheat>
+<Cheat Description="Save Location [ MC ]" Text="Save Location [ MC ]">
+</Cheat>
+<Cheat Description="Load Location [ MC ]" Text="Load Location [ MC ]">
+</Cheat>
+<Cheat Description="Player Speed [ x 2 ]" Text="Player Speed [ x 2 ]">
+</Cheat>
+<Cheat Description="Player Speed [ x 3 ]" Text="Player Speed [ x 3 ]">
+</Cheat>
+<Cheat Description="Player Speed [ x 4 ]" Text="Player Speed [ x 4 ]">
+</Cheat>
+</Trainer>
