@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA42847" Game="Slaps and Beans 2" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Arcade"/>
+<Items/>
+<Cheat Description="Infinite Health" Text="Infinite Health">
+</Cheat>
+<Cheat Description="Infinite Stamina" Text="Infinite Stamina">
+</Cheat>
+<Cheat Description="One Hit Kill" Text="One Hit Kill">
+</Cheat>
+<Cheat Description="Max Score" Text="Max Score">
+</Cheat>
+<Cheat Description="Infinite Boat Health" Text="Infinite Boat Health">
+</Cheat>
+<Cheat Description="Mastercode Timer Settings ( must be activated for [ MC ] Cheats )" Text="Mastercode Timer Settings ( must be activated for [ MC ] Cheats )">
+</Cheat>
+<Cheat Description="Freeze Timer Pelota [ MC ]" Text="Freeze Timer Pelota [ MC ]">
+</Cheat>
+<Cheat Description="Set Timer to 5 Minutes Pelota [ MC ]" Text="Set Timer to 5 Minutes Pelota [ MC ]">
+</Cheat>
+</Trainer>

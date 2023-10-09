@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA04893" Game="acb" Moder="Saso_9.00" Process="ScimitarACB.elf" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Inf Health">
+</Cheat>
+<Cheat Text="No Notoriety">
+</Cheat>
+<Cheat Text="Max Money (On Spend)">
+</Cheat>
+<Cheat Text="Inf Consumables">
+</Cheat>
+<Cheat Text="Eazy Kill">
+</Cheat>
+</Trainer>
