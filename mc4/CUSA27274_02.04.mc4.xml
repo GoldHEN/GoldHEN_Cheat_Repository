@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA27274" Game="Orcs must Die 3" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="02.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Strategy"/>
+<Items/>
+<Cheat Description="Infinite Health" Text="Infinite Health">
+</Cheat>
+<Cheat Description="Infinite Stamina" Text="Infinite Stamina">
+</Cheat>
+<Cheat Description="Max Money" Text="Max Money">
+</Cheat>
+<Cheat Description="Max Score ( on gain )" Text="Max Score ( on gain )">
+</Cheat>
+<Cheat Description="Max Rift Points ( on gain )" Text="Max Rift Points ( on gain )">
+</Cheat>
+<Cheat Description="Max Skulls" Text="Max Skulls">
+</Cheat>
+</Trainer>
