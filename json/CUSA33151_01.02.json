@@ -1,0 +1,139 @@
+{
+  "name": "Assassin's Creed® Mirage",
+  "id": "CUSA33151",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "666FE30",
+          "on": "66C787680100006400E9A27C32FC",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "2997ADA",
+          "on": "E95183CD0390",
+          "off": "899768010000"
+        }
+      ]
+    },
+    {
+      "name": "1Hit kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "666FDE0",
+          "on": "C7876801000000000000E93D292EFC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2952726",
+          "on": "E9B5D6D10390",
+          "off": "89B768010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina (Basim)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "666FDA2",
+          "on": "C7430C0000C842E910707BFC57616E646572204657392E3030",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "2E26DB9",
+          "on": "E9E48F8403",
+          "off": "C5FA11530C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Oxygen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "666FEE0",
+          "on": "C780B406000000004842E9EB294DFB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1B428D2",
+          "on": "E909D6B204909090",
+          "off": "C5FA1180B4060000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Focus use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "666FF70",
+          "on": "C743340000FA43E933D898FD",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "3FFD7AA",
+          "on": "E9C1276702",
+          "off": "C5FA114334"
+        }
+      ]
+    },
+    {
+      "name": "Mount Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "666FF20",
+          "on": "41C7450C0000C842E9327C7BFC",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "2E27B59",
+          "on": "E9C283840390",
+          "off": "C4C17A11450C"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill Points (on Gain)keep the cheat on ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "666FFB0",
+          "on": "C6421063899848010000E943B177FC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2DEB0F9",
+          "on": "E9B24E880390909090",
+          "off": "895A10899848010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Dirhams/Tokens/Tools/Resources(on use/spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "666FE70",
+          "on": "41C704240F2700000F8726CA8EFCE97CC98EFC",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2F5C7F5",
+          "on": "E9763671039090909090",
+          "off": "418904240F87A5000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}
