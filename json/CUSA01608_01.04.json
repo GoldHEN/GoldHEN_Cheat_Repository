@@ -1,0 +1,23 @@
+{
+  "name": "Enter The Gungeon",
+  "id": "CUSA01608",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80746CBD",
+          "on": "90909090909090",
+          "off": "C4C17A11442458"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}
