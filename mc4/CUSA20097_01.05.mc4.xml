@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA20097" Game="Thief Simulator" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.05" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Simulation"/>
+<Items/>
+<Cheat Description="Max Money" Text="Max Money">
+</Cheat>
+<Cheat Description="Max Skillpoints ( on use )" Text="Max Skillpoints ( on use )">
+</Cheat>
+<Cheat Description="Max Weight ( after Upgrade )" Text="Max Weight ( after Upgrade )">
+</Cheat>
+<Cheat Description="No Noise Mode" Text="No Noise Mode">
+</Cheat>
+</Trainer>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA33315" Game="Adventure of Chris" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Description="Mastercode Weapon ( must be activated for [ MC ] Cheats )" Text="Mastercode Weapon ( must be activated for [ MC ] Cheats )">
+</Cheat>
+<Cheat Description="Infinite Health" Text="Infinite Health">
+</Cheat>
+<Cheat Description="Max Health" Text="Max Health">
+</Cheat>
+<Cheat Description="Infinite Helium" Text="Infinite Helium">
+</Cheat>
+<Cheat Description="Infinite Mana" Text="Infinite Mana">
+</Cheat>
+<Cheat Description="Max Cookies" Text="Max Cookies">
+</Cheat>
+<Cheat Description="Max Ballons" Text="Max Ballons">
+</Cheat>
+<Cheat Description="One Hit Kill" Text="One Hit Kill">
+</Cheat>
+<Cheat Description="Punch Weapon [ MC ]" Text="Punch Weapon [ MC ]">
+</Cheat>
+<Cheat Description="Fireball Weapon [ MC ]" Text="Fireball Weapon [ MC ]">
+</Cheat>
+<Cheat Description="Crystal Weapon [ MC ]" Text="Crystal Weapon [ MC ]">
+</Cheat>
+<Cheat Description="Thunder Weapon [ MC ]" Text="Thunder Weapon [ MC ]">
+</Cheat>
+<Cheat Description="Defense Weapon [ MC ]" Text="Defense Weapon [ MC ]">
+</Cheat>
+</Trainer>

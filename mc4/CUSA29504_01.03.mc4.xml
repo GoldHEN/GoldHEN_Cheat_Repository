@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA29504" Game="Evil Below" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Description="Infinite Health" Text="Infinite Health">
+</Cheat>
+<Cheat Description="Infinite Stamina" Text="Infinite Stamina">
+</Cheat>
+<Cheat Description="Max Items ( on use )" Text="Max Items ( on use )">
+</Cheat>
+<Cheat Description="No Reload" Text="No Reload">
+</Cheat>
+<Cheat Description="Player Walk Speed [ x 2 ]" Text="Player Walk Speed [ x 2 ]">
+</Cheat>
+<Cheat Description="Player Walk Speed [ x 3 ]" Text="Player Walk Speed [ x 3 ]">
+</Cheat>
+<Cheat Description="Player Walk Speed [ x 4 ]" Text="Player Walk Speed [ x 4 ]">
+</Cheat>
+<Cheat Description="Player Run Speed [ x 2 ]" Text="Player Run Speed [ x 2 ]">
+</Cheat>
+<Cheat Description="Player Run Speed [ x 3 ]" Text="Player Run Speed [ x 3 ]">
+</Cheat>
+<Cheat Description="Player Run Speed [ x 4 ]" Text="Player Run Speed [ x 4 ]">
+</Cheat>
+<Cheat Description="Player Jump Height [ x 2 ]" Text="Player Jump Height [ x 2 ]">
+</Cheat>
+<Cheat Description="Player Jump Height [ x 3 ]" Text="Player Jump Height [ x 3 ]">
+</Cheat>
+<Cheat Description="Player Jump Height [ x 4 ]" Text="Player Jump Height [ x 4 ]">
+</Cheat>
+</Trainer>
