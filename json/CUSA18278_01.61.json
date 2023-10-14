@@ -1,0 +1,831 @@
+{
+  "name": "Cyberpunk 2077",
+  "id": "CUSA18278",
+  "version": "01.61",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "TRAINER INFO (read only)",
+      "description": "This trainer is inspired by the excellent FLiNG trainer for the PC version of Cyberpunk 2077. Made and tested on Firmware 9.00. BE SURE TO READ ALL the comments where available. It`s recommended to enable cheats such as Stats, Money, Inventory quantities, on demand and disable them when not needed. Most of them are needed to modify stats only once or a few times at most. Enjoy! ;-)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF77FF",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Master Switch (Must be enabled first)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7800",
+          "on": "483D800000000F842E01000083BFC4000000100F84DC000000837F300B74386681FFA05B0F84100100006681FF48560F84050100006681FFB8520F84FA000000483D00192D000F84EE0000004883F8007474E9E3000000813F204120050F85D7000000817F68F84120050F84CA000000837F641B74424883F801743C837FF4070F84B4000000803DBE000000010F85A700000051660F7EC181F90000C842590F84950000005183F900590F8E8A0000000F57C0E982000000803D8D0000000175790F57C0EB74803D7D00000001756B4983FC01746581BF900100000000C6427D59C787900100000000C642F30F108790010000EB45837F300B740C837F30177421837F300F7426803D3900000001752A4D39C8752151660F7EC183F90059741AEB14803D1F00000001750FEB09803D15000000017504F30F10C2C5FA118790010000E9033EEDFC909090909090",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "19CB742",
+          "on": "E9B9C01203909090",
+          "off": "C5FA118790010000"
+        }
+      ]
+    },
+    {
+      "name": "--Infinite Health (Req. MS)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7947",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "--Infinite Stamina (Req. MS)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7948",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "--Infinite RAM (Req. MS)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7949",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "--Instant Hack Upload (Req. MS)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF794A",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "--One Hit Kills Enemy (Req. MS)",
+      "description": "This affects also hacks such as Short Circuit, Contagion etc., so will kill enemies instantly. Note that this cheat may cause progression issues in some rare situations, such as the drone attack on Panam`s car or whenever using the car turret gun! If and when this happens, be sure to disable the cheat and reload your last save/checkpoint to be able to complete the mission.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF794B",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "--One Hit Destroys Vehicles (Req. MS)",
+      "description": "Do NOT enable this cheat while you are using any kind of vehicle!",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF794C",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Skills and Hacks Instant Cooldown",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7A00",
+          "on": "837A3801751D4983F91075174983FA1075114983FB02750B48C7828800000000000000C4E1FB2A8288000000E9DB559AFC",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "149D003",
+          "on": "E9F8A96503909090",
+          "off": "C4E1FB2A8288000000"
+        }
+      ]
+    },
+    {
+      "name": "Super Stealth",
+      "description": "Enemies will be able to hear you, but won`t see you and won`t notice that you killed anyone. Be sure to have the cheat enabled before and not after entering hostile area for it to work properly.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "195A950",
+          "on": "4831C0C3",
+          "off": "554889E5"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7A50",
+          "on": "4183BE8400000010751A4883F8007E1449FFCF4C39F8669C49FFC7669D7505B90F27000041894E785BE993EAC8FC",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "178650C",
+          "on": "E93F153703",
+          "off": "41894E785B"
+        }
+      ]
+    },
+    {
+      "name": "Super Accuracy",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7B00",
+          "on": "0F57C0C5FA118390000000E9340E07FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "3B6893C",
+          "on": "E9BFF1F800909090",
+          "off": "C5FA118390000000"
+        },
+        {
+          "offset": "4AF7B50",
+          "on": "41C7879000000000000000C4C17A108F90000000E99D0B07FF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3B686FD",
+          "on": "E94EF4F80090909090",
+          "off": "C4C17A108F90000000"
+        }
+      ]
+    },
+    {
+      "name": "No Recoil",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E4D6F4",
+          "on": "EB2A",
+          "off": "742A"
+        }
+      ]
+    },
+    {
+      "name": "No Reload (reloaded)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7C00",
+          "on": "664439E8440F46E8664439E87605E9E9C008FD418B86E4020000418986E8020000E9D9C008FD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B83CF4",
+          "on": "E9073FF702909090",
+          "off": "664439E8440F46E8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Grenades",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7C50",
+          "on": "B9E703000041898EE8000000E955D1C8FC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1784DAF",
+          "on": "E99C2E37039090",
+          "off": "41898EE8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Double Jump",
+      "description": "Requires `reinforced tendons` Cyberware",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7D00",
+          "on": "817908340FB1A37414817908F3136F2C740B8179082C3849947402EB07C7411000000000488B490848894808C3",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16180F6",
+          "on": "E905FC4D03909090",
+          "off": "488B490848894808"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump",
+      "description": "Pick only one multiplier below. Note that if the multiplier is high, you must enable infinite life cheat or you may crash and die when reaching the ground.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7D50",
+          "on": "C4C1796EC4C5FA5EEC68000080400F2F2C24721D833D4583700000751EC7053983700001000000F30F592D15000000EB0AC70525837000000000004883C408E9B24382FB0000803F",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "31C13D",
+          "on": "E90EBC7D0490909090",
+          "off": "C4C1796EC4C5FA5EEC"
+        }
+      ]
+    },
+    {
+      "name": "--x3 Multiplier",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7D94",
+          "on": "00004040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--x5 Multiplier",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7D94",
+          "on": "0000A040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--x10 Multiplier",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7D94",
+          "on": "00002041",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--x15 Multiplier",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7D94",
+          "on": "00007041",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--x20 Multiplier",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7D94",
+          "on": "0000A041",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--x30 Multiplier",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7D94",
+          "on": "0000F041",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--x40 Multiplier",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7D94",
+          "on": "00002042",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "9876 pc. Inventory and Quickhack Components",
+      "description": "Auto updates the quantity when loading a save or when accessing the backpack in your inventory.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7E00",
+          "on": "837F68187508B8942600008947788B4778C3",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "95D320",
+          "on": "E9DBAA1904",
+          "off": "8B4778C390"
+        }
+      ]
+    },
+    {
+      "name": "9900 pc. Inventory Items Quantity",
+      "description": "Auto updates the quantity of possible items when accessing the backpack. Note that you may need to access it twice to view the updated quantities. Some items may require hovering over with the cursor and waiting for the pop-up to show for the quantity to update. Some items quantity can not be updated (such as most weapons), that`s intentional.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7E50",
+          "on": "817A2088080005741C817A084C6F634B7513837A5000750D837A58007507B8AC26000089028B028906C3",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "93090",
+          "on": "E9BB4DA604",
+          "off": "8B028906C3"
+        }
+      ]
+    },
+    {
+      "name": "9999999 Money",
+      "description": "After enabling the cheat and setting the value, open the player menu to get the money value updated.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7F00",
+          "on": "4883FA0275174983FB0075114981FDD0B6AE057508B87F9698008947788B4778C3",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "95D320",
+          "on": "E9DBAB1904",
+          "off": "8B4778C390"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Breach Protocol Timer",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2B6BDC1",
+          "on": "9090909090909090",
+          "off": "C5FA1183D8010000"
+        }
+      ]
+    },
+    {
+      "name": "Game Speed (must enable first)",
+      "description": "Strongly recommended to set multiplier up to 3 to prevent any possible playthrough and save bugs.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7F50",
+          "on": "B8010000004885C0E91FBDF3FB",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "A33C76",
+          "on": "E9D5420C0490",
+          "off": "8B431C4885C0"
+        },
+        {
+          "offset": "4AF7F60",
+          "on": "837B1C01740A538B1D1000000089195BC5FA59014883E980E92BBDF3FB0000803F",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A33CA0",
+          "on": "E9BB420C04909090",
+          "off": "C5FA59014883E980"
+        }
+      ]
+    },
+    {
+      "name": "--x0.1 Speed",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7F7D",
+          "on": "CDCCCC3D",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--x0.5 Speed",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7F7D",
+          "on": "0000003F",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--x1.5 Speed",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7F7D",
+          "on": "0000C03F",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--x2 Speed",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7F7D",
+          "on": "00000040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--x2.5 Speed",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7F7D",
+          "on": "00002040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--x3 Speed",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7F7D",
+          "on": "00004040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Level, Street Credits, Skills XP (Must be enabled first)",
+      "description": "After enabling this cheat, open your player menu (touchpad) TWICE (enter and exit it) to see the new numbers. After setting this you must save and reload the game for all the matching stats to update properly. Disable the cheat when all stats are updated.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7B90",
+          "on": "4981F8D0B6AE0575464981FED0B6AE05753D4181FC004AA52474164181FC804BA524752BA1E47BEF04000000008902EB1E837A3C32740DA1E87BEF04000000008902EB0BA1EC7BEF040000000089028B028906C3010000000100000001000000",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "93090",
+          "on": "E9FB4AA604",
+          "off": "8B028906C3"
+        }
+      ]
+    },
+    {
+      "name": "--Level 10",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7BEC",
+          "on": "0A000000",
+          "off": "0A000000"
+        }
+      ]
+    },
+    {
+      "name": "--Level 20",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7BEC",
+          "on": "14000000",
+          "off": "14000000"
+        }
+      ]
+    },
+    {
+      "name": "--Level 30",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7BEC",
+          "on": "1E000000",
+          "off": "1E000000"
+        }
+      ]
+    },
+    {
+      "name": "--Level 40",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7BEC",
+          "on": "28000000",
+          "off": "28000000"
+        }
+      ]
+    },
+    {
+      "name": "--Level 50",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7BEC",
+          "on": "32000000",
+          "off": "32000000"
+        }
+      ]
+    },
+    {
+      "name": "--Street Credits 10",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7BE8",
+          "on": "0A000000",
+          "off": "0A000000"
+        }
+      ]
+    },
+    {
+      "name": "--Street Credits 20",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7BE8",
+          "on": "14000000",
+          "off": "14000000"
+        }
+      ]
+    },
+    {
+      "name": "--Street Credits 30",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7BE8",
+          "on": "1E000000",
+          "off": "1E000000"
+        }
+      ]
+    },
+    {
+      "name": "--Street Credits 40",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7BE8",
+          "on": "28000000",
+          "off": "28000000"
+        }
+      ]
+    },
+    {
+      "name": "--Street Credits 50",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7BE8",
+          "on": "32000000",
+          "off": "32000000"
+        }
+      ]
+    },
+    {
+      "name": "--Skills XP 10,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7BE4",
+          "on": "10270000",
+          "off": "10270000"
+        }
+      ]
+    },
+    {
+      "name": "--Skills XP 20,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7BE4",
+          "on": "204E0000",
+          "off": "204E0000"
+        }
+      ]
+    },
+    {
+      "name": "--Skills XP 30,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7BE4",
+          "on": "30750000",
+          "off": "30750000"
+        }
+      ]
+    },
+    {
+      "name": "--Skills XP 40,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7BE4",
+          "on": "409C0000",
+          "off": "409C0000"
+        }
+      ]
+    },
+    {
+      "name": "--Skills XP 50,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7BE4",
+          "on": "50C30000",
+          "off": "50C30000"
+        }
+      ]
+    },
+    {
+      "name": "--Skills XP 60,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7BE4",
+          "on": "60EA0000",
+          "off": "60EA0000"
+        }
+      ]
+    },
+    {
+      "name": "Skill XP Multiplier",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7CA0",
+          "on": "6681F9840275164981F8D0B6AE05750D8B45C80FAF050F0000008945C8418B04240345C8E9448F56FB01000000",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "60C06",
+          "on": "E99570A9049090",
+          "off": "418B04240345C8"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x2",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7CC9",
+          "on": "02000000",
+          "off": "02000000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x4",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7CC9",
+          "on": "04000000",
+          "off": "04000000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x6",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7CC9",
+          "on": "06000000",
+          "off": "06000000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x8",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7CC9",
+          "on": "08000000",
+          "off": "08000000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x10",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7CC9",
+          "on": "0A000000",
+          "off": "0A000000"
+        }
+      ]
+    },
+    {
+      "name": "999 Attribute Points (on use)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7DA0",
+          "on": "669C664181FB90837505B8E7030000669D4D85F641890424E9A78F56FB",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "60D5D",
+          "on": "E93E70A9049090",
+          "off": "4D85F641890424"
+        }
+      ]
+    },
+    {
+      "name": "999 Perk Points (on use)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AF7EA0",
+          "on": "418B04242B45C841817C241450FA48050F85A78E56FBB8E7030000E99D8E56FB",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "60D56",
+          "on": "E94571A9049090",
+          "off": "418B04242B45C8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Pharaoh2k"
+  ]
+}
