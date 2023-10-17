@@ -283,6 +283,7 @@ CUSA16400_01.02.mc4.xml=Effie
 CUSA31429_01.02.mc4.xml=Mega Man Battle Network Legacy Collection Vol. 2
 CUSA11485_01.05.mc4.xml=Fade To Silence
 CUSA08877_01.00.mc4.xml=Final Fantasy IX
+CUSA07722_01.05.mc4.xml=Strafe
 CUSA34255_01.09.mc4.xml=LEGO 2K Drive
 CUSA09052_01.00.mc4.xml=Beast Quest
 CUSA00557_01.09.mc4.xml=The Last Of Us
