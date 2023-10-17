@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA07722" Game="Strafe" Moder="Reddevil82 - FW 9.00" Process="eboot.bin" Version="01.05" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Description="Infinite Health" Text="Infinite Health">
+</Cheat>
+<Cheat Description="Infinite Armor" Text="Infinite Armor">
+</Cheat>
+<Cheat Description="Max Ammo Clip" Text="Max Ammo Clip">
+</Cheat>
+<Cheat Description="No Reload" Text="No Reload">
+</Cheat>
+<Cheat Description="One Hit Kill" Text="One Hit Kill">
+</Cheat>
+<Cheat Description="Mastercode Timer ( must be activated for [ MC ] Cheats )" Text="Mastercode Timer ( must be activated for [ MC ] Cheats )">
+</Cheat>
+<Cheat Description="Reset Timer to 1 [ MC ]" Text="Reset Timer to 1 [ MC ]">
+</Cheat>
+<Cheat Description="Freeze Timer [ MC ]" Text="Freeze Timer [ MC ]">
+</Cheat>
+</Trainer>
