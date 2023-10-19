@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA42371" Game="Rogue Legacy 2" Moder="Wander FW9.00" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Magic">
+</Cheat>
+<Cheat Text="Max Gold(on get)">
+</Cheat>
+<Cheat Text="Max Iron Bars (on get)">
+</Cheat>
+<Cheat Text="Max Blood (on get)">
+</Cheat>
+<Cheat Text="Max Souls (on get)">
+</Cheat>
+</Trainer>
