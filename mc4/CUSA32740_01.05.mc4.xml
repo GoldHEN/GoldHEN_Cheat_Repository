@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA32740" Game="Sonic Superstars" Moder="wander fw9.00" Process="eboot.bin" Version="01.05" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Max Rings on hit">
+</Cheat>
+<Cheat Text="Infinite Time Freeze (story mode/Time Attack mode)">
+</Cheat>
+<Cheat Text="Max Medals at the end of the act ">
+</Cheat>
+</Trainer>

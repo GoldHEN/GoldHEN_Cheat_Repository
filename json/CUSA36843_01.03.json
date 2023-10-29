@@ -1,0 +1,49 @@
+{
+  "name": "Red Dead Redemption",
+  "id": "CUSA36843",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "GodMode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F47C79",
+          "on": "9090909090",
+          "off": "C5FA114320"
+        },
+        {
+          "offset": "96DB8A",
+          "on": "9090909090909090",
+          "off": "C5FA118BB8090000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite selling works 2x",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "467B60",
+          "on": "90909090909090",
+          "off": "418986C8000000"
+        }
+      ]
+    },
+    {
+      "name": "Free Fack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C33EF3",
+          "on": "909090",
+          "off": "448933"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Masster_s9"
+  ]
+}

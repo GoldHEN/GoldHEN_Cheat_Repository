@@ -18,7 +18,7 @@
       <ValueOff>8B-8F-90-00-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="1-Unlimited Lucky Tickets" Description="">
+  <Cheat Text="Unlimited Lucky Tickets" Description="">
     <Cheatline>
       <Offset>1493832</Offset>
       <Section>0</Section>
@@ -32,7 +32,7 @@
       <ValueOff>44-8B-B0-64-03-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="2-Unlimited LUMS" Description="">
+  <Cheat Text="Unlimited LUMS" Description="">
     <Cheatline>
       <Offset>1493844</Offset>
       <Section>0</Section>
@@ -46,7 +46,7 @@
       <ValueOff>03-B0-00-02-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="3-LUMS X10" Description="">
+  <Cheat Text="LUMS X10" Description="">
     <Cheatline>
       <Offset>1493855</Offset>
       <Section>0</Section>
@@ -78,7 +78,7 @@
       <ValueOff>44-01-F9</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Fly Hack" Description=" unlimited fly in the air">
+  <Cheat Text="Fly Hack" Description="unlimited fly in the air">
     <Cheatline>
       <Offset>459636</Offset>
       <Section>0</Section>
@@ -94,7 +94,7 @@
       <ValueOff>C5-FA-10-88-30-01-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="4-Max Teensies" Description="">
+  <Cheat Text="Max Teensies" Description="">
     <Cheatline>
       <Offset>1493864</Offset>
       <Section>0</Section>
