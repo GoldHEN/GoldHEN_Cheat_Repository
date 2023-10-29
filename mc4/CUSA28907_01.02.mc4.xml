@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA28907" Game="The Legend of Heroes: Trails into Reverie" Moder="Wander FW9.00" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite EP">
+</Cheat>
+<Cheat Text="Infinite CP">
+</Cheat>
+<Cheat Text="Fast Level up">
+</Cheat>
+<Cheat Text="Fast Quarz Level up">
+</Cheat>
+<Cheat Text="Max Mira (on spend)">
+</Cheat>
+<Cheat Text="Max Exchange Items (in spend)">
+</Cheat>
+<Cheat Text="Infinite Items (In battle have 2)">
+</Cheat>
+<Cheat Text="Max Purple Shards (on spent in the Corridor)">
+</Cheat>
+<Cheat Description="turn off after getting the max U Materials" Text="Max U Materials (on spend)">
+</Cheat>
+</Trainer>

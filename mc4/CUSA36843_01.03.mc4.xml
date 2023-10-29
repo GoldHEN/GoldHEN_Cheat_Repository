@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA36843" Game="Red Dead Redemption" Moder="Wander FW9.00" Process="eboot.bin" Version="01.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Description="Sometimes you need big guns to kill bounties" Text="Infinite Health ">
+</Cheat>
+<Cheat Text="Infinite Stamina">
+</Cheat>
+<Cheat Text="Infinite Ammo">
+</Cheat>
+<Cheat Text="Max Money (on selling)">
+</Cheat>
+<Cheat Text="Max Items On use (disable when reading maps or wanted papers)">
+</Cheat>
+<Cheat Text="Instant dead eye recharge">
+</Cheat>
+</Trainer>
