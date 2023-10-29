@@ -20,7 +20,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Infinite selling works 2x",
       "type": "checkbox",
       "memory": [
@@ -42,7 +42,7 @@
         }
       ]
     }
- ],
+  ],
   "credits": [
     "Masster_s9"
   ]
