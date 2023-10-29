@@ -95,7 +95,6 @@ CUSA01073_01.07.json=Ratchet & Clank™
 CUSA12365_01.00.json=The Legend of Heroes: Trails of Cold Steel
 CUSA12555_01.00.json=Dying Light 2: Stay Human
 CUSA11217_01.01.json=SINNER: Sacrifice for Redemption
-CUSA08065_01.01.json=Bloons TD 5
 CUSA16720_01.00.json=Corpse Killer - 25th Anniversary Edition
 CUSA23265_01.01.json=Need for Speed™ Hot Pursuit Remastered
 CUSA09407_01.00_dmc2.elf.json=Devil May Cry® HD Collection (2)
