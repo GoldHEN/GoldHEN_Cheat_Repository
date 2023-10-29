@@ -1164,6 +1164,7 @@ CUSA09450_01.00_2.json=MLB® The Show™ 18
 CUSA15495_01.07.json=Surviving the Aftermath
 CUSA07905_01.08.json=Strange Brigade
 CUSA03005_01.00.json=Call of Duty®: Black Ops III
+CUSA36843_01.03.json=Red Dead Redemption
 CUSA11407_01.07.json=Metro Exodus
 CUSA16745_01.00.json=Yakuza: Like A Dragon
 CUSA13338_01.02.json=DOOM Eternal
