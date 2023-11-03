@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA36164" Game="Destroy All Humans! 2 - Reprobed" Moder="Wander FW9.00" Process="eboot.bin" Version="01.02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Description="What/how/when is this Cheat: Change me!" Text="Master Code Infinite Health">
+</Cheat>
+<Cheat Description="What/how/when is this Cheat: Change me!" Text="Infinite Sauce Health (M)">
+</Cheat>
+<Cheat Text="Infinite Jetpack">
+</Cheat>
+<Cheat Text="Infinite Zip oh matic/deathray/free love Ammo">
+</Cheat>
+<Cheat Description="What/how/when is this Cheat: Change me!" Text="Infinite Dislocator Ammo/other guns with clips">
+</Cheat>
+</Trainer>

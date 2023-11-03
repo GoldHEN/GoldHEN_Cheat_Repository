@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA30991" Game="teenage mutant ninja turtles shredders revenge" Moder="d01v" Process="eboot.bin" Version="01.08" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Description="What/how/when is this Cheat: Change me!" Text="Infinite Health">
+</Cheat>
+<Cheat Description="What/how/when is this Cheat: Change me!" Text="credits 99">
+</Cheat>
+<Cheat Description="What/how/when is this Cheat: Change me!" Text="Infinite Super Atack">
+</Cheat>
+</Trainer>
