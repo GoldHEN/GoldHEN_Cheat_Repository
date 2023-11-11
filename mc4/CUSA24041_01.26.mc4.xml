@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA24041" Game="Call Of Duty Vanguard" Moder="Celogamez" Process="eboot.bin" Version="01.26" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="Infinite Health (Campaign Mode)">
+</Cheat>
+<Cheat Text="Infinite Health (Zombie Mode)">
+</Cheat>
+<Cheat Text="Infinite Ammo">
+</Cheat>
+<Cheat Text="No Reload/Infinite Grenades">
+</Cheat>
+<Cheat Text="Infinite Money (Make Money Before)">
+</Cheat>
+</Trainer>
