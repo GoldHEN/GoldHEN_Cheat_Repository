@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA14557" Game="Sairento VR" Moder="Wander FW9.00" Process="eboot.bin" Version="01.08" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Jump power">
+</Cheat>
+<Cheat Text="Infinite slow time">
+</Cheat>
+<Cheat Text="Infinite sword Charge usage">
+</Cheat>
+<Cheat Text="Infinite Plasma Ammo">
+</Cheat>
+<Cheat Text="Infinite Pistols/SMG/throwable">
+</Cheat>
+<Cheat Text="Infinite Arrows Normal Shots">
+</Cheat>
+<Cheat Text="Infinite Multi Shot Arrows">
+</Cheat>
+<Cheat Text="99 skill points (on spent)">
+</Cheat>
+<Cheat Text="Fast level up">
+</Cheat>
+<Cheat Text="Max Ducats (on buy/sell)">
+</Cheat>
+<Cheat Text="No cooldown for automatic SMG">
+</Cheat>
+<Cheat Text="Max Intel (on spend)">
+</Cheat>
+<Cheat Text="Max Fabricant (on spend)">
+</Cheat>
+<Cheat Text="Max Beacons (on get)">
+</Cheat>
+</Trainer>

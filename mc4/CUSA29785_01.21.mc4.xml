@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA29785" Game="arcadegeddon" Moder="Celogamez" Process="eboot.bin" Version="01.21" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health/1 Hit Kill (Master Code)">
+</Cheat>
+<Cheat Text="1 Hit Kill (Enable Master Code)">
+</Cheat>
+<Cheat Text="Infinite Ammo">
+</Cheat>
+<Cheat Text="No Reload">
+</Cheat>
+<Cheat Text="Infinite Shield">
+</Cheat>
+<Cheat Text="Infinite GillyCoins">
+</Cheat>
+<Cheat Text="Infinite Tickets (Disable After Use)">
+</Cheat>
+<Cheat Text="Infinite Surge Gauntlet">
+</Cheat>
+<Cheat Text="Max Score">
+</Cheat>
+<Cheat Text="Reset Time">
+</Cheat>
+<Cheat Text="Stop Time">
+</Cheat>
+<Cheat Text="Infinite Power Tokens On Buy (Enable To Work/Disable After Use)">
+</Cheat>
+<Cheat Text="Weapons Level Up (Pick Up The Weapon/Activate)">
+</Cheat>
+</Trainer>

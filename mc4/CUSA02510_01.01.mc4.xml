@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA02510" Game="Tales of Zestiria?" Moder="Wander FW9.00" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Adventure"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="Infinite Health/1hitkill for main Character Turn off the first one">
+</Cheat>
+<Cheat Text="Infinite SC">
+</Cheat>
+<Cheat Text="Instant Blast Gauge">
+</Cheat>
+<Cheat Text="Max Experience/gives max Stats possible/AP">
+</Cheat>
+<Cheat Text="999 items (on use/get)">
+</Cheat>
+<Cheat Text="Max Gald (on buy)">
+</Cheat>
+</Trainer>
