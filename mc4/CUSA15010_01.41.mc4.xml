@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA15010" Game="Call Of Duty Black Ops Cold War" Moder="Celogamez" Process="eboot.bin" Version="01.41" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Shooter"/>
+<Items/>
+<Cheat Text="God Mode">
+</Cheat>
+<Cheat Text="Infinite Ammo">
+</Cheat>
+<Cheat Text="No Reload/Infinite Grenades">
+</Cheat>
+<Cheat Text="Infinite Money (Zombie Mode)">
+</Cheat>
+</Trainer>
