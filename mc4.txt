@@ -114,6 +114,7 @@ CUSA33616_01.03_2.mc4.xml=The Lord Of The Rings - Gollum
 CUSA29456_01.03.mc4.xml=United Assault - Normandy '44
 CUSA14446_01.00.mc4.xml=Lost Artifacts
 CUSA04324_01.01.mc4.xml=Zenith 
+CUSA35771_02.03.mc4.xml=Daymare: 1994 Sandcastle
 CUSA11687_01.00.mc4.xml=Extinction
 CUSA08877_01.00.mc4.xml=Final Fantasy IX
 CUSA08974_01.04.mc4.xml=The Evil Within 2 
