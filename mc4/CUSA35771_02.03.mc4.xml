@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA35771" Game="Daymare: 1994 Sandcastle" Moder="Saso_9.00" Process="eboot.bin" Version="02.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Health / Ammo / Frost (Master Code)">
+</Cheat>
+<Cheat Text="Inf Ammo / No Reload / Frost (MC)">
+</Cheat>
+</Trainer>
