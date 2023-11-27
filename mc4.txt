@@ -1,5 +1,6 @@
 CUSA17113_01.01.mc4.xml=End of Eternity
 CUSA04841_04.42.mc4.xml=No Mans Sky
+CUSA40651_01.01.mc4.xml=Star Ocean The Second story R
 CUSA13339_01.26.mc4.xml=Wasteland 3
 CUSA00135_01.15.mc4.xml=Batman -  Arkham Night
 CUSA36848_01.01_2.mc4.xml=Lies of P
@@ -103,6 +104,7 @@ CUSA04806_01.00.mc4.xml=Dishonored 2
 CUSA27730_01.02.mc4.xml=Soul Hackers 2
 CUSA02491_01.00.mc4.xml=Mass Effect Andromeda
 CUSA10872_02.01.mc4.xml=Shadow Of The Tomb Raider
+CUSA05347_01.01.mc4.xml=Darksiders Warmastered Edition
 CUSA34306_01.13.mc4.xml=Tchia
 CUSA18008_01.13.mc4.xml=Resident Evil Village
 CUSA11147_01.01.mc4.xml=Onimusha
