@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA40651" Game="Star Ocean The Second story R" Moder="Celogamez" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Infinite Health/1 Hit Kill (Master Code)">
+</Cheat>
+<Cheat Text="1 Hit Kill (Enable Master Code))">
+</Cheat>
+<Cheat Text="Infinite MP">
+</Cheat>
+<Cheat Text="Max BP On Gain">
+</Cheat>
+<Cheat Text="Infinite SP On Use">
+</Cheat>
+<Cheat Text="Infinite Items">
+</Cheat>
+<Cheat Text="Infinite Fol">
+</Cheat>
+</Trainer>

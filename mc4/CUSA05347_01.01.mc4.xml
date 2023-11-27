@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA05347" Game="Darksiders Warmastered Edition" Moder="Celogamez" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Genres Name="Fighting"/>
+<Items/>
+<Cheat Text="Infinite Health">
+</Cheat>
+<Cheat Text="1 Hit Kill (Don">t Use Against Bosses)"&gt;
+    
+
+</Cheat>
+<Cheat Text="Infinite Wrath Bar">
+</Cheat>
+<Cheat Text="Max Chaos (1 Hit)">
+</Cheat>
+<Cheat Text="Instant Chaos After Use">
+</Cheat>
+<Cheat Text="Infinite Horse Gallop">
+</Cheat>
+<Cheat Text="Max/Infinite Souls">
+</Cheat>
+</Trainer>
