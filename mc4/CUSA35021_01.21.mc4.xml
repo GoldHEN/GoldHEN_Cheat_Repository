@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA35021" Game="Pathfinder: Wrath of the Righteous" Moder="Wander FW9.00" Process="eboot.bin" Version="01.21" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Adventure"/>
+<Genres Name="RPG"/>
+<Items/>
+<Cheat Text="Max Gold (On sell)">
+</Cheat>
+<Cheat Text="Minimum Weight (for inventory after picking items)">
+</Cheat>
+<Cheat Text="Max Experience gained">
+</Cheat>
+<Cheat Text="99 items (on use/Split/sell)">
+</Cheat>
+<Cheat Text="10 Action bar use">
+</Cheat>
+</Trainer>
