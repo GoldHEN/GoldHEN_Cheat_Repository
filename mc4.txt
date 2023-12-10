@@ -663,6 +663,7 @@ CUSA00416_01.00.mc4.xml=Assassins Creed? Freedom Cry
 CUSA06840_01.20.mc4.xml=Stardew Valley
 CUSA08809_01.01.mc4.xml=SHADOW OF THE COLOSSUS
 CUSA41712_01.03.mc4.xml=Soulstice
+CUSA00856_01.04_2.mc4.xml=KILLALLZOMBIES
 CUSA02343_01.00.mc4.xml=Uncharted Collection: Uncharted 1
 CUSA12584_01.27_2.mc4.xml=Dying Light 2 Stay Human
 CUSA13338_01.02.mc4.xml=Doom Eternal
