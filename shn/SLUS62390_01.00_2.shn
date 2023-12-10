@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Super Mario -64" Moder="Ali-mk" Cusa="SLUS62390" Version="01.00" Process="eboot.bin">
+  <Genres Name="Platformer" />
+  <Items />
+  <Cheat Text="Max-GOLD">
+    <Cheatline>
+      <Offset>8080AF2040</Offset>
+      <Section>0</Section>
+      <ValueOn>63-00-00-00</ValueOn>
+      <ValueOff>63-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080AF2041</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Energy">
+    <Cheatline>
+      <Offset>8080AF2047</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>63</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>8080AF1FBF</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-00-00-00</ValueOn>
+      <ValueOff>FF-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-lives">
+    <Cheatline>
+      <Offset>8080AF2045</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>63</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
