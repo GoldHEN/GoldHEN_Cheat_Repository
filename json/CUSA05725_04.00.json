@@ -6,7 +6,6 @@
   "mods": [
     {
       "name": "Master Code (Enable this first!)",
-      
       "type": "checkbox",
       "memory": [
         {
@@ -23,7 +22,6 @@
     },
     {
       "name": "--Infinite Health (req MC)",
-     
       "type": "checkbox",
       "memory": [
         {
@@ -35,7 +33,6 @@
     },
     {
       "name": "--Easy Kill  (req MC)",
-     
       "type": "checkbox",
       "memory": [
         {
@@ -47,7 +44,6 @@
     },
     {
       "name": "--Minimum Horse Panic (req MC)",
-     
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +65,6 @@
     },
     {
       "name": "--Infinite Horse Run  (req MC)",
-     
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +76,6 @@
     },
     {
       "name": "--Infinite Oxygen  (req MC)",
-     
       "type": "checkbox",
       "memory": [
         {
@@ -93,7 +87,6 @@
     },
     {
       "name": "--Infinite Adrenaline (req MC)",
-     
       "type": "checkbox",
       "memory": [
         {
@@ -105,7 +98,6 @@
     },
     {
       "name": "--No Toxicity (req MC)",
-     
       "type": "checkbox",
       "memory": [
         {
@@ -127,7 +119,6 @@
     },
     {
       "name": "--Infinite Stamina  (req MC)",
-     
       "type": "checkbox",
       "memory": [
         {
@@ -183,7 +174,6 @@
     },
     {
       "name": "--2x XP",
-      
       "type": "checkbox",
       "memory": [
         {
@@ -195,7 +185,6 @@
     },
     {
       "name": "--3x XP",
-      
       "type": "checkbox",
       "memory": [
         {
@@ -207,7 +196,6 @@
     },
     {
       "name": "--4x XP",
-      
       "type": "checkbox",
       "memory": [
         {
@@ -219,7 +207,6 @@
     },
     {
       "name": "--5x XP",
-      
       "type": "checkbox",
       "memory": [
         {
@@ -231,7 +218,6 @@
     },
     {
       "name": "--10x XP",
-      
       "type": "checkbox",
       "memory": [
         {
@@ -260,7 +246,6 @@
     },
     {
       "name": "--2x Speed",
-      
       "type": "checkbox",
       "memory": [
         {
@@ -272,7 +257,6 @@
     },
     {
       "name": "--3x Speed",
-      
       "type": "checkbox",
       "memory": [
         {
@@ -284,7 +268,6 @@
     },
     {
       "name": "--4x Speed",
-      
       "type": "checkbox",
       "memory": [
         {
@@ -296,7 +279,6 @@
     },
     {
       "name": "--5x Speed",
-      
       "type": "checkbox",
       "memory": [
         {
@@ -308,7 +290,6 @@
     },
     {
       "name": "Infinite Items",
-      
       "type": "checkbox",
       "memory": [
         {
@@ -330,7 +311,6 @@
     },
     {
       "name": "Infinite Money (on buy or sell)",
-      
       "type": "checkbox",
       "memory": [
         {
@@ -359,7 +339,6 @@
     },
     {
       "name": "--x2 Walking Speed",
-      
       "type": "checkbox",
       "memory": [
         {
@@ -371,7 +350,6 @@
     },
     {
       "name": "--x3 Walking Speed",
-      
       "type": "checkbox",
       "memory": [
         {
@@ -383,7 +361,6 @@
     },
     {
       "name": "--x4 Walking Speed",
-      
       "type": "checkbox",
       "memory": [
         {
@@ -395,7 +372,6 @@
     },
     {
       "name": "Infinite Skill Points",
-      
       "type": "checkbox",
       "memory": [
         {
@@ -412,7 +388,6 @@
     },
     {
       "name": "Durable Weapons And Armour",
-      
       "type": "checkbox",
       "memory": [
         {
@@ -429,7 +404,6 @@
     },
     {
       "name": "Max Weight 99999",
-      
       "type": "checkbox",
       "memory": [
         {
