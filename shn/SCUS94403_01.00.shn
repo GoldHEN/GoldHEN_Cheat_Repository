@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Philosoma" Moder="Ali-mk" Cusa="SCUS94403" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-lives">
+    <Cheatline>
+      <Offset>11BBFE</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>42</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>11B912</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>82</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Buster Grenades">
+    <Cheatline>
+      <Offset>11BFD6</Offset>
+      <Section>11</Section>
+      <ValueOn>02</ValueOn>
+      <ValueOff>62</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

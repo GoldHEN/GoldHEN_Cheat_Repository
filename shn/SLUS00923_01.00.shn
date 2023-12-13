@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 3 - Nemesis (USA)" Moder="Ali-mk" Cusa="SLUS00923" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf-Ammo All Weapons">
+    <Cheatline>
+      <Offset>15830A</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline> 
+      <Offset>129042</Offset>
+      <Section>11</Section>
+      <ValueOn>40</ValueOn>
+      <ValueOff>44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Ink-Ribbons-HARD MODE">
+    <Cheatline> 
+      <Offset>157FCC</Offset>
+      <Section>11</Section>
+      <ValueOn>99</ValueOn>
+      <ValueOff>10</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

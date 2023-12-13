@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="C-The Contra Adventure (USA)" Moder="Ali-mk" Cusa="SLUS00499" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Lives-All Levels">
+    <Cheatline>
+      <Offset>1D67B8</Offset>
+      <Section>11</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>05</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline> 
+      <Offset>1E9DE9</Offset>
+      <Section>11</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Bombs-Need-1">
+    <Cheatline> 
+      <Offset>1F42AE</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>42</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Health-2-3D">
+    <Cheatline> 
+      <Offset>120139</Offset>
+      <Section>11</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Bombs-Need-1-3D">
+    <Cheatline> 
+      <Offset>12BE4A</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>62</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
