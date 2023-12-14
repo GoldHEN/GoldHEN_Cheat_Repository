@@ -1,0 +1,240 @@
+{
+  "name": "God of War Ragnarok (+Valhalla DLC compatibility)",
+  "id": "CUSA34392",
+  "version": "05.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "God Mode (Untouchable+No Effects)",
+      "description": "May cause progression issues with some bosses. Disable and restart from checkpoint if and when it does",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b865A0",
+          "on": "48891DBA1644004C036308C5F057C9E911E40DFF",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C649BD",
+          "on": "E9DE1BF200909090",
+          "off": "4C036308C5F057C9"
+        },
+        {
+          "offset": "1b86550",
+          "on": "08C1884D814C3B35051744000F84D5E1F6FEE9CBE1F6FE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "AF472D",
+          "on": "E91E1E0901",
+          "off": "08C1884D81"
+        },
+        {
+          "offset": "1b86500",
+          "on": "C5F8118424900100005048A1617CFC0100000000483B8518FFFFFF580F84D0E633FFE9C6E633FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "EC4BE4",
+          "on": "E91719CC0090909090",
+          "off": "C5F811842490010000"
+        }
+      ]
+    },
+    {
+      "name": "No Damage Taken",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b86600",
+          "on": "B001C3",
+          "off": "000000"
+        },
+        {
+          "offset": "C4F0A6",
+          "on": "E95575F300",
+          "off": "C390909090"
+        }
+      ]
+    },
+    {
+      "name": "No Crafting And Upgrade Limits",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "103E4F6",
+          "on": "9090",
+          "off": "7C9D"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Arrows & Throwables",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b866C0",
+          "on": "4883FA00750841C746280000F041C4C17A104628E9A07BECFE",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A4E273",
+          "on": "E94884130190",
+          "off": "C4C17A104628"
+        },
+        {
+          "offset": "01b86650",
+          "on": "4883FF007507C740280000C842C5FA104028E9B3FD16FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "CF6415",
+          "on": "E93602E900",
+          "off": "C5FA104028"
+        }
+      ]
+    },
+    {
+      "name": "Damage Multiplier(Master Code)",
+      "description": "Enable this first and then only one of the damage levels",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b866A0",
+          "on": "4883F8007508C5F2590D0C0000004489FAC5FA5CC1E97F78F6FE0000803F",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "AEDF32",
+          "on": "E9698709019090",
+          "off": "4489FAC5FA5CC1"
+        }
+      ]
+    },
+    {
+      "name": "--5x damage",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "01B866BA",
+          "on": "0000A040",
+          "off": "0000A040"
+        }
+      ]
+    },
+    {
+      "name": "--10x damage",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "01B866BA",
+          "on": "00002041",
+          "off": "00002041"
+        }
+      ]
+    },
+    {
+      "name": "--20x damage",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "01B866BA",
+          "on": "0000A041",
+          "off": "0000A041"
+        }
+      ]
+    },
+    {
+      "name": "--30x damage",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "01B866BA",
+          "on": "0000F041",
+          "off": "0000F041"
+        }
+      ]
+    },
+    {
+      "name": "--40x damage",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "01B866BA",
+          "on": "00002042",
+          "off": "00002042"
+        }
+      ]
+    },
+    {
+      "name": "--50x damage",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "01B866BA",
+          "on": "00004842",
+          "off": "00004842"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Stun",
+      "description": "This cheat may cause progression issues with some enemies (especially bosses).If and when it does, be sure to disable it and reload the checkpoint.",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b86700",
+          "on": "4883FE00740841C746280000C842C4C17A104628E93AF1FEFE",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B7584D",
+          "on": "E9AE0E010190",
+          "off": "C4C17A104628"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Max Shield Charge",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b86750",
+          "on": "4883FF1175198178280000C8427510C7402800000000C5F857C0E9ABFC16FFC5FA104028E9A1FC16FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "CF6415",
+          "on": "E93603E900",
+          "off": "C5FA104028"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Pharaoh2k"
+  ]
+}
