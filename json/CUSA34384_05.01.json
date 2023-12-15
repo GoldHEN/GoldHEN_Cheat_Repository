@@ -4,9 +4,22 @@
   "version": "05.01",
   "process": "eboot.bin",
   "mods": [
+  {
+      "name": "TRAINER INFO (read only)",
+      "description": "Please  be sure to read the comment on each individual cheat, if a comment is available. For my most advanced Ragnarok trainer I recommend using my ShnExt trainer with MultiTrainer2. Enjoy! :-)",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b87900",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
     {
       "name": "God Mode (Untouchable+No Effects)",
-      "description": "May cause progression issues with some bosses. Disable and restart from checkpoint if and when it does",
+      "description": "May cause progression issues with some bosses. Disable and restart from checkpoint if and when it does. Use No Damage Taken instead.",
       "type": "checkbox",
       "hint": null,
       "memory": [
@@ -61,6 +74,24 @@
       ]
     },
     {
+      "name": "No XP,HS, Resources subtracted when used",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b87100",
+          "on": "83FA007F0231D2F0015708E99EFF51FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "10A709F",
+          "on": "E95C00AE0090",
+          "off": "F0015708EB09"
+        }
+      ]
+    },
+    {
       "name": "No Crafting And Upgrade Limits",
       "description": "none",
       "type": "checkbox",
@@ -102,8 +133,26 @@
       ]
     },
     {
+      "name": "Infinite Rage (incl. Kratos and Atreus)",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b87000",
+          "on": "664181FCE0B47410664181FCB0527408664181FCE048750B50B8C8000000F30F2AC858C4C17A114C2428E9387528FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E0E560",
+          "on": "E99B8AD7009090",
+          "off": "C4C17A114C2428"
+        }
+      ]
+    },
+    {
       "name": "Damage Multiplier(Master Code)",
-      "description": "Enable this first and then only one of the damage levels",
+      "description": "Enable this first and then only one of the damage levels. May not affect some travelers (mini bosses)",
       "type": "checkbox",
       "hint": null,
       "memory": [
@@ -198,6 +247,19 @@
       ]
     },
     {
+      "name": "--100x damage (one hit kill)",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "01B866BA",
+          "on": "0000C842",
+          "off": "0000C842"
+        }
+      ]
+    },
+    {
       "name": "One Hit Stun",
       "description": "This cheat may cause progression issues with some enemies (especially bosses).If and when it does, be sure to disable it and reload the checkpoint.",
       "type": "checkbox",
@@ -230,6 +292,42 @@
           "offset": "CF6415",
           "on": "E93603E900",
           "off": "C5FA104028"
+        }
+      ]
+    },
+    {
+      "name": "No Talisman and Relic Cooldown",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b87250",
+          "on": "0F57C0C4C17A11442438E91A4A2EFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "E6BC72",
+          "on": "E9D9B5D1009090",
+          "off": "C4C17A11442438"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapon Charge (L1+Triangle)",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b87200",
+          "on": "669C6641817F1A10C1750841C747280000CA42669DC4C17A105728E903850EFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C6F71D",
+          "on": "E9DE7AF10090",
+          "off": "C4C17A105728"
         }
       ]
     }
