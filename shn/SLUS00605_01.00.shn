@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="mortal-kombat-4" Moder="Ali-mk" Cusa="SLUS00605" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>14D394</Offset>
+      <Section>11</Section>
+      <ValueOn>AC</ValueOn>
+      <ValueOff>60</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
