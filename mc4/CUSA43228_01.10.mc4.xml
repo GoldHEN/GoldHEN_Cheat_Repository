@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA43228" Game="Like a Dragon Gaiden: The man who erased his name" Moder="Q8Despair" Process="eboot.bin" Version="01.10" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Max All currency (Yen/Akame/Circuit)">
+</Cheat>
+<Cheat Text="Circuit car max Gauge">
+</Cheat>
+<Cheat Text="Max Health">
+</Cheat>
+<Cheat Text="Items x99">
+</Cheat>
+<Cheat Text="Heat instant Charge">
+</Cheat>
+</Trainer>

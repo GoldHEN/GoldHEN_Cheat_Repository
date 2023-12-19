@@ -62,7 +62,7 @@
       <ValueOff>7C-9D</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite Arrows & Throwables">
+  <Cheat Text="Infinite Arrows &amp; Throwables">
     <Cheatline>
       <Offset>17866C0</Offset>
       <Section>0</Section>
