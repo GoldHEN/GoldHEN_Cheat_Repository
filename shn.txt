@@ -202,6 +202,7 @@ CUSA05574_01.50.shn=The Witcher 3 Wild Hunt
 CUSA08418_01.00.shn=Okami
 CUSA19120_01.00.shn=Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition
 CUSA14212_01.11.shn=Generation Zero
+CUSA14046_01.52.shn=World War Z: Aftermath
 CUSA00303_01.01.shn=Bound by Flame
 CUSA02343_01.02_big3-ps4_Shipping.elf.shn=Uncharted: The Nathan Drake Collection™ (Drakes Deception)
 CUSA08519_01.13.shn=Red dead Redemption 2
