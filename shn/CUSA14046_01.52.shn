@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="World War Z: Aftermath" Moder="Saso_9.00" Cusa="CUSA14046" Version="01.52" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="((Activate Cheats Only On Character Screen))">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>2BAAD36</Offset>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Helth / 1 Hit Kill (Master Code)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>83ABF800</Offset>
+      <ValueOn>48-83-F9-07-75-3A-49-83-FE-03-75-34-83-7B-B0-73-75-2E-41-56-49-BE-FF-FF-FF-FF-FF-FF-00-FF-4C-23-73-E0-74-1A-4D-8B-36-41-81-7E-28-48-65-61-6C-75-0D-81-7B-08-00-00-C8-42-75-04-48-8B-43-08-41-5E-48-89-03-41-8A-4F-06-E9-BE-A1-8F-FE-81-3B-00-00-80-3F-7E-EA-C7-03-00-00-80-3F-48-8B-03-EB-DF-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>823B9A03</Offset>
+      <ValueOn>E9-F8-5D-70-01-90-90</ValueOn>
+      <ValueOff>48-89-03-41-8A-4F-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill (MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>83ABF838</Offset>
+      <ValueOn>75-12</ValueOn>
+      <ValueOff>75-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stamina / Ammo (Master Code)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>2BAAA00</Offset>
+      <ValueOn>48-8B-03-48-83-F9-0F-75-2F-49-83-FF-0F-75-29-66-41-83-F9-FF-75-22-81-7B-10-00-00-C8-42-75-19-41-51-4C-23-4B-A8-4D-8B-09-41-81-79-28-53-74-61-6D-41-59-75-04-48-8B-43-10-49-89-06-E9-ED-36-70-7F-48-83-F9-0D-75-F2-49-83-FF-11-75-EC-66-41-83-F9-FF-75-E5-41-51-4C-23-4B-B8-4D-8B-09-41-81-79-28-43-6C-69-70-41-59-75-D0-48-8B-43-08-49-89-46-08-EB-C6</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>822AE127</Offset>
+      <ValueOn>E9-D4-C8-8F-80-90</ValueOn>
+      <ValueOff>48-8B-03-49-89-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Ammo (MC) ">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>2BAAA07</Offset>
+      <ValueOn>75-37</ValueOn>
+      <ValueOff>75-2F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Coins / Melee Energy (Master Code)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>2BBF800</Offset>
+      <ValueOn>48-83-F9-07-75-3C-48-83-FE-04-75-36-49-83-FF-14-75-30-41-57-49-BF-FF-FF-FF-FF-FF-FF-00-FF-4C-23-7B-C8-41-81-BF-50-06-00-00-63-6F-69-6E-41-5F-75-11-C7-03-9F-86-01-00-48-8B-03-48-89-43-08-49-89-46-08-49-89-06-8A-4B-06-E9-C3-0F-1E-FE-48-83-F9-10-75-EF-49-83-FF-13-75-E9-66-41-83-FA-FF-75-E2-81-7B-B0-00-00-A0-41-75-D9-41-52-4C-23-53-A8-4D-8B-12-41-81-7A-28-45-6E-65-72-41-5A-75-C4-48-8B-43-C0-EB-BE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>DA080A</Offset>
+      <ValueOn>E9-F1-EF-E1-01-90</ValueOn>
+      <ValueOff>49-89-06-8A-4B-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Melee Energy (MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>2BBF804</Offset>
+      <ValueOn>75-47</ValueOn>
+      <ValueOff>75-3C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
