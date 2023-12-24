@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA14046" Game="World War Z: Aftermath" Moder="Saso_9.00" Process="eboot.bin" Version="01.52" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="((Activate Cheats Only On Character Screen))">
+</Cheat>
+<Cheat Text="Inf Helth / 1 Hit Kill (Master Code)">
+</Cheat>
+<Cheat Text="1 Hit Kill (MC)">
+</Cheat>
+<Cheat Text="Stamina / Ammo (Master Code)">
+</Cheat>
+<Cheat Text="Ammo (MC) ">
+</Cheat>
+<Cheat Text="Coins / Melee Energy (Master Code)">
+</Cheat>
+<Cheat Text="Melee Energy (MC)">
+</Cheat>
+</Trainer>

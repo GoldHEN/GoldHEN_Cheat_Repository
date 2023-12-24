@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Cusa="CUSA27043" Game="Dead Island 2" Moder="Celogamez" Process="eboot.bin" Version="01.07" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Genres Name="Action"/>
+<Items/>
+<Cheat Text="Infinite Health/1 Hit kill (Master Code)">
+</Cheat>
+<Cheat Text="1 Hit Kill (Activate After Killing The First Zombie)">
+</Cheat>
+<Cheat Text="Infinite Stamina">
+</Cheat>
+<Cheat Text="Medkits Don">t Decrease"&gt;
+    
+</Cheat>
+<Cheat Text="Infinite Ammo">
+</Cheat>
+<Cheat Text="No Reload">
+</Cheat>
+<Cheat Text="Infinite Weapons Durability">
+</Cheat>
+<Cheat Text="Max Items On Gain (Disable To Keep Money At Max Or Don">t Take It)"&gt;
+    
+
+</Cheat>
+<Cheat Text="Max Money On Sell (Sell N Disable)">
+</Cheat>
+<Cheat Text="Max/Infinite Fury On Kill">
+</Cheat>
+<Cheat Text="Max XP">
+</Cheat>
+</Trainer>
