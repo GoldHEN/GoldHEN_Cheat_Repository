@@ -84,7 +84,7 @@
       <ValueOff>7C-9D</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite Arrows &amp; Throwables [DO NOT USE IN VALHALLA]">
+  <Cheat Text="Infinite Arrows and Throwables [DO NOT USE IN VALHALLA]">
     <Cheatline>
       <Offset>1786980</Offset>
       <Section>0</Section>
