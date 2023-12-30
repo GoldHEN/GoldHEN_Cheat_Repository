@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Trainer Game="Wasteland 2: Director" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">s Cut" Moder="wander fw9.00" Cusa="CUSA02431" Version="01.03" Process="eboot.bin"&gt;
-  <Genres Name="Action"/>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wasteland 2: Director's Cut" Moder="wander fw9.00" Cusa="CUSA02431" Version="01.03" Process="eboot.bin">  <Genres Name="Action"/>
 <Items/>
 <Cheat Text="Items x20 (on use)">
 </Cheat>
