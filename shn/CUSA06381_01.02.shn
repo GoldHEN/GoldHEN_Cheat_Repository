@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Naruto Shippuden - Ultimate Ninja Storm 4 - Road to Boruto" Moder="TLH, Dante" Cusa="CUSA06381" Version="1.02" Process="eboot.bin">
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Naruto Shippuden - Ultimate Ninja Storm 4 - Road to Boruto" Moder="TLH, Dante" Cusa="CUSA06381" Version="01.02" Process="eboot.bin">
   <Genres Name="Adventure"/>
   <Genres Name="Fighting"/>
   <Items/>
