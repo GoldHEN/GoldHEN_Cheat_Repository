@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="KINGDOM HEARTS Dream Drop Distance" Moder="Molly" Cusa="CUSA05787" Version="1.0" Process="kh3d.elf">
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="KINGDOM HEARTS Dream Drop Distance" Moder="Molly" Cusa="CUSA05787" Version="01.00" Process="kh3d.elf">
   <Genres Name="RPG" />
   <Items />
   <Cheat Text="9999 Ability Link ~Use 1 Point~">

@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Rise of the Tomb Raider 20 Year Celebration" Moder="hejran7" Cusa="CUSA05720" Version="1.00" Process="eboot.bin">
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Rise of the Tomb Raider 20 Year Celebration" Moder="hejran7" Cusa="CUSA05720" Version="01.00" Process="eboot.bin">
   <Cheat Text="Inf HP" Description="">
     <Cheatline>
       <Offset>0156F800</Offset>

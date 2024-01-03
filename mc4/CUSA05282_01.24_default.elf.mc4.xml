@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA05282" Game="Call of Duty: Infinite Warfare" Moder="Rizla" Process="default.elf" Version="1.24" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Trainer Cusa="CUSA05282" Game="Call of Duty: Infinite Warfare" Moder="Rizla" Process="default.elf" Version="01.24" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Genres Name="FPS"/>
 <Items/>
 <Cheat Text="God Mode">

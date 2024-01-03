@@ -1,7 +1,7 @@
 {
   "name": "Control",
   "id": "CUSA11454",
-  "version": "1.12",
+  "version": "01.12",
   "process": "eboot.bin",
   "mods": [
     {

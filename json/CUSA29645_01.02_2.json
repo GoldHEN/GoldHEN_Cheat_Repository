@@ -1,7 +1,7 @@
 {
   "name": "Wildcat Gun Machine",
   "id": "CUSA29645",
-  "version": "1.02",
+  "version": "01.02",
   "process": "eboot.bin",
   "mods": [
     {

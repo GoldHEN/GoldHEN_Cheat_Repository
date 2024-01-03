@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="15360" Game="Yakuza III Remastered" Moder="IMnoob" Process="eboot.bin" Version="1.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Trainer Cusa="CUSA15360" Game="Yakuza III Remastered" Moder="IMnoob" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Genres Name="Action"/>
 <Items/>
 <Cheat Text="Max money on Buy">

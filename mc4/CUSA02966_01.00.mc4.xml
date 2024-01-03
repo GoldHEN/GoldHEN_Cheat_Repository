@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA02966" Game="Digimon Story Cyber Sleuth" Moder="Molly" Process="eboot.bin" Version="1.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Trainer Cusa="CUSA02966" Game="Digimon Story Cyber Sleuth" Moder="Molly" Process="eboot.bin" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Genres Name="RPG"/>
 <Items/>
 <Cheat Text="Quick Rank Up &amp;quot;After Gained&amp;quot;">

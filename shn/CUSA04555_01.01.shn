@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dead or Alive - Xtreme 3 Fortune" Moder="TLH" Cusa="CUSA04555" Version="1.01" Process="eboot.bin">
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dead or Alive - Xtreme 3 Fortune" Moder="TLH" Cusa="CUSA04555" Version="01.01" Process="eboot.bin">
   <Genres Name="Arcade" />
   <Genres Name="Sports" />
   <Items />

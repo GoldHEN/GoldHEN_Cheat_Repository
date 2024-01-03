@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA06423 " Game="Xuan Yuan Sword- The Gate of Firmament" Moder="GamerX2" Process="eboot.bin" Version="1.05" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Trainer Cusa="CUSA06423 " Game="Xuan Yuan Sword- The Gate of Firmament" Moder="GamerX2" Process="eboot.bin" Version="01.05" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Genres Name="RPG"/>
 <Items/>
 <Cheat Text="Infinite HP">
