@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA15526" Game="Nioh 2" Moder="bigboss" Process="eboot.bin" Version="1.08" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Trainer Cusa="CUSA15526" Game="Nioh 2" Moder="bigboss" Process="eboot.bin" Version="01.08" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Genres Name="Action"/>
 <Genres Name="Adventure"/>
 <Items/>

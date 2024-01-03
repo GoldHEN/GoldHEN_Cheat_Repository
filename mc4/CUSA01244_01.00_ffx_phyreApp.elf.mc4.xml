@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA01244" Game="Final Fantasy X" Moder="Molly " Process="ffx_phyreApp.elf" Version="1.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Trainer Cusa="CUSA01244" Game="Final Fantasy X" Moder="Molly " Process="ffx_phyreApp.elf" Version="01.00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Genres Name="RPG"/>
 <Items/>
 <Cheat Text="Unlock All Summons ~After Gaining New Character~">

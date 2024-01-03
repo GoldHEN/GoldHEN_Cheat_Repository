@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA05040" Game="NBA 2K17" Moder="nolberto82" Process="eboot.bin" Version="1.12" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Trainer Cusa="CUSA05040" Game="NBA 2K17" Moder="nolberto82" Process="eboot.bin" Version="01.12" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Genres Name="Sports"/>
 <Items/>
 <Cheat Text="Make Most Shots Hold Left Dpad">
