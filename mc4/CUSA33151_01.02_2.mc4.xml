@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Trainer Game="Assassin" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">s Creed Mirage" Moder="Celogamez" Cusa="CUSA33151" Version="01.02" Process="eboot.bin"&gt;
+<Trainer Game="Assassin" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">s Creed Mirage" Moder="Celogamez" Cusa="CUSA33151" Version="01.02" Process="eboot.bin";
   <Genres Name="Action"/>
 <Genres Name="Adventure"/>
 <Items/>
