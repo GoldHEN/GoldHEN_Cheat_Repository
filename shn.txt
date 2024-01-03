@@ -355,6 +355,7 @@ CUSA02826_01.02_big2-ps4_Shipping.elf_2.shn=Uncharted: The Nathan Drake Collecti
 CUSA15526_01.08_2.shn=nioh 2
 CUSA08495_01.03.shn=Dark Souls Remastered
 CUSA06997_01.09.shn=Yakuza Kiwami
+CUSA35744_01.02.shn=infinity strash: dragon quest the adventure of dai!
 CUSA02320_01.02_2.shn=Uncharted: The Nathan Drake Collection™ (Drakes Fortune)
 CUSA04437_01.01.shn=Resident Evil 5
 CUSA00552_01.10.shn=The Last of Us Remastered
