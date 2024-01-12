@@ -955,6 +955,7 @@ CUSA18797_01.20.json=Minecraft Dungeons
 CUSA09175_01.81_3.json=DAYS GONE
 CUSA15778_01.06_2.json=Far Cry® 6
 CUSA36986_01.02.json=Wo Long: Fallen Dynasty
+CUSA11100_01.00.json=Call of Duty®: Black Ops 4
 CUSA04294_01.05.json=WATCH_DOGS® 2
 CUSA00018_01.21_default_mp.elf_2.json=COD: Ghosts (EX)
 CUSA34384_02.00.json=God of War Ragnarok
