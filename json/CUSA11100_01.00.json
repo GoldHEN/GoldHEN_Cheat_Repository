@@ -4,7 +4,7 @@
   "version": "01.00",
   "process": "eboot.bin",
   "mods": [
-	{
+    {
       "name": "Unlock",
       "hint": null,
       "type": "checkbox",
