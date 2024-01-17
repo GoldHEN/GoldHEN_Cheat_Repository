@@ -2,7 +2,15 @@
 <Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="God of War Ragnarok (+Valhalla DLC compatibility)" Moder="Pharaoh2k" Cusa="CUSA34384" Version="05.01" Process="eboot.bin">
   <Genres Name="Adventure" />
   <Items />
-  <Cheat Text="God Mode (Untouchable+No Effects)" Description="May cause progression issues with some bosses. Disable and restart from checkpoint if and when it does">
+  <Cheat Text="TRAINER INFO (read only)" Description="Please  be sure to read the comment on each individual cheat, if a comment is available. For my most advanced Ragnarok trainer I recommend using my ShnExt trainer with MultiTrainer2. Enjoy! :-)">
+    <Cheatline>
+      <Offset>1787900</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="God Mode (Untouchable+No Effects) [DO NOT USE IN VALHALLA]" Description="May cause progression issues with some bosses. Disable and restart from checkpoint if and when it does. Use No Damage Taken instead.">
     <Cheatline>
       <Offset>17865A0</Offset>
       <Section>0</Section>
@@ -54,6 +62,20 @@
       <ValueOff>C3-90-90-90-90</ValueOff>
     </Cheatline>
   </Cheat>
+  <Cheat Text="No XP,HS, Resources subtracted when used">
+    <Cheatline>
+      <Offset>1787100</Offset>
+      <Section>0</Section>
+      <ValueOn>83-FA-00-7F-02-31-D2-F0-01-57-08-E9-9E-FF-51-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>CA709F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5C-00-AE-00-90</ValueOn>
+      <ValueOff>F0-01-57-08-EB-09</ValueOff>
+    </Cheatline>
+  </Cheat>
   <Cheat Text="No Crafting And Upgrade Limits">
     <Cheatline>
       <Offset>C3E4F6</Offset>
@@ -62,7 +84,7 @@
       <ValueOff>7C-9D</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite Arrows &amp; Throwables">
+  <Cheat Text="Infinite Arrows and Throwables [DO NOT USE IN VALHALLA]">
     <Cheatline>
       <Offset>17866C0</Offset>
       <Section>0</Section>
@@ -88,7 +110,21 @@
       <ValueOff>C5-FA-10-40-28</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Damage Multiplier(Master Code)" Description="Enable this first and then only one of the damage levels">
+  <Cheat Text="Infinite Rage (incl. Kratos and Atreus)">
+    <Cheatline>
+      <Offset>1787000</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-81-FC-20-4A-74-18-66-41-81-FC-E0-B4-74-10-66-41-81-FC-B0-52-74-08-66-41-81-FC-E0-48-75-0B-50-B8-C8-00-00-00-F3-0F-2A-C8-58-C4-C1-7A-11-4C-24-28-E9-30-75-28-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A0E560</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9B-8A-D7-00-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4C-24-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Damage Multiplier(Master Code) [DO NOT USE IN VALHALLA]" Description="Enable this first and then only one of the damage levels. May not affect some travelers (mini bosses)">
     <Cheatline>
       <Offset>17866A0</Offset>
       <Section>0</Section>
@@ -150,7 +186,15 @@
       <ValueOff>00-00-48-42</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="One Hit Stun" Description="This cheat may cause progression issues with some enemies.If and when it does, be sure to disable it and reload the checkpoint.">
+  <Cheat Text="--100x damage (one hit kill)">
+    <Cheatline>
+      <Offset>17866BA</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-C8-42</ValueOn>
+      <ValueOff>00-00-C8-42</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Stun [DO NOT USE IN VALHALLA]" Description="This cheat may cause progression issues with some enemies (especially bosses).If and when it does, be sure to disable it and reload the checkpoint.">
     <Cheatline>
       <Offset>1786700</Offset>
       <Section>0</Section>
@@ -176,6 +220,34 @@
       <Section>0</Section>
       <ValueOn>E9-36-03-E9-00</ValueOn>
       <ValueOff>C5-FA-10-40-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Talisman and Relic Cooldown">
+    <Cheatline>
+      <Offset>1787250</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C0-C4-C1-7A-11-44-24-38-E9-1A-4A-2E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A6BC72</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D9-B5-D1-00-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-44-24-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Weapon Charge (L1+Triangle)">
+    <Cheatline>
+      <Offset>1787200</Offset>
+      <Section>0</Section>
+      <ValueOn>66-9C-66-41-81-7F-1A-10-C1-75-08-41-C7-47-28-00-00-CA-42-66-9D-C4-C1-7A-10-57-28-E9-03-85-0E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>86F71D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DE-7A-F1-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-57-28</ValueOff>
     </Cheatline>
   </Cheat>
 </Trainer>
