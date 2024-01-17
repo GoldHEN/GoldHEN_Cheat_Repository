@@ -1,0 +1,338 @@
+{
+  "name": "God of War Ragnarok (+Valhalla DLC compatibility)",
+  "id": "CUSA34392",
+  "version": "05.01",
+  "process": "eboot.bin",
+  "mods": [
+  {
+      "name": "TRAINER INFO (read only)",
+      "description": "Please  be sure to read the comment on each individual cheat, if a comment is available. For my most advanced Ragnarok trainer I recommend using my ShnExt trainer with MultiTrainer2. Enjoy! :-)",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b87900",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "God Mode (Untouchable+No Effects) [DO NOT USE IN VALHALLA]",
+      "description": "May cause progression issues with some bosses. Disable and restart from checkpoint if and when it does. Use No Damage Taken instead.",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b865A0",
+          "on": "48891DBA1644004C036308C5F057C9E911E40DFF",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C649BD",
+          "on": "E9DE1BF200909090",
+          "off": "4C036308C5F057C9"
+        },
+        {
+          "offset": "1b86550",
+          "on": "08C1884D814C3B35051744000F84D5E1F6FEE9CBE1F6FE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "AF472D",
+          "on": "E91E1E0901",
+          "off": "08C1884D81"
+        },
+        {
+          "offset": "1b86500",
+          "on": "C5F8118424900100005048A1617CFC0100000000483B8518FFFFFF580F84D0E633FFE9C6E633FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "EC4BE4",
+          "on": "E91719CC0090909090",
+          "off": "C5F811842490010000"
+        }
+      ]
+    },
+    {
+      "name": "No Damage Taken",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b86600",
+          "on": "B001C3",
+          "off": "000000"
+        },
+        {
+          "offset": "C4F0A6",
+          "on": "E95575F300",
+          "off": "C390909090"
+        }
+      ]
+    },
+    {
+      "name": "No XP,HS, Resources subtracted when used",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b87100",
+          "on": "83FA007F0231D2F0015708E99EFF51FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "10A709F",
+          "on": "E95C00AE0090",
+          "off": "F0015708EB09"
+        }
+      ]
+    },
+    {
+      "name": "No Crafting And Upgrade Limits",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "103E4F6",
+          "on": "9090",
+          "off": "7C9D"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Arrows & Throwables [DO NOT USE IN VALHALLA]",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b866C0",
+          "on": "4883FA00750841C746280000F041C4C17A104628E9A07BECFE",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A4E273",
+          "on": "E94884130190",
+          "off": "C4C17A104628"
+        },
+        {
+          "offset": "01b86650",
+          "on": "4883FF007507C740280000C842C5FA104028E9B3FD16FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "CF6415",
+          "on": "E93602E900",
+          "off": "C5FA104028"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Rage (incl. Kratos and Atreus)",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b87000",
+          "on": "664181FC204A7418664181FCE0B47410664181FCB0527408664181FCE048750B50B8C8000000F30F2AC858C4C17A114C2428E9307528FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E0E560",
+          "on": "E99B8AD7009090",
+          "off": "C4C17A114C2428"
+        }
+      ]
+    },
+    {
+      "name": "Damage Multiplier(Master Code) [DO NOT USE IN VALHALLA]",
+      "description": "Enable this first and then only one of the damage levels. May not affect some travelers (mini bosses)",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b866A0",
+          "on": "4883F8007508C5F2590D0C0000004489FAC5FA5CC1E97F78F6FE0000803F",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "AEDF32",
+          "on": "E9698709019090",
+          "off": "4489FAC5FA5CC1"
+        }
+      ]
+    },
+    {
+      "name": "--5x damage",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "01B866BA",
+          "on": "0000A040",
+          "off": "0000A040"
+        }
+      ]
+    },
+    {
+      "name": "--10x damage",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "01B866BA",
+          "on": "00002041",
+          "off": "00002041"
+        }
+      ]
+    },
+    {
+      "name": "--20x damage",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "01B866BA",
+          "on": "0000A041",
+          "off": "0000A041"
+        }
+      ]
+    },
+    {
+      "name": "--30x damage",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "01B866BA",
+          "on": "0000F041",
+          "off": "0000F041"
+        }
+      ]
+    },
+    {
+      "name": "--40x damage",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "01B866BA",
+          "on": "00002042",
+          "off": "00002042"
+        }
+      ]
+    },
+    {
+      "name": "--50x damage",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "01B866BA",
+          "on": "00004842",
+          "off": "00004842"
+        }
+      ]
+    },
+    {
+      "name": "--100x damage (one hit kill)",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "01B866BA",
+          "on": "0000C842",
+          "off": "0000C842"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Stun [DO NOT USE IN VALHALLA]",
+      "description": "This cheat may cause progression issues with some enemies (especially bosses).If and when it does, be sure to disable it and reload the checkpoint.",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b86700",
+          "on": "4883FE00740841C746280000C842C4C17A104628E93AF1FEFE",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B7584D",
+          "on": "E9AE0E010190",
+          "off": "C4C17A104628"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Max Shield Charge",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b86750",
+          "on": "4883FF1175198178280000C8427510C7402800000000C5F857C0E9ABFC16FFC5FA104028E9A1FC16FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "CF6415",
+          "on": "E93603E900",
+          "off": "C5FA104028"
+        }
+      ]
+    },
+    {
+      "name": "No Talisman and Relic Cooldown",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b87250",
+          "on": "0F57C0C4C17A11442438E91A4A2EFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "E6BC72",
+          "on": "E9D9B5D1009090",
+          "off": "C4C17A11442438"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapon Charge (L1+Triangle)",
+      "description": "none",
+      "type": "checkbox",
+      "hint": null,
+      "memory": [
+        {
+          "offset": "1b87200",
+          "on": "669C6641817F1A10C1750841C747280000CA42669DC4C17A105728E903850EFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C6F71D",
+          "on": "E9DE7AF10090",
+          "off": "C4C17A105728"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Pharaoh2k"
+  ]
+}
