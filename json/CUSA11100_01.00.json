@@ -1,0 +1,23 @@
+{
+  "name": "Call of Duty®: Black Ops 4",
+  "id": "CUSA11100",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Unlock",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3982480",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tony Hawks Pro Skater 5" Moder="TLH" Cusa="CUSA02852" Version="1.04" Process="eboot.bin">
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tony Hawks Pro Skater 5" Moder="TLH" Cusa="CUSA02852" Version="01.04" Process="eboot.bin">
   <Genres Name="Arcade" />
   <Genres Name="Sports" />
   <Items />

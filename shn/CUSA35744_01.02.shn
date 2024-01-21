@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="infinity strash: dragon quest the adventure of dai!" Moder="Q8Despair" Cusa="CUSA35744" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite health" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Section>3</Section>
+      <Offset>5FEC0</Offset>
+      <ValueOn>81-3F-90-00-DA-06-75-0C-C7-87-B4-00-00-00-F6-09-00-00-EB-06-89-97-B4-00-00-00-E9-07-F1-07-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>CDEFE0</Offset>
+      <ValueOn>E9-DB-0E-F8-7E-90</ValueOn>
+      <ValueOff>89-97-B4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Meomry Ambers/Mote" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>664B800</Offset>
+      <ValueOn>C7-40-08-C4-09-00-00-0F-8E-0A-DA-79-FA-E9-2F-D9-79-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>DE9138</Offset>
+      <ValueOn>E9-C3-26-86-05-90-90-90-90</ValueOn>
+      <ValueOff>89-50-08-0F-8E-D6-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Consumables(must have 2)" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>664B814</Offset>
+      <ValueOn>C7-47-10-63-00-00-00-8B-4F-50-E9-1C-07-95-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>F9BF39</Offset>
+      <ValueOn>E9-D6-F8-6A-05-90</ValueOn>
+      <ValueOff>89-47-10-8B-4F-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
