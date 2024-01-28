@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="My Time at Portia" Moder="Wander FW9.00" Cusa="CUSA10908" Version="01.05" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health 999(turn off SP)">
+    <Cheatline>
+      <Offset>153F760</Offset>
+      <Section>0</Section>
+      <ValueOn>80-B8-08-02-00-00-01-75-08-C7-00-00-C0-79-44-EB-05-F3-44-0F-11-38-E9-D3-19-13-7F-57-61-6E-64-65-72-20-46-57-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80671149</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-12-E6-EC-80</ValueOn>
+      <ValueOff>F3-44-0F-11-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite SP(turn off Health)">
+    <Cheatline>
+      <Offset>153F4E0</Offset>
+      <Section>0</Section>
+      <ValueOn>80-78-74-00-75-08-C7-00-00-C0-79-44-EB-05-F3-44-0F-11-38-E9-56-1C-13-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80671149</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-92-E3-EC-80</ValueOn>
+      <ValueOff>F3-44-0F-11-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max items (on gain)">
+    <Cheatline>
+      <Offset>153D4D0</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-45-B8-C6-40-24-63-E9-BD-1E-38-7F-57-61-6E-64-65-72-20-46-57-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>808BF392</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-39-E1-C7-80-90-90-90</ValueOn>
+      <ValueOff>48-8B-45-B8-44-89-68-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Skill points (on spend)">
+    <Cheatline>
+      <Offset>153D550</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-C7-44-24-44-E7-03-E9-A7-DB-4B-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>809FB0FF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4C-24-B4-80</ValueOn>
+      <ValueOff>41-89-44-24-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max coins (on sell)">
+    <Cheatline>
+      <Offset>153F430</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-58-7F-96-98-00-E9-9F-01-37-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>808AF5D8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-53-FE-C8-80</ValueOn>
+      <ValueOff>41-89-6C-24-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Experience ">
+    <Cheatline>
+      <Offset>153FF00</Offset>
+      <Section>0</Section>
+      <ValueOn>03-44-24-08-41-C7-46-14-FF-E0-F5-05-E9-B4-5D-15-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80695CBD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3E-A2-EA-80-90-90-90</ValueOn>
+      <ValueOff>03-44-24-08-41-89-46-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

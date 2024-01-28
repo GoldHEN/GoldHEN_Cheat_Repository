@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mortal Shell" Moder="Saso_9.00" Cusa="CUSA20133" Version="01.12" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Master Code">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>6D9F800</Offset>
+      <ValueOn>4C-39-F9-75-60-4D-39-D1-75-5B-49-81-FD-60-93-94-07-75-52-49-BF-F0-FF-FF-FF-FF-00-00-00-4D-09-DF-66-41-83-FF-F8-74-3E-66-41-83-FF-FC-74-37-66-41-83-FF-F4-74-30-EB-2E-90-81-3F-A0-04-F5-06-75-25-41-80-7B-FA-C8-75-1E-41-83-7B-04-64-7D-08-41-C7-43-04-64-00-00-00-F3-41-0F-2A-53-04-C4-C1-7A-11-13-41-8B-03-90-41-89-03-49-83-C3-04-E9-71-1B-6C-FA-90-81-3F-A0-04-F5-06-75-EB-41-83-7B-E8-10-75-E4-3D-00-00-80-3F-7E-DD-B8-00-00-80-3F-EB-D6-90-81-3F-A0-04-F5-06-75-CD-83-BD-9C-01-00-00-10-75-C4-4C-8B-BD-98-01-00-00-4D-85-FF-74-B8-41-81-BF-A1-00-00-00-53-74-61-6D-75-AB-41-8B-03-EB-A6-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>14613DB</Offset>
+      <ValueOn>E9-20-E4-93-05-90-90</ValueOn>
+      <ValueOff>41-89-03-49-83-C3-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf  Health">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>6D9F825</Offset>
+      <ValueOn>74-11</ValueOn>
+      <ValueOff>74-3E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>6D9F82C</Offset>
+      <ValueOn>74-44</ValueOn>
+      <ValueOff>74-37</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Stamina">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>6D9F833</Offset>
+      <ValueOn>74-5B</ValueOn>
+      <ValueOff>74-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Consumable">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>6D9F8C3</Offset>
+      <ValueOn>48-83-FB-00-75-2C-48-83-F9-04-75-26-48-39-D1-75-21-48-39-FE-75-1C-66-41-81-FA-F0-7F-75-14-45-39-02-75-0F-41-81-7A-04-E7-03-00-00-75-05-B8-63-00-00-00-89-07-48-83-C7-04-E9-B1-6A-5F-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>13963AB</Offset>
+      <ValueOn>E9-13-95-A0-05-90</ValueOn>
+      <ValueOff>89-07-48-83-C7-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
