@@ -1,0 +1,494 @@
+{
+  "name": "The Witcher 3 Wild Hunt",
+  "id": "CUSA05725",
+  "version": "04.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "TRAINER INFO (read only)",
+      "description": "This is my v04.00 port for Cosmaty v01.50 trainer. I have added a teleport cheat, reset horse fear bar, XP multiplier and No toxicity from decoctions. IMPORTANT!  ENABLE CHEATS ONLY AFTER YOU START PLAYING! Please be sure to read the cheats comments, where available! I have partially tested it and it seems to be working fine, but please let me know if there is any issue. Enjoy! :-)",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293B7F7",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Master Code (Enable this first!)",
+      "description": "none",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293B7F8",
+          "on": "909090909090909083792003741183792007745383792005746BE987000000803DDAFFFFFF01750583F8007473803DCDFFFFFF01750583F8037465803DC0FFFFFF01750583F8067462803DB3FFFFFF01750583F8097449803DA6FFFFFF01754683F80C743BEB3F803D97FFFFFF01750583F803742B803D8AFFFFFF01752883F806741DEB21803D7BFFFFFF017518813C810000F038740FC704810000F038EB0BC5FA10448104C5FA11048183FB060F8563A1BFFEE960A1BFFE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1535A0A",
+          "on": "E9F15D4001",
+          "off": "C5FA110481"
+        }
+      ]
+    },
+    {
+      "name": "--Infinite Health (req MC)",
+      "description": "Must enable Master Code First",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293B7F8",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "--Easy Kill  (req MC)",
+      "description": "Must enable Master Code First",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293B7F9",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "--Minimum Horse Panic (req MC)",
+      "description": "Must enable Master Code First",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293B7FA",
+          "on": "01",
+          "off": "00"
+        },
+        {
+          "offset": "293B900",
+          "on": "6681FABCCC751D664181FBF4867408664181FB3487750D0F57C0C4C17A1106E98381DEFEC4C17A1106E97981DEFE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1723AA2",
+          "on": "E9597E2101",
+          "off": "C4C17A1106"
+        }
+      ]
+    },
+    {
+      "name": "--Infinite Horse Run  (req MC)",
+      "description": "Must enable Master Code First",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293B7FB",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "--Infinite Oxygen  (req MC)",
+      "description": "Must enable Master Code First",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293B7FC",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "--Infinite Adrenaline (req MC)",
+      "description": "Must enable Master Code First",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293B7FD",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "--No Toxicity (req MC)",
+      "description": "Must enable Master Code First",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293B7FE",
+          "on": "01",
+          "off": "00"
+        },
+        {
+          "offset": "293BA00",
+          "on": "E92A88DEFE",
+          "off": "0000000000"
+        },
+        {
+          "offset": "1724229",
+          "on": "E9D277210190",
+          "off": "C4C17A110424"
+        }
+      ]
+    },
+    {
+      "name": "--Infinite Stamina  (req MC)",
+      "description": "Must enable Master Code First",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293B7FF",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Teleport to map waypoint",
+      "description": "Enable Infinite Health or you may die when being teleported",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293BB00",
+          "on": "41894C8508890D46C53B00418B4C240C41894C850C890D3AC53B00C70534C53B0000004842E91E53C7FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15B0E3C",
+          "on": "E9BFAC380190909090909090909090",
+          "off": "41894C8508418B4C240C41894C850C"
+        },
+        {
+          "offset": "293BB50",
+          "on": "833DFAC43B0000744C538B1DF1C43B0041899D900100008B1DE8C43B0041899D940100008B1DDFC43B0041899D980100005BC705C5C43B0000000000C705BFC43B0000000000C705B9C43B0000000000E95161F6FDC4C17A11AD90010000C4C17A11B594010000C4C17A118598010000E93161F6FD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8A1CDB",
+          "on": "E9709E090290909090909090909090909090909090909090909090",
+          "off": "C4C17A11AD90010000C4C17A11B594010000C4C17A118598010000"
+        }
+      ]
+    },
+    {
+      "name": "XP Multiplier (Master Code)",
+      "description": "Must enable only while already playing OR THE GAME WILL CRASH. Enable this first and then pick only ONE of the multipliers below",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293BD00",
+          "on": "4839F3750C418B04240345C8E9D168DEFE41817C2404E80300007D02EBE7A133B8930200000000F765C841030424E9AF68DEFE00000001",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "17225DB",
+          "on": "E9209721019090",
+          "off": "418B04240345C8"
+        }
+      ]
+    },
+    {
+      "name": "--2x XP",
+      "description": "none",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293B833",
+          "on": "00000001",
+          "off": "00000002"
+        }
+      ]
+    },
+    {
+      "name": "--3x XP",
+      "description": "none",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293B833",
+          "on": "00000001",
+          "off": "00000003"
+        }
+      ]
+    },
+    {
+      "name": "--4x XP",
+      "description": "none",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293B833",
+          "on": "00000001",
+          "off": "00000004"
+        }
+      ]
+    },
+    {
+      "name": "--5x XP",
+      "description": "none",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293B833",
+          "on": "00000001",
+          "off": "00000005"
+        }
+      ]
+    },
+    {
+      "name": "--10x XP",
+      "description": "none",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293B833",
+          "on": "00000001",
+          "off": "0000000A"
+        }
+      ]
+    },
+    {
+      "name": "Game Speed (Master Code)",
+      "description": "Enable this first and then pick only ONE of the multipliers below",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293BE00",
+          "on": "C5FA10050C00000083BFD801000000E91D8FC4FD0000803F",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "584D2A",
+          "on": "E9D1703B029090",
+          "off": "83BFD801000000"
+        }
+      ]
+    },
+    {
+      "name": "--2x Speed",
+      "description": "none",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293BE14",
+          "on": "00000040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--3x Speed",
+      "description": "none",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293BE14",
+          "on": "00004040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--4x Speed",
+      "description": "none",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293BE14",
+          "on": "00008040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--5x Speed",
+      "description": "none",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293BE14",
+          "on": "0000A040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "description": "",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "253BF00",
+          "on": "8B45AC3942040F8D0E7D7BFE894204E9067D7BFE",
+          "off": "3D2070687973783A3A5078735061727469636C65"
+        },
+        {
+          "offset": "CF3C14",
+          "on": "E9E782840190",
+          "off": "8B45AC894204"
+        },
+        {
+          "offset": "CE166A",
+          "on": "9090",
+          "off": "29CA"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money (on buy or sell)",
+      "description": "",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293BA18",
+          "on": "41C7440A543F420F0045036C0A54E98C3C3AFE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "CDF6B2",
+          "on": "E961C3C501",
+          "off": "45036C0A54"
+        }
+      ]
+    },
+    {
+      "name": "Walking Speed (Master Code)",
+      "description": "Enable this first and then pick only ONE of the multipliers below",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "ACFAAA",
+          "on": "C7000000803F",
+          "off": "C7000000803F"
+        }
+      ]
+    },
+    {
+      "name": "--x2 Walking Speed",
+      "description": "",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "ACFAAC",
+          "on": "00000040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--x3 Walking Speed",
+      "description": "",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "ACFAAC",
+          "on": "00004040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--x4 Walking Speed",
+      "description": "",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "ACFAAC",
+          "on": "00004040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skill Points",
+      "description": "",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293BA38",
+          "on": "4839F3750C418B04242B45C8E9696CDEFE41817C240CE80300007D02EBE7B8E7030000E9526CDEFE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "17226AB",
+          "on": "E9889321019090",
+          "off": "418B04242B45C8"
+        }
+      ]
+    },
+    {
+      "name": "Durable Weapons And Armour",
+      "description": "",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293BA68",
+          "on": "C74419640000C842498B07E9E8873BFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "CF4259",
+          "on": "E90A78C4019090",
+          "off": "89441964498B07"
+        }
+      ]
+    },
+    {
+      "name": "Max Weight 99999",
+      "description": "",
+      "type": "checkbox",
+      "hint": "null",
+      "memory": [
+        {
+          "offset": "293BA83",
+          "on": "4883FB00740CC4817A104CE70CE9194774FE43817CE71000007042740CC4817A104CE70CE9024774FE43C744E70C804FC34743C744E710804FC347E9EB4674FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "10801A7",
+          "on": "E9D7B88B019090",
+          "off": "C4817A104CE70C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Pharaoh2k"
+  ]
+}
