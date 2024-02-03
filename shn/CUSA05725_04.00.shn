@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Witcher 3 Wild Hunt" Moder="Pharaoh2k" Cusa="CUSA05725" Version="04.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="TRAINER INFO (read only)" Description="This is my v04.00 port for Cosmaty v01.50 trainer. I have added a teleport cheat, reset horse fear bar, XP multiplier and No toxicity from decoctions. IMPORTANT!  ENABLE CHEATS ONLY AFTER YOU START PLAYING! Please be sure to read the cheats comments, where available!
+I have partially tested it and it seems to be working fine, but please let me know if there is any issue.
+Enjoy! :-)">
+    <Cheatline>
+      <Offset>253B7F7</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Master Code (Enable this first!)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253B7F8</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-83-79-20-03-74-11-83-79-20-07-74-53-83-79-20-05-74-6B-E9-87-00-00-00-80-3D-DA-FF-FF-FF-01-75-05-83-F8-00-74-73-80-3D-CD-FF-FF-FF-01-75-05-83-F8-03-74-65-80-3D-C0-FF-FF-FF-01-75-05-83-F8-06-74-62-80-3D-B3-FF-FF-FF-01-75-05-83-F8-09-74-49-80-3D-A6-FF-FF-FF-01-75-46-83-F8-0C-74-3B-EB-3F-80-3D-97-FF-FF-FF-01-75-05-83-F8-03-74-2B-80-3D-8A-FF-FF-FF-01-75-28-83-F8-06-74-1D-EB-21-80-3D-7B-FF-FF-FF-01-75-18-81-3C-81-00-00-F0-38-74-0F-C7-04-81-00-00-F0-38-EB-0B-C5-FA-10-44-81-04-C5-FA-11-04-81-83-FB-06-0F-85-63-A1-BF-FE-E9-60-A1-BF-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1135A0A</Offset>
+      <ValueOn>E9-F1-5D-40-01</ValueOn>
+      <ValueOff>C5-FA-11-04-81</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Infinite Health (req MC)" Description="Must enable Master Code First">
+    <Cheatline>
+      <Offset>253B7F8</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Easy Kill  (req MC)" Description="Must enable Master Code First">
+    <Cheatline>
+      <Offset>253B7F9</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Minimum Horse Panic (req MC)" Description="Must enable Master Code First">
+    <Cheatline>
+      <Offset>253B7FA</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253B900</Offset>
+      <ValueOn>66-81-FA-BC-CC-75-1D-66-41-81-FB-F4-86-74-08-66-41-81-FB-34-87-75-0D-0F-57-C0-C4-C1-7A-11-06-E9-83-81-DE-FE-C4-C1-7A-11-06-E9-79-81-DE-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1323AA2</Offset>
+      <ValueOn>E9-59-7E-21-01</ValueOn>
+      <ValueOff>C4-C1-7A-11-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Infinite Horse Run  (req MC)" Description="Must enable Master Code First">
+    <Cheatline>
+      <Offset>253B7FB</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Infinite Oxygen  (req MC)" Description="Must enable Master Code First">
+    <Cheatline>
+      <Offset>253B7FC</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Infinite Adrenaline (req MC)" Description="Must enable Master Code First">
+    <Cheatline>
+      <Offset>253B7FD</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--No Toxicity (req MC)" Description="Must enable Master Code First">
+    <Cheatline>
+      <Offset>253B7FE</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253BA00</Offset>
+      <ValueOn>E9-2A-88-DE-FE</ValueOn>
+      <ValueOff>00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1324229</Offset>
+      <ValueOn>E9-D2-77-21-01-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-04-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Infinite Stamina  (req MC)" Description="Must enable Master Code First">
+    <Cheatline>
+      <Offset>253B7FF</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Teleport to map waypoint" Description="Enable Infinite Health or you may die when being teleported">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253BB00</Offset>
+      <ValueOn>41-89-4C-85-08-89-0D-46-C5-3B-00-41-8B-4C-24-0C-41-89-4C-85-0C-89-0D-3A-C5-3B-00-C7-05-34-C5-3B-00-00-00-48-42-E9-1E-53-C7-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>11B0E3C</Offset>
+      <ValueOn>E9-BF-AC-38-01-90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-4C-85-08-41-8B-4C-24-0C-41-89-4C-85-0C</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253BB50</Offset>
+      <ValueOn>83-3D-FA-C4-3B-00-00-74-4C-53-8B-1D-F1-C4-3B-00-41-89-9D-90-01-00-00-8B-1D-E8-C4-3B-00-41-89-9D-94-01-00-00-8B-1D-DF-C4-3B-00-41-89-9D-98-01-00-00-5B-C7-05-C5-C4-3B-00-00-00-00-00-C7-05-BF-C4-3B-00-00-00-00-00-C7-05-B9-C4-3B-00-00-00-00-00-E9-51-61-F6-FD-C4-C1-7A-11-AD-90-01-00-00-C4-C1-7A-11-B5-94-01-00-00-C4-C1-7A-11-85-98-01-00-00-E9-31-61-F6-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>4A1CDB</Offset>
+      <ValueOn>E9-70-9E-09-02-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-AD-90-01-00-00-C4-C1-7A-11-B5-94-01-00-00-C4-C1-7A-11-85-98-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="XP Multiplier (Master Code)" Description="Must enable only while already playing OR THE GAME WILL CRASH. Enable this first and then pick only ONE of the multipliers below">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253BD00</Offset>
+      <ValueOn>48-39-F3-75-0C-41-8B-04-24-03-45-C8-E9-D1-68-DE-FE-41-81-7C-24-04-E8-03-00-00-7D-02-EB-E7-A1-33-B8-93-02-00-00-00-00-F7-65-C8-41-03-04-24-E9-AF-68-DE-FE-00-00-00-01</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>13225DB</Offset>
+      <ValueOn>E9-20-97-21-01-90-90</ValueOn>
+      <ValueOff>41-8B-04-24-03-45-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--2x XP">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253B833</Offset>
+      <ValueOn>00-00-00-01</ValueOn>
+      <ValueOff>00-00-00-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--3x XP">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253B833</Offset>
+      <ValueOn>00-00-00-01</ValueOn>
+      <ValueOff>00-00-00-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--4x XP">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253B833</Offset>
+      <ValueOn>00-00-00-01</ValueOn>
+      <ValueOff>00-00-00-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--5x XP">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253B833</Offset>
+      <ValueOn>00-00-00-01</ValueOn>
+      <ValueOff>00-00-00-05</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--10x XP">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253B833</Offset>
+      <ValueOn>00-00-00-01</ValueOn>
+      <ValueOff>00-00-00-0A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Game Speed (Master Code)" Description="Enable this first and then pick only ONE of the multipliers below">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253BE00</Offset>
+      <ValueOn>C5-FA-10-05-0C-00-00-00-83-BF-D8-01-00-00-00-E9-1D-8F-C4-FD-00-00-80-3F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>184D2A</Offset>
+      <ValueOn>E9-D1-70-3B-02-90-90</ValueOn>
+      <ValueOff>83-BF-D8-01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--2x Speed">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253BE14</Offset>
+      <ValueOn>00-00-00-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--3x Speed">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253BE14</Offset>
+      <ValueOn>00-00-40-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--4x Speed">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253BE14</Offset>
+      <ValueOn>00-00-80-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--5x Speed">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253BE14</Offset>
+      <ValueOn>00-00-A0-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>213BF00</Offset>
+      <ValueOn>8B-45-AC-39-42-04-0F-8D-0E-7D-7B-FE-89-42-04-E9-06-7D-7B-FE</ValueOn>
+      <ValueOff>3D-20-70-68-79-73-78-3A-3A-50-78-73-50-61-72-74-69-63-6C-65</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>8F3C14</Offset>
+      <ValueOn>E9-E7-82-84-01-90</ValueOn>
+      <ValueOff>8B-45-AC-89-42-04</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>8E166A</Offset>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money (on buy or sell)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253BA18</Offset>
+      <ValueOn>41-C7-44-0A-54-3F-42-0F-00-45-03-6C-0A-54-E9-8C-3C-3A-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>8DF6B2</Offset>
+      <ValueOn>E9-61-C3-C5-01</ValueOn>
+      <ValueOff>45-03-6C-0A-54</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Walking Speed (Master Code)" Description="Enable this first and then pick only ONE of the multipliers below">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>6CFAAA</Offset>
+      <ValueOn>C7-00-00-00-80-3F</ValueOn>
+      <ValueOff>C7-00-00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--x2 Walking Speed" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>6CFAAC</Offset>
+      <ValueOn>00-00-00-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--x3 Walking Speed" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>6CFAAC</Offset>
+      <ValueOn>00-00-40-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--x4 Walking Speed" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>6CFAAC</Offset>
+      <ValueOn>00-00-40-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Skill Points" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253BA38</Offset>
+      <ValueOn>48-39-F3-75-0C-41-8B-04-24-2B-45-C8-E9-69-6C-DE-FE-41-81-7C-24-0C-E8-03-00-00-7D-02-EB-E7-B8-E7-03-00-00-E9-52-6C-DE-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>13226AB</Offset>
+      <ValueOn>E9-88-93-21-01-90-90</ValueOn>
+      <ValueOff>41-8B-04-24-2B-45-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Durable Weapons And Armour" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253BA68</Offset>
+      <ValueOn>C7-44-19-64-00-00-C8-42-49-8B-07-E9-E8-87-3B-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>8F4259</Offset>
+      <ValueOn>E9-0A-78-C4-01-90-90</ValueOn>
+      <ValueOff>89-44-19-64-49-8B-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Weight 99999" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>253BA83</Offset>
+      <ValueOn>48-83-FB-00-74-0C-C4-81-7A-10-4C-E7-0C-E9-19-47-74-FE-43-81-7C-E7-10-00-00-70-42-74-0C-C4-81-7A-10-4C-E7-0C-E9-02-47-74-FE-43-C7-44-E7-0C-80-4F-C3-47-43-C7-44-E7-10-80-4F-C3-47-E9-EB-46-74-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>C801A7</Offset>
+      <ValueOn>E9-D7-B8-8B-01-90-90</ValueOn>
+      <ValueOff>C4-81-7A-10-4C-E7-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
