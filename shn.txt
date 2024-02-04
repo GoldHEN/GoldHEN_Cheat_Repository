@@ -370,6 +370,7 @@ CUSA02826_01.02_2.shn=Uncharted: The Nathan Drake Collection™ (Drakes Fortune)
 CUSA02092_01.12.shn=Doom
 CUSA12596_01.07_2.shn=zomie army dead war 4
 CUSA01778_01.02.shn=Dead or Alive 5 - Last Round
+CUSA05725_04.00.shn=The Witcher 3 Wild Hunt
 CUSA01133_01.04.shn=Resident Evil - Revelations 2
 CUSA01760_01.02.shn=Dark souls 2
 CUSA02826_01.00_big2-ps4_Shipping.elf.shn=Uncharted Collection - UNC2 Dev Menu

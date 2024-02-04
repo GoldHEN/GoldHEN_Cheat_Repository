@@ -696,6 +696,7 @@ CUSA02491_01.00.json=Mass Effect™: Andromeda
 CUSA29645_01.02.json=Wildcat Gun Machine
 CUSA15027_01.81.json=DAYS GONE
 CUSA12584_01.21.json=Dying Light 2: Stay Human
+CUSA05725_04.00.json=The Witcher 3 Wild Hunt
 CUSA07384_01.07.json=Wolfenstein® II: The New Colossus™
 CUSA08661_01.65.json=theHunter: Call of the Wild
 CUSA12648_01.01.json=FINAL FANTASY XV POCKET EDITION HD
