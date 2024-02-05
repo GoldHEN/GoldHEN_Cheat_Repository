@@ -1,0 +1,52 @@
+{
+  "name": "Like a Dragon Infinite Wealth",
+  "id": "CUSA32132",
+  "version": "01.13",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "TRAINER INFO (read only)",
+      "description": "Please  be sure to read the comment on each individual cheat, if a comment is available. Enjoy! :-)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "258EFD0",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Game Speed x2 (Movements)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C58FE",
+          "on": "C787F800000000000040",
+          "off": "C787F80000000000803F"
+        }
+      ]
+    },
+    {
+      "name": "Max Money (On menu opening)",
+      "description": "This will update your money to 999,999,999 Yen instantly when opening the menu, then the cheat can be disabled and game saved with the amount.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "258F000",
+          "on": "48C704C8FFC99A3B488B04C8C3",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "6744F8",
+          "on": "E903ABF101",
+          "off": "488B04C8C3"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Pharaoh2k"
+  ]
+}

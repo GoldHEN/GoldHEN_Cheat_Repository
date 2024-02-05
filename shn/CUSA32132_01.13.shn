@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Like a Dragon Infinite Wealth" Moder="Pharaoh2k" Cusa="CUSA32132" Version="01.13" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="TRAINER INFO (read only)" Description="Please  be sure to read the comment on each individual cheat, if a comment is available. Enjoy! :-)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258EFD0</Offset>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Game Speed x2 (Movements)" Description="none">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1C58FE</Offset>
+      <ValueOn>C7-87-F8-00-00-00-00-00-00-40</ValueOn>
+      <ValueOff>C7-87-F8-00-00-00-00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money (On menu opening)" Description="This will update your money to 999,999,999 Yen instantly when opening the menu, then the cheat can be disabled and game saved with the amount.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F000</Offset>
+      <ValueOn>48-C7-04-C8-FF-C9-9A-3B-48-8B-04-C8-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>6744F8</Offset>
+      <ValueOn>E9-03-AB-F1-01</ValueOn>
+      <ValueOff>48-8B-04-C8-C3</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
