@@ -10,26 +10,352 @@
       <ValueOff>00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Game Speed x2 (Movements)" Description="none">
+  <Cheat Text="Infinite Max HP" Description="Takes effect when HP value changes during battle">
     <Cheatline>
       <Section>0</Section>
-      <Offset>1C58FE</Offset>
-      <ValueOn>C7-87-F8-00-00-00-00-00-00-40</ValueOn>
-      <ValueOff>C7-87-F8-00-00-00-00-00-80-3F</ValueOff>
+      <Offset>258F020</Offset>
+      <ValueOn>48-8B-83-68-1E-00-00-48-89-83-70-1E-00-00-E9-68-6F-E8-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1415F94</Offset>
+      <ValueOn>E9-87-90-17-01-90-90</ValueOn>
+      <ValueOff>48-89-83-70-1E-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Max Money (On menu opening)" Description="This will update your money to 999,999,999 Yen instantly when opening the menu, then the cheat can be disabled and game saved with the amount.">
+  <Cheat Text="Infinite Max MP" Description="Takes effect when MP value changes during battle">
     <Cheatline>
       <Section>0</Section>
-      <Offset>258F000</Offset>
+      <Offset>258F040</Offset>
+      <ValueOn>C7-80-F8-1F-00-00-0F-27-00-00-8B-88-F8-1F-00-00-E9-19-ED-E2-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>13BDD68</Offset>
+      <ValueOn>E9-D3-12-1D-01-90</ValueOn>
+      <ValueOff>8B-88-F8-1F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Kill" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F060</Offset>
+      <ValueOn>48-89-87-70-1E-00-00-48-83-BF-70-1E-00-00-03-0F-8E-05-EE-E7-FE-48-C7-87-70-1E-00-00-03-00-00-00-E9-F5-ED-E7-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>140DE73</Offset>
+      <ValueOn>E9-E8-11-18-01-90-90</ValueOn>
+      <ValueOff>48-89-87-70-1E-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill" Description="Note that when using this cheat, you may not gain XP and money upon winning the battle.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F090</Offset>
+      <ValueOn>48-89-3D-86-0F-27-00-48-8B-87-80-00-00-00-E9-7B-91-E8-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1418217</Offset>
+      <ValueOn>E9-74-6E-17-01-90-90</ValueOn>
+      <ValueOff>48-8B-87-80-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F0B0</Offset>
+      <ValueOn>4C-3B-25-66-0F-27-00-74-0B-48-C7-80-70-10-00-00-08-00-00-00-48-8B-80-70-10-00-00-E9-A8-4E-E8-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1413F71</Offset>
+      <ValueOn>E9-3A-B1-17-01-90-90</ValueOn>
+      <ValueOff>48-8B-80-70-10-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="God Mode (Untouchable)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F0E0</Offset>
+      <ValueOn>48-8B-7C-01-40-48-8B-07-48-89-3D-38-0F-27-00-E9-25-11-87-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>E00211</Offset>
+      <ValueOn>E9-CA-EE-78-01-90-90-90</ValueOn>
+      <ValueOff>48-8B-7C-01-40-48-8B-07</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F110</Offset>
+      <ValueOn>4C-3B-35-10-0F-27-00-0F-84-9C-63-04-FF-FF-90-40-01-00-00-E9-91-63-04-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>15D54B3</Offset>
+      <ValueOn>E9-58-9C-FB-00-90</ValueOn>
+      <ValueOff>FF-90-40-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stealth Mode" Description="When activated, any already flagged enemy wont see you. All other NPCs wont get flagged as enemies. Compulsory battles will still be triggered. Disable this cheat if you are already in a battle, or you may not be able to complete the battle.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>14ADC60</Offset>
+      <ValueOn>C3</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Cash" Description="This will update your money to 999,999,999 Yen instantly when opening the menu, then the cheat can be disabled and game saved with the amount.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F130</Offset>
       <ValueOn>48-C7-04-C8-FF-C9-9A-3B-48-8B-04-C8-C3</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
       <Section>0</Section>
       <Offset>6744F8</Offset>
-      <ValueOn>E9-03-AB-F1-01</ValueOn>
+      <ValueOn>E9-33-AC-F1-01</ValueOn>
       <ValueOff>48-8B-04-C8-C3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items Usage" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>503223</Offset>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-89-36</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>5032E4</Offset>
+      <ValueOn>C7-06-01-00-00-00</ValueOn>
+      <ValueOff>C7-06-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Game Speed Multiplier (Movements) Master Code" Description="Must enable this MC first and then choose only one of the speeds below">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1C58FE</Offset>
+      <ValueOn>C7-87-F8-00-00-00-00-00-80-3F</ValueOn>
+      <ValueOff>C7-87-F8-00-00-00-00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Speed x2 (Movements)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1C5904</Offset>
+      <ValueOn>00-00-00-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Speed x3 (Movements)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1C5904</Offset>
+      <ValueOn>00-00-40-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Speed x4 (Movements)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1C5904</Offset>
+      <ValueOn>00-00-80-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Exp Multiplier (Master Code)" Description="Must enable this MC first and then choose only one of the multipliers below">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F150</Offset>
+      <ValueOn>41-03-B7-70-03-00-00-0F-AF-35-05-00-00-00-E9-93-4B-87-FE-01-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>E03CEF</Offset>
+      <ValueOn>E9-5C-B4-78-01-90-90</ValueOn>
+      <ValueOff>41-03-B7-70-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Multiplier x100" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F163</Offset>
+      <ValueOn>64-00-00-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Multiplier x1,000" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F163</Offset>
+      <ValueOn>E8-03-00-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Multiplier x10,000" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F163</Offset>
+      <ValueOn>10-27-00-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Multiplier x100,000" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F163</Offset>
+      <ValueOn>A0-86-01-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Multiplier x1,000,000" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F163</Offset>
+      <ValueOn>40-42-0F-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Multiplier x10,000,000" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F163</Offset>
+      <ValueOn>80-96-98-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Job Exp Multiplier (Master Code)" Description="Must enable this MC first and then choose only one of the multipliers below">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F170</Offset>
+      <ValueOn>41-03-97-74-03-00-00-0F-AF-15-05-00-00-00-E9-7A-4B-87-FE-01-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>E03CF6</Offset>
+      <ValueOn>E9-75-B4-78-01-90-90</ValueOn>
+      <ValueOff>41-03-97-74-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Multiplier x100" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F183</Offset>
+      <ValueOn>64-00-00-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Multiplier x1,000" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F183</Offset>
+      <ValueOn>E8-03-00-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Multiplier x10,000" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F183</Offset>
+      <ValueOn>10-27-00-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Multiplier x100,000" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F183</Offset>
+      <ValueOn>A0-86-01-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Multiplier x1,000,000" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F183</Offset>
+      <ValueOn>40-42-0F-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Multiplier x10,000,000" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F183</Offset>
+      <ValueOn>80-96-98-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Cash Multiplier (Master Code)" Description="Must enable this MC first and then choose only one of the multipliers below">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F190</Offset>
+      <ValueOn>41-8B-87-78-03-00-00-0F-AF-05-05-00-00-00-E9-61-4B-87-FE-01-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>E03CFD</Offset>
+      <ValueOn>E9-8E-B4-78-01-90-90</ValueOn>
+      <ValueOff>41-8B-87-78-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Multiplier x100" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F1A3</Offset>
+      <ValueOn>64-00-00-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Multiplier x1,000" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F1A3</Offset>
+      <ValueOn>E8-03-00-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Multiplier x10,000" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F1A3</Offset>
+      <ValueOn>10-27-00-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Multiplier x100,000" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F1A3</Offset>
+      <ValueOn>A0-86-01-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Multiplier x1,000,000" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F1A3</Offset>
+      <ValueOn>40-42-0F-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Multiplier x10,000,000" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>258F1A3</Offset>
+      <ValueOn>80-96-98-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
     </Cheatline>
   </Cheat>
 </Trainer>
