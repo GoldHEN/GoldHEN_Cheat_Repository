@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="SWORD ART ONLINE Last Recollection" Moder="Wander FW9.00" Cusa="CUSA32809" Version="01.10" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Max Cash (on buy)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>6477860</Offset>
+      <ValueOn>C7-80-E4-A8-03-00-FF-E0-F5-05-E9-97-55-99-FA</ValueOn>      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>E0CE00</Offset>
+      <ValueOn>E9-5B-AA-66-05-90</ValueOn>
+      <ValueOff>89-90-E4-A8-03-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="90 Items (on sell)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>64777B0</Offset>
+      <ValueOn>66-C7-43-50-5A-00-E9-2B-7D-99-FA</ValueOn>      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>    </Cheatline>    <Cheatline>      
+<Section>0</Section>
+      <Offset>E0F4E1</Offset>
+      <ValueOn>E9-CA-82-66-05</ValueOn>
+      <ValueOff>66-44-89-7B-50</ValueOff>
+    </Cheatline>  
+</Cheat>
+</Trainer>
