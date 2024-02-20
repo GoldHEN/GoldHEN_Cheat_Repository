@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Persona 3 Reload" Moder="Wander FW9.00" Cusa="CUSA37521" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="99999999 Yen (On buying)" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Offset>65539D0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-F8-3C-00-00-FF-E0-F5-05-E9-14-83-89-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DEBCED</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DE-7C-76-05-90</ValueOn>
+      <ValueOff>89-83-F8-3C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
