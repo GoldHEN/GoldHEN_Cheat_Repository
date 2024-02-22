@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Prince of Persia The Lost Crown" Moder="Pharaoh2k" Cusa="CUSA36581" Version="01.04" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="TRAINER INFO (read only)" Description="Please  be sure to read the comment on each individual cheat, if a comment is available. Enjoy! :-)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1AA2000</Offset>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Kill" Description="May cause progression issues when used when fighting some bosses, especially in the beginning of the game, before mount Qaf.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>8471A000</Offset>
+      <ValueOn>4C-39-35-19-60-5A-00-74-1C-41-83-7E-1C-0A-74-15-41-C7-46-1C-0A-00-00-00-41-C7-46-28-0A-00-00-00-B8-0A-00-00-00-41-2B-44-24-10-E9-0F-6E-06-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>82780E39</Offset>
+      <ValueOn>E9-C2-91-F9-01</ValueOn>
+      <ValueOff>41-2B-44-24-10</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>8471A040</Offset>
+      <ValueOn>48-89-3D-D9-5F-5A-00-FF-90-38-02-00-00-E9-CD-34-1F-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>8090D519</Offset>
+      <ValueOn>E9-22-CB-E0-03-90</ValueOn>
+      <ValueOff>FF-90-38-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Jumps" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>81B2E8B3</Offset>
+      <ValueOn>BA-02-00-00-00-90</ValueOn>
+      <ValueOff>8B-91-E4-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
