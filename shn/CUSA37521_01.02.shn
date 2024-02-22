@@ -1,19 +1,299 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Persona 3 Reload" Moder="Wander FW9.00" Cusa="CUSA37521" Version="01.02" Process="eboot.bin">
-  <Genres Name="Action" />
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Persona 3 Reload" Moder="d01v" Cusa="CUSA37521" Version="01.02" Process="eboot.bin">
+  <Genres Name="RPG" />
   <Items />
-  <Cheat Text="99999999 Yen (On buying)" Description="What/how/when is this Cheat: Change me!">
+  <Cheat Text="Infinte Health">
     <Cheatline>
-      <Offset>65539D0</Offset>
+      <Offset>65527C1</Offset>
       <Section>0</Section>
-      <ValueOn>C7-83-F8-3C-00-00-FF-E0-F5-05-E9-14-83-89-FA</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+      <ValueOn>0F-4F-D8-49-39-FE-75-09-89-5F-0C-E9-54-6B-88-FA-90-41-89-46-0C-E9-4A-6B-88-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
-      <Offset>DEBCED</Offset>
+      <Offset>DD931E</Offset>
       <Section>0</Section>
-      <ValueOn>E9-DE-7C-76-05-90</ValueOn>
-      <ValueOff>89-83-F8-3C-00-00</ValueOff>
+      <ValueOn>E9-9E-94-77-05-90-90</ValueOn>
+      <ValueOff>0F-4F-D8-41-89-5E-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite SP">
+    <Cheatline>
+      <Offset>65527F1</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4F-D8-48-39-F8-74-0A-41-89-5E-10-E9-53-6B-88-FA-90-41-89-46-10-E9-49-6B-88-FA-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DD934E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9E-94-77-05-90-90</ValueOn>
+      <ValueOff>0F-4F-D8-41-89-5E-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="all consumable misc event items" Description="open menu">
+    <Cheatline>
+      <Offset>6552821</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-84-08-00-0E-00-00-5A-8A-84-08-00-0E-00-00-E9-5F-70-86-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DB988D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8F-8F-79-05-90-90</ValueOn>
+      <ValueOff>8A-84-08-00-0E-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="all skill items" Description="open menu">
+    <Cheatline>
+      <Offset>6552851</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-84-08-00-17-00-00-32-8A-84-08-00-17-00-00-E9-EF-70-86-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DB994D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FF-8E-79-05-90-90</ValueOn>
+      <ValueOff>8A-84-08-00-17-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="all weapons" Description="open menu">
+    <Cheatline>
+      <Offset>6552881</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-B7-CB-C6-04-08-0A-8A-04-08-E9-10-6F-86-FA-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DB979A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E2-90-79-05-90</ValueOn>
+      <ValueOff>0F-B7-CB-8A-04-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="all armors" Description="open menu">
+    <Cheatline>
+      <Offset>65528B1</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-84-08-00-04-00-00-0A-8A-84-08-00-04-00-00-E9-0F-6F-86-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DB97CD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DF-90-79-05-90-90</ValueOn>
+      <ValueOff>8A-84-08-00-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="all footwear" Description="open menu">
+    <Cheatline>
+      <Offset>65528E1</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-84-08-00-08-00-00-0A-8A-84-08-00-08-00-00-E9-1F-6F-86-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DB980D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CF-90-79-05-90-90</ValueOn>
+      <ValueOff>8A-84-08-00-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="all outfit" Description="open menu">
+    <Cheatline>
+      <Offset>6552911</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-84-08-00-1B-00-00-01-8A-84-08-00-1B-00-00-E9-6F-70-86-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DB998D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7F-8F-79-05-90-90</ValueOn>
+      <ValueOff>8A-84-08-00-1B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="all accessories" Description="open menu">
+    <Cheatline>
+      <Offset>6552941</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-84-08-00-0C-00-00-0A-8A-84-08-00-0C-00-00-E9-FF-6E-86-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DB984D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EF-90-79-05-90-90</ValueOn>
+      <ValueOff>8A-84-08-00-0C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="yen" Description="open menu">
+    <Cheatline>
+      <Offset>6552971</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-F8-3C-00-00-7F-96-98-00-8B-88-F8-3C-00-00-E9-35-D4-9B-FA-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F0FDB5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B7-2B-64-05-90</ValueOn>
+      <ValueOff>8B-88-F8-3C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="date (master code)" Description="only for events not for quest">
+    <Cheatline>
+      <Offset>65529A1</Offset>
+      <Section>0</Section>
+      <ValueOn>44-89-B8-80-A3-00-00-EB-1B-90-49-FF-CF-44-89-B8-80-A3-00-00-EB-0E-90-49-FF-C7-44-89-B8-80-A3-00-00-EB-01-90-E9-77-EE-61-FA-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B7183A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-62-11-9E-05-90-90</ValueOn>
+      <ValueOff>44-89-B8-80-A3-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="decrease 1 day (MC / date)">
+    <Cheatline>
+      <Offset>65529A8</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-01</ValueOn>
+      <ValueOff>EB-1B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="increase 1 day (MC / date)">
+    <Cheatline>
+      <Offset>65529A8</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-0E</ValueOn>
+      <ValueOff>EB-1B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="daytime (master code)" Description="only for events not for quest">
+    <Cheatline>
+      <Offset>65529F1</Offset>
+      <Section>0</Section>
+      <ValueOn>44-88-B0-7C-A3-00-00-EB-28-90-41-B6-02-44-88-B0-7C-A3-00-00-EB-1B-90-41-B6-06-44-88-B0-7C-A3-00-00-EB-0E-90-41-B6-07-44-88-B0-7C-A3-00-00-EB-01-90-E9-36-1B-62-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B74556</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-96-E4-9D-05-90-90</ValueOn>
+      <ValueOff>44-88-B0-7C-A3-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="early morning (MC / daytime)">
+    <Cheatline>
+      <Offset>65529F8</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-01</ValueOn>
+      <ValueOff>EB-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="after school (MC / daytime)">
+    <Cheatline>
+      <Offset>65529F8</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-0E</ValueOn>
+      <ValueOff>EB-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="evening (MC / daytime)">
+    <Cheatline>
+      <Offset>65529F8</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-1B</ValueOn>
+      <ValueOff>EB-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="max exp player only">
+    <Cheatline>
+      <Offset>6552A51</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-86-84-04-00-00-7F-96-98-00-8B-86-84-04-00-00-E9-9A-78-87-FA-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DCA2FA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-52-87-78-05-90</ValueOn>
+      <ValueOff>8B-86-84-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="max exp persona and party" Description="view your persona u want to level up in menu or in battle note if u view your party persona so does the party member will level up">
+    <Cheatline>
+      <Offset>6552A81</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-E5-C7-47-08-7F-96-98-00-8B-47-08-E9-C4-EB-86-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DC1651</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2B-14-79-05-90</ValueOn>
+      <ValueOff>48-89-E5-8B-47-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="persona id (master code)" Description="equip any persona from 2nd slot to 6th slot then exit it will change instantly">
+    <Cheatline>
+      <Offset>6552AB1</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FC-11-40-4C-EB-0F-90-66-FF-40-4E-EB-08-90-66-FF-48-4E-EB-01-90-E9-F7-29-87-FA-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DC54BE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EE-D5-78-05</ValueOn>
+      <ValueOff>C5-FC-11-40-4C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="increase persona id (MC / id)">
+    <Cheatline>
+      <Offset>6552AB6</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-01</ValueOn>
+      <ValueOff>EB-0F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="decrease persona id (MC / id)">
+    <Cheatline>
+      <Offset>6552AB6</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-08</ValueOn>
+      <ValueOff>EB-0F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="max social stats" Description="view stats from menu or play any stats events">
+    <Cheatline>
+      <Offset>6552AF1</Offset>
+      <Section>0</Section>
+      <ValueOn>31-FF-C7-44-C2-04-E6-00-00-00-8B-74-C2-04-E9-0A-52-6B-FA-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C07D08</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E4-AD-94-05-90</ValueOn>
+      <ValueOff>31-FF-8B-74-C2-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="max social links" Description="view social link from menu or spend time from link event">
+    <Cheatline>
+      <Offset>6552B1F</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-47-08-C7-00-0A-00-00-00-0F-B7-00-E9-8A-00-6B-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C02BB4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-66-FF-94-05-90-90</ValueOn>
+      <ValueOff>48-8B-47-08-0F-B7-00</ValueOff>
     </Cheatline>
   </Cheat>
 </Trainer>
