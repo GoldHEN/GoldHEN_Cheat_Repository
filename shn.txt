@@ -58,6 +58,7 @@ CUSA11260_01.12.shn=Death Stranding
 CUSA01166_01.00.shn=Akibas Trip: Undead and Undressed
 CUSA02823_01.00.shn=Sword Art Online - Lost Song
 CUSA02343_01.02_big3-ps4_Shipping.elf.shn=Uncharted: The Nathan Drake Collection™ (Drakes Deception)
+CUSA37521_01.02_2.shn=Persona 3 Reload
 CUSA36818_01.11.shn=Wo Long Fallen Dynasty
 CUSA12596_01.07.shn=zomie army dead war 4
 CUSA20133_01.12.shn=Mortal Shell
