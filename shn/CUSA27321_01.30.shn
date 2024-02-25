@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Jurassic World Evolution 2" Moder="Q8Despair" Cusa="CUSA27321" Version="01.30" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Money x2">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2F6B800</Offset>
+      <ValueOn>4D-6B-E4-02-4D-89-A6-B8-00-00-00-E9-F9-7B-A2-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1993402</Offset>
+      <ValueOn>E9-F9-83-5D-01-90-90</ValueOn>
+      <ValueOff>4D-89-A6-B8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
