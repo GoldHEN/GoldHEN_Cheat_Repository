@@ -12,6 +12,7 @@ CUSA04482_01.00.shn=Prey
 CUSA04893_01.02_ScimitarAC2.elf.shn=Assassin's Creed - The Ezio Collection [Assasins Creed 2]
 CUSA34029_01.33_sp23-cod.elf.shn=Call of Duty® Modern Warfare® III
 SLUS20238_01.00.shn=Crash Bandicoot-The Wrath of Cortex
+CUSA34766_01.05.shn=Granblue Fantasy Relink
 SLUS21016_01.00.shn=25 to Life (NTSC)
 SLUS00923_01.00.shn=Resident Evil 3 - Nemesis (USA)
 CUSA00897_01.04.shn=inFAMOUS: First Light

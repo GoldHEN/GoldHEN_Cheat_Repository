@@ -1130,6 +1130,7 @@ CUSA23852_05.03.json=ANNO: Mutationem
 CUSA13094_01.00.json=Wolfenstein: Youngblood
 CUSA10587_01.00.json=SUPER ROBOT WARS X
 CUSA09303_01.54.json=Assassins Creed® Odyssey
+CUSA34766_01.05.json=Granblue Fantasy Relink
 CUSA00419_01.33.json=Grand Theft Auto V
 CUSA15927_01.09.json=Fury Unleashed
 CUSA02343_01.00.json=Uncharted Collection: Uncharted 1
