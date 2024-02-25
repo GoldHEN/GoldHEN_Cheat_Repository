@@ -1,0 +1,312 @@
+{
+  "name": "Granblue Fantasy Relink",
+  "id": "CUSA34766",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite health",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4395F91",
+          "on": "4C8DB3100200004883F901751C4883FA0175168B837C010000898378010000C5F82EC8E98B3538FC90C5F82EC8E9813538FC",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "719539",
+          "on": "E953CAC703909090909090",
+          "off": "4C8DB310020000C5F82EC8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite skills",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80304E",
+          "on": "C5F25CC0",
+          "off": "C5EA5CC0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite SBA",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4395FE1",
+          "on": "C5FA108B80000000C5FA114B7CC5FA104B7CE9AA896AFE90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A3E99D",
+          "on": "E93F769501",
+          "off": "C5FA104B7C"
+        }
+      ]
+    },
+    {
+      "name": "Replenish items at 1",
+      "description": "Sets all items to be 1pc",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4396011",
+          "on": "C7400401000000448B7004448B29E9D244E4FB90",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1DA4EF",
+          "on": "E91DBB1B049090",
+          "off": "448B7004448B29"
+        }
+      ]
+    },
+    {
+      "name": "Max link level",
+      "description": "You may use blue potion",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4396041",
+          "on": "41C787A401000000409C45C4C17A1087A4010000C4C17A1187A4010000E9E15967FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A0BA3B",
+          "on": "E901A6980190909090",
+          "off": "C4C17A1187A4010000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze link attack timer",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4396081",
+          "on": "C780640100000000003FC5FA109864010000E9AF0BBCFD90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F56C3F",
+          "on": "E93DF44302909090",
+          "off": "C5FA109864010000"
+        }
+      ]
+    },
+    {
+      "name": "All treasure and key items",
+      "description": "Open item inventory. Your current treasure, key items pcs/quantity will be untouched",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43960B1",
+          "on": "837B04007406E993A373FE90C7430401000000E986A373FE",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2AD0449",
+          "on": "E9635C8C0190",
+          "off": "837B0400750E"
+        }
+      ]
+    },
+    {
+      "name": "Instant +50 treasures",
+      "description": "Open item inventory",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43960E1",
+          "on": "C7430432000000418B6D48498B7D30E9134C73FE",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2ACAD00",
+          "on": "E9DCB38C01909090",
+          "off": "418B6D48498B7D30"
+        }
+      ]
+    },
+    {
+      "name": "Sell item x90",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4396111",
+          "on": "4D8D67044101470441C747045A000000E942EC72FE90",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2AC4D60",
+          "on": "E9AC138D01909090",
+          "off": "4D8D670441014704"
+        }
+      ]
+    },
+    {
+      "name": "Event timer",
+      "description": "Any events like special chest (Shrouded treasure, Tombstone battle etc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4396141",
+          "on": "41C785D80900000000803FC4C17A1085D8090000C4C17A1185D8090000E9717333FC",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6CD4CB",
+          "on": "E9718CCC0390909090",
+          "off": "C4C17A1185D8090000"
+        }
+      ]
+    },
+    {
+      "name": "Increase all level",
+      "description": "Press menu and then you need to reload checkpoint or go back to town",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4396181",
+          "on": "41FF8610300000418B8610300000E9AC477BFC90",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B4A939",
+          "on": "E943B884039090",
+          "off": "418B8610300000"
+        }
+      ]
+    },
+    {
+      "name": "Max all party exp",
+      "description": "press menu and then you need to reload checkpoint or go back to town",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43961B1",
+          "on": "41C786F82F0000802C8000418B86F82F0000E900477BFC90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B4A8C1",
+          "on": "E9EBB884039090",
+          "off": "418B86F82F0000"
+        }
+      ]
+    },
+    {
+      "name": "Max base hp all members",
+      "description": "press menu and then you need to reload checkpoint or go back to town. it will reset upon level up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43961E1",
+          "on": "41C786143000009F860100418B8614300000E95C477BFC90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B4A94D",
+          "on": "E98FB884039090",
+          "off": "418B8614300000"
+        }
+      ]
+    },
+    {
+      "name": "Max all member base atk",
+      "description": "Press menu and then you need to reload checkpoint or go back to town. It will reset upon level up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4396211",
+          "on": "41C786183000000F270000418B8618300000E940477BFC90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B4A961",
+          "on": "E9ABB884039090",
+          "off": "418B8618300000"
+        }
+      ]
+    },
+    {
+      "name": "Max stun power all members",
+      "description": "Press menu and then you need to reload checkpoint or go back to town. It will reset upon level up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4396241",
+          "on": "41C7862030000000006144C4C17A108620300000E938477BFC90",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B4A989",
+          "on": "E9B3B8840390909090",
+          "off": "C4C17A108620300000"
+        }
+      ]
+    },
+    {
+      "name": "Max crit all members",
+      "description": "Press menu and then you need to reload checkpoint or go back to town. It will reset upon level up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4396271",
+          "on": "41C7862430000064000000418B8624300000E92A477BFC90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B4A9AB",
+          "on": "E9C1B884039090",
+          "off": "418B8624300000"
+        }
+      ]
+    },
+    {
+      "name": "Max rupies",
+      "description": "open item inventory",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43962A1",
+          "on": "41C74740FFC99A3B418B4740488D742415E98222BDFD",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F68534",
+          "on": "E968DD4202",
+          "off": "488D742415"
+        }
+      ]
+    },
+    {
+      "name": "Max MSP",
+      "description": "Open item inventory",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43962D1",
+          "on": "41C787A80000003F420F00418B87A8000000E9A922BDFD90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F6858A",
+          "on": "E942DD42029090",
+          "off": "418B87A8000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
+}
