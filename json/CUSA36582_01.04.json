@@ -6,7 +6,7 @@
   "mods": [
     {
       "name": "TRAINER INFO (read only)",
-      "description": "Please  be sure to read the comment on each individual cheat, if a comment is available. Enjoy! :-)",
+      "description": "Please note that you MUST read the comment on each individual cheat, if a comment is available, or your game/saves may have issues. Enjoy this incredible game! :-)",
       "type": "checkbox",
       "memory": [
         {
@@ -17,41 +17,268 @@
       ]
     },
     {
-      "name": "Easy Kill",
-      "description": "May cause progression issues when used when fighting some bosses, especially in the beginning of the game, before mount Qaf.",
+      "name": "Infinite Currencies, Arrows and Consumables",
+      "description": "Must have at least one piece for the cheat to take effect to stop subtracting the remaining quantity.",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "8471A000",
-          "on": "4C393519605A00741C41837E1C0A741541C7461C0A00000041C746280A000000B80A000000412B442410E90F6E06FE",
-          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+          "offset": "8278783C",
+          "on": "90909090",
+          "off": "44297014"
+        }
+      ]
+    },
+    {
+      "name": "No Purchase and Upgrade Limits",
+      "description": "Can purchase and upgrade anything, even if you dont have enough currencies. Best to enable/use together with Infinite Currencies, Arrows and Consumables cheat",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "809F0DC9",
+          "on": "39C090",
+          "off": "3B4314"
         },
         {
-          "offset": "82780E39",
-          "on": "E9C291F901",
-          "off": "412B442410"
+          "offset": "8285C6A7",
+          "on": "90909090",
+          "off": "400F9CC6"
+        }
+      ]
+    },
+    {
+      "name": "God Mode (Untouchable)",
+      "description": "Can still be frozen by enemies. That is intentional.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8471A0A0",
+          "on": "4983F840741C4981F880000000741350488B8788010000483B05725F5A005875FBC3554889E54157E939BB1EFC",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
         },
         {
-          "offset": "8471A040",
-          "on": "48893DD95F5A00FF9038020000E9CD341FFC",
-          "off": "000000000000000000000000000000000000"
+          "offset": "80905C00",
+          "on": "E99B44E10390",
+          "off": "554889E54157"
         },
         {
-          "offset": "8090D519",
-          "on": "E922CBE00390",
-          "off": "FF9038020000"
+          "offset": "8471A0D0",
+          "on": "48893D595F5A00488B07488BB040020000E933341FFC",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8090D50F",
+          "on": "E9BCCBE0039090909090",
+          "off": "488B07488BB040020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80AC7254",
+          "on": "90909090",
+          "off": "45297728"
         }
       ]
     },
     {
       "name": "Infinite Jumps",
-      "description": "",
+      "description": "Do NOT jump to places that you are not suppose to reach yet or you may mess up your game and saves with a progression issue that will require to start the game from an earlier point or start from the beginning. Only use this cheat to easily reach places you have already been to before or you are suppose to reach and can reach even without the cheat.",
       "type": "checkbox",
       "memory": [
         {
           "offset": "81B2E8B3",
           "on": "BA0200000090",
           "off": "8B91E4010000"
+        }
+      ]
+    },
+    {
+      "name": "Instant Athra Surge Charge",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8471A120",
+          "on": "C780E00000000000FA43C5FA1080E0000000E9994F1EFC",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "808FF0C8",
+          "on": "E953B0E103909090",
+          "off": "C5FA1180E0000000"
+        }
+      ]
+    },
+    {
+      "name": "No Athra Surge Cooldown",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8471A160",
+          "on": "41C786680100002A8706BCE9513302FC",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8073D4B8",
+          "on": "E9A3CCFD0390909090",
+          "off": "C4C17A118668010000"
+        }
+      ]
+    },
+    {
+      "name": "Damage Multiplier (Master Code)",
+      "description": "RECOMMENDED to disable this cheat in boss fights. Enable this MC first and then choose only one of multipliers below. May cause progression issues when used when fighting some bosses, especially in the beginning of the game, before mount Qaf.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8471A180",
+          "on": "4C3935B95E5A00740DD9051100000041D95C2410EB00412B442410E99E6C06FE01000000",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "82780E39",
+          "on": "E94293F901",
+          "off": "412B442410"
+        },
+        {
+          "offset": "8471A1B0",
+          "on": "48893D895E5A00FF9038020000E95D331FFC",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8090D519",
+          "on": "E992CCE003",
+          "off": "FF9038020000"
+        }
+      ]
+    },
+    {
+      "name": "--Damage x5",
+      "description": "",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "8471A1A0",
+          "on": "05000000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "--Damage x10",
+      "description": "",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "8471A1A0",
+          "on": "0A000000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "--Damage x20",
+      "description": "",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "8471A1A0",
+          "on": "14000000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "--Damage x50",
+      "description": "",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "8471A1A0",
+          "on": "32000000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "--Damage x100",
+      "description": "",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "8471A1A0",
+          "on": "64000000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "Jump Height Multiplier (Master Code)",
+      "description": "Enable this MC first and then choose only one of multipliers below. Do NOT jump to places that you are not suppose to reach yet or you may mess up your game and saves with a progression issue that will require to start the game from an earlier point or start from the beginning. Only use this cheat to easily reach places you have already been to before or you are suppose to reach and can reach even without the cheat.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AA2020",
+          "on": "C5FA104604837E04000F8EB6C668FEF30F590505000000E9A9C668FE0000803F",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "12E6E0",
+          "on": "E93B399701",
+          "off": "C5FA104604"
+        }
+      ]
+    },
+    {
+      "name": "--Jump x2",
+      "description": "",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "1AA203C",
+          "on": "00000040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Jump x3",
+      "description": "",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "1AA203C",
+          "on": "00004040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Jump x4",
+      "description": "",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "1AA203C",
+          "on": "00008040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Jump x5",
+      "description": "",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "1AA203C",
+          "on": "0000A040",
+          "off": "0000803F"
         }
       ]
     }
