@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Warm Snow" Moder="Celogamez" Cusa="CUSA44689" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>1A340ED</Offset>
+      <Section>14</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-84-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Rage Burst">
+    <Cheatline>
+      <Offset>1F4FA65</Offset>
+      <Section>14</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-5D-47-68</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Cooldown">
+    <Cheatline>
+      <Offset>22BF169</Offset>
+      <Section>14</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-83-88-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Souls">
+    <Cheatline>
+      <Offset>1A96860</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-7F-96-98-00-89-B7-CC-06-00-00-E9-62-59-00-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80A9C1CC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8F-A6-FF-80-90</ValueOn>
+      <ValueOff>89-B7-CC-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Red Souls On Use">
+    <Cheatline>
+      <Offset>1A97B60</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-C8-06-00-00-63-00-00-00-E9-23-46-00-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80A9C18C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CF-B9-FF-80-90</ValueOn>
+      <ValueOff>89-B7-C8-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stop Time">
+    <Cheatline>
+      <Offset>10C32B4</Offset>
+      <Section>14</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Reset Time">
+    <Cheatline>
+      <Offset>1A97940</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-24-00-00-00-00-E9-6D-B9-8E-7F</ValueOn>      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>813832B4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-87-46-71-80</ValueOn>
+      <ValueOff>C5-FA-11-43-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
