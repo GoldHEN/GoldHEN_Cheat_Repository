@@ -1,0 +1,59 @@
+{
+  "name": "Metro Redux",
+  "id": "CUSA00593",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Ammo",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "610E9D",
+          "on": "9090909090909090",
+          "off": "4189B42458040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Reload Ammo / Bullet Currency",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5EC11A",
+          "on": "41898E00050000",
+          "off": "4189B600050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gasmask Filter",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6513AE",
+          "on": "90909090909090909090",
+          "off": "C4C17A1184245C040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Air Pressure In Gun",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "626D7A",
+          "on": "9090909090909090",
+          "off": "C5FA1183000C0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}
