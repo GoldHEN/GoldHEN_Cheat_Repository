@@ -12,13 +12,13 @@ jobs:
     steps:
 
       - name: Checkout files
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Normalize json data
         run: python .ci/normalize-json.py
 
       - name: checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: michaelrsweet/mxml
           path: mxml
