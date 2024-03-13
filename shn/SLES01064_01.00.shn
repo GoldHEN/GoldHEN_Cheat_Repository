@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mega Man 8" Moder="Ali-mk" Cusa="SLES01064" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>1F29DC</Offset>
+      <Section>11</Section>
+      <ValueOn>20</ValueOn>
+      <ValueOff>23</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-lives">
+    <Cheatline>
+      <Offset>1EC612</Offset>
+      <Section>11</Section>
+      <ValueOn>09</ValueOn>
+      <ValueOff>42</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf-Weapon-mega-Ball">
+    <Cheatline>
+      <Offset>1FB89D</Offset>
+      <Section>11</Section>
+      <ValueOn>99</ValueOn>
+      <ValueOff>10</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

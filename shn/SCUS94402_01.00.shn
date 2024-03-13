@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Raiden Project-The" Moder="Ali-mk" Cusa="SCUS94402" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Raiden=1-Infinite-lives">
+    <Cheatline>
+      <Offset>FE688</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>FE689</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Raiden=1-Infinite-Bomb">
+    <Cheatline>
+      <Offset>10BFD8</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>10BFD9</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Raiden=2-Infinite-lives">
+    <Cheatline>
+      <Offset>FE814</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>FE815</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Raiden=2-Infinite-Bomb">
+    <Cheatline>
+      <Offset>14625C</Offset>
+      <Section>11</Section>
+      <ValueOn>03</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>14625D</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
