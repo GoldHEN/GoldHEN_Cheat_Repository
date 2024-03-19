@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Spyro the Dragon" Moder="Ali-mk" Cusa="SCUS94228" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Lives">
+    <Cheatline>
+      <Offset>117B0E</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>42</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>12C2B2</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>62</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

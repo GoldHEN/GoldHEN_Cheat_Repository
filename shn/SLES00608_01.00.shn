@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="CT Special Forces" Moder="Ali-mk" Cusa="SLES00608" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="infinite lives ">
+    <Cheatline>
+      <Offset>11B87A</Offset>
+      <Section>11</Section>
+      <ValueOn>99</ValueOn>
+      <ValueOff>42</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 2 - Dual Shock Ver" Moder="Ali-mk" Cusa="SLUS00748" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>12B4F2</Offset>
+      <Section>11</Section>
+      <ValueOn>40</ValueOn>
+      <ValueOff>44</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-All-Weapon">
+    <Cheatline>
+      <Offset>1547A9</Offset>
+      <Section>11</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

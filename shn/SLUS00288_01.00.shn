@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Contra - Legacy of War" Moder="Ali-mk" Cusa="SLUS00288" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="infinite lives">
+    <Cheatline>
+      <Offset>11B6B2</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>42</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Invincible P1">
+    <Cheatline>
+      <Offset>116FE8</Offset>
+      <Section>11</Section>
+      <ValueOn>65</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>116FE9</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>116FEA</Offset>
+      <Section>11</Section>
+      <ValueOn>02</ValueOn>
+      <ValueOff>62</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>116FEB</Offset>
+      <Section>11</Section>
+      <ValueOn>34</ValueOn>
+      <ValueOff>24</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

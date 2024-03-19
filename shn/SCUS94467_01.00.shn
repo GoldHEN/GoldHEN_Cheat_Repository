@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Spyro 3.5 - Return to the Forgotten Realms" Moder="Ali-mk" Cusa="SCUS94467" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>12BD04</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>12BD05</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-lives">
+    <Cheatline>
+      <Offset>134CF2</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>42</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
