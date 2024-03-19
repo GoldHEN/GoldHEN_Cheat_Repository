@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dino Crisis 2" Moder="Ali-mk" Cusa="SLUS01279" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>124831</Offset>
+      <Section>11</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>18</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>1249D9</Offset>
+      <Section>11</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>18</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-All-Weapon">
+    <Cheatline>
+      <Offset>13D791</Offset>
+      <Section>11</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>18</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Max-Points">
+    <Cheatline>
+      <Offset>2B4142</Offset>
+      <Section>11</Section>
+      <ValueOn>96</ValueOn>
+      <ValueOff>64</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

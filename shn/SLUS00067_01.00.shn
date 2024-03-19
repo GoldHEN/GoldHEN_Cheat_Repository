@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="CASTLEVANIA SOTN REBORN" Moder="Ali-mk" Cusa="SLUS00067" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>1EA08D</Offset>
+      <Section>11</Section>
+      <ValueOn>99</ValueOn>
+      <ValueOff>10</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

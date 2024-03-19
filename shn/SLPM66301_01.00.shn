@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="CT Special Forces" Moder="Ali-mk" Cusa="SLPM66301" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Lives P1">
+    <Cheatline>
+      <Offset>807FD38FD8</Offset>
+      <Section>0</Section>
+      <ValueOn>99</ValueOn>
+      <ValueOff>02</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite bomb P1">
+    <Cheatline>
+      <Offset>808004C5DD</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>01</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
