@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Homura" Moder="Ali-mk" Cusa="SLPM62685" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-lives P1">
+    <Cheatline>
+      <Offset>807FF10758</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>02</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Bomb P1">
+    <Cheatline>
+      <Offset>807FF1075C</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>11</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
