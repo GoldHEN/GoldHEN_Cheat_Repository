@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Pathfinder: Wrath of the Righteous" Moder="Wander FW9.00" Cusa="CUSA35021" Version="01.21" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Max Gold (On sell)">
+    <Cheatline>
+      <Offset>864E76C0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-68-01-00-00-7F-96-98-00-E9-4A-FA-74-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80C37112</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A9-05-8B-05-90-90</ValueOn>
+      <ValueOff>48-01-98-68-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Minimum Weight (for inventory after picking items)">
+    <Cheatline>
+      <Offset>864E7600</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-46-2C-00-00-F0-42-E9-82-18-F7-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81458E89</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-72-E7-08-05-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-46-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Experience gained">
+    <Cheatline>
+      <Offset>864E7360</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8B-44-24-18-41-C7-47-64-FF-C9-9A-3B-E9-63-57-15-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8163CACC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8F-A8-EA-04-90-90-90-90</ValueOn>
+      <ValueOff>41-8B-44-24-18-41-01-47-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="99 items (on use/Split/sell)">
+    <Cheatline>
+      <Offset>864E6D80</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-78-63-00-00-00-E9-79-46-0A-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8158B3FB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-80-B9-F5-04-90-90-90-90-90</ValueOn>
+      <ValueOff>89-43-78-4C-8B-B3-B0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="10 Action bar use">
+    <Cheatline>
+      <Offset>864E6C00</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-4E-20-C6-40-18-0A-E9-A1-90-EF-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>813DFCA7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-54-6F-10-05-90-90</ValueOn>
+      <ValueOff>41-89-4E-20-29-50-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

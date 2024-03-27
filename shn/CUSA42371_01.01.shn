@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Rogue Legacy 2" Moder="Wander FW9.00" Cusa="CUSA42371" Version="01.01" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>822CFC50</Offset>
+      <Section>0</Section>
+      <ValueOn>80-BF-74-01-00-00-02-75-0F-C7-87-58-01-00-00-00-3C-1C-46-E9-70-E8-84-FE-C5-FA-11-87-58-01-00-00-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80B1E4D0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7B-17-7B-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-58-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Magic">
+    <Cheatline>
+      <Offset>822CFCD0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-24-18-03-00-00-00-3C-1C-46-E9-02-52-2B-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80584ED9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F2-AD-D4-01-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-18-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Gold(on get)">
+    <Cheatline>
+      <Offset>822CFBF0</Offset>
+      <Section>0</Section>
+      <ValueOn>44-01-EB-C7-40-40-7F-96-98-00-E9-0D-16-3E-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>806B1206</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E5-E9-C1-01-90</ValueOn>
+      <ValueOff>44-01-EB-89-58-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Iron Bars (on get)">
+    <Cheatline>
+      <Offset>822CFD30</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-00-C7-40-54-FF-E0-F5-05-E9-BB-D2-32-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>805FCFF3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-38-2D-CD-01-90-90</ValueOn>
+      <ValueOff>48-8B-00-44-01-70-54</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Blood (on get)">
+    <Cheatline>
+      <Offset>822CFD80</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-00-C7-40-58-FF-E0-F5-05-E9-8B-E4-50-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807DE213</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-68-1B-AF-01-90-90</ValueOn>
+      <ValueOff>48-8B-00-44-01-70-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Souls (on get)">
+    <Cheatline>
+      <Offset>822CFDF0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-90-00-00-00-FF-E0-F5-05-E9-08-3D-5F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>808C3B01</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EA-C2-A0-01-90-90</ValueOn>
+      <ValueOff>41-89-86-90-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

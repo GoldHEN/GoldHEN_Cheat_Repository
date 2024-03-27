@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dragon Age" Moder="d01v" Cusa="CUSA00220" Version="01.12" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <StartUP Text="MasterCode" Description="All Cheats Triggered instantly, if not try equip or unequip any item, or interact by loot, climb etc">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3213800</Offset>
+      <ValueOn>66-81-7E-28-42-01-74-0B-C5-FA-10-46-2C-E9-D4-60-78-FD-90-C7-46-2C-00-3C-1C-46-C7-86-AC-F4-FF-FF-00-3C-1C-46-C7-86-AC-00-00-00-00-3C-1C-46-C7-86-EC-F5-FF-FF-00-3C-1C-46-C7-86-2C-01-00-00-00-3C-1C-46-C7-86-2C-F6-FF-FF-00-3C-1C-46-C7-86-6C-F0-FF-FF-80-35-41-49-C7-86-AC-01-00-00-00-00-C8-42-C7-86-6C-0D-00-00-00-00-48-43-C7-86-AC-F2-FF-FF-00-3C-1C-46-C7-86-2C-F4-FF-FF-00-3C-1C-46-C7-86-EC-F2-FF-FF-00-3C-1C-46-C7-86-AC-F5-FF-FF-00-3C-1C-46-C7-86-6C-F4-FF-FF-00-3C-1C-46-C7-86-EC-F1-FF-FF-00-3C-1C-46-C7-86-2C-F7-FF-FF-00-3C-1C-46-C7-86-6C-04-00-00-00-3C-1C-46-C7-86-EC-0C-00-00-00-3C-1C-46-C7-86-AC-04-00-00-00-3C-1C-46-C7-86-EC-FC-FF-FF-00-3C-1C-46-C7-86-2C-FC-FF-FF-00-00-FA-43-C7-86-6C-F7-FF-FF-00-3C-1C-46-C7-86-AC-F7-FF-FF-00-3C-1C-46-C7-86-AC-06-00-00-00-3C-1C-46-C7-86-EC-06-00-00-00-3C-1C-46-C7-86-2C-07-00-00-00-00-C8-42-C7-86-2C-0D-00-00-00-3C-1C-46-C7-86-EC-04-00-00-00-3C-1C-46-C7-86-2C-05-00-00-00-3C-1C-46-C7-86-6C-05-00-00-00-3C-1C-46-C7-86-2C-FF-FF-FF-00-3C-1C-46-C7-86-6C-FF-FF-FF-00-3C-1C-46-C7-86-EC-FE-FF-FF-00-3C-1C-46-C7-46-EC-00-3C-1C-46-C7-86-6C-03-00-00-00-00-7A-44-C7-86-EC-03-00-00-00-00-7A-44-C5-FA-10-46-2C-E9-67-5F-78-FD-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>9998E1</Offset>
+      <ValueOn>E9-1A-9F-87-02</ValueOn>
+      <ValueOff>C5-FA-10-46-2C</ValueOff>
+    </Cheatline>
+  </StartUP>
+  <Cheat Text="Disable Infinite Health" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3213813</Offset>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-46-2C-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Health" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>321381A</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-AC-F4-FF-FF-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Infinite Stamina / Mana" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3213824</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-AC-00-00-00-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Stamina / Mana" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>321382E</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-EC-F5-FF-FF-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Infinite Focus" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3213838</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-2C-01-00-00-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Focus" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3213842</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-2C-F6-FF-FF-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max EXP" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>321384C</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-6C-F0-FF-FF-80-35-41-49</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Ability Points" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3213856</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-AC-01-00-00-00-00-C8-42</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Cooldown" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3213860</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-6C-0D-00-00-00-00-48-43</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max STR" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>321386A</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-AC-F2-FF-FF-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max DEX" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3213874</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-2C-F4-FF-FF-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max MAG" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>321387E</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-EC-F2-FF-FF-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Cunning" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3213888</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-AC-F5-FF-FF-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Willpower" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3213892</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-6C-F4-FF-FF-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max CON" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>321389C</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-EC-F1-FF-FF-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Attack" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>32138A6</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-2C-F7-FF-FF-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Guard Damage" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>32138B0</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-6C-04-00-00-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Penetration" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>32138BA</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-EC-0C-00-00-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Barrier Damage Bonus" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>32138C4</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-AC-04-00-00-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Critical Damage Bonus" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>32138CE</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-EC-FC-FF-FF-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Critical Chance" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>32138D8</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-2C-FC-FF-FF-00-00-FA-43</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Main Hand Bonus" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>32138E2</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-6C-F7-FF-FF-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Off Hand Bonus" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>32138EC</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-AC-F7-FF-FF-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Sunder On Hit" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>32138F6</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-AC-06-00-00-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Stagger On Hit" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3213900</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-EC-06-00-00-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Heal On Kill" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>321390A</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-2C-07-00-00-00-00-C8-42</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Flanking Damage" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3213914</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-2C-0D-00-00-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Magic Defense" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>321391E</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-EC-04-00-00-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Melee Defense" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3213928</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-2C-05-00-00-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Range Defense" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3213932</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-6C-05-00-00-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Cold Resistance" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>321393C</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-2C-FF-FF-FF-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Electric Resistance" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3213946</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-6C-FF-FF-FF-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Fire Resistance" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3213950</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-EC-FE-FF-FF-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Spirit Resistance" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>321395A</Offset>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-46-EC-00-3C-1C-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Guard (Auto Cast)" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3213961</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-6C-03-00-00-00-00-7A-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Max Barrier (Auto Cast)" Description="need MC">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>321396B</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-86-EC-03-00-00-00-00-7A-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Item" Description="use / sell max instantly, for discard it needs x2 to max">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>6D2653</Offset>
+      <ValueOn>0F-4D-C1</ValueOn>
+      <ValueOff>0F-4E-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Gold" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>32139E0</Offset>
+      <ValueOn>48-83-FB-00-75-28-48-83-F9-00-75-22-49-83-F8-00-75-1C-49-83-FB-00-75-16-41-C7-45-28-7F-96-98-00-41-8B-45-28-48-83-C4-08-E9-4B-94-35-FE-90-41-8B-45-28-48-83-C4-08-E9-3D-94-35-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>156CE50</Offset>
+      <ValueOn>E9-8B-6B-CA-01-90-90-90</ValueOn>
+      <ValueOff>41-8B-45-28-48-83-C4-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

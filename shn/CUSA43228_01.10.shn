@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Like a Dragon Gaiden: The man who erased his name" Moder="Q8Despair" Cusa="CUSA43228" Version="01.10" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Max All currency (Yen/Akame/Circuit)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1E9BBE6</Offset>
+      <ValueOn>4A-C7-04-E8-FF-C9-9A-3B-48-8B-01-E9-3B-F8-59-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>43B42A</Offset>
+      <ValueOn>E9-B7-07-A6-01-90-90</ValueOn>
+      <ValueOff>4A-89-1C-E8-48-8B-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Circuit car max Gauge">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1E9BCF3</Offset>
+      <ValueOn>C7-80-B0-00-00-00-80-CC-86-41-48-8B-48-20-E9-C5-2F-87-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>170ECC3</Offset>
+      <ValueOn>E9-2B-D0-78-00</ValueOn>
+      <ValueOff>E9-16-D0-78-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Health">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1E9BBE6</Offset>
+      <ValueOn>48-C7-40-08-D0-DD-06-00-5B-E9-13-68-25-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>10F2402</Offset>
+      <ValueOn>E9-DF-97-DA-00</ValueOn>
+      <ValueOff>48-89-48-08-5B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Items x99">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1E9BC32</Offset>
+      <ValueOn>C7-06-63-00-00-00-E9-8E-0A-5A-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>43C6C3</Offset>
+      <ValueOn>E9-6A-F5-A5-01-90-90-90</ValueOn>
+      <ValueOff>44-89-36-E9-A3-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Heat instant Charge">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1E9BBE6</Offset>
+      <ValueOn>C7-80-C8-03-00-00-00-00-A0-40-E9-82-5A-1E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>108166F</Offset>
+      <ValueOn>E9-72-A5-E1-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-88-C8-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

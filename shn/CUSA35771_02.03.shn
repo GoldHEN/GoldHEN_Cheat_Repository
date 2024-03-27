@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Daymare: 1994 Sandcastle" Moder="Saso_9.00" Cusa="CUSA35771" Version="02.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Health / Ammo / Frost (Master Code)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>802A7800</Offset>
+      <ValueOn>8B-16-48-83-FB-04-75-2A-49-81-FD-40-95-8D-06-75-21-41-54-49-BC-F0-FF-FF-FF-FF-00-00-00-49-09-FC-66-41-83-FC-F4-41-5C-75-09-81-7F-EC-00-00-C8-43-74-44-89-17-5D-C3-41-53-49-BB-F0-FF-FF-FF-FF-00-00-00-49-09-FB-66-41-83-FB-F8-41-5B-75-E4-83-7F-C8-FF-75-0B-81-7F-04-00-00-C8-42-74-14-EB-D3-49-83-FB-00-75-CD-81-BF-58-FC-FF-FF-08-CB-27-06-75-C1-8B-57-04-EB-BC-8B-57-0C-EB-B7</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>801ACE63</Offset>
+      <ValueOn>E9-98-A9-0F-00</ValueOn>
+      <ValueOff>8B-16-89-17-5D</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo / No Reload / Frost (MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>802A7827</Offset>
+      <ValueOn>75-0D</ValueOn>
+      <ValueOff>75-09</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
+
+
+
+
+
+
+
+
+
+
+
+

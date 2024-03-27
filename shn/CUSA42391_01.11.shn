@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="High on Life" Moder="Q8Despair" Cusa="CUSA42391" Version="01.11" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Guns No Reload ">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>808380E</Offset>
+      <ValueOn>41-C7-85-E0-00-00-00-0F-00-00-00-E9-89-44-DB-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>E37CA0</Offset>
+      <ValueOn>E9-69-BB-24-07-90-90</ValueOn>
+      <ValueOff>41-89-8D-E0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>8083820</Offset>
+      <ValueOn>C7-42-38-00-00-FA-43-E9-FC-0D-71-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2794623</Offset>
+      <ValueOn>E9-F8-F1-8E-05</ValueOn>
+      <ValueOff>C5-FA-11-4A-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Dashes">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>808382E</Offset>
+      <ValueOn>C7-83-D8-10-00-00-00-00-48-42-E9-83-E4-7B-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2841CB8</Offset>
+      <ValueOn>E9-71-1B-84-05-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-D8-10-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

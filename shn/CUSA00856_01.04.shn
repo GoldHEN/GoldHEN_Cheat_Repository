@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="KILLALLZOMBIES" Moder="Saso_9.00" Cusa="CUSA00856" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf HP / Ammo / Max Money (Master Code)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>DD7800</Offset>
+      <ValueOn>49-83-FC-00-75-3D-49-83-FF-00-75-37-83-7B-14-03-75-31-80-7B-13-15-7F-2B-80-7B-13-00-7C-25-4C-8B-63-10-90-41-81-7C-24-18-5F-68-70-00-75-15-41-81-7C-24-38-5F-6D-61-78-75-0A-48-B8-00-00-00-00-00-40-8F-40-48-89-03-8B-41-08-E9-6E-D8-87-FF-41-81-7C-24-18-6D-61-67-61-75-02-EB-DE-41-81-7C-24-1A-6F-6E-65-79-75-DD-48-B8-00-00-00-00-7E-84-2E-41-EB-D1-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>6550B6</Offset>
+      <ValueOn>E9-45-27-78-00-90</ValueOn>
+      <ValueOff>48-89-03-8B-41-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo / Max Money (MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>DD782C</Offset>
+      <ValueOn>75-20</ValueOn>
+      <ValueOff>75-15</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

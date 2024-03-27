@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Rayman Legends" Moder="d01v" Cusa="CUSA00031" Version="01.00" Process="eboot.bin">
+  <Genres Name="Platformer" />
+  <Items />
+  <Cheat Text="Invisible (Run Disable / Turn off before entering Room)">
+    <Cheatline>
+      <Offset>466389</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-42-CA-19-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Invulnerable (enemy only, not on traps)">
+    <Cheatline>
+      <Offset>4826D3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-88-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>BE3489</Offset>
+      <Section>0</Section>
+      <ValueOn>74-07</ValueOn>
+      <ValueOff>75-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Always Start with Heart">
+    <Cheatline>
+      <Offset>F3D50</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-96-C0</ValueOn>
+      <ValueOff>0F-93-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Teensy Unlock All">
+    <Cheatline>
+      <Offset>140B221</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-60-03-00-00-BC-02-00-00-44-03-A0-60-03-00-00-E9-75-A1-CF-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1053A5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-77-5E-30-01-90-90</ValueOn>
+      <ValueOff>44-03-A0-60-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Increase Walk Speed x2 (MC)">
+    <Cheatline>
+      <Offset>140B241</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-B8-05-00-00-00-00-00-40-C4-C1-7A-10-87-B8-05-00-00-C4-C1-7A-11-87-B8-05-00-00-E9-B7-C0-15-FF-90-41-C7-87-B8-05-00-00-00-00-40-40-C4-C1-7A-10-87-B8-05-00-00-C4-C1-7A-11-87-B8-05-00-00-E9-94-C0-15-FF-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>567311</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2B-3F-EA-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-87-B8-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Increase Walk Speed x3 (MC)">
+    <Cheatline>
+      <Offset>140B241</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-21-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-C7-87-B8-05-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Lucky Ticket">
+    <Cheatline>
+      <Offset>140B2A1</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-64-03-00-00-63-00-00-00-44-8B-B0-64-03-00-00-E9-44-62-0C-FF-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4D14F4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A8-9D-F3-00-90-90</ValueOn>
+      <ValueOff>44-8B-B0-64-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant 1m Lums">
+    <Cheatline>
+      <Offset>140B2D1</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-00-02-00-00-40-42-0F-00-03-B0-00-02-00-00-E9-62-6B-63-FF-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A41E42</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8A-94-9C-00-90</ValueOn>
+      <ValueOff>03-B0-00-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

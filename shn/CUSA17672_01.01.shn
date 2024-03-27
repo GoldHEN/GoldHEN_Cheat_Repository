@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Valfaris" Moder="fbin" Cusa="CUSA17672" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Horror" />
+  <Items />
+  <Cheat Text="Vida Infinita">
+    <Cheatline>
+      <Offset>181FDF0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-18-D0-07-00-00-E9-19-5C-25-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80A75A12</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D9-A3-DA-80</ValueOn>
+      <ValueOff>41-89-44-24-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Arma Infinita">
+    <Cheatline>
+      <Offset>181FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-E4-04-00-00-0F-27-00-00-E9-C7-72-24-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80A67080</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2B-8D-DB-80-90-90</ValueOn>
+      <ValueOff>41-89-9E-E4-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Idolo Infinito">
+    <Cheatline>
+      <Offset>181FE20</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-49-C3-41-C7-46-74-0A-00-00-00-E9-2F-12-41-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80C31058</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C3-ED-BE-80-90-90</ValueOn>
+      <ValueOff>0F-49-C3-41-89-46-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Metal de Sangue e Sangue de Valfaris Infinito">
+    <Cheatline>
+      <Offset>181FE60</Offset>
+      <Section>0</Section>
+      <ValueOn>42-C7-44-38-2C-64-00-00-00-E9-2E-70-ED-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>816F6E97</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C4-8F-12-80</ValueOn>
+      <ValueOff>42-89-54-38-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

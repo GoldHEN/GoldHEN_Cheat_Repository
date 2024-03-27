@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Last Of Us II" Moder="Celogamez" Cusa="CUSA10249" Version="01.09" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Enable Dev Menu">
+    <Cheatline>
+      <Offset>7FC5FAA0</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-80-A1-3A-00-00-01-E9-9B-49-A3-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>694440</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5B-B6-5C-7F-90-90</ValueOn>
+      <ValueOff>80-B8-A1-3A-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="God Mode">
+    <Cheatline>
+      <Offset>12884C1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-CA-59-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>1290A6A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-FF-57-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Breath (UnderWater)">
+    <Cheatline>
+      <Offset>2DF32E0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-42-B9-6D-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14CEC1F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BC-46-92-01-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-B0-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>2DF37A0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4C-C2-85-C0-C7-01-E7-03-00-00-C7-01-E7-03-00-00-E9-60-AF-C5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1A4E70F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8C-50-3A-01-90-90</ValueOn>
+      <ValueOff>0F-4C-C2-85-C0-89-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>1A4DB7B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>66-41-89-8F-D8-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Silence Ammo">
+    <Cheatline>
+      <Offset>1A19357</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-FF-8E-14-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Weapon Health">
+    <Cheatline>
+      <Offset>1A22B62</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-87-60-09-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items/Craft On Use">
+    <Cheatline>
+      <Offset>2DF3A30</Offset>
+      <Section>0</Section>
+      <ValueOn>84-C9-C7-43-E0-E7-03-00-00-E9-91-2F-39-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11869CA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-61-D0-C6-01</ValueOn>
+      <ValueOff>84-C9-89-43-E0</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

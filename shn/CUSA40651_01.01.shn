@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Star Ocean The Second story R" Moder="Celogamez" Cusa="CUSA40651" Version="01.01" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinite Health/1 Hit Kill (Master Code)">
+    <Cheatline>
+      <Offset>1A7FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4C-C2-83-7F-28-00-74-0D-8B-47-50-89-47-54-E9-61-5B-4C-7F-31-C0-89-47-54-E9-57-5B-4C-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80F4591F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8C-A4-B3-80-90</ValueOn>
+      <ValueOff>0F-4C-C2-89-47-54</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill (Enable Master Code))">
+    <Cheatline>
+      <Offset>1A7FDB7</Offset>
+      <Section>0</Section>
+      <ValueOn>74-0B</ValueOn>
+      <ValueOff>74-0D</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite MP">
+    <Cheatline>
+      <Offset>1A7F610</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-49-D0-8B-57-5C-89-57-60-E9-29-63-4C-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80F45941</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CA-9C-B3-80-90</ValueOn>
+      <ValueOff>0F-49-D0-89-57-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max BP On Gain">
+    <Cheatline>
+      <Offset>1A7FC20</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-40-01-00-00-0F-27-00-00-E9-45-49-4C-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80F4456E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AD-B6-B3-80-90-90</ValueOn>
+      <ValueOff>41-89-9E-40-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite SP On Use">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1A7F860</Offset>
+      <ValueOn>B8-0F-27-00-00-41-89-84-24-30-01-00-00-C4-E2-70-F2-C0-48-8B-3B-E9-60-47-4C-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>C83FD5</Offset>
+      <ValueOn>E9-86-B8-B3-80</ValueOn>
+      <ValueOff>C4-E2-70-F2-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items">
+    <Cheatline>
+      <Offset>A2FA7E</Offset>
+      <Section>14</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-9D-EC-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Fol">
+    <Cheatline>
+      <Offset>1A7FB70</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-49-C8-41-C7-46-14-3F-42-0F-00-E9-BD-CF-D3-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>817BCB36</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-35-30-2C-80-90-90</ValueOn>
+      <ValueOff>0F-49-C8-41-89-4E-14</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1A7FB40</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-14-3F-42-0F-00-E9-70-D0-D3-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>817BCBB9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-82-2F-2C-80</ValueOn>
+      <ValueOff>41-89-4C-24-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

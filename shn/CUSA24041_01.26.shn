@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call Of Duty Vanguard" Moder="Celogamez" Cusa="CUSA24041" Version="01.26" Process="eboot.bin">
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Health (Campaign Mode)">
+    <Cheatline>
+      <Offset>114B22B</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-2C-C1</ValueOn>
+      <ValueOff>C5-FA-2C-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health (Zombie Mode)">
+    <Cheatline>
+      <Offset>28C7DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>31-C0-29-86-C0-01-00-00-E9-45-8C-D7-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>16409FC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AF-73-28-01-90</ValueOn>
+      <ValueOff>29-86-C0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>28C7800</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-E7-03-00-00-89-48-44-E9-9C-E6-8F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11C5EA4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-57-19-70-01</ValueOn>
+      <ValueOff>29-D9-89-48-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload/Infinite Grenades">
+    <Cheatline>
+      <Offset>28C7C90</Offset>
+      <Section>0</Section>
+      <ValueOn>39-F2-BB-63-00-00-00-E9-75-C2-8F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11C3F0C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7F-3D-70-01</ValueOn>
+      <ValueOff>39-F2-0F-4D-DF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money (Make Money Before)">
+    <Cheatline>
+      <Offset>B05F8</Offset>
+      <Section>9</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>F3-A6</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

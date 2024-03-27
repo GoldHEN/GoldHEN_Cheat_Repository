@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Walking Dead: Destinies" Moder="Wander FW9.00" Cusa="CUSA42722" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>844D3560</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-38-00-00-C8-43-E9-06-21-F2-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>833F566D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EE-DE-0D-01</ValueOn>
+      <ValueOff>C5-FA-11-43-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Adrelanine">
+    <Cheatline>
+      <Offset>844D35F0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-10-00-00-80-3F-E9-D6-59-B5-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81028FCD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1E-A6-4A-03</ValueOn>
+      <ValueOff>C5-FA-11-53-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>844D3700</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-49-F0-41-C6-47-18-1E-E9-57-2C-32-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>817F635D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9E-D3-CD-02-90-90</ValueOn>
+      <ValueOff>0F-49-F0-41-89-77-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Skill points (on pick up )" Description="pick it up twice for it to take effect">
+    <Cheatline>
+      <Offset>844D3990</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-80-B8-00-00-00-66-C7-00-E7-03-E9-DB-D6-F1-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>833F1073</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-18-29-0E-01-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-80-B8-00-00-00-01-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

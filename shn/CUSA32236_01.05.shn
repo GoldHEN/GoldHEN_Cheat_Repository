@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Aeterna Noctis" Moder="fbin" Cusa="CUSA32236" Version="01.05" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Horror" />
+  <Items />
+  <Cheat Text="Vida Infinita">
+    <Cheatline>
+      <Offset>1B13DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-FF-1E-75-0A-45-2B-7C-24-28-E9-F7-92-21-7F-45-29-7C-24-28-E9-ED-92-21-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80D2D0B2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F9-6C-DE-80</ValueOn>
+      <ValueOff>45-29-7C-24-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Dogmas Infinito">
+    <Cheatline>
+      <Offset>1B13DE0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-E4-00-00-00-3F-42-0F-00-E9-B2-A5-D3-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8084E39B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-40-5A-2C-81-90</ValueOn>
+      <ValueOff>01-88-E4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Nivel Max - Mate 3 a 5 Inimigos">
+    <Cheatline>
+      <Offset>1B13E20</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-08-01-00-00-FF-E0-F5-05-E9-C7-B4-D3-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8084F2F0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2B-4B-2C-81-90</ValueOn>
+      <ValueOff>01-88-08-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

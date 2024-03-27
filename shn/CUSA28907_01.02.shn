@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Legend of Heroes: Trails into Reverie" Moder="Wander FW9.00" Cusa="CUSA28907" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>F3E920</Offset>
+      <ValueOn>41-80-7C-24-58-00-75-11-41-C7-84-24-14-04-00-00-50-C3-00-00-E9-1B-7B-15-FF-41-89-9C-24-14-04-00-00-E9-0E-7B-15-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>9644C</Offset>
+      <ValueOn>E9-CF-84-EA-00-90-90-90</ValueOn>
+      <ValueOff>41-89-9C-24-14-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite EP">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>F3F730</Offset>
+      <ValueOn>66-C7-83-1C-04-00-00-0F-27-E9-8A-DE-15-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>9D5C1</Offset>
+      <ValueOn>E9-6A-21-EA-00-90-90</ValueOn>
+      <ValueOff>66-89-8B-1C-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite CP">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>F3F9B0</Offset>
+      <ValueOn>66-C7-83-20-04-00-00-E7-03-E9-1A-6B-15-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>964D1</Offset>
+      <ValueOn>E9-DA-94-EA-00-90-90</ValueOn>
+      <ValueOff>66-89-8B-20-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Fast Level up">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>F3F310</Offset>
+      <ValueOn>41-C7-86-64-03-00-00-FF-3F-7A-10-E9-82-39-1F-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>132C9B</Offset>
+      <ValueOn>E9-70-C6-E0-00-90-90</ValueOn>
+      <ValueOff>41-89-86-64-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Fast Quarz Level up">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>F3F010</Offset>
+      <ValueOn>C7-83-6C-03-00-00-FF-E3-0B-54-E9-AF-13-1F-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1303C8</Offset>
+      <ValueOn>E9-43-EC-E0-00-90</ValueOn>
+      <ValueOff>89-83-6C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Mira (on spend)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>F3F650</Offset>
+      <ValueOn>C7-80-40-F6-7A-00-FF-E0-F5-05-E9-EE-51-4E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>424847</Offset>
+      <ValueOn>E9-04-AE-B1-00-90</ValueOn>
+      <ValueOff>89-88-40-F6-7A-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Exchange Items (in spend)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>F3F530</Offset>
+      <ValueOn>C7-84-88-A0-F5-7A-00-9F-86-01-00-E9-4B-52-4E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>424784</Offset>
+      <ValueOn>E9-A7-AD-B1-00-90-90</ValueOn>
+      <ValueOff>89-B4-88-A0-F5-7A-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items (In battle have 2)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>F3F1D0</Offset>
+      <ValueOn>C7-01-5A-00-00-00-45-84-F6-E9-7A-AD-4D-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>419F53</Offset>
+      <ValueOn>E9-78-52-B2-00</ValueOn>
+      <ValueOff>89-01-45-84-F6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Purple Shards (on spent in the Corridor)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>F3E680</Offset>
+      <ValueOn>C7-01-7F-96-98-00-45-84-F6-E9-B4-B9-4D-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>41A03D</Offset>
+      <ValueOn>E9-3E-46-B2-00</ValueOn>
+      <ValueOff>89-01-45-84-F6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max U Materials (on spend)" Description="turn off after getting the max U Materials">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>F3EA70</Offset>
+      <ValueOn>C7-44-48-04-FF-E0-F5-05-48-83-C1-08-E9-D5-A2-4D-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>418D4E</Offset>
+      <ValueOn>E9-1D-5D-B2-00-90-90-90</ValueOn>
+      <ValueOff>89-54-48-04-48-83-C1-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

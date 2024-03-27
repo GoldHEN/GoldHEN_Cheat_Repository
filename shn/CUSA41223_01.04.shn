@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Trine 5: A Clockwork Conspiracy" Moder="Wander FW9.00" Cusa="CUSA41223" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2EE37D0</Offset>
+      <ValueOn>6A-0E-44-8B-71-20-44-89-34-81-41-5E-C5-BA-2A-0C-81-E9-61-12-E7-FD-57-61-6E-64-65-72-20-46-57-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>D54A42</Offset>
+      <ValueOn>E9-89-ED-18-02</ValueOn>
+      <ValueOff>C5-BA-2A-0C-81</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

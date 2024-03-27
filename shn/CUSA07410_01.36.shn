@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="God Of War" Moder="Celogamez" Cusa="CUSA07410" Version="01.36" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health/Rage/Arrows (Master Code/Must Be On)">
+    <Cheatline>
+      <Offset>FFFDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-66-41-81-FB-00-EC-75-12-C4-C1-7A-11-5E-20-C4-C1-7A-11-5E-20-E9-3B-8B-4F-FF-90-66-41-81-FE-88-A7-75-0C-C4-C1-7A-11-5E-20-E9-27-8B-4F-FF-90-66-81-F9-20-F2-75-D9-C4-C1-7A-11-5E-20-EB-CB-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4F88FF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AC-74-B0-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-5E-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>FFFDB9</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-5E-20</ValueOn>
+      <ValueOff>C4-C1-7A-11-5E-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Rage">
+    <Cheatline>
+      <Offset>FFFDD3</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-11-66-20</ValueOn>
+      <ValueOff>C4-C1-7A-11-5E-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Arrows">
+    <Cheatline>
+      <Offset>FFFDE6</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-5E-20</ValueOn>
+      <ValueOff>C4-C1-7A-11-5E-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Cooldown">
+    <Cheatline>
+      <Offset>75D7AC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP/Hacksilver/Resources">
+    <Cheatline>
+      <Offset>FFFB20</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-36-30-FF-C9-9A-3B-41-8B-44-36-30-E9-6F-66-8C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8C619C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7F-99-73-00-90</ValueOn>
+      <ValueOff>41-83-7C-36-30-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

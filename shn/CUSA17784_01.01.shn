@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sherlock Holmes Chapter One" Moder="Wander FW9.00" Cusa="CUSA17784" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Max Money (on buy)" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>744B4E0</Offset>
+      <ValueOn>C7-40-08-FF-E0-F5-05-0F-84-E7-6E-3E-F9-E9-4D-6E-3E-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>832336</Offset>
+      <ValueOn>E9-A5-91-C1-06-90-90-90-90</ValueOn>
+      <ValueOff>89-48-08-0F-84-95-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
