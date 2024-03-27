@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call of Duty® Modern Warfare® III" Moder="Saso_9.00" Cusa="CUSA23827" Version="01.33" Process="sp23-cod.elf">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf Health">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>33CF800</Offset>
+      <ValueOn>4D-31-D2-45-29-96-D0-01-00-00-E9-F1-D5-03-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>240CDF9</Offset>
+      <ValueOn>E9-02-2A-FC-00-90-90</ValueOn>
+      <ValueOff>45-29-96-D0-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>250275C</Offset>
+      <ValueOn>C5-FA-2C-C2</ValueOn>
+      <ValueOff>C5-FA-2C-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Armor ">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>33CF82C</Offset>
+      <ValueOn>0F-B6-9D-05-FF-FF-FF-83-FB-01-75-1B-4D-39-D6-75-16-53-4B-8D-1C-27-81-7B-08-0E-49-E5-A3-5B-75-07-48-C7-C0-E8-03-00-00-E9-A7-E1-50-FE-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>18DD9F8</Offset>
+      <ValueOn>E9-2F-1E-AF-01-90-90</ValueOn>
+      <ValueOff>0F-B6-9D-05-FF-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo / Grenade / No Reload">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>33CF811</Offset>
+      <ValueOn>0F-49-DF-66-41-81-FC-FF-FF-75-05-BB-63-00-00-00-89-5C-88-64-E9-8A-DA-C2-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>1FFD2AD</Offset>
+      <ValueOn>E9-5F-25-3D-01-90-90</ValueOn>
+      <ValueOff>0F-49-DF-89-5C-88-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
