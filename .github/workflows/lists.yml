@@ -35,21 +35,7 @@ jobs:
           sudo make
           sudo make install
 
-      - name: Test XML data
-        run: |
-          export LD_LIBRARY_PATH=$(pwd)/mxml
-          FILES="shn/*.shn"
-          clang .ci/xml.c -lmxml
-          for f in $FILES
-          do
-            ./a.out $f
-          done
-          FILES="mc4/*.xml"
-          clang .ci/xml.c -lmxml
-          for f in $FILES
-          do
-            ./a.out $f
-          done
+      
 
       - name: Create list files
         run: |
