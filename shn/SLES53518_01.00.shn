@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Castle Shikigami 2" Moder="Ali-mk" Cusa="SLES53518" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Energy">
+    <Cheatline>
+      <Offset>807FEB9E24</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>03</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Bomb">
+    <Cheatline>
+      <Offset>807FEB9E3A</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>03</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

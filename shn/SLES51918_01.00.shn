@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Prince of Persia The Sands of Time" Moder="Ali-mk" Cusa="SLES51918" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>807FF033D8</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-FF</ValueOn>
+      <ValueOff>98-98</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Sand-Bar">
+    <Cheatline>
+      <Offset>807FF340E4</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>03</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>807FF340E5</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>03</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

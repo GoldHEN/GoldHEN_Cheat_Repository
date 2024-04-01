@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil Director's Cut" Moder="Ali-mk" Cusa="SLUS00551" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>1F4EAC</Offset>
+      <Section>11</Section>
+      <ValueOn>72</ValueOn>
+      <ValueOff>AC</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>1F4EAD</Offset>
+      <Section>11</Section>
+      <ValueOn>A0</ValueOn>
+      <ValueOff>51</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-All-Weapon">
+    <Cheatline>
+      <Offset>12A812</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>42</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Unlock-Weapon=Shotgun+Magnum">
+    <Cheatline>
+      <Offset>1B3A24</Offset>
+      <Section>11</Section>
+      <ValueOn>03-64-FF</ValueOn>
+      <ValueOff>05-64-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

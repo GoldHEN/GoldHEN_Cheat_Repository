@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Radirgy Precious (Japan)" Moder="Ali-mk" Cusa="SLPM66405" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Energy">
+    <Cheatline>
+      <Offset>807FEE8DD0</Offset>
+      <Section>0</Section>
+      <ValueOn>08-00</ValueOn>
+      <ValueOff>03-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-credits">
+    <Cheatline>
+      <Offset>807FD79BC8</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+	 <Cheatline>
+      <Offset>807FD79BC9</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

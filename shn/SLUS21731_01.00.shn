@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="CT Special Forces" Moder="Ali-mk" Cusa="SLUS21731" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health+-1-Hit">
+    <Cheatline>
+      <Offset>807FD26928</Offset>
+      <Section>0</Section>
+      <ValueOn>E6-00-0B-DC</ValueOn>
+      <ValueOff>60-0F-8-C4</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-All-Weapon">
+    <Cheatline>
+      <Offset>807FD37F78</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-FF</ValueOn>
+      <ValueOff>FF-FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>807FD37F79</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-FF</ValueOn>
+      <ValueOff>FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
