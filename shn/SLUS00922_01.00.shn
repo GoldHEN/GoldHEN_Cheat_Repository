@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dino Crisis" Moder="Ali-mk" Cusa="SLUS00922" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Unlock All-Weapon">
+    <Cheatline>
+      <Offset>1AC848</Offset>
+      <Section>11</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-All-Weapon">
+    <Cheatline>
+      <Offset>155E8A</Offset>
+      <Section>11</Section>
+      <ValueOn>42</ValueOn>
+      <ValueOff>24</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

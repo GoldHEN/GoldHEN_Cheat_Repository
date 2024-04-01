@@ -26,4 +26,76 @@
       <ValueOff>10</ValueOff>
     </Cheatline>
   </Cheat>
+    <Cheat Text="handgun SIGPRO">
+    <Cheatline> 
+      <Offset>1BD3D4</Offset>
+      <Section>11</Section>
+      <ValueOn>11-FF-FF-FF</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-rocket launcher">
+    <Cheatline> 
+      <Offset>1BD3D4</Offset>
+      <Section>11</Section>
+      <ValueOn>0A-FF-FF</ValueOn>
+      <ValueOff>04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-grenade launcher">
+    <Cheatline> 
+      <Offset>1BD3D4</Offset>
+      <Section>11</Section>
+      <ValueOn>06-FF-FF</ValueOn>
+      <ValueOff>00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-handgun EAGLE">
+    <Cheatline> 
+      <Offset>1BD3D4</Offset>
+      <Section>11</Section>
+      <ValueOn>0D-FF-FF</ValueOn>
+      <ValueOff>00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-shotgun">
+    <Cheatline> 
+      <Offset>1BD3D4</Offset>
+      <Section>11</Section>
+      <ValueOn>04-FF-FF</ValueOn>
+      <ValueOff>00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-machine gun">
+    <Cheatline> 
+      <Offset>1BD3D4</Offset>
+      <Section>11</Section>
+      <ValueOn>0B-FF-FF</ValueOn>
+      <ValueOff>00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Ink Ribbon">
+    <Cheatline> 
+      <Offset>1BD3D4</Offset>
+      <Section>11</Section>
+      <ValueOn>81-FF-FF</ValueOn>
+      <ValueOff>00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Assault Rifle">
+    <Cheatline> 
+      <Offset>1BD3D5</Offset>
+      <Section>11</Section>
+      <ValueOn>FF-FF</ValueOn>
+      <ValueOff>10</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-magnum">
+    <Cheatline> 
+      <Offset>1BD3D5</Offset>
+      <Section>11</Section>
+      <ValueOn>05-FF-FF</ValueOn>
+      <ValueOff>06-06</ValueOff>
+    </Cheatline>
+  </Cheat>
 </Trainer>

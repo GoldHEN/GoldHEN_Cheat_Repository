@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mega Man X6" Moder="Ali-mk" Cusa="SLUS01395" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Have All Weapons">
+    <Cheatline>
+      <Offset>182409</Offset>
+      <Section>11</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-All-Weapon">
+    <Cheatline>
+      <Offset>12AA44</Offset>
+      <Section>11</Section>
+      <ValueOn>99</ValueOn>
+      <ValueOff>23</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>11C492</Offset>
+      <Section>11</Section>
+      <ValueOn>40</ValueOn>
+      <ValueOff>45</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite Lives">
+    <Cheatline>
+      <Offset>1098DE</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>42</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>12477C</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>12477D</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
