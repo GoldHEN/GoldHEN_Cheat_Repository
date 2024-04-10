@@ -1,0 +1,7143 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Gran Turismo 4" Moder="W" Cusa="SCUS97328" Version="01.00" Process="eboot.bin">
+  <Genres Name="Racing" />
+  <Items />
+  <Cheat Text="1 Billion Credits">
+    <Cheatline>
+      <Offset>808061FCA8</Offset>
+      <Section>0</Section>
+      <ValueOn>5E-98-F6-57</ValueOn>
+      <ValueOff>5E-98-F6-57</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>808061FCAC</Offset>
+      <Section>0</Section>
+      <ValueOn>70-6F-72-7A</ValueOn>
+      <ValueOff>70-6F-72-7A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Days">
+    <Cheatline>
+      <Offset>8080617AB8</Offset>
+      <Section>0</Section>
+      <ValueOn>75-F6-26-00</ValueOn>
+      <ValueOff>75-F6-26-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Races Won With No Losses">
+    <Cheatline>
+      <Offset>808060C22C</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>808060C230</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-27-00-00</ValueOn>
+      <ValueOff>0F-27-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>808060C234</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>808060C238</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Total Prize Credits">
+    <Cheatline>
+      <Offset>808060C220</Offset>
+      <Section>0</Section>
+      <ValueOn>00-10-A5-D4</ValueOn>
+      <ValueOff>00-10-A5-D4</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>808060C224</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-00-00-00</ValueOn>
+      <ValueOff>E8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Buying Items Doesnt Decrease Credits">
+    <Cheatline>
+      <Offset>808003AFD0</Offset>
+      <Section>0</Section>
+      <ValueOn>2D-28-40-00</ValueOn>
+      <ValueOff>2D-28-40-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Have All Cars Purchaseable & Cost $1">
+    <Cheatline>
+      <Offset>807FCC0220</Offset>
+      <Section>0</Section>
+      <ValueOn>01-00-02-24</ValueOn>
+      <ValueOff>01-00-02-24</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0224</Offset>
+      <Section>0</Section>
+      <ValueOn>08-00-A2-AF</ValueOn>
+      <ValueOff>08-00-A2-AF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0228</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-21-11-08</ValueOn>
+      <ValueOff>FF-21-11-08</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC022C</Offset>
+      <Section>0</Section>
+      <ValueOn>12-00-A0-A3</ValueOn>
+      <ValueOff>12-00-A0-A3</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80800487F8</Offset>
+      <Section>0</Section>
+      <ValueOn>88-00-03-08</ValueOn>
+      <ValueOff>88-00-03-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Fuel">
+    <Cheatline>
+      <Offset>807FF54CC8</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FF54CCC</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tires Never Wear Out">
+    <Cheatline>
+      <Offset>807FF531B0</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Start On Lap 2">
+    <Cheatline>
+      <Offset>807FCC0230</Offset>
+      <Section>0</Section>
+      <ValueOn>01-00-01-24</ValueOn>
+      <ValueOff>01-00-01-24</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0234</Offset>
+      <Section>0</Section>
+      <ValueOn>01-00-25-50</ValueOn>
+      <ValueOff>01-00-25-50</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0238</Offset>
+      <Section>0</Section>
+      <ValueOn>02-00-05-24</ValueOn>
+      <ValueOff>02-00-05-24</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC023C</Offset>
+      <Section>0</Section>
+      <ValueOn>08-00-E0-03</ValueOn>
+      <ValueOff>08-00-E0-03</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0240</Offset>
+      <Section>0</Section>
+      <ValueOn>B0-05-85-A4</ValueOn>
+      <ValueOff>B0-05-85-A4</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FF43BD4</Offset>
+      <Section>0</Section>
+      <ValueOn>8C-00-03-08</ValueOn>
+      <ValueOff>8C-00-03-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Start On Lap 3">
+    <Cheatline>
+      <Offset>807FCC0230</Offset>
+      <Section>0</Section>
+      <ValueOn>01-00-01-24</ValueOn>
+      <ValueOff>01-00-01-24</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0234</Offset>
+      <Section>0</Section>
+      <ValueOn>03-00-25-50</ValueOn>
+      <ValueOff>03-00-25-50</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0238</Offset>
+      <Section>0</Section>
+      <ValueOn>02-00-05-24</ValueOn>
+      <ValueOff>02-00-05-24</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC023C</Offset>
+      <Section>0</Section>
+      <ValueOn>08-00-E0-03</ValueOn>
+      <ValueOff>08-00-E0-03</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0240</Offset>
+      <Section>0</Section>
+      <ValueOn>B0-05-85-A4</ValueOn>
+      <ValueOff>B0-05-85-A4</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FF43BD4</Offset>
+      <Section>0</Section>
+      <ValueOn>8C-00-03-08</ValueOn>
+      <ValueOff>8C-00-03-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Start On Lap 4">
+    <Cheatline>
+      <Offset>807FCC0230</Offset>
+      <Section>0</Section>
+      <ValueOn>01-00-01-24</ValueOn>
+      <ValueOff>01-00-01-24</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0234</Offset>
+      <Section>0</Section>
+      <ValueOn>04-00-25-50</ValueOn>
+      <ValueOff>04-00-25-50</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0238</Offset>
+      <Section>0</Section>
+      <ValueOn>02-00-05-24</ValueOn>
+      <ValueOff>02-00-05-24</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC023C</Offset>
+      <Section>0</Section>
+      <ValueOn>08-00-E0-03</ValueOn>
+      <ValueOff>08-00-E0-03</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0240</Offset>
+      <Section>0</Section>
+      <ValueOn>B0-05-85-A4</ValueOn>
+      <ValueOff>B0-05-85-A4</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FF43BD4</Offset>
+      <Section>0</Section>
+      <ValueOn>8C-00-03-08</ValueOn>
+      <ValueOff>8C-00-03-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Start On Lap 5">
+    <Cheatline>
+      <Offset>807FCC0230</Offset>
+      <Section>0</Section>
+      <ValueOn>01-00-01-24</ValueOn>
+      <ValueOff>01-00-01-24</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0234</Offset>
+      <Section>0</Section>
+      <ValueOn>05-00-25-50</ValueOn>
+      <ValueOff>05-00-25-50</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0238</Offset>
+      <Section>0</Section>
+      <ValueOn>02-00-05-24</ValueOn>
+      <ValueOff>02-00-05-24</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC023C</Offset>
+      <Section>0</Section>
+      <ValueOn>08-00-E0-03</ValueOn>
+      <ValueOff>08-00-E0-03</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0240</Offset>
+      <Section>0</Section>
+      <ValueOn>B0-05-85-A4</ValueOn>
+      <ValueOff>B0-05-85-A4</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FF43BD4</Offset>
+      <Section>0</Section>
+      <ValueOn>8C-00-03-08</ValueOn>
+      <ValueOff>8C-00-03-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Idiot AI All Opponents">
+    <Cheatline>
+      <Offset>807FF4DE60</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Have All Cars In Garage">
+    <Cheatline>
+      <Offset>807FCC0260</Offset>
+      <Section>0</Section>
+      <ValueOn>E0-FF-BD-27</ValueOn>
+      <ValueOff>E0-FF-BD-27</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0264</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-BF-FF</ValueOn>
+      <ValueOff>00-00-BF-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0268</Offset>
+      <Section>0</Section>
+      <ValueOn>08-00-B0-FF</ValueOn>
+      <ValueOff>08-00-B0-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC026C</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-04-24</ValueOn>
+      <ValueOff>00-00-04-24</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0270</Offset>
+      <Section>0</Section>
+      <ValueOn>10-00-A4-FF</ValueOn>
+      <ValueOff>10-00-A4-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0274</Offset>
+      <Section>0</Section>
+      <ValueOn>96-22-11-0C</ValueOn>
+      <ValueOff>96-22-11-0C</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0278</Offset>
+      <Section>0</Section>
+      <ValueOn>0C-00-05-3C</ValueOn>
+      <ValueOff>0C-00-05-3C</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC027C</Offset>
+      <Section>0</Section>
+      <ValueOn>05-00-40-10</ValueOn>
+      <ValueOff>05-00-40-10</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0280</Offset>
+      <Section>0</Section>
+      <ValueOn>10-00-A4-DF</ValueOn>
+      <ValueOff>10-00-A4-DF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0284</Offset>
+      <Section>0</Section>
+      <ValueOn>08-00-04-FE</ValueOn>
+      <ValueOff>08-00-04-FE</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0288</Offset>
+      <Section>0</Section>
+      <ValueOn>01-00-01-24</ValueOn>
+      <ValueOff>01-00-01-24</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC028C</Offset>
+      <Section>0</Section>
+      <ValueOn>10-00-01-AE</ValueOn>
+      <ValueOff>10-00-01-AE</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0290</Offset>
+      <Section>0</Section>
+      <ValueOn>20-00-10-26</ValueOn>
+      <ValueOff>20-00-10-26</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0294</Offset>
+      <Section>0</Section>
+      <ValueOn>01-00-84-24</ValueOn>
+      <ValueOff>01-00-84-24</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC0298</Offset>
+      <Section>0</Section>
+      <ValueOn>00-05-81-2C</ValueOn>
+      <ValueOff>00-05-81-2C</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC029C</Offset>
+      <Section>0</Section>
+      <ValueOn>F4-FF-20-14</ValueOn>
+      <ValueOff>F4-FF-20-14</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC02A0</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC02A4</Offset>
+      <Section>0</Section>
+      <ValueOn>08-00-B0-DF</ValueOn>
+      <ValueOff>08-00-B0-DF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC02A8</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-BF-DF</ValueOn>
+      <ValueOff>00-00-BF-DF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC02AC</Offset>
+      <Section>0</Section>
+      <ValueOn>38-2C-17-08</ValueOn>
+      <ValueOff>38-2C-17-08</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FCC02B0</Offset>
+      <Section>0</Section>
+      <ValueOn>20-00-BD-27</ValueOn>
+      <ValueOff>20-00-BD-27</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080617AC8</Offset>
+      <Section>0</Section>
+      <ValueOn>15-00-00-00</ValueOn>
+      <ValueOff>15-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FD702AC</Offset>
+      <Section>0</Section>
+      <ValueOn>38-2C-17-0C</ValueOn>
+      <ValueOff>38-2C-17-0C</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080617AC8</Offset>
+      <Section>0</Section>
+      <ValueOn>15-00-10-00</ValueOn>
+      <ValueOff>15-00-10-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FD702AC</Offset>
+      <Section>0</Section>
+      <ValueOn>98-00-03-0C</ValueOn>
+      <ValueOff>98-00-03-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlock All Arcade Tracks">
+    <Cheatline>
+      <Offset>807FE4FFFF</Offset>
+      <Section>0</Section>
+      <ValueOn>78-45-A4-00</ValueOn>
+      <ValueOff>78-45-A4-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80806443EC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-00-33-00</ValueOn>
+      <ValueOff>02-00-33-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FC00022</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80806443E8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-00-04-00</ValueOn>
+      <ValueOff>02-00-04-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FC00002</Offset>
+      <Section>0</Section>
+      <ValueOn>01-00-00-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080644408</Offset>
+      <Section>0</Section>
+      <ValueOn>02-00-06-00</ValueOn>
+      <ValueOff>02-00-06-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FC00007</Offset>
+      <Section>0</Section>
+      <ValueOn>01-00-00-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080644438</Offset>
+      <Section>0</Section>
+      <ValueOn>02-00-07-00</ValueOn>
+      <ValueOff>02-00-07-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FC00016</Offset>
+      <Section>0</Section>
+      <ValueOn>01-00-00-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080644470</Offset>
+      <Section>0</Section>
+      <ValueOn>28-00-00-00</ValueOn>
+      <ValueOff>28-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080644478</Offset>
+      <Section>0</Section>
+      <ValueOn>2B-00-00-00</ValueOn>
+      <ValueOff>2B-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080644480</Offset>
+      <Section>0</Section>
+      <ValueOn>40-00-00-00</ValueOn>
+      <ValueOff>40-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080644488</Offset>
+      <Section>0</Section>
+      <ValueOn>41-00-00-00</ValueOn>
+      <ValueOff>41-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080644490</Offset>
+      <Section>0</Section>
+      <ValueOn>43-00-00-00</ValueOn>
+      <ValueOff>43-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080644498</Offset>
+      <Section>0</Section>
+      <ValueOn>45-00-00-00</ValueOn>
+      <ValueOff>45-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80806444A0</Offset>
+      <Section>0</Section>
+      <ValueOn>4C-00-00-00</ValueOn>
+      <ValueOff>4C-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80806444A8</Offset>
+      <Section>0</Section>
+      <ValueOn>4E-00-00-00</ValueOn>
+      <ValueOff>4E-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80806444B0</Offset>
+      <Section>0</Section>
+      <ValueOn>50-00-00-00</ValueOn>
+      <ValueOff>50-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80806444B8</Offset>
+      <Section>0</Section>
+      <ValueOn>51-00-00-00</ValueOn>
+      <ValueOff>51-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80806444C0</Offset>
+      <Section>0</Section>
+      <ValueOn>53-00-00-00</ValueOn>
+      <ValueOff>53-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80806444C8</Offset>
+      <Section>0</Section>
+      <ValueOn>54-00-00-00</ValueOn>
+      <ValueOff>54-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80806444D0</Offset>
+      <Section>0</Section>
+      <ValueOn>59-00-00-00</ValueOn>
+      <ValueOff>59-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80806444D8</Offset>
+      <Section>0</Section>
+      <ValueOn>5D-00-00-00</ValueOn>
+      <ValueOff>5D-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80806444E0</Offset>
+      <Section>0</Section>
+      <ValueOn>63-00-00-00</ValueOn>
+      <ValueOff>63-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80806444E8</Offset>
+      <Section>0</Section>
+      <ValueOn>64-00-00-00</ValueOn>
+      <ValueOff>64-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80806444F0</Offset>
+      <Section>0</Section>
+      <ValueOn>68-00-00-00</ValueOn>
+      <ValueOff>68-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80806444F8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-00-08-00</ValueOn>
+      <ValueOff>02-00-08-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FC0006A</Offset>
+      <Section>0</Section>
+      <ValueOn>01-00-00-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080644538</Offset>
+      <Section>0</Section>
+      <ValueOn>77-00-00-00</ValueOn>
+      <ValueOff>77-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080644540</Offset>
+      <Section>0</Section>
+      <ValueOn>7C-00-00-00</ValueOn>
+      <ValueOff>7C-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080644548</Offset>
+      <Section>0</Section>
+      <ValueOn>81-00-00-00</ValueOn>
+      <ValueOff>81-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080644550</Offset>
+      <Section>0</Section>
+      <ValueOn>83-00-00-00</ValueOn>
+      <ValueOff>83-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080644558</Offset>
+      <Section>0</Section>
+      <ValueOn>86-00-00-00</ValueOn>
+      <ValueOff>86-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080644560</Offset>
+      <Section>0</Section>
+      <ValueOn>88-00-00-00</ValueOn>
+      <ValueOff>88-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080644568</Offset>
+      <Section>0</Section>
+      <ValueOn>89-00-00-00</ValueOn>
+      <ValueOff>89-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080644570</Offset>
+      <Section>0</Section>
+      <ValueOn>94-00-00-00</ValueOn>
+      <ValueOff>94-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080644578</Offset>
+      <Section>0</Section>
+      <ValueOn>99-00-00-00</ValueOn>
+      <ValueOff>99-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event Restriction Codes">
+  </Cheat>
+  <Cheat Text="A Spec Licenses Never Required">
+    <Cheatline>
+      <Offset>807FDA16F0</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-05-24</ValueOn>
+      <ValueOff>00-00-05-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="A Spec Super License Always Required">
+    <Cheatline>
+      <Offset>807FDA16F0</Offset>
+      <Section>0</Section>
+      <ValueOn>05-00-05-24</ValueOn>
+      <ValueOff>05-00-05-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Drivetrain Type Restrictions">
+    <Cheatline>
+      <Offset>807FDA1788</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-05-24</ValueOn>
+      <ValueOff>00-00-05-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Engines Type Restrictions">
+    <Cheatline>
+      <Offset>807FDA1820</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-05-24</ValueOn>
+      <ValueOff>00-00-05-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Cars Type Restrictions">
+    <Cheatline>
+      <Offset>807FDA18B8</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-05-24</ValueOn>
+      <ValueOff>00-00-05-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Tires Type Restrictions">
+    <Cheatline>
+      <Offset>807FDA1950</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-05-24</ValueOn>
+      <ValueOff>00-00-05-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Horsepower Restrictions">
+    <Cheatline>
+      <Offset>807FDA19E4</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-02-24</ValueOn>
+      <ValueOff>00-00-02-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Weight Limit Restrictions">
+    <Cheatline>
+      <Offset>807FDA1B34</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-02-24</ValueOn>
+      <ValueOff>00-00-02-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Length Limit Required">
+    <Cheatline>
+      <Offset>807FDA1BDC</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-02-24</ValueOn>
+      <ValueOff>00-00-02-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Country Car Type Restrictions">
+    <Cheatline>
+      <Offset>807FDA2668</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-05-24</ValueOn>
+      <ValueOff>00-00-05-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Model Year From 0 Required">
+    <Cheatline>
+      <Offset>807FDA2720</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-05-24</ValueOn>
+      <ValueOff>00-00-05-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Model Year Up To 9999 Required">
+    <Cheatline>
+      <Offset>807FDA2784</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-27-05-24</ValueOn>
+      <ValueOff>0F-27-05-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Cars Permitted">
+    <Cheatline>
+      <Offset>807FDA2BB0</Offset>
+      <Section>0</Section>
+      <ValueOn>08-00-E0-03</ValueOn>
+      <ValueOff>08-00-E0-03</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FDA2BB4</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Have All Gold B Licenses">
+    <Cheatline>
+      <Offset>80806205F4</Offset>
+      <Section>0</Section>
+      <ValueOn>01-00-10-00</ValueOn>
+      <ValueOff>01-00-10-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FC0FB91</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Have All A Licenses">
+    <Cheatline>
+      <Offset>8080620634</Offset>
+      <Section>0</Section>
+      <ValueOn>01-00-10-00</ValueOn>
+      <ValueOff>01-00-10-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FC0FB91</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Have All IB Licenses">
+    <Cheatline>
+      <Offset>8080620674</Offset>
+      <Section>0</Section>
+      <ValueOn>01-00-10-00</ValueOn>
+      <ValueOff>01-00-10-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FC0FB91</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Have Gold IA License Codes">
+  </Cheat>
+  <Cheat Text="Tackling Complex Corner Sequences 1">
+    <Cheatline>
+      <Offset>80806206B4</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tackling Complex Corner Sequences 2">
+    <Cheatline>
+      <Offset>80806206B8</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Guide To Chicanes 1">
+    <Cheatline>
+      <Offset>80806206BC</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Guide To Chicanes 2">
+    <Cheatline>
+      <Offset>80806206C0</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Lap Guide Run (El Capitan)">
+    <Cheatline>
+      <Offset>80806206C4</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tackling Complex Corner Sequences 3">
+    <Cheatline>
+      <Offset>80806206C8</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tackling Complex Corner Sequences 4">
+    <Cheatline>
+      <Offset>80806206CC</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="City Street Challenge 3">
+    <Cheatline>
+      <Offset>80806206D0</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="City Street Challenge 4">
+    <Cheatline>
+      <Offset>80806206D4</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Lap Guide Run (Fuji Speedway 2005)">
+    <Cheatline>
+      <Offset>80806206D8</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Competition Dirt Racing 2">
+    <Cheatline>
+      <Offset>80806206DC</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Driving On Snow 2">
+    <Cheatline>
+      <Offset>80806206E0</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tackling Complex Corner Sequences 5">
+    <Cheatline>
+      <Offset>80806206E4</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tackling Complex Corner Sequences 6">
+    <Cheatline>
+      <Offset>80806206E8</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Lap Guide RUn (Nurburgring North Course)">
+    <Cheatline>
+      <Offset>80806206EC</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Graduation Test">
+    <Cheatline>
+      <Offset>80806206F0</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All IA Licenses">
+    <Cheatline>
+      <Offset>80806206B4</Offset>
+      <Section>0</Section>
+      <ValueOn>01-00-10-00</ValueOn>
+      <ValueOff>01-00-10-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FC0FB91</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Have Gold S License Codes">
+  </Cheat>
+  <Cheat Text="1 Lap Time Trial (Twin Ring Motegi Road Course)">
+    <Cheatline>
+      <Offset>80806206F4</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Lap Time Trial (Citta Di Aria)">
+    <Cheatline>
+      <Offset>80806206F8</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Lap Time Trial (Special Stage Route 5)">
+    <Cheatline>
+      <Offset>80806206FC</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Lap Time Trial (Costa Di Amalfi)">
+    <Cheatline>
+      <Offset>8080620700</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Lap Time Trial (Seattle)">
+    <Cheatline>
+      <Offset>8080620704</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Lap Time Trial (Ice Arena)">
+    <Cheatline>
+      <Offset>8080620708</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Lap Time Trial (Trial Mountain)">
+    <Cheatline>
+      <Offset>808062070C</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Lap Time Trial (Tokyo Route 246)">
+    <Cheatline>
+      <Offset>8080620710</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Lap Time Trial (El Capitan)">
+    <Cheatline>
+      <Offset>8080620714</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Lap Time Trial (Grand Canyon)">
+    <Cheatline>
+      <Offset>8080620718</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Lap Time Trial (Opera Paris)">
+    <Cheatline>
+      <Offset>808062071C</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Lap Time Trial (Suzuka Circuit)">
+    <Cheatline>
+      <Offset>8080620720</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Lap Time Trial (Infineon Raceway Sprots Car Course)">
+    <Cheatline>
+      <Offset>8080620724</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Lap Time Trial (Chamonix)">
+    <Cheatline>
+      <Offset>8080620728</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Lap Time Trial (Circuit De La Sarthe)">
+    <Cheatline>
+      <Offset>808062072C</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Lap Time Trial (Nurburgring North Course)">
+    <Cheatline>
+      <Offset>8080620730</Offset>
+      <Section>0</Section>
+      <ValueOn>91-FB-00-00</ValueOn>
+      <ValueOff>91-FB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All S Licenses">
+    <Cheatline>
+      <Offset>80806206F4</Offset>
+      <Section>0</Section>
+      <ValueOn>01-00-10-00</ValueOn>
+      <ValueOff>01-00-10-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807FC0FB91</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Driving Missions Codes">
+  </Cheat>
+  <Cheat Text="Have Mission Cleared Codes">
+  </Cheat>
+  <Cheat Text="Mission 1">
+    <Cheatline>
+      <Offset>8080620748</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 2">
+    <Cheatline>
+      <Offset>808062074C</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 3">
+    <Cheatline>
+      <Offset>8080620750</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 4">
+    <Cheatline>
+      <Offset>8080620754</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 5">
+    <Cheatline>
+      <Offset>8080620758</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 6">
+    <Cheatline>
+      <Offset>808062075C</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 7">
+    <Cheatline>
+      <Offset>8080620760</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 8">
+    <Cheatline>
+      <Offset>8080620764</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 9">
+    <Cheatline>
+      <Offset>8080620768</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 10">
+    <Cheatline>
+      <Offset>808062076C</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 11">
+    <Cheatline>
+      <Offset>8080620770</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 12">
+    <Cheatline>
+      <Offset>8080620774</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 13">
+    <Cheatline>
+      <Offset>8080620778</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 14">
+    <Cheatline>
+      <Offset>808062077C</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 15">
+    <Cheatline>
+      <Offset>8080620780</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 16">
+    <Cheatline>
+      <Offset>8080620784</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 17">
+    <Cheatline>
+      <Offset>8080620788</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 18">
+    <Cheatline>
+      <Offset>808062078C</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 19">
+    <Cheatline>
+      <Offset>8080620790</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 20">
+    <Cheatline>
+      <Offset>8080620794</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 21">
+    <Cheatline>
+      <Offset>8080620798</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 22">
+    <Cheatline>
+      <Offset>808062079C</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 23">
+    <Cheatline>
+      <Offset>80806207A0</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 24">
+    <Cheatline>
+      <Offset>80806207A4</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 25">
+    <Cheatline>
+      <Offset>80806207A8</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 26">
+    <Cheatline>
+      <Offset>80806207AC</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 27">
+    <Cheatline>
+      <Offset>80806207B0</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 28">
+    <Cheatline>
+      <Offset>80806207B4</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 29">
+    <Cheatline>
+      <Offset>80806207B8</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 30">
+    <Cheatline>
+      <Offset>80806207BC</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 31">
+    <Cheatline>
+      <Offset>80806207C0</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 32">
+    <Cheatline>
+      <Offset>80806207C4</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 33">
+    <Cheatline>
+      <Offset>80806207C8</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission 34">
+    <Cheatline>
+      <Offset>80806207CC</Offset>
+      <Section>0</Section>
+      <ValueOn>03-F0-00-00</ValueOn>
+      <ValueOff>03-F0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Beginner Events Codes">
+  </Cheat>
+  <Cheat Text="Sunday Cup Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FCFC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FD00</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FD04</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FD08</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FD0C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="FF Challenge Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FD10</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FD14</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FD18</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FD1C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FD20</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="FR Challenge Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FD24</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FD28</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FD2C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FD30</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FD34</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="4WD Challenge Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FD38</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FD3C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FD40</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FD44</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FD48</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="MR Challenge Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FD4C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FD50</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FD54</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FD58</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FD5C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Lightweight Cup Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FD60</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FD64</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FD68</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Spider & Roadster Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FD6C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FD70</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FD74</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Sport Truck Race Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FD78</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FD7C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FD80</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Professional Events Codes">
+  </Cheat>
+  <Cheat Text="Clubman Cup Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FD84</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FD88</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FD8C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FD90</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FD94</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tuning Car Grand Prix Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FD98</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FD9C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FDA0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FDA4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FDA8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>808061FDAC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Race Of NA Sports Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FDB4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FDB8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FDBC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FDC0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Racing Of Turbo Sports Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FDC4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FDC8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FDCC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FDD0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FDD4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Boxer Spirit Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FDD8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FDDC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FDE0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FDE4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="World Classic Car Series Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FDE8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FDEC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FDF0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FDF4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FDF8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="World Compact Car Race Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FDFC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FE00</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FE04</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FE08</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FE0C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>808061FE10</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Supercar Festival Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FE14</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FE18</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FE1C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FE20</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FE24</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Gran Turismo World Championship Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FE28</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FE2C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FE30</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FE34</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FE38</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>808061FE3C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 7">
+    <Cheatline>
+      <Offset>808061FE40</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 8">
+    <Cheatline>
+      <Offset>808061FE44</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 9">
+    <Cheatline>
+      <Offset>808061FE48</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 10">
+    <Cheatline>
+      <Offset>808061FE4C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 11">
+    <Cheatline>
+      <Offset>808061FE50</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Extreme Events Codes">
+  </Cheat>
+  <Cheat Text="Gran Turismo All Stars Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FE54</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FE58</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FE5C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FE60</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FE64</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>808061FE68</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 7">
+    <Cheatline>
+      <Offset>808061FE6C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 8">
+    <Cheatline>
+      <Offset>808061FE70</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 9">
+    <Cheatline>
+      <Offset>808061FE74</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 10">
+    <Cheatline>
+      <Offset>808061FE78</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 11">
+    <Cheatline>
+      <Offset>808061FE7C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Dream Car Championship Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FE80</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FE84</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FE88</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FE8C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FE90</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>808061FE94</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 7">
+    <Cheatline>
+      <Offset>808061FE98</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 8">
+    <Cheatline>
+      <Offset>808061FE9C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 9">
+    <Cheatline>
+      <Offset>808061FEA0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 10">
+    <Cheatline>
+      <Offset>808061FEA4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 11">
+    <Cheatline>
+      <Offset>808061FEA8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Polyphony Digital Cup Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FEAC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FEB0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FEB4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FEB8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FEBC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>808061FEC0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 7">
+    <Cheatline>
+      <Offset>808061FEC4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 8">
+    <Cheatline>
+      <Offset>808061FEC8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 9">
+    <Cheatline>
+      <Offset>808061FECC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 10">
+    <Cheatline>
+      <Offset>808061FED0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 11">
+    <Cheatline>
+      <Offset>808061FED4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Like The Wind Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FED8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Formula GT Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FEDC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FEE0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FEE4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FEE8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FEEC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>808061FEF0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 7">
+    <Cheatline>
+      <Offset>808061FEF4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 8">
+    <Cheatline>
+      <Offset>808061FEF8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 9">
+    <Cheatline>
+      <Offset>808061FEFC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 10">
+    <Cheatline>
+      <Offset>808061FF00</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 11">
+    <Cheatline>
+      <Offset>808061FF04</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 12">
+    <Cheatline>
+      <Offset>808061FF08</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 13">
+    <Cheatline>
+      <Offset>808061FF0C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 14">
+    <Cheatline>
+      <Offset>808061FF10</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 15">
+    <Cheatline>
+      <Offset>808061FF14</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 16">
+    <Cheatline>
+      <Offset>808061FF18</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Real Circuit Tours Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FF1C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FF20</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FF24</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FF28</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FF2C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>808061FF30</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 7">
+    <Cheatline>
+      <Offset>808061FF34</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 8">
+    <Cheatline>
+      <Offset>808061FF38</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Premium Sports Lounge Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FF3C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FF40</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FF44</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FF48</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FF4C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Endurance Events Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Grand Valley 300 Km">
+    <Cheatline>
+      <Offset>808061FF64</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Laguna Seca 200 Miles">
+    <Cheatline>
+      <Offset>808061FF68</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Roadster 4h Endurance">
+    <Cheatline>
+      <Offset>808061FF6C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tokyo R246 300 Km">
+    <Cheatline>
+      <Offset>808061FF70</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Super Speedway 150 Miles">
+    <Cheatline>
+      <Offset>808061FF74</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Nurburgring 24h Endurance">
+    <Cheatline>
+      <Offset>808061FF78</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Nurburgring 4h Endurance">
+    <Cheatline>
+      <Offset>808061FF7C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Suzuka 1000 Km">
+    <Cheatline>
+      <Offset>808061FF80</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Motegi 8h Endurance">
+    <Cheatline>
+      <Offset>808061FF84</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tsukuba 9h Endurance">
+    <Cheatline>
+      <Offset>808061FF88</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Circuit De La Sarthe 24h I">
+    <Cheatline>
+      <Offset>808061FF8C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Circuit De La Sarthe 24h II">
+    <Cheatline>
+      <Offset>808061FF90</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Fuji 1000 Km">
+    <Cheatline>
+      <Offset>808061FF94</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infineon World Sports">
+    <Cheatline>
+      <Offset>808061FF98</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="El Capitan 200 Miles">
+    <Cheatline>
+      <Offset>808061FF9C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="New York 200 Miles">
+    <Cheatline>
+      <Offset>808061FFA0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Grand Valley 300 Km">
+    <Cheatline>
+      <Offset>808061FF66</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Laguna Seca 200 Miles">
+    <Cheatline>
+      <Offset>808061FF6A</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Roadster 4h Endurance">
+    <Cheatline>
+      <Offset>808061FF6E</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tokyo R246 300 Km">
+    <Cheatline>
+      <Offset>808061FF72</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Super Speedway 150 Miles">
+    <Cheatline>
+      <Offset>808061FF76</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Nurburgring 24h Endurance">
+    <Cheatline>
+      <Offset>808061FF7A</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Nurburgring 4h Endurance">
+    <Cheatline>
+      <Offset>808061FF7E</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Suzuka 1000 Km">
+    <Cheatline>
+      <Offset>808061FF82</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Motegi 8h Endurance">
+    <Cheatline>
+      <Offset>808061FF86</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tsukuba 9h Endurance">
+    <Cheatline>
+      <Offset>808061FF8A</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Circuit De La Sarthe 24h I">
+    <Cheatline>
+      <Offset>808061FF8E</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Circuit De La Sarthe 24h II">
+    <Cheatline>
+      <Offset>808061FF92</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Fuji 1000 Km">
+    <Cheatline>
+      <Offset>808061FF96</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infineon World Sports">
+    <Cheatline>
+      <Offset>808061FF9A</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="El Capitan 200 Miles">
+    <Cheatline>
+      <Offset>808061FF9E</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="New York 200 Miles">
+    <Cheatline>
+      <Offset>808061FFA2</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="European Events Codes">
+  </Cheat>
+  <Cheat Text="Pan Euro Championship Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FFA4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FFA8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FFAC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FFB0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FFB4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>808061FFB8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="British GT Series Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FFBC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FFC0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FFC4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FFC8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FFCC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>808061FFD0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="British Lightweight Series Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FFD4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FFD8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FFDC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Deutsche Touring Car Meisterschaft Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FFE0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FFE4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808061FFE8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808061FFEC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808061FFF0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>808061FFF4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="La Festa Italiano Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808061FFF8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808061FFFC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620000</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tous France Championnat Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620004</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620008</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808062000C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620010</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620014</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>8080620018</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Europe Classic Car League Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062001C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620020</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620024</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620028</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808062002C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>8080620030</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Euro Hot Hatch League Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620034</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620038</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808062003C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620040</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620044</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>8080620048</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1000 Miles! Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062004C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620050</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620054</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620058</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808062005C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Schwarzwald Liga A Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620060</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620064</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620068</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Schwarzwald Liga B Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062006C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620070</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620074</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620078</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808062007C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="American Events Codes">
+  </Cheat>
+  <Cheat Text="All American Championship Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620080</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620084</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620088</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808062008C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620090</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>8080620094</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Starts And Stripes Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620098</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062009C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806200A0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Hot Rod Competition Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806200A4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806200A8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806200AC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Muscle Car Competition Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806200B0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806200B4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806200B8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Japanese Events Codes">
+  </Cheat>
+  <Cheat Text="Japanese Championship Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806200BC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806200C0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806200C4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>80806200C8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>80806200CC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>80806200D0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Japan GT Championship Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806200D4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806200D8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806200DC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>80806200E0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>80806200E4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>80806200E8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 7">
+    <Cheatline>
+      <Offset>80806200EC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 8">
+    <Cheatline>
+      <Offset>80806200F0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 9">
+    <Cheatline>
+      <Offset>80806200F4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 10">
+    <Cheatline>
+      <Offset>80806200F8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 11">
+    <Cheatline>
+      <Offset>80806200FC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Japanese 70's Classics Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620100</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620104</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620108</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808062010C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620110</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Japanese 80's Classics Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620114</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620118</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808062011C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620120</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620124</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Japanese 90's Challenge Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620128</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062012C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620130</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620134</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620138</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>808062013C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Japanese Compact Cup Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620140</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620144</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620148</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808062014C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620150</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Italian Showroom Codes">
+  </Cheat>
+  <Cheat Text="Alfa Romeo Race Events Codes">
+  </Cheat>
+  <Cheat Text="GTA Cup Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620154</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620158</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808062015C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="British Showroom Codes">
+  </Cheat>
+  <Cheat Text="Ashton Martin Race Events Codes">
+  </Cheat>
+  <Cheat Text="Aston Martin Carnival Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620160</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620164</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620168</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Lotus Race Events Codes">
+  </Cheat>
+  <Cheat Text="Elise Trophy Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062016C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620170</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620174</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620178</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808062017C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>8080620180</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Lotus Classics Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620184</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620188</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808062018C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620190</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620194</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>8080620198</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="MG Race Events Codes">
+  </Cheat>
+  <Cheat Text="MG Festival Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062019C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806201A0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806201A4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>80806201A8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>80806201AC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Triumph Race Events Codes">
+  </Cheat>
+  <Cheat Text="Spitfire Cup Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806201B0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806201B4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806201B8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>80806201BC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>80806201C0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="TVR Race Events Codes">
+  </Cheat>
+  <Cheat Text="Black Pool Racers Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806201C4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806201C8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806201CC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>80806201D0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>80806201D4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mini Race Events Codes">
+  </Cheat>
+  <Cheat Text="Mini Mini Sports Meeting Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620230</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620234</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620238</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808062023C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620240</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="German Showroom Codes">
+  </Cheat>
+  <Cheat Text="Audi Race Event Codes">
+  </Cheat>
+  <Cheat Text="Tourist Trophy Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806201D8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806201DC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806201E0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>80806201E4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="A3 Cup Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806201E8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806201EC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806201F0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="BMW Race Events Codes">
+  </Cheat>
+  <Cheat Text="1 Series Trophy Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806201F4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806201F8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806201FC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Club 'M' Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620200</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620204</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620208</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808062020C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620210</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>8080620214</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mercedes Race Events Codes">
+  </Cheat>
+  <Cheat Text="Legends Of The Silver Arrow Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620218</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062021C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620220</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="SL Challenge Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620224</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620228</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808062022C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Open Race Events Codes">
+  </Cheat>
+  <Cheat Text="Speedster Trophy Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620244</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620248</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808062024C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620250</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620254</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Volkswagen Race Events Codes">
+  </Cheat>
+  <Cheat Text="Beetle Cup Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620258</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062025C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620260</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620264</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620268</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>808062026C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Lupo Cup Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620270</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620274</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620278</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808062027C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620280</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>8080620284</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="GTi Cup Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620288</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062028C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620290</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620294</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620298</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="American Showroom Codes">
+  </Cheat>
+  <Cheat Text="Chevrolet Race Events Codes">
+  </Cheat>
+  <Cheat Text="Vette! Vette! Vette! Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062029C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806202A0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806202A4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>80806202A8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>80806202AC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Camaro Meeting Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806202B0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806202B4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806202B8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Chrysler Race Events Codes">
+  </Cheat>
+  <Cheat Text="Crossfire Trophy Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806202BC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806202C0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806202C4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Saleen Race Events Codes">
+  </Cheat>
+  <Cheat Text="Saleen S7 Club Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806202C8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806202CC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806202D0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>80806202D4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>80806202D8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Shelby Race Events Codes">
+  </Cheat>
+  <Cheat Text="Shelby Cobra Cup Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806202DC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806202E0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806202E4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>80806202E8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>80806202EC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="French Showroom Codes">
+  </Cheat>
+  <Cheat Text="Citroen Race Events Codes">
+  </Cheat>
+  <Cheat Text="2HP 2CV Classics Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806202F0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806202F4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806202F8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>80806202FC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620300</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>8080620304</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Peugeot Race Events Codes">
+  </Cheat>
+  <Cheat Text="206 Cup Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620308</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062030C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620310</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620314</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620318</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Renault Race Events Codes">
+  </Cheat>
+  <Cheat Text="Clio Trophy Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062031C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620320</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620324</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620328</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808062032C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>8080620330</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Megane Cup Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620334</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620338</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808062033C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620340</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620344</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>8080620348</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Alpine Race Events Codes">
+  </Cheat>
+  <Cheat Text="Renault Aloine Cup Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062034C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620350</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620354</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620358</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808062035C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>8080620360</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Japanese Showroom Codes">
+  </Cheat>
+  <Cheat Text="Daihatsu Race Events Codes">
+  </Cheat>
+  <Cheat Text="Copen Race Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620364</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620368</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808062036C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Midget II Race Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620370</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620372</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Honda Race Events Codes">
+  </Cheat>
+  <Cheat Text="Type R Meeting Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620374</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620378</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808062037C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620380</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620384</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Civic Race Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620388</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062038C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620390</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620394</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620398</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Izuzu Race Events Codes">
+  </Cheat>
+  <Cheat Text="Isuzu Sports Classics Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062039C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806203A0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806203A4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mazda Race Events Codes">
+  </Cheat>
+  <Cheat Text="Club 'RE' Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806203A8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806203AC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806203B0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>80806203B4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>80806203B8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="NR A Roadster Cup Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806203BC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806203C0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806203C4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>80806203C8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>80806203CC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>80806203D0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="NR A RX 8 Cup Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806203D4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806203D8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806203DC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>80806203E0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>80806203E4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>80806203E8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mitsubishi Race Events Codes">
+  </Cheat>
+  <Cheat Text="Mirage Cup Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806203EC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806203F0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806203F4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>80806203F8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>80806203FC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>8080620400</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Evolution Meeting Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620404</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620408</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808062040C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Nissan Race Events Codes">
+  </Cheat>
+  <Cheat Text="Race Of The Red 'R' Emblem Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620410</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620414</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620418</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>808062041C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620420</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="March Brothers Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620424</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620428</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808062042C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Silvia Sisters Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620430</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620434</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620438</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Club 'Z' Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062043C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620440</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620444</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620448</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>808062044C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Subaru Race Events Codes">
+  </Cheat>
+  <Cheat Text="Subaru 360 Race Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620450</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620452</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stars Of Pleiades Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620454</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620458</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808062045C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620460</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620464</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 6">
+    <Cheatline>
+      <Offset>8080620468</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Suzuki Race Events Codes">
+  </Cheat>
+  <Cheat Text="Suzuki K Car Cup Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062046C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620470</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620474</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Suzuki Concepts Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620478</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062047C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>8080620480</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Toyota Race Events Codes">
+  </Cheat>
+  <Cheat Text="Altezza Race Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620484</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620488</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>808062048C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>8080620490</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>8080620494</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Vitz Race Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620498</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062049C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806204A0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>80806204A4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>80806204A8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Korean Showroom Codes">
+  </Cheat>
+  <Cheat Text="Hyundai Race Events Codes">
+  </Cheat>
+  <Cheat Text="Hyundai Sports Festiveal Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806204AC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806204B0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 3">
+    <Cheatline>
+      <Offset>80806204B4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 4">
+    <Cheatline>
+      <Offset>80806204B8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 5">
+    <Cheatline>
+      <Offset>80806204BC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Special Conditions Events Codes">
+  </Cheat>
+  <Cheat Text="Umbria Rally Easy Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806204E0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806204EC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806204E2</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806204EE</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Capri Rally Easy Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806204F8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620504</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806204FA</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620506</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Grand Canyon Rally Easy Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620510</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062051C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620512</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062051E</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Whistler Ice Race Easy Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620528</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620534</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062052A</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620536</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Chamonix Rally Easy Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620540</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062054C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620542</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062054E</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="George V Rally Easy Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620558</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620564</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062055A</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620566</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Swiss Alps Rally Easy Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620570</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062057C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620572</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062057E</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tour Of Tahiti Easy Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620588</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620594</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062058A</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620596</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tsukuba Wet Race Easy Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806205A0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806205A2</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Yosemite Rally I Easy Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806205AC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806205B8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806205AE</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806205BA</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Yosemite Rally II Easy Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806205C4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806205D0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806205C6</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806205D2</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Umbria Rally Normal Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806204E4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806204F0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806204E6</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806204F2</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Capri Rally Normal Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806204FC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620508</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806204FE</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062050A</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Grand Canyon Rally Normal Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620514</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620520</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620516</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620522</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Whistler Ice Race Normal Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062052C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620538</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062052E</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062053A</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Chamonix Rally Normal Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620544</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620550</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620546</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620552</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="George V Rally Normal Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062055C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620568</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062055E</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062056A</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Swiss Alps Rally Normal Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620574</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620580</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620576</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620582</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tour Of Tahiti Normal Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062058C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620598</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062058E</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062059A</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tsukuba Wet Race Normal Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806205A4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806205A6</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Yosemite Rally I Normal Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806205B0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806205BC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806205B2</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806205BE</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Yosemite Rally II Normal Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806205C8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806205D4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806205CA</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806205D6</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Umbria Rally Hard Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806204E8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806204F4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806204EA</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806204F6</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Capri Rally Hard Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620500</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062050C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620502</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062050E</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Grand Canyon Rally Hard Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620518</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620524</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062051A</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620526</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Whistler Ice Race Hard Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620530</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062053C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620532</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062053E</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Chamonix Rally Hard Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620548</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620554</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062054A</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620556</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="George V Rally Hard Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620560</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062056C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620562</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062056E</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Swiss Alps Rally Hard Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620578</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620584</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>808062057A</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>8080620586</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tour Of Tahiti Hard Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620590</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062059C</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>8080620592</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>808062059E</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tsukuba Wet Race Hard Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806205A8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806205AA</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Yosemite Rally I Hard Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806205B4</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806205C0</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806205B6</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806205C2</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Yosemite Rally II Hard Codes">
+  </Cheat>
+  <Cheat Text="Have Gold Medal Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806205CC</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806205D8</Offset>
+      <Section>0</Section>
+      <ValueOn>02-0F-00-00</ValueOn>
+      <ValueOff>02-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max A Spec Points Codes">
+  </Cheat>
+  <Cheat Text="Event 1">
+    <Cheatline>
+      <Offset>80806205CE</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Event 2">
+    <Cheatline>
+      <Offset>80806205DA</Offset>
+      <Section>0</Section>
+      <ValueOn>FA-00-00-00</ValueOn>
+      <ValueOff>FA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

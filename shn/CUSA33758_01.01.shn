@@ -1,0 +1,43 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Soulcalibur Broken Destiny PS4" Moder="Saso" Cusa="CUSA33758" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="HP (Master Code)">
+    <Cheatline>      
+<Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>A4B800</Offset>      <ValueOn>48-81-F9-4C-F6-BD-08-75-04-8B-44-0A-04-89-04-0A-0F-B6-03-E9-D5-6D-A9-FF-48-81-F9-0C-63-BF-08-75-EC-3D-00-00-70-42-7E-E5-B8-00-00-70-42-EB-DE</ValueOn>      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>    
+<Cheatline>      
+<Absolute>True</Absolute>      
+<Section>0</Section>      
+<Offset>4E25E7</Offset>      
+<ValueOn>E9-14-92-56-00-90</ValueOn>      
+<ValueOff>89-04-0A-0F-B6-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="HP Opponent 25% (MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>A4B807</Offset>
+      <ValueOn>75-0F</ValueOn>
+      <ValueOff>75-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stop Timer">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>A4B831</Offset>
+      <ValueOn>48-81-F9-34-BF-BC-08-75-04-8B-44-0A-18-89-04-0A-0F-B6-03-E9-84-68-A9-FF</ValueOn>      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>4E20C7</Offset>
+      <ValueOn>E9-65-97-56-00-90</ValueOn>
+      <ValueOff>89-04-0A-0F-B6-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
