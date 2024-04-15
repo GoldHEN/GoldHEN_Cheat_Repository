@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="G. Darius" Moder="Ali-mk" Cusa="SLUS00690" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-lives">
+    <Cheatline>
+      <Offset>13BEEA</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>62</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>13B68E</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>82</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-credits">
+    <Cheatline>
+      <Offset>129612</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>62</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf-Capture-Ball">
+    <Cheatline>
+      <Offset>146EAE</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>42</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
