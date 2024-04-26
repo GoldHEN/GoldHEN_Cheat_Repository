@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Turok-Dinosaur-2" Moder="Ali-mk" Cusa="CUSA25215" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-All-Weapon">
+    <Cheatline>
+      <Offset>32D260</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-F2</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>32D3F0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-F2</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
