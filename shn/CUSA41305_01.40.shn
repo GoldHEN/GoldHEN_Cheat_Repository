@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Metal Gear Solid 3 Snake Eater Master Collection" Moder="Big_Wadger" Cusa="CUSA41305" Version="01.40" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Life">
+    <Cheatline>
+      <Offset>3FD609</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>66-29-81-84-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Grenades">
+    <Cheatline>
+      <Offset>11AEEB</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-FF-4F-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Medical">
+    <Cheatline>
+      <Offset>11B69F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>66-89-11</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>11AEC4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-89-47-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bullets">
+    <Cheatline>
+      <Offset>11AECA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-FF-4F-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
