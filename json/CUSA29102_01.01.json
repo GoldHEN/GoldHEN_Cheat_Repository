@@ -1,1 +1,91 @@
-{"name":"Tales of Symphonia Remastered","id":"CUSA29102","version":"01.01","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"6EE2E0","on":"4939CA4180B8FC05000000750D41C740240F270000E9FDCD94FF41894824E9F4CD94FF","off":"0000000000000000000000000000000000000000000000000000000000000000000000"},{"offset":"3B0F0","on":"E9EB316B009090","off":"4939CA41894824"}]},{"name":"Infinite MP","type":"checkbox","memory":[{"offset":"6EDF60","on":"6641C7402AE703E9AFD194FF","off":"000000000000000000000000"},{"offset":"3B116","on":"E9452E6B00","off":"664189402A"}]},{"name":"Max Gald after Battle","type":"checkbox","memory":[{"offset":"6EF80F","on":"C707FFE0F505498B4500E9D0F498FF","off":"000000000000000000000000000000"},{"offset":"7ECE8","on":"E9220B670090","off":"8917498B4500"}]},{"name":"Max Items {after using have 2)","type":"checkbox","memory":[{"offset":"6EF820","on":"C68408BD0E000032E96090A3FF","off":"00000000000000000000000000"},{"offset":"128886","on":"E9956F5C009090","off":"FE8C08BD0E0000"}]},{"name":"Max experience","type":"checkbox","memory":[{"offset":"6EE6F0","on":"C701FFE0F505E8450C95FFE9F80A99FF","off":"00000000000000000000000000000000"},{"offset":"7F1F1","on":"E9FAF466009090","off":"8911E84801FCFF"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "Tales of Symphonia Remastered",
+  "id": "CUSA29102",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6EE2E0",
+          "on": "4939CA4180B8FC05000000750D41C740240F270000E9FDCD94FF41894824E9F4CD94FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3B0F0",
+          "on": "E9EB316B009090",
+          "off": "4939CA41894824"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6EDF60",
+          "on": "6641C7402AE703E9AFD194FF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "3B116",
+          "on": "E9452E6B00",
+          "off": "664189402A"
+        }
+      ]
+    },
+    {
+      "name": "Max Gald after Battle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6EF80F",
+          "on": "C707FFE0F505498B4500E9D0F498FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "7ECE8",
+          "on": "E9220B670090",
+          "off": "8917498B4500"
+        }
+      ]
+    },
+    {
+      "name": "Max Items {after using have 2)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6EF820",
+          "on": "C68408BD0E000032E96090A3FF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "128886",
+          "on": "E9956F5C009090",
+          "off": "FE8C08BD0E0000"
+        }
+      ]
+    },
+    {
+      "name": "Max experience",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6EE6F0",
+          "on": "C701FFE0F505E8450C95FFE9F80A99FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "7F1F1",
+          "on": "E9FAF466009090",
+          "off": "8911E84801FCFF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

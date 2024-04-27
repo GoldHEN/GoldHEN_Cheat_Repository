@@ -1,1 +1,91 @@
-{"name":"METAL GEAR SOLID V: THE PHANTOM PAIN","id":"CUSA01154","version":"01.16","process":"eboot.bin","mods":[{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"3593860","on":"C4C17A1117E942CB77FE57616E646572204657392E3030","off":"00000000000000000000"},{"offset":"1D103A7","on":"E9B4348801","off":"C4C17A110F"}]},{"name":"Infinite Gun Silencer","type":"checkbox","memory":[{"offset":"341D1C0","on":"41C644410414E9A699D2FE","off":"0000000000000000000000"},{"offset":"2146B6C","on":"E94F662D01","off":"4188544104"}]},{"name":"Infinite Ammo/Grenades","type":"checkbox","memory":[{"offset":"3565330","on":"66C704423200C3E9731BBEFE","off":"000000000000000000000000"},{"offset":"2146EAA","on":"E981E44101","off":"66890C42C3"}]},{"name":"Max GMP (on spend)","type":"checkbox","memory":[{"offset":"3593B80","on":"41C706FFE0F505808B680E000005E979265CFE","off":"00000000000000000000000000000000000000"},{"offset":"1B56202","on":"E979D9A3019090909090","off":"418916808B680E000005"}]},{"name":"Max Ressources (on sell)","type":"checkbox","memory":[{"offset":"341F060","on":"42810CB9C0E1E40085DBE9317E63FD","off":"000000000000000000000000000000"},{"offset":"A56E9A","on":"E9C1819C0290","off":"420904B985DB"}]}],"credits":["Wander FW9.00"]}
+{
+  "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+  "id": "CUSA01154",
+  "version": "01.16",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3593860",
+          "on": "C4C17A1117E942CB77FE57616E646572204657392E3030",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "1D103A7",
+          "on": "E9B4348801",
+          "off": "C4C17A110F"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gun Silencer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "341D1C0",
+          "on": "41C644410414E9A699D2FE",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "2146B6C",
+          "on": "E94F662D01",
+          "off": "4188544104"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3565330",
+          "on": "66C704423200C3E9731BBEFE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "2146EAA",
+          "on": "E981E44101",
+          "off": "66890C42C3"
+        }
+      ]
+    },
+    {
+      "name": "Max GMP (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3593B80",
+          "on": "41C706FFE0F505808B680E000005E979265CFE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B56202",
+          "on": "E979D9A3019090909090",
+          "off": "418916808B680E000005"
+        }
+      ]
+    },
+    {
+      "name": "Max Ressources (on sell)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "341F060",
+          "on": "42810CB9C0E1E40085DBE9317E63FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "A56E9A",
+          "on": "E9C1819C0290",
+          "off": "420904B985DB"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}
