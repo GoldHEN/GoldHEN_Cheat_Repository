@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="caladrius-Blaze" Moder="Ali-mk" Cusa="CUSA03698" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-lives">
+    <Cheatline>
+      <Offset>BB2C9</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-89-2F</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Bomb">
+    <Cheatline>
+      <Offset>C0F3A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>FF-89-00-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
