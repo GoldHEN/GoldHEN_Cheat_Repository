@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Streets Of Rage 4" Moder="wander" Cusa="CUSA16221" Version="01.09" Process="eboot.bin">
+  <Genres Name="Arcade" />
+  <Genres Name="Fighting" />
+  <Items />
+  <Cheat Text="Max/Infinite Health/Special Attack/1 Hit Kill (Master Code)">
+    <Cheatline>
+      <Offset>334FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-80-7C-24-48-00-75-11-41-8B-6C-24-20-41-89-6C-24-2C-E9-AC-D1-FE-FC-31-ED-41-89-6C-24-2C-E9-A0-D1-FE-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>33CF6E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3D-2E-01-03</ValueOn>
+      <ValueOff>41-89-6C-24-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill (Enable MC)">
+    <Cheatline>
+      <Offset>334FDB6</Offset>
+      <Section>0</Section>
+      <ValueOn>75-0F</ValueOn>
+      <ValueOff>75-11</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Lives">
+    <Cheatline>
+      <Offset>334FBA0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-83-9B-15-FE-FC-C6-44-0B-30-09-E9-B2-0F-FE-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>330B58</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-43-F0-01-03-90-90-90-90-90</ValueOn>
+      <ValueOff>0F-83-E9-05-00-00-FF-4C-0B-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Stars">
+    <Cheatline>
+      <Offset>334FC60</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-3A-3F-FA-FC-C6-41-20-63-E9-BE-3E-FA-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2F3B28</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-33-C1-05-03</ValueOn>
+      <ValueOff>74-7C-89-69-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Score On Gain">
+    <Cheatline>
+      <Offset>334FB90</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-44-01-44-3F-42-0F-00-E9-68-5A-FD-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>325600</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8B-A5-02-03</ValueOn>
+      <ValueOff>44-01-6C-01-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
