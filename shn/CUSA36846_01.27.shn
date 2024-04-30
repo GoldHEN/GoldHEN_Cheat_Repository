@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wo Long Fallen Dynasty" Moder="Celogamez" Cusa="CUSA36846" Version="01.27" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>399FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>49-81-F9-40-02-00-00-75-11-90-E9-34-28-BD-FC-C4-C1-7C-11-47-10-E9-29-28-BD-FC-49-81-F9-00-03-00-00-75-EC-90-E9-1A-28-BD-FC</ValueOn>      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5725ED</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BE-D7-42-03-90</ValueOn>
+      <ValueOff>C4-C1-7C-11-47-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Dragon Cure Potion">
+    <Cheatline>
+      <Offset>399FA20</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-ED-C0-00-00-63-00-00-00-E9-E1-62-9D-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1375D0A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-11-9D-62-02-90</ValueOn>
+      <ValueOff>88-88-ED-C0-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Throwables/Items">
+    <Cheatline>
+      <Offset>399F7E0</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-47-08-63-89-F0-E9-D0-E9-5E-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F8E1B6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-25-16-A1-02</ValueOn>
+      <ValueOff>29-77-08-89-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Infinite Divine Beast Gauge (Hit Enemy)">
+    <Cheatline>
+      <Offset>399F750</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-50-00-00-7A-44-E9-26-52-BD-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>57497D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CE-AD-42-03-90-90</ValueOn>
+      <ValueOff>C4-C1-78-11-44-24-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Tiger Beast Gauge">
+    <Cheatline>
+      <Offset>399F370</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-41-70-98-3A-00-00-8B-49-70-39-4B-38-E9-10-66-A9-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>143598C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DF-99-56-02-90</ValueOn>
+      <ValueOff>8B-49-70-39-4B-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Wizardry Spell">
+    <Cheatline>
+      <Offset>489066</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>89-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Wizardry Spell Points">
+    <Cheatline>
+      <Offset>399F550</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-84-81-E8-02-00-00-63-00-00-00-E9-C9-1E-9D-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1371422</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-29-E1-62-02-90-90</ValueOn>
+      <ValueOff>89-B4-81-E8-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Moral">
+    <Cheatline>
+      <Offset>399F2C0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-10-40-78-7D-01-E9-2D-DD-B9-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>53CFF6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C5-22-46-03</ValueOn>
+      <ValueOff>41-89-4C-24-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Buffs">
+    <Cheatline>
+      <Offset>399E5E0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-88-00-00-00-00-00-FA-44-E9-29-F2-B2-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4CD810</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CB-0D-4D-03-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-87-88-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Accolades On Buy">
+    <Cheatline>
+      <Offset>399F0C0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-42-CF-C7-40-14-7F-96-98-00-E9-AC-98-9D-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1378975</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-46-67-62-02-90</ValueOn>
+      <ValueOff>0F-42-CF-89-48-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Coppers">
+    <Cheatline>
+      <Offset>399F520</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-42-F1-C7-40-10-7F-96-98-00-E9-D5-93-9D-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>13788FE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1D-6C-62-02-90</ValueOn>
+      <ValueOff>0F-42-F1-89-70-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Genuine Qi (Gain/Use)">
+    <Cheatline>
+      <Offset>399F9A0</Offset>
+      <Section>0</Section>
+      <ValueOn>43-C7-84-2E-08-04-00-00-7F-96-98-00-E9-AE-70-AF-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1496A57</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-44-8F-50-02-90-90-90</ValueOn>
+      <ValueOff>4B-01-94-2E-08-04-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>399F900</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-FF-80-AE-59-C7-03-7F-96-98-00-E9-0F-00-9D-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>136F918</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E3-FF-62-02-90-90</ValueOn>
+      <ValueOff>BE-FF-80-AE-59-89-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
