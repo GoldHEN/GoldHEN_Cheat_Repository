@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="sand land" Moder="Q8Despair" Cusa="CUSA34698" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Max Health">
+    <Cheatline>
+      <Section>3</Section>
+      <Offset>5FF00</Offset>
+      <ValueOn>81-3B-D8-96-51-09-75-0C-C7-83-A8-0D-00-00-F6-09-00-00-EB-06-89-8B-A8-0D-00-00-E9-34-44-38-82</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1FE434D</Offset>
+      <ValueOn>E9-AE-BB-C7-7D-90</ValueOn>
+      <ValueOff>89-8B-A8-0D-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="XP x2">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>8CA7800</Offset>
+      <ValueOn>45-6B-E4-02-45-89-67-30-E9-C9-89-32-F9-E9-BD-89-32-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1FD01C9</Offset>
+      <ValueOn>E9-32-76-CD-06-90</ValueOn>
+      <ValueOff>45-89-67-30-EB-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Money x2">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>8CA7814</Offset>
+      <ValueOn>6B-C0-02-89-47-48-0F-84-90-CE-71-F9-E9-68-CE-71-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>23C4688</Offset>
+      <ValueOn>E9-87-31-8E-06</ValueOn>
+      <ValueOff>89-47-48-74-23</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Items x99">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>8CA7837</Offset>
+      <ValueOn>C7-03-63-00-00-00-45-84-E4-E9-A1-C1-71-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>23C39E0</Offset>
+      <ValueOn>E9-52-3E-8E-06</ValueOn>
+      <ValueOff>E9-42-3E-8E-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
