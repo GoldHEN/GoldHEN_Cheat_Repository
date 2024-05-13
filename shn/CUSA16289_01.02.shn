@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Samurai Jack" Moder="2B" Cusa="CUSA16289" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf HP">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>5147800</Offset>
+      <ValueOn>51-B9-00-A0-0C-46-66-0F-6E-C1-59-C4-C1-7A-11-86-FC-00-00-00-E9-FD-82-52-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>166FB0D</Offset>
+      <ValueOn>E9-EE-7C-AD-03-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-FC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1HK">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>5147863</Offset>
+      <ValueOn>C7-80-FC-00-00-00-00-00-00-00-C5-FA-10-80-FC-00-00-00-E9-15-73-36-FC-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>14AEB87</Offset>
+      <ValueOn>E9-D7-8C-C9-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-80-FC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Mony (on get)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>514781B</Offset>
+      <ValueOn>BA-7F-96-98-00-89-91-BC-03-00-00-E9-B1-72-57-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>16BEAD6</Offset>
+      <ValueOn>E9-40-8D-A8-03-90</ValueOn>
+      <ValueOff>89-91-BC-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Fire Skill Points (on Spend)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>514782D</Offset>
+      <ValueOn>C7-83-C0-03-00-00-7F-96-98-00-E9-CC-9C-43-FC-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1581502</Offset>
+      <ValueOn>E9-26-63-BC-03-90</ValueOn>
+      <ValueOff>29-83-C0-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Bushido Points (on spend)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>514783F</Offset>
+      <ValueOn>C7-83-C4-03-00-00-7F-96-98-00-E9-C3-9C-43-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>158150B</Offset>
+      <ValueOn>E9-2F-63-BC-03-90</ValueOn>
+      <ValueOff>29-83-C4-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Throwable">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>5147850</Offset>
+      <ValueOn>B8-63-00-00-00-41-89-87-F8-00-00-00-E9-0B-8E-4B-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1600665</Offset>
+      <ValueOn>E9-E6-71-B4-03-90-90</ValueOn>
+      <ValueOff>41-89-87-F8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Weapon Durability">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>514787E</Offset>
+      <ValueOn>90-E9-DC-58-35-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>149D15A</Offset>
+      <ValueOn>E9-1F-A7-CA-03-90</ValueOn>      <ValueOff>89-8B-F8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
