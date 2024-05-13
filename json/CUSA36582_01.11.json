@@ -1,20 +1,282 @@
-{"name":"Prince Of Persia: The Lost Crown","id":"CUSA36582","version":"01.11","process":"eboot.bin",
-"master":{"challenged":"yes","memory":[{"offset":"8477F840","on":"488B4010488B7B28488B7F10488B7F2048893D7947A200488B7B38488B7F18488B7F10488BBF38020000488B7F70488B7F10488BBFB0000000488B7F7848893D5447A200EB07C74728050D0000488BFB4C8BFBE985EE80FC"},{"offset":"80F8E716","on":"9090E923117F03"},{"offset":"8477F8B0","on":"483B3D1947A200740055488BEC4157E992A162FC4883FA007415807E4100750F66837E5C017508807E70017502EBDAC3"},{"offset":"80DA9A50","on":"E95B5E9D0390"},{"offset":"8477F8F0","on":"FF9038020000483B3DDB46A200EB0641BE3F420F00E9C4A5E4FC"},{"offset":"815C9EC8","on":"90E9225A1B03"},{"offset":"8477F920","on":"488905B946A200C680F001000001E9BD8C52FE"},{"offset":"82CA85E9","on":"9090E93073AD01"},{"offset":"8477F950","on":"53C5F8138054020000488B1D8046A2004883FB00741980BBF001000001EB10C57A103D07237000C57A11B8580200005BE96E0953FE"},{"offset":"82CB02EB","on":"909090E95DF6AC01"}]},"mods":[
-{"name":"Invincible Mode","type":"checkbox","memory":[{"offset":"8477F8B8","on":"0B","off":"00"}]},
-{"name":"Infinite Health","type":"checkbox","memory":[{"offset":"8477F885","on":"00","off":"07"}]},
-{"name":"Infinite Dash","type":"checkbox","memory":[{"offset":"81189CB7","on":"B001C390909090","off":"0FB68001020000"}]},
-{"name":"Infinite Athra Surges","type":"checkbox","memory":[{"offset":"80C39B6B","on":"EB","off":"7D"},{"offset":"80C39C30","on":"C0","off":"C1"},{"offset":"809487A7","on":"C0","off":"C1"}]},
-{"name":"Infinite Healing Potion","type":"checkbox","memory":[{"offset":"819785A1","on":"00","off":"01"}]},
-{"name":"Infinite Memory Shard","type":"checkbox","memory":[{"offset":"80AC7E21","on":"01","off":"29"}]},
-{"name":"Infinite Arrows","type":"checkbox","memory":[{"offset":"8196D259","on":"00","off":"01"}]},
-{"name":"Half Screen Arrow Attack","type":"checkbox","memory":[{"offset":"8196CE5A","on":"49C7C71200","off":"488B831002"},{"offset":"8196CE68","on":"90909090","off":"448B787C"},{"offset":"8196CF76","on":"0583214F03","off":"8094000000"}]},
-{"name":"Full Screen Arrow Attack","type":"checkbox","memory":[{"offset":"8196CE5A","on":"49C7C72300","off":"488B831002"},{"offset":"8196CE68","on":"90909090","off":"448B787C"},{"offset":"8196CF76","on":"0583214F03","off":"8094000000"}]},
-{"name":"One Hit Kill","type":"checkbox","memory":[{"offset":"80EC2ECD","on":"6689C1","off":"8B4810"}]},
-{"name":"Moon Jump","type":"checkbox","memory":[{"offset":"8477F96D","on":"75","off":"EB"}]},
-{"name":"Infinite Double Jumps","type":"checkbox","memory":[{"offset":"818CA279","on":"EB","off":"7C"}]},
-
-{"name":"Full Screen Collection","type":"checkbox","memory":[{"offset":"80C47A99","on":"C8","off":"C9"}]},
-{"name":"Unlock Six Powers","type":"checkbox","memory":[{"offset":"8108187A","on":"02","off":"00"},{"offset":"80ECC297","on":"02","off":"00"},{"offset":"81082C98","on":"02","off":"00"},{"offset":"80ECE311","on":"02","off":"00"}]},
-{"name":"All Amulets Can Be Equip","type":"checkbox","memory":[{"offset":"80CB01B6","on":"13","off":"1C"},{"offset":"80EC5899","on":"13","off":"1C"}]},
-{"name":"Ignore Buy & Upgrades Requirements","type":"checkbox","memory":[{"offset":"80EBF8A6","on":"4839C09090","off":"413B442414"}]}
-],"credits":["Hank"]}
+{
+  "name": "Prince Of Persia: The Lost Crown",
+  "id": "CUSA36582",
+  "version": "01.11",
+  "process": "eboot.bin",
+  "master": {
+    "challenged": "yes",
+    "memory": [
+      {
+        "offset": "8477F840",
+        "on": "488B4010488B7B28488B7F10488B7F2048893D7947A200488B7B38488B7F18488B7F10488BBF38020000488B7F70488B7F10488BBFB0000000488B7F7848893D5447A200EB07C74728050D0000488BFB4C8BFBE985EE80FC"
+      },
+      {
+        "offset": "80F8E716",
+        "on": "9090E923117F03"
+      },
+      {
+        "offset": "8477F8B0",
+        "on": "483B3D1947A200740055488BEC4157E992A162FC4883FA007415807E4100750F66837E5C017508807E70017502EBDAC3"
+      },
+      {
+        "offset": "80DA9A50",
+        "on": "E95B5E9D0390"
+      },
+      {
+        "offset": "8477F8F0",
+        "on": "FF9038020000483B3DDB46A200EB0641BE3F420F00E9C4A5E4FC"
+      },
+      {
+        "offset": "815C9EC8",
+        "on": "90E9225A1B03"
+      },
+      {
+        "offset": "8477F920",
+        "on": "488905B946A200C680F001000001E9BD8C52FE"
+      },
+      {
+        "offset": "82CA85E9",
+        "on": "9090E93073AD01"
+      },
+      {
+        "offset": "8477F950",
+        "on": "53C5F8138054020000488B1D8046A2004883FB00741980BBF001000001EB10C57A103D07237000C57A11B8580200005BE96E0953FE"
+      },
+      {
+        "offset": "82CB02EB",
+        "on": "909090E95DF6AC01"
+      }
+    ]
+  },
+  "mods": [
+    {
+      "name": "Invincible Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8477F8B8",
+          "on": "0B",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8477F885",
+          "on": "00",
+          "off": "07"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Dash",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81189CB7",
+          "on": "B001C390909090",
+          "off": "0FB68001020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Athra Surges",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C39B6B",
+          "on": "EB",
+          "off": "7D"
+        },
+        {
+          "offset": "80C39C30",
+          "on": "C0",
+          "off": "C1"
+        },
+        {
+          "offset": "809487A7",
+          "on": "C0",
+          "off": "C1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Healing Potion",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "819785A1",
+          "on": "00",
+          "off": "01"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Memory Shard",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80AC7E21",
+          "on": "01",
+          "off": "29"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Arrows",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8196D259",
+          "on": "00",
+          "off": "01"
+        }
+      ]
+    },
+    {
+      "name": "Half Screen Arrow Attack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8196CE5A",
+          "on": "49C7C71200",
+          "off": "488B831002"
+        },
+        {
+          "offset": "8196CE68",
+          "on": "90909090",
+          "off": "448B787C"
+        },
+        {
+          "offset": "8196CF76",
+          "on": "0583214F03",
+          "off": "8094000000"
+        }
+      ]
+    },
+    {
+      "name": "Full Screen Arrow Attack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8196CE5A",
+          "on": "49C7C72300",
+          "off": "488B831002"
+        },
+        {
+          "offset": "8196CE68",
+          "on": "90909090",
+          "off": "448B787C"
+        },
+        {
+          "offset": "8196CF76",
+          "on": "0583214F03",
+          "off": "8094000000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80EC2ECD",
+          "on": "6689C1",
+          "off": "8B4810"
+        }
+      ]
+    },
+    {
+      "name": "Moon Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8477F96D",
+          "on": "75",
+          "off": "EB"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Double Jumps",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "818CA279",
+          "on": "EB",
+          "off": "7C"
+        }
+      ]
+    },
+    {
+      "name": "Full Screen Collection",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C47A99",
+          "on": "C8",
+          "off": "C9"
+        }
+      ]
+    },
+    {
+      "name": "Unlock Six Powers",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8108187A",
+          "on": "02",
+          "off": "00"
+        },
+        {
+          "offset": "80ECC297",
+          "on": "02",
+          "off": "00"
+        },
+        {
+          "offset": "81082C98",
+          "on": "02",
+          "off": "00"
+        },
+        {
+          "offset": "80ECE311",
+          "on": "02",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "All Amulets Can Be Equip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80CB01B6",
+          "on": "13",
+          "off": "1C"
+        },
+        {
+          "offset": "80EC5899",
+          "on": "13",
+          "off": "1C"
+        }
+      ]
+    },
+    {
+      "name": "Ignore Buy & Upgrades Requirements",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80EBF8A6",
+          "on": "4839C09090",
+          "off": "413B442414"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Hank"
+  ]
+}
