@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="King Kong, Peter Jackson's" Moder="Ali-mk" Cusa="SLUS21311" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-All-Weapon">
+    <Cheatline>
+      <Offset>80809A2AD8</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>08</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>80809A2B68</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>05</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80809A2BB0</Offset>
+      <Section>0</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>05</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>807FED5412</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-FF</ValueOn>
+      <ValueOff>10-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>807FED543C</Offset>
+      <Section>0</Section>
+      <ValueOn>24-04-00-00</ValueOn>
+      <ValueOff>24-04-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>807FED5B40</Offset>
+      <Section>0</Section>
+      <ValueOn>24-04-00-00</ValueOn>
+      <ValueOff>24-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
