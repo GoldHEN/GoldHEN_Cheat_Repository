@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Persona 4 Golden" Moder="d01v" Cusa="CUSA33874" Version="01.01" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="backport 9 to 505 only">
+    <Cheatline>
+      <Offset>815731</Offset>
+      <Section>0</Section>
+      <ValueOn>C3-90</ValueOn>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="infinite Health">
+    <Cheatline>
+      <Offset>815739</Offset>
+      <Section>0</Section>
+      <ValueOn>41-39-C6-48-83-F9-04-74-06-E9-C2-C8-86-FF-90-41-0F-4E-C6-E9-B8-C8-86-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>82002</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-32-37-79-00-90-90</ValueOn>
+      <ValueOff>41-39-C6-41-0F-4E-C6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="infinite SP">
+    <Cheatline>
+      <Offset>815761</Offset>
+      <Section>0</Section>
+      <ValueOn>41-39-C6-48-83-F9-04-74-06-E9-DA-C8-86-FF-90-41-0F-4E-C6-E9-D0-C8-86-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>82042</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1A-37-79-00-90-90</ValueOn>
+      <ValueOff>41-39-C6-41-0F-4E-C6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All items" Description="open item / weapon / armor / accessories / clothes inventory, your original items are untouched">
+    <Cheatline>
+      <Offset>815791</Offset>
+      <Section>0</Section>
+      <ValueOn>48-63-CF-80-3C-08-00-75-0D-C6-04-08-01-8A-04-08-E9-37-DE-92-FF-90-8A-04-08-E9-2E-DE-92-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1435D7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B5-21-6D-00-90</ValueOn>
+      <ValueOff>48-63-CF-8A-04-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Player EXP" Description="view player from status menu then it will give u 1 exp after that turn of this cheat">
+    <Cheatline>
+      <Offset>8157D1</Offset>
+      <Section>0</Section>
+      <ValueOn>F6-07-04-4C-39-F8-75-17-48-83-FB-01-75-11-C7-47-40-E6-04-1D-00-0F-B7-47-02-E9-E2-C1-86-FF-90-0F-B7-47-02-E9-D8-C1-86-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>819CA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-02-3E-79-00-90-90</ValueOn>
+      <ValueOff>F6-07-04-0F-B7-47-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max exp persona" Description="view persona from status menu u want to level up then turn off after if u wont all persona will level up">
+    <Cheatline>
+      <Offset>815811</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-B7-43-02-C7-43-08-9E-4C-4C-00-66-BB-01-00-E9-3F-63-87-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8BB5C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B0-9C-78-00-90-90-90</ValueOn>
+      <ValueOff>0F-B7-43-02-66-BB-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max persona stats" Description="view any persona to max all stats">
+    <Cheatline>
+      <Offset>815841</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-44-1E-1C-63-45-8A-64-1E-1C-E9-60-61-87-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8B9AC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-90-9E-78-00</ValueOn>
+      <ValueOff>45-8A-64-1E-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Social Stats" Description="open social stats menu">
+    <Cheatline>
+      <Offset>815871</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-FF-00-74-23-48-83-FF-01-74-2F-48-83-FF-02-74-3B-48-83-FF-03-74-11-48-83-FF-04-74-41-0F-BF-74-78-34-E9-D6-EE-92-FF-90-66-C7-44-78-34-8C-00-0F-BF-74-78-34-E9-C4-EE-92-FF-90-66-C7-44-78-34-F0-00-0F-BF-74-78-34-E9-B2-EE-92-FF-90-66-C7-44-78-34-82-00-0F-BF-74-78-34-E9-A0-EE-92-FF-90-66-C7-44-78-34-55-00-0F-BF-74-78-34-E9-8E-EE-92-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14476A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-02-11-6D-00</ValueOn>
+      <ValueOff>0F-BF-74-78-34</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Exp Social Link" Description="turn on this cheat before u spend time to anyone it will level per event, u can spam by using date cheat">
+    <Cheatline>
+      <Offset>815901</Offset>
+      <Section>0</Section>
+      <ValueOn>66-B8-63-00-66-41-01-46-08-E9-BC-B5-93-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>150EC6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-36-4A-6C-00</ValueOn>
+      <ValueOff>66-41-01-46-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Master Code Daytime">
+    <Cheatline>
+      <Offset>815961</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-04-01-00-00-00-EB-2E-90-B1-01-88-48-0A-C6-40-02-00-E9-7B-A2-8D-FF-90-B1-05-88-48-0A-C6-40-02-04-E9-6C-A2-8D-FF-90-B1-00-88-48-0A-C6-40-02-05-E9-5D-A2-8D-FF-90-E9-57-A2-8D-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>EFBED</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6F-5D-72-00-90-90</ValueOn>
+      <ValueOff>C7-40-04-01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Early morning (MC daytime)">
+    <Cheatline>
+      <Offset>815968</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-01</ValueOn>
+      <ValueOff>EB-2E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Afterschool (MC daytime)">
+    <Cheatline>
+      <Offset>815968</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-10</ValueOn>
+      <ValueOff>EB-2E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Evening (MC daytime)">
+    <Cheatline>
+      <Offset>815968</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-1F</ValueOn>
+      <ValueOff>EB-2E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Master Code Date" Description="turn this cheat on before u sleep then turn off (must be off before evening)">
+    <Cheatline>
+      <Offset>8159C1</Offset>
+      <Section>0</Section>
+      <ValueOn>80-3C-77-00-EB-19-90-66-FF-C2-66-89-10-E9-02-A2-8D-FF-90-66-FF-CA-66-89-10-E9-F6-A1-8D-FF-90-66-89-50-08-E9-EC-A1-8D-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>EFBCD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EF-5D-72-00-90-90-90</ValueOn>
+      <ValueOff>80-3C-77-00-66-89-50-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Decrease 1 day (MC Date)">
+    <Cheatline>
+      <Offset>8159C5</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-0D</ValueOn>
+      <ValueOff>EB-19</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Increase 1 day (MC Date)">
+    <Cheatline>
+      <Offset>8159C5</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-01</ValueOn>
+      <ValueOff>EB-19</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Yen" Description="open menu">
+    <Cheatline>
+      <Offset>815A01</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-FB-00-75-23-48-83-F9-00-75-1D-48-83-FF-00-75-17-49-83-FA-00-75-11-C7-00-7F-96-98-00-0F-B7-44-48-04-E9-86-DA-92-FF-90-0F-B7-44-48-04-E9-7B-DA-92-FF-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1434AA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-52-25-6D-00</ValueOn>
+      <ValueOff>0F-B7-44-48-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Master Code Persona id (skin)" Description="equipped any persona from 2nd slot to 6th then exit it will change instanly">
+    <Cheatline>
+      <Offset>815A51</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-FB-04-75-2D-48-83-F9-00-75-27-49-83-FC-01-75-21-EB-1F-90-66-FF-40-06-66-C7-00-00-00-E9-F8-7C-87-FF-90-66-FF-48-06-66-C7-00-00-00-E9-E9-7C-87-FF-90-66-C7-00-00-00-E9-DE-7C-87-FF-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8D767</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E5-82-78-00</ValueOn>
+      <ValueOff>66-C7-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Increase id (MC id)">
+    <Cheatline>
+      <Offset>815A63</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-01</ValueOn>
+      <ValueOff>EB-1F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Decrease id (MC id)">
+    <Cheatline>
+      <Offset>815A63</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-10</ValueOn>
+      <ValueOff>EB-1F</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

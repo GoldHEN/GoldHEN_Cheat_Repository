@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="RedRaptor" Moder="Ali-mk" Cusa="CUSA42539" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>80700C5E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-AD-D0-F1-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-GOLD">
+    <Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>81557800</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-FF-C9-9A-3B-41-89-47-1C-E9-1D-6F-5A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>80AFE723</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D8-90-A5-00-90-90-90</ValueOn>
+      <ValueOff>41-89-47-1C-45-01-77-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
