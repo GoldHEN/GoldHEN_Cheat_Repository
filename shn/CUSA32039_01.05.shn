@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Lord of the Rings: Gollum" Moder="2B" Cusa="CUSA32039" Version="01.05" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf Stamina">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>686F800</Offset>
+      <ValueOn>C7-83-0C-01-00-00-00-00-48-43-C5-FA-10-93-0C-01-00-00-E9-45-5F-9A-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1215754</Offset>
+      <ValueOn>E9-A7-A0-65-05-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-93-0C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf HP">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>686F819</Offset>
+      <ValueOn>90-E9-81-78-99-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1207097</Offset>
+      <ValueOn>E9-7D-87-66-05-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-BC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
