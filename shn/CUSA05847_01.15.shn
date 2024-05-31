@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Far Cry 5" Moder="Celogamez" Cusa="CUSA05847" Version="01.15" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>28AF535</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-66-BB-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Invincibility">
+    <Cheatline>
+      <Offset>28BE434</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-77-FF-FE-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Endurance">
+    <Cheatline>
+      <Offset>28A7284</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-E7-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Breath">
+    <Cheatline>
+      <Offset>28B6A83</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-28-04-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Ammo/Money/Throwables">
+    <Cheatline>
+      <Offset>5FCFDC0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-0F-43-C5-41-C7-47-4C-3F-42-0F-00-E9-8A-35-1A-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1173353</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-68-CA-E5-04-90-90-90</ValueOn>
+      <ValueOff>41-0F-43-C5-41-89-47-4C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>3871A27</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>44-89-BB-88-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Skill Points">
+    <Cheatline>
+      <Offset>343336C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-3F-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dave the diver" Moder="2B" Cusa="CUSA45600" Version="01.08" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf O2">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>4AFB800</Offset>
+      <ValueOn>C7-83-94-00-00-00-00-00-C8-42-C5-FA-10-83-94-00-00-00-E9-3E-C5-9B-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>4B7D4D</Offset>
+      <ValueOn>E9-AE-3A-64-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-94-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="weight never Inc">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>4AFB819</Offset>
+      <ValueOn>C7-40-2C-00-00-00-00-C5-FA-10-48-2C-E9-C7-42-85-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>134FAEC</Offset>
+      <ValueOn>E9-28-BD-7A-03</ValueOn>
+      <ValueOff>C5-FA-11-48-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Dave Stamina at the Resturant ">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>4AFB82C</Offset>
+      <ValueOn>41-C7-47-40-00-00-C8-42-C4-C1-7A-10-47-40-E9-A3-A8-F2-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>A260DC</Offset>
+      <ValueOn>E9-4B-57-0D-04-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Speargun Ammo">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>4AFB841</Offset>
+      <ValueOn>C7-43-74-64-00-00-00-8B-43-74-E9-DD-B1-77-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>1276A25</Offset>
+      <ValueOn>E9-17-4E-88-03-90-90-90</ValueOn>
+      <ValueOff>89-43-74-E8-F3-EE-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Itmes use only in resturant sell 1 item to restore it to x99">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>4AFB800</Offset>
+      <ValueOn>C7-44-90-20-64-00-00-00-8B-4C-90-20-E9-77-7C-D1-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>813482</Offset>
+      <ValueOn>E9-79-83-2E-04-90</ValueOn>
+      <ValueOff>8B-4C-90-20-85-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
