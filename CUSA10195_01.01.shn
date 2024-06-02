@@ -26,7 +26,7 @@
       <ValueOff>41-FF-8D-B8-27-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Inf Health">
+  <Cheat Text="Inf Red Hearts">
     <Cheatline>
       <Offset>527800</Offset>
       <Section>0</Section>
@@ -60,6 +60,36 @@
       <Section>0</Section>
       <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
       <ValueOff>41-C7-45-40-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Active Item">
+    <Cheatline>
+      <Offset>16D38E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>45-89-BD-F8-29-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Blue Hearts">
+    <Cheatline>
+      <Offset>527800</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-18-00-00-00-41-89-94-24-A0-27-00-00-E9-13-73-C5-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>17EB1D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DE-8C-3A-00-90-90-90</ValueOn>
+      <ValueOff>41-89-94-24-A0-27-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Cards(On Use)">
+    <Cheatline>
+      <Offset>19AEDC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>48-89-83-E8-2B-00-00</ValueOff>
     </Cheatline>
   </Cheat>
 </Trainer>
