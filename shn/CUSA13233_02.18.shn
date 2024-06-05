@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ghost Of Tsushima" Moder="Celogamez" Cusa="CUSA13233" Version="02.18" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Max/Infinite Health">
+    <Cheatline>
+      <Offset>133BDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>80-7F-08-01-74-15-C5-FA-10-87-30-19-00-00-C5-FA-11-87-34-19-00-00-E9-69-B3-AE-FF-C5-FA-11-87-34-19-00-00-E9-5C-B3-AE-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E2712C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7F-4C-51-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-34-19-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Resolve">
+    <Cheatline>
+      <Offset>7363B9</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-87-54-43-00-00</ValueOn>
+      <ValueOff>C5-FA-11-87-54-43-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Resources On Pick Up">
+    <Cheatline>
+      <Offset>133B9D0</Offset>
+      <Section>0</Section>
+      <ValueOn>42-C7-44-A8-08-E7-03-00-00-E9-A9-47-3A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6E0182</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-49-B8-C5-00</ValueOn>
+      <ValueOff>42-89-5C-A8-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Technique Points (Enable When you get 1)">
+    <Cheatline>
+      <Offset>133B920</Offset>
+      <Section>0</Section>
+      <ValueOn>43-C6-44-AC-58-00-E9-8E-73-3A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6E2CB4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-67-8C-C5-00</ValueOn>
+      <ValueOff>43-01-74-AC-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

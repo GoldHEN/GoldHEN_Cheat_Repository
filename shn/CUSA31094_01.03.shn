@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Aeterna-Noctis" Moder="Ali-mk" Cusa="CUSA31094" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>843EF800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-7C-24-6C-02-75-0A-45-2B-74-24-0C-E9-FE-13-5E-FD-45-29-74-24-20-E9-F4-13-5E-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>819D0C0B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F0-EB-A1-02</ValueOn>
+      <ValueOff>45-29-74-24-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-GOLD">
+    <Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>843EF81E</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-FF-C9-9A-3B-01-88-DC-00-00-00-E9-37-07-43-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>8181FF5F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BA-F8-BC-02-90</ValueOn>
+      <ValueOff>01-88-DC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

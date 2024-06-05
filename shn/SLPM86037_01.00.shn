@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Salamander Deluxe Pack" Moder="Ali-mk" Cusa="SLPM86037" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Salamander Inf Lives P1">
+    <Cheatline>
+      <Offset>1479F2</Offset>
+      <Section>11</Section>
+      <ValueOn>99</ValueOn>
+      <ValueOff>62</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Salamander 2 Inf Lives P1">
+    <Cheatline>
+      <Offset>133306</Offset>
+      <Section>11</Section>
+      <ValueOn>99</ValueOn>
+      <ValueOff>42</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Lifeforce Inf Lives P1">
+    <Cheatline>
+      <Offset>14719A</Offset>
+      <Section>11</Section>
+      <ValueOn>99</ValueOn>
+      <ValueOff>62</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

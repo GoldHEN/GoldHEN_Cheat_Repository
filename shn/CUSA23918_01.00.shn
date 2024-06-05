@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Final Fight 1-Remake" Moder="Ali-mk" Cusa="CUSA23918" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>807FD15710</Offset>
+      <Section>0</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>23</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>807FD15711</Offset>
+      <Section>0</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>10</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Lives">
+    <Cheatline>
+      <Offset>807FD5C3FC</Offset>
+      <Section>0</Section>
+      <ValueOn>99</ValueOn>
+      <ValueOff>03</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
