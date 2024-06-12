@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Fallout 4 Game of the Year Edition" Moder="Pharaoh2k" Cusa="CUSA02961" Version="01.37" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="TRAINER INFO (read only)" Description="BE SURE TO READ ALL the comments where available. As a rule of thumb, ALWAYS enable cheats that are needed and disable when they are not. OTU = One time use cheat. Partially ported from TLH v01.22 PS4 trainer and FLiNG PC trainer. For an even more advanced Fallout-4 trainer, check out my MultiTrainer2 ShnExt trainer. Made and tested on PS4 Firmware 9.00. Enjoy! ;-)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228EFC0</Offset>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Master Switch (Must be enabled first)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F000</Offset>
+      <ValueOn>C5-F8-10-80-C0-00-00-00-48-A3-61-28-A0-02-00-00-00-00-48-05-00-04-00-00-48-A3-70-28-A0-02-00-00-00-00-48-83-C0-0C-48-A3-80-28-A0-02-00-00-00-00-48-83-C0-18-48-A3-90-28-A0-02-00-00-00-00-48-2D-24-04-00-00-E9-4E-29-6F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>98198F</Offset>
+      <ValueOn>E9-6C-D6-90-01-00-00-00</ValueOn>
+      <ValueOff>C5-F8-10-80-C0-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F05F</Offset>
+      <ValueOn>4C-3B-35-FB-37-37-00-74-7D-83-3D-9E-00-00-00-01-75-1B-49-81-FA-00-00-80-3F-74-12-4D-39-FC-75-0D-4C-3B-25-DB-37-37-00-75-04-31-D2-EB-72-41-50-41-51-83-3D-7A-00-00-00-01-75-10-4C-8B-05-D0-37-37-00-4C-8D-0C-88-4D-39-C8-74-32-83-3D-65-00-00-00-01-75-2D-4C-8B-05-C7-37-37-00-4C-8D-0C-88-4D-39-C8-74-19-83-3D-50-00-00-00-01-75-14-4C-8B-05-BE-37-37-00-4C-8D-0C-88-4D-39-C8-75-04-31-D2-EB-00-41-59-41-58-EB-19-4D-39-FE-0F-84-7A-FF-FF-FF-83-3D-28-00-00-00-01-75-07-BA-F0-23-74-C9-EB-00-89-14-88-C5-FA-10-4B-0C-E9-B9-B6-78-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>A1A7BC</Offset>
+      <ValueOn>E9-9E-48-87-01-90-90-90</ValueOn>
+      <ValueOff>89-14-88-C5-FA-10-4B-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---God Mode  (Req. MS)" Description="Gives the player a complete invincibility to all types of damages (might still get temporary blurred vision rarely, but no damage). When enabling this option, no need to enable Inf_HP, Inf_AP, No_Radiation and Infinite Power Armor Core Power.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F10D</Offset>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---Infinite Health (Req. MS)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F111</Offset>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---Infinite AP-Stamina (Req. MS)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F115</Offset>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---No Radiation (Req. MS)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F119</Offset>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---One Hit Kill (Req. MS)" Description="Note that you may get instantly killed by an explotion you initiated yourself etc., for example - if you shoot and explode a car while standing nearby and get hit by your own initiated blast - you will be instantly killed with this cheat enabled.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F11D</Offset>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Invincible" Description="Prevents getting hit and effects. Does not prevent fall damage. Use god mode if you want to prevent it.
+Cheat has not been throughly tested so might cause progressions issues or other issues.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F400</Offset>
+      <ValueOn>C5-F8-5C-83-C0-00-00-00-48-A3-00-29-A0-02-00-00-00-00-E9-88-25-6F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>981997</Offset>
+      <ValueOn>E9-64-DA-90-01-90-90-90</ValueOn>
+      <ValueOff>C5-F8-5C-83-C0-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F41B</Offset>
+      <ValueOn>4C-89-F7-48-89-DE-4C-39-35-D8-34-37-00-0F-84-CB-BD-70-FE-E9-C1-BD-70-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>99B1EE</Offset>
+      <ValueOn>E9-28-42-8F-01-90</ValueOn>
+      <ValueOff>4C-89-F7-48-89-DE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Power Armor Core Power" Description="If God Mode cheat is enabled, no need to enable this cheat.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F130</Offset>
+      <ValueOn>C7-04-88-00-00-00-00-C5-FA-10-04-88-E9-7E-BA-78-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>A1ABBA</Offset>
+      <ValueOn>E9-71-45-87-01</ValueOn>
+      <ValueOff>C5-FA-10-04-88</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Weight Limit" Description="Takes effect when weight value changes (including when firing a weapon). You may probably want to keep this cheat enabled all the time.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>118106</Offset>
+      <ValueOn>31-C0-90-90-90</ValueOn>
+      <ValueOff>41-8B-44-24-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stealth Mode" Description="Takes effect only when enabled before enemies detect you">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>B43F37</Offset>
+      <ValueOn>C5-F0-57-C9</ValueOn>
+      <ValueOff>C5-F2-59-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Lock Picking" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>D70115</Offset>
+      <ValueOn>EB-10-90-90</ValueOn>
+      <ValueOff>C5-F8-2E-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Terminal Hacking (PWNed)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>88266A</Offset>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>0F-85-39-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Hacking Attempts" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>88265C</Offset>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload - Bottomless clip" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>A2A554</Offset>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>2B-4D-B8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Accuracy" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F150</Offset>
+      <ValueOn>0F-57-C0-C4-C1-7A-11-86-90-00-00-00-E9-AD-54-38-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>614605</Offset>
+      <ValueOn>E9-46-AB-C7-01-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-90-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Recoil" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F190</Offset>
+      <ValueOn>48-C7-47-70-00-00-00-00-C5-FB-10-47-70-E9-1E-5D-38-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>614EBB</Offset>
+      <ValueOn>E9-D0-A2-C7-01</ValueOn>
+      <ValueOff>C5-FB-10-47-70</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Weapon Spin-up" Description="This cheat disables the spin-up and cool-down delays of weapons like the mini-gun. They can be then used to fire instantly. The Small-Arms Fully-Automatic cheat already contains this functionality, so you may want to disable this cheat if you enabled the other one.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>92203B</Offset>
+      <ValueOn>BE-00-81-00-00-90</ValueOn>
+      <ValueOff>8B-B6-10-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>31273A</Offset>
+      <ValueOn>F6-80-11-01-00-00-08</ValueOn>
+      <ValueOff>F6-80-11-01-00-00-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Manual Weapon Rapid Fire" Description="The cheat eliminates the delay between manual shots. Mostly handy with weapons like the 10mm pistol. Using this cheat is pointless if you enabled the Small Arms Fully Automatic cheat.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>B32E48</Offset>
+      <ValueOn>0F-57-C0-90</ValueOn>
+      <ValueOff>C5-FA-5F-C2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Small Arms Fully Automatic" Description="The cheat code modifies all semi-automatic small arms to behave as fully automatic weapons. Additionally, it eliminates the spin-up delay and cooldown period for weapons like the mini-gun.  If you want to disable this option after it took effect, you may need to restart/reload the game in order to restore the original weapon functionality.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F450</Offset>
+      <ValueOn>66-C7-00-00-81-44-0F-B7-20-41-C1-EC-0F-E9-2E-2F-8A-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>B32388</Offset>
+      <ValueOn>E9-C3-D0-75-01-90-90-90</ValueOn>
+      <ValueOff>44-0F-B7-20-41-C1-EC-0F</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>A2A63D</Offset>
+      <ValueOn>F6-81-12-01-00-00-00</ValueOn>
+      <ValueOff>F6-81-12-01-00-00-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items and Ammo On Use or Gain" Description="This cheat has not been thoroughly tested but it is possible that it might cause some progression issues or even game crashes. Be sure to enable it only when absolutely necessary and disable it when not. To get the ammo quantity to update, you must disable the No reload cheat first. You can re-enable it after the ammo quantity of the weapon you are using is maximized.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>115A93</Offset>
+      <ValueOn>B9-3F-42-0F-00</ValueOn>
+      <ValueOff>8B-4F-0C-01-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Super Jump" Description="Pick one of jump multipliers below. Enable Infinite HP cheat to avoid dying or God Mode to avoid dying and also prevent fall damage.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F290</Offset>
+      <ValueOn>C5-F8-11-83-30-01-00-00-D9-83-38-01-00-00-D8-0D-0B-00-00-00-D9-9B-38-01-00-00-E9-4C-C9-DF-FE-00-00-80-3F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>108BBF3</Offset>
+      <ValueOn>E9-98-36-20-01-90-90-90</ValueOn>
+      <ValueOff>C5-F8-11-83-30-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x2.5 Jump Multiplier" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F2AF</Offset>
+      <ValueOn>00-00-20-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x5 Jump Multiplier" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F2AF</Offset>
+      <ValueOn>00-00-A0-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x10 Jump Multiplier" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F2AF</Offset>
+      <ValueOn>00-00-20-41</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x20 Jump Multiplier" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F2AF</Offset>
+      <ValueOn>00-00-A0-41</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Game Speed" Description="If you want to change the speed, use ONLY ONE of the game speed cheats, not both at the same time.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228EFC4</Offset>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x0.1 Speed Multiplier" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1CBF540</Offset>
+      <ValueOn>17-B7-D1-38</ValueOn>
+      <ValueOff>6F-12-83-3A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x0.5 Speed Multiplier" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1CBF540</Offset>
+      <ValueOn>6F-12-03-3A</ValueOn>
+      <ValueOff>6F-12-83-3A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x1.5 Speed Multiplier" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1CBF540</Offset>
+      <ValueOn>A6-9B-C4-3A</ValueOn>
+      <ValueOff>6F-12-83-3A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x2 Speed Multiplier" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1CBF540</Offset>
+      <ValueOn>6F-12-03-3B</ValueOn>
+      <ValueOff>6F-12-83-3A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x2.5 Speed Multiplier" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1CBF540</Offset>
+      <ValueOn>0A-D7-23-3B</ValueOn>
+      <ValueOff>6F-12-83-3A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x3 Speed Multiplier" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1CBF540</Offset>
+      <ValueOn>A6-9B-44-3B</ValueOn>
+      <ValueOff>6F-12-83-3A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Game Speed (Including Speech)" Description="If you want to change the speed, use ONLY ONE of the game speed cheats, not both at the same time.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F500</Offset>
+      <ValueOn>53-8B-1D-10-00-00-00-89-18-5B-C5-EA-59-00-C5-FA-5E-C1-E9-B5-50-91-FE-00-00-80-3F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>BA45C4</Offset>
+      <ValueOn>E9-37-AF-6E-01-90-90-90</ValueOn>
+      <ValueOff>C5-EA-59-00-C5-FA-5E-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x0.1 Speed Multiplier" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F517</Offset>
+      <ValueOn>CD-CC-CC-3D</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x0.5 Speed Multiplier" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F517</Offset>
+      <ValueOn>00-00-00-3F</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x1.5 Speed Multiplier" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F517</Offset>
+      <ValueOn>00-00-C0-3F</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x2 Speed Multiplier" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F517</Offset>
+      <ValueOn>00-00-00-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x2.5 Speed Multiplier" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F517</Offset>
+      <ValueOn>00-00-20-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x3 Speed Multiplier" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F517</Offset>
+      <ValueOn>00-00-40-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Time of Day" Description="Pick only 1 option below. Default hour is 10am">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F350</Offset>
+      <ValueOn>C5-FA-10-15-0A-00-00-00-C5-FA-11-50-30-E9-61-E0-6D-FE-00-00-00-41</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>96D3BE</Offset>
+      <ValueOn>E9-8D-1F-92-01</ValueOn>
+      <ValueOff>C5-FA-11-50-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---12pm" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F362</Offset>
+      <ValueOn>00-00-40-41</ValueOn>
+      <ValueOff>00-00-00-41</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---6pm" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F362</Offset>
+      <ValueOn>00-00-90-41</ValueOn>
+      <ValueOff>00-00-00-41</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---12am" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F362</Offset>
+      <ValueOn>33-33-BF-41</ValueOn>
+      <ValueOff>00-00-00-41</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---6am" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F362</Offset>
+      <ValueOn>00-00-C0-40</ValueOn>
+      <ValueOff>00-00-00-41</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Bottle Caps On Trade" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F300</Offset>
+      <ValueOn>49-83-F9-0C-75-09-41-C7-44-24-20-7F-96-98-00-41-83-7C-24-20-00-E9-86-4E-E8-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>11419A</Offset>
+      <ValueOn>E9-61-B1-17-02-90</ValueOn>
+      <ValueOff>41-83-7C-24-20-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="70 Perk Points On Game Start (OTU)" Description="Enable this cheat at the game start while chatting with the salesman and reaching the Registration Form perks selection. After the cheat takes effect, disable it and dont use it anymore throughout the game.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F1C0</Offset>
+      <ValueOn>49-83-BC-05-80-00-00-00-15-75-0B-41-C7-44-05-00-46-00-00-00-EB-00-41-8B-44-05-00-E9-E1-DE-02-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>12BD0BC</Offset>
+      <ValueOn>E9-FF-20-FD-00</ValueOn>
+      <ValueOff>41-8B-44-05-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Ignore Perk Points Requirements" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>80F208</Offset>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>74-0C</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>80D7C9</Offset>
+      <ValueOn>B8-63-00-00-00-90-90</ValueOn>
+      <ValueOff>0F-B6-80-C1-0B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Perk Points Upgrade Requirements" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>ADF2E4</Offset>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FE-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP and Level (OTU)" Description="Enable this cheat only once. After the cheat takes effect, disable it and dont use it anymore throughout the game.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F200</Offset>
+      <ValueOn>48-39-D3-75-1F-48-81-FB-C9-02-00-00-75-16-81-78-08-00-00-80-3F-75-0D-50-B8-20-BC-BE-4C-66-0F-6E-C0-58-EB-00-C5-FA-11-00-4D-85-F6-E9-0B-1E-7B-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>A41034</Offset>
+      <ValueOn>E9-C7-E1-84-01-90-90</ValueOn>
+      <ValueOff>C5-FA-11-00-4D-85-F6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Crafting Stock" Description="This will set all your existing crafting items to 999,999 when you open crafting mode. Items must have at least 1 piece in stock for it to update their quantity. Make sure to enable the cheat before entering crafting mode and disable it when the quantities change take effect.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F250</Offset>
+      <ValueOn>C7-46-20-3F-42-0F-00-8B-46-20-89-47-20-E9-B1-54-E8-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>11470D</Offset>
+      <ValueOn>E9-3E-AB-17-02-90</ValueOn>
+      <ValueOff>8B-46-20-89-47-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Minimum Building Requirement" Description="When activated, building material requirements will be set to 1. If you want to disable this option after it took effect, you will need to restart the game in order to restore building material requirements.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>228F270</Offset>
+      <ValueOn>C7-43-08-01-00-00-00-44-8B-63-08-45-85-E4-E9-99-51-61-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>8A4415</Offset>
+      <ValueOn>E9-56-AE-9E-01-90-90</ValueOn>
+      <ValueOff>44-8B-63-08-45-85-E4</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
