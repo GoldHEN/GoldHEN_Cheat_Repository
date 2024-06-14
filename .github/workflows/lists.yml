@@ -12,13 +12,13 @@ jobs:
     steps:
 
       - name: Checkout files
-        uses: actions/checkout@v4
+        uses: actions/checkout@main
 
       - name: Normalize json data
         run: python .ci/normalize-json.py
 
       - name: checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@main
         with:
           repository: michaelrsweet/mxml
           path: mxml
@@ -34,8 +34,6 @@ jobs:
         run: |
           sudo make
           sudo make install
-
-      
 
       - name: Create list files
         run: |
