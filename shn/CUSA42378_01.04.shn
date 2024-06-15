@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Contra.Operation.Galuga" Moder="Ali-mk" Cusa="CUSA42378" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-lives">
+    <Cheatline>
+      <Offset>8082972A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>45-89-7D-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-CREDITS">
+    <Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>84423800</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-FF-C9-9A-3B-29-48-38-E9-90-E6-25-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>81681E93</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-68-19-DA-02-90-90-90-90-90</ValueOn>
+      <ValueOff>29-48-38-48-8B-05-DB-94-34-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Invincible-not all-enemy">
+    <Cheatline>
+      <Offset>80B4227B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-E8-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
