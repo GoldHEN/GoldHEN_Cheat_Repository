@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil - Code - Veronica X" Moder="Ali-mk" Cusa="CUSA07104" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>807FD7F600</Offset>
+      <Section>0</Section>
+      <ValueOn>99</ValueOn>
+      <ValueOff>23</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>807FD7F601</Offset>
+      <Section>0</Section>
+      <ValueOn>99</ValueOn>
+      <ValueOff>10</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="rocket-Launeher">
+    <Cheatline>
+      <Offset>808003337A</Offset>
+      <Section>0</Section>
+      <ValueOn>01-FF</ValueOn>
+      <ValueOff>01-FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>8080033378</Offset>
+      <Section>0</Section>
+      <ValueOn>01-FF</ValueOn>
+      <ValueOff>01-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Linear-Launeher">
+    <Cheatline>
+      <Offset>808003337E</Offset>
+      <Section>0</Section>
+      <ValueOn>0B-FF</ValueOn>
+      <ValueOff>0B-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Lnk-Ribbon">
+    <Cheatline>
+      <Offset>808003337E</Offset>
+      <Section>0</Section>
+      <ValueOn>1F-FF</ValueOn>
+      <ValueOff>1F-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Grenade-Launcher">
+    <Cheatline>
+      <Offset>808003337E</Offset>
+      <Section>0</Section>
+      <ValueOn>06-FF</ValueOn>
+      <ValueOff>06-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Shotgun">
+    <Cheatline>
+      <Offset>808003337E</Offset>
+      <Section>0</Section>
+      <ValueOn>04-FF</ValueOn>
+      <ValueOff>04-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Magnum">
+    <Cheatline>
+      <Offset>8080033386</Offset>
+      <Section>0</Section>
+      <ValueOn>20-FF</ValueOn>
+      <ValueOff>20-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
