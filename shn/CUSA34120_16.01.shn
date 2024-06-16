@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Monster Hunter Rise Sunbreak" Moder="d01v" Cusa="CUSA34119" Version="16.01" Process="eboot.bin">
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Monster Hunter Rise Sunbreak" Moder="d01v" Cusa="CUSA34120" Version="16.01" Process="eboot.bin">
   <Genres Name="Action" />
   <Items />
   <Cheat Text="Backport 505-9 only">
