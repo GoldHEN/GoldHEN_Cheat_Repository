@@ -1,0 +1,823 @@
+{
+  "name": "Monster Hunter Rise Sunbreak",
+  "id": "CUSA34120",
+  "version": "16.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Backport 505-9 only",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84894F1",
+          "on": "C390",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Master Code Item id modifier",
+      "description": "there are some bugs item id, it may break your item, i recommend you use multitrainer for manual id input, how to use: move your item into free space inventory slot",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489501",
+          "on": "4889F3EB219066FFC2895010C6401401E98EE906F99066FFCA895010C6401401E97EE906F990895010E975E906F9",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14F7E9E",
+          "on": "E95E16F90690",
+          "off": "4889F3895010"
+        }
+      ]
+    },
+    {
+      "name": "increase item id (MC id)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489504",
+          "on": "EB01",
+          "off": "EB21"
+        }
+      ]
+    },
+    {
+      "name": "decrease item id (MC id)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489504",
+          "on": "EB11",
+          "off": "EB21"
+        }
+      ]
+    },
+    {
+      "name": "item 99",
+      "description": "move item into free space inventory / pouch slot",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489541",
+          "on": "410F47C6B863000000014114E965E906F990",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14F7EB0",
+          "on": "E98C16F9069090",
+          "off": "410F47C6014114"
+        }
+      ]
+    },
+    {
+      "name": "Infinite wirebug",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489561",
+          "on": "C7401000000000C5FA104010E9E0E536FA90",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "27F7B4D",
+          "on": "E90F1AC905",
+          "off": "C5FA104010"
+        }
+      ]
+    },
+    {
+      "name": "Infinite health",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489581",
+          "on": "C5FA104060C5FA114110E93CA96BFB90",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "3B43EC7",
+          "on": "E9B5569404",
+          "off": "C5FA104110"
+        }
+      ]
+    },
+    {
+      "name": "Infinite stamina",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84895A1",
+          "on": "C5FA10407CC5FA114124C5FA104124E9B1AA6BFB",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3B44061",
+          "on": "E93B559404",
+          "off": "C5FA104124"
+        }
+      ]
+    },
+    {
+      "name": "Hunger disable",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84895C1",
+          "on": "C5FA104128C7412CF0237449E9CBF88DF890",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D68E98",
+          "on": "E924077207",
+          "off": "C5FA104128"
+        }
+      ]
+    },
+    {
+      "name": "Max Attack",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84895E1",
+          "on": "C7403CF0237449C5FA10403CC5FA11403CE94B3A36FA",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "27ED03D",
+          "on": "E99FC5C905",
+          "off": "C5FA11403C"
+        }
+      ]
+    },
+    {
+      "name": "Max Defense",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489611",
+          "on": "C74050F0237449C5FA104050C5FA114050E9074D36FA",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "27EE329",
+          "on": "E9E3B2C905",
+          "off": "C5FA114050"
+        }
+      ]
+    },
+    {
+      "name": "Max Affinity",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27EF400",
+          "on": "0F4FC8",
+          "off": "0F4CC8"
+        }
+      ]
+    },
+    {
+      "name": "Stop Quest timer",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489641",
+          "on": "C5F25FCAC5FA10490CC5FA1109E998E1DFF9",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "22877E3",
+          "on": "E9591E2006909090",
+          "off": "C5F25FCAC5FA1109"
+        }
+      ]
+    },
+    {
+      "name": "Easy capture and Easy kill",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489661",
+          "on": "C740100000C842C5FA104010E9E129A5F890",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "EDC04E",
+          "on": "E90ED65A07",
+          "off": "C5FA104010"
+        }
+      ]
+    },
+    {
+      "name": "Run Speed",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489681",
+          "on": "41C7474CCDCCCC3DC4C17A10474CC4C17A11474CE9CFA204FC90",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "44D3963",
+          "on": "E9195DFB0390",
+          "off": "C4C17A11474C"
+        }
+      ]
+    },
+    {
+      "name": "Max sharpness",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84896B1",
+          "on": "C783E801000006000000C783EC010000E7030000C783F0010000E70300008B83E8010000E99DFAF0F990",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2399171",
+          "on": "E93B050F0690",
+          "off": "8B83E8010000"
+        }
+      ]
+    },
+    {
+      "name": "Zenny",
+      "description": "open menu",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84896F1",
+          "on": "488B4058C740183F420F00C7401C3F420F008B4018E9E4033EFA",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2869AE8",
+          "on": "E904FCC1059090",
+          "off": "488B40588B4018"
+        }
+      ]
+    },
+    {
+      "name": "Kamura points",
+      "description": "open menu",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489721",
+          "on": "488B4960C741103F420F00C741143F420F00C741203F420F004885C9E97D9867F990",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B02FB8",
+          "on": "E9646798069090",
+          "off": "488B49604885C9"
+        }
+      ]
+    },
+    {
+      "name": "Wyvern riding time",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489761",
+          "on": "C5FA1080DC000000C5FA1180D8000000E9EFA896FA90",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2DF405D",
+          "on": "E9FF566905909090",
+          "off": "C5FA1180D8000000"
+        }
+      ]
+    },
+    {
+      "name": "Longsword spirit gauge ",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489791",
+          "on": "C783F809000003000000C783F40900000000C8424C63A3F8090000E9BF5D64F8",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "ACF569",
+          "on": "E923A29B079090",
+          "off": "4C63A3F8090000"
+        }
+      ]
+    },
+    {
+      "name": "Dual Blade Demon gauge",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84897C1",
+          "on": "C5FA1083D0090000C5FA1183E8090000E953FC32FB90",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "37B9421",
+          "on": "E99B03CD04909090",
+          "off": "C5FA118BE8090000"
+        }
+      ]
+    },
+    {
+      "name": "Gunlance shell",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84897F1",
+          "on": "8B868006000089867C060000E94997F9FA90",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3422F45",
+          "on": "E9A768060590",
+          "off": "89867C060000"
+        }
+      ]
+    },
+    {
+      "name": "Gunlance stake",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F7DF0D",
+          "on": "41C687200A000001",
+          "off": "41C687200A000000"
+        }
+      ]
+    },
+    {
+      "name": "Gunlance wyrmstake cannon",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A2A129",
+          "on": "C5FA1188F4010000",
+          "off": "C5FA1180F4010000"
+        }
+      ]
+    },
+    {
+      "name": "Switchaxe Gauge",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D5E98B",
+          "on": "0F4FC8",
+          "off": "0F4CC8"
+        }
+      ]
+    },
+    {
+      "name": "Switchaxe ampede state",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489821",
+          "on": "C5FA108B740A0000C5FA118B7C0A0000E9704E8DF890",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D5E69E",
+          "on": "E97EB17207909090",
+          "off": "C5FA118B7C0A0000"
+        }
+      ]
+    },
+    {
+      "name": "Switchaxe ampede timer",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D5E7A0",
+          "on": "C783840A0000F0237449",
+          "off": "C783840A000000C02845"
+        }
+      ]
+    },
+    {
+      "name": "Chargeblade phial",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489851",
+          "on": "4C89FE41C787E809000006000000458BBFE8090000E95B62F6FA",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "33EFABC",
+          "on": "E9909D09059090909090",
+          "off": "4C89FE458BBFE8090000"
+        }
+      ]
+    },
+    {
+      "name": "Chargeblade no overheat",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489881",
+          "on": "41C786080A000000000000C4C17A1086080A0000C4C17A1186080A0000E9FD8AA3FA",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2EC2397",
+          "on": "E9E5745C0590909090",
+          "off": "C4C17A1186080A0000"
+        }
+      ]
+    },
+    {
+      "name": "Chargeblade element boost",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84898C1",
+          "on": "C786280A0000804FC347C5FA1086280A0000E920B9A3FA90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2EC51F0",
+          "on": "E9CC465C05909090",
+          "off": "C5FA1086280A0000"
+        }
+      ]
+    },
+    {
+      "name": "Chargeblade sword boost",
+      "description": "you need to do Sword: Condensed Element Slash",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84898F1",
+          "on": "C7862C0A0000804FC347C5FA108E2C0A0000E9F8B8A3FA90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2EC51F8",
+          "on": "E9F4465C05909090",
+          "off": "C5FA108E2C0A0000"
+        }
+      ]
+    },
+    {
+      "name": "Insect glaive kinsect stamina",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489921",
+          "on": "C4C17A108770010000C4C17A11876C010000E98C426FFB90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3B7DBBB",
+          "on": "E961BD900490909090",
+          "off": "C4C17A11876C010000"
+        }
+      ]
+    },
+    {
+      "name": "Insect glaive extract 1",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489951",
+          "on": "C783440A0000804FC347C5F82E83440A0000E9F3FF8CF890",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D59953",
+          "on": "E9F9FF7207909090",
+          "off": "C5F82E83440A0000"
+        }
+      ]
+    },
+    {
+      "name": "Insect glaive extract 2",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489981",
+          "on": "C783480A0000804FC347C5F82E83480A0000E921008DF890",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D599B1",
+          "on": "E9CBFF7207909090",
+          "off": "C5F82E83480A0000"
+        }
+      ]
+    },
+    {
+      "name": "Insect glaive extract 3",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84899B1",
+          "on": "C7834C0A0000804FC347C5F82E834C0A0000E919008DF890",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D599D9",
+          "on": "E9D3FF7207909090",
+          "off": "C5F82E834C0A0000"
+        }
+      ]
+    },
+    {
+      "name": "Grabbed by boss disabled",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A23D4C",
+          "on": "90909090909090",
+          "off": "41898D28080000"
+        }
+      ]
+    },
+    {
+      "name": "Buffs attack",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84899E1",
+          "on": "C78088000000804FC34752BAE703000089507C5AC5FA108088000000E97DE759FA90",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A28177",
+          "on": "E96518A605909090",
+          "off": "C5FA108088000000"
+        }
+      ]
+    },
+    {
+      "name": "Buffs defence",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489A21",
+          "on": "C7808C000000804FC34751B9E703000089888000000059C5FA10888C000000E94CFF59FA",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A29989",
+          "on": "E99300A605909090",
+          "off": "C5FA10888C000000"
+        }
+      ]
+    },
+    {
+      "name": "Buffs affinity",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489A61",
+          "on": "C780AC000000804FC347415441BCE70300004489A0B0000000415CC5F82E80AC000000E9D45336FA",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "27EEE55",
+          "on": "E907ACC905909090",
+          "off": "C5F82E80AC000000"
+        }
+      ]
+    },
+    {
+      "name": "Buffs stamina use reduced",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489AA1",
+          "on": "C78094000000804FC347C5FA108894000000E9E9E759FA90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A28299",
+          "on": "E90318A605909090",
+          "off": "C5FA108894000000"
+        }
+      ]
+    },
+    {
+      "name": "Buffs elemental",
+      "description": "not sure what is this",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489AD1",
+          "on": "C780A0000000804FC347C5F82E88A0000000E9122736FA90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "27EC1F2",
+          "on": "E9DAD8C905909090",
+          "off": "C5F82E88A0000000"
+        }
+      ]
+    },
+    {
+      "name": "Buffs status buildup",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489B01",
+          "on": "C780A4010000804FC347C5F82E80A4010000E905F559FA90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A29015",
+          "on": "E9E70AA605909090",
+          "off": "C5F82E80A4010000"
+        }
+      ]
+    },
+    {
+      "name": "Buffs knockback",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489B31",
+          "on": "C780A8000000804FC347C5F82E80A8000000E946E859FA90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A28386",
+          "on": "E9A617A605909090",
+          "off": "C5F82E80A8000000"
+        }
+      ]
+    },
+    {
+      "name": "Buffs immunity",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489B61",
+          "on": "C780D4000000804FC347C5F82E80D4000000E963E759FA90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A282D3",
+          "on": "E98918A605909090",
+          "off": "C5F82E80D4000000"
+        }
+      ]
+    },
+    {
+      "name": "Buffs natural healing up",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489B91",
+          "on": "C780E0000000804FC347C5FA1088E0000000E943E859FA90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A283E3",
+          "on": "E9A917A605909090",
+          "off": "C5FA1088E0000000"
+        }
+      ]
+    },
+    {
+      "name": "Debuffs less stun timer",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A547E3",
+          "on": "9090909090909090",
+          "off": "C5FA1183A8080000"
+        }
+      ]
+    },
+    {
+      "name": "Debuffs iceblight disable",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489BC1",
+          "on": "41C78424DC08000000000000C4C17AC28424DC08000001E971075AFA",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A2A343",
+          "on": "E979F8A505909090909090",
+          "off": "C4C17AC28424DC08000001"
+        }
+      ]
+    },
+    {
+      "name": "Debuffs poison disable",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A54642",
+          "on": "9090909090909090",
+          "off": "C5FA1183A4080000"
+        }
+      ]
+    },
+    {
+      "name": "Debuffs bleed disabled",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489BF1",
+          "on": "C7831409000000000000C5F82E8314090000E963E85AFA90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A38463",
+          "on": "E98917A505909090",
+          "off": "C5F82E8314090000"
+        }
+      ]
+    },
+    {
+      "name": "Debuffs Frenzy1 disabled",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489C21",
+          "on": "41C784241C09000000000000C4C1782E84241C090000E9BAFB59FA90",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A297EC",
+          "on": "E93004A6059090909090",
+          "off": "C4C1782E84241C090000"
+        }
+      ]
+    },
+    {
+      "name": "Debuffs Frenzy2 disabled",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8489C51",
+          "on": "41C784242C09000000000000C4C17A1084242C090000E92EFC59FA90",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A29890",
+          "on": "E9BC03A6059090909090",
+          "off": "C4C17A1084242C090000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
+}
