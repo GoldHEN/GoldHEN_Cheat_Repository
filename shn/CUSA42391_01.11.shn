@@ -1,47 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="High on Life" Moder="Q8Despair" Cusa="CUSA42391" Version="01.11" Process="eboot.bin">
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="High on Life" Moder="2B, Q8Despair" Cusa="CUSA42391" Version="01.11" Process="eboot.bin">
   <Genres Name="Action" />
   <Items />
-  <Cheat Text="Guns No Reload ">
+  <Cheat Text="Inf HP">
     <Cheatline>
       <Section>0</Section>
-      <Offset>808380E</Offset>
-      <ValueOn>41-C7-85-E0-00-00-00-0F-00-00-00-E9-89-44-DB-F8</ValueOn>
+      <Offset>8083800</Offset>
+      <ValueOn>81-7A-10-40-96-66-02-75-0C-C7-43-3C-00-C0-79-44-E9-31-0E-71-FA-C5-FA-11-4A-3C-E9-27-0E-71-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2794641</Offset>
+      <ValueOn>E9-BA-F1-8E-05</ValueOn>
+      <ValueOff>C5-FA-11-4A-3C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>8483800</Offset>
+      <ValueOn>41-C7-85-E0-00-00-00-0F-00-00-00-E9-97-44-DB-F8</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
+      <Absolute>True</Absolute>
       <Section>0</Section>
-      <Offset>E37CA0</Offset>
-      <ValueOn>E9-69-BB-24-07-90-90</ValueOn>
+      <Offset>1237CA0</Offset>
+      <ValueOn>E9-5B-BB-24-07-90-90</ValueOn>
       <ValueOff>41-89-8D-E0-00-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite Health">
+  <Cheat Text="Inf Dashes">
     <Cheatline>
+      <Absolute>True</Absolute>
       <Section>0</Section>
-      <Offset>8083820</Offset>
-      <ValueOn>C7-42-38-00-00-FA-43-E9-FC-0D-71-FA</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Section>0</Section>
-      <Offset>2794623</Offset>
-      <ValueOn>E9-F8-F1-8E-05</ValueOn>
-      <ValueOff>C5-FA-11-4A-38</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Infinite Dashes">
-    <Cheatline>
-      <Section>0</Section>
-      <Offset>808382E</Offset>
-      <ValueOn>C7-83-D8-10-00-00-00-00-48-42-E9-83-E4-7B-FA</ValueOn>
+      <Offset>8483824</Offset>
+      <ValueOn>C7-83-D8-10-00-00-00-00-48-42-E9-8D-E4-7B-FA</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
+      <Absolute>True</Absolute>
       <Section>0</Section>
-      <Offset>2841CB8</Offset>
-      <ValueOn>E9-71-1B-84-05-90-90-90</ValueOn>
+      <Offset>2C41CB8</Offset>
+      <ValueOn>E9-67-1B-84-05-90-90-90</ValueOn>
       <ValueOff>C5-FA-11-8B-D8-10-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Pesos (on gain)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>848383F</Offset>
+      <ValueOn>C7-43-10-7F-96-98-00-E9-D2-F8-6D-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>2B63117</Offset>
+      <ValueOn>E9-23-07-92-05-90</ValueOn>
+      <ValueOff>89-4B-10-4C-89-FF</ValueOff>
     </Cheatline>
   </Cheat>
 </Trainer>
