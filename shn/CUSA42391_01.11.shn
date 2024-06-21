@@ -16,6 +16,20 @@
       <ValueOff>C5-FA-11-4A-3C</ValueOff>
     </Cheatline>
   </Cheat>
+  <Cheat Text="Inf Fuel">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>8083852</Offset>
+      <ValueOn>C7-83-D8-10-00-00-00-00-7A-44-E9-1A-E5-7B-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2841D73</Offset>
+      <ValueOn>E9-DA-1A-84-05-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-8B-D8-10-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
   <Cheat Text="no Reload">
     <Cheatline>
       <Section>0</Section>
@@ -28,20 +42,6 @@
       <Offset>E37CA0</Offset>
       <ValueOn>E9-7C-BB-24-07-90-90</ValueOn>
       <ValueOff>41-89-8D-E0-00-00-00</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Inf Fuel">
-    <Cheatline>
-      <Section>0</Section>
-      <Offset>8083833</Offset>
-      <ValueOn>C7-83-D8-10-00-00-00-00-48-42-E9-39-E5-7B-FA</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Section>0</Section>
-      <Offset>2841D73</Offset>
-      <ValueOn>E9-BB-1A-84-05-90-90-90</ValueOn>
-      <ValueOff>C5-FA-10-8B-D8-10-00-00</ValueOff>
     </Cheatline>
   </Cheat>
   <Cheat Text="Inf Pesos (on gain)">
