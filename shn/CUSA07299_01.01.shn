@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="ultra despair girls" Moder="2B" Cusa="CUSA07299" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf HP">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>36F841</Offset>
+      <ValueOn>49-81-FB-06-02-00-00-75-0E-66-C7-83-BE-00-00-00-04-00-E9-87-F2-CE-FF-66-89-B3-BE-00-00-00-E9-7B-F2-CE-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>5EAD8</Offset>
+      <ValueOn>E9-64-0D-31-00-90-90</ValueOn>
+      <ValueOff>66-89-B3-BE-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Battery">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>36F824</Offset>
+      <ValueOn>41-C7-84-24-24-01-00-00-00-00-C8-42-C4-C1-7A-10-84-24-24-01-00-00-E9-8C-7F-CE-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>577C1</Offset>
+      <ValueOn>E9-5E-80-31-00-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-24-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="no Reload">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>36F800</Offset>
+      <ValueOn>66-43-C7-84-7E-C4-00-00-00-63-00-E9-FC-32-CF-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>62B03</Offset>
+      <ValueOn>E9-F8-CC-30-00-90-90-90-90</ValueOn>
+      <ValueOff>66-43-89-8C-7E-C4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Money (on get}">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>36F812</Offset>
+      <ValueOn>41-C7-86-34-01-00-00-3F-42-0F-00-E9-58-B1-D3-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>AA973</Offset>
+      <ValueOn>E9-9A-4E-2C-00-90-90</ValueOn>
+      <ValueOff>41-89-86-34-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Slash Lust">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>36F866</Offset>
+      <ValueOn>49-83-F8-42-75-0F-66-41-C7-86-28-01-00-00-06-00-E9-6F-49-CF-FF-66-41-89-86-28-01-00-00-E9-62-49-CF-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>641E2</Offset>
+      <ValueOn>E9-7F-B6-30-00-90-90-90</ValueOn>
+      <ValueOff>66-41-89-86-28-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

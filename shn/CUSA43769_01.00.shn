@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Vostok 2061" Moder="Ali-mk" Cusa="CUSA43769" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>7B8538</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-15-02-7C-7D-01</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>811E2269</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-52-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>811E243F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-All-Weapon">
+    <Cheatline>
+      <Offset>810BD11D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-46-34</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-SCORE">
+    <Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>821BFF02</Offset>
+      <Section>0</Section>
+      <ValueOn>81-40-20-0F-27-00-00-E9-11-FA-30-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>814CF918</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E5-05-CF-00-90-90</ValueOn>
+      <ValueOff>01-48-20-48-8B-43-70</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
