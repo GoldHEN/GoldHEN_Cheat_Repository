@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="River City Girls Zero" Moder="Saso" Cusa="CUSA29772" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf HP / 1 Hit Kill (Master Code)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>60F800</Offset>
+      <ValueOn>41-50-4C-8D-84-07-C0-01-00-00-66-41-81-F8-E4-21-74-1C-66-41-81-F8-E6-21-74-14-66-41-81-F8-E8-21-74-0C-66-41-81-F8-EA-21-74-04-EB-02-B2-FF-41-58-88-94-07-C0-01-00-00-C3-66-41-81-F8-EC-21-74-1A-66-41-81-F8-EE-21-74-12-66-41-81-F8-F0-21-74-0A-66-41-81-F8-F2-21-74-02-EB-D4-30-D2-EB-D0</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>4F1B42</Offset>
+      <ValueOn>E9-B9-DC-11-00-90-90</ValueOn>
+      <ValueOff>88-94-07-C0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Kunio (MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>60F810</Offset>
+      <ValueOn>74-1A</ValueOn>
+      <ValueOff>74-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Riki (MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>60F818</Offset>
+      <ValueOn>74-12</ValueOn>
+      <ValueOff>74-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Misako (MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>60F820</Offset>
+      <ValueOn>74-0A</ValueOn>
+      <ValueOff>74-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Kyoko (MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>60F828</Offset>
+      <ValueOn>74-02</ValueOn>
+      <ValueOff>74-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill (MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>60F82A</Offset>
+      <ValueOn>EB-0C</ValueOn>
+      <ValueOff>EB-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
