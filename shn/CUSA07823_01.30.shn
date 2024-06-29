@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?><Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Borderlands 3" Moder="Celogamez" Cusa="CUSA07823" Version="01.30" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Health/1 Hit Kill/Shield/Action (MASTERCODE/MUST BE ON)">
+    <Cheatline>
+      <Offset>A3A7DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>83-BB-1C-01-00-00-00-75-22-C5-FA-11-8B-A0-00-00-00-C5-FA-11-8B-A0-00-00-00-E9-FA-5D-BA-FA-C5-FA-11-8B-A0-00-00-00-E9-ED-5D-BA-FA-49-83-FD-60-75-0D-C5-FA-11-8B-A0-00-00-00-E9-DA-5D-BA-FA-81-BB-1C-01-00-00-00-00-48-43-75-15-C5-FA-11-8B-A0-00-00-00-C5-FA-11-8B-A0-00-00-00-E9-B9-5D-BA-FA-81-BB-1C-01-00-00-00-00-20-41-75-B3-C5-FA-11-8B-A0-00-00-00-E9-A0-5D-BA-FA</ValueOn>      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4F4DBC0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EB-A1-45-05-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-A0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>A3A7DB9</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-8B-AC-00-00-00</ValueOn>
+      <ValueOff>C5-FA-11-8B-A0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit kill">
+    <Cheatline>
+      <Offset>A3A7DE1</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-83-A0-00-00-00</ValueOn>
+      <ValueOff>C5-FA-11-8B-A0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Shield">
+    <Cheatline>
+      <Offset>A3A7DFA</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-8B-AC-00-00-00</ValueOn>
+      <ValueOff>C5-FA-11-8B-A0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Action (When Full)">
+    <Cheatline>
+      <Offset>A3A7E1B</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-8B-A0-00-00-00</ValueOn>
+      <ValueOff>C5-FA-11-8B-A0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo/No Reload">
+    <Cheatline>
+      <Offset>55BA794</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>4C-89-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>55BA78D</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8B-87-B0-01-00-00</ValueOn>
+      <ValueOff>41-89-87-B0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Grenades">
+    <Cheatline>
+      <Offset>A3A7BA0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-A0-00-00-00-00-00-40-40-E9-B5-AD-BA-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4F5295C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3F-52-45-05-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-87-A0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Money On Pick Up">
+    <Cheatline>
+      <Offset>A3A7B20</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BD-FF-E0-F5-05-44-03-6C-18-18-E9-AE-46-10-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>54AC1D9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-42-B9-EF-04</ValueOn>
+      <ValueOff>44-03-6C-18-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Skill Points On Use">
+    <Cheatline>
+      <Offset>A3A74A0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-86-60-01-00-00-64-E9-03-91-7B-F6</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B605A9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F2-6E-84-09-90-90</ValueOn>
+      <ValueOff>41-89-8E-60-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP/ Levels On Kill">
+    <Cheatline>
+      <Offset>139C810</Offset>
+      <Section>0</Section>
+      <ValueOn>89-BB-C4-01-00-00</ValueOn>
+      <ValueOff>89-93-C4-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									
