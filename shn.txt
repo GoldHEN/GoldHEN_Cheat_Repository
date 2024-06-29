@@ -418,6 +418,7 @@ CUSA35744_01.02.shn=infinity strash: dragon quest the adventure of dai!
 SCUS94403_01.00.shn=Philosoma
 CUSA07615_01.09.shn=Yakuza Kiwami
 CUSA09690_01.98.shn=The Long darck
+CUSA07823_01.30.shn=Borderlands 3
 SLUS00970_01.00.shn=Gekido - Urban Fighters
 SLES50193_01.00.shn=Silpheed-The Lost Planet
 CUSA07187_01.01.shn=Final Fantasy 7 Remake
