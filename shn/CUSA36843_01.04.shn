@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Red Dead Redemption" Moder="Celogamez" Cusa="CUSA36843" Version="01.04" Process="eboot.bin">
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>018FBDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-FA-00-75-0F-C5-FA-10-43-24-C5-FA-11-43-20-E9-79-38-65-FF-C5-FA-11-43-20-E9-6F-38-65-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F4F639</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-72-C7-9A-00</ValueOn>
+      <ValueOff>C5-FA-11-43-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina" Description="">
+    <Cheatline>
+      <Offset>018FB8F0</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-55-40-C4-C1-7A-11-55-3C-E9-58-28-6A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F9E153</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-98-D7-95-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-55-3C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>018FB9F0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-04-88-00-00-C6-42-E9-0F-FE-B1-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>41B806</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E5-01-4E-01</ValueOn>
+      <ValueOff>C5-FA-11-0C-88</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload" Description="">
+    <Cheatline>
+      <Offset>018FBB60</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-86-2C-01-00-00-C4-C1-7A-11-86-2C-01-00-00-E9-FF-AB-B1-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>41676D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EE-53-4E-01-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-2C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items On Use" Description="">
+    <Cheatline>
+      <Offset>018FB6A0</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-F8-00-75-10-41-C7-87-A0-00-00-00-63-00-00-00-E9-27-18-CD-FE-41-FF-8F-A0-00-00-00-E9-1B-18-CD-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5CCED6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C5-E7-32-01-90-90</ValueOn>
+      <ValueOff>41-FF-8F-A0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Dead Eye On Use" Description="">
+    <Cheatline>
+      <Offset>018FB870</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-83-D4-03-00-00-C5-FA-11-83-D0-03-00-00-E9-B4-65-C6-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>561E31</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3A-9A-39-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-D0-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money On Buy (Disable After Use)" Description="">
+    <Cheatline>
+      <Offset>018FB840</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-44-C1-08-F0-23-74-49-E9-F3-9C-89-FE-E9-C8-AA-89-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>196315</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-26-55-76-01</ValueOn>
+      <ValueOff>E9-26-F2-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
