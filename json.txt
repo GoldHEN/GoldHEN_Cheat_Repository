@@ -34,6 +34,7 @@ CUSA03840_01.01.json=RESIDENT EVIL 6
 CUSA00557_01.09.json=The Last of Us™ Remastered
 CUSA26098_01.07.json=King's Bounty II
 CUSA15027_01.81.json=DAYS GONE
+CUSA18581_01.17.json=Elden Ring - Shadow of the Erdtree
 CUSA18449_01.12.json=Stranded Deep
 CUSA09303_01.51.json=Assassins Creed® Odyssey
 CUSA28561_01.17.json=Horizon Forbidden West
