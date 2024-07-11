@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="GTA VC Soundtrack Restored Mod" Moder="2pt" Cusa="CUSA26616" Version="01.06" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf Health">
+    <Cheatline>
+      <Offset>585BBDA</Offset>
+      <Section>0</Section>
+      <ValueOn>66-83-FB-00-0F-84-D0-7C-8B-FB-C5-FA-11-83-D4-04-00-00-E9-C3-7C-8B-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11138AC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-29-83-74-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-D4-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Vehicle Collision Damage">
+    <Cheatline>
+      <Offset>11A530B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-85-20-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo">
+    <Cheatline>
+      <Offset>11FEE32</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-4D-08</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11FEE8F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-4D-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
