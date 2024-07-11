@@ -1,6 +1,9 @@
 # GoldHEN Cheat Database
 _Cheat Menu allows you bring up a Menu while in-game for you to select cheats._
 
+# Download Zip Database
+_Zip URL: https://github.com/GoldHEN/GoldHEN_Cheat_Repository/archive/refs/heads/main.zip_
+
 # Initial Cheats Credits
 _Thanks to PS4Trainer For Initial Trainers Database and all Cheats Creators._
 
