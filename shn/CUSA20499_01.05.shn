@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Cuphead" Moder="Celogamez" Cusa="CUSA20499" Version="01.05" Process="eboot.bin">
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>01587DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>44-0F-49-E3-45-8B-66-70-45-89-66-74-E9-D2-9E-3A-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80931C8B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-20-61-C5-80-90-90-90</ValueOn>
+      <ValueOff>44-0F-49-E3-45-89-66-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Extra Special" Description="">
+    <Cheatline>
+      <Offset>01587A50</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-98-00-00-00-00-00-48-42-E9-99-9D-3A-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>809317F0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5B-62-C5-80-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-98-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Plane Extra Special" Description="">
+    <Cheatline>
+      <Offset>01587770</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-98-00-00-00-00-00-48-42-E9-79-A0-3A-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>809317F0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7B-5F-C5-80-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-98-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Gold" Description="">
+    <Cheatline>
+      <Offset>015878E0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-E0-81-FE-7E-C7-40-10-3C-00-00-00-48-63-58-10-E9-43-7E-FE-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8056F72F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AC-81-01-81-90-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-97-03-00-00-48-63-58-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
