@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Medal of Honor  Underground" Moder="Ali-mk" Cusa="SLUS01270" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health+1-hit">
+    <Cheatline>
+      <Offset>1393DE</Offset>
+      <Section>11</Section>
+      <ValueOn>14</ValueOn>
+      <ValueOff>45</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-All-Weapon">
+    <Cheatline>
+      <Offset>1786A2</Offset>
+      <Section>11</Section>
+      <ValueOn>99</ValueOn>
+      <ValueOff>42</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-molotov">
+    <Cheatline>
+      <Offset>134818</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>23</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>1D6540</Offset>
+      <Section>11</Section>
+      <ValueOn>63</ValueOn>
+      <ValueOff>10</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Rapid-Fire">
+    <Cheatline>
+      <Offset>17878C</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>50</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
