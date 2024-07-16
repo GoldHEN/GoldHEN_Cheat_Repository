@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="KH2" Moder="2pt" Cusa="CUSA05933" Version="01.04" Process="kingdom2.elf">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf Health">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>5EB800</Offset>
+      <ValueOn>66-81-F9-D8-25-74-02-89-01-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2A9E61</Offset>
+      <ValueOn>E9-9A-19-34-00</ValueOn>
+      <ValueOff>89-01-C3-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Mp">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2A9F0B</Offset>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-83-80-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf munny">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>202352</Offset>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>29-98-40-24-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
