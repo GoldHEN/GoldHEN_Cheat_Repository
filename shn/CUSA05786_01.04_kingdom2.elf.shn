@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Kingdom Hearts 2" Moder="2pt" Cusa="CUSA05933" Version="01.04" Process="kingdom2.elf">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf Health Sora">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>5EB800</Offset>
+      <ValueOn>66-81-F9-D8-25-74-02-89-01-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2A9E61</Offset>
+      <ValueOn>E9-9A-19-34-00</ValueOn>
+      <ValueOff>89-01-C3-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Mp All">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2A9F0B</Offset>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-83-80-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2AA4F0</Offset>
+      <ValueOn>C3-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-87-80-01-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Munny Doesn't Decrease On Spend">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>202352</Offset>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>29-98-40-24-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Drive/Summon Amount Doesn't Decrease">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2AA253</Offset>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>88-87-B1-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Drive/Summon Timer Doesn't Decrease">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2AA2FE</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-9B-B4-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Gummi Ship Health Doesn't Decrease">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>C9F10</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-47-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Party Level 99 (on xp gain)" Description="Wait at least until Sora is main character. Not tested before that.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>5EB80C</Offset>
+      <ValueOn>C7-80-E0-36-00-00-8F-E2-2B-00-E9-ED-FB-C7-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>26B402</Offset>
+      <ValueOn>E9-05-04-38-00-90</ValueOn>
+      <ValueOff>89-88-E0-36-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Drive XP 50x">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>5EB81D</Offset>
+      <ValueOn>49-89-C5-41-83-45-04-32-E9-5D-8A-C7-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>264280</Offset>
+      <ValueOn>E9-98-75-38-00-90-90</ValueOn>
+      <ValueOff>49-89-C5-45-01-75-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Summon XP 50x">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>5EB82C</Offset>
+      <ValueOn>83-83-E4-36-00-00-32-E9-6E-63-CC-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2B1B9F</Offset>
+      <ValueOn>E9-88-9C-33-00-90-90</ValueOn>
+      <ValueOff>44-01-B3-E4-36-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Sythesis Doesn't Consume Materials">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>17C623</Offset>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8C-88-34-4A-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>17C602</Offset>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>29-8C-B0-34-4A-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>17C734</Offset>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8C-88-34-4A-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>17C6E4</Offset>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8C-88-34-4A-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>17C694</Offset>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8C-88-34-4A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
