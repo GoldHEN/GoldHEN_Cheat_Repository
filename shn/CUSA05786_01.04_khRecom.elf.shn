@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="KHRECOM" Moder="2pt" Cusa="CUSA05933" Version="01.04" Process="khRecom.elf">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf Health">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>11617D</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-9C-24-44-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Moogle Points">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>16AB98</Offset>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-58-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
