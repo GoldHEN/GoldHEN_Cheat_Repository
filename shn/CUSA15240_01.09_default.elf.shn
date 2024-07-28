@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call Of Duty Modern Warfare" Moder="Celogamez" Cusa="CUSA15240" Version="01.09" Process="default.elf">
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Offset>01F07E00</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-03-48-81-F9-86-12-00-00-75-0C-41-C7-07-00-00-48-43-E9-84-3D-B9-FE-49-89-07-E9-7C-3D-B9-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A9BB96</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-65-C2-46-01-90</ValueOn>
+      <ValueOff>48-8B-03-49-89-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>01F07EB0</Offset>
+      <Section>0</Section>
+      <ValueOn>44-01-F1-48-83-FE-00-75-0C-B9-E7-03-00-00-89-08-E9-C7-AD-8D-FE-89-08-E9-C0-AD-8D-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7E2C87</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-24-52-72-01</ValueOn>
+      <ValueOff>44-01-F1-89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload" Description="">
+    <Cheatline>
+      <Offset>01F07E50</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-95-A0-FD-FF-FF-B9-63-00-00-00-89-4C-90-50-E9-C6-F6-8A-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7B7520</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2B-09-75-01-90-90-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-95-A0-FD-FF-FF-89-4C-90-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Grenades" Description="">
+    <Cheatline>
+      <Offset>01F07E80</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-C9-B9-63-00-00-00-89-48-50-E9-0F-9D-8A-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7B1B99</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E2-62-75-01</ValueOn>
+      <ValueOff>FF-C9-89-48-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Recoil" Description="">
+    <Cheatline>
+      <Offset>01F07EE0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-7E-59-86-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>76D85B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-80-A6-79-01-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-58-86-EC-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

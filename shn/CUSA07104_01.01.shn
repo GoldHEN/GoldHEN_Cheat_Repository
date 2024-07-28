@@ -1,73 +1,147 @@
-<?xml version="1.0" encoding="utf-16"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil - Code - Veronica X" Moder="Ali-mk" Cusa="CUSA07104" Version="01.01" Process="eboot.bin">
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil™ Code: Veronica X" Moder="Saso_9.00" Cusa="CUSA07104" Version="01.01" Process="eboot.bin">
   <Genres Name="Action" />
   <Items />
-  <Cheat Text="Infinite-Health">
+  <Cheat Text="Inf Health/ Timer/Save / No Retries (Master Code)">
     <Cheatline>
-      <Offset>807FD7F600</Offset>
+      <Absolute>True</Absolute>
       <Section>0</Section>
-      <ValueOn>99</ValueOn>
-      <ValueOff>23</ValueOff>
+      <Offset>9A7F9C</Offset>
+      <ValueOn>50-48-05-FC-26-43-00-C6-00-C8-58-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-8A-04-18-0F-B6-C0-E9-BF-E5-E1-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
-	<Cheatline>
-      <Offset>807FD7F601</Offset>
+    <Cheatline>
+      <Absolute>True</Absolute>
       <Section>0</Section>
-      <ValueOn>99</ValueOn>
-      <ValueOff>10</ValueOff>
+      <Offset>7C65A8</Offset>
+      <ValueOn>E9-EF-19-1E-00-90</ValueOn>
+      <ValueOff>8A-04-18-0F-B6-C0</ValueOff>
     </Cheatline>
   </Cheat>
-    <Cheat Text="rocket-Launeher">
+  <Cheat Text="( Magnum Cheat Will Remove Slot1 Item) ">
     <Cheatline>
-      <Offset>808003337A</Offset>
+      <Absolute>True</Absolute>
       <Section>0</Section>
-      <ValueOn>01-FF</ValueOn>
-      <ValueOff>01-FF</ValueOff>
-    </Cheatline>
-	<Cheatline>
-      <Offset>8080033378</Offset>
-      <Section>0</Section>
-      <ValueOn>01-FF</ValueOn>
-      <ValueOff>01-FF</ValueOff>
+      <Offset>9A7FD0</Offset>
+      <ValueOn>00-00</ValueOn>
+      <ValueOff>00-00</ValueOff>
     </Cheatline>
   </Cheat>
-    <Cheat Text="Infinite-Linear-Launeher">
+  <Cheat Text="Clear (Sart With Magnum)+ Inf Ammo">
     <Cheatline>
-      <Offset>808003337E</Offset>
+      <Absolute>True</Absolute>
       <Section>0</Section>
-      <ValueOn>0B-FF</ValueOn>
-      <ValueOff>0B-FF</ValueOff>
-    </Cheatline>
-  </Cheat>
-    <Cheat Text="Lnk-Ribbon">
-    <Cheatline>
-      <Offset>808003337E</Offset>
-      <Section>0</Section>
-      <ValueOn>1F-FF</ValueOn>
-      <ValueOff>1F-FF</ValueOff>
-    </Cheatline>
-  </Cheat>
-    <Cheat Text="Grenade-Launcher">
-    <Cheatline>
-      <Offset>808003337E</Offset>
-      <Section>0</Section>
-      <ValueOn>06-FF</ValueOn>
-      <ValueOff>06-FF</ValueOff>
-    </Cheatline>
-  </Cheat>
-    <Cheat Text="Infinite-Shotgun">
-    <Cheatline>
-      <Offset>808003337E</Offset>
-      <Section>0</Section>
-      <ValueOn>04-FF</ValueOn>
-      <ValueOff>04-FF</ValueOff>
-    </Cheatline>
-  </Cheat>
-    <Cheat Text="Infinite-Magnum">
-    <Cheatline>
-      <Offset>8080033386</Offset>
-      <Section>0</Section>
+      <Offset>800043337A</Offset>
       <ValueOn>20-FF</ValueOn>
-      <ValueOff>20-FF</ValueOff>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Chris (Sart With Magnum)+ Inf Ammo">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>80004333B6</Offset>
+      <ValueOn>20-FF</ValueOn>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Steve (Sart With Magnum)+ Inf Ammo">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>80004333F6</Offset>
+      <ValueOn>20-FF</ValueOn>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Wesker (Sart With Magnum)+ Inf Ammo">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>8000433436</Offset>
+      <ValueOn>20-FF</ValueOn>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Items In Chest + (Inf Ammo)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>8000433478</Offset>
+      <ValueOn>01-00-01-FF-01-00-02-FF-01-00-03-FF-01-00-04-FF-01-00-05-FF-01-00-06-FF-01-00-07-FF-01-00-08-FF-01-00-09-FF-01-00-0A-FF-00-00-0B-FF-01-00-0C-FF-01-00-0D-FF-01-00-0E-FF-01-00-0F-FF-01-00-10-FF-01-00-11-00-03-00-12-FF-01-00-13-FF-01-00-14-FF-01-00-15-FF-01-00-16-FF-01-00-17-FF-01-00-18-FF-01-00-19-FF-01-00-1A-FF-01-00-1B-FF-01-00-1C-FF-01-00-1D-FF-01-00-1E-FF-01-00-1F-FF-01-00-20-FF-01-00-21-FF-01-00-22-FF-01-00-23-FF-01-00-24-FF-01-00-25-FF-01-00-26-FF-01-00-27-FF-01-00-28-FF-01-00-29-FF-01-00-2A-FF-01-00-2B-FF-01-00-2C-FF-01-00-2D-FF-01-00-2E-FF-01-00-2F-FF-01-00-30-FF-01-00-31-FF-01-00-32-FF-01-00-33-FF-01-00-34-FF-01-00-35-FF-01-00-36-FF-01-00-37-FF-01-00-38-FF-01-00-39-FF-01-00-3A-FF-01-00-3B-FF-01-00-3C-FF-01-00-3D-FF-01-00-3E-FF-01-00-3F-FF-01-00-40-FF-01-00-41-FF-01-00-42-FF-01-00-43-FF-01-00-44-FF-01-00-45-FF-01-00-46-FF-01-00-47-FF-01-00-48-FF-01-00-49-FF-01-00-4A-FF-01-00-4B-FF-01-00-4C-FF-01-00-4D-FF-01-00-4E-FF-01-00-4F-FF-01-00-50-FF-01-00-51-FF-01-00-52-FF-01-00-53-FF-01-00-54-FF-01-00-55-FF-01-00-56-FF-01-00-57-FF-01-00-58-FF-01-00-59-FF-01-00-5A-FF-01-00-5B-FF-01-00-5C-FF-01-00-5D-FF-01-00-5E-FF-01-00-5F-FF-01-00-60-FF-01-00-61-FF-01-00-62-FF-01-00-63-FF-01-00-64-FF-01-00-65-FF-01-00-66-FF-01-00-67-FF-01-00-68-FF-01-00-69-FF-01-00-6A-FF-01-00-6B-FF-01-00-6C-FF-01-00-6D-FF-01-00-6E-FF-01-00-6F-FF-01-00-70-FF-01-00-71-FF-01-00-72-FF-01-00-73-FF-01-00-74-FF-01-00-75-FF-01-00-76-FF-01-00-77-FF-01-00-78-FF-01-00-79-FF-01-00-7A-FF-01-00-7B-FF-01-00-7C-FF-01-00-7D-FF-01-00-7E-FF-01-00-7F-FF-01-00-80-FF-01-00-81-FF-01-00-82-FF-01-00-83-FF-01-00-84-FF-01-00-85-FF-01-00-86-FF-01-00-87-FF-01-00-88-FF-01-00-89-FF-01-00-8A-FF-01-00-8B-FF-01-00-8C-FF-01-00-8D-FF-01-00-8E-FF-01-00-8F-FF-01-00-90-FF-01-00-91-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlock All Extras">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>8000433104</Offset>
+      <ValueOn>FF-FF</ValueOn>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Have No More Than 10% Health (MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>9A7FA3</Offset>
+      <ValueOn>C6-00-0A</ValueOn>
+      <ValueOff>C6-00-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Have No More Than 28% Health (MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>9A7FA3</Offset>
+      <ValueOn>C6-00-28</ValueOn>
+      <ValueOff>C6-00-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Have No More Than 50% Health (MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>9A7FA3</Offset>
+      <ValueOn>C6-00-50</ValueOn>
+      <ValueOff>C6-00-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Have No More Than 75% Health (MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>9A7FA3</Offset>
+      <ValueOn>C6-00-78</ValueOn>
+      <ValueOff>C6-00-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Have A Low Game Timer (MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>9A7FA7</Offset>
+      <ValueOn>50-48-05-A0-39-43-00-C7-00-00-00-00-00-58</ValueOn>
+      <ValueOff>90-90-90-90-90-90-90-90-90-90-90-90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Always 1st Save (MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>9A7FB5</Offset>
+      <ValueOn>50-48-05-80-31-43-00-C7-00-00-00-00-00-58</ValueOn>
+      <ValueOff>90-90-90-90-90-90-90-90-90-90-90-90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Retries (MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>9A7FC3</Offset>
+      <ValueOn>50-48-05-AA-39-43-00-C7-00-00-00-00-00-58</ValueOn>
+      <ValueOff>90-90-90-90-90-90-90-90-90-90-90-90-90-90</ValueOff>
     </Cheatline>
   </Cheat>
 </Trainer>
