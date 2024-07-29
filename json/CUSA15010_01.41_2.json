@@ -1,0 +1,158 @@
+{
+  "name": "Call of Duty®: Black Ops Cold War",
+  "id": "CUSA15010",
+  "version": "01.40",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "All Client Godmode",
+      "description": "Offsets From 1.27 By DeathRGH And Rizla Used To Find New Offsets",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12DE150",
+          "on": "C3",
+          "off": "55"
+        },
+        {
+          "offset": "125C6C5",
+          "on": "909090909090",
+          "off": "898190030000"
+        },
+        {
+          "offset": "16C4AB1",
+          "on": "8B186641C78790030000FF7F90909090",
+          "off": "8B1841899F9003000041899F94030000"
+        }
+      ]
+    },
+    {
+      "name": "All Client Infinite Ammo",
+      "description": "Offsets From 1.27 By DeathRGH And Rizla Used To Find New Offsets",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F0AEE0",
+          "on": "C3",
+          "off": "55"
+        },
+        {
+          "offset": "F09EA0",
+          "on": "55",
+          "off": "55"
+        }
+      ]
+    },
+    {
+      "name": "All Client Infinite Aetherium Crystals",
+      "description": "Offsets From 1.27 By DeathRGH And Rizla Used To Find New Offsets",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12EBE9E",
+          "on": "8989245D0000",
+          "off": "8981245D0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "125C6BE",
+          "on": "90909090909090",
+          "off": "488B8D90FEFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Aetherium Crystals",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12EBE97",
+          "on": "909090",
+          "off": "8B45F0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F0AF0E",
+          "on": "9090909090909090",
+          "off": "4189848EDC130000"
+        }
+      ]
+    },
+    {
+      "name": "All Client 1-Hit Kill",
+      "description": "Offsets From 1.27 By DeathRGH And Rizla Used To Find New Offsets",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1500A77",
+          "on": "29C090",
+          "off": "4429F8"
+        }
+      ]
+    },
+    {
+      "name": "No Recoil",
+      "description": "Offsets From 1.27 By DeathRGH And Rizla Used To Find New Offsets",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F436F4",
+          "on": "90909090",
+          "off": "C5FA110E"
+        },
+        {
+          "offset": "F43702",
+          "on": "9090909090",
+          "off": "C5FA114604"
+        }
+      ]
+    },
+    {
+      "name": "No Gun Shake",
+      "description": "Offsets From 1.27 By DeathRGH And Rizla Used To Find New Offsets",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E71579",
+          "on": "90909090909090",
+          "off": "898CF0780E0000"
+        },
+        {
+          "offset": "E71586",
+          "on": "90909090909090",
+          "off": "898CF07C0E0000"
+        }
+      ]
+    },
+    {
+      "name": "Rapid Fire",
+      "description": "Offsets From 1.27 By DeathRGH And Rizla Used To Find New Offsets",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E6CD86",
+          "on": "9090",
+          "off": "8932"
+        },
+        {
+          "offset": "E6CDA8",
+          "on": "9090",
+          "off": "890A"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "EchoStretch"
+  ]
+}
