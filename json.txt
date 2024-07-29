@@ -9,6 +9,7 @@ CUSA04806_01.00.json=Dishonored 2
 CUSA07000_01.11.json=Indivisible
 CUSA14451_01.01.json=Söldner-X 2: Final Prototype Definitive Edition
 CUSA05787_01.00_kh02.elf.json=KINGDOM HEARTS 0.2 Birth by Sleep - A Fragmentary Passage -
+CUSA02290_01.33.json=Call of Duty®: Black Ops III
 CUSA04885_01.01.json=resident evil 4
 CUSA05749_01.07.json=STAR WARS Battlefront II
 SLUS20714_01.00.json=Red Ninja End of Honor
