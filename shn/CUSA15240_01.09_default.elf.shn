@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call Of Duty Modern Warfare" Moder="Celogamez" Cusa="CUSA15240" Version="01.09" Process="default.elf">
-  <Cheat Text="Infinite Health" Description="">
+  <Cheat Text="Infinite Health (Campaign)" Description="">
     <Cheatline>
       <Offset>01F07E00</Offset>
       <Section>0</Section>
-      <ValueOn>48-8B-03-48-81-F9-86-12-00-00-75-0C-41-C7-07-00-00-48-43-E9-84-3D-B9-FE-49-89-07-E9-7C-3D-B9-FE</ValueOn>
+      <ValueOn>48-8B-03-48-81-F9-86-12-00-00-75-0C-41-C7-07-E7-03-00-00-E9-84-3D-B9-FE-49-89-07-E9-7C-3D-B9-FE</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
@@ -12,6 +12,20 @@
       <Section>0</Section>
       <ValueOn>E9-65-C2-46-01-90</ValueOn>
       <ValueOff>48-8B-03-49-89-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health (Multiplayer)" Description="">
+    <Cheatline>
+      <Offset>7FC5FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-FE-00-75-10-41-C7-86-B8-01-00-00-C8-00-00-00-E9-5D-A5-C5-80-41-29-86-B8-01-00-00-E9-51-A5-C5-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8BA31C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8F-5A-3A-7F-90-90</ValueOn>
+      <ValueOff>41-29-86-B8-01-00-00</ValueOff>
     </Cheatline>
   </Cheat>
   <Cheat Text="Infinite Ammo" Description="">
