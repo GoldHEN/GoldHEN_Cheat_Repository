@@ -406,6 +406,7 @@ CUSA10195_01.01.shn=TheBindingOfIsaacAfterbirth
 SLUS20151_01.00.shn=Klonoa 2-Lunateas Veil
 SLUS00433_01.00.shn=Fighting Force (v1.1)
 CUSA10007_01.08.shn=Friday The 13Th The Game
+CUSA01130_01.00.shn=Gravity Rush Remastered
 CUSA04295_01.17.shn=Watch Dogs 2
 CUSA15363_01.01.shn=Yakuza 5
 SLUS21320_01.00.shn=Rogue Trooper
