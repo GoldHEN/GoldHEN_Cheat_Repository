@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Elden Ring" Moder="Celogamez" Cusa="CUSA18723" Version="01.19" Process="eboot.bin">
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Elden Ring" Moder="Celogamez" Cusa="CUSA28863" Version="01.19" Process="eboot.bin">
   <Genres Name="RPG" />
   <Items />
   <Cheat Text="Infinite Health/1 Hit Kill (MASTERCODE/MUST BE ON)">
