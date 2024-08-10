@@ -575,6 +575,7 @@ CUSA08779_01.00.shn=Dishonored: Death of the Outsider
 CUSA34766_01.05.shn=Granblue Fantasy Relink
 CUSA27973_01.03.shn=Hades
 CUSA23755_01.03_2.shn=Asterix und Obelix - Jetzt gehts Rund!
+CUSA34896_01.01.shn=Beyond Good &amp; Evil
 SCUS94227_01.00.shn=MediEvil
 CUSA03679_01.05.shn=Mortal Kombats XXC
 CUSA12044_01.02.shn=Fox N Forests
