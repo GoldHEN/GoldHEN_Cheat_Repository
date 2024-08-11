@@ -1,600 +1,103 @@
 {
-  "name": "Mass Effect - Legendary Edition",
+  "name": "Mass Effect™ 1 Legendary Edition",
   "id": "CUSA19515",
   "version": "01.03",
   "process": "LTCG-BioGame.elf",
   "mods": [
     {
-      "name": "TRAINER INFO (read only)",
-      "description": "Cheats for ME-1 ARE ONLY for Mass Effect 1, not for ME2 or ME3 and vice versa, so only enable the cheats for the game that you are playing and only enable AFTER the game is launched, not on the LAUNCHER MENU (game selection) before you launch the game of your choice! Watch Out! If you enable ME-2 cheats on another game like Mass Effect 3, for example, they will not work and it is likely the game will crash. Also - DISABLE ANY ACTIVE CHEAT BEFORE GOING BACK TO THE LAUNCHER MENU OR SWITCHING BETWEE MASS EFFECT GAMES, OTHERWISE THE GAME MAY CRASH. This trainer was made and tested on PS4 Firmware 9.00, but should also work on other firmwares.",
+      "name": "Infinite Health(Your health will decrease, but refill)",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "",
-          "on": "00",
-          "off": "00"
-        }
-      ]
-    },
-    {
-      "name": "Mass Effect 1 - Health Master Code (Must be enabled ALL THE TIME after launching ME-1)",
-      "description": "",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "2103700",
-          "on": "4883F900741F833D50000000017541C78354010000F0237449C78388030000F0237449EB2B833D3500000001752281BB540100000000803F7416C783540100000000803FC783880300000000803FEB00C5FA108B54010000E9A66059FF0000000000000000",
-          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+          "offset": "2103850",
+          "on": "C783880300000000C842E9B56A6EFF",
+          "off": "000000000000000000000000000000"
         },
         {
-          "offset": "16997FB",
-          "on": "E9009FA600909090",
-          "off": "C5FA108B54010000"
+          "offset": "17EA30C",
+          "on": "E93F959100909090",
+          "off": "C5FA118388030000"
         }
       ]
     },
     {
-      "name": "---[ME-1] Squad Infinite Health (Requires Master Code)",
+      "name": "Faster XP",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "210375D",
-          "on": "01000000",
-          "off": "00000000"
+          "offset": "7993BC",
+          "on": "0106",
+          "off": "8906"
         }
       ]
     },
     {
-      "name": "---[ME-1] One Hit Kill (Requires Master Code)",
+      "name": "Infinite Grenades",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "2103761",
-          "on": "01000000",
-          "off": "00000000"
-        }
-      ]
-    },
-    {
-      "name": "[ME-1] Shield Master Code (Must be enabled ALL THE TIME after launching ME-1)",
-      "description": "",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "2103770",
-          "on": "4883F900741F833D44000000017535C783CC000000F0237449C783B0010000F0237449EB1F833D29000000017516C783CC00000000000000C783B001000000000000EB00C5FA5E83CC000000E9FD6059FF0000000000000000",
-          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        },
-        {
-          "offset": "16998B6",
-          "on": "E9B59EA600909090",
-          "off": "C5FA5E83CC000000"
-        }
-      ]
-    },
-    {
-      "name": "---[ME-1] Squad Infinite Shield (Requires Master Code)",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "21037C1",
-          "on": "01000000",
-          "off": "00000000"
-        }
-      ]
-    },
-    {
-      "name": "---[ME-1] Enemy No Shield (Requires Master Code)",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "21037C5",
-          "on": "01000000",
-          "off": "00000000"
-        }
-      ]
-    },
-    {
-      "name": "[ME-1] Infinite Max Mako Shield",
-      "description": "",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "21037E0",
-          "on": "C780CC000000F0237449C780B0010000F0237449C5FA1080B0010000E9E7C77EFF",
-          "off": "000000000000000000000000000000000000000000000000000000000000000000"
-        },
-        {
-          "offset": "NAN",
-          "on": "25037E090909090",
-          "off": "C5FA1080B0010000"
-        }
-      ]
-    },
-    {
-      "name": "[ME-1] Inf Grenades",
-      "description": "",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "2103810",
-          "on": "41898FC8000000 ",
-          "off": "00000000000000"
+          "offset": "21038F0",
+          "on": "41C787C800000014000000E9DBE463FF",
+          "off": "00000000000000000000000000000000"
         },
         {
           "offset": "1741DD4",
-          "on": "E9371A9C009090",
+          "on": "E9171B9C009090",
           "off": "41898FC8000000"
         }
       ]
     },
     {
-      "name": "[ME-1] Inf Max Medi-Gel (on get, use)",
-      "description": "",
+      "name": "Infinite Ammo",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "2103820",
-          "on": "50B800C07944C5F96EC858C4C17A118FCC000000E99AE863FF",
-          "off": "00000000000000000000000000000000000000000000000000"
-        },
-        {
-          "offset": "17420CA",
-          "on": "E951179C0090909090",
-          "off": "C4C17A118FCC000000"
+          "offset": "7B1774",
+          "on": "909090",
+          "off": "2B45C8"
         }
       ]
     },
     {
-      "name": "[ME-1] Inf Max Money (on get)",
-      "description": "",
+      "name": "No one can shoot",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "1740FBA",
-          "on": "41898FC4000000",
-          "off": "418987C4000000"
+          "offset": "833592",
+          "on": "9090",
+          "off": "8906"
         }
       ]
     },
     {
-      "name": "[ME-1] Inf Max Omni-Gel (On get, use)",
-      "description": "",
+      "name": "x2 Credits(Enable before gain, disable after gain)",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "2103850",
-          "on": "50B800C07944C5F96EC058C4C17A1187D0000000E9F4E863FF",
-          "off": "00000000000000000000000000000000000000000000000000"
-        },
-        {
-          "offset": "1742154",
-          "on": "E9F7169C0090909090",
-          "off": "C4C17A1187D0000000"
+          "offset": "8335AC",
+          "on": "0106",
+          "off": "8906"
         }
       ]
     },
     {
-      "name": "[ME-1] Infinite Stamina",
-      "description": "",
+      "name": "Max Resources(Fuel,Credits,Platinum,Probes, etc)",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "2103880",
-          "on": "0F57C9C4C17A118D340B0000E9ADF3ABFF",
-          "off": "0000000000000000000000000000000000"
-        },
-        {
-          "offset": "1BC2C35",
-          "on": "E9460C540090909090",
-          "off": "C4C17A118D340B0000"
-        }
-      ]
-    },
-    {
-      "name": "[ME-1] No Weapon Cooldown",
-      "description": "",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "1B8FE7D",
-          "on": "909090909090909090",
-          "off": "C4C17A118518050000"
-        }
-      ]
-    },
-    {
-      "name": "[ME-1] Reverse Missions Timer",
-      "description": "",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "16A0737",
-          "on": "C5F258C0",
-          "off": "C5F25CC0"
-        }
-      ]
-    },
-    {
-      "name": "[ME-1] Inf Max Talent Points",
-      "description": "",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "21038A0",
-          "on": "C782E4100000E70300008B82E4100000E9C13086FF",
-          "off": "000000000000000000000000000000000000000000"
-        },
-        {
-          "offset": "1966970",
-          "on": "E92BCF790090",
-          "off": "8B82E4100000"
-        }
-      ]
-    },
-    {
-      "name": "[ME-1] Instant Max XP (OTU)",
-      "description": "OTU - One Time Use. Takes effect when killing an enemy etc.  When the XP updates to Max (Level 30), disable the cheat.",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "21038D0",
-          "on": "C786E80500007F969800448BAEE8050000E9FDAB66FF",
-          "off": "00000000000000000000000000000000000000000000"
-        },
-        {
-          "offset": "176E4DC",
-          "on": "E9EF5399009090",
-          "off": "448BAEE8050000"
-        }
-      ]
-    },
-    {
-      "name": "Mass Effect 2 - Health Master Code (Must be enabled ALL THE TIME after launching ME-2)",
-      "description": "",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "2166000",
-          "on": "4983FF000F859901000083BAD8000000000F84C100000081BAE40000000000803F743B833D7E010000010F8573010000837A380C0F8569010000837A3C0C0F855F01000083BAB0000000010F8517010000D902D99A90000000E945010000833D47010000010F85380100004883F9010F852E0100004983F8000F85240100004983F9000F851A0100004983FA000F85100100004983FD000F85060100004983FF000F85FC0000004883F8000F84F20000004983FD000F85E800000081BAE8000000AFAFAFAF0F85D8000000D902D99AC4000000E9CB000000833DD1000000010F85BE0000004883F9010F85B40000004983F8000F85AA0000004983F9000F85A00000004983FA000F85960000004983FD000F858C0000004983FF000F85820000004883F800747C4983FD0075764883F8007470817A2C0000803F756781BABC0000000000803F755B817A040000803F7552833A007E4DC70200000000C782C400000000000000EB3B833D4500000001753281BAB0000000AFAFAFAF752681BAB4000000AFAFAFF0751A813A000020417E12C70200002041C7829000000000002041EB008B028906C300000000000000000000000000000000",
-          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        },
-        {
-          "offset": "83547A",
-          "on": "E9810B9301",
-          "off": "8B028906C3"
-        }
-      ]
-    },
-    {
-      "name": "---[ME-2] Infinite Health (Requires Master Code)",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "21661A8",
-          "on": "01000000",
-          "off": "00000000"
-        }
-      ]
-    },
-    {
-      "name": "---[ME-2] Infinite Shield (Requires Master Code)",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "21661AC",
-          "on": "01000000",
-          "off": "00000000"
-        }
-      ]
-    },
-    {
-      "name": "---[ME-2] Enemy No Shield (Requires Master Code)",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "21661B0",
-          "on": "01000000",
-          "off": "00000000"
-        }
-      ]
-    },
-    {
-      "name": "---[ME-2] One Hit Kill (Requires Master Code)",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "21661B4",
-          "on": "01000000",
-          "off": "00000000"
-        }
-      ]
-    },
-    {
-      "name": "[ME-2] Infinite Max Ammo",
-      "description": "",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "2166200",
-          "on": "483D0000803F75030F57C0C4C17A1107E94BCD64FE",
-          "off": "000000000000000000000000000000000000000000"
-        },
-        {
-          "offset": "7B2F5B",
-          "on": "E9A0329B01",
-          "off": "C4C17A1107"
-        }
-      ]
-    },
-    {
-      "name": "[ME-2] Infinite Stamina",
-      "description": "",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "2166250",
-          "on": "0F57C0C4C17A118424480B0000E9E67989FF",
-          "off": "000000000000000000000000000000000000"
-        },
-        {
-          "offset": "19FDC3E",
-          "on": "E90D8676009090909090",
-          "off": "C4C17A118424480B0000"
-        }
-      ]
-    },
-    {
-      "name": "[ME-2] Powers - No Cooldown",
-      "description": "",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "2166280",
-          "on": "50B8CDCCCC3D660F6EC058C5FA118798000000C3",
-          "off": "0000000000000000000000000000000000000000"
-        },
-        {
-          "offset": "1C2B1E0",
-          "on": "E99BB05300909090",
-          "off": "C5FA118798000000"
-        }
-      ]
-    },
-    {
-      "name": "[ME-2] Super Accuracy",
-      "description": "",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "21662B0",
-          "on": "41817E38AFAFAFAF750D41817E4CAFAFAFE875030F57C0C4C17A1106E9B0DA64FE",
-          "off": "000000000000000000000000000000000000000000000000000000000000000000"
-        },
-        {
-          "offset": "7B3D7C",
-          "on": "E92F259B01",
-          "off": "C4C17A1106"
-        }
-      ]
-    },
-    {
-      "name": "[ME-2] Inf Talent Points",
-      "description": "",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "2166300",
-          "on": "B8E703000089878C090000C3",
+          "offset": "2165FC0",
+          "on": "41C70620BCBE4CE9B4DB64FE",
           "off": "000000000000000000000000"
         },
         {
-          "offset": "19DDC92",
-          "on": "E96986780090",
-          "off": "89878C090000"
-        }
-      ]
-    },
-    {
-      "name": "[ME-2] Max Paragon and Renegade level (OTU)",
-      "description": "Enable the cheat, then open the menu and then the squad to populate. Then save the game and reload. OTU=One time use cheat.",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "2166320",
-          "on": "89F14883F9027509C70488B6030000EB0F4883F9037509C70488B6030000EB008B0488C3",
-          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
-        },
-        {
-          "offset": "1A15422",
-          "on": "E9F90E7500",
-          "off": "89F18B0488"
-        }
-      ]
-    },
-    {
-      "name": "[ME-2] Infinite Resources",
-      "description": "Resources are: Credits, Medi-Gel, Platinum, Palladium, Iridium, Element Zero. Open the mission computer (OPTIONS button) to populate the values.",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "2166370",
-          "on": "488BB99804000050B87F969800398734030000755D398738030000755539873C030000754D3987400300007545398744030000753D52B83F420F004881C714030000C7070F2700004883C704C707E70300004883C70489074883C70489074883C70489074883C70489074881EF280300005A58E9FC6A1CFF",
-          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        },
-        {
-          "offset": "132CEDD",
-          "on": "E98E94E3009090",
-          "off": "488BB998040000"
-        }
-      ]
-    },
-    {
-      "name": "[ME-2]Reverse Digital Timer",
-      "description": "",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "18FF437",
-          "on": "C5F258C0",
-          "off": "C5F25CC0"
-        }
-      ]
-    },
-    {
-      "name": "Mass Effect 3 - Master Code (Must be enabled ALL THE TIME after launching ME3)",
-      "description": "",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "2213000",
-          "on": "5351525657488DB0300400004C8B66F84D85E474674831C9498D9C2444030000BA7F969800391375193953047514395308750F39530C750A3953107505B9200300004885C97435833DD201000001750841C7040C7F969800833DC501000001750941C7440C0409000000833DB701000001750941C7440C08090000004C8B264D85E40F848E0100004831C94181BC24A8070000003C1C467519418B9424B007000083FA017C0C83FA637F0748C7C1010000004885C90F845B0100004831F6BFF0237449833D6A01000001751A4189B424E80400004189B424100500004189BC2468070000EB4E4139B424E8040000752A41D98424D804000041D99C24E80400004139B42410050000751041D984240005000041D99C24100500004139BC2468070000751041D984245807000041D99C2468070000833DFD0000000175124189B424A00600004189B424C8060000EB344139B424A0060000751041D984249006000041D99C24A00600004139B424C8060000751041D98424B806000041D99C24C8060000833DB20000000175284989B424E00A00004989B424E80A00004989B424040B00004989B424580B00004989B424600B0000833D7500000001750E41C784248805000000409C45EB1E4181BC248805000000409C45751041D984247805000041D99C2488050000833D3C00000001750A4189BC2470040000EB1A4139BC2470040000751041D984246004000041D99C24700400005F5E5A595BE92D6178FF00000000000000000000000000000000000000000000000000000000000000000000000000000000",
-          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        },
-        {
-          "offset": "1999346",
-          "on": "E9B59C87009090",
-          "off": "4C8BA030040000"
-        }
-      ]
-    },
-    {
-      "name": "---[ME-3] Max Credits (Requires Master Code)",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "2213220",
-          "on": "01000000",
-          "off": "00000000"
-        }
-      ]
-    },
-    {
-      "name": "---[ME-3] Infinite Medkits (Requires Master Code)",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "2213224",
-          "on": "01000000",
-          "off": "00000000"
-        }
-      ]
-    },
-    {
-      "name": "---[ME-3] Infinite Grenades (Requires Master Code)",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "2213228",
-          "on": "01000000",
-          "off": "00000000"
-        }
-      ]
-    },
-    {
-      "name": "---[ME-3] Super Damage (Requires Master Code)",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "221322C",
-          "on": "01000000",
-          "off": "00000000"
-        }
-      ]
-    },
-    {
-      "name": "---[ME-3] Rapid Fire (Requires Master Code)",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "2213230",
-          "on": "01000000",
-          "off": "00000000"
-        }
-      ]
-    },
-    {
-      "name": "---[ME-3] Super Accuracy (Requires Master Code)",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "2213234",
-          "on": "01000000",
-          "off": "00000000"
-        }
-      ]
-    },
-    {
-      "name": "---[ME-3] No Recoil (Requires Master Code)",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "2213238",
-          "on": "01000000",
-          "off": "00000000"
-        }
-      ]
-    },
-    {
-      "name": "---[ME-3] No Shake (Requires Master Code)",
-      "description": "The cheat disables weapon and camera shakes while shooting. Once enabled, the cheat can only be disabled after a game/save reload.",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "221323C",
-          "on": "01000000",
-          "off": "00000000"
-        }
-      ]
-    },
-    {
-      "name": "[ME-3] Infinite Shield",
-      "description": "",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "2213300",
-          "on": "813A000048427E2B83BA8C00000002752281BAC801000000002040751681BA2C01000000004841750AD902D99AC8000000EB008B028906C3",
-          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        },
-        {
-          "offset": "86E9DA",
-          "on": "E921499A01",
-          "off": "8B028906C3"
-        }
-      ]
-    },
-    {
-      "name": "[ME-3] Infinite Ammo",
-      "description": "",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "2213350",
-          "on": "41837F5009750F41837F78097508418B07E921BF5DFE418B070345C8E916BF5DFE",
-          "off": "000000000000000000000000000000000000000000000000000000000000000000"
-        },
-        {
-          "offset": "7EF281",
-          "on": "E9CA40A20190",
-          "off": "418B070345C8"
-        }
-      ]
-    },
-    {
-      "name": "[ME-3] Infinite Talent Points",
-      "description": "Must disable this cheat outside the talent upgrade menu!",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "7EF394",
-          "on": "909090",
-          "off": "2B45C8"
+          "offset": "7B3B7B",
+          "on": "E940249B01",
+          "off": "C4C17A1106"
         }
       ]
     }
   ],
   "credits": [
-    "Pharaoh2k"
+    "TylerMods_9.00"
   ]
 }

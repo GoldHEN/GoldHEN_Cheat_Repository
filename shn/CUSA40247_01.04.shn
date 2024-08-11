@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Forgive Me Father&#xD;&#xA;" Moder="Saso_9.00" Cusa="CUSA40247" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Health / Armor / Ammo / Skill Points (Master Code)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>802A7830</Offset>
+      <ValueOn>8B-16-49-81-F8-00-3F-4C-06-75-6F-48-83-FB-04-75-69-81-7C-24-08-A5-77-12-01-75-5F-83-BC-24-D4-00-00-00-08-75-55-83-BC-24-D8-00-00-00-00-74-4B-83-BC-24-D9-00-00-00-04-74-41-81-BC-24-D8-00-00-00-65-05-00-00-74-34-81-BC-24-D8-00-00-00-C9-35-00-00-74-27-81-BC-24-D8-00-00-00-21-05-00-00-74-1A-81-BC-24-D8-00-00-00-57-05-00-00-74-0D-81-BC-24-D8-00-00-00-8D-05-00-00-74-00-89-17-5D-C3-8B-57-04-EB-F7-90-BA-63-00-00-00-EB-EF-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>801ACE63</Offset>
+      <ValueOn>E9-C8-A9-0F-00</ValueOn>
+      <ValueOff>8B-16-89-17-5D</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Health / Armor">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>802A7874</Offset>
+      <ValueOn>74-38</ValueOn>
+      <ValueOff>74-34</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>802A7867</Offset>
+      <ValueOn>74-45</ValueOn>
+      <ValueOff>74-41</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>802A788E</Offset>
+      <ValueOn>74-1E</ValueOn>
+      <ValueOff>74-1A</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>802A789B</Offset>
+      <ValueOn>74-11</ValueOn>
+      <ValueOff>74-0D</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>802A78A8</Offset>
+      <ValueOn>74-04</ValueOn>
+      <ValueOff>74-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Skill Points (On Use)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>802A7881</Offset>
+      <ValueOn>74-31</ValueOn>
+      <ValueOff>74-27</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Fast Exp / Levels (Master Code)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>5934C00</Offset>
+      <ValueOn>4D-39-E8-75-1B-81-7C-24-60-00-0D-0B-06-75-11-81-7C-24-58-72-0A-C4-03-75-07-C7-45-D8-00-00-C8-42-C5-FA-58-45-D8-E9-B8-0C-C5-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>35858DD</Offset>
+      <ValueOn>E9-1E-F3-3A-02</ValueOn>
+      <ValueOff>C5-FA-58-45-D8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="x50">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>5934C19</Offset>
+      <ValueOn>C7-45-D8-00-00-FA-43</ValueOn>
+      <ValueOff>C7-45-D8-00-00-C8-42</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="x100">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>5934C19</Offset>
+      <ValueOn>C7-45-D8-00-00-7A-44</ValueOn>
+      <ValueOff>C7-45-D8-00-00-FA-43</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="x200">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>5934C19</Offset>
+      <ValueOn>C7-45-D8-00-00-FA-44</ValueOn>
+      <ValueOff>C7-45-D8-00-00-C8-42</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
