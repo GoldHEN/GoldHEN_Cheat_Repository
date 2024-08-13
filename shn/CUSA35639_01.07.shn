@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Last Faith" Moder="Ali-mk" Cusa="CUSA35639" Version="01.07" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health + Inf-Web">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>2EDF800</Offset>
+      <ValueOn>83-7F-64-00-75-08-8B-47-0C-E9-F6-8B-A7-FD-89-47-2C-E9-EE-8B-A7-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>9583FF</Offset>
+      <ValueOn>E9-FC-73-58-02</ValueOn>
+      <ValueOff>89-47-2C-74-1B</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-money">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>2EDF818</Offset>
+      <ValueOn>41-C7-46-30-FF-E0-F5-05-49-8B-46-20-E9-F3-C7-E3-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>D1C014</Offset>
+      <ValueOn>E9-FF-37-1C-02-90-90-90</ValueOn>
+      <ValueOff>41-89-46-30-49-8B-46-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-All-Items">
+    <Cheatline>
+      <Offset>80FDC126</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-46-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
