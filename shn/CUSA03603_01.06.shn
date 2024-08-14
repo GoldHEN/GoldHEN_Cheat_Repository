@@ -1,222 +1,62 @@
-<?xml version="1.0" encoding="utf-16"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dishonored 2" Moder="TLH" Cusa="CUSA03603" Version="01.06" Process="eboot.bin">
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dishonored 2" Moder="Celogamez" Cusa="CUSA03603" Version="01.06" Process="eboot.bin">
   <Genres Name="Action" />
-  <Genres Name="Adventure" />
-  <Genres Name="Fighting" />
-  <Genres Name="RPG" />
   <Items />
-  <StartUP Text="Health Pointer">
+  <Cheat Text="God Mode">
     <Cheatline>
-      <Offset>3557800</Offset>
+      <Offset>1BB16C6</Offset>
       <Section>0</Section>
-      <ValueOn>49-8B-06-4C-89-35-E6-C7-CC-01-4C-89-F7-E9-CB-06-3E-FE</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>1937ED7</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-24-F9-C1-01-90</ValueOn>
-      <ValueOff>49-8B-06-4C-89-F7</ValueOff>
-    </Cheatline>
-  </StartUP>
-  <StartUP Text="Health / 1 Hit">
-    <Cheatline>
-      <Offset>3557812</Offset>
-      <Section>0</Section>
-      <ValueOn>00-00-48-8B-03-48-39-1D-D2-C7-CC-01-75-17-80-3D-EB-FF-FF-FF-01-75-1C-C7-43-20-00-00-C8-42-C5-FA-10-43-20-EB-12-80-3D-D5-FF-FF-FF-01-75-05-0F-57-C0-EB-04-C5-F2-5C-C0-E9-3A-EE-57-FE</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>1AD6681</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-8E-11-A8-01-90-90</ValueOn>
-      <ValueOff>48-8B-03-C5-F2-5C-C0</ValueOff>
-    </Cheatline>
-  </StartUP>
-  <Cheat Text="Infinite Health" Description="">
-    <Cheatline>
-      <Offset>3557812</Offset>
-      <Section>0</Section>
-      <ValueOn>01</ValueOn>
-      <ValueOff>00</ValueOff>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-D5-48-F2-FF</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="1 Hit Kills" Description="">
+  <Cheat Text="Infinite Health">
     <Cheatline>
-      <Offset>3557813</Offset>
+      <Offset>1ADB1FE</Offset>
       <Section>0</Section>
-      <ValueOn>01</ValueOn>
-      <ValueOff>00</ValueOff>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-40-20</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite Mana" Description="">
+  <Cheat Text="Infinite Breath">
+    <Cheatline>
+      <Offset>1E05082</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-40-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Powers">
     <Cheatline>
       <Offset>1B28B3E</Offset>
       <Section>0</Section>
-      <ValueOn>C5-FA-11-4F-20</ValueOn>
+      <ValueOn>90-90-90-90-90</ValueOn>
       <ValueOff>C5-FA-11-47-20</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite Breath" Description="">
+  <Cheat Text="Infinite Ammo/Items/Runes">
     <Cheatline>
-      <Offset>1E05076</Offset>
+      <Offset>3557810</Offset>
       <Section>0</Section>
-      <ValueOn>C5-F8-28-C1</ValueOn>
-      <ValueOff>C5-F2-5C-C0</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Bottomless Clip" Description="">
-    <Cheatline>
-      <Offset>186EE49</Offset>
-      <Section>0</Section>
-      <ValueOn>90-90</ValueOn>
-      <ValueOff>FF-CE</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Infinite Ammo/Items" Description="">
-    <Cheatline>
-      <Offset>182B49A</Offset>
-      <Section>0</Section>
-      <ValueOn>90-90-90</ValueOn>
-      <ValueOff>44-29-F3</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>182B49D</Offset>
-      <Section>0</Section>
-      <ValueOn>90-90-90</ValueOn>
-      <ValueOff>0F-4E-D8</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Max Ammo/Items on Get" Description="">
-    <Cheatline>
-      <Offset>182B24A</Offset>
-      <Section>0</Section>
-      <ValueOn>41-89-C6-90</ValueOn>
-      <ValueOff>44-0F-4F-F0</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Max Money on Get" Description="">
-    <Cheatline>
-      <Offset>355784E</Offset>
-      <Section>0</Section>
-      <ValueOn>41-C7-87-6C-01-00-00-9F-86-01-00-E9-C3-3E-2D-FE</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>182B71A</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-2F-C1-D2-01-90-90</ValueOn>
-      <ValueOff>45-01-B7-6C-01-00-00</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Infinite Dark-Vision" Description="">
-    <Cheatline>
-      <Offset>1454D8C</Offset>
-      <Section>0</Section>
-      <ValueOn>0F-57-C0-90-90</ValueOn>
-      <ValueOff>C5-FA-10-45-C4</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Infinite Doppelgaenger" Description="">
-    <Cheatline>
-      <Offset>1464467</Offset>
-      <Section>0</Section>
-      <ValueOn>0F-57-C0-90-90-90-90-90-90</ValueOn>
-      <ValueOff>C5-FA-10-84-08-F0-75-2E-00</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Infinite Bend-Time" Description="">
-    <Cheatline>
-      <Offset>29CE7CD</Offset>
-      <Section>0</Section>
-      <ValueOn>C5-F8-28-C1</ValueOn>
-      <ValueOff>C5-F2-5C-C0</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Infinite Possession" Description="">
-    <Cheatline>
-      <Offset>1DAB414</Offset>
-      <Section>0</Section>
-      <ValueOn>C4-C1-7A-10-87-E8-03-00-00</ValueOn>
-      <ValueOff>C4-C1-7A-58-87-E8-03-00-00</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Infinite Shadow Walk" Description="">
-    <Cheatline>
-      <Offset>1843EA8</Offset>
-      <Section>0</Section>
-      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
-      <ValueOff>C5-FA-5C-84-01-F0-75-2E-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>1DBEB7B</Offset>
-      <Section>0</Section>
-      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
-      <ValueOff>41-FF-8C-24-C8-0D-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>1DBEBBC</Offset>
-      <Section>0</Section>
-      <ValueOn>90-90-90-90-90-90</ValueOn>
-      <ValueOff>89-B1-F0-00-00-00</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Infinite Traits" Description="">
-    <Cheatline>
-      <Offset>15781C3</Offset>
-      <Section>0</Section>
-      <ValueOn>90-90-90-90</ValueOn>
-      <ValueOff>FF-44-33-04</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Movement Speed x5" Description="">
-    <Cheatline>
-      <Offset>355785E</Offset>
-      <Section>0</Section>
-      <ValueOn>B8-00-00-90-41-66-0F-6E-C0-E9-E5-B0-90-FE</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>1E6294B</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-0E-4F-6F-01-90</ValueOn>
-      <ValueOff>C4-C1-6A-59-45-64</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Perfect Stats" Description="">
-    <Cheatline>
-      <Offset>355786C</Offset>
-      <Section>0</Section>
-      <ValueOn>48-83-F9-0B-74-20-48-83-F9-0D-74-1A-48-83-F9-0E-74-14-48-83-F9-0F-74-0E-48-83-F9-28-74-08-48-83-F9-29-74-02-EB-0A-4D-31-ED-44-89-6C-88-04-EB-05-44-01-6C-88-04-E9-4C-06-3F-FE</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>1947EED</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-7A-F9-C0-01</ValueOn>
-      <ValueOff>44-01-6C-88-04</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Zero Chaos" Description="">
-    <Cheatline>
-      <Offset>277BF7F</Offset>
-      <Section>0</Section>
-      <ValueOn>31-C0-90</ValueOn>
-      <ValueOff>8B-40-08</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Large Blink-Distance">
-    <Cheatline>
-      <Offset>35578A6</Offset>
-      <Section>0</Section>
-      <ValueOn>C7-44-C1-24-00-00-C8-42-41-C7-86-94-01-00-00-00-00-C8-42-C5-FA-10-4C-C1-24-E9-93-A2-C6-FD</ValueOn>
+      <ValueOn>85-DB-48-83-F8-00-75-0D-C7-44-31-20-63-00-00-00-E9-85-3C-2D-FE-89-5C-31-20-E9-7C-3C-2D-FE</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
-      <Offset>11C1B51</Offset>
+      <Offset>182B4A4</Offset>
       <Section>0</Section>
-      <ValueOn>E9-50-5D-39-02-90</ValueOn>
-      <ValueOff>C5-FA-10-4C-C1-24</ValueOff>
+      <ValueOn>E9-67-C3-D2-01-90</ValueOn>
+      <ValueOff>85-DB-89-5C-31-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Coins">
+    <Cheatline>
+      <Offset>3557880</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-6C-01-00-00-3F-42-0F-00-E9-91-3E-2D-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>    </Cheatline>    <Cheatline>      <Offset>182B71A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-61-C1-D2-01-90-90</ValueOn>
+      <ValueOff>45-01-B7-6C-01-00-00</ValueOff>
     </Cheatline>
   </Cheat>
 </Trainer>

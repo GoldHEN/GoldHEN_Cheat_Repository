@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="wrath" Moder="Saso_9.00" Cusa="CUSA48215" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf Health">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>82D9B84B</Offset>
+      <ValueOn>C7-87-B4-00-00-00-00-00-C8-42-C5-FA-10-87-B4-00-00-00-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>81A68720</Offset>
+      <ValueOn>E9-26-31-33-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-87-B4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Shield">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>82D9B830</Offset>
+      <ValueOn>41-C7-87-24-02-00-00-00-00-C8-42-C4-C1-7A-10-97-24-02-00-00-E9-AA-0E-CD-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>81A6C6EA</Offset>
+      <ValueOn>E9-41-F1-32-01-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-97-24-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>81A7014C</Offset>
+      <ValueOn>44-01-EA-90</ValueOn>
+      <ValueOff>03-54-88-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Artifact / Soul">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>82D9B860</Offset>
+      <ValueOn>48-63-CE-B8-05-00-00-00-E9-17-FA-CE-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>81A8B27D</Offset>
+      <ValueOn>E9-DE-05-31-01-90-90</ValueOn>
+      <ValueOff>48-63-CE-8B-44-88-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
