@@ -1,0 +1,620 @@
+{
+  "name": "Monster Hunter World Iceborne",
+  "id": "CUSA07713",
+  "version": "15.21",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinte HP + Invisible (pick ancient potion)",
+      "description": "use ancient potion then ready your ancient potion from item bar, you will be invisible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43858AA",
+          "on": "C5FA115064",
+          "off": "C5FA5D4064"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4386C60",
+          "on": "C5FA11506C",
+          "off": "C5FA5D406C"
+        }
+      ]
+    },
+    {
+      "name": "Item ID modifier",
+      "description": "Master Code Item ID / go to item box then sell item tab and move any item into free space inventory slot",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E751",
+          "on": "4C8B7808EB239048FF40084C8B78084989F6E9CC0D56849048FF48084C8B78084989F6E9BB0D5684904989F6E9B20D5684",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "41BF52D",
+          "on": "E91FF2A97B9090",
+          "off": "4C8B78084989F6"
+        }
+      ]
+    },
+    {
+      "name": "Increase Item ID",
+      "description": "need MC Item ID",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E755",
+          "on": "EB01",
+          "off": "EB23"
+        }
+      ]
+    },
+    {
+      "name": "Decrease Item ID",
+      "description": "need MC Item ID",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E755",
+          "on": "EB12",
+          "off": "EB23"
+        }
+      ]
+    },
+    {
+      "name": "99 Inventory items",
+      "description": "go to item box then sell tab and go to any free space inventory slot then move / rearranged (square button) the item from there, vice versa of item id modifier",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E791",
+          "on": "4489FE83F900740DB9630000008908E9DA0D5684908908E9D20D5684",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "41BF57A",
+          "on": "E912F2A97B",
+          "off": "4489FE8908"
+        }
+      ]
+    },
+    {
+      "name": "x5 Item in Pouch",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E7C1",
+          "on": "488D9C0160800300C7430C050000008B4B0CE9A06EDC8390",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3A25670",
+          "on": "E94C91237C909090",
+          "off": "488D9C0160800300"
+        }
+      ]
+    },
+    {
+      "name": "Sharpness",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "494B934",
+          "on": "0F4DD0",
+          "off": "0F4ED0"
+        }
+      ]
+    },
+    {
+      "name": "Easy Capture and Kill All instantly",
+      "description": "Master Code CapKILL",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E7E1",
+          "on": "C5FA114064EB1F90C5FA5EC1C5FA114064E9627D9E8090C5F857C0C5FA114064E9537D9E8090E94D7D9E8090",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "646554",
+          "on": "E98882617F",
+          "off": "C5FA114064"
+        }
+      ]
+    },
+    {
+      "name": "Easy Capture",
+      "description": "need MC CapKILL",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E7E6",
+          "on": "EB01",
+          "off": "EB1F"
+        }
+      ]
+    },
+    {
+      "name": "Kill All",
+      "description": "need MC CapKILL",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E7E6",
+          "on": "EB10",
+          "off": "EB1F"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E821",
+          "on": "C5FA114864C5FA104064E9D6A8448490",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "40A9101",
+          "on": "E91B57BB7B",
+          "off": "C5FA104064"
+        }
+      ]
+    },
+    {
+      "name": "Max Spirit Blade Gauge (Longsword)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E841",
+          "on": "41C782A82300000000803FC4C17A108AA8230000E9C4D2CF8490",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "495BB15",
+          "on": "E9272D307B90909090",
+          "off": "C4C17A108AA8230000"
+        }
+      ]
+    },
+    {
+      "name": "Level 3 Spirit Gauge (Longsword)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E861",
+          "on": "41C782B023000003000000418B82B0230000E9C1CFCF8490",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "495B832",
+          "on": "E92A30307B9090",
+          "off": "418B82B0230000"
+        }
+      ]
+    },
+    {
+      "name": "Max Demon Gauge (Dual Blade)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4957B0E",
+          "on": "C5F25FC8",
+          "off": "C5F25DC8"
+        }
+      ]
+    },
+    {
+      "name": "Demon Gauge Timer Disabled (Dual Blade)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4957B30",
+          "on": "41C686A923000000",
+          "off": "41C686A923000001"
+        }
+      ]
+    },
+    {
+      "name": "Fast Charge (GreatSword)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E881",
+          "on": "41C7878C2300000000404041C787A023000003000000E9DB42CF8490",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4952B70",
+          "on": "E90CBD307B9090",
+          "off": "418987A0230000"
+        }
+      ]
+    },
+    {
+      "name": "Switch Gauge (Switch Axe)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E8A1",
+          "on": "C4C17A108E700F0000E929ECD084",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "496D4CF",
+          "on": "E9CD132F7B90909090",
+          "off": "C4C17A108E8C230000"
+        }
+      ]
+    },
+    {
+      "name": "Ampede State (Switch Axe)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "496E7AD",
+          "on": "C6839A23000001",
+          "off": "80BB9A23000000"
+        }
+      ]
+    },
+    {
+      "name": "Gunlance Shell (Gunlance)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4969F66",
+          "on": "8987AC230000",
+          "off": "3987AC230000"
+        }
+      ]
+    },
+    {
+      "name": "Gunlance Max Shell",
+      "description": "use a shell or shell reload then turn off this cheat after. max of 5 shell",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "496BCB5",
+          "on": "41889610240000",
+          "off": "418A8610240000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Wyrmstake Cannon (Gunlance) ",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "392B498",
+          "on": "90909090909090",
+          "off": "41FF8EB8230000"
+        }
+      ]
+    },
+    {
+      "name": "Instant Wyrmstake Blast (Gunlance)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E8C1",
+          "on": "C7836824000000009643C5FA108368240000E9BF05138190",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D8EE8F",
+          "on": "E92DFAEC7E909090",
+          "off": "C5FA108368240000"
+        }
+      ]
+    },
+    {
+      "name": "Instant Wyrmstake shot (Gunlance)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4968D96",
+          "on": "41C787C823000002000000",
+          "off": "41C787C823000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Phial (Charge Blade)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E8E1",
+          "on": "41C78424B423000006000000418B8424B4230000E97140D18490",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4972963",
+          "on": "E979BF2E7B909090",
+          "off": "418B8424B4230000"
+        }
+      ]
+    },
+    {
+      "name": "Sword Block Attacks Disabled (Charge Blade)",
+      "description": "this is effective when Charge Gauge is in full energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "497356F",
+          "on": "41C68424C123000000",
+          "off": "41C68424C123000001"
+        }
+      ]
+    },
+    {
+      "name": "Charge Gauge Disabled (Charge Blade)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "49721DF",
+          "on": "909090909090909090",
+          "off": "C4C17A588EB0230000"
+        }
+      ]
+    },
+    {
+      "name": "Fast Charge Rising Slash (Charge Blade)",
+      "description": "sword attack: Rising Slash can be released for 0.5 sec does not effect if pressed too long",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "396B03D",
+          "on": "C686D023000001",
+          "off": "C686D023000000"
+        }
+      ]
+    },
+    {
+      "name": "Power Axe Mode (Charge Blade)",
+      "description": "this needs 1 or more phial to work",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E901",
+          "on": "41C78424B0240000804FC347C4C17A108424B0240000E98C3FD18490",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "497289E",
+          "on": "E95EC02E7B9090909090",
+          "off": "C4C17A108424B0240000"
+        }
+      ]
+    },
+    {
+      "name": "Element Boost (Charge Blade)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E931",
+          "on": "41C78424B8230000804FC347C4C17A109424B8230000E9E63ED18490",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4972828",
+          "on": "E904C12E7B9090909090",
+          "off": "C4C17A109424B8230000"
+        }
+      ]
+    },
+    {
+      "name": "Element Slash (Charge Blade)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E951",
+          "on": "41C78424BC230000804FC347C4C17A109424BC230000E9013FD18490",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4972863",
+          "on": "E9E9C02E7B9090909090",
+          "off": "C4C17A109424BC230000"
+        }
+      ]
+    },
+    {
+      "name": "Kinsect Stamina (Insect Glaive)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "498241A",
+          "on": "C5F258C0",
+          "off": "C5F25CC0"
+        }
+      ]
+    },
+    {
+      "name": "Extract Effects (Insect Glaive)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E981",
+          "on": "41C78484A82300000000C842C4C17A108484A8230000E96604D88190",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "19DEDF8",
+          "on": "E984FB277E9090909090",
+          "off": "C4C17A108484A8230000"
+        }
+      ]
+    },
+    {
+      "name": "Affinity",
+      "description": "requires affinity buffs to work",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A5C9D0",
+          "on": "0F4FD0",
+          "off": "0F4CD0"
+        }
+      ]
+    },
+    {
+      "name": "Affinity Buffs",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E9A1",
+          "on": "C783980C000000003443C5FA108B980C0000E97E91B78490",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "47D7B2E",
+          "on": "E96E6E487B909090",
+          "off": "C5FA108B980C0000"
+        }
+      ]
+    },
+    {
+      "name": "Defence",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E9C1",
+          "on": "C78774060000804FC347C5FA588774060000E9EE56008390",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2C640BE",
+          "on": "E9FEA8FF7C909090",
+          "off": "C5FA588774060000"
+        }
+      ]
+    },
+    {
+      "name": "Quest Timer",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3E7C514",
+          "on": "9090",
+          "off": "FFCA"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Specialized Tools",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5E9E1",
+          "on": "4B8D9CAFDC0A0000C70300000000E9A8C5FB8290",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2C1AF94",
+          "on": "E9483A047D909090",
+          "off": "4B8D9CAFDC0A0000"
+        }
+      ]
+    },
+    {
+      "name": "Disable Poison",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2C58C97",
+          "on": "909090909090",
+          "off": "8983DC050000"
+        }
+      ]
+    },
+    {
+      "name": "All Status Buffs",
+      "description": "180 sec",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5EA01",
+          "on": "41C7448E3800003443C4C17A104C8E38E94AEF9E8490",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "464D959",
+          "on": "E9A310617B9090",
+          "off": "C4C17A104C8E38"
+        }
+      ]
+    },
+    {
+      "name": "Natural Fuel steamworks",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5EA21",
+          "on": "BABC020000899408BC2F10008B9408BC2F1000E9AE6FFD80",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C359E0",
+          "on": "E93C90027F9090",
+          "off": "8B9408BC2F1000"
+        }
+      ]
+    },
+    {
+      "name": "Stored Fuel steamworks",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5EA41",
+          "on": "BE0F27000089B408C02F10008BB408C02F1000E9A00D9484",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "459F7F2",
+          "on": "E94AF26B7B9090",
+          "off": "8BB408C02F1000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
+}

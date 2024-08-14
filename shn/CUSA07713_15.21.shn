@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Monster Hunter World Iceborne" Moder="d01v" Cusa="CUSA07713" Version="15.21" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinte HP + Invisible (pick ancient potion)" Description="use ancient potion then ready your ancient potion from item bar, you will be invisible">
+    <Cheatline>
+      <Offset>43858AA</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-50-64</ValueOn>
+      <ValueOff>C5-FA-5D-40-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>4386C60</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-50-6C</ValueOn>
+      <ValueOff>C5-FA-5D-40-6C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Item ID modifier" Description="Master Code Item ID / go to item box then sell item tab and move any item into free space inventory slot">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5E751</Offset>
+      <ValueOn>4C-8B-78-08-EB-23-90-48-FF-40-08-4C-8B-78-08-49-89-F6-E9-CC-0D-56-84-90-48-FF-48-08-4C-8B-78-08-49-89-F6-E9-BB-0D-56-84-90-49-89-F6-E9-B2-0D-56-84</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>41BF52D</Offset>
+      <ValueOn>E9-1F-F2-A9-7B-90-90</ValueOn>
+      <ValueOff>4C-8B-78-08-49-89-F6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Increase Item ID" Description="need MC Item ID">
+    <Cheatline>
+      <Offset>7FC5E755</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-01</ValueOn>
+      <ValueOff>EB-23</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Decrease Item ID" Description="need MC Item ID">
+    <Cheatline>
+      <Offset>7FC5E755</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-12</ValueOn>
+      <ValueOff>EB-23</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="99 Inventory items" Description="go to item box then sell tab and go to any free space inventory slot then move / rearranged (square button) the item from there, vice versa of item id modifier">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5E791</Offset>
+      <ValueOn>44-89-FE-83-F9-00-74-0D-B9-63-00-00-00-89-08-E9-DA-0D-56-84-90-89-08-E9-D2-0D-56-84</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>41BF57A</Offset>
+      <ValueOn>E9-12-F2-A9-7B</ValueOn>
+      <ValueOff>44-89-FE-89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="x5 Item in Pouch">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5E7C1</Offset>
+      <ValueOn>48-8D-9C-01-60-80-03-00-C7-43-0C-05-00-00-00-8B-4B-0C-E9-A0-6E-DC-83-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3A25670</Offset>
+      <ValueOn>E9-4C-91-23-7C-90-90-90</ValueOn>
+      <ValueOff>48-8D-9C-01-60-80-03-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Sharpness">
+    <Cheatline>
+      <Offset>494B934</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4D-D0</ValueOn>
+      <ValueOff>0F-4E-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Capture and Kill All instantly" Description="Master Code CapKILL">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5E7E1</Offset>
+      <ValueOn>C5-FA-11-40-64-EB-1F-90-C5-FA-5E-C1-C5-FA-11-40-64-E9-62-7D-9E-80-90-C5-F8-57-C0-C5-FA-11-40-64-E9-53-7D-9E-80-90-E9-4D-7D-9E-80-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>646554</Offset>
+      <ValueOn>E9-88-82-61-7F</ValueOn>
+      <ValueOff>C5-FA-11-40-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Capture" Description="need MC CapKILL">
+    <Cheatline>
+      <Offset>7FC5E7E6</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-01</ValueOn>
+      <ValueOff>EB-1F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Kill All" Description="need MC CapKILL">
+    <Cheatline>
+      <Offset>7FC5E7E6</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-10</ValueOn>
+      <ValueOff>EB-1F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5E821</Offset>
+      <ValueOn>C5-FA-11-48-64-C5-FA-10-40-64-E9-D6-A8-44-84-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>40A9101</Offset>
+      <ValueOn>E9-1B-57-BB-7B</ValueOn>
+      <ValueOff>C5-FA-10-40-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Spirit Blade Gauge (Longsword)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5E841</Offset>
+      <ValueOn>41-C7-82-A8-23-00-00-00-00-80-3F-C4-C1-7A-10-8A-A8-23-00-00-E9-C4-D2-CF-84-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>495BB15</Offset>
+      <ValueOn>E9-27-2D-30-7B-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-8A-A8-23-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Level 3 Spirit Gauge (Longsword)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5E861</Offset>
+      <ValueOn>41-C7-82-B0-23-00-00-03-00-00-00-41-8B-82-B0-23-00-00-E9-C1-CF-CF-84-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>495B832</Offset>
+      <ValueOn>E9-2A-30-30-7B-90-90</ValueOn>
+      <ValueOff>41-8B-82-B0-23-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Demon Gauge (Dual Blade)">
+    <Cheatline>
+      <Offset>4957B0E</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F2-5F-C8</ValueOn>
+      <ValueOff>C5-F2-5D-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Demon Gauge Timer Disabled (Dual Blade)">
+    <Cheatline>
+      <Offset>4957B30</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-86-A9-23-00-00-00</ValueOn>
+      <ValueOff>41-C6-86-A9-23-00-00-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Fast Charge (GreatSword)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5E881</Offset>
+      <ValueOn>41-C7-87-8C-23-00-00-00-00-40-40-41-C7-87-A0-23-00-00-03-00-00-00-E9-DB-42-CF-84-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>4952B70</Offset>
+      <ValueOn>E9-0C-BD-30-7B-90-90</ValueOn>
+      <ValueOff>41-89-87-A0-23-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Switch Gauge (Switch Axe)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5E8A1</Offset>
+      <ValueOn>C4-C1-7A-10-8E-70-0F-00-00-E9-29-EC-D0-84</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>496D4CF</Offset>
+      <ValueOn>E9-CD-13-2F-7B-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-8E-8C-23-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Ampede State (Switch Axe)">
+    <Cheatline>
+      <Offset>496E7AD</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-83-9A-23-00-00-01</ValueOn>
+      <ValueOff>80-BB-9A-23-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Gunlance Shell (Gunlance)">
+    <Cheatline>
+      <Offset>4969F66</Offset>
+      <Section>0</Section>
+      <ValueOn>89-87-AC-23-00-00</ValueOn>
+      <ValueOff>39-87-AC-23-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Gunlance Max Shell" Description="use a shell or shell reload then turn off this cheat after. max of 5 shell">
+    <Cheatline>
+      <Offset>496BCB5</Offset>
+      <Section>0</Section>
+      <ValueOn>41-88-96-10-24-00-00</ValueOn>
+      <ValueOff>41-8A-86-10-24-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Wyrmstake Cannon (Gunlance) ">
+    <Cheatline>
+      <Offset>392B498</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-FF-8E-B8-23-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Wyrmstake Blast (Gunlance)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5E8C1</Offset>
+      <ValueOn>C7-83-68-24-00-00-00-00-96-43-C5-FA-10-83-68-24-00-00-E9-BF-05-13-81-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>D8EE8F</Offset>
+      <ValueOn>E9-2D-FA-EC-7E-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-83-68-24-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Wyrmstake shot (Gunlance)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>4968D96</Offset>
+      <ValueOn>41-C7-87-C8-23-00-00-02-00-00-00</ValueOn>
+      <ValueOff>41-C7-87-C8-23-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Phial (Charge Blade)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5E8E1</Offset>
+      <ValueOn>41-C7-84-24-B4-23-00-00-06-00-00-00-41-8B-84-24-B4-23-00-00-E9-71-40-D1-84-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>4972963</Offset>
+      <ValueOn>E9-79-BF-2E-7B-90-90-90</ValueOn>
+      <ValueOff>41-8B-84-24-B4-23-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Sword Block Attacks Disabled (Charge Blade)" Description="this is effective when Charge Gauge is in full energy">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>497356F</Offset>
+      <ValueOn>41-C6-84-24-C1-23-00-00-00</ValueOn>
+      <ValueOff>41-C6-84-24-C1-23-00-00-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Charge Gauge Disabled (Charge Blade)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>49721DF</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-58-8E-B0-23-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Fast Charge Rising Slash (Charge Blade)" Description="sword attack: Rising Slash can be released for 0.5 sec does not effect if pressed too long">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>396B03D</Offset>
+      <ValueOn>C6-86-D0-23-00-00-01</ValueOn>
+      <ValueOff>C6-86-D0-23-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Power Axe Mode (Charge Blade)" Description="this needs 1 or more phial to work">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5E901</Offset>
+      <ValueOn>41-C7-84-24-B0-24-00-00-80-4F-C3-47-C4-C1-7A-10-84-24-B0-24-00-00-E9-8C-3F-D1-84-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>497289E</Offset>
+      <ValueOn>E9-5E-C0-2E-7B-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-84-24-B0-24-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Element Boost (Charge Blade)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5E931</Offset>
+      <ValueOn>41-C7-84-24-B8-23-00-00-80-4F-C3-47-C4-C1-7A-10-94-24-B8-23-00-00-E9-E6-3E-D1-84-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>4972828</Offset>
+      <ValueOn>E9-04-C1-2E-7B-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-94-24-B8-23-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Element Slash (Charge Blade)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5E951</Offset>
+      <ValueOn>41-C7-84-24-BC-23-00-00-80-4F-C3-47-C4-C1-7A-10-94-24-BC-23-00-00-E9-01-3F-D1-84-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>4972863</Offset>
+      <ValueOn>E9-E9-C0-2E-7B-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-94-24-BC-23-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Kinsect Stamina (Insect Glaive)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>498241A</Offset>
+      <ValueOn>C5-F2-58-C0</ValueOn>
+      <ValueOff>C5-F2-5C-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Extract Effects (Insect Glaive)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5E981</Offset>
+      <ValueOn>41-C7-84-84-A8-23-00-00-00-00-C8-42-C4-C1-7A-10-84-84-A8-23-00-00-E9-66-04-D8-81-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>19DEDF8</Offset>
+      <ValueOn>E9-84-FB-27-7E-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-84-84-A8-23-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Affinity" Description="requires affinity buffs to work">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1A5C9D0</Offset>
+      <ValueOn>0F-4F-D0</ValueOn>
+      <ValueOff>0F-4C-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Affinity Buffs">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5E9A1</Offset>
+      <ValueOn>C7-83-98-0C-00-00-00-00-34-43-C5-FA-10-8B-98-0C-00-00-E9-7E-91-B7-84-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>47D7B2E</Offset>
+      <ValueOn>E9-6E-6E-48-7B-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-8B-98-0C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Defence">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5E9C1</Offset>
+      <ValueOn>C7-87-74-06-00-00-80-4F-C3-47-C5-FA-58-87-74-06-00-00-E9-EE-56-00-83-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2C640BE</Offset>
+      <ValueOn>E9-FE-A8-FF-7C-90-90-90</ValueOn>
+      <ValueOff>C5-FA-58-87-74-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quest Timer">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3E7C514</Offset>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Specialized Tools">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5E9E1</Offset>
+      <ValueOn>4B-8D-9C-AF-DC-0A-00-00-C7-03-00-00-00-00-E9-A8-C5-FB-82-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2C1AF94</Offset>
+      <ValueOn>E9-48-3A-04-7D-90-90-90</ValueOn>
+      <ValueOff>4B-8D-9C-AF-DC-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Disable Poison">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2C58C97</Offset>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-83-DC-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Status Buffs" Description="180 sec">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5EA01</Offset>
+      <ValueOn>41-C7-44-8E-38-00-00-34-43-C4-C1-7A-10-4C-8E-38-E9-4A-EF-9E-84-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>464D959</Offset>
+      <ValueOn>E9-A3-10-61-7B-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-4C-8E-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Natural Fuel steamworks">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5EA21</Offset>
+      <ValueOn>BA-BC-02-00-00-89-94-08-BC-2F-10-00-8B-94-08-BC-2F-10-00-E9-AE-6F-FD-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>C359E0</Offset>
+      <ValueOn>E9-3C-90-02-7F-90-90</ValueOn>
+      <ValueOff>8B-94-08-BC-2F-10-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stored Fuel steamworks">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7FC5EA41</Offset>
+      <ValueOn>BE-0F-27-00-00-89-B4-08-C0-2F-10-00-8B-B4-08-C0-2F-10-00-E9-A0-0D-94-84</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>459F7F2</Offset>
+      <ValueOn>E9-4A-F2-6B-7B-90-90</ValueOn>
+      <ValueOff>8B-B4-08-C0-2F-10-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
