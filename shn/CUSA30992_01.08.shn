@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="teenage mutant ninja turtles shredders revenge" Moder="d01v" Cusa="CUSA30992" Version="01.08" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>59DF800</Offset>
+      <ValueOn>48-83-F8-00-74-2F-49-83-F9-00-75-29-49-83-FA-00-75-23-49-83-FE-00-75-1D-80-7F-22-01-75-17-80-7F-30-01-75-11-8B-47-4C-89-47-50-85-C0-0F-9E-C0-E9-5F-E2-B2-FA-90-85-C0-0F-9E-C0-E9-54-E2-B2-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>50DA8E</Offset>
+      <ValueOn>E9-6D-1D-4D-05</ValueOn>
+      <ValueOff>85-C0-0F-9E-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="credits 99" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>59DF870</Offset>
+      <ValueOn>48-83-FA-00-75-35-49-83-F8-00-75-2F-49-83-F9-00-75-29-49-83-FA-00-75-23-80-7F-22-01-75-1D-80-7F-30-01-75-17-C7-47-6C-63-00-00-00-8B-47-6C-C5-DA-2A-C0-48-89-DF-E9-E0-C1-49-FB-90-C5-DA-2A-C0-48-89-DF-E9-D3-C1-49-FB-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>E7BA83</Offset>
+      <ValueOn>E9-E8-3D-B6-04-90-90</ValueOn>
+      <ValueOff>C5-DA-2A-C0-48-89-DF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Super Atack" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>59DF8F0</Offset>
+      <ValueOn>48-83-FA-00-75-30-49-83-F8-00-75-2A-49-83-F9-00-75-24-49-83-FA-00-75-1E-80-7F-22-01-75-18-80-7F-30-01-75-12-C7-47-64-05-00-00-00-48-83-C4-10-5B-E9-76-0E-39-FB-90-48-83-C4-10-5B-E9-6B-0E-39-FB-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>D70796</Offset>
+      <ValueOn>E9-55-F1-C6-04</ValueOn>
+      <ValueOff>48-83-C4-10-5B</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
