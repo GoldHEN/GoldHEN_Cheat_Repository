@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil - Director's Cut" Moder="Saso_9.00" Cusa="CUSA33877" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Master Code">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>62B830</Offset>
+      <ValueOn>48-81-FF-AC-51-0C-00-74-0A-81-7C-24-08-70-24-01-00-74-00-66-89-0C-38-B8-01-00-00-00-E9-96-00-E2-FF-66-B9-C8-00-EB-EC-66-B9-FF-FF-EB-E6</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>44B8DE</Offset>
+      <ValueOn>E9-4D-FF-1D-00-90-90-90-90</ValueOn>
+      <ValueOff>66-89-0C-38-B8-01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Health (MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>62B837</Offset>
+      <ValueOn>74-18</ValueOn>
+      <ValueOff>74-0A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill (MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>62B841</Offset>
+      <ValueOn>74-14</ValueOn>
+      <ValueOff>74-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Start With Magnum (1st Slot)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>2001B3B04</Offset>
+      <ValueOn>05-63</ValueOn>
+      <ValueOff>01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo All Weapons">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>62B865</Offset>
+      <ValueOn>81-7C-24-08-50-F5-03-00-75-02-B1-63-88-0C-38-B8-01-00-00-00-E9-38-FF-E1-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>44B7AE</Offset>
+      <ValueOn>E9-B2-00-1E-00-90-90-90</ValueOn>
+      <ValueOff>88-0C-38-B8-01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Items in Chest">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>2001B3AA4</Offset>
+      <ValueOn>05-63-0E-63-1C-00-1D-00-1E-00-1F-00-20-00-21-00-22-00-23-00-24-00-25-00-26-00-27-00-28-00-29-00-2A-00-2B-00-2C-00-2D-00-2E-00-1B-00-30-00-31-00-32-00-33-00-34-00-35-00-36-00-37-00-38-00-39-00-3A-00-3B-00-01-00-00-00-03-63-00-00-0F-63-06-63-07-63-08-63-09-63-0A-63-31-01-0C-63-11-63-2F-63</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Game Time at End 00’00’00">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>62B880</Offset>
+      <ValueOn>0F-B7-04-38-48-81-FF-7C-86-0C-00-75-02-31-C0-41-88-4C-1C-09-E9-F4-FB-E1-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>44B484</Offset>
+      <ValueOn>E9-F7-03-1E-00-90-90-90-90</ValueOn>
+      <ValueOff>0F-B7-04-38-41-88-4C-1C-09</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
