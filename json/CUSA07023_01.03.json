@@ -10,12 +10,12 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "450759",
+          "offset": "50759",
           "on": "C683EC000000FF",
           "off": "488983EC000000"
         },
         {
-          "offset": "4A5975",
+          "offset": "A5975",
           "on": "66C783EC000000E703909090",
           "off": "8B88B4030000018BEC000000"
         }
@@ -27,7 +27,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "4AA374",
+          "offset": "AA374",
           "on": "909090909090",
           "off": "8983F8000000"
         }
@@ -39,7 +39,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "A4415C",
+          "offset": "64415C",
           "on": "01",
           "off": "02"
         }
@@ -51,7 +51,7 @@
       "type": "button",
       "memory": [
         {
-          "offset": "A4415C",
+          "offset": "64415C",
           "on": "03",
           "off": "03"
         }
@@ -63,7 +63,7 @@
       "type": "button",
       "memory": [
         {
-          "offset": "A44180",
+          "offset": "644180",
           "on": "00000F0000400000",
           "off": "00000F0000400000"
         }
@@ -75,7 +75,7 @@
       "type": "button",
       "memory": [
         {
-          "offset": "200036604",
+          "offset": "1FFC36604",
           "on": "20",
           "off": "20"
         }
