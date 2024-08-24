@@ -1,0 +1,86 @@
+{
+  "name": "Destroy All Humans! 2 - Reprobed",
+  "id": "CUSA36164",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Master Code Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "77A3410",
+          "on": "817B0848000400750FC783C000000000004842E918C50EFAC5FA1183C0000000E90BC50EFA837B3C10750FC783C000000000004842E9F6C40EFAC5FA1183C0000000E9E9C40EFA",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "188F938",
+          "on": "E9D33AF105909090",
+          "off": "C5FA1183C0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Sauce Health (M)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "77A3417",
+          "on": "751C",
+          "off": "750F"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jetpack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "77A3730",
+          "on": "C7833C0100000000C842E93CF306FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1812A73",
+          "on": "E9B80CF905909090",
+          "off": "C5FA11833C010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Zip oh matic/deathray/free love Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "77A3810",
+          "on": "C783A00900000000C842E9D71314FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "18E4BEE",
+          "on": "E91DECEB05909090",
+          "off": "C5FA1183A0090000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Dislocator Ammo/other guns with clips",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "77A32C0",
+          "on": "C687A00900000AE98D1314FA",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "18E4653",
+          "on": "E968ECEB0590",
+          "off": "898FA0090000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}
