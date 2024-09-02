@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call Of Duty Modern Warfare" Moder="Celogamez" Cusa="CUSA08829" Version="01.67" Process="eboot.bin">
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call Of Duty Modern Warfare" Moder="Celogamez" Cusa="CUSA15278" Version="01.67" Process="eboot.bin">
   <Cheat Text="Infinite Health (Campaign)" Description="">
     <Cheatline>
       <Offset>01D17DB0</Offset>
