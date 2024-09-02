@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call Of Duty Modern Warfare" Moder="Celogamez" Cusa="CUSA15277" Version="01.67" Process="eboot.bin">
+  <Cheat Text="Infinite Health (Campaign)" Description="">
+    <Cheatline>
+      <Offset>01D17DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>49-8B-07-48-81-F9-86-12-00-00-75-0C-41-C7-06-E7-03-00-00-E9-E1-3C-B2-FE-49-89-06-E9-D9-3C-B2-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>83BAA3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-08-C3-4D-01-90</ValueOn>
+      <ValueOff>49-8B-07-49-89-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health (Multiplayer)" Description="">
+    <Cheatline>
+      <Offset>7FC5F920</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-81-FE-30-60-75-10-41-C7-86-C0-01-00-00-C8-00-00-00-E9-D4-1A-A3-80-41-29-9E-C0-01-00-00-E9-C8-1A-A3-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>691405</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-16-E5-5C-7F-90-90</ValueOn>
+      <ValueOff>41-29-9E-C0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health (Local Co-op)" Description="">
+    <Cheatline>
+      <Offset>7FC5F7C0</Offset>
+      <Section>0</Section>
+      <ValueOn>66-81-FF-C0-1E-75-10-41-C7-86-C0-01-00-00-E7-03-00-00-E9-35-1C-A3-80-41-29-9E-C0-01-00-00-E9-29-1C-A3-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>691405</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B6-E3-5C-7F-90-90</ValueOn>
+      <ValueOff>41-29-9E-C0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo" Description="">
+    <Cheatline>
+      <Offset>7FC5F660</Offset>
+      <Section>0</Section>
+      <ValueOn>44-01-F1-49-83-FC-1E-75-06-90-E9-72-22-98-80-89-48-44-E9-6A-22-98-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5E18DB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-80-DD-67-7F-90</ValueOn>
+      <ValueOff>44-01-F1-89-48-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload/Infinite Grenades" Description="">
+    <Cheatline>
+      <Offset>5C7CA6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-55-F9-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Grenades (Local Co-op)" Description="">
+    <Cheatline>
+      <Offset>01D176D0</Offset>
+      <Section>0</Section>
+      <ValueOn>49-8B-07-48-81-F9-06-A8-00-00-75-0C-41-C7-06-04-00-00-00-E9-C1-43-B2-FE-49-89-06-E9-B9-43-B2-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>83BAA3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-28-BC-4D-01-90</ValueOn>
+      <ValueOff>49-8B-07-49-89-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Recoil" Description="">
+    <Cheatline>
+      <Offset>5A48D2</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-58-83-AC-07-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
