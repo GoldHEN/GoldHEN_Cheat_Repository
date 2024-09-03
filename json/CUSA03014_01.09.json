@@ -1,0 +1,115 @@
+{
+  "name": "Bloodborne™",
+  "id": "CUSA03014",
+  "version": "01.09",
+  "process": "eboot.bin",
+  "master": {
+    "challenged": "yes",
+    "memory": [
+      {
+        "offset": "50DB810",
+        "on": "48A300400000000000008B88F80000008988F80000008B88F800000041894C2418E981C081FC"
+      },
+      {
+        "offset": "18F78B1",
+        "on": "E95A3F7E0390"
+      }
+    ]
+  },
+  "mods": [
+    {
+      "name": "Infinite  BloodEcho",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "50DB800",
+          "on": "B9FFE0F505898A94000000E9914A82FC",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "190029B",
+          "on": "E960B57D0390",
+          "off": "898A94000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Lucidity",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "50DB889",
+          "on": "BEFFE0F50589B3840000008BB384000000E91B6782FC",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1901FB4",
+          "on": "E9D0987D0390",
+          "off": "8BB384000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "50DB81A",
+          "on": "8B88FC000000",
+          "off": "8B88F8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "50DB836",
+          "on": "8B88380100008988340100008B80340100004189442434E98FC081FC",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "18F78DB",
+          "on": "E9563F7E0390",
+          "off": "8B8034010000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "50DB852",
+          "on": "39F00F4EF0534889FB4881EBF0000000483B1D9787B2FA74065BE9111C93FC5BE90D1C93FC",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A0D47B",
+          "on": "E9D2E36C03",
+          "off": "39F00F4EF0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "50DB877",
+          "on": "4189C441BC1400000044896308E9D4DC3FFC",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14D9556",
+          "on": "E91C23C0039090",
+          "off": "4189C444896308"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Shiningami"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Bloodborne",
+  "id": "CUSA00207",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Stamina",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E29C55",
+          "on": "90909090909090",
+          "off": "41898734010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}
