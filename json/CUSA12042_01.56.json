@@ -1,0 +1,161 @@
+{
+  "name": "Assassins Creed® Odyssey",
+  "id": "CUSA12042",
+  "version": "01.56",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7D463A0",
+          "on": "8B9734010000899730010000E9597A91FB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "365DE04",
+          "on": "E997856E0490",
+          "off": "899730010000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7D464B0",
+          "on": "BE0000000089B730010000E9C0288FFB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "3638D7A",
+          "on": "E931D7700490",
+          "off": "89B730010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Oxygen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "64D759A",
+          "on": "C5FA1088EC050000",
+          "off": "C5FA1088F0050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Adrenaline",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "36487BA",
+          "on": "8BBFAC020000",
+          "off": "8BBFA8020000"
+        },
+        {
+          "offset": "36487C2",
+          "on": "9090",
+          "off": "29F3"
+        }
+      ]
+    },
+    {
+      "name": "Abilities (No Cooldown)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7D46AA0",
+          "on": "41C786B0000000F81E2900E9786C33FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "307D721",
+          "on": "E97A93CC049090",
+          "off": "498986B0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ability Points (9999)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7D46470",
+          "on": "66C741100F278B41102B4114E92FB6B4FD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "5891AAA",
+          "on": "E9C1494B0290",
+          "off": "8B41102B4114"
+        }
+      ]
+    },
+    {
+      "name": "Max Resorce / Drachma / Arrows (On Get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7D46400",
+          "on": "81F97F96980075104883FA01740A90909089CAE9F73F04FC39CA0F47D1E9ED3F04FC",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3D8A40A",
+          "on": "E9F1BFFB03",
+          "off": "39CA0F47D1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ship Health / 1 Hit (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7D46510",
+          "on": "85DB669C8378780074038B58048918669D0F89841F8FFDE93B1F8FFDBB00000000EBEA",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5638461",
+          "on": "E9AAE0700290",
+          "off": "85DB89187944"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit kill (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7D46518",
+          "on": "7412",
+          "off": "7403"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ship Adrenaline+Ram Speed",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7D464E0",
+          "on": "41C747500000FA45C4C17A104750C4C17A114750E988ED90FD",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "565527B",
+          "on": "E960126F0290",
+          "off": "C4C17A114750"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}
