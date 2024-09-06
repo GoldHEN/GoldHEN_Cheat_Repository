@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Bloodborne GOTY" Moder="hejran7" Cusa="CUSA00900" Version="01.00" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinity HP" Description="">
+    <Cheatline>
+      <Offset>1A0D884</Offset>
+      <Section>0</Section>
+      <ValueOn>85-F6-90-90-8B-47-0C-39-D1-0F-44-F0-EB-02</ValueOn>
+      <ValueOff>85-F6-78-0A-8B-47-0C-39-F0-0F-4E-F0-EB-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill" Description="">
+    <Cheatline>
+      <Offset>1A0D884</Offset>
+      <Section>0</Section>
+      <ValueOn>39-D1-75-0A-8B-47-0C-39-F0-0F-4E-F0-EB-02</ValueOn>
+      <ValueOff>85-F6-78-0A-8B-47-0C-39-F0-0F-4E-F0-EB-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf HP + OHK" Description="">
+    <Cheatline>
+      <Offset>1A0D884</Offset>
+      <Section>0</Section>
+      <ValueOn>39-D1-75-0A-8B-47-0C-39-D1-0F-44-F0-EB-02</ValueOn>
+      <ValueOff>85-F6-78-0A-8B-47-0C-39-F0-0F-4E-F0-EB-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Poison Resistance" Description="">
+    <Cheatline>
+      <Offset>50DB800</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-F9-19-0F-84-09-4A-95-FC-89-93-F8-00-00-00-E9-FE-49-95-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1A3020D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EE-B5-6A-03-90</ValueOn>
+      <ValueOff>89-93-F8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Stamina" Description="">
+    <Cheatline>
+      <Offset>18CAB0E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-87-34-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1A29C55</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-87-34-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Blood Echoes On Spend" Description="">
+    <Cheatline>
+      <Offset>1B63F66</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-4E-D6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Never Lose Blood Echoes" Description="">
+    <Cheatline>
+      <Offset>13D2FC6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-C7-85-94-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>190083D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-81-94-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Insight On Spend" Description="">
+    <Cheatline>
+      <Offset>1B63F84</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-63-00-00-00-89-81-84-00-00-00</ValueOn>
+      <ValueOff>48-85-C9-74-06-29-81-84-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Items On Use" Description="">
+    <Cheatline>
+      <Offset>14D9959</Offset>
+      <Section>0</Section>
+      <ValueOn>89-43-08-90</ValueOn>
+      <ValueOff>44-89-63-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Dupe Anything In Storage Box" Description="">
+    <Cheatline>
+      <Offset>14D994E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>76-09</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Weapon Durability" Description="">
+    <Cheatline>
+      <Offset>1A94FB0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-77-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
