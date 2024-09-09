@@ -1105,6 +1105,7 @@ CUSA01073_01.09.json=Ratchet & Clank™
 CUSA08055_01.05.json=Aven Colony
 CUSA03824_01.00.json=The Technomancer
 CUSA12584_01.21.json=Dying Light 2: Stay Human
+CUSA03245_01.00.json=Deadpool
 CUSA01618_01.00.json=Yu-Gi-Oh! Legacy of the Duelist
 CUSA12605_01.12.json=DEATH STRANDING
 CUSA34390_05.04.json=God of War Ragnarok (+Valhalla DLC compatibility)
