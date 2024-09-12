@@ -113,9 +113,69 @@
           "off": "0000000000001840000000000000F03F0000000000000840"
         }
       ]
+    },
+    {
+      "name": "[ Infinite Items ]",
+      "description": "You need atleast 2 items in a single item slot to have infinite.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "37E78C",
+          "on": "9090909090",
+          "off": "41894C2410"
+        }
+      ]
+    },
+    {
+      "name": "[ Infinite Items (use) ]",
+      "description": "You need atleast 2 items in a single item slot to have infinite.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3557DE",
+          "on": "909090",
+          "off": "894F10"
+        }
+      ]
+    },
+    {
+      "name": "[ Infinite Health ]",
+      "description": "Including monsters, animals and other players.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A56429",
+          "on": "90909090909090",
+          "off": "4589AEC4020000"
+        }
+      ]
+    },
+    {
+      "name": "[ Infinite Food ]",
+      "description": "Including monsters, animals and other players.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8162BA",
+          "on": "9090909090909090",
+          "off": "4589BC243C060000"
+        }
+      ]
+    },
+    {
+      "name": "[ Freeze Time Of Day ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "415B70",
+          "on": "90909090",
+          "off": "48897738"
+        }
+      ]
     }
   ],
   "credits": [
-    "NELUxP_MoDz"
+    "NELUxP_MoDz",
+    "zxcvbnm"
   ]
 }
