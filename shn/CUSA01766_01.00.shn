@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Prototype " Moder="Celogamez" Cusa="CUSA01766" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Horror" />
+  <Items />
+  <Cheat Text="Infinite Health/1 Hit Kill (Mastercode/Must Be On)">
+    <Cheatline>
+      <Offset>103FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7B-3C-01-75-0E-C5-FA-11-4B-14-E9-4F-59-0E-FF-C5-F0-57-C9-C5-FA-11-4B-14-E9-41-59-0E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12570A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A1-A6-F1-00</ValueOn>
+      <ValueOff>C5-FA-11-4B-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>103FDB6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-4B-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill">
+    <Cheatline>
+      <Offset>103FDB4</Offset>
+      <Section>0</Section>
+      <ValueOn>75-0A</ValueOn>
+      <ValueOff>75-0E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo/No Reload">
+    <Cheatline>
+      <Offset>7DC742</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>FF-4B-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite EP (On Gain)">
+    <Cheatline>
+      <Offset>103FA00</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-81-F9-88-E4-75-0F-41-BF-7F-96-98-00-44-89-3C-90-E9-EA-8D-01-FF-44-89-3C-90-E9-E1-8D-01-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>587FA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-01-72-FE-00-90-90</ValueOn>
+      <ValueOff>48-01-CA-44-89-3C-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
