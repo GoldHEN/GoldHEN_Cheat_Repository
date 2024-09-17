@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Vagante" Moder="Ali-mk" Cusa="CUSA28409" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <StartUP Text="Inf-Health + MAX-GOLD(MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>EA7813</Offset>
+      <ValueOn>41-83-BC-24-E8-01-00-00-00-75-0C-C4-C1-7A-10-44-24-0C-E9-03-77-C6-FF-C4-C1-7A-11-84-24-7C-01-00-00-E9-F4-76-C6-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>B0EF23</Offset>
+      <ValueOn>E9-EB-88-39-00-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-7C-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>EA783B</Offset>
+      <ValueOn>B9-E7-03-00-00-41-89-8D-F8-07-00-00-E9-BD-D4-81-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>6C4D02</Offset>
+      <ValueOn>E9-34-2B-7E-00</ValueOn>
+      <ValueOff>E9-F9-2A-7E-00</ValueOff>
+    </Cheatline>
+  </StartUP>
+    <Cheat Text="Infinite-Arrow">
+    <Cheatline>
+      <Offset>382140</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>01-B7-E0-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
