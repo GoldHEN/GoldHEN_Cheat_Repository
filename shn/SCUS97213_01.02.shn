@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dark Cloud 2" Moder="W" Cusa="SCUS97213" Version="01.02" Process="eboot.bin">
   <Genres Name="" />
-  <Cheat Text="Infinite & Max HP Maximillian">
+  <Cheat Text="Infinite and Max HP Maximillian">
     <Cheatline>
       <Offset>8081A229FC</Offset>
       <Section>0</Section>
@@ -15,7 +15,7 @@
       <ValueOff>00-C0-79-44</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite & Max HP Monica">
+  <Cheat Text="Infinite and Max HP Monica">
     <Cheatline>
       <Offset>8081A22D88</Offset>
       <Section>0</Section>
@@ -29,7 +29,7 @@
       <ValueOff>00-C0-79-44</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite & Max HP Ripepop">
+  <Cheat Text="Infinite and Max HP Ripepop">
     <Cheatline>
       <Offset>8081A23134</Offset>
       <Section>0</Section>
@@ -91,7 +91,7 @@
       <ValueOff>7F-00-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Unlock & Clear all dungeons levels">
+  <Cheat Text="Unlock and Clear all dungeons levels">
     <Cheatline>
       <Offset>8081A1DE0C</Offset>
       <Section>0</Section>
