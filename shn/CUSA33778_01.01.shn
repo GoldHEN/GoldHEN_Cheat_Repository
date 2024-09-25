@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="STAR WARS Jedi: Survivor?" Moder="Wander FW9.00" Cusa="CUSA33778" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>4317DF0</Offset>
+      <ValueOn>81-7B-08-48-00-04-00-75-0F-C7-83-8C-01-00-00-00-00-96-43-E9-B6-49-3E-FC-C5-FA-11-83-8C-01-00-00-E9-A9-49-3E-FC</ValueOn>      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>6FC7B6</Offset>
+      <ValueOn>E9-35-B6-C1-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-8C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Force (when pushing and pulling)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>4317E60</Offset>
+      <ValueOn>C7-83-4C-01-00-00-00-00-7A-43-E9-59-77-D2-FC-57-61-6E-64-65-72-20-46-57-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>103F5C0</Offset>
+      <ValueOn>E9-9B-88-2D-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-4C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
