@@ -172,6 +172,18 @@
           "off": "48897738"
         }
       ]
+    },
+    {
+      "name": "[ Freeze Potions ]",
+      "type": "checkbox",
+      "description": "+ Poison doesnt do damage",
+      "memory": [
+        {
+          "offset": "491C32",
+          "on": "909090",
+          "off": "418937"
+        }
+      ]
     }
   ],
   "credits": [
