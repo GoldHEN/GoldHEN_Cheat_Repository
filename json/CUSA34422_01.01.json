@@ -1,0 +1,23 @@
+{
+  "name": "SIGNALIS",
+  "id": "CUSA34422",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Debug console",
+      "hint": "Hold L3 to open the console and hold X to open the keyboard",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8101DC38",
+          "on": "c6401901909090909090",
+          "off": "807819000f84780c0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "idmus00"
+  ]
+}
