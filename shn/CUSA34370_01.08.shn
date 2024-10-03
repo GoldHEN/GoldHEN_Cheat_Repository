@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Aliens: Dark Descent" Moder="Wander FW9.00" Cusa="CUSA34370" Version="01.08" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Ammo (squad and turret)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>83A7B60</Offset>
+      <ValueOn>41-C7-86-D8-03-00-00-64-00-00-00-E9-50-D4-9E-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2D94FB9</Offset>
+      <ValueOn>E9-A2-2B-61-05-90-90</ValueOn>
+      <ValueOff>41-89-86-D8-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite item use (on the mission)" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>83A7A50</Offset>
+      <ValueOn>C7-44-F0-08-04-00-00-00-0F-84-AB-30-21-FA-E9-7F-30-21-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>25BAADC</Offset>
+      <ValueOn>E9-6F-CF-DE-05-90</ValueOn>
+      <ValueOff>89-54-F0-08-74-27</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Materials (on spend)" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>83A76C0</Offset>
+      <ValueOn>C7-44-83-08-9F-86-01-00-E9-81-FF-F5-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2307649</Offset>
+      <ValueOn>E9-72-00-0A-06</ValueOn>
+      <ValueOff>44-89-44-83-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
