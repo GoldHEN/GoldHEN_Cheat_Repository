@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Shin Megami Tensei V Vengeance Digital Deluxe" Moder="d01v" Cusa="CUSA42502" Version="01.01" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="BackPort 9 - 505 English Mod by CyB1K">
+    <Cheatline>
+      <Offset>5143531</Offset>
+      <Section>0</Section>
+      <ValueOn>C3-90</ValueOn>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Battle Turn">
+    <Cheatline>
+      <Offset>475D81</Offset>
+      <Section>0</Section>
+      <ValueOn>4C-89-BB-E4-04-00-00</ValueOn>
+      <ValueOff>48-89-83-E4-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="5 Step Ticks Daytime (x3 multiplier)">
+    <Cheatline>
+      <Offset>736156</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-58-05-7A-1F-5D-03</ValueOn>
+      <ValueOff>C5-FA-58-05-76-1F-5D-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Daytime">
+    <Cheatline>
+      <Offset>736156</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-58-05-76-1F-5D-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Hp">
+    <Cheatline>
+      <Offset>51432C1</Offset>
+      <Section>0</Section>
+      <ValueOn>49-8D-84-15-94-00-00-00-48-83-FB-03-7F-09-8B-48-04-E9-7F-86-34-FB-90-42-8D-0C-36-E9-75-86-34-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>48B94A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-72-79-CB-04-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>49-8D-84-15-94-00-00-00-42-8D-0C-36</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6F3ADC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-97-20-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Mp">
+    <Cheatline>
+      <Offset>51432F1</Offset>
+      <Section>0</Section>
+      <ValueOn>4B-8D-84-25-9C-00-00-00-48-83-FB-03-77-0D-44-8B-70-04-44-89-30-E9-E3-86-34-FB-90-44-89-30-E9-DA-86-34-FB-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>48B9E3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-09-79-CB-04-90-90-90-90-90-90</ValueOn>
+      <ValueOff>4B-8D-84-25-9C-00-00-00-44-89-30</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6F3BD6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-97-34-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Magatsuhi Skill">
+    <Cheatline>
+      <Offset>4C0011</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4F-C3</ValueOn>
+      <ValueOff>0F-4C-C3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Master Code Demon ID Modifier" Description="how to use: move any demon to any party slot. change again when demon avatar is bugged (null) or it will crash the game">
+    <Cheatline>
+      <Offset>5143321</Offset>
+      <Section>0</Section>
+      <ValueOn>89-83-80-00-00-00-EB-19-90-FF-83-98-00-00-00-E9-DA-D2-41-FB-90-FF-8B-98-00-00-00-E9-CE-D2-41-FB-90-E9-C8-D2-41-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>560609</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-13-2D-BE-04-90</ValueOn>
+      <ValueOff>89-83-80-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Increase Demon ID" Description="must turn on MC Demon ID Modifier">
+    <Cheatline>
+      <Offset>5143327</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-01</ValueOn>
+      <ValueOff>EB-19</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Decrease Demon ID" Description="must turn on MC Demon ID Modifier">
+    <Cheatline>
+      <Offset>5143327</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-0D</ValueOn>
+      <ValueOff>EB-19</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Items x99">
+    <Cheatline>
+      <Offset>58D82A</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-04-08-63</ValueOn>
+      <ValueOff>80-3C-08-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Run Speed (x3 multiplier)">
+    <Cheatline>
+      <Offset>5143351</Offset>
+      <Section>0</Section>
+      <ValueOn>41-80-BF-1C-02-00-00-00-77-27-EB-01-90-41-80-BF-04-02-00-00-01-72-1A-41-C7-87-54-01-00-00-00-00-2F-45-C4-C1-7A-10-87-54-01-00-00-E9-05-A1-3A-FB-90-41-C7-87-54-01-00-00-00-00-2F-44-C4-C1-7A-10-87-54-01-00-00-E9-EB-A0-3A-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4ED47D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CF-5E-C5-04-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-87-54-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Super Jump (x5 multiplier)" Description="super jump: hold R2+ Jump (x button). additional mid air jump: jump (x button) while in mid air+ hold R2.">
+    <Cheatline>
+      <Offset>51433B1</Offset>
+      <Section>0</Section>
+      <ValueOn>80-BB-1C-02-00-00-01-72-18-C7-83-48-02-00-00-00-70-AD-45-C5-FA-10-9B-48-02-00-00-E9-A2-B6-3A-FB-90-C7-83-48-02-00-00-00-C0-C1-44-C5-FA-10-9B-48-02-00-00-E9-8A-B6-3A-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4EEA6B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-41-49-C5-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-9B-48-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Super Leap (x5 multiplier)" Description="in mid air Hold R2 + L2 or R2 + L3">
+    <Cheatline>
+      <Offset>5143401</Offset>
+      <Section>0</Section>
+      <ValueOn>41-80-BF-1C-02-00-00-01-72-2D-41-80-BF-40-02-00-00-01-72-23-41-C7-87-D4-01-00-00-00-40-9C-45-C4-C1-7A-10-87-D4-01-00-00-C4-C1-7A-11-87-D4-01-00-00-E9-1F-A0-3A-FB-90-41-C7-87-D4-01-00-00-00-00-7A-44-C4-C1-7A-10-87-D4-01-00-00-C4-C1-7A-11-87-D4-01-00-00-E9-FC-9F-3A-FB-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4ED44D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AF-5F-C5-04-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-87-D4-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Player Stats" Description="use any recovery items hp/mp or any items can trigger player, attract pipe also work, field menu only">
+    <Cheatline>
+      <Offset>5552C3</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-77-40</ValueOn>
+      <ValueOff>41-89-47-40</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5553A8</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-77-44</ValueOn>
+      <ValueOff>41-89-47-44</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5552D5</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-77-48</ValueOn>
+      <ValueOff>41-89-47-48</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5552E7</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-77-4C</ValueOn>
+      <ValueOff>41-89-47-4C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Demon Stats" Description="view demon in party menu or use any recovery items hp/mp or any items can trigger demon, field menu only">
+    <Cheatline>
+      <Offset>557E41</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-74-24-40</ValueOn>
+      <ValueOff>41-89-44-24-40</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>557E91</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-74-24-44</ValueOn>
+      <ValueOff>41-89-44-24-44</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>557E55</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-74-24-48</ValueOn>
+      <ValueOff>41-89-44-24-48</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>557E69</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-74-24-4C</ValueOn>
+      <ValueOff>41-89-44-24-4C</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>557E7D</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-74-24-50</ValueOn>
+      <ValueOff>41-89-44-24-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Money">
+    <Cheatline>
+      <Offset>5143471</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-60-FF-E0-F5-05-8B-43-60-49-8B-0E-E9-5D-91-41-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>55C5DA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-92-6E-BE-04-90</ValueOn>
+      <ValueOff>8B-43-60-49-8B-0E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Glory">
+    <Cheatline>
+      <Offset>5143491</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-84-00-00-00-9F-86-01-00-8B-83-84-00-00-00-E9-B1-89-44-FB-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>58BE51</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3B-76-BB-04-90</ValueOn>
+      <ValueOff>8B-83-84-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Master Code Exp Demon">
+    <Cheatline>
+      <Offset>51434F1</Offset>
+      <Section>0</Section>
+      <ValueOn>45-03-BD-8C-00-00-00-EB-19-90-45-6B-E4-32-EB-12-90-45-6B-E4-64-EB-0B-90-45-69-E4-E8-03-00-00-EB-01-90-45-01-A5-8C-00-00-00-45-03-BD-8C-00-00-00-E9-62-35-42-FB-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>566A81</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6B-CA-BD-04-90-90</ValueOn>
+      <ValueOff>45-03-BD-8C-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="multiplier x50" Description="must turn on MC Exp Demon">
+    <Cheatline>
+      <Offset>51434F8</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-01</ValueOn>
+      <ValueOff>EB-19</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="multiplier x100" Description="must turn on MC Exp Demon">
+    <Cheatline>
+      <Offset>51434F8</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-08</ValueOn>
+      <ValueOff>EB-19</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="multiplier x1000" Description="must turn on MC Exp Demon">
+    <Cheatline>
+      <Offset>51434F8</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-0F</ValueOn>
+      <ValueOff>EB-19</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Master Code Exp Player">
+    <Cheatline>
+      <Offset>51434B1</Offset>
+      <Section>0</Section>
+      <ValueOn>44-01-74-08-60-EB-19-90-45-6B-F6-32-EB-12-90-45-6B-F6-64-EB-0B-90-45-69-F6-E8-03-00-00-EB-01-90-44-01-74-08-60-E9-22-F7-41-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>562BF8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B4-08-BE-04</ValueOn>
+      <ValueOff>44-01-74-08-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="multiplier x50" Description="must turn on MC Exp Player">
+    <Cheatline>
+      <Offset>51434B6</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-01</ValueOn>
+      <ValueOff>EB-19</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="multiplier x100" Description="must turn on MC Exp Player">
+    <Cheatline>
+      <Offset>51434B6</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-08</ValueOn>
+      <ValueOff>EB-19</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="multiplier x1000" Description="must turn on MC Exp Player">
+    <Cheatline>
+      <Offset>51434B6</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-0F</ValueOn>
+      <ValueOff>EB-19</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
