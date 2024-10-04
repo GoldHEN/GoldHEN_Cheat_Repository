@@ -1,8 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Star Ocean The Second Story R" Moder="Celogamez" Cusa="CUSA40651" Version="01.10" Process="eboot.bin">
-  <Cheat Text="Infinite Health/1 Hit Kill (MASTERCODE/MUST BE ON)" Description="">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinite Health/1 Hit Kill (MASTERCODE/MUST BE ON)">
     <Cheatline>
-      <Offset>01A7FDB0</Offset>
+      <Offset>1A7FDB0</Offset>
       <Section>0</Section>
       <ValueOn>0F-4C-C2-83-7F-28-00-74-0D-89-47-54-89-47-54-E9-81-BC-32-7F-31-C0-89-47-54-E9-77-BC-32-7F</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
@@ -14,25 +16,25 @@
       <ValueOff>0F-4C-C2-89-47-54</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite Health" Description="">
+  <Cheat Text="Infinite Health">
     <Cheatline>
-      <Offset>01A7FDB9</Offset>
+      <Offset>1A7FDB9</Offset>
       <Section>0</Section>
       <ValueOn>8B-47-50</ValueOn>
       <ValueOff>89-47-54</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="1 Hit Kill" Description="">
+  <Cheat Text="1 Hit Kill">
     <Cheatline>
-      <Offset>01A7FDB7</Offset>
+      <Offset>1A7FDB7</Offset>
       <Section>0</Section>
       <ValueOn>74-0B</ValueOn>
       <ValueOff>74-0D</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite MP" Description="">
+  <Cheat Text="Infinite MP">
     <Cheatline>
-      <Offset>01A7F890</Offset>
+      <Offset>1A7F890</Offset>
       <Section>0</Section>
       <ValueOn>0F-49-D0-8B-57-5C-89-57-60-E9-C9-C1-32-7F</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
@@ -44,9 +46,9 @@
       <ValueOff>0F-49-D0-89-57-60</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Max BP On Gain" Description="">
+  <Cheat Text="Max BP On Gain">
     <Cheatline>
-      <Offset>01A7F930</Offset>
+      <Offset>1A7F930</Offset>
       <Section>0</Section>
       <ValueOn>41-C7-86-40-01-00-00-0F-27-00-00-E9-25-AD-32-7F</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
@@ -58,9 +60,9 @@
       <ValueOff>41-89-9E-40-01-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite SP On Use" Description="">
+  <Cheat Text="Infinite SP On Use">
     <Cheatline>
-      <Offset>01A7F8F0</Offset>
+      <Offset>1A7F8F0</Offset>
       <Section>0</Section>
       <ValueOn>B8-0F-27-00-00-41-89-84-24-30-01-00-00-C4-E2-70-F2-C0-48-8B-3B-E9-C0-A7-32-7F</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
@@ -72,9 +74,9 @@
       <ValueOff>C4-E2-70-F2-C0</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite Items/Craft/Baits" Description="">
+  <Cheat Text="Infinite Items/Craft/Baits">
     <Cheatline>
-      <Offset>01A7FC00</Offset>
+      <Offset>1A7FC00</Offset>
       <Section>0</Section>
       <ValueOn>C7-47-14-63-00-00-00-C3-E9-28-EF-B9-7E-90</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
@@ -86,9 +88,9 @@
       <ValueOff>66-89-77-14-C3</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite Fol" Description="">
+  <Cheat Text="Infinite Fol">
     <Cheatline>
-      <Offset>01A7FA20</Offset>
+      <Offset>1A7FA20</Offset>
       <Section>0</Section>
       <ValueOn>0F-49-C8-41-C7-46-14-3F-42-0F-00-E9-0D-DB-D4-7F</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
@@ -100,7 +102,7 @@
       <ValueOff>0F-49-C8-41-89-4E-14</ValueOff>
     </Cheatline>
     <Cheatline>
-      <Offset>01A7F6C0</Offset>
+      <Offset>1A7F6C0</Offset>
       <Section>0</Section>
       <ValueOn>41-C7-44-24-14-3F-42-0F-00-E9-F0-DE-D4-7F</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
@@ -112,9 +114,9 @@
       <ValueOff>41-89-4C-24-14</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Max XP (Win Battle)" Description="">
+  <Cheat Text="Max XP (Win Battle)">
     <Cheatline>
-      <Offset>01A7F890</Offset>
+      <Offset>1A7F890</Offset>
       <Section>0</Section>
       <ValueOn>41-C7-47-28-FF-C9-9A-3B-49-8B-3C-24-E9-21-C8-32-7F</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
