@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Elden Ring - Shadow of the Erdtree" Moder="Pharaoh2k, Rizla, Fullcodes" Cusa="CUSA28527" Version="01.21" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="TRAINER INFO (read only)" Description="BE SURE TO READ ALL the comments where available. As a rule of thumb (for all games), ALWAYS enable only cheats that are needed and disable when they are not. You may need to enable Player-No-Dead cheat to prevent dying from fall damage when using the Moon/Super-Jump cheat. For an even more advanced trainer, which also includes the stats cheats and other perks, check out my MultiTrainer2 ShnExt trainer. This trainer was made and tested on PS4 Firmware 9.00, but should also work on other firmwares. Enjoy! ;-)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F13D0</Offset>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Player No Dead" Description="May take health damage, but will remain alive, even when falling from heights.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>E3CDEB</Offset>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>80-3D-76-CA-F2-02-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
