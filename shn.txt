@@ -32,6 +32,7 @@ CUSA32759_01.05_2.shn=GANRYU-2
 CUSA36986_01.27.shn=Wo Long Fallen Dynasty
 CUSA36583_01.40_2.shn=Prince of Persia: The Lost Crown
 CUSA02320_01.02_2.shn=Uncharted: The Nathan Drake Collection™ (Drakes Fortune)
+CUSA10300_01.10.shn=Rage 2
 CUSA03388_01.15.shn=Dark Souls III
 CUSA05133_01.05.shn=Yakuza 0
 CUSA18723_01.21.shn=Elden Ring - Shadow of the Erdtree
