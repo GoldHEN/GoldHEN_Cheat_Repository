@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hogwarts Legacy" Moder="Pharaoh2k" Cusa="CUSA12824" Version="01.05" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="TRAINER INFO (read only)" Description="BE SURE TO READ ALL the comments where available. As a rule of thumb (for all games), ALWAYS enable only cheats that are needed and disable when they are not. You may need to enable Player-No-Dead cheat to prevent dying from fall damage when using the Moon/Super-Jump cheat. For an even more advanced trainer, check out my MultiTrainer2 ShnExt trainer. This trainer was made and tested on PS4 Firmware 9.00, but should also work on other firmwares. Credits: Some cheats were ported or derived from older game versions cheats made by TLH and/or Rizla and from the PC trainer made by FLiNG. Enjoy! ;-)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813E9F0</Offset>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stealth Mode" Description="Enemies will be able to see you only after they get attacked. Note that this cheat has not been thoroughly tested and might cause progression issues, especially in case a fight is required to progress, thus enemies need to detect you first (boss fights likely).In such cases, you may need to disable the cheat and continue or restart from the last checkpoint with the cheat disabled.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2AFAA1C</Offset>
+      <ValueOn>0F-57-C0-90</ValueOn>
+      <ValueOff>C5-F2-58-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Undetectable" Description="Enemies can not detect you and will not attack back when being hit. Note that this cheat has not been thoroughly tested and might cause progression issues, especially in case a fight is required to progress, thus enemies need to detect you first (boss fights likely). In such cases, you may need to disable the cheat and continue or restart from the last checkpoint with the cheat disabled.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2AF9FF9</Offset>
+      <ValueOn>84-D2</ValueOn>
+      <ValueOff>84-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Broom Boost" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>317F74E</Offset>
+      <ValueOn>F3-0F-10-C3</ValueOn>
+      <ValueOff>C5-FA-58-C3</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
