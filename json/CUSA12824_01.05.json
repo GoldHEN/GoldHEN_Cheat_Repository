@@ -1,56 +1,56 @@
 {
-	"name": "Hogwarts Legacy",
-	"id": "CUSA12824",
-	"version": "01.05",
-	"process": "eboot.bin",
-	"mods": [
-		{
-			"name": "TRAINER INFO (read only)",
-			"description": "BE SURE TO READ ALL the comments where available. As a rule of thumb (for all games), ALWAYS enable only cheats that are needed and disable when they are not. You may need to enable Player-No-Dead cheat to prevent dying from fall damage when using the Moon/Super-Jump cheat. For an even more advanced trainer, check out my MultiTrainer2 ShnExt trainer. This trainer was made and tested on PS4 Firmware 9.00, but should also work on other firmwares. Credits: Some cheats were ported or derived from older game versions cheats made by TLH and/or Rizla and from the PC trainer made by FLiNG. Enjoy! ;-)",
-			"type": "checkbox",
-			"memory": [
-				{
-					"offset": "813E9F0",
-					"on": "00",
-					"off": "00"
-				}
-			]
-		},
-		{
-			"name": "Stealth Mode",
-			"description": "Enemies will be able to see you only after they get attacked. Note that this cheat has not been thoroughly tested and might cause progression issues, especially in case a fight is required to progress, thus enemies need to detect you first (boss fights likely).In such cases, you may need to disable the cheat and continue or restart from the last checkpoint with the cheat disabled.",
-			"memory": [
-				{
-					"offset": "2AFAA1C",
-					"on": "0F57C090",
-					"off": "C5F258C0"
-				}
-			]
-		},
-		{
-			"name": "Undetectable",
-			"description": "Enemies can not detect you and will not attack back when being hit. Note that this cheat has not been thoroughly tested and might cause progression issues, especially in case a fight is required to progress, thus enemies need to detect you first (boss fights likely). In such cases, you may need to disable the cheat and continue or restart from the last checkpoint with the cheat disabled.",
-			"memory": [
-				{
-					"offset": "2AF9FF9",
-					"on": "84D2",
-					"off": "84C0"
-				}
-			]
-		},
-		{
-			"name": "Infinite Broom Boost",
-			"description": "",
-			"memory": [
-				{
-					"offset": "317F74E",
-					"on": "F30F10C3",
-					"off": "C5FA58C3"
-				}
-			]
-		}
-	],
-	"credits": [
-		"Pharaoh2k"
-	]
+  "name": "Hogwarts Legacy",
+  "id": "CUSA12824",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "TRAINER INFO (read only)",
+      "description": "BE SURE TO READ ALL the comments where available. As a rule of thumb (for all games), ALWAYS enable only cheats that are needed and disable when they are not. You may need to enable Player-No-Dead cheat to prevent dying from fall damage when using the Moon/Super-Jump cheat. For an even more advanced trainer, check out my MultiTrainer2 ShnExt trainer. This trainer was made and tested on PS4 Firmware 9.00, but should also work on other firmwares. Credits: Some cheats were ported or derived from older game versions cheats made by TLH and/or Rizla and from the PC trainer made by FLiNG. Enjoy! ;-)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "813E9F0",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Stealth Mode",
+      "description": "Enemies will be able to see you only after they get attacked. Note that this cheat has not been thoroughly tested and might cause progression issues, especially in case a fight is required to progress, thus enemies need to detect you first (boss fights likely).In such cases, you may need to disable the cheat and continue or restart from the last checkpoint with the cheat disabled.",
+      "memory": [
+        {
+          "offset": "2AFAA1C",
+          "on": "0F57C090",
+          "off": "C5F258C0"
+        }
+      ]
+    },
+    {
+      "name": "Undetectable",
+      "description": "Enemies can not detect you and will not attack back when being hit. Note that this cheat has not been thoroughly tested and might cause progression issues, especially in case a fight is required to progress, thus enemies need to detect you first (boss fights likely). In such cases, you may need to disable the cheat and continue or restart from the last checkpoint with the cheat disabled.",
+      "memory": [
+        {
+          "offset": "2AF9FF9",
+          "on": "84D2",
+          "off": "84C0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Broom Boost",
+      "description": "",
+      "memory": [
+        {
+          "offset": "317F74E",
+          "on": "F30F10C3",
+          "off": "C5FA58C3"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Pharaoh2k"
+  ]
 }
