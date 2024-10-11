@@ -10,12 +10,502 @@
       <ValueOff>00</ValueOff>
     </Cheatline>
   </Cheat>
+  <Cheat Text="Master Code (Must be enabled ALL THE TIME)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1400</Offset>
+      <ValueOn>49-8B-87-90-01-00-00-48-8B-00-48-A3-60-00-E0-03-00-00-00-00-E9-CF-95-1C-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>16BA9DE</Offset>
+      <ValueOn>E9-1D-6A-E3-01-90-90-90-90-90</ValueOn>
+      <ValueOff>49-8B-87-90-01-00-00-48-8B-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1420</Offset>
+      <ValueOn>48-8B-80-90-01-00-00-53-48-8B-18-48-89-1D-3E-EC-50-00-5B-E9-E5-25-C4-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1133A16</Offset>
+      <ValueOn>E9-05-DA-3B-02-90-90</ValueOn>
+      <ValueOff>48-8B-80-90-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1440</Offset>
+      <ValueOn>48-A3-80-00-E0-03-00-00-00-00-80-B8-B0-17-00-00-00-E9-AE-8F-A2-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>F1A3FD</Offset>
+      <ValueOn>E9-3E-70-5D-02-90-90</ValueOn>
+      <ValueOff>80-B8-B0-17-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1460</Offset>
+      <ValueOn>80-B9-B0-17-00-00-00-48-89-0D-22-EC-50-00-E9-6F-96-A2-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>F1AADB</Offset>
+      <ValueOn>E9-80-69-5D-02-90-90</ValueOn>
+      <ValueOff>80-B9-B0-17-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1480</Offset>
+      <ValueOn>8A-83-F8-08-00-00-51-41-8B-0E-89-0D-10-EC-50-00-59-E9-73-5D-60-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2AF7203</Offset>
+      <ValueOn>E9-78-A2-9F-00-90</ValueOn>
+      <ValueOff>8A-83-F8-08-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F14A0</Offset>
+      <ValueOn>48-3B-3D-B9-EB-50-00-74-1D-48-3B-3D-C0-EB-50-00-74-24-48-83-FA-00-74-2E-66-83-3D-40-00-00-00-00-74-24-31-F6-EB-20-66-83-3D-3A-00-00-00-00-74-16-8B-B7-4C-01-00-00-66-83-3D-32-00-00-00-00-74-06-8B-B7-4C-01-00-00-89-B7-48-01-00-00-E9-7F-B6-94-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>E3CB6A</Offset>
+      <ValueOn>E9-31-49-6B-02-90</ValueOn>
+      <ValueOff>89-B7-48-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1620</Offset>
+      <ValueOn>50-48-A1-80-00-E0-03-00-00-00-00-49-39-C6-74-1A-48-A1-90-00-E0-03-00-00-00-00-49-39-C6-74-16-A1-76-16-8F-03-00-00-00-00-EB-16-A1-7A-16-8F-03-00-00-00-00-EB-0B-A1-7E-16-8F-03-00-00-00-00-EB-00-41-89-86-08-18-00-00-C4-C1-7A-59-86-08-18-00-00-58-E9-D1-20-92-FD-00-00-80-3F-00-00-80-3F-00-00-80-3F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>E1373E</Offset>
+      <ValueOn>E9-DD-DE-6D-02-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-59-86-08-18-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1700</Offset>
+      <ValueOn>48-83-3D-B8-E9-50-00-00-74-63-51-48-8B-0D-AE-E9-50-00-80-39-01-59-75-55-83-BD-04-FC-FF-FF-00-7F-14-D9-85-04-FC-FF-FF-D8-35-4D-00-00-00-D9-9D-04-FC-FF-FF-EB-38-D9-85-00-FC-FF-FF-D8-0D-3D-00-00-00-D9-9D-00-FC-FF-FF-D9-85-08-FC-FF-FF-D8-0D-2B-00-00-00-D9-9D-08-FC-FF-FF-D9-85-04-FC-FF-FF-D8-0D-1D-00-00-00-D9-9D-04-FC-FF-FF-EB-00-C5-F8-10-8D-00-FC-FF-FF-E9-BF-DE-F3-FE-00-00-80-3F-00-00-80-3F-00-00-80-3F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>242F631</Offset>
+      <ValueOn>E9-CA-20-0C-01-90-90-90</ValueOn>
+      <ValueOff>C5-F8-10-8D-00-FC-FF-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1790</Offset>
+      <ValueOn>C6-83-D2-01-00-00-01-50-48-8D-83-D2-01-00-00-48-A3-C0-00-E0-03-00-00-00-00-58-E9-BC-2F-91-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>E04764</Offset>
+      <ValueOn>E9-27-D0-6E-02-90-90</ValueOn>
+      <ValueOff>80-B8-D1-01-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F17D0</Offset>
+      <ValueOn>4C-89-0D-09-02-51-00-C5-FA-11-4D-FC-E9-51-BE-AA-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>F9D62D</Offset>
+      <ValueOn>E9-9E-41-55-02</ValueOn>
+      <ValueOff>C5-FA-11-4D-FC</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---Infinite Health (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1508</Offset>
+      <ValueOn>01-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---Infinite Horse Health (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1510</Offset>
+      <ValueOn>01-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---One Hit Kill (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1500</Offset>
+      <ValueOn>01-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Invincible" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1520</Offset>
+      <ValueOn>50-48-8B-47-08-48-8B-80-90-01-00-00-48-8B-00-48-39-05-2A-EB-50-00-75-02-58-C3-48-39-05-2F-EB-50-00-58-75-01-C3-55-48-89-E5-41-57-E9-96-77-95-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>E48CE0</Offset>
+      <ValueOn>E9-3B-88-6A-02-90</ValueOn>
+      <ValueOff>55-48-89-E5-41-57</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1560</Offset>
+      <ValueOn>49-83-FB-00-75-07-41-8B-85-68-01-00-00-41-89-85-64-01-00-00-E9-06-F3-94-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>E40878</Offset>
+      <ValueOn>E9-E3-0C-6B-02-90-90</ValueOn>
+      <ValueOff>41-89-85-64-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite FP" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1580</Offset>
+      <ValueOn>49-83-FB-00-75-07-41-8B-85-5C-01-00-00-41-89-85-58-01-00-00-E9-B5-EE-94-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>E40447</Offset>
+      <ValueOn>E9-34-11-6B-02-90-90</ValueOn>
+      <ValueOff>41-89-85-58-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Effects" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F15A0</Offset>
+      <ValueOn>41-8B-45-00-41-89-45-E4-49-83-C5-04-E9-2E-6F-8D-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>DC84D7</Offset>
+      <ValueOn>E9-C4-90-72-02-90-90-90</ValueOn>
+      <ValueOff>41-89-45-E4-49-83-C5-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stealth Mode" Description="Enemies will be able to see you if and when you attack them.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>CECF55</Offset>
+      <ValueOn>80-BF-BA-00-00-00-01</ValueOn>
+      <ValueOff>80-BF-BA-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Enemies Dont Attack" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>C27237</Offset>
+      <ValueOn>74-0F</ValueOn>
+      <ValueOff>75-0F</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>DA357D</Offset>
+      <ValueOn>74-35</ValueOn>
+      <ValueOff>75-35</ValueOff>
+    </Cheatline>
+  </Cheat>
   <Cheat Text="Player No Dead" Description="May take health damage, but will remain alive, even when falling from heights.">
     <Cheatline>
       <Section>0</Section>
       <Offset>E3CDEB</Offset>
       <ValueOn>90-90-90-90-90-90-90</ValueOn>
       <ValueOff>80-3D-76-CA-F2-02-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlimited Jumps" Description="Can not be used if player speed is set too high.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>E04764</Offset>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>80-B8-D1-01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="100%% Loot Drop-Rate" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F15C0</Offset>
+      <ValueOn>4C-3B-0D-19-04-51-00-75-10-53-BB-00-00-7A-43-66-0F-6E-C3-5B-E9-16-BA-C5-FD-C5-FA-10-44-88-18-E9-0B-BA-C5-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>114CFE9</Offset>
+      <ValueOn>E9-D2-45-3A-02-90</ValueOn>
+      <ValueOff>C5-FA-10-44-88-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Overloaded Weight Slowdown" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1600</Offset>
+      <ValueOn>B8-01-00-00-00-89-81-8C-01-00-00-E9-D4-2C-C0-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>10F42DE</Offset>
+      <ValueOn>E9-1D-D3-3F-02-90</ValueOn>
+      <ValueOff>89-81-8C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Runes" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1268B49</Offset>
+      <ValueOn>31-C9-90</ValueOn>
+      <ValueOff>41-29-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf Items (on Get and Use)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>B547E0</Offset>
+      <ValueOn>41-89-C6-90</ValueOn>
+      <ValueOff>44-0F-42-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Ignore Crafting Item Requirement" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1269A1C</Offset>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>44-0F-4F-E0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Ignore Smithing Item Requirement" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>12A6960</Offset>
+      <ValueOn>4C-39-C3-90</ValueOn>
+      <ValueOff>44-3B-43-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quick Buy and Sell Shop Items" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1237D65</Offset>
+      <ValueOn>41-89-94-24-B8-01-00-00</ValueOn>
+      <ValueOff>41-89-84-24-B8-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x0.1 Player Speed (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F167A</Offset>
+      <ValueOn>CD-CC-CC-3D</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x0.5 Player Speed (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F167A</Offset>
+      <ValueOn>00-00-00-3F</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x2 Player Speed (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F167A</Offset>
+      <ValueOn>00-00-00-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x3 Player Speed (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F167A</Offset>
+      <ValueOn>00-00-40-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x0.1 Horse Speed (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F167E</Offset>
+      <ValueOn>CD-CC-CC-3D</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x0.5 Horse Speed (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F167E</Offset>
+      <ValueOn>00-00-00-3F</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x2 Horse Speed (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F167E</Offset>
+      <ValueOn>00-00-00-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x3 Horse Speed (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F167E</Offset>
+      <ValueOn>00-00-40-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x0 Speed - Freeze Enemies (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1676</Offset>
+      <ValueOn>00-00-00-00</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x0.5 Enemy Speed (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1676</Offset>
+      <ValueOn>00-00-00-3F</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x2 Enemy Speed (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1676</Offset>
+      <ValueOn>00-00-00-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Pause By Controller (read description)" Description="Pause Game: Press Options + Dpad Right. UnPause Game: Press Options + Dpad Left. Note: Some background elements like flowers may still move while the game is paused. Thats normal.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1690</Offset>
+      <ValueOn>83-3D-09-EA-50-00-28-75-0C-C7-05-0D-EA-50-00-01-00-00-00-EB-18-81-3D-F1-E9-50-00-88-00-00-00-75-0C-C7-05-F5-E9-50-00-00-00-00-00-EB-00-83-3D-EC-E9-50-00-00-74-0D-41-80-BD-58-03-00-00-02-E9-68-C2-1A-FE-41-80-BD-58-03-00-00-00-E9-5B-C2-1A-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>169D933</Offset>
+      <ValueOn>E9-58-3D-E5-01-90-90-90</ValueOn>
+      <ValueOff>41-80-BD-58-03-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x2 Super Jump Distance (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F177E</Offset>
+      <ValueOn>00-00-00-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F177A</Offset>
+      <ValueOn>00-00-40-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x5 Super Jump Distance (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F177E</Offset>
+      <ValueOn>00-00-A0-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F177A</Offset>
+      <ValueOn>00-00-40-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x10 Super Jump Distance (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F177E</Offset>
+      <ValueOn>00-00-20-41</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F177A</Offset>
+      <ValueOn>00-00-40-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x20 Super Jump Distance (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F177E</Offset>
+      <ValueOn>00-00-A0-41</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F177A</Offset>
+      <ValueOn>00-00-40-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x2 Super Jump Height (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1782</Offset>
+      <ValueOn>00-00-00-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x5 Super Jump Height (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1782</Offset>
+      <ValueOn>00-00-A0-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x10 Super Jump Height (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1782</Offset>
+      <ValueOn>00-00-20-41</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---x20 Super Jump Height (Requires Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34F1782</Offset>
+      <ValueOn>00-00-A0-41</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
     </Cheatline>
   </Cheat>
 </Trainer>
