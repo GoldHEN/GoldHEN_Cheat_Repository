@@ -10,6 +10,294 @@
       <ValueOff>00</ValueOff>
     </Cheatline>
   </Cheat>
+  <Cheat Text="Master Codes - Must always enable" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EA00</Offset>
+      <ValueOn>48-89-3D-F9-85-A1-01-C5-FA-10-8F-A4-01-00-00-E9-09-D7-88-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>29CC115</Offset>
+      <ValueOn>E9-E6-28-77-05-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-8F-A4-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EA20</Offset>
+      <ValueOn>48-3B-1D-D9-85-A1-01-74-16-66-83-3D-35-00-00-00-01-75-24-C7-85-7C-FD-FF-FF-00-00-00-00-EB-18-66-83-3D-1D-00-00-00-01-75-0E-D9-83-18-0E-00-00-D9-9D-7C-FD-FF-FF-EB-00-C5-FA-10-85-7C-FD-FF-FF-E9-3E-04-22-FB-00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>335EE9A</Offset>
+      <ValueOn>E9-81-FB-DD-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-85-7C-FD-FF-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EAF0</Offset>
+      <ValueOn>C6-87-AB-03-00-00-00-80-BF-AB-03-00-00-00-E9-E7-84-79-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>38D6FE3</Offset>
+      <ValueOn>E9-08-7B-86-04-90-90</ValueOn>
+      <ValueOff>80-BF-AB-03-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EB10</Offset>
+      <ValueOn>0F-AF-35-0C-00-00-00-48-89-B5-00-FF-FF-FF-E9-4D-F0-D3-FA-00-00-00-01</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2E7DB69</Offset>
+      <ValueOn>E9-A2-0F-2C-05-90-90</ValueOn>
+      <ValueOff>48-89-B5-00-FF-FF-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EB30</Offset>
+      <ValueOn>4C-89-35-D9-84-A1-01-49-8B-06-4C-89-F7-E9-73-42-20-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1342DAF</Offset>
+      <ValueOn>E9-7C-BD-DF-06-90</ValueOn>
+      <ValueOff>49-8B-06-4C-89-F7</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EB50</Offset>
+      <ValueOn>C4-C1-7A-10-87-B4-00-00-00-50-48-A1-10-70-F5-09-00-00-00-00-49-39-C7-74-06-49-3B-47-20-75-08-F3-0F-59-05-06-00-00-00-58-E9-24-30-6E-FE-00-00-80-3F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>6821B98</Offset>
+      <ValueOn>E9-B3-CF-91-01-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-87-B4-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813ED00</Offset>
+      <ValueOn>C6-87-D9-01-00-00-00-80-BF-D9-01-00-00-00-E9-57-C3-17-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>32BB063</Offset>
+      <ValueOn>E9-98-3C-E8-04-90-90</ValueOn>
+      <ValueOff>80-BF-D9-01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---Infinite Health (requires MC)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EA64</Offset>
+      <ValueOn>01-00</ValueOn>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---One Hit Kill (requires MC)" Description="Using OHK on specific bosses, such as the first Goblin in Hogsmeade will cause progression issues. Also, deactive the cheat when practicing in Hogwarts, especially with dummies (eg. The Chinese chomping cabbage practice) as you may not be able to complete the training. If you get stuck after killing an enemy, disable OHK and reload the last save to complete the fight without it, then you may re-activate the cheat.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EA66</Offset>
+      <ValueOn>01-00</ValueOn>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ancient Magic" Description="Using OHK on specific bosses, such as the first Goblin in Hogsmeade will cause progression issues. Also, deactive the cheat when practicing in Hogwarts, especially with dummies (eg. The Chinese chomping cabbage practice) as you may not be able to complete the training. If you get stuck after killing an enemy, disable OHK and reload the last save to complete the fight without it, then you may re-activate the cheat.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>29D9602</Offset>
+      <ValueOn>C5-FA-5F-8B-18-1D-00-00</ValueOn>
+      <ValueOff>C5-FA-5D-8B-18-1D-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items" Description="Works for most items, including potions, resources etc">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EF00</Offset>
+      <ValueOn>83-F9-00-7D-58-41-83-F8-01-74-50-41-83-F8-02-74-4A-41-83-F8-03-74-44-41-83-F8-06-74-3E-41-83-F8-07-74-38-41-83-F8-08-74-32-41-83-F8-10-74-2C-41-83-F8-11-74-26-41-83-F8-12-74-20-41-83-F8-13-74-1A-41-83-F8-14-74-14-41-83-F8-15-74-0E-41-83-F8-16-74-08-41-83-F8-17-74-02-EB-02-31-C9-44-89-85-34-FD-FF-FF-E9-30-B7-1C-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>330A692</Offset>
+      <ValueOn>E9-69-48-E3-04-90-90</ValueOn>
+      <ValueOff>44-89-85-34-FD-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items Usage" Description="Takes effect when you use an item, the item amount won't decrease. Works for most usable items, such as potios.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3312004</Offset>
+      <ValueOn>B9-00-00-00-00</ValueOn>
+      <ValueOff>B9-FF-FF-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Brew Potions" Description="Activate before brewing a potion.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EAC0</Offset>
+      <ValueOn>48-C7-C0-A0-86-01-00-48-03-47-58-48-89-47-70-E9-61-58-28-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>33C432D</Offset>
+      <ValueOn>E9-8E-A7-D7-04-90-90-90</ValueOn>
+      <ValueOff>48-03-47-58-48-89-47-70</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Grow Plants" Description="Active before planting seeds.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>32DEC64</Offset>
+      <ValueOn>89-F0-90</ValueOn>
+      <ValueOff>0F-4C-C6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---Ignore Conjuration Requirements (requires MC)" Description="When activated, you can craft items using the conjuring spell even if you don't have enough resources. If you do have resources, they will be used.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EAF6</Offset>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---XP Multiplier x5" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EB23</Offset>
+      <ValueOn>05-00-00-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---XP Multiplier x10" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EB23</Offset>
+      <ValueOn>0A-00-00-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---XP Multiplier x50" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EB23</Offset>
+      <ValueOn>32-00-00-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---XP Multiplier x100" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EB23</Offset>
+      <ValueOn>64-00-00-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---XP Multiplier x999" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EB23</Offset>
+      <ValueOn>E7-03-00-00</ValueOn>
+      <ValueOff>01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---Player Speed x2" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EB7D</Offset>
+      <ValueOn>00-00-00-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---Player Speed x3" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EB7D</Offset>
+      <ValueOn>00-00-40-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---Player Speed x4" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EB7D</Offset>
+      <ValueOn>00-00-80-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Teleport To Map Waypoint" Description="Enable Infinite HP cheat as a precaution. After being teleported, wait a few seconds for rendering to complete. When its done, press X + DPAD DOWN to continue. If you get teleported BELOW THE MAP after the game completes rendering, first press X + DPAD UP to lift you above the map and then press X + DPAD DOWN to continue. If for any reason you end up falling infinitely below the map, exit the game and re-launch it. AVOID teleporting yourself to places that are still locked, which you are not suppose to be able to reach yet, as this may cause game progession issue or other issues. DOESNT WORK IN FLY MODE.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813F000</Offset>
+      <ValueOn>C5-FC-11-48-20-C5-FC-11-00-48-A3-30-70-F5-09-00-00-00-00-8B-00-A3-20-70-F5-09-00-00-00-00-48-A1-30-70-F5-09-00-00-00-00-E9-4D-CB-99-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>4ADBB71</Offset>
+      <ValueOn>E9-8A-34-66-03-90-90-90-90</ValueOn>
+      <ValueOff>C5-FC-11-48-20-C5-FC-11-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813F100</Offset>
+      <ValueOn>C5-FA-11-8B-E8-01-00-00-D9-83-E0-01-00-00-D9-1D-2C-7F-A1-01-D9-83-E4-01-00-00-D9-1D-30-7F-A1-01-D9-83-E8-01-00-00-D8-05-44-7F-A1-01-D9-1D-2E-7F-A1-01-E9-77-14-95-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3A905A6</Offset>
+      <ValueOn>E9-55-EB-6A-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-E8-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813F200</Offset>
+      <ValueOn>C5-F8-10-88-F0-01-00-00-83-3D-31-7E-A1-01-00-0F-84-AC-AD-06-FB-81-3D-51-7E-A1-01-00-40-1C-45-74-28-81-3D-F5-7D-A1-01-10-40-00-00-75-1C-C7-05-39-7E-A1-01-00-40-1C-45-D9-05-23-7E-A1-01-D8-05-2D-7E-A1-01-D9-1D-17-7E-A1-01-81-3D-CD-7D-A1-01-40-40-00-00-74-29-D9-05-E5-7D-A1-01-D9-98-F0-01-00-00-D9-05-E9-7D-A1-01-D9-98-F4-01-00-00-D9-05-ED-7D-A1-01-D9-98-F8-01-00-00-E9-43-AD-06-FB-48-C7-05-B7-7D-A1-01-00-00-00-00-48-C7-05-CC-7D-A1-01-00-00-00-00-E9-28-AD-06-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>31A9FB9</Offset>
+      <ValueOn>E9-42-52-F9-04-90-90-90</ValueOn>
+      <ValueOff>C5-F8-10-88-F0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---Unlock All Fast Travel Locations (requires MC)" Description="When activated, you can fast travel to any fast travel locations, even if they're still locked. If you fast traveled to a locked location, it will then be unlocked.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813ED06</Offset>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Spells - No Cooldown" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>29CCC79</Offset>
+      <ValueOn>0F-57-C0-90</ValueOn>
+      <ValueOff>C5-FA-5C-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Infinite Potion Duration" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>3676966</Offset>
+      <ValueOn>F3-0F-10-C2-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-5C-85-6C-FF-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
   <Cheat Text="Stealth Mode" Description="Enemies will be able to see you only after they get attacked. Note that this cheat has not been thoroughly tested and might cause progression issues, especially in case a fight is required to progress, thus enemies need to detect you first (boss fights likely).In such cases, you may need to disable the cheat and continue or restart from the last checkpoint with the cheat disabled.">
     <Cheatline>
       <Section>0</Section>
@@ -29,9 +317,87 @@
   <Cheat Text="Infinite Broom Boost" Description="">
     <Cheatline>
       <Section>0</Section>
-      <Offset>317F74E</Offset>
+      <Offset>317F754</Offset>
       <ValueOn>F3-0F-10-C3</ValueOn>
       <ValueOff>C5-FA-58-C3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Combo (on gain)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813ED20</Offset>
+      <ValueOn>F3-41-0F-2A-85-98-1D-00-00-C4-C1-7A-11-85-88-3E-00-00-E9-B0-C9-89-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>29DB6DE</Offset>
+      <ValueOn>E9-3D-36-76-05-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-85-88-3E-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="0 Quidditch Trial Timer" Description="Scoreboard will display 1 Second">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>319C63B</Offset>
+      <ValueOn>B8-6F-12-83-3A-66-0F-6E-C0-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-58-86-78-03-00-00-C4-C1-7A-11-86-78-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Fast Complete Duelling" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813ED40</Offset>
+      <ValueOn>51-8B-8F-5C-01-00-00-89-8F-58-01-00-00-59-FF-87-58-01-00-00-E9-F1-DE-D0-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2E4CC44</Offset>
+      <ValueOn>E9-F7-20-2F-05-90</ValueOn>
+      <ValueOff>FF-87-58-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Fast Complete Challenges" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813ED60</Offset>
+      <ValueOn>8B-43-40-89-46-0C-3B-43-40-E9-9F-94-6C-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2808207</Offset>
+      <ValueOn>E9-54-6B-93-05-90</ValueOn>
+      <ValueOff>89-46-0C-3B-43-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Gain Max Money (READ INFO)" Description="When activated, shop items will cost negative money, which mean you will gain money when buying from shops. This is a one time use cheat. Be sure to enable it ONLY right before starting shopping and disable it immediately after completing shopping. Do not enable the cheat after gaining sufficient funds. 10 million coins are usually enough for the entire game.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813ED80</Offset>
+      <ValueOn>49-83-FB-63-75-0B-D9-05-0F-00-00-00-D9-E0-D9-5F-5C-C5-FA-10-77-5C-E9-F9-B1-CD-F9-00-C0-79-44</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1E19F8F</Offset>
+      <ValueOn>E9-EC-4D-32-06</ValueOn>
+      <ValueOff>C5-FA-10-77-5C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="99 Talent Points" Description="Takes effect when you open the Talents menu or when you spend talent points.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>813EDD0</Offset>
+      <ValueOn>41-BE-63-00-00-00-44-89-F0-48-83-C4-38-E9-3A-F4-3B-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>34FE215</Offset>
+      <ValueOn>E9-B6-0B-C4-04-90-90</ValueOn>
+      <ValueOff>44-89-F0-48-83-C4-38</ValueOff>
     </Cheatline>
   </Cheat>
 </Trainer>

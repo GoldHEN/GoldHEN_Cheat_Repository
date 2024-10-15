@@ -17,6 +17,356 @@
       ]
     },
     {
+      "name": "Master Codes - Must always enable",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "813EA00",
+          "on": "48893DF985A101C5FA108FA4010000E909D788FA",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "29CC115",
+          "on": "E9E6287705909090",
+          "off": "C5FA108FA4010000"
+        },
+        {
+          "offset": "813EA20",
+          "on": "483B1DD985A101741666833D35000000017524C7857CFDFFFF00000000EB1866833D1D00000001750ED983180E0000D99D7CFDFFFFEB00C5FA10857CFDFFFFE93E0422FB00000000",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "335EE9A",
+          "on": "E981FBDD04909090",
+          "off": "C5FA10857CFDFFFF"
+        },
+        {
+          "offset": "813EAF0",
+          "on": "C687AB0300000080BFAB03000000E9E78479FB",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "38D6FE3",
+          "on": "E9087B86049090",
+          "off": "80BFAB03000000"
+        },
+        {
+          "offset": "813EB10",
+          "on": "0FAF350C0000004889B500FFFFFFE94DF0D3FA00000001",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2E7DB69",
+          "on": "E9A20F2C059090",
+          "off": "4889B500FFFFFF"
+        },
+        {
+          "offset": "813EB30",
+          "on": "4C8935D984A101498B064C89F7E9734220F9",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1342DAF",
+          "on": "E97CBDDF0690",
+          "off": "498B064C89F7"
+        },
+        {
+          "offset": "813EB50",
+          "on": "C4C17A1087B40000005048A11070F509000000004939C77406493B47207508F30F59050600000058E924306EFE0000803F",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6821B98",
+          "on": "E9B3CF910190909090",
+          "off": "C4C17A1087B4000000"
+        },
+        {
+          "offset": "813ED00",
+          "on": "C687D90100000080BFD901000000E957C317FB",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "32BB063",
+          "on": "E9983CE8049090",
+          "off": "80BFD901000000"
+        }
+      ]
+    },
+    {
+      "name": "---Infinite Health (requires MC)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "813EA64",
+          "on": "0100",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "---One Hit Kill (requires MC)",
+      "description": "Using OHK on specific bosses, such as the first Goblin in Hogsmeade will cause progression issues. Also, deactive the cheat when practicing in Hogwarts, especially with dummies (eg. The Chinese chomping cabbage practice) as you may not be able to complete the training. If you get stuck after killing an enemy, disable OHK and reload the last save to complete the fight without it, then you may re-activate the cheat.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "813EA66",
+          "on": "0100",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ancient Magic",
+      "description": "Using OHK on specific bosses, such as the first Goblin in Hogsmeade will cause progression issues. Also, deactive the cheat when practicing in Hogwarts, especially with dummies (eg. The Chinese chomping cabbage practice) as you may not be able to complete the training. If you get stuck after killing an enemy, disable OHK and reload the last save to complete the fight without it, then you may re-activate the cheat.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "29D9602",
+          "on": "C5FA5F8B181D0000",
+          "off": "C5FA5D8B181D0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "description": "Works for most items, including potions, resources etc",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "813EF00",
+          "on": "83F9007D584183F80174504183F802744A4183F80374444183F806743E4183F80774384183F80874324183F810742C4183F81174264183F81274204183F813741A4183F81474144183F815740E4183F81674084183F8177402EB0231C944898534FDFFFFE930B71CFB",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "330A692",
+          "on": "E96948E3049090",
+          "off": "44898534FDFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items Usage",
+      "description": "Takes effect when you use an item, the item amount won't decrease. Works for most usable items, such as potios.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3312004",
+          "on": "B900000000",
+          "off": "B9FFFFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Instant Brew Potions",
+      "description": "Activate before brewing a potion.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "813EAC0",
+          "on": "48C7C0A08601004803475848894770E9615828FB",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "33C432D",
+          "on": "E98EA7D704909090",
+          "off": "4803475848894770"
+        }
+      ]
+    },
+    {
+      "name": "Instant Grow Plants",
+      "description": "Active before planting seeds.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32DEC64",
+          "on": "89F090",
+          "off": "0F4CC6"
+        }
+      ]
+    },
+    {
+      "name": "---Ignore Conjuration Requirements (requires MC)",
+      "description": "When activated, you can craft items using the conjuring spell even if you don't have enough resources. If you do have resources, they will be used.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "813EAF6",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "---XP Multiplier x5",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "813EB23",
+          "on": "05000000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "---XP Multiplier x10",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "813EB23",
+          "on": "0A000000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "---XP Multiplier x50",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "813EB23",
+          "on": "32000000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "---XP Multiplier x100",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "813EB23",
+          "on": "64000000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "---XP Multiplier x999",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "813EB23",
+          "on": "E7030000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "---Player Speed x2",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "813EB7D",
+          "on": "00000040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "---Player Speed x3",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "813EB7D",
+          "on": "00004040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "---Player Speed x4",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "813EB7D",
+          "on": "00008040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Teleport To Map Waypoint",
+      "description": "Enable Infinite HP cheat as a precaution. After being teleported, wait a few seconds for rendering to complete. When its done, press X + DPAD DOWN to continue. If you get teleported BELOW THE MAP after the game completes rendering, first press X + DPAD UP to lift you above the map and then press X + DPAD DOWN to continue. If for any reason you end up falling infinitely below the map, exit the game and re-launch it. AVOID teleporting yourself to places that are still locked, which you are not suppose to be able to reach yet, as this may cause game progession issue or other issues. DOESNT WORK IN FLY MODE.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "813F000",
+          "on": "C5FC114820C5FC110048A33070F509000000008B00A32070F5090000000048A13070F50900000000E94DCB99FC",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4ADBB71",
+          "on": "E98A34660390909090",
+          "off": "C5FC114820C5FC1100"
+        },
+        {
+          "offset": "813F100",
+          "on": "C5FA118BE8010000D983E0010000D91D2C7FA101D983E4010000D91D307FA101D983E8010000D805447FA101D91D2E7FA101E9771495FB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3A905A6",
+          "on": "E955EB6A04909090",
+          "off": "C5FA118BE8010000"
+        },
+        {
+          "offset": "813F200",
+          "on": "C5F81088F0010000833D317EA101000F84ACAD06FB813D517EA10100401C457428813DF57DA10110400000751CC705397EA10100401C45D905237EA101D8052D7EA101D91D177EA101813DCD7DA101404000007429D905E57DA101D998F0010000D905E97DA101D998F4010000D905ED7DA101D998F8010000E943AD06FB48C705B77DA1010000000048C705CC7DA10100000000E928AD06FB",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "31A9FB9",
+          "on": "E94252F904909090",
+          "off": "C5F81088F0010000"
+        }
+      ]
+    },
+    {
+      "name": "---Unlock All Fast Travel Locations (requires MC)",
+      "description": "When activated, you can fast travel to any fast travel locations, even if they're still locked. If you fast traveled to a locked location, it will then be unlocked.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "813ED06",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Spells - No Cooldown",
+      "description": "",
+      "memory": [
+        {
+          "offset": "29CCC79",
+          "on": "0F57C090",
+          "off": "C5FA5CC1"
+        }
+      ]
+    },
+    {
+      "name": "Max Infinite Potion Duration",
+      "description": "",
+      "memory": [
+        {
+          "offset": "3676966",
+          "on": "F30F10C290909090",
+          "off": "C5FA5C856CFFFFFF"
+        }
+      ]
+    },
+    {
       "name": "Stealth Mode",
       "description": "Enemies will be able to see you only after they get attacked. Note that this cheat has not been thoroughly tested and might cause progression issues, especially in case a fight is required to progress, thus enemies need to detect you first (boss fights likely).In such cases, you may need to disable the cheat and continue or restart from the last checkpoint with the cheat disabled.",
       "memory": [
@@ -43,9 +393,100 @@
       "description": "",
       "memory": [
         {
-          "offset": "317F74E",
+          "offset": "317F754",
           "on": "F30F10C3",
           "off": "C5FA58C3"
+        }
+      ]
+    },
+    {
+      "name": "Max Combo (on gain)",
+      "description": "",
+      "memory": [
+        {
+          "offset": "813ED20",
+          "on": "F3410F2A85981D0000C4C17A1185883E0000E9B0C989FA",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "29DB6DE",
+          "on": "E93D36760590909090",
+          "off": "C4C17A1185883E0000"
+        }
+      ]
+    },
+    {
+      "name": "0 Quidditch Trial Timer",
+      "description": "Scoreboard will display 1 Second",
+      "memory": [
+        {
+          "offset": "319C63B",
+          "on": "B86F12833A660F6EC0909090909090909090",
+          "off": "C4C17A588678030000C4C17A118678030000"
+        }
+      ]
+    },
+    {
+      "name": "Fast Complete Duelling",
+      "description": "",
+      "memory": [
+        {
+          "offset": "813ED40",
+          "on": "518B8F5C010000898F5801000059FF8758010000E9F1DED0FA",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2E4CC44",
+          "on": "E9F7202F0590",
+          "off": "FF8758010000"
+        }
+      ]
+    },
+    {
+      "name": "Fast Complete Challenges",
+      "description": "",
+      "memory": [
+        {
+          "offset": "813ED60",
+          "on": "8B434089460C3B4340E99F946CFA",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "2808207",
+          "on": "E9546B930590",
+          "off": "89460C3B4340"
+        }
+      ]
+    },
+    {
+      "name": "Gain Max Money (READ INFO)",
+      "description": "When activated, shop items will cost negative money, which mean you will gain money when buying from shops. This is a one time use cheat. Be sure to enable it ONLY right before starting shopping and disable it immediately after completing shopping. Do not enable the cheat after gaining sufficient funds. 10 million coins are usually enough for the entire game.",
+      "memory": [
+        {
+          "offset": "813ED80",
+          "on": "4983FB63750BD9050F000000D9E0D95F5CC5FA10775CE9F9B1CDF900C07944",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1E19F8F",
+          "on": "E9EC4D3206",
+          "off": "C5FA10775C"
+        }
+      ]
+    },
+    {
+      "name": "99 Talent Points",
+      "description": "Takes effect when you open the Talents menu or when you spend talent points.",
+      "memory": [
+        {
+          "offset": "813EDD0",
+          "on": "41BE630000004489F04883C438E93AF43BFB",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "34FE215",
+          "on": "E9B60BC4049090",
+          "off": "4489F04883C438"
         }
       ]
     }
