@@ -187,7 +187,6 @@ SLUS00293_01.00.shn=Lethal Enforcers I & II (USA)
 CUSA32039_01.05.shn=The Lord of the Rings: Gollum
 SLPM86037_01.00.shn=Salamander Deluxe Pack
 CUSA07211_01.01.shn= Final fantasy VII remake
-CUSA15536 01.67.shn=(null)
 CUSA40975_01.07.shn=Assassin's Creed® Mirage
 CUSA34697_01.03.shn=sand land
 CUSA02491_01.10.shn=Mass Effect - Andromeda
