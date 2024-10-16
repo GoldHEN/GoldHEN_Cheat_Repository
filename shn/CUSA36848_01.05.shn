@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lies Of P" Moder="Celogamez" Cusa="CUSA36848" Version="01.05" Process="eboot.bin">
+   <Genres Name="Action" />
+   <Genres Name="RPG" />
+   <Items />
+   <Cheat Text="Infinite Health/1 Hit Kill/Stamina/Fable/Legion (MASTERCODE/MUST BE ON">
+      <Cheatline>
+         <Offset>69DFDB0</Offset>
+         <Section>0</Section>
+         <ValueOn>43-83-BC-FD-FC-00-00-00-0C-75-14-43-89-4C-FD-0C-E9-AD-03-BD-FA-43-89-4C-FD-0C-E9-A3-03-BD-FA-49-83-FB-0C-75-0A-43-89-4C-FD-0C-E9-93-03-BD-FA-49-83-FF-05-75-0A-43-89-4C-FD-0C-E9-83-03-BD-FA-49-83-FF-0A-75-0A-43-89-4C-FD-0C-E9-73-03-BD-FA-49-83-FF-14-75-C0-43-89-4C-FD-0C-E9-63-03-BD-FA</ValueOn>
+         <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+      </Cheatline>
+      <Cheatline>
+         <Offset>15B016D</Offset>
+         <Section>0</Section>
+         <ValueOn>E9-3E-FC-42-05</ValueOn>
+         <ValueOff>43-89-4C-FD-0C</ValueOff>
+      </Cheatline>
+   </Cheat>
+   <Cheat Text="Infinite Health (hold L1 T Max)">
+      <Cheatline>
+         <Offset>69DFDBB</Offset>
+         <Section>0</Section>
+         <ValueOn>43-89-7C-FD-0C</ValueOn>
+         <ValueOff>43-89-4C-FD-0C</ValueOff>
+      </Cheatline>
+   </Cheat>
+   <Cheat Text="1 Hit Kill">
+      <Cheatline>
+         <Offset>69DFDD5</Offset>
+         <Section>0</Section>
+         <ValueOn>4F-89-7C-FD-0C</ValueOn>
+         <ValueOff>43-89-4C-FD-0C</ValueOff>
+      </Cheatline>
+   </Cheat>
+   <Cheat Text="Infinite Stamina">
+      <Cheatline>
+         <Offset>69DFDE5</Offset>
+         <Section>0</Section>
+         <ValueOn>43-8B-4C-FD-0C</ValueOn>
+         <ValueOff>43-89-4C-FD-0C</ValueOff>
+      </Cheatline>
+   </Cheat>
+   <Cheat Text="Infinite Fables">
+      <Cheatline>
+         <Offset>69DFDF5</Offset>
+         <Section>0</Section>
+         <ValueOn>43-89-7C-FD-0C</ValueOn>
+         <ValueOff>43-89-4C-FD-0C</ValueOff>
+      </Cheatline>
+   </Cheat>
+   <Cheat Text="Infinite Legion">
+      <Cheatline>
+         <Offset>69DFE05</Offset>
+         <Section>0</Section>
+         <ValueOn>43-89-7C-FD-0C</ValueOn>
+         <ValueOff>43-89-4C-FD-0C</ValueOff>
+      </Cheatline>
+   </Cheat>
+   <Cheat Text="Max Items On Pick Up (x2 To Work)">
+      <Cheatline>
+         <Offset>69DFA30</Offset>
+         <Section>0</Section>
+         <ValueOn>49-8B-3F-C7-47-40-62-00-00-00-8B-77-40-E9-A8-12-C4-FA</ValueOn>
+         <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+      </Cheatline>
+      <Cheatline>
+         <Offset>1620CE4</Offset>
+         <Section>0</Section>
+         <ValueOn>E9-47-ED-3B-05-90</ValueOn>
+         <ValueOff>49-8B-3F-8B-77-40</ValueOff>
+      </Cheatline>
+   </Cheat>
+   <Cheat Text="Infinite Items on Use">
+      <Cheatline>
+         <Offset>69DFB60</Offset>
+         <Section>0</Section>
+         <ValueOn>0F-83-B4-D3-C4-FA-C7-43-40-64-00-00-00-8B-73-40-E9-6B-D3-C4-FA</ValueOn>
+         <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+      </Cheatline>
+      <Cheatline>
+         <Offset>162CEDB</Offset>
+         <Section>0</Section>
+         <ValueOn>E9-80-2C-3B-05</ValueOn>
+         <ValueOff>73-43-8B-73-40</ValueOff>
+      </Cheatline>
+   </Cheat>
+   <Cheat Text="Infinite Weapon Sharpness Durability">
+      <Cheatline>
+         <Offset>69DF6E0</Offset>
+         <Section>0</Section>
+         <ValueOn>B8-20-4E-00-00-41-89-85-DC-00-00-00-E9-3F-08-C5-FA</ValueOn>
+         <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+      </Cheatline>
+      <Cheatline>
+         <Offset>162FF29</Offset>
+         <Section>0</Section>
+         <ValueOn>E9-B2-F7-3A-05-90-90</ValueOn>
+         <ValueOff>41-89-85-DC-00-00-00</ValueOff>
+      </Cheatline>
+   </Cheat>
+   <Cheat Text="Max Ergo">
+      <Cheatline>
+         <Offset>69DF910</Offset>
+         <Section>0</Section>
+         <ValueOn>B9-FF-C9-9A-3B-89-88-A4-00-00-00-E9-2E-03-E9-FA</ValueOn>
+         <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+      </Cheatline>
+      <Cheatline>
+         <Offset>186FC48</Offset>
+         <Section>0</Section>
+         <ValueOn>E9-C3-FC-16-05-90</ValueOn>
+         <ValueOff>89-88-A4-00-00-00</ValueOff>
+      </Cheatline>
+   </Cheat>
+   <Cheat Text="Zero Weight">
+      <Cheatline>
+         <Offset>69DFD00</Offset>
+         <Section>0</Section>
+         <ValueOn>0F-85-D3-E2-D9-FA-48-83-FE-45-75-07-C7-47-0C-00-00-00-00-8B-47-0C-E9-C2-E2-D9-FA</ValueOn>
+         <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+      </Cheatline>
+      <Cheatline>
+         <Offset>177DFD8</Offset>
+         <Section>0</Section>
+         <ValueOn>E9-23-1D-26-05</ValueOn>
+         <ValueOff>75-05-8B-47-0C</ValueOff>
+      </Cheatline>
+   </Cheat>
+</Trainer>
