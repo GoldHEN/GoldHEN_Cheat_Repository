@@ -208,6 +208,7 @@ CUSA00207_01.09_2.shn=Bloodborne
 CUSA31873_01.01.shn=FIFA 23
 SLUS20917_01.00.shn=SONIC-MEGA-COLLECTION-PLUS
 CUSA05787_01.00_kh3d.elf.shn=KINGDOM HEARTS Dream Drop Distance
+CUSA36848_01.05.shn=Lies Of P
 CUSA05720_01.06.shn=Rise of the Tomb Raider 20 Year Celebration
 SLUS20990_01.00.shn=Metal Slug 5
 CUSA12596_01.07.shn=zomie army dead war 4
