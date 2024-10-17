@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="STREETS OF RAGE 4" Moder="Ali-mk" Cusa="CUSA16221" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health-(Master-Code)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>3623800</Offset>
+      <ValueOn>41-83-BC-24-AC-00-00-00-02-75-0A-41-8B-44-24-0C-E9-7B-26-09-FD-41-89-44-24-20-E9-71-26-09-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>6B5E8B</Offset>
+      <ValueOn>E9-70-D9-F6-02</ValueOn>
+      <ValueOff>41-89-44-24-20</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>3623821</Offset>
+      <ValueOn>41-83-BC-24-38-02-00-00-00-75-E9-41-8B-44-24-0C-E9-5A-26-09-FD-41-89-44-24-20-E9-50-26-09-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>6B5E8B</Offset>
+      <ValueOn>E9-91-D9-F6-02</ValueOn>
+      <ValueOff>E9-70-D9-F6-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-lives">
+    <Cheatline>
+      <Offset>2AFD38</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>FF-4C-03-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-stars-Power">
+    <Cheatline>
+      <Offset>281331</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>44-89-78-3C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
