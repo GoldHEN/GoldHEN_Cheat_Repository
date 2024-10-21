@@ -2,6 +2,7 @@ CUSA16345_01.01.shn=Immortals Fenyx Rising
 CUSA00341_01.00.shn=Uncharted 4 Dev Menu
 CUSA02376_01.52_2.shn=Assassins Creed® Syndicate
 CUSA34384_05.03.shn=God of War Ragnarok (+Valhalla DLC compatibility)
+CUSA26608_01.01.shn=BloodRayne Betrayal Fresh Bites
 CUSA01363_01.00.shn=Bloodborne
 CUSA18017_01.11.shn=(null)
 CUSA28527_01.18.shn=Elden Ring
