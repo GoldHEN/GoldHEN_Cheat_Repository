@@ -4,7 +4,7 @@
   "version": "05.01",
   "process": "eboot.bin",
   "mods": [
-  {
+    {
       "name": "TRAINER INFO (read only)",
       "description": "Please  be sure to read the comment on each individual cheat, if a comment is available. For my most advanced Ragnarok trainer I recommend using my ShnExt trainer with MultiTrainer2. Enjoy! :-)",
       "type": "checkbox",
