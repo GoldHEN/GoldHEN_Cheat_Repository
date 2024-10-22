@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="STAR WARS Jedi Survivor" Moder="Pharaoh2k" Cusa="CUSA33778" Version="01.03" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="TRAINER INFO (read only)" Description="BE SURE TO READ ALL the comments where available. As a rule of thumb (for all games), ALWAYS enable only cheats that are needed and disable when they are not. For an even more advanced trainer, check out my MultiTrainer2 ShnExt trainer. This trainer was made and tested on PS4 Firmware 9.00, but should also work on other firmwares.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>431B000</Offset>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="God Mode - Untouchable (Master Code)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>431B010</Offset>
+      <ValueOn>C6-43-5A-8D-80-3D-14-00-00-00-01-75-06-C6-43-5A-8C-EB-00-80-B8-90-01-00-00-00-E9-8D-94-3E-FC-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7044B5</Offset>
+      <ValueOn>E9-56-6B-C1-03-90-90</ValueOn>
+      <ValueOff>80-B8-90-01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="God Mode Toggle (Requires MC)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>431B02F</Offset>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
