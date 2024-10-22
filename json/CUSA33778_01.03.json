@@ -1,0 +1,52 @@
+{
+  "name": "STAR WARS Jedi Survivor",
+  "id": "CUSA33778",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "TRAINER INFO (read only)",
+      "description": "BE SURE TO READ ALL the comments where available. As a rule of thumb (for all games), ALWAYS enable only cheats that are needed and disable when they are not. For an even more advanced trainer, check out my MultiTrainer2 ShnExt trainer. This trainer was made and tested on PS4 Firmware 9.00, but should also work on other firmwares.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B000",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "God Mode - Untouchable (Master Code)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B010",
+          "on": "C6435A8D803D14000000017506C6435A8CEB0080B89001000000E98D943EFC90",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7044B5",
+          "on": "E9566BC1039090",
+          "off": "80B89001000000"
+        }
+      ]
+    },
+    {
+      "name": "God Mode Toggle (Requires MC)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B02F",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Pharaoh2k"
+  ]
+}

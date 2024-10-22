@@ -1,0 +1,369 @@
+{
+  "name": "Metaphor ReFantazio",
+  "id": "CUSA23631",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Backport by CyB1K 505 - 9",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298A11",
+          "on": "C390",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Walkthrough Walls",
+      "description": "how to turn on: quick press L2 + R2, how to turn off: quick press L2 + R1 or L2 + down or option button, make sure when turning off you are in floor / not outside of mini map",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298A21",
+          "on": "8B4B0880BB6130000042741580BB6130000040740C80BB66300000027419EB2D9080BB00240000017523C643080083F904E9C310C1FE9080BB0024000001750DC643080183F904E9AD10C1FE9083F904E9A410C1FE90",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "EA9B14",
+          "on": "E908EF3E0190",
+          "off": "8B4B0883F904"
+        }
+      ]
+    },
+    {
+      "name": "Walkthrough Walls Fixed",
+      "description": "this will fixed your character in some area if your character floating in air, take note not all can be fixed ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7254BB",
+          "on": "C680800A000000",
+          "off": "80B8800A000000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Enemy from Orignal Posistion",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "727FA5",
+          "on": "41C685800A000000",
+          "off": "4180BD800A000000"
+        }
+      ]
+    },
+    {
+      "name": "Invulnerable",
+      "description": "field only",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6EA08C",
+          "on": "9090909090",
+          "off": "E8CF7D0200"
+        }
+      ]
+    },
+    {
+      "name": "Run Speed",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9164B0",
+          "on": "C4C17A580424",
+          "off": "C4C17A590424"
+        }
+      ]
+    },
+    {
+      "name": "Master Code Archetype ID Modifier",
+      "description": "need atleast 2 archetype, then go to archetype equipment list, equip the 1st slot archetype, when prompt Yes or No, turn this cheat \"On\" then click Yes, it will change your archetype, turn off this cheat and repeat the process, tutorial clip on discord Team Reaper",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298A91",
+          "on": "664489A0940000004983FC00741BEB1990FF809C000000E951B218FE90FF889C000000E945B218FE90E93FB218FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "423CF6",
+          "on": "E9964DE701909090",
+          "off": "664489A094000000"
+        }
+      ]
+    },
+    {
+      "name": "Increase Archetype ID",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298A9D",
+          "on": "7403",
+          "off": "741B"
+        }
+      ]
+    },
+    {
+      "name": "Decrease Archetype ID",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298A9D",
+          "on": "740F",
+          "off": "741B"
+        }
+      ]
+    },
+    {
+      "name": "Infinite HP",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298AD1",
+          "on": "4883F902740D4139C6410F4FC6E9004F1EFE904139C6410F4CC6E9F34E1EFE90",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "47D9DC",
+          "on": "E9F0B0E1019090",
+          "off": "4139C6410F4CC6"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298B01",
+          "on": "4883F902740D4139C6410F4FC6E9004F1EFE904139C6410F4CC6E9F34E1EFE90",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "47DA0C",
+          "on": "E9F0B0E1019090",
+          "off": "4139C6410F4CC6"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Turn",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15E3AB",
+          "on": "6683BD2CFFFFFF01",
+          "off": "6683BD2CFFFFFF00"
+        }
+      ]
+    },
+    {
+      "name": "Max Exp",
+      "description": "after battle / kill enemy in field",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "462C30",
+          "on": "440F47F8",
+          "off": "440F42F8"
+        }
+      ]
+    },
+    {
+      "name": "Max Exp Rank Archetype",
+      "description": "after battle / kill enemy in field",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "425364",
+          "on": "410F46DD",
+          "off": "410F43DD"
+        }
+      ]
+    },
+    {
+      "name": "Max Archetype Bonus Stats",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298B31",
+          "on": "42C68430D800000063420FBE8430D8000000E937A318FE90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "422E76",
+          "on": "E9B65CE70190909090",
+          "off": "420FBE8430D8000000"
+        }
+      ]
+    },
+    {
+      "name": "Max PlayerStats",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298B61",
+          "on": "C644072A63440FB66C072AE9FE511EFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "47DD69",
+          "on": "E9F3ADE10190",
+          "off": "440FB66C072A"
+        }
+      ]
+    },
+    {
+      "name": "All Consumable and Exchange Items",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298B81",
+          "on": "42C68428000E000063420FB68428000E0000E958041CFE90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "458FE7",
+          "on": "E995FBE30190909090",
+          "off": "420FB68428000E0000"
+        }
+      ]
+    },
+    {
+      "name": "All Key and Information Items",
+      "description": "includes dlc items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298BA1",
+          "on": "42C684280010000063420FB6842800100000E9C8041CFE90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "459077",
+          "on": "E925FBE30190909090",
+          "off": "420FB6842800100000"
+        },
+        {
+          "offset": "2298BC1",
+          "on": "42C684280014000063420FB6842800140000E938051CFE90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "459107",
+          "on": "E9B5FAE30190909090",
+          "off": "420FB6842800140000"
+        }
+      ]
+    },
+    {
+      "name": "All Weapons",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298BE1",
+          "on": "42C6042863420FB60428E9CC011CFE90",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "458DB7",
+          "on": "E925FEE301",
+          "off": "420FB60428"
+        }
+      ]
+    },
+    {
+      "name": "All Armours",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298C01",
+          "on": "42C684280004000063420FB6842800040000E928021CFE90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "458E37",
+          "on": "E9C5FDE30190909090",
+          "off": "420FB6842800040000"
+        }
+      ]
+    },
+    {
+      "name": "All Gears",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298C21",
+          "on": "42C684280008000063420FB6842800080000E998021CFE90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "458EC7",
+          "on": "E955FDE30190909090",
+          "off": "420FB6842800080000"
+        }
+      ]
+    },
+    {
+      "name": "All Accessories",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298C41",
+          "on": "42C68428000C000063420FB68428000C0000E908031CFE90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "458F57",
+          "on": "E9E5FCE30190909090",
+          "off": "420FB68428000C0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "description": "after buy in store",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43221B",
+          "on": "0F47C7",
+          "off": "0F42C7"
+        }
+      ]
+    },
+    {
+      "name": "Max MAG",
+      "description": "after battle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4322F1",
+          "on": "0F47C7",
+          "off": "0F42C7"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
+}

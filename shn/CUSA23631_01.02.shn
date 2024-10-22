@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Metaphor ReFantazio" Moder="d01v" Cusa="CUSA23631" Version="01.02" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Backport by CyB1K 505 - 9">
+    <Cheatline>
+      <Offset>2298A11</Offset>
+      <Section>0</Section>
+      <ValueOn>C3-90</ValueOn>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Walkthrough Walls" Description="how to turn on: quick press L2 + R2, how to turn off: quick press L2 + R1 or L2 + down or option button, make sure when turning off you are in floor / not outside of mini map">
+    <Cheatline>
+      <Offset>2298A21</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-4B-08-80-BB-61-30-00-00-42-74-15-80-BB-61-30-00-00-40-74-0C-80-BB-66-30-00-00-02-74-19-EB-2D-90-80-BB-00-24-00-00-01-75-23-C6-43-08-00-83-F9-04-E9-C3-10-C1-FE-90-80-BB-00-24-00-00-01-75-0D-C6-43-08-01-83-F9-04-E9-AD-10-C1-FE-90-83-F9-04-E9-A4-10-C1-FE-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>EA9B14</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-08-EF-3E-01-90</ValueOn>
+      <ValueOff>8B-4B-08-83-F9-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Walkthrough Walls Fixed" Description="this will fixed your character in some area if your character floating in air, take note not all can be fixed ">
+    <Cheatline>
+      <Offset>7254BB</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-80-80-0A-00-00-00</ValueOn>
+      <ValueOff>80-B8-80-0A-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Enemy from Orignal Posistion">
+    <Cheatline>
+      <Offset>727FA5</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-85-80-0A-00-00-00</ValueOn>
+      <ValueOff>41-80-BD-80-0A-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Invulnerable" Description="field only">
+    <Cheatline>
+      <Offset>6EA08C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-CF-7D-02-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Run Speed">
+    <Cheatline>
+      <Offset>9164B0</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-58-04-24</ValueOn>
+      <ValueOff>C4-C1-7A-59-04-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Master Code Archetype ID Modifier" Description="need atleast 2 archetype, then go to archetype equipment list, equip the 1st slot archetype, when prompt Yes or No, turn this cheat &quot;On&quot; then click Yes, it will change your archetype, turn off this cheat and repeat the process, tutorial clip on discord Team Reaper">
+    <Cheatline>
+      <Offset>2298A91</Offset>
+      <Section>0</Section>
+      <ValueOn>66-44-89-A0-94-00-00-00-49-83-FC-00-74-1B-EB-19-90-FF-80-9C-00-00-00-E9-51-B2-18-FE-90-FF-88-9C-00-00-00-E9-45-B2-18-FE-90-E9-3F-B2-18-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>423CF6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-96-4D-E7-01-90-90-90</ValueOn>
+      <ValueOff>66-44-89-A0-94-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Increase Archetype ID">
+    <Cheatline>
+      <Offset>2298A9D</Offset>
+      <Section>0</Section>
+      <ValueOn>74-03</ValueOn>
+      <ValueOff>74-1B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Decrease Archetype ID">
+    <Cheatline>
+      <Offset>2298A9D</Offset>
+      <Section>0</Section>
+      <ValueOn>74-0F</ValueOn>
+      <ValueOff>74-1B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite HP">
+    <Cheatline>
+      <Offset>2298AD1</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-F9-02-74-0D-41-39-C6-41-0F-4F-C6-E9-00-4F-1E-FE-90-41-39-C6-41-0F-4C-C6-E9-F3-4E-1E-FE-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>47D9DC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F0-B0-E1-01-90-90</ValueOn>
+      <ValueOff>41-39-C6-41-0F-4C-C6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite MP">
+    <Cheatline>
+      <Offset>2298B01</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-F9-02-74-0D-41-39-C6-41-0F-4F-C6-E9-00-4F-1E-FE-90-41-39-C6-41-0F-4C-C6-E9-F3-4E-1E-FE-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>47DA0C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F0-B0-E1-01-90-90</ValueOn>
+      <ValueOff>41-39-C6-41-0F-4C-C6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Turn">
+    <Cheatline>
+      <Offset>15E3AB</Offset>
+      <Section>0</Section>
+      <ValueOn>66-83-BD-2C-FF-FF-FF-01</ValueOn>
+      <ValueOff>66-83-BD-2C-FF-FF-FF-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Exp" Description="after battle / kill enemy in field">
+    <Cheatline>
+      <Offset>462C30</Offset>
+      <Section>0</Section>
+      <ValueOn>44-0F-47-F8</ValueOn>
+      <ValueOff>44-0F-42-F8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Exp Rank Archetype" Description="after battle / kill enemy in field">
+    <Cheatline>
+      <Offset>425364</Offset>
+      <Section>0</Section>
+      <ValueOn>41-0F-46-DD</ValueOn>
+      <ValueOff>41-0F-43-DD</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Archetype Bonus Stats">
+    <Cheatline>
+      <Offset>2298B31</Offset>
+      <Section>0</Section>
+      <ValueOn>42-C6-84-30-D8-00-00-00-63-42-0F-BE-84-30-D8-00-00-00-E9-37-A3-18-FE-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>422E76</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B6-5C-E7-01-90-90-90-90</ValueOn>
+      <ValueOff>42-0F-BE-84-30-D8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max PlayerStats">
+    <Cheatline>
+      <Offset>2298B61</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-44-07-2A-63-44-0F-B6-6C-07-2A-E9-FE-51-1E-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>47DD69</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F3-AD-E1-01-90</ValueOn>
+      <ValueOff>44-0F-B6-6C-07-2A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Consumable and Exchange Items">
+    <Cheatline>
+      <Offset>2298B81</Offset>
+      <Section>0</Section>
+      <ValueOn>42-C6-84-28-00-0E-00-00-63-42-0F-B6-84-28-00-0E-00-00-E9-58-04-1C-FE-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>458FE7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-95-FB-E3-01-90-90-90-90</ValueOn>
+      <ValueOff>42-0F-B6-84-28-00-0E-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Key and Information Items" Description="includes dlc items">
+    <Cheatline>
+      <Offset>2298BA1</Offset>
+      <Section>0</Section>
+      <ValueOn>42-C6-84-28-00-10-00-00-63-42-0F-B6-84-28-00-10-00-00-E9-C8-04-1C-FE-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>459077</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-25-FB-E3-01-90-90-90-90</ValueOn>
+      <ValueOff>42-0F-B6-84-28-00-10-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2298BC1</Offset>
+      <Section>0</Section>
+      <ValueOn>42-C6-84-28-00-14-00-00-63-42-0F-B6-84-28-00-14-00-00-E9-38-05-1C-FE-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>459107</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B5-FA-E3-01-90-90-90-90</ValueOn>
+      <ValueOff>42-0F-B6-84-28-00-14-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Weapons">
+    <Cheatline>
+      <Offset>2298BE1</Offset>
+      <Section>0</Section>
+      <ValueOn>42-C6-04-28-63-42-0F-B6-04-28-E9-CC-01-1C-FE-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>458DB7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-25-FE-E3-01</ValueOn>
+      <ValueOff>42-0F-B6-04-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Armours">
+    <Cheatline>
+      <Offset>2298C01</Offset>
+      <Section>0</Section>
+      <ValueOn>42-C6-84-28-00-04-00-00-63-42-0F-B6-84-28-00-04-00-00-E9-28-02-1C-FE-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>458E37</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C5-FD-E3-01-90-90-90-90</ValueOn>
+      <ValueOff>42-0F-B6-84-28-00-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Gears">
+    <Cheatline>
+      <Offset>2298C21</Offset>
+      <Section>0</Section>
+      <ValueOn>42-C6-84-28-00-08-00-00-63-42-0F-B6-84-28-00-08-00-00-E9-98-02-1C-FE-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>458EC7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-55-FD-E3-01-90-90-90-90</ValueOn>
+      <ValueOff>42-0F-B6-84-28-00-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Accessories">
+    <Cheatline>
+      <Offset>2298C41</Offset>
+      <Section>0</Section>
+      <ValueOn>42-C6-84-28-00-0C-00-00-63-42-0F-B6-84-28-00-0C-00-00-E9-08-03-1C-FE-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>458F57</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E5-FC-E3-01-90-90-90-90</ValueOn>
+      <ValueOff>42-0F-B6-84-28-00-0C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money" Description="after buy in store">
+    <Cheatline>
+      <Offset>43221B</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-47-C7</ValueOn>
+      <ValueOff>0F-42-C7</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max MAG" Description="after battle">
+    <Cheatline>
+      <Offset>4322F1</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-47-C7</ValueOn>
+      <ValueOff>0F-42-C7</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
