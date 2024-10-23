@@ -83,7 +83,7 @@
     },
     {
       "name": "Master Code Archetype ID Modifier",
-      "description": "need atleast 2 archetype, then go to archetype equipment list, equip the 1st slot archetype, when prompt Yes or No, turn this cheat \"On\" then click Yes, it will change your archetype, turn off this cheat and repeat the process, tutorial clip on discord Team Reaper",
+      "description": "need atleast 2 archetype, then go to archetype equipment list, equip the 1st slot archetype, when prompt Yes or No, turn this cheat ON then click Yes, it will change your archetype, turn off this cheat and repeat the process, tutorial clip on discord Team Reaper",
       "type": "checkbox",
       "memory": [
         {
