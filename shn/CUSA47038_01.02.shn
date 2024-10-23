@@ -56,7 +56,7 @@
       <ValueOff>C4-C1-7A-59-04-24</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Master Code Archetype ID Modifier" Description="need atleast 2 archetype, then go to archetype equipment list, equip the 1st slot archetype, when prompt Yes or No, turn this cheat &quot;On&quot; then click Yes, it will change your archetype, turn off this cheat and repeat the process, tutorial clip on discord Team Reaper">
+  <Cheat Text="Master Code Archetype ID Modifier" Description="need atleast 2 archetype, then go to archetype equipment list, equip the 1st slot archetype, when prompt Yes or No, turn this cheat ON then click Yes, it will change your archetype, turn off this cheat and repeat the process, tutorial clip on discord Team Reaper">
     <Cheatline>
       <Offset>2298A91</Offset>
       <Section>0</Section>
