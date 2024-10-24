@@ -1,0 +1,504 @@
+{
+  "name": "Metaphor ReFantazio",
+  "id": "CUSA47038",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Backport by CyB1K 505 - 9",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298D41",
+          "on": "C390",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Walkthrough Walls",
+      "description": "how to turn on quick press L2 + R2, how to turn off quick press L2 + R1 or L2 + down or option button, make sure when turning off you are in floor / not outside of mini map",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298D51",
+          "on": "8B4B0880BB6130000042741580BB6130000040740C80BB66300000027419EB2D9080BB00240000017523C643080083F904E93310C1FE9080BB0024000001750DC643080183F904E91D10C1FE9083F904E91410C1FE90",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "EA9DB4",
+          "on": "E998EF3E0190",
+          "off": "8B4B0883F904"
+        }
+      ]
+    },
+    {
+      "name": "Walkthrough Walls Fixed",
+      "description": "this will fixed your character in some area if your character floating in air",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7254BB",
+          "on": "C680800A000000",
+          "off": "80B8800A000000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Enemy from Orignal Posistion",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "727FA5",
+          "on": "41C685800A000000",
+          "off": "4180BD800A000000"
+        }
+      ]
+    },
+    {
+      "name": "Invulnerable",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6EA08C",
+          "on": "9090909090",
+          "off": "E8CF7D0200"
+        }
+      ]
+    },
+    {
+      "name": "Run Speed",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9165B0",
+          "on": "C4C17A580424",
+          "off": "C4C17A590424"
+        }
+      ]
+    },
+    {
+      "name": "Master Code Archetype ID Modifier",
+      "description": "need atleast 2 archetype, then go to archetype equipment list, equip the 1st slot archetype, when prompt Yes or No, turn this cheat On then click Yes, it will change your archetype, turn off this cheat and repeat the process, tutorial clip on discord Team Reaper",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298DB1",
+          "on": "664489A0940000004983FC00741BEB1990FF809C000000E931AF18FE90FF889C000000E925AF18FE90E91FAF18FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "423CF6",
+          "on": "E9B650E701909090",
+          "off": "664489A094000000"
+        }
+      ]
+    },
+    {
+      "name": "Increase Archetype ID",
+      "description": "must turn on MC Archertype ID Modifier",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298DBD",
+          "on": "7403",
+          "off": "741B"
+        }
+      ]
+    },
+    {
+      "name": "Decrease Archetype ID",
+      "description": "must turn on MC Archertype ID Modifier",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298DBD",
+          "on": "740F",
+          "off": "741B"
+        }
+      ]
+    },
+    {
+      "name": "Infinite HP",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298DF1",
+          "on": "4883F902740D4139C6410F4FC6E9E04B1EFE904139C6410F4CC6E9D34B1EFE90",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "47D9DC",
+          "on": "E910B4E1019090",
+          "off": "4139C6410F4CC6"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298E1F",
+          "on": "4883F902740D4139C6410F4FC6E9E24B1EFE904139C6410F4CC6E9D54B1EFE90",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "47DA0C",
+          "on": "E90EB4E1019090",
+          "off": "4139C6410F4CC6"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Turn",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15E3AB",
+          "on": "6683BD2CFFFFFF01",
+          "off": "6683BD2CFFFFFF00"
+        }
+      ]
+    },
+    {
+      "name": "Max Exp",
+      "description": "after battle / kill enemy in field",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "462C30",
+          "on": "440F47F8",
+          "off": "440F42F8"
+        }
+      ]
+    },
+    {
+      "name": "Max Exp Rank Archetype",
+      "description": "after battle / kill enemy in field",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "425364",
+          "on": "410F46DD",
+          "off": "410F43DD"
+        }
+      ]
+    },
+    {
+      "name": "Max Archetype Bonus Stats",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298E51",
+          "on": "42C68430D800000063420FBE8430D8000000E917A018FE90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "422E76",
+          "on": "E9D65FE70190909090",
+          "off": "420FBE8430D8000000"
+        }
+      ]
+    },
+    {
+      "name": "Max PlayerStats",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298E71",
+          "on": "C644072A63440FB66C072AE9EE4E1EFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "47DD69",
+          "on": "E903B1E10190",
+          "off": "440FB66C072A"
+        }
+      ]
+    },
+    {
+      "name": "All Consumable and Exchange Items",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298E91",
+          "on": "42C68428000E000063420FB68428000E0000E948011CFE90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "458FE7",
+          "on": "E9A5FEE30190909090",
+          "off": "420FB68428000E0000"
+        }
+      ]
+    },
+    {
+      "name": "All Key and Information Items",
+      "description": "includes dlc items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298EB1",
+          "on": "42C684280010000063420FB6842800100000E9B8011CFE90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "459077",
+          "on": "E935FEE30190909090",
+          "off": "420FB6842800100000"
+        },
+        {
+          "offset": "2298ED1",
+          "on": "42C684280014000063420FB6842800140000E928021CFE90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "459107",
+          "on": "E9C5FDE30190909090",
+          "off": "420FB6842800140000"
+        }
+      ]
+    },
+    {
+      "name": "All Weapons",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298EF1",
+          "on": "42C6042863420FB60428E9BCFE1BFE90",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "458DB7",
+          "on": "E93501E401",
+          "off": "420FB60428"
+        }
+      ]
+    },
+    {
+      "name": "All Armours",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298F11",
+          "on": "42C684280004000063420FB6842800040000E918FF1BFE90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "458E37",
+          "on": "E9D500E40190909090",
+          "off": "420FB6842800040000"
+        }
+      ]
+    },
+    {
+      "name": "All Gears",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298F31",
+          "on": "42C684280008000063420FB6842800080000E988FF1BFE90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "458EC7",
+          "on": "E96500E40190909090",
+          "off": "420FB6842800080000"
+        }
+      ]
+    },
+    {
+      "name": "All Accessories",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298F51",
+          "on": "42C68428000C000063420FB68428000C0000E9F8FF1BFE90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "458F57",
+          "on": "E9F5FFE30190909090",
+          "off": "420FB68428000C0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "description": "after buy in store or sell",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43221B",
+          "on": "0F47C7",
+          "off": "0F42C7"
+        }
+      ]
+    },
+    {
+      "name": "Max MAG",
+      "description": "after battle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4322F1",
+          "on": "0F47C7",
+          "off": "0F42C7"
+        }
+      ]
+    },
+    {
+      "name": "Max All Followers",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298F71",
+          "on": "89F0C70487080000008B0487E96D5819FE90",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "42E7EA",
+          "on": "E982A7E601",
+          "off": "89F08B0487"
+        }
+      ]
+    },
+    {
+      "name": "Max Royal Virtues",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "434A80",
+          "on": "440F4FE0",
+          "off": "440F4CE0"
+        }
+      ]
+    },
+    {
+      "name": "Master Code Daytime",
+      "description": "turn off if its only loading the screen, means there was an event need to skip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298F91",
+          "on": "488D45E4EB3590C60001480F48C1E90F624EFE90C60003480F48C1E902624EFE90C60005480F48C1E9F5614EFE90C60006480F48C1E9E8614EFE90480F48C1E9DE614EFE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "77F1AB",
+          "on": "E9E19DB101909090",
+          "off": "488D45E4480F48C1"
+        }
+      ]
+    },
+    {
+      "name": "Early Morning",
+      "description": "must turn on MC Daytime first",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298F95",
+          "on": "EB01",
+          "off": "EB35"
+        }
+      ]
+    },
+    {
+      "name": "Afternoon",
+      "description": "must turn on MC Daytime first",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298F95",
+          "on": "EB0E",
+          "off": "EB35"
+        }
+      ]
+    },
+    {
+      "name": "Night",
+      "description": "must turn on MC Daytime first",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298F95",
+          "on": "EB1B",
+          "off": "EB35"
+        }
+      ]
+    },
+    {
+      "name": "Late Night",
+      "description": "must turn on MC Daytime first",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298F95",
+          "on": "EB28",
+          "off": "EB35"
+        }
+      ]
+    },
+    {
+      "name": "Master Code Date",
+      "description": "do this on afternoon rest",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298FF1",
+          "on": "488D45DC4883FE00751DEB1B9066FF00480F48C1E9D4624EFE9066FF08480F48C1E9C7624EFE90480F48C1E9BD624EFE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "77F2D6",
+          "on": "E9169DB101909090",
+          "off": "488D45DC480F48C1"
+        }
+      ]
+    },
+    {
+      "name": "Increase Date",
+      "description": "must turn on MC Daytime first",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298FFB",
+          "on": "EB01",
+          "off": "EB1B"
+        }
+      ]
+    },
+    {
+      "name": "Decrease Date",
+      "description": "must turn on MC Daytime first",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2298FFB",
+          "on": "EB0E",
+          "off": "EB1B"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
+}
