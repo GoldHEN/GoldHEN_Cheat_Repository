@@ -185,6 +185,7 @@ CUSA00552_01.10.shn=The Last of Us Remastered
 SLUS00922_01.00.shn=Dino Crisis
 CUSA43774_01.04.shn=Tomb Raider I–III Remastered
 CUSA02320_01.02_big2-ps4_Shipping.elf.shn=Uncharted Collection - UNC2 Dev Menu
+CUSA36582_01.41.shn=Prince of Persia The Lost Crown
 SLUS00293_01.00.shn=Lethal Enforcers I &amp; II (USA)
 CUSA32039_01.05.shn=The Lord of the Rings: Gollum
 SLPM86037_01.00.shn=Salamander Deluxe Pack
