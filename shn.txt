@@ -306,6 +306,7 @@ CUSA36581_01.40.shn=Prince of Persia The Lost Crown
 CUSA34766_01.05_2.shn=Granblue Fantasy: Relink
 SLUS20151_01.00.shn=Klonoa 2-Lunateas Veil
 CUSA02092_01.12.shn=Doom
+CUSA44075_01.01.shn=Teenage Mutant Ninja Turtles Mutants Unleashed
 CUSA32137_01.13.shn=Like a Dragon Infinite Wealth
 CUSA01082_01.06.shn=The Evil Within
 CUSA28863_01.17_2.shn=Elden Ring
