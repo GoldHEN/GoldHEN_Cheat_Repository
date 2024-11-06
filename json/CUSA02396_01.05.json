@@ -1,0 +1,37 @@
+{
+  "name": "Frozen: Snowball Fight",
+  "id": "CUSA02396",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Hearts",
+      "description": "To activate this cheat you need to be on the level selection map. If you activate it before, the cheat will not work and will set your lives to 0
+      (Para activar este cheat debes de estar en el mapa de selección de niveles, si lo activas antes el cheat no funcionará y pondrá tus vidas en 0)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A786C5",
+          "on": "9090",
+          "off": "8908"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Moves",
+      "description": "You can activate it at any time in the game
+      (Puedes activarlo en cualquier momento del juego)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9E6230",
+          "on": "90909090",
+          "off": "4189474C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Bandicootmonito"
+  ]
+}

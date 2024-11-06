@@ -1,0 +1,49 @@
+{
+  "name": "Contra.Operation.Galuga",
+  "id": "CUSA42378",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C2972A",
+          "on": "90909090",
+          "off": "45897D10"
+        }
+      ]
+    },
+    {
+      "name": "MAX-CREDITS",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81681E93",
+          "on": "909090",
+          "off": "294838"
+        },
+        {
+          "offset": "80BEFFAE",
+          "on": "9090909090",
+          "off": "4189442410"
+        }
+      ]
+    },
+    {
+      "name": "Invincible-not all-enemy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80F4227B",
+          "on": "909090909090",
+          "off": "FF90E8010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk, Bandicootmonito"
+  ]
+}
