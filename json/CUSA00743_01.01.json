@@ -6,8 +6,7 @@
   "mods": [
     {
       "name": "Infinite Balls",
-      "description": "You can activate it at any time in the game
-      (Puedes activarlo en cualquier momento del juego)",
+      "description": "You can activate it at any time in the game (Puedes activarlo en cualquier momento del juego)",
       "type": "checkbox",
       "memory": [
         {
