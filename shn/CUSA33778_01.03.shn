@@ -10,7 +10,7 @@
       <ValueOff>00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="God Mode - Untouchable (Master Code)" Description="">
+  <Cheat Text="Master Code - Must be enabled first and always remain active" Description="">
     <Cheatline>
       <Section>0</Section>
       <Offset>431B010</Offset>
@@ -23,13 +23,193 @@
       <ValueOn>E9-56-6B-C1-03-90-90</ValueOn>
       <ValueOff>80-B8-90-01-00-00-00</ValueOff>
     </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>431B040</Offset>
+      <ValueOn>48-8B-83-C8-28-00-00-48-A3-70-00-20-05-00-00-00-00-E9-56-94-3E-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>7044A5</Offset>
+      <ValueOn>E9-96-6B-C1-03-90-90</ValueOn>
+      <ValueOff>48-8B-83-C8-28-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>431B1C0</Offset>
+      <ValueOn>48-29-C3-41-81-7F-4C-4C-01-00-00-75-1D-81-3B-F0-0E-F0-04-75-15-48-81-C3-54-01-00-00-48-89-1D-AD-4E-AE-00-48-81-EB-54-01-00-00-48-01-C3-48-85-D2-49-89-5E-38-E9-F4-62-1A-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>14C14E6</Offset>
+      <ValueOn>E9-D5-9C-E5-02-90-90</ValueOn>
+      <ValueOff>48-85-D2-49-89-5E-38</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>431B220</Offset>
+      <ValueOn>48-3B-35-69-4E-AE-00-75-0C-D9-45-DC-D8-0D-0D-00-00-00-D9-5D-DC-C5-FA-58-45-DC-E9-D2-2D-94-FE-00-00-80-3F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2C5E00C</Offset>
+      <ValueOn>E9-0F-D2-6B-01</ValueOn>
+      <ValueOff>C5-FA-58-45-DC</ValueOff>
+    </Cheatline>
   </Cheat>
-  <Cheat Text="God Mode Toggle (Requires MC)" Description="">
+  <Cheat Text="---God Mode Toggle (Requires MC)" Description="">
     <Cheatline>
       <Section>0</Section>
       <Offset>431B02F</Offset>
       <ValueOn>01</ValueOn>
       <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>431B060</Offset>
+      <ValueOn>48-3B-1D-09-50-AE-00-75-0A-C5-FA-10-83-88-01-00-00-EB-00-C5-FA-11-83-8C-01-00-00-E9-3E-17-3E-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>6FC7B6</Offset>
+      <ValueOn>E9-A5-E8-C1-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-8C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill" Description="Do not use it against bosses or you may encounter game progression issues.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>431B390</Offset>
+      <ValueOn>C5-FA-10-85-64-FD-FF-FF-48-3B-3D-D1-4C-AE-00-0F-84-5A-A7-43-FC-F3-0F-59-05-05-00-00-00-E9-4D-A7-43-FC-00-00-C6-42</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>755AF7</Offset>
+      <ValueOn>E9-94-58-BC-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-85-64-FD-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Drain Enemy Stamina" Description="Do not use it against bosses or you may encounter game progression issues.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>752DBA</Offset>
+      <ValueOn>C5-7A-11-4F-0C</ValueOn>
+      <ValueOff>C5-FA-11-4F-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Max Force" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>431B0C0</Offset>
+      <ValueOn>C5-FA-10-83-44-01-00-00-C5-FA-11-83-4C-01-00-00-E9-F3-44-D2-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>103F5C0</Offset>
+      <ValueOn>E9-FB-BA-2D-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-4C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Max Saber Stamina" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>431B0F0</Offset>
+      <ValueOn>C4-C1-7A-10-9E-FC-25-00-00-C4-C1-7A-11-9E-00-26-00-00-E9-44-44-D3-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>104F542</Offset>
+      <ValueOn>E9-A9-BB-2C-03-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-9E-00-26-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlimited Slow Motion Force" Description="After it's drained, must hit an enemy for it to fully refill instantly">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>431B120</Offset>
+      <ValueOn>49-83-F8-20-75-19-83-3E-00-75-14-81-BE-9C-FE-FF-FF-90-43-92-04-75-08-C7-06-00-00-C8-42-EB-00-C5-FA-10-45-D8-E9-C3-2E-94-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2C5E007</Offset>
+      <ValueOn>E9-14-D1-6B-01</ValueOn>
+      <ValueOff>C5-FA-10-45-D8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Max Blaster Bullets" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>431B160</Offset>
+      <ValueOn>41-81-7F-4C-60-03-00-00-75-13-81-BB-A0-FC-FF-FF-20-37-BE-04-75-07-D9-43-D8-D9-1B-EB-00-48-89-D6-4C-89-FF-E9-81-63-1A-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>14C1503</Offset>
+      <ValueOn>E9-58-9C-E5-02-90</ValueOn>
+      <ValueOff>48-89-D6-4C-89-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Companion Combat Meter" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>431B190</Offset>
+      <ValueOn>48-3D-54-02-00-00-75-14-81-BB-AC-FD-FF-FF-90-43-92-04-75-08-C7-03-00-00-C8-42-EB-00-49-8B-07-48-8B-80-D8-00-00-00-E9-3E-63-1A-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>14C14EF</Offset>
+      <ValueOn>E9-9C-9C-E5-02-90-90-90-90-90</ValueOn>
+      <ValueOff>49-8B-07-48-8B-80-D8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---XP Multiplier x5 (requires MC)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>431B23F</Offset>
+      <ValueOn>00-00-A0-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---XP Multiplier x10 (requires MC)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>431B23F</Offset>
+      <ValueOn>00-00-20-41</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="---XP Multiplier x25 (requires MC)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>431B23F</Offset>
+      <ValueOn>00-00-C8-41</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="99 Skill Points" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>431B250</Offset>
+      <ValueOn>41-81-7F-4C-4C-01-00-00-75-1A-81-3B-F0-0E-F0-04-75-12-49-63-47-4C-48-01-C3-C7-03-63-00-00-00-E9-72-62-1A-FD-49-63-47-4C-48-01-C3-E9-66-62-1A-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>14C14DF</Offset>
+      <ValueOn>E9-6C-9D-E5-02-90-90</ValueOn>
+      <ValueOff>49-63-47-4C-48-01-C3</ValueOff>
     </Cheatline>
   </Cheat>
 </Trainer>

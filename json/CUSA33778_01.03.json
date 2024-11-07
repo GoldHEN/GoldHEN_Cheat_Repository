@@ -17,7 +17,7 @@
       ]
     },
     {
-      "name": "God Mode - Untouchable (Master Code)",
+      "name": "Master Code - Must be enabled first and always remain active",
       "description": "",
       "type": "checkbox",
       "memory": [
@@ -30,11 +30,41 @@
           "offset": "7044B5",
           "on": "E9566BC1039090",
           "off": "80B89001000000"
+        },
+        {
+          "offset": "431B040",
+          "on": "488B83C828000048A37000200500000000E956943EFC",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7044A5",
+          "on": "E9966BC1039090",
+          "off": "488B83C8280000"
+        },
+        {
+          "offset": "431B1C0",
+          "on": "4829C341817F4C4C010000751D813BF00EF00475154881C35401000048891DAD4EAE004881EB540100004801C34885D249895E38E9F4621AFD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14C14E6",
+          "on": "E9D59CE5029090",
+          "off": "4885D249895E38"
+        },
+        {
+          "offset": "431B220",
+          "on": "483B35694EAE00750CD945DCD80D0D000000D95DDCC5FA5845DCE9D22D94FE0000803F",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2C5E00C",
+          "on": "E90FD26B01",
+          "off": "C5FA5845DC"
         }
       ]
     },
     {
-      "name": "God Mode Toggle (Requires MC)",
+      "name": "---God Mode Toggle (Requires MC)",
       "description": "",
       "type": "checkbox",
       "memory": [
@@ -42,6 +72,190 @@
           "offset": "431B02F",
           "on": "01",
           "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B060",
+          "on": "483B1D0950AE00750AC5FA108388010000EB00C5FA11838C010000E93E173EFC",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6FC7B6",
+          "on": "E9A5E8C103909090",
+          "off": "C5FA11838C010000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "description": "Do not use it against bosses or you may encounter game progression issues.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B390",
+          "on": "C5FA108564FDFFFF483B3DD14CAE000F845AA743FCF30F590505000000E94DA743FC0000C642",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "755AF7",
+          "on": "E99458BC03909090",
+          "off": "C5FA108564FDFFFF"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Drain Enemy Stamina",
+      "description": "Do not use it against bosses or you may encounter game progression issues.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "752DBA",
+          "on": "C57A114F0C",
+          "off": "C5FA114F0C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Max Force",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B0C0",
+          "on": "C5FA108344010000C5FA11834C010000E9F344D2FC",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "103F5C0",
+          "on": "E9FBBA2D03909090",
+          "off": "C5FA11834C010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Max Saber Stamina",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B0F0",
+          "on": "C4C17A109EFC250000C4C17A119E00260000E94444D3FC",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "104F542",
+          "on": "E9A9BB2C0390909090",
+          "off": "C4C17A119E00260000"
+        }
+      ]
+    },
+    {
+      "name": "Unlimited Slow Motion Force",
+      "description": "After it's drained, must hit an enemy for it to fully refill instantly",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B120",
+          "on": "4983F8207519833E00751481BE9CFEFFFF904392047508C7060000C842EB00C5FA1045D8E9C32E94FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2C5E007",
+          "on": "E914D16B01",
+          "off": "C5FA1045D8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Max Blaster Bullets",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B160",
+          "on": "41817F4C60030000751381BBA0FCFFFF2037BE047507D943D8D91BEB004889D64C89FFE981631AFD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14C1503",
+          "on": "E9589CE50290",
+          "off": "4889D64C89FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Companion Combat Meter",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B190",
+          "on": "483D54020000751481BBACFDFFFF904392047508C7030000C842EB00498B07488B80D8000000E93E631AFD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14C14EF",
+          "on": "E99C9CE5029090909090",
+          "off": "498B07488B80D8000000"
+        }
+      ]
+    },
+    {
+      "name": "---XP Multiplier x5 (requires MC)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B23F",
+          "on": "0000A040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "---XP Multiplier x10 (requires MC)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B23F",
+          "on": "00002041",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "---XP Multiplier x25 (requires MC)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B23F",
+          "on": "0000C841",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "99 Skill Points",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431B250",
+          "on": "41817F4C4C010000751A813BF00EF00475124963474C4801C3C70363000000E972621AFD4963474C4801C3E966621AFD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14C14DF",
+          "on": "E96C9DE5029090",
+          "off": "4963474C4801C3"
         }
       ]
     }
