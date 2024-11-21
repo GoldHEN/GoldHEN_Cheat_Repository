@@ -286,7 +286,6 @@ CUSA10237_01.52.json=Horizon Zero Dawn: Complete Edition
 CUSA05588_01.06.json=Nex Machina
 CUSA13946_01.03.json=Borderlands® 2 VR
 CUSA02646_01.00.json=This War of Mine
-CUSA00924_01.05.json=RESIDENT EVIL REVELATIONS 2
 CUSA00434_01.25.json=Diablo III: Reaper of Souls – Ultimate Evil Edition
 CUSA02748_01.05.json=Just Cause 3
 CUSA02962_01.37.json=Fallout 4 Game of the Year Edition
