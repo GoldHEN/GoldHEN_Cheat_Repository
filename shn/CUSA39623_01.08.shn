@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Skinny and Franko Fists of Violence" Moder="Ali-mk" Cusa="CUSA39623" Version="01.08" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>80EECFD2</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-49-7E-DC-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Power">
+    <Cheatline>
+      <Offset>80B5F8AA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-5F-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
