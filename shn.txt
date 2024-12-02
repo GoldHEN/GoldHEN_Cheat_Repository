@@ -244,6 +244,7 @@ CUSA36843_01.04.shn=Red Dead Redemption
 CUSA34386_05.04.shn=God of War Ragnarok (+Valhalla DLC compatibility)
 SLPM62602_01.00.shn=Yokushin - GigaWing Generations
 CUSA41303_01.40 .shn=Metal Gear Solid 2_Sons of Liberty
+CUSA46721_01.01.shn=Shadow of The Ninja Reborn
 CUSA03701_01.37.shn=Fallout 4 Game of the Year Edition
 CUSA00917_01.33.shn=Uncharted 4 Dev Menu
 CUSA00606_01.05.shn=Assassins Creed - Unity
