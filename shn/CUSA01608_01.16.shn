@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Enter The Gungeon" Moder="Jesca" Cusa="CUSA01608" Version="01.16" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>24D3800</Offset>
+      <ValueOn>90-E9-27-38-60-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>AD7026</Offset>
+      <ValueOn>E9-D5-C7-9F-01-90-90</ValueOn>
+      <ValueOff>41-89-87-78-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>24D3808</Offset>
+      <ValueOn>90-4C-89-F6-E9-D1-3A-60-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>AD72DC</Offset>
+      <ValueOn>E9-27-C5-9F-01-90</ValueOn>
+      <ValueOff>FF-40-14-4C-89-F6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Blanks">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>24D3813</Offset>
+      <ValueOn>90-E9-FE-6D-CE-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>1BA60D</Offset>
+      <ValueOn>E9-01-92-31-02-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-C8-41-89-84-24-10-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
