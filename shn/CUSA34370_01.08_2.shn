@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Aliens Dark Decent" Moder="d01v" Cusa="CUSA34370" Version="01.08" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Stock Tools x99 (Mission)">
+    <Cheatline>
+      <Offset>83A7601</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-44-F2-08-63-00-8B-44-F2-08-41-89-06-E9-6B-6D-85-FA-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2BFE378</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-84-92-7A-05-90-90</ValueOn>
+      <ValueOff>8B-44-F2-08-41-89-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Armor (Mission)">
+    <Cheatline>
+      <Offset>83A75B1</Offset>
+      <Section>0</Section>
+      <ValueOn>81-3B-48-30-D6-08-74-0E-C5-FA-11-83-40-01-00-00-E9-84-86-1A-FA-90-C7-83-40-01-00-00-00-00-C8-42-C5-FA-10-83-40-01-00-00-C5-FA-11-83-40-01-00-00-E9-64-86-1A-FA-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>254FC42</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6A-79-E5-05-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-40-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Stress Meter (Mission)">
+    <Cheatline>
+      <Offset>2708156</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite and Max Health">
+    <Cheatline>
+      <Offset>83A7621</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-95-B8-FE-FF-FF-81-3F-48-30-D6-08-75-24-C7-87-08-01-00-00-00-00-C8-42-C7-87-0C-01-00-00-00-00-C8-42-C7-87-10-01-00-00-00-00-C8-42-E9-09-91-0E-FB-90-E9-03-91-0E-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3490755</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C7-6E-F1-04-90-90</ValueOn>
+      <ValueOff>48-8B-95-B8-FE-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Med Bay Patient Recovery 0 Days " Description="always turn on this cheat">
+    <Cheatline>
+      <Offset>83A7661</Offset>
+      <Section>0</Section>
+      <ValueOn>48-C7-46-F8-00-00-00-00-48-8B-46-F8-39-C7-E9-A2-1C-8F-FA-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2C99310</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4C-E3-70-05-90</ValueOn>
+      <ValueOff>48-8B-46-F8-39-C7</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Stock Tools from Otago" Description="go to workshop then turn off this cheat">
+    <Cheatline>
+      <Offset>83A7681</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-FE-00-74-11-C7-44-B2-08-0F-27-00-00-41-89-06-E9-F8-1C-86-FA-90-C7-44-B2-08-0F-27-00-00-41-89-06-E9-E7-1C-86-FA-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2C09388</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F4-E2-79-05-90-90</ValueOn>
+      <ValueOff>8B-44-B2-08-41-89-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Bravery and Accuracy (Otago)" Description="view squad in mission, turn off this cheat after">
+    <Cheatline>
+      <Offset>83A76B1</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-47-28-00-00-C8-42-C5-FA-10-47-28-C5-FA-11-47-2C-C5-FA-11-47-30-E9-6D-58-CA-F9-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>204CF34</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-78-A7-35-06</ValueOn>
+      <ValueOff>C5-FA-10-47-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

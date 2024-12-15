@@ -1,0 +1,33 @@
+{
+  "name": "Oddworld: Abe's Oddysee - New 'n' Tasty",
+  "id": "CUSA00326",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "88138A",
+          "on": "90909090909090",
+          "off": "418986AC030000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Bombs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "88E334",
+          "on": "90909090909090",
+          "off": "41898694070000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}
