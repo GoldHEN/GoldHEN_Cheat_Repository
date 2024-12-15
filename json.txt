@@ -1019,6 +1019,7 @@ CUSA16221_01.01.json=Streets of Rage 4
 CUSA09193_01.06.json=RESIDENT EVIL 2
 CUSA07188_01.00.json=Bulletstorm: Full Clip Edition
 CUSA07691_01.00_hackGU_vol1.elf.json=.hack//G.U Last Recode [Vol.1 Rebirth]
+CUSA00326_01.06.json=Oddworld: Abe's Oddysee - New 'n' Tasty
 CUSA07559_01.00_hackGU_vol2.elf.json=.hack//G.U. Last Recode
 SCES53133_01.00.json=God of War
 CUSA18723_01.21.json=Elden Ring - Shadow of the Erdtree
