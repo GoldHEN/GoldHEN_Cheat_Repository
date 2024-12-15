@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Uncharted 4" Moder="Talixme" Cusa="CUSA00918" Version="01.32" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Debug Menu" Description="L3 + Start = Favorites Menu, L3 + Touchpad(Left Side) = Quick Menu, L3 + Touchpad(Right Side) = Dev Menu, L3 + R3 = Flymode">
+    <Cheatline>
+      <Offset>1F54C2</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-80-79-2E-00-00-01</ValueOn>
+      <ValueOff>80-B8-79-2E-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Debug menu Display">
+    <Cheatline>
+      <Offset>1F54C9</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-04</ValueOn>
+      <ValueOff>0F-84</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
