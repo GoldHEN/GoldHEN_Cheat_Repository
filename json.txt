@@ -718,6 +718,7 @@ CUSA11993_01.01.json=Marvels Spider-Man
 CUSA32137_01.13.json=Like a Dragon Infinite Wealth
 CUSA34388_05.04.json=God of War Ragnarok (+Valhalla DLC compatibility)
 CUSA33388_01.04.json=Resident Evil 4
+CUSA06313_01.22.json=Sackboy
 CUSA18659_01.01.json=Crysis® Remastered
 CUSA15927_01.10.json=Fury Unleashed
 CUSA12650_01.02.json=Hitman Absolution HD
