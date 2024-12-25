@@ -1,0 +1,49 @@
+{
+  "name": "Undertale",
+  "id": "CUSA09415",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "204E2B4F6",
+          "on": "90",
+          "off": "20"
+        },
+        {
+          "offset": "204E2B4E6",
+          "on": "90",
+          "off": "20"
+        }
+      ]
+    },
+    {
+      "name": "Max Exp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "204E2B416",
+          "on": "FF",
+          "off": "FF"
+        }
+      ]
+    },
+    {
+      "name": "Max GOLD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "204E2B426",
+          "on": "FF41",
+          "off": "FF41"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}
