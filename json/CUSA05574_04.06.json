@@ -1,0 +1,495 @@
+{
+    "name": "The Witcher 3 Wild Hunt",
+    "id": "CUSA05574",
+    "version": "04.06",
+    "process": "eboot.bin",
+    "mods": [
+        {
+            "name": "TRAINER INFO (read only)",
+            "description": "This is my v04.06 port for Cosmaty's excellent v01.50 trainer. I have added a teleport cheat, reset horse fear bar and No toxicity from decoctions. Important! Please be sure to read the cheats' comments, where available! I have partially tested it and it seems to be working fine, but please let me know if there is any issue. This version is multiCUSA compatible and since it is AOB based it should be fully or partially working on past and future versions of the game. Enjoy! :)",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EEFFF",
+                    "on": "00",
+                    "off": "00"
+                }
+            ]
+        },
+        {
+            "name": "Master Codes (Must be enabled!)",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF000",
+                    "on": "83792003741183792007745383792005746BE987000000833D9300000001750583F8007473833DA100000001750583F8037465833D8F00000001750583F8067462833D7D00000001750583F8097449833D6B00000001754683F80C743BEB3F833D5700000001750583F803742B833D4500000001752883F806741DEB21833D31000000017518813C810000F038740FC704810000F038EB0BC5FA10448104C5FA11048183FB060F85437CC4FEE9407CC4FE0000000000000000000000000000000000000000000000000000000000000000",
+                    "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "1136CEA",
+                    "on": "E911833B01",
+                    "off": "C5FA110481"
+                },
+                {
+                    "offset": "24EF258",
+                    "on": "4839F3750C418B04240345C8E92950E3FE41817C2404E80300007D02EBE78B050C000000F765C841030424E90A50E3FE04000000",
+                    "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "132428B",
+                    "on": "E9C8AF1C019090",
+                    "off": "418B04240345C8"
+                },
+                {
+                    "offset": "24EF2AC",
+                    "on": "C5FA10050C00000083BFD801000000E9515CC9FD0000803F",
+                    "off": "000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "184F0A",
+                    "on": "E99DA336029090",
+                    "off": "83BFD801000000"
+                },
+                {
+                    "offset": "24EF3BC",
+                    "on": "D90507000000D918E9D70C1EFE0000803F",
+                    "off": "0000000000000000000000000000000000"
+                },
+                {
+                    "offset": "6D009A",
+                    "on": "E91DF3E10190",
+                    "off": "C7000000803F"
+                }
+            ]
+        },
+        {
+            "name": "--Easy_Kill",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF0B5",
+                    "on": "01000000",
+                    "off": "00000000"
+                }
+            ]
+        },
+        {
+            "name": "--Infinite_Adrenaline",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF0C5",
+                    "on": "01000000",
+                    "off": "00000000"
+                }
+            ]
+        },
+        {
+            "name": "--Infinite_HP",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF0B1",
+                    "on": "01000000",
+                    "off": "00000000"
+                }
+            ]
+        },
+        {
+            "name": "--Infinite_Horse_Run",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF0BD",
+                    "on": "01000000",
+                    "off": "00000000"
+                }
+            ]
+        },
+        {
+            "name": "--Infinite_Oxygen",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF0C1",
+                    "on": "01000000",
+                    "off": "00000000"
+                }
+            ]
+        },
+        {
+            "name": "--Inifinite_Stamina",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF0CD",
+                    "on": "01000000",
+                    "off": "00000000"
+                }
+            ]
+        },
+        {
+            "name": "--Min_Horse_Panic",
+            "description": "Enable this together with Reset Horse Fear Bar cheat",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF0B9",
+                    "on": "01000000",
+                    "off": "00000000"
+                }
+            ]
+        },
+        {
+            "name": "--No_Toxicity",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF0C9",
+                    "on": "01000000",
+                    "off": "00000000"
+                }
+            ]
+        },
+        {
+            "name": "No Toxicity From Decoctions 4.06",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF0F1",
+                    "on": "669C4983FA047406C4C17A110424669DE9D96DE3FE",
+                    "off": "000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "1325ED9",
+                    "on": "E913921C0190",
+                    "off": "C4C17A110424"
+                }
+            ]
+        },
+        {
+            "name": "Reset Horse Fear Bar",
+            "description": "Enable this together with MinHorsePanic cheat",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF126",
+                    "on": "C5FA5845D46681FABCCC751D664181FBF4867408664181FB3487750D0F57C0C4C17A1106E90866E3FEC4C17A1106E9FE65E3FE",
+                    "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "132574D",
+                    "on": "E9D4991C019090909090",
+                    "off": "C5FA5845D4C4C17A1106"
+                }
+            ]
+        },
+        {
+            "name": "Teleport to Map Waypoint",
+            "description": "Must enable God Mode otherwise the teleport will kill you. Note that teleporting may break some quests.",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF179",
+                    "on": "41894C8508890D7C4DCA00418B4C240C41894C850C890D744DCA00C705664DCA0000004842E9882FCCFE",
+                    "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "24EF1C3",
+                    "on": "833D364DCA0000744C538B1D2D4DCA0041899D900100008B1D284DCA0041899D940100008B1D174DCA0041899D980100005BC705014DCA0000000000C705FF4CCA0000000000C705F14CCA0000000000E9CE30FBFDC4C17A11AD90010000C4C17A11B594010000C4C17A118598010000E9AE30FBFD",
+                    "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "11B211C",
+                    "on": "E958D0330190909090909090909090",
+                    "off": "41894C8508418B4C240C41894C850C"
+                },
+                {
+                    "offset": "4A22CB",
+                    "on": "E9F3CE040290909090909090909090909090909090909090909090",
+                    "off": "C4C17A11AD90010000C4C17A11B594010000C4C17A118598010000"
+                }
+            ]
+        },
+        {
+            "name": "--XP_Multiplier x1",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF288",
+                    "on": "01000000",
+                    "off": "01000000"
+                }
+            ]
+        },
+        {
+            "name": "--XP_Multiplier x5",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF288",
+                    "on": "05000000",
+                    "off": "01000000"
+                }
+            ]
+        },
+        {
+            "name": "--XP_Multiplier x10",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF288",
+                    "on": "0A000000",
+                    "off": "01000000"
+                }
+            ]
+        },
+        {
+            "name": "--XP_Multiplier x20",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF288",
+                    "on": "14000000",
+                    "off": "01000000"
+                }
+            ]
+        },
+        {
+            "name": "--XP_Multiplier x50",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF288",
+                    "on": "32000000",
+                    "off": "01000000"
+                }
+            ]
+        },
+        {
+            "name": "--XP_Multiplier x999",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF288",
+                    "on": "E7030000",
+                    "off": "01000000"
+                }
+            ]
+        },
+        {
+            "name": "--Game Speed x1",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF2C0",
+                    "on": "0000803F",
+                    "off": "0000803F"
+                }
+            ]
+        },
+        {
+            "name": "--Game Speed x2",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF2C0",
+                    "on": "0000803F",
+                    "off": "0000803F"
+                }
+            ]
+        },
+        {
+            "name": "--Game Speed x3",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF2C0",
+                    "on": "0000803F",
+                    "off": "0000803F"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Items 4.06 ",
+            "description": "In some rare cases you may not be able to clear a loot when the cheat is enabled. Disable the cheat and clear that specific loot.",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF2E4",
+                    "on": "8B45AC3942040F8D0A5C40FE894204E9025C40FE",
+                    "off": "0000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "24EF318",
+                    "on": "428B543354669C483D0F0100007509669D29CAE91C363FFE669DE915363FFE",
+                    "off": "00000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "8F4EF4",
+                    "on": "E9EBA3BF0190",
+                    "off": "8B45AC894204"
+                },
+                {
+                    "offset": "8E2945",
+                    "on": "E9CEC9C0019090",
+                    "off": "428B54335429CA"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Potions",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF357",
+                    "on": "C745AC630000008B45AC894204E9115F40FE",
+                    "off": "000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "8F5274",
+                    "on": "E9DEA0BF0190",
+                    "off": "8B45AC894204"
+                }
+            ]
+        },
+        {
+            "name": "No Crafting and Alchemy Requirements",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "AEEB4",
+                    "on": "31C090",
+                    "off": "8B4204"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Money 4.06",
+            "description": "Takes effect when buying or selling",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF389",
+                    "on": "41C7440A543F420F0045036C0A54E9FB153FFE",
+                    "off": "00000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "8E0992",
+                    "on": "E9F2E9C001",
+                    "off": "45036C0A54"
+                }
+            ]
+        },
+        {
+            "name": "--Walking Speed x1",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF3C9",
+                    "on": "0000803F",
+                    "off": "0000803F"
+                }
+            ]
+        },
+        {
+            "name": "--Walking Speed x2",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF3C9",
+                    "on": "0000803F",
+                    "off": "0000803F"
+                }
+            ]
+        },
+        {
+            "name": "--Walking Speed x3",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF3C9",
+                    "on": "0000803F",
+                    "off": "0000803F"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Skill Points",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF3ED",
+                    "on": "4839F3750C418B04242B45C8E9644FE3FE41817C240CE80300007D02EBE7B8E7030000E94D4FE3FE",
+                    "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "132435B",
+                    "on": "E98DB01C019090",
+                    "off": "418B04242B45C8"
+                }
+            ]
+        },
+        {
+            "name": "Durable Weapons And Armor",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF435",
+                    "on": "C74419640000C842498B07E9FB6040FE",
+                    "off": "00000000000000000000000000000000"
+                },
+                {
+                    "offset": "8F5539",
+                    "on": "E9F79EBF019090",
+                    "off": "89441964498B07"
+                }
+            ]
+        },
+        {
+            "name": "Max Weight 99999",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "24EF465",
+                    "on": "4883FB00740CC4817A104CE70CE9172079FE43817CE71000007042740CC4817A104CE70CE9002079FE43C744E70C804FC34743C744E710804FC347E9E91F79FE",
+                    "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "C81487",
+                    "on": "E9D9DF86019090",
+                    "off": "C4817A104CE70C"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "Pharaoh2k"
+    ]
+}
