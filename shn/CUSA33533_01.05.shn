@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer Game="UP3864-CUSA33533_00-GHOSTSONG000000A" Moder="Talixme" Cusa="CUSA33533" Version="01.05" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Inf Dash" Description="">
+    <Cheatline>
+      <Section>16</Section>
+      <Offset>28BB7A</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-80-E8-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Life" Description="">
+    <Cheatline>
+      <Section>16</Section>
+      <Offset>27517D</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-88-84-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Modules Use" Description="">
+    <Cheatline>
+      <Section>16</Section>
+      <Offset>16D7D8F</Offset>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>01-88-5C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Money" Description="">
+    <Cheatline>
+      <Section>3</Section>
+      <Offset>5F000</Offset>
+      <ValueOn>C7-80-2C-03-00-00-FF-C9-9A-3B-E9-31-50-23-01</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>16</Section>
+      <Offset>BD403A</Offset>
+      <ValueOn>E9-C1-AF-DC-FE-90</ValueOn>
+      <ValueOff>01-90-2C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Stamina" Description="">
+    <Cheatline>
+      <Section>16</Section>
+      <Offset>29FF5D</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-80-E8-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Increment the Suit Level" Description="">
+    <Cheatline>
+      <Section>16</Section>
+      <Offset>30D1E9</Offset>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-FF-87-58-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Overheating" Description="">
+    <Cheatline>
+      <Section>16</Section>
+      <Offset>B1B51F</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-80-90-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Requires Level Up" Description="">
+    <Cheatline>
+      <Section>16</Section>
+      <Offset>30D29A</Offset>
+      <ValueOn>C4-41-7A-11-BF-68-02-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-11-87-68-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Collision" Description="">
+    <Cheatline>
+      <Section>16</Section>
+      <Offset>C8CB88</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-A3-3A-D2-7F</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
