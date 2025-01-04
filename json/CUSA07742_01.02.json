@@ -1,0 +1,45 @@
+{
+    "name": "EP4467-CUSA07742_00-OUTLASTDISK00000",
+    "id": "CUSA07742",
+    "version": "01.02",
+    "process": "eboot.bin",
+    "mods": [
+        {
+            "name": "Inf Battery",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "1D1F000",
+                    "on": "C5FA100DFC0E2000C4C17A118F2C320000E9D464C4FE",
+                    "off": "00000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "9654E1",
+                    "on": "E91A9B3B0190909090",
+                    "off": "C4C17A118F2C320000"
+                }
+            ]
+        },
+        {
+            "name": "Inf Life",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "1D1F036",
+                    "on": "41C787EC3100000000C842E9929DC5FE",
+                    "off": "00000000000000000000000000000000"
+                },
+                {
+                    "offset": "978DCF",
+                    "on": "E962623A0190909090",
+                    "off": "C4C17A118FEC310000"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "Talixme"
+    ]
+}

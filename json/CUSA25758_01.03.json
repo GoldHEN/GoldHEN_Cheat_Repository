@@ -1,0 +1,108 @@
+{
+    "name": "EP4293-CUSA25758_00-7767648150072086",
+    "id": "CUSA25758",
+    "version": "01.03",
+    "process": "eboot.bin",
+    "mods": [
+        {
+            "name": "Inf Exp",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "7FC5F000",
+                    "on": "41BE9F8601004401731C488B38E905C28C00",
+                    "off": "000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "8052B210",
+                    "on": "E9EB3D73FF9090",
+                    "off": "4401731C488B38"
+                }
+            ]
+        },
+        {
+            "name": "Inf Gold At Shop",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "7FC5F032",
+                    "on": "41BE9F86010044897320488B38E953C48C00",
+                    "off": "000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "8052B490",
+                    "on": "E99D3B73FF9090",
+                    "off": "44297320488B38"
+                }
+            ]
+        },
+        {
+            "name": "Inf Gold",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "7FC5F064",
+                    "on": "41BE9F86010044017320488B38E9A1C38C00",
+                    "off": "000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "8052B410",
+                    "on": "E94F3C73FF9090",
+                    "off": "44017320488B38"
+                }
+            ]
+        },
+        {
+            "name": "Inf Items",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "7FC5F096",
+                    "on": "83C1018948180F8E1B190801E90B190801",
+                    "off": "0000000000000000000000000000000000"
+                },
+                {
+                    "offset": "80CE09AD",
+                    "on": "E9E4E6F7FE",
+                    "off": "8948187E0B"
+                }
+            ]
+        },
+        {
+            "name": "Inf Life",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "7FC5F0C7",
+                    "on": "817B240000803F7505E9DCAE9F008983C0000000E9D1AE9F00",
+                    "off": "00000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "80659FAB",
+                    "on": "E9175160FF90",
+                    "off": "8983C0000000"
+                }
+            ]
+        },
+        {
+            "name": "Inf Magic",
+            "description": "",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "80ABF693",
+                    "on": "4189571C",
+                    "off": "4189471C"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "Wander / Reddevil82 / Talixme"
+    ]
+}
