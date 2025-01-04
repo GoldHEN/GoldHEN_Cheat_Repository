@@ -1,62 +1,62 @@
 {
-    "name": "EP2333-CUSA09919_00-OUTERWILDSSIEE00",
-    "id": "CUSA09919",
-    "version": "01.15",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "EP2333-CUSA09919_00-OUTERWILDSSIEE00",
+  "id": "CUSA09919",
+  "version": "01.15",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Comb",
+      "description": "Infinite Comb",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Inf Comb",
-            "description": "Infinite Comb",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC5F000",
-                    "on": "C5FA10050B000000C4C17A114628E988AC97000000C842",
-                    "off": "0000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "805D9C95",
-                    "on": "E9665368FF90",
-                    "off": "C4C17A114628"
-                }
-            ]
+          "offset": "7FC5F000",
+          "on": "C5FA10050B000000C4C17A114628E988AC97000000C842",
+          "off": "0000000000000000000000000000000000000000000000"
         },
         {
-            "name": "Inf Jetpack",
-            "description": "",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC5F037",
-                    "on": "C5FA100D0D000000C5FA118BA8000000E945487F000000803F",
-                    "off": "00000000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "80453889",
-                    "on": "E9A9B780FF909090",
-                    "off": "C5FA118BA8000000"
-                }
-            ]
-        },
-        {
-            "name": "Inf O2",
-            "description": "",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC5F070",
-                    "on": "C5FA100D0C000000C4C17A114C2430E90CBB97000000E143",
-                    "off": "000000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "805DAB89",
-                    "on": "E9E24468FF9090",
-                    "off": "C4C17A114C2430"
-                }
-            ]
+          "offset": "805D9C95",
+          "on": "E9665368FF90",
+          "off": "C4C17A114628"
         }
-    ],
-    "credits": [
-        "Talixme"
-    ]
+      ]
+    },
+    {
+      "name": "Inf Jetpack",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F037",
+          "on": "C5FA100D0D000000C5FA118BA8000000E945487F000000803F",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80453889",
+          "on": "E9A9B780FF909090",
+          "off": "C5FA118BA8000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf O2",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F070",
+          "on": "C5FA100D0C000000C4C17A114C2430E90CBB97000000E143",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "805DAB89",
+          "on": "E9E24468FF9090",
+          "off": "C4C17A114C2430"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
 }

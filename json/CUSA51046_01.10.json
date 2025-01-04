@@ -1,47 +1,47 @@
 {
-    "name": "UP3643-CUSA51046_00-0000000000000000",
-    "id": "CUSA51046",
-    "version": "01.10",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "UP3643-CUSA51046_00-0000000000000000",
+  "id": "CUSA51046",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Easy health",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Easy health",
-            "description": "",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "8095E82E",
-                    "on": "C7838401000005000000",
-                    "off": "C7838401000000000000"
-                }
-            ]
-        },
-        {
-            "name": "Inf Air Dash",
-            "description": "",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "80952D70",
-                    "on": "909090909090",
-                    "off": "89881C010000"
-                }
-            ]
-        },
-        {
-            "name": "Inf Double Jump",
-            "description": "",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "80953319",
-                    "on": "909090909090",
-                    "off": "898804010000"
-                }
-            ]
+          "offset": "8095E82E",
+          "on": "C7838401000005000000",
+          "off": "C7838401000000000000"
         }
-    ],
-    "credits": [
-        "Talixme"
-    ]
+      ]
+    },
+    {
+      "name": "Inf Air Dash",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80952D70",
+          "on": "909090909090",
+          "off": "89881C010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Double Jump",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80953319",
+          "on": "909090909090",
+          "off": "898804010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
 }

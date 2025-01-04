@@ -1,23 +1,23 @@
 {
-    "name": "UP2346-CUSA05796_00-RIMEGAME01NA0001",
-    "id": "CUSA05796",
-    "version": "01.01",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "UP2346-CUSA05796_00-RIMEGAME01NA0001",
+  "id": "CUSA05796",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Air Underwater",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Inf Air Underwater",
-            "description": "",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "149A5D",
-                    "on": "9090909090909090",
-                    "off": "C5FA1183B8010000"
-                }
-            ]
+          "offset": "149A5D",
+          "on": "9090909090909090",
+          "off": "C5FA1183B8010000"
         }
-    ],
-    "credits": [
-        "Talixme"
-    ]
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
 }
