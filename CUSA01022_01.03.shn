@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DmC Devil May Cry Definitive Edition" Moder="Ali-mk" Cusa="CUSA01022" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health-(Master-Code)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>337B800</Offset>
+      <ValueOn>41-83-7E-3C-02-75-0B-C4-C1-7A-10-46-0C-E9-7A-2B-0E-FD-C4-C1-7A-11-06-E9-70-2B-0E-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>45E387</Offset>
+      <ValueOn>E9-74-D4-F1-02</ValueOn>
+      <ValueOff>C4-C1-7A-11-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-money">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>337B832</Offset>
+      <ValueOn>B9-FF-E0-F5-05-89-48-10-E9-1A-00-99-FD-E9-0E-00-99-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>D0B84D</Offset>
+      <ValueOn>E9-E0-FF-66-02</ValueOn>
+      <ValueOff>89-48-10-EB-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-All-Items">
+    <Cheatline>
+      <Offset>90B6AE</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-48-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
