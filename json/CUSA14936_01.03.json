@@ -1,0 +1,108 @@
+{
+  "name": "EP4800-CUSA14936_00-0000111122223334",
+  "id": "CUSA14936",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "description": "",
+      "name": "Inf Life",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "F3450F10BE7C020000F3450F11BE7C020000E996C4D200",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8098B4A4",
+          "on": "E9573B2DFF90909090",
+          "off": "F3450F11BE7C020000"
+        }
+      ]
+    },
+    {
+      "description": "",
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F037",
+          "on": "F3450F10BE84020000F3450F11BE84020000E9FDC4D200",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8098B542",
+          "on": "E9F03A2DFF90909090",
+          "off": "F3450F11BE84020000"
+        }
+      ]
+    },
+    {
+      "description": "",
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F06E",
+          "on": "B8FFC99A3B418986A0020000E996C6D200",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "8098B70E",
+          "on": "E95B392DFF9090",
+          "off": "418986A0020000"
+        }
+      ]
+    },
+    {
+      "description": "",
+      "name": "Inf Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F09F",
+          "on": "83C2018990CC000000E9CCDECC00",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "8092CF73",
+          "on": "E9272133FF90",
+          "off": "8990CC000000"
+        }
+      ]
+    },
+    {
+      "description": "",
+      "name": "Easy Level Up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F0CD",
+          "on": "41C7868C020000804FC347F3450F10BE8C020000F3450F11BE8C020000E9FAC4D200",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8098B5E0",
+          "on": "E9E83A2DFF90909090",
+          "off": "F3450F11BE8C020000"
+        }
+      ]
+    },
+    {
+      "description": "",
+      "name": "Inf Jumps",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808364D9",
+          "on": "909090",
+          "off": "894820"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

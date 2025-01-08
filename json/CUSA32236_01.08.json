@@ -1,0 +1,79 @@
+{
+  "name": "UP7013-CUSA32236_00-8367207855877469",
+  "id": "CUSA32236",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "description": "",
+      "name": "Inf Life",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807F4B7D",
+          "on": "017028",
+          "off": "897028"
+        },
+        {
+          "offset": "7FC5F0A3",
+          "on": "4983FF1E750A452B7C2428E980EA0A0145297C2428E976EA0A01",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80D0DB2E",
+          "on": "E97015F5FE",
+          "off": "45297C2428"
+        }
+      ]
+    },
+    {
+      "description": "",
+      "name": "EasyLevel",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F074",
+          "on": "C78018010000FFE0F505E943F3C200",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "8088E3C0",
+          "on": "E9AF0C3DFF90",
+          "off": "018818010000"
+        }
+      ]
+    },
+    {
+      "description": "",
+      "name": "Inf Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807F7758",
+          "on": "909090909090",
+          "off": "29881C010000"
+        }
+      ]
+    },
+    {
+      "description": "",
+      "name": "Inf Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F142",
+          "on": "C780F40000003F420F00E920E3C200",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "8088D46B",
+          "on": "E9D21C3DFF90",
+          "off": "0188F4000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fbin / Talixme only converted to 1.08 and minor fix"
+  ]
+}

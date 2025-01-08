@@ -1,0 +1,79 @@
+{
+  "name": "EP4062-CUSA17774_00-0000000000000000",
+  "id": "CUSA17774",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "description": "",
+      "name": "Inf Life",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "81FAE05B82840F84B91BA800C4C1797E4628E9AE1BA800",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "806E0BBF",
+          "on": "E93CE457FF90",
+          "off": "C4C1797E4628"
+        }
+      ]
+    },
+    {
+      "description": "",
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F037",
+          "on": "C4C17A104610C4C17A114610E9015ACC00",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80924A43",
+          "on": "E9EFA533FF90",
+          "off": "C4C17A114610"
+        }
+      ]
+    },
+    {
+      "description": "",
+      "name": "Inf Resistance",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F068",
+          "on": "C4C17A104614C4C17A114614E9955ACC00",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80924B08",
+          "on": "E95BA533FF90",
+          "off": "C4C17A114614"
+        }
+      ]
+    },
+    {
+      "description": "Some items cannot be crafted properly, like the anchor.",
+      "name": "Inf Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F099",
+          "on": "83C6014189F083C60141897618E92301E902",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "82AEF1C7",
+          "on": "E9CDFE16FD9090",
+          "off": "4189F041897618"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

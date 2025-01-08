@@ -1,0 +1,113 @@
+{
+  "name": "UP0700-CUSA17195_00-PS4TOARISE000001",
+  "id": "CUSA17195",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "679F000",
+          "on": "4D39C8740B89936C020000E92AD21DFBBA9F86010089936C020000E91AD21DFB",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "197C234",
+          "on": "E9C72DE20490",
+          "off": "89936C020000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "679F040",
+          "on": "C7837402000000009642C5FA108374020000C5FA118374020000E9A8DA1DFB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "197CAFF",
+          "on": "E93C25E204909090",
+          "off": "C5FA118374020000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Easy Exp",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "679F07F",
+          "on": "81C13F420F0041894C2450E999F32EFB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1A8E423",
+          "on": "E9570CD104",
+          "off": "41894C2450"
+        }
+      ]
+    },
+    {
+      "name": "Inf Sp",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "679F0AF",
+          "on": "BA0F27000089507039D1E9FBFB6BFB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1E5ECB4",
+          "on": "E9F6039404",
+          "off": "89507039D1"
+        }
+      ]
+    },
+    {
+      "name": "Inf Items",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "679F0DE",
+          "on": "4183C601458934244439F0E90BB93DFB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1B7A9F2",
+          "on": "E9E746C2049090",
+          "off": "458934244439F0"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "679F10E",
+          "on": "BB7F96980041899FA8000000E92FA46BFB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1E59547",
+          "on": "E9C25B94049090",
+          "off": "41899FA8000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}
