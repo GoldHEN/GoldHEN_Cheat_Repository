@@ -246,6 +246,7 @@ CUSA03173_01.00.shn=Bloodborne GOTY
 CUSA19500_01.03_LTCG-BioGame.elf.shn=Mass Effect - Legendary Edition
 CUSA36843_01.04.shn=Red Dead Redemption
 CUSA34386_05.04.shn=God of War Ragnarok (+Valhalla DLC compatibility)
+CUSA34526_01.03.shn=Asterix &amp; Obelix - XXXL
 SLPM62602_01.00.shn=Yokushin - GigaWing Generations
 CUSA41303_01.40 .shn=Metal Gear Solid 2_Sons of Liberty
 CUSA46721_01.01.shn=Shadow of The Ninja Reborn
