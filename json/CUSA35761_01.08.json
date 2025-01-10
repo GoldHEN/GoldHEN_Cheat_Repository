@@ -1,0 +1,64 @@
+{
+  "name": "EP4064-CUSA35761_00-DREDGE0000000000",
+  "id": "CUSA35761",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "TRAINER INFO (read only)",
+      "description": "For the \"Easy Money\" code to work, activate it only when selling. If you travel with it on, years will pass.Activate Stop time OR Easy Money.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5EFFF",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "No Damage",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "4181FFC0C8FE01740C894818488B45E0E9545BCF01B900000000894818488B45E0E9435BCF01",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81954B62",
+          "on": "E999A430FE9090",
+          "off": "894818488B45E0"
+        }
+      ]
+    },
+    {
+      "name": "Stop Time Clock",
+      "description": "Desactivate Selling.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8685A0C2",
+          "on": "90909090",
+          "off": "48894818"
+        }
+      ]
+    },
+    {
+      "name": "Easy Money",
+      "description": "IMPORTANT ONLY ACTIVATE AT THE MOMENT OF SELLING,later desactivate.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8685A0C2",
+          "on": "48014818",
+          "off": "48894818"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}
