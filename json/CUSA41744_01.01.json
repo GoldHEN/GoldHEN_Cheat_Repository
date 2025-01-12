@@ -1,76 +1,76 @@
 {
-    "name": "EP5335-CUSA41744_00-ALISA00000000000",
-    "id": "CUSA41744",
-    "version": "01.01",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "EP5335-CUSA41744_00-ALISA00000000000",
+  "id": "CUSA41744",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "Inf Life",
-            "description": "",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "808B0F29",
-                    "on": "C5FA11897C010000",
-                    "off": "C5FA11817C010000"
-                }
-            ]
-        },
-        {
-            "name": "Inf Money When You Save",
-            "description": "",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "7FC5F000",
-                    "on": "C781840100000F270000FF8984010000E9F308B700",
-                    "off": "000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "807CF902",
-                    "on": "E9F9F648FF90",
-                    "off": "FF8984010000"
-                }
-            ]
-        },
-        {
-            "name": "No Pistol Reload",
-            "description": "",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "80622F74",
-                    "on": "9090",
-                    "off": "8908"
-                }
-            ]
-        },
-        {
-            "name": "Inf Pistol Ammo",
-            "description": "",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "80623D49",
-                    "on": "909090909090",
-                    "off": "89B15C010000"
-                }
-            ]
-        },
-        {
-            "name": "Inf Ammo Shotgun",
-            "description": "",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "808AEA3C",
-                    "on": "909090909090",
-                    "off": "FF8864010000"
-                }
-            ]
+          "offset": "808B0F29",
+          "on": "C5FA11897C010000",
+          "off": "C5FA11817C010000"
         }
-    ],
-    "credits": [
-        "Talixme"
-    ]
+      ]
+    },
+    {
+      "name": "Inf Money When You Save",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "C781840100000F270000FF8984010000E9F308B700",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "807CF902",
+          "on": "E9F9F648FF90",
+          "off": "FF8984010000"
+        }
+      ]
+    },
+    {
+      "name": "No Pistol Reload",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80622F74",
+          "on": "9090",
+          "off": "8908"
+        }
+      ]
+    },
+    {
+      "name": "Inf Pistol Ammo",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80623D49",
+          "on": "909090909090",
+          "off": "89B15C010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo Shotgun",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808AEA3C",
+          "on": "909090909090",
+          "off": "FF8864010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
 }
