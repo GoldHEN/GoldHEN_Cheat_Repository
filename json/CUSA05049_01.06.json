@@ -1,0 +1,45 @@
+{
+  "name": "UP2591-CUSA05049_00-SOTD000000000000",
+  "id": "CUSA05049",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life And Energy",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC57000",
+          "on": "4183BEB400000002740FC4C17A115638498B7E30E94EAE6200498B7E30E945AE6200",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80281E5D",
+          "on": "E99E519DFF9090909090",
+          "off": "C4C17A115638498B7E30"
+        }
+      ]
+    },
+    {
+      "name": "Inf Coins",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC57042",
+          "on": "81F92D010000740A488954C820E9FED1B30048C7C29F860100488954C820E9EDD1B300",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8079424D",
+          "on": "E9F02D4CFF",
+          "off": "488954C820"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

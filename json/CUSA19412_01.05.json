@@ -1,0 +1,123 @@
+{
+  "name": "UP4133-CUSA19412_00-0000000CURSEGAME",
+  "id": "CUSA19412",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10AB000",
+          "on": "81F9101366010F846D795AFF81F99F0300000F8461795AFFC4C17A118DE8010000E953795AFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "652970",
+          "on": "E98B86A50090909090",
+          "off": "C4C17A118DE8010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10AB046",
+          "on": "C5FA108370760000C5FA118370760000E9E19376FF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "10AB07B",
+          "on": "C5FA108370760000C5FA118370760000E9FB5D76FF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "814434",
+          "on": "E90D6C8900909090",
+          "off": "C5FA118370760000"
+        },
+        {
+          "offset": "810E83",
+          "on": "E9F3A18900909090",
+          "off": "C5FA118370760000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Gold",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10AB0B0",
+          "on": "41C784248C000000F0237449C4C17A1084248C000000C4C17A1184248C000000E944DC75FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "808D0F",
+          "on": "E99C238A009090909090",
+          "off": "C4C17A1184248C000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Skulls",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10AB0F5",
+          "on": "C7875C0100003F420F00E9F25D62FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "6D0EF0",
+          "on": "E900A29D0090",
+          "off": "01B75C010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Rings",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10AB124",
+          "on": "C787640100003F420F00E9136162FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "6D1240",
+          "on": "E9DF9E9D0090",
+          "off": "01B764010000"
+        }
+      ]
+    },
+    {
+      "name": "No Corruption",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10AB153",
+          "on": "C4C17A104E64C4C17A114E64E95BD775FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "8088B9",
+          "on": "E995288A0090",
+          "off": "C4C17A114E64"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}
