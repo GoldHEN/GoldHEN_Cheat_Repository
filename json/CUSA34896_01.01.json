@@ -1,0 +1,52 @@
+{
+  "name": "EP0001-CUSA34896_00-BGER000000000000",
+  "id": "CUSA34896",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life Ship",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9E9168",
+          "on": "90909090",
+          "off": "C5FA1100"
+        }
+      ]
+    },
+    {
+      "name": "Inf Life",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C61B99",
+          "on": "90909090",
+          "off": "C5FA1100"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "136F000",
+          "on": "C7029F86010029024963861C010000E90AADA8FF",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DF9D15",
+          "on": "E9E652570090909090",
+          "off": "29024963861C010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}
