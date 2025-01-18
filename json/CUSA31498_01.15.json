@@ -1,0 +1,91 @@
+{
+  "name": "EP0102-CUSA31498_00-STREETFIGHTER006",
+  "id": "CUSA31498",
+  "version": "01.15",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "TRAINER INFO (read only)",
+      "description": "Activate Inf Life OR One Hit kill (After Tutorial)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CE92FFF",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Inf Life",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CE93000",
+          "on": "83B898030000000F84F4D652F78998F8030000E9E9D652F7",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "43C06FB",
+          "on": "E90029AD0890",
+          "off": "8998F8030000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CE93038",
+          "on": "B93F420F008948140F855CF8B2F6E996F7B2F6",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "39C27D8",
+          "on": "E95B084D0990909090",
+          "off": "8948140F85C1000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Items",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CE9306B",
+          "on": "83C00141894520E9B92939F9E91E2C39F9",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "6225C91",
+          "on": "E9D5D3C60690909090",
+          "off": "41894520E996FDFFFF"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CE9309C",
+          "on": "83B898030000000F8458D652F7C780F803000000000000E949D652F7",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "43C06FB",
+          "on": "E99C29AD0890",
+          "off": "8998F8030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

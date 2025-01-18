@@ -1,0 +1,67 @@
+{
+  "name": "EP0082-CUSA00806_00-LARACROFT2OSIRIS",
+  "id": "CUSA00806",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "589198",
+          "on": "9090909090",
+          "off": "E81310D6FF"
+        },
+        {
+          "offset": "120B000",
+          "on": "0F2EDF0F8447350EFFC5FA114728E93D350EFF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2EE54B",
+          "on": "E9B0CAF100",
+          "off": "C5FA114728"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "120B033",
+          "on": "66C7400C9001E9E25143FF",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "64021B",
+          "on": "E913AEBC00",
+          "off": "664489780C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Gems",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "120B05E",
+          "on": "C7400C9F860100498B4E08E935C562FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "83759B",
+          "on": "E9BE3A9D00909090",
+          "off": "4401780C498B4E08"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}
