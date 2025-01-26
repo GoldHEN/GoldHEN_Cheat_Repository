@@ -46,6 +46,6 @@ While we make every effort to deliver high quality products, we do not guarantee
 - Add more cheat formats.
 
 ### Credits
-- [ctn123](https://github.com/ctn123)
-- [ShininGami](https://github.com/ScriptSK)
-- [SiSTRo](https://github.com/SiSTR0)
+- [LM](https://github.com/lightningmods)
+- [Buzzer](https://github.com/buzzer-re)
+- [GoldHEN Team for the PS4 Cheats Repo](https://github.com/GoldHEN/GoldHEN_Cheat_Repository/graphs/contributors)
