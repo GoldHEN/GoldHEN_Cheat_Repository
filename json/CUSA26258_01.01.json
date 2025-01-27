@@ -1,0 +1,28 @@
+{
+  "name": "UP1249-CUSA26258_00-6920210578712389",
+  "id": "CUSA26258",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "4D39C80F841C4CBA008B4C24F489483CE9104CBA00",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80803C1E",
+          "on": "E9DDB345FF9090",
+          "off": "8B4C24F489483C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}
