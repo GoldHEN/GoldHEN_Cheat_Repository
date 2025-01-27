@@ -1,0 +1,45 @@
+{
+  "name": "EP0149-CUSA05987_00-DEATHSGAMBITEU00",
+  "id": "CUSA05987",
+  "version": "01.09",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life",
+      "description": "Use it After contract.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E6D3000",
+          "on": "48817B54000000400F843339A8F1C5FB1103E92A39A8F1",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1568E4",
+          "on": "E917C7570E90",
+          "off": "C5FB1103EB57"
+        }
+      ]
+    },
+    {
+      "name": "Inf Exp",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E6D3037",
+          "on": "4981FF40AE1900740C488903498B4500E9CCA4AFFDC70300000000C74304F069F840498B4500E9B6A4AFFD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C1CD511",
+          "on": "E9215B50029090",
+          "off": "488903498B4500"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}
