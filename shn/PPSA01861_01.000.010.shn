@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Maneater" Moder="Saso" Cusa="PPSA01861" Version="01.000.010" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>510381A</Offset>
+      <ValueOn>80-7F-18-00-74-3D-83-7F-C0-00-74-37-80-7F-BC-00-74-31-41-54-4C-8B-67-C0-4D-3B-64-24-50-75-22-41-83-BC-24-8C-01-00-00-00-75-17-41-5C-C5-FA-10-47-14-C5-FA-11-47-08-C5-FA-11-47-0C-90-E9-1E-DD-CD-FB-41-5C-C5-FA-11-47-0C-E9-12-DD-CD-FB-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>DE1574</Offset>
+      <ValueOn>E9-A1-22-32-04</ValueOn>
+      <ValueOff>C5-FA-11-47-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Oxygen">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>510386A</Offset>
+      <ValueOn>C4-C1-7A-10-85-28-08-00-00-E9-27-14-D3-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>E34C9A</Offset>
+      <ValueOn>E9-CB-EB-2C-04</ValueOn>
+      <ValueOff>C5-FA-5D-45-84</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Fats">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>510387A</Offset>
+      <ValueOn>B8-3F-42-0F-00-89-83-84-03-00-00-E9-EF-06-DF-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>EF3F73</Offset>
+      <ValueOn>E9-02-F9-20-04-90</ValueOn>
+      <ValueOff>89-83-84-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Protein">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>510388C</Offset>
+      <ValueOn>B8-3F-42-0F-00-89-83-80-03-00-00-E9-14-06-DF-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>EF3EAA</Offset>
+      <ValueOn>E9-DD-F9-20-04-90</ValueOn>
+      <ValueOff>89-83-80-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Mineral">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>510389E</Offset>
+      <ValueOn>B8-3F-42-0F-00-89-83-88-03-00-00-E9-A2-07-DF-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>EF404A</Offset>
+      <ValueOn>E9-4F-F8-20-04-90</ValueOn>
+      <ValueOff>89-83-88-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Mutagens">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>51038B0</Offset>
+      <ValueOn>B8-3F-42-0F-00-89-83-8C-03-00-00-E9-67-08-DF-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>EF4121</Offset>
+      <ValueOn>E9-8A-F7-20-04-90</ValueOn>
+      <ValueOff>89-83-8C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="2X Experience Points">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>51038C2</Offset>
+      <ValueOn>6B-C0-02-89-83-90-03-00-00-E9-F6-05-DF-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>EF3EC0</Offset>
+      <ValueOn>E9-FD-F9-20-04-90</ValueOn>
+      <ValueOff>89-83-90-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

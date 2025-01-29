@@ -1,0 +1,44 @@
+{
+  "name": "Call of Duty®: Black Ops Cold War",
+  "id": "PPSA01628",
+  "version": "01.026.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C95C2FB",
+          "on": "909090909090",
+          "off": "898190030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Aetherium Crystals",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C9AE0AC",
+          "on": "909090",
+          "off": "8B45F0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C66C386",
+          "on": "90909090909090",
+          "off": "898C93DC130000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "EchoStretch"
+  ]
+}

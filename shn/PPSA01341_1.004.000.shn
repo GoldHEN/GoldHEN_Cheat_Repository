@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Demon's Souls Remake" Moder="hejran7" Cusa="PPSA01341" Version="1.004" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinity HP" Description="">
+    <Cheatline>
+      <Offset>1FF7E6C</Offset>
+      <Section>0</Section>
+      <ValueOn>29-DE-4C-89-F7-41-83-BE-94-00-00-00-FF-0F-84-54-52-35-FE-E9-4A-52-35-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>34D0C9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9E-AD-CA-01</ValueOn>
+      <ValueOff>29-DE-4C-89-F7</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinity MP" Description="">
+    <Cheatline>
+      <Offset>34A7C0</Offset>
+      <Section>0</Section>
+      <ValueOn>44-89-BB-3C-07-00-00</ValueOn>
+      <ValueOff>44-89-AB-3C-07-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill" Description="">
+    <Cheatline>
+      <Offset>1FF7E84</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8B-86-30-07-00-00-41-83-BE-94-00-00-00-FF-0F-84-41-52-35-FE-41-C7-86-30-07-00-00-00-00-00-00-E9-31-52-35-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>34D0D3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AC-AD-CA-01-90-90</ValueOn>
+      <ValueOff>41-8B-86-30-07-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Untouchable" Description="">
+    <Cheatline>
+      <Offset>1FF7EA9</Offset>
+      <Section>0</Section>
+      <ValueOn>4C-8D-45-C0-4C-8D-4D-B0-83-BE-94-00-00-00-FF-0F-85-31-84-3F-FE-E9-31-84-3F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3F02E7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BD-7B-C0-01-90-90-90</ValueOn>
+      <ValueOff>4C-8D-45-C0-4C-8D-4D-B0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinity Stamina" Description="">
+    <Cheatline>
+      <Offset>34A996</Offset>
+      <Section>0</Section>
+      <ValueOn>45-89-75-00</ValueOn>
+      <ValueOff>45-89-7D-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Enemy Zero Stamina" Description="">
+    <Cheatline>
+      <Offset>1FF7EC3</Offset>
+      <Section>0</Section>
+      <ValueOn>83-BB-94-00-00-00-FF-74-03-45-31-F6-44-89-B3-44-07-00-00-E9-D8-D5-34-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3454AC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-12-2A-CB-01-90-90</ValueOn>
+      <ValueOff>44-89-B3-44-07-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinity Max Souls" Description="">
+    <Cheatline>
+      <Offset>D2A87</Offset>
+      <Section>0</Section>
+      <ValueOn>89-98-80-00-00-00</ValueOn>
+      <ValueOff>8B-80-80-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinity Weapon Durability" Description="">
+    <Cheatline>
+      <Offset>4702EA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>89-3A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Souls loss Upon Death" Description="">
+    <Cheatline>
+      <Offset>21D982</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-8D-80-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items (Use, Move, Drop)" Description="">
+    <Cheatline>
+      <Offset>469CFB</Offset>
+      <Section>0</Section>
+      <ValueOn>89-01-90</ValueOn>
+      <ValueOff>44-89-29</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Duplicate Anything (Storage * Inventory)" Description="non stackable like weapon, armor and rings, chance of lossing all if exceed the max when discard">
+    <Cheatline>
+      <Offset>469C9F</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-C5</ValueOn>
+      <ValueOff>45-01-E5</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Infinity Health (for training)" Description="">
+    <Cheatline>
+      <Offset>344870</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>44-89-B3-30-07-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

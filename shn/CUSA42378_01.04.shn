@@ -1,54 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Contra Operation Galuga" Moder="Saso" Cusa="CUSA42378" Version="01.04" Process="eboot.bin">
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Contra Operation Galuga" Moder="Saso_PS5" Cusa="CUSA42378" Version="01.04" Process="eboot.bin">
   <Genres Name="Action" />
   <Items />
   <Cheat Text="Untouchable">
     <Cheatline>
-      <Absolute>True</Absolute>
-      <Section>0</Section>
-      <Offset>84423817</Offset>
-      <ValueOn>83-78-3C-01-75-0C-81-78-4C-E8-03-00-00-75-03-41-B6-00-41-0F-B6-CE-89-48-04-E9-06-66-B2-FC</ValueOn>
+      <Section>26</Section>
+      <Offset>3D63800</Offset>
+      <ValueOn>83-78-3C-01-75-0C-81-78-4C-E8-03-00-00-75-03-41-B6-00-41-0F-B6-CE-89-48-04-E9-08-66-B2-FC</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
-      <Absolute>True</Absolute>
-      <Section>0</Section>
-      <Offset>80F49E1F</Offset>
-      <ValueOn>E9-F3-99-4D-03-90-90</ValueOn>
+      <Section>26</Section>
+      <Offset>889E1F</Offset>
+      <ValueOn>E9-DC-99-4D-03-90-90</ValueOn>
       <ValueOff>41-0F-B6-CE-89-48-04</ValueOff>
     </Cheatline>
   </Cheat>
   <Cheat Text="Inf Jump">
     <Cheatline>
-      <Absolute>True</Absolute>
-      <Section>0</Section>
-      <Offset>82CF8244</Offset>
-      <ValueOn>C6-80-E9-05-00-00-01</ValueOn>
+      <Section>26</Section>
+      <Offset>2638244</Offset>
+      <ValueOn>C6-80-E9-05-00-00-02</ValueOn>
       <ValueOff>C6-80-E9-05-00-00-00</ValueOff>
     </Cheatline>
   </Cheat>
   <Cheat Text="Inf Hover">
     <Cheatline>
-      <Absolute>True</Absolute>
-      <Section>0</Section>
-      <Offset>82CF4356</Offset>
+      <Section>26</Section>
+      <Offset>2634356</Offset>
       <ValueOn>C5-FA-11-B3-6C-06-00-00</ValueOn>
       <ValueOff>C5-FA-11-83-6C-06-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Max Credits ">
+  <Cheat Text="Max Credits">
     <Cheatline>
-      <Absolute>True</Absolute>
-      <Section>0</Section>
-      <Offset>84423837</Offset>
-      <ValueOn>66-C7-40-38-FF-FF-8B-40-38-41-3B-47-30-E9-17-E5-25-FD</ValueOn>
+      <Section>26</Section>
+      <Offset>3D63820</Offset>
+      <ValueOn>66-C7-40-38-FF-FF-8B-40-38-41-3B-47-30-E9-2E-E5-25-FD</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
-      <Absolute>True</Absolute>
-      <Section>0</Section>
-      <Offset>81681D59</Offset>
-      <ValueOn>E9-D9-1A-DA-02-90-90</ValueOn>
+      <Section>26</Section>
+      <Offset>FC1D59</Offset>
+      <ValueOn>E9-C2-1A-DA-02-90-90</ValueOn>
       <ValueOff>8B-40-38-41-3B-47-30</ValueOff>
     </Cheatline>
   </Cheat>

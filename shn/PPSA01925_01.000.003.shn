@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Alan Wake Remastered" Moder="Saso" Cusa="PPSA01925" Version="01.000.003" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>A4F800</Offset>
+      <ValueOn>83-7F-04-01-75-06-C5-FA-10-47-70-C3-C5-FA-10-47-0C-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>114400</Offset>
+      <ValueOn>E9-FB-B3-93-00</ValueOn>
+      <ValueOff>C5-FA-10-47-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>9C580</Offset>
+      <ValueOn>C4-C1-7A-11-9F-90-00-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-11-87-90-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Flashlight Energy">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>A4F820</Offset>
+      <ValueOn>C7-87-40-01-00-00-00-00-80-3F-C5-FA-10-87-40-01-00-00-E9-8C-2C-71-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1624BB</Offset>
+      <ValueOn>E9-60-D3-8E-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-87-40-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Batteries">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>A4F814</Offset>
+      <ValueOn>B8-0A-00-00-00-E9-EF-3F-71-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>163807</Offset>
+      <ValueOn>E9-08-C0-8E-00-90</ValueOn>
+      <ValueOff>8B-83-44-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2B142E</Offset>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-CB</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>2B13DE</Offset>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Flare / Flashbang">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>A4F839</Offset>
+      <ValueOn>BF-0A-00-00-00-E9-B3-47-81-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>263FF1</Offset>
+      <ValueOn>E9-43-B8-7E-00</ValueOn>
+      <ValueOff>39-CE-0F-4E-F9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Car Battery">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>A4F845</Offset>
+      <ValueOn>C7-47-0C-00-00-80-3F-C5-FA-10-47-0C-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>292630</Offset>
+      <ValueOn>E9-10-D2-7B-00</ValueOn>
+      <ValueOff>C5-FA-10-47-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
