@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer Game="Marsupilami - Hoobadventure" Moder="Reddevil82" Cusa="CUSA27816" Version="01.02" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Trainer Info (read only)" Description="I intentionally didn't make any cheats for collecting fruits because you only get one life after collecting 100 fruits.">
+    <Cheatline>
+      <Section>3</Section>
+      <Offset>5EFFF</Offset>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mastercode [ must be enabled for MC Cheats ]" Description="Mastercode [ must be enabled for MC Cheats ]">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>5BD78C3</Offset>
+      <ValueOn>C5-FA-10-80-B8-00-00-00-F3-0F-59-04-25-80-3F-1D-02-E9-E9-78-53-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>210F1BA</Offset>
+      <ValueOn>E9-04-87-AC-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-80-B8-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>5BD78DB</Offset>
+      <ValueOn>C5-FA-10-40-18-F3-0F-59-04-25-88-3F-1D-02-E9-21-1C-B1-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>212C6CA</Offset>
+      <ValueOn>E9-0C-B2-AA-03</ValueOn>
+      <ValueOff>C5-FA-10-40-34</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>5BD78F0</Offset>
+      <ValueOn>C5-FA-10-40-18-F3-0F-59-04-25-8C-3F-1D-02-E9-0C-1C-B1-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>16E950A</Offset>
+      <ValueOn>E9-E1-E3-4E-04</ValueOn>
+      <ValueOff>C5-FA-10-40-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Invincible" Description="Invincible">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>5BD7830</Offset>
+      <ValueOn>83-B8-D0-00-00-00-01-75-04-B1-01-EB-03-8A-48-2C-80-E1-01-E9-88-7C-C8-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>85F4CA</Offset>      <ValueOn>E9-61-83-37-05-90</ValueOn>      <ValueOff>8A-48-2C-80-E1-01</ValueOff>    </Cheatline>  </Cheat>
+  <Cheat Text="Infinite Health" Description="Infinite Health">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>5BD784A</Offset>
+      <ValueOn>83-B8-D0-00-00-00-01-75-05-8B-48-28-EB-04-8B-4C-24-F4-89-48-1C-E9-81-7F-C8-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>85F7DE</Offset>
+      <ValueOn>E9-67-80-37-05-90-90</ValueOn>
+      <ValueOff>8B-4C-24-F4-89-48-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Lives" Description="Max Lives">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>5BD7866</Offset>
+      <ValueOn>48-8B-44-24-F8-B8-63-00-00-00-E9-58-5D-CC-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>89D5C5</Offset>
+      <ValueOn>E9-9C-A2-33-05</ValueOn>
+      <ValueOff>48-8B-44-24-F8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Jumps" Description="Infinite Jumps">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>5BD7877</Offset>
+      <ValueOn>C7-80-B0-00-00-00-63-00-00-00-E9-D2-86-53-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>210FF52</Offset>
+      <ValueOn>E9-20-79-AC-03-90</ValueOn>
+      <ValueOff>89-88-B0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Timer [ Dojo Stage ]" Description="Max Timer [ Dojo Stage ]">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>5BD7800</Offset>
+      <ValueOn>C7-40-20-00-C0-79-44-E9-EF-48-91-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>14EC0F6</Offset>
+      <ValueOn>E9-05-B7-6E-04</ValueOn>
+      <ValueOff>C5-FA-11-40-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Timer [ Time Challenge ]" Description="Freeze Timer [ Time Challenge ]">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>95EAB6</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-40-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Timer to 0 [ Time Challenge ]" Description="Set Timer to 0 [ Time Challenge ]">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>5BD7820</Offset>
+      <ValueOn>C5-FA-10-44-24-F4-0F-57-C0-E9-88-72-D8-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>95EAB0</Offset>
+      <ValueOn>E9-6B-8D-27-05-90</ValueOn>
+      <ValueOff>C5-FA-10-44-24-F4</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Only one Dojo to finish Stage [ Dojo Stage ]" Description="You only have to collect 1 dojo in the special level to successfully complete it.">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>5BD780E</Offset>
+      <ValueOn>8B-4C-24-F4-C7-40-24-E7-03-00-00-E9-47-E8-BD-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>7B605E</Offset>
+      <ValueOn>E9-AB-17-42-05-90-90</ValueOn>
+      <ValueOff>8B-4C-24-F4-89-48-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Feathers [ on Map ]" Description="Max Feathers [ on Map ] - Unlocks 3D Art Galerie too :-)">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>5BD7888</Offset>
+      <ValueOn>41-50-41-B8-59-00-00-00-44-89-80-F0-00-00-00-8B-80-F0-00-00-00-41-58-E9-4C-58-CD-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>8AD0EA</Offset>
+      <ValueOn>E9-99-A7-32-05-90</ValueOn>
+      <ValueOff>8B-80-F0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Tickets [ on Map ]" Description="Max Tickets [ on Map ]">
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>5BD78A6</Offset>
+      <ValueOn>48-8B-44-24-F8-41-50-41-B8-63-00-00-00-44-89-40-40-8B-40-40-41-58-E9-1C-5D-CC-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>14</Section>
+      <Offset>89D5D5</Offset>
+      <ValueOn>E9-CC-A2-33-05</ValueOn>
+      <ValueOff>48-8B-44-24-F8</ValueOff> 
+   </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Eggs [ Hidden World - on Map ]" Description="Max Eggs [ Hidden World - on Map ]">
+    <Cheatline>
+      <Section>15</Section>
+      <Offset>5BD7800</Offset>
+      <ValueOn>B8-3D-00-00-00-E9-26-59-CD-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>15</Section>
+      <Offset>8AD12A</Offset>
+      <ValueOn>E9-D1-A6-32-05-90</ValueOn>
+      <ValueOff>8B-80-00-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Jump Multiplier x 1 [ MC ]" Description="Jump Multiplier x 1 [ MC ]">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1DD3F80</Offset>
+      <ValueOn>00-00-80-3F</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Jump Multiplier x 2 [ MC ]" Description="Jump Multiplier x 2 [ MC ]">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1DD3F80</Offset>
+      <ValueOn>00-00-00-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Jump Multiplier x 3 [ MC ]" Description="Jump Multiplier x 3 [ MC ]">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1DD3F80</Offset>
+      <ValueOn>00-00-40-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Jump Multiplier x 4 [ MC ]" Description="Jump Multiplier x 4 [ MC ]">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1DD3F80</Offset>
+      <ValueOn>00-00-80-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Speed Multiplier x 1 [ MC ]" Description="Speed Multiplier x 1 [ MC ]">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1DD3F88</Offset>
+      <ValueOn>00-00-80-3F</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Speed Multiplier x 2 [ MC ]" Description="Speed Multiplier x 2 [ MC ]">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1DD3F88</Offset>
+      <ValueOn>00-00-00-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Speed Multiplier x 3 [ MC ]" Description="Speed Multiplier x 3 [ MC ]">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1DD3F88</Offset>
+      <ValueOn>00-00-40-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Speed Multiplier x 4 [ MC ]" Description="Speed Multiplier x 4 [ MC ]">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1DD3F88</Offset>
+      <ValueOn>00-00-80-40</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Ascent Multiplier x 1 [ MC ]" Description="Ascent Multiplier x 1 [ MC ]">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1DD3F8C</Offset>
+      <ValueOn>00-00-80-3F</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Ascent Multiplier x 10 [ MC ]" Description="Ascent Multiplier x 10 [ MC ]">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1DD3F8C</Offset>
+      <ValueOn>00-00-20-41</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Ascent Multiplier x 20 [ MC ]" Description="Ascent Multiplier x 20 [ MC ]">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1DD3F8C</Offset>
+      <ValueOn>00-00-A0-41</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Ascent Multiplier x 30 [ MC ]" Description="Ascent Multiplier x 30 [ MC ]">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1DD3F8C</Offset>
+      <ValueOn>00-00-F0-41</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
