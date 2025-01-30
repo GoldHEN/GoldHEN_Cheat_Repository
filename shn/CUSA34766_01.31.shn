@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Granblue Fantasy Link" Moder="d01v" Cusa="CUSA34766" Version="01.31" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinite Skills">
+    <Cheatline>
+      <Offset>813253</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F2-5C-C0</ValueOn>
+      <ValueOff>C5-EA-5C-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
