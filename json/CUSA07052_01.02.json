@@ -1,0 +1,458 @@
+{
+  "name": "Final Fantasy 7 Remake",
+  "id": "CUSA07052",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "TRAINER INFO (read only)",
+      "description": "Enjoy!",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "60D2FFF",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "60D3000",
+          "on": "C74718000000005DC3E9CBE5B1FA",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "BF15D4",
+          "on": "E9271A4E05",
+          "off": "8977185DC3"
+        }
+      ]
+    },
+    {
+      "name": "All Existing Inventory Items - 99pcs",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "60D302E",
+          "on": "C784C33C560300630000008B84C33C560300E9B92DD8FA",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E55DF7",
+          "on": "E932D227059090",
+          "off": "8B84C33C560300"
+        }
+      ]
+    },
+    {
+      "name": "Current BP x2",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E717CF",
+          "on": "4101543040",
+          "off": "4189543040"
+        }
+      ]
+    },
+    {
+      "name": "Darts - Top Score",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10E2F29",
+          "on": "41BD0600000090",
+          "off": "448BABD4030000"
+        }
+      ]
+    },
+    {
+      "name": "Easy BP (~L50)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E717CF",
+          "on": "4189643040",
+          "off": "4189543040"
+        }
+      ]
+    },
+    {
+      "name": "Easy Complete Quests v102",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E0D661",
+          "on": "8B431C9090",
+          "off": "E81A220000"
+        }
+      ]
+    },
+    {
+      "name": "Easy FP (Materia)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E74AAF",
+          "on": "448B60049090E96BD6030090",
+          "off": "8B40044439E00F8E3A010000"
+        }
+      ]
+    },
+    {
+      "name": "Easy Skillmaster",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E0D050",
+          "on": "89F190",
+          "off": "0F4ECE"
+        }
+      ]
+    },
+    {
+      "name": "Freeze PlayTime",
+      "description": "Do Not use together with Null PlayTime cheat!",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E6A045",
+          "on": "909090",
+          "off": "4801C8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "description": "HealthPoisonBikeXIII (Time)XIII (Hit)Bike (Allies)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BB5EA0",
+          "on": "428B443034",
+          "off": "428B443030"
+        },
+        {
+          "offset": "A715FA",
+          "on": "428B443034",
+          "off": "428B443030"
+        },
+        {
+          "offset": "1C3A20A",
+          "on": "909090",
+          "off": "0F4EF0"
+        },
+        {
+          "offset": "1061DC5",
+          "on": "C5F828C1",
+          "off": "C5F25CC0"
+        },
+        {
+          "offset": "1B6FF04",
+          "on": "9090909090",
+          "off": "C5FA5C45C4"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Limit",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B98C18",
+          "on": "9090909090909090",
+          "off": "C5FA5D8554FEFFFF"
+        },
+        {
+          "offset": "B848C8",
+          "on": "9090909090",
+          "off": "E803400100"
+        },
+        {
+          "offset": "279678D",
+          "on": "9090909090",
+          "off": "E8DEF00000"
+        },
+        {
+          "offset": "C1BD8B",
+          "on": "9090909090",
+          "off": "E8B0011E00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B8474E",
+          "on": "9090909090",
+          "off": "E84D9C0100"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Special Attacks",
+      "description": "CloudOthers, Barret",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C0BC8D",
+          "on": "C5FA1188E0010000",
+          "off": "C5FA1180E0010000"
+        },
+        {
+          "offset": "A839AF",
+          "on": "C5F828C190",
+          "off": "C5FA5845EC"
+        }
+      ]
+    },
+    {
+      "name": "Infinite StackItems",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E4D7A0",
+          "on": "909090",
+          "off": "2B500C"
+        },
+        {
+          "offset": "E5636A",
+          "on": "909090",
+          "off": "4429F1"
+        }
+      ]
+    },
+    {
+      "name": "Instant ButtonHold Actions",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "153ED96",
+          "on": "C5FA10440354909090",
+          "off": "C5FA588403A4000000"
+        }
+      ]
+    },
+    {
+      "name": "Invulnerable Enemys",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BF15D4",
+          "on": "909090",
+          "off": "897718"
+        }
+      ]
+    },
+    {
+      "name": "Max ATB Gauge",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "60D3065",
+          "on": "42C74430440000FA44C4A17A10443044E9FDEAB1FA",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BF1B70",
+          "on": "E9F0144E059090",
+          "off": "C4A17A10443044"
+        }
+      ]
+    },
+    {
+      "name": "Max Gil on Get",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E560D8",
+          "on": "898CC33C56030090",
+          "off": "4489B4C33C560300"
+        }
+      ]
+    },
+    {
+      "name": "Null PlayTime",
+      "description": "Do Not use together with Freeze PlayTime cheat!",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E6A045",
+          "on": "4831C0",
+          "off": "4801C8"
+        }
+      ]
+    },
+    {
+      "name": "Stats - Luck 9999",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DFC69B",
+          "on": "B80F270000909090909090",
+          "off": "488B80A03A00008B440858"
+        }
+      ]
+    },
+    {
+      "name": "Stats - Magic 9999",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DFC23D",
+          "on": "B80F270000909090909090909090",
+          "off": "488B80A03A00008B840824020000"
+        }
+      ]
+    },
+    {
+      "name": "Stats - Magical Damage 9999",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DFC4BB",
+          "on": "B80F270000909090909090",
+          "off": "488B80A03A00008B44084C"
+        }
+      ]
+    },
+    {
+      "name": "Stats - Magical Defense 9999",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DFC5FB",
+          "on": "B80F270000909090909090",
+          "off": "488B80A03A00008B440854"
+        }
+      ]
+    },
+    {
+      "name": "Stats - MP 9999",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17B04B1",
+          "on": "B80F270000909090909090",
+          "off": "488B80A03A00008B441834"
+        },
+        {
+          "offset": "1935B99",
+          "on": "B80F270000909090",
+          "off": "448B6408344489E0"
+        },
+        {
+          "offset": "DFBD7B",
+          "on": "B80F270000909090909090",
+          "off": "488B80A03A00008B44083C"
+        }
+      ]
+    },
+    {
+      "name": "Stats - Physical Damage 9999",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DFC41B",
+          "on": "B80F270000909090909090",
+          "off": "488B80A03A00008B440848"
+        }
+      ]
+    },
+    {
+      "name": "Stats - Physical Defense 9999",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DFC4BB",
+          "on": "B80F270000909090909090",
+          "off": "488B80A03A00008B44084C"
+        }
+      ]
+    },
+    {
+      "name": "Stats - Speed 9999",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E79902",
+          "on": "BB0F270000",
+          "off": "0FB65C0822"
+        },
+        {
+          "offset": "DFC7E2",
+          "on": "B80F270000",
+          "off": "0FB6440823"
+        }
+      ]
+    },
+    {
+      "name": "Stats - Strength 9999",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DFC19D",
+          "on": "B80F270000909090909090909090",
+          "off": "488B80A03A00008B840820020000"
+        }
+      ]
+    },
+    {
+      "name": "Stats - Vitality 9999",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DFC2DD",
+          "on": "B80F270000909090909090909090",
+          "off": "488B80A03A00008B840828020000"
+        }
+      ]
+    },
+    {
+      "name": "Stats - Will 9999",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DFC37D",
+          "on": "B80F270000909090909090909090",
+          "off": "488B80A03A00008B84082C020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Pharaoh2k"
+  ]
+}
