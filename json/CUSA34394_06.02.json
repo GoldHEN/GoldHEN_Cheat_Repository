@@ -1,0 +1,86 @@
+{
+  "name": "God Of War Ragnarok",
+  "id": "CUSA34394",
+  "version": "06.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "TRAINER INFO (read only)",
+      "description": "nPlease be sure to read the comment on each individual cheat, if a comment is available. Enjoy!",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1786FFF",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Health Master Code (must be enabled)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1787000",
+          "on": "48891DF9CE43004881C3902B000048891DF3CE4300488B1DE4CE4300C4E3790CC102E964E30DFF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1787047",
+          "on": "483B3DB2CE4300742A833D4900000001750CC787902B000000D01D46EB2A833D38000000017521C787902B000000000000EB15833D1B00000001750CC787902B000000D01D46EB00C5FA108F902B0000E9BBE40BFF000000000000000000000000",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "865385",
+          "on": "E9761CF20090",
+          "off": "C4E3790CC102"
+        },
+        {
+          "offset": "84554F",
+          "on": "E9F31AF400909090",
+          "off": "C5FA108F902B0000"
+        }
+      ]
+    },
+    {
+      "name": "--Enemy_Infinite_HP",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17870A0",
+          "on": "01000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "--One_Hit_Kill",
+      "description": "Do NOT use One Hit Kill on the first bear(Bjorn).\r\nOtherwise you may not be able to complete the fight.\r\n\r\nAlso, OHK may cause an issue that certain enemies will not show up as they are programmed to be created when other enemies reach a certain HP level when they are getting hit, but OHK obviously just kills them instantly.\r\n\r\nIn such cases, if you are getting stuck, for example in the Old Friends quest, when reaching the cave with many Draugrs and can't pass the rocks-blocked door, \r\n\r\nI recommend you disable OHK, reload the checkpoint or reload a previous save and play that part again.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17870A4",
+          "on": "01000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "--Player_Infinite_HP",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "178709C",
+          "on": "01000000",
+          "off": "00000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Pharaoh2k"
+  ]
+}
