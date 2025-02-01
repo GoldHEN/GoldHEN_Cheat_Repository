@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer Game="God Of War Ragnarok" Moder="Pharaoh2k" Cusa="CUSA34394" Version="06.02" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="TRAINER INFO (read only)" Description="nPlease be sure to read the comment on each individual cheat, if a comment is available. Enjoy!">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1786FFF</Offset>
+      <ValueOn>00</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Health Master Code (must be enabled)" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1787000</Offset>
+      <ValueOn>48-89-1D-F9-CE-43-00-48-81-C3-90-2B-00-00-48-89-1D-F3-CE-43-00-48-8B-1D-E4-CE-43-00-C4-E3-79-0C-C1-02-E9-64-E3-0D-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1787047</Offset>
+      <ValueOn>48-3B-3D-B2-CE-43-00-74-2A-83-3D-49-00-00-00-01-75-0C-C7-87-90-2B-00-00-00-D0-1D-46-EB-2A-83-3D-38-00-00-00-01-75-21-C7-87-90-2B-00-00-00-00-00-00-EB-15-83-3D-1B-00-00-00-01-75-0C-C7-87-90-2B-00-00-00-D0-1D-46-EB-00-C5-FA-10-8F-90-2B-00-00-E9-BB-E4-0B-FF-00-00-00-00-00-00-00-00-00-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>865385</Offset>
+      <ValueOn>E9-76-1C-F2-00-90</ValueOn>
+      <ValueOff>C4-E3-79-0C-C1-02</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>84554F</Offset>
+      <ValueOn>E9-F3-1A-F4-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-8F-90-2B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Enemy_Infinite_HP" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>17870A0</Offset>
+      <ValueOn>01-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--One_Hit_Kill" Description="Do NOT use One Hit Kill on the first bear(Bjorn).&#xD;&#xA;Otherwise you may not be able to complete the fight.&#xD;&#xA;&#xD;&#xA;Also, OHK may cause an issue that certain enemies will not show up as they are programmed to be created when other enemies reach a certain HP level when they are getting hit, but OHK obviously just kills them instantly.&#xD;&#xA;&#xD;&#xA;In such cases, if you are getting stuck, for example in the Old Friends quest, when reaching the cave with many Draugrs and can't pass the rocks-blocked door, &#xD;&#xA;&#xD;&#xA;I recommend you disable OHK, reload the checkpoint or reload a previous save and play that part again.">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>17870A4</Offset>
+      <ValueOn>01-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="--Player_Infinite_HP" Description="">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>178709C</Offset>
+      <ValueOn>01-00-00-00</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
