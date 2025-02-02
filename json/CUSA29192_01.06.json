@@ -1,0 +1,125 @@
+{
+  "name": "EP2638-CUSA29192_00-6306706212209718",
+  "id": "CUSA29192",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80589D5C",
+          "on": "9090909090",
+          "off": "E8CF9DA400"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "41C7463C0000C842C4C17A104E3CC4C17A114E3CC5F82EDAE99F630C01",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80D253B2",
+          "on": "E9499CF3FE9090909090",
+          "off": "C4C17A114E3CC5F82EDA"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80D23095",
+          "on": "909090",
+          "off": "41FFD4"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C68B43",
+          "on": "9090909090",
+          "off": "418944245C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Focus",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80D32CD5",
+          "on": "9090909090909090",
+          "off": "C5FA11939C000000"
+        },
+        {
+          "offset": "80D32D28",
+          "on": "9090909090909090",
+          "off": "C5FA11839C000000"
+        },
+        {
+          "offset": "80D34365",
+          "on": "9090909090909090",
+          "off": "C5FA11939C000000"
+        },
+        {
+          "offset": "80D343B0",
+          "on": "9090909090909090",
+          "off": "C5FA11839C000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Items",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F03D",
+          "on": "B863000000418947200F84F4944601E9D6944601",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "810C8521",
+          "on": "E9176BB9FE90",
+          "off": "418947207419"
+        }
+      ]
+    },
+    {
+      "name": "Inf Skill Points",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F071",
+          "on": "B8630000004189442428E9AF73CF00",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "8095642A",
+          "on": "E9428C30FF",
+          "off": "4189442428"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

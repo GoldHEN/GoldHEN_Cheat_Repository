@@ -1,0 +1,47 @@
+{
+  "name": "EP0290-CUSA07188_00-BULLETSTORMFC000",
+  "id": "CUSA07188",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life And Exp",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "AE2A4",
+          "on": "0345C8",
+          "off": "2B45C8"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16BF3B2",
+          "on": "90909090909090",
+          "off": "29948BE8170000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16BF3B9",
+          "on": "90909090909090",
+          "off": "29948BE0170000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}
