@@ -1,0 +1,98 @@
+{
+  "name": "UP1195-CUSA06213_00-THEDEERGODPS4000",
+  "id": "CUSA06213",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8025E883",
+          "on": "90909090",
+          "off": "45297E20"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5B000",
+          "on": "F30F10C1C4C17A114528E91C406000",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "8025F025",
+          "on": "E9D6BF9FFF90",
+          "off": "C4C17A114528"
+        }
+      ]
+    },
+    {
+      "name": "No Hungry",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5B02F",
+          "on": "41C7472400002041C4C17A104724C4C17A114724E9932F6000",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8025DFD5",
+          "on": "E955D09FFF90",
+          "off": "C4C17A114724"
+        }
+      ]
+    },
+    {
+      "name": "Inf O2",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8023A87A",
+          "on": "90909090",
+          "off": "41894634"
+        }
+      ]
+    },
+    {
+      "name": "Inf Jumps",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8025567E",
+          "on": "41C686E000000001",
+          "off": "41C686E000000000"
+        }
+      ]
+    },
+    {
+      "name": "Fast Growup",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5B068",
+          "on": "488D75CC41C7462CF4010000E932476000",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "8025F7A3",
+          "on": "E9C0B89FFF909090",
+          "off": "488D75CC41895E2C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

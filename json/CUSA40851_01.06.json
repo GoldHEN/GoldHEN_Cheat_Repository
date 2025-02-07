@@ -1,0 +1,108 @@
+{
+  "name": "EP0096-CUSA40851_00-0811041933238869",
+  "id": "CUSA40851",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81771185",
+          "on": "9090909090",
+          "off": "E83689D700"
+        }
+      ]
+    },
+    {
+      "name": "Inf Life Boat",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "4881F9B0000000740CC4C17A1144242CE9ADB68802C4C17A1044242CC4C17A1144242CE99AB68802",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "824EA6BB",
+          "on": "E9404977FD9090",
+          "off": "C4C17A1144242C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Fuel",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F048",
+          "on": "C5FA104720C5FA114720E97500C401",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "8189F0C7",
+          "on": "E97CFF3BFE",
+          "off": "C5FA114720"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F077",
+          "on": "4983FE3074164983FE4074104983FE107428438944352CE999AA0005B83F420F00438944352CE98AAA0005B8E7030000438944352CE97BAA00054983FF05740A438944352CE96BAA0005438B44352C438944352CE95CAA0005",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "84C69B27",
+          "on": "E94B55FFFA",
+          "off": "438944352C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Bombs and Items from Boat",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F0F0",
+          "on": "B863000000418947200F85F672C301E9D672C301",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "818963D4",
+          "on": "E9178D3CFE90",
+          "off": "41894720751B"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F124",
+          "on": "B8630000004189441E38E99E660305",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "84C957CC",
+          "on": "E95399FCFA",
+          "off": "4189441E38"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}
