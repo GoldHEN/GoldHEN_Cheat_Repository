@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Devil May Cry 4 Special Edition" Moder="Ali-mk" Cusa="CUSA01599" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>59EC9A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-21-84-CF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf-Health-(MC)">
+    <Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>12EB800</Offset>
+      <Section>0</Section>
+      <ValueOn>83-BB-84-02-00-00-02-75-0A-C5-FA-10-5B-0C-E9-5E-BA-3A-FF-C5-FA-11-5B-40-E9-54-BA-3A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>69726C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8F-45-C5-00</ValueOn>
+      <ValueOff>C5-FA-11-5B-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Max-Red-Orbs-99999999">
+    <Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>12EB81F</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-FF-E0-F5-05-89-83-84-01-00-00-E9-34-99-31-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>60515D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BD-66-CE-00-90</ValueOn>
+      <ValueOff>89-83-84-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Max-Proud-Sovl-99999999">
+    <Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>12EB831</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-FF-E0-F5-05-41-89-8F-C0-03-00-00-E9-57-5E-33-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>621692</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9A-A1-CC-00-90-90</ValueOn>
+      <ValueOff>41-89-8F-C0-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-All-Items">
+    <Cheatline>
+      <Offset>2210FB</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-57-34</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>22106B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-57-30</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>2212AB</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-57-40</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>22118B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-57-38</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>22121B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-57-3C</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>220FDB</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-57-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Red-Orbs">
+    <Cheatline>
+      <Offset>20515D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-83-84-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Proud-Sovl">
+    <Cheatline>
+      <Offset>221692</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-8F-C0-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf-evil-Trigger-vergil">
+    <Cheatline>
+      <Offset>598F14</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-</ValueOn>
+      <ValueOff>C5-FA-10-83-68-2A-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>598E1D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-64-2A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf-evil-Trigger-Lady-Trish">
+    <Cheatline>
+      <Offset>599BFF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-64-2A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Max-Proud-Sovl-Nero">
+    <Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>12EB813</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-FF-E0-F5-05-41-89-8F-10-02-00-00-E9-F7-5D-33-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>621614</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FA-A1-CC-00</ValueOn>
+      <ValueOff>E9-E7-A1-CC-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
