@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Bloodstained Ritual of the Night" Moder="Bandicootmonito " Cusa="CUSA07953" Version="01.60" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health + One hit kill" Description="You can activate it at any time of the game (Puedes activarlo en cualquier parte del juego)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>CFDF800</Offset>
+      <ValueOn>49-83-F9-00-0F-85-8F-E1-E4-F8-B8-00-00-00-00-89-83-40-02-00-00-E9-7F-E1-E4-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>5E2D993</Offset>
+      <ValueOn>E9-68-1E-1B-07-90</ValueOn>
+      <ValueOff>89-83-40-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Magic" Description="You can activate it at any time of the game (Puedes activarlo en cualquier parte del juego)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>CFDF81C</Offset>
+      <ValueOn>C7-83-44-02-00-00-3F-42-0F-00-E9-8B-FB-E4-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>5E2F3B0</Offset>
+      <ValueOn>E9-67-04-1B-07-90</ValueOn>
+      <ValueOff>89-8B-44-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Gold x999999" Description="You can activate it at any time of the game (Puedes activarlo en cualquier parte del juego)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>CFDF82D</Offset>
+      <ValueOn>C7-87-30-04-00-00-3F-42-0F-00-E9-1B-87-ED-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>5EB7F51</Offset>
+      <ValueOn>E9-D7-78-12-07-90</ValueOn>
+      <ValueOff>89-B7-30-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Items x99 (Need 2 to work)" Description="You can activate it at any time of the game (Puedes activarlo en cualquier parte del juego)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>CFDF83E</Offset>
+      <ValueOn>C7-42-48-63-00-00-00-E9-F3-F2-E0-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>5DEEB33</Offset>
+      <ValueOn>E9-06-0D-1F-07-90-90-90-90-90</ValueOn>
+      <ValueOff>44-89-6A-48-0F-88-F2-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Bullets x99" Description="You can activate it at any time of the game (Puedes activarlo en cualquier parte del juego)">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>CFDF84C</Offset>
+      <ValueOn>41-C7-47-48-63-00-00-00-E9-29-43-E1-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>5DF3B77</Offset>
+      <ValueOn>E9-D0-BC-1E-07-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-47-48-80-BD-EC-FC-FF-FF-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
