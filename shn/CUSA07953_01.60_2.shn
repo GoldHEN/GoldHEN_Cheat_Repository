@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Bloodstained Ritual of The Night" Moder="Ali-mk" Cusa="CUSA07953" Version="01.60" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health-Aurora(MC)">
+    <Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>D3DF800</Offset>
+      <Section>0</Section>
+      <ValueOn>83-BB-98-02-00-00-01-75-08-8B-43-0C-E9-88-E1-E4-F8-89-83-40-02-00-00-E9-7D-E1-E4-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>622D993</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-68-1E-1B-07-90</ValueOn>
+      <ValueOff>89-83-40-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Health-Zengetsu(MC)">
+    <Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>D3DF83C</Offset>
+      <Section>0</Section>
+      <ValueOn>83-BB-9C-03-00-00-10-75-08-8B-43-0C-E9-4C-E1-E4-F8-89-83-40-02-00-00-E9-41-E1-E4-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+	  <Absolute>True</Absolute>
+      <Offset>622D993</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A4-1E-1B-07</ValueOn>
+      <ValueOff>E9-86-1E-1B-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-MP(Aurora)">
+    <Cheatline>
+      <Offset>34C0C55</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-93-A4-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-MP(Zengetsu)">
+    <Cheatline>
+      <Offset>5E2DABD</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-8B-44-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Max-Gold(99999999)">
+    <Cheatline>
+      <Offset>CFDF81E</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-FF-E0-F5-05-89-B7-30-04-00-00-E9-29-87-ED-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>5EB7F51</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C8-78-12-07-90</ValueOn>
+      <ValueOff>89-B7-30-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf-Health-2">
+    <Cheatline>
+      <Offset>5E2D93C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>80-78-03-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
