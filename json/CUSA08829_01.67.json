@@ -3,7 +3,7 @@
   "id": "CUSA08829",
   "version": "01.67",
   "process": "eboot.bin",
-  "mods": [                  
+  "mods": [
     {
       "name": "Dev Features",
       "type": "button",
@@ -36,7 +36,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Third Person",
       "type": "button",
       "memory": [
@@ -52,7 +52,7 @@
         }
       ]
     },
-	{
+    {
       "name": "Fov",
       "type": "button",
       "memory": [
