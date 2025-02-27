@@ -1,0 +1,75 @@
+{
+  "name": "Call of Duty Modern Warfare 2019",
+  "id": "CUSA08829",
+  "version": "01.67",
+  "process": "eboot.bin",
+  "mods": [                  
+    {
+      "name": "Dev Features",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "6AB0EF0",
+          "on": "4C53535252534D4E4D52203100",
+          "off": "4C53535252534D4E4D52203000"
+        },
+        {
+          "offset": "6AC0EF4",
+          "on": "0C",
+          "off": "0C"
+        }
+      ]
+    },
+    {
+      "name": "All Gamemodes",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "6AB0EF0",
+          "on": "5154515251504C4E4B203100",
+          "off": "5154515251504C4E4B203000"
+        },
+        {
+          "offset": "6AC0EF4",
+          "on": "0B",
+          "off": "0B"
+        }
+      ]
+    },
+	{
+      "name": "Third Person",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "6AB0EF0",
+          "on": "4E4F534C524E54524B4C203100",
+          "off": "4E4F534C524E54524B4C203000"
+        },
+        {
+          "offset": "6AC0EF4",
+          "on": "0C",
+          "off": "0C"
+        }
+      ]
+    },
+	{
+      "name": "Fov",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "6AB0EF0",
+          "on": "51545350544E4C4F4C2031313000",
+          "off": "51545350544E4C4F4C20363500"
+        },
+        {
+          "offset": "6AC0EF4",
+          "on": "0D",
+          "off": "0C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DEv_ShOoTz"
+  ]
+}
