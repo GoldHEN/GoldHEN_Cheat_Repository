@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="BloodRayne 2 ReVamped" Moder="Ali-mk" Cusa="CUSA27837" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health-(mc)">
+    <Cheatline>
+      <Offset>8240E06A</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-11-8D-00-3B-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-11-A5-00-3B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf-Rage-Points-Power-(mc)">
+    <Cheatline>
+      <Offset>8240E08D</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-11-8D-39-8E-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-11-8D-38-8E-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-AMMO">
+    <Cheatline>
+      <Offset>8248614F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-58-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
