@@ -748,4 +748,6 @@ PPSA01619_01.000.004.shn=Mortal Kombat 11
 PPSA01861_01.000.010.shn=Maneater
 CUSA42378_01.04.shn=Contra Operation Galuga
 PPSA05684_01.000.000.shn=Uncharted Legacy of Thieves Collection
+PPSA05684_01.000.000_1.shn=Uncharted The Lost Legacy
+PPSA05684_01.000.000_2.shn=Uncharted 4 A Thief's End
 PPSA01925_01.000.003.shn=Alan Wake Remastered
