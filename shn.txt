@@ -744,6 +744,7 @@ SLUS20151_01.00.shn=Klonoa 2-Lunateas Veil
 CUSA07399_01.07.shn=Crash Bandicoot N-Sane Trilogy
 CUSA35638_01.03.shn=The Last Faith
 PPSA01341_01.004.000.shn=Demon's Souls Remake
+PPSA01342_01.004.000.shn=Demon's Souls Remake
 PPSA01619_01.000.004.shn=Mortal Kombat 11
 PPSA01861_01.000.010.shn=Maneater
 CUSA42378_01.04.shn=Contra Operation Galuga
