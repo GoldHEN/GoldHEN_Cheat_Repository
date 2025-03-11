@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="No More Heroes III" Moder="Weysincha" Cusa="PPSA07576" Version="01.000.000" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf HP + OHK" Description="Do not use Inf HP at same time">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>602F800</Offset>
+      <ValueOn>49-83-F8-0A-74-2E-49-83-F8-08-74-28-49-83-F8-00-74-22-49-83-F8-20-74-0B-89-B7-64-0A-00-00-E9-A7-44-20-FB-31-C0-31-D2-31-F6-89-B7-64-0A-00-00-E9-96-44-20-FB-89-C8-89-CA-89-CE-89-B7-64-0A-00-00-E9-85-44-20-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1233CC4</Offset>
+      <ValueOn>E9-37-BB-DF-04-90</ValueOn>
+      <ValueOff>89-B7-64-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>  
+  <Cheat Text="Inf HP" Description="Do not use Inf HP + OHK at same time">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>602F800</Offset>
+      <ValueOn>49-83-F8-0A-74-17-49-83-F8-08-74-11-49-83-F8-00-74-0B-89-B7-64-0A-00-00-E9-AD-44-20-FB-89-C8-89-CA-89-CE-89-B7-64-0A-00-00-E9-9C-44-20-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1233CC4</Offset>
+      <ValueOn>E9-37-BB-DF-04-90</ValueOn>
+      <ValueOff>89-B7-64-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Battery">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>12DC084</Offset>
+      <ValueOn>89-8F-34-1D-00-00</ValueOn>
+      <ValueOff>89-87-34-1D-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf WESN" Description="On using">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1440AD4</Offset>
+      <ValueOn>89-87-30-03-00-00</ValueOn>
+      <ValueOff>89-8F-30-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf UtopiCoin" Description="On using">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>1440A24</Offset>
+      <ValueOn>C7-87-2C-03-00-00-7F-96-98-00</ValueOn>
+      <ValueOff>89-8F-2C-03-00-00-85-F6-7E-1F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Sushi" Description="On using">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>14FAF75</Offset>
+      <ValueOn>B1-05</ValueOn>
+      <ValueOff>FE-C1</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>14FAF8D</Offset>
+      <ValueOn>B1-05</ValueOn>
+      <ValueOff>FE-C9</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>14FAFA5</Offset>
+      <ValueOn>B1-05</ValueOn>
+      <ValueOff>FE-C9</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>14FAFBD</Offset>
+      <ValueOn>B1-05</ValueOn>
+      <ValueOff>FE-C9</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>14FAFD5</Offset>
+      <ValueOn>B1-05</ValueOn>
+      <ValueOff>FE-C9</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>14FAFED</Offset>
+      <ValueOn>B1-05</ValueOn>
+      <ValueOff>FE-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Bike Nitro" Description="On using">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>16F7E88</Offset>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-30-0D-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
