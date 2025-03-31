@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Outbreak Lost Hope" Moder="Ali-mk" Cusa="CUSA24067" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>15AE44</Offset>
+      <Section>0</Section>
+      <ValueOn>06</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf-Ammo-Never-Reload">
+    <Cheatline>
+      <Offset>15AE44</Offset>
+      <Section>0</Section>
+      <ValueOn>06</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
