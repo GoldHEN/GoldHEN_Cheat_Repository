@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sonic-Mania" Moder="Ali-mk" Cusa="CUSA07010" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>2DDCB</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-F0-3E-0B-00</ValueOff>
+    </Cheatline>
+	    <Cheatline>
+      <Offset>35EAA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-11-BE-0A-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>E1671</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-4A-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-lives-99">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>7C7800</Offset>
+      <ValueOn>BA-63-00-00-00-41-89-97-00-01-00-00-E9-6A-19-D5-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>519174</Offset>
+      <ValueOn>E9-87-E6-2A-00-90-90</ValueOn>
+      <ValueOff>41-89-97-00-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-lives">
+    <Cheatline>
+      <Offset>119174</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-97-00-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Rings">
+    <Cheatline>
+      <Offset>E1EDB</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>48-89-83-F4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Time">
+    <Cheatline>
+      <Offset>2B9DA3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>88-48-44</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>2B9D6F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>88-50-45</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
