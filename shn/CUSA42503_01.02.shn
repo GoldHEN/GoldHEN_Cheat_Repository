@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Atomfall Deluxe Edition" Moder="Ali-mk" Cusa="CUSA42503" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health-(mc)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>140B800</Offset>
+      <ValueOn>83-BB-AC-02-00-00-01-75-0A-C5-FA-10-4B-0C-E9-68-36-31-FF-C5-FA-11-4B-68-E9-5E-36-31-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>71EE76</Offset>
+      <ValueOn>E9-85-C9-CE-00</ValueOn>
+      <ValueOff>C5-FA-11-4B-68</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Ammo">
+    <Cheatline>
+      <Offset>BC0328</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-70-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf-Ammo-Never-Reload">
+    <Cheatline>
+      <Offset>B67DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-0B-A8-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-SkillS-Points-(MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>140B833</Offset>
+      <ValueOn>B8-0F-27-00-00-89-83-E0-07-00-00-E9-FD-47-90-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>D1003A</Offset>
+      <ValueOn>E9-F4-B7-6F-00-90</ValueOn>
+      <ValueOff>89-83-E0-07-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Rapid-Fire">
+    <Cheatline>
+      <Offset>B54139</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-12-3C-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Health-2-(mc)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>140B800</Offset>
+      <ValueOn>83-BB-BC-00-00-00-00-75-0A-C5-FA-10-4B-0C-E9-68-36-31-FF-C5-FA-11-4B-68-E9-5E-36-31-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>71EE76</Offset>
+      <ValueOn>E9-85-C9-CE-00</ValueOn>
+      <ValueOff>C5-FA-11-4B-68</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-All-Items-(MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>140B822</Offset>
+      <ValueOn>C7-40-04-0F-27-00-00-41-89-DE-E9-FD-4A-BB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>FC0328</Offset>
+      <ValueOn>E9-F5-B4-44-00</ValueOn>
+      <ValueOff>E9-D3-B4-44-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Invincible-1-(mc)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>140B845</Offset>
+      <ValueOn>49-83-FB-02-0F-84-A6-0C-A5-FF-31-D2-41-FF-50-08-E9-9E-0C-A5-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>E5C4F1</Offset>
+      <ValueOn>E9-4F-F3-5A-00-90-90</ValueOn>
+      <ValueOff>41-FF-50-08-41-B6-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Invincibl-2-(mc)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>140B81F</Offset>
+      <ValueOn>49-83-F9-05-0F-84-5D-72-9F-FF-E8-02-32-A2-FF-E9-53-72-9F-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>E02A81</Offset>
+      <ValueOn>E9-99-8D-60-00</ValueOn>
+      <ValueOff>E8-AA-BF-02-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
