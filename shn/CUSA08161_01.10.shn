@@ -72,12 +72,20 @@
       <ValueOff>89-58-58</ValueOff>
     </Cheatline>
   </Cheat>
-    <Cheat Text="Damage from the enemy and your">
+    <Cheat Text="Infinite-Health-(mc)">
     <Cheatline>
-      <Offset>268A64F</Offset>
+      <Absolute>True</Absolute>
       <Section>0</Section>
-      <ValueOn>90-90-90-90-90-90</ValueOn>
-      <ValueOff>C4-C1-7A-11-47-22</ValueOff>
+      <Offset>8E47800</Offset>
+      <ValueOn>41-83-BE-14-01-00-00-00-75-0B-C4-C1-7A-10-46-0C-E9-BB-F2-55-F9-C4-C1-7A-11-46-10-E9-B0-F2-55-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>23A6ACA</Offset>
+      <ValueOn>E9-31-0D-AA-06-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-46-10</ValueOff>
     </Cheatline>
   </Cheat>
     <Cheat Text="Infinite-Red-Orbs">
