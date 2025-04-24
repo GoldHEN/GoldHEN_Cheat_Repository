@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Nine Sols" Moder="Ali-mk" Cusa="CUSA50688" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>80B9760D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-0E-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>80B43A40</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-47-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+      <Cheat Text="Inf-SkillS-Points">
+    <Cheatline>
+      <Offset>80B93A57</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-18-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-money">
+    <Cheatline>
+      <Offset>80AD151B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-18-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf-Life-Recovery">
+    <Cheatline>
+      <Offset>80B4C895</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-34</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf-Full-control-POWER">
+    <Cheatline>
+      <Offset>80B3637B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-18-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

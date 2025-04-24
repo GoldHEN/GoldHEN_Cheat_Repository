@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Double Dragon Gaiden" Moder="Ali-mk" Cusa="CUSA42936" Version="01.09" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+    <Cheat Text="Infinite-Health-(MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>86D63800</Offset>
+      <ValueOn>83-78-2C-03-75-08-8B-48-0C-E9-79-63-EE-FA-89-88-A0-01-00-00-E9-6E-63-EE-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>81C49B81</Offset>
+      <ValueOn>E9-7A-9C-11-05-90</ValueOn>
+      <ValueOff>89-88-A0-01-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>86D6382D</Offset>
+      <ValueOn>83-78-58-00-75-08-8B-48-0C-E9-4C-63-EE-FA-89-88-A0-01-00-00-E9-41-63-EE-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>81C49B81</Offset>
+      <ValueOn>E9-A7-9C-11-05</ValueOn>
+      <ValueOff>E9-7A-9C-11-05</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-cash">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>82BC6047</Offset>
+      <ValueOn>89-88-F2-00-00-00</ValueOn>
+      <ValueOff>89-88-F0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
