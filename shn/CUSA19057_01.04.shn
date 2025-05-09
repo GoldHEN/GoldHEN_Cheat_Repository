@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Minoria" Moder="Ali-mk" Cusa="CUSA19057" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>E6A9CE</Offset>
+      <Section>0</Section>
+      <ValueOn>75-18</ValueOn>
+      <ValueOff>74-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>8039E476</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-40-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-All-Items">
+    <Cheatline>
+      <Offset>804C7CB3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-46-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="MAX-Level-99-+one-Hit-Kill">
+    <Cheatline>
+      <Offset>8039E476</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-40-13</ValueOn>
+      <ValueOff>C5-FA-11-40-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
