@@ -1,104 +1,59 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Darksiders Warmastered Edition" Moder="Celogamez" Cusa="CUSA05347" Version="01.01" Process="eboot.bin">
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Darksiders Warmastered Edition" Moder="Ali-mk" Cusa="CUSA05347" Version="01.01" Process="eboot.bin">
   <Genres Name="Action" />
-  <Genres Name="Fighting" />
   <Items />
-  <Cheat Text="Infinite Health">
-    <Cheatline>
-      <Offset>1783B10</Offset>
-      <Section>0</Section>
-      <ValueOn>C4-C1-7A-10-85-90-01-00-00-C4-C1-7A-11-85-84-01-00-00-E9-23-44-F3-FE</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
+  <Cheat Text="Infinite-Health">
     <Cheatline>
       <Offset>6B7F41</Offset>
       <Section>0</Section>
-      <ValueOn>E9-CA-BB-0C-01-90-90-90-90</ValueOn>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
       <ValueOff>C4-C1-7A-11-85-84-01-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="1 Hit Kill (Don't Use Against Bosses)">
+    <Cheat Text="Invincible-(MC)">
     <Cheatline>
-      <Offset>1783E60</Offset>
+      <Offset>57848D</Offset>
       <Section>0</Section>
-      <ValueOn>41-C7-85-84-01-00-00-00-00-00-00-E9-D1-E4-CA-FE</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-4E-C8-17-00</ValueOff>
     </Cheatline>
-    <Cheatline>
-      <Offset>432338</Offset>
+	<Cheatline>
+      <Offset>69D16E</Offset>
       <Section>0</Section>
-      <ValueOn>E9-23-1B-35-01-90-90-90-90</ValueOn>
-      <ValueOff>C4-C1-7A-11-85-84-01-00-00</ValueOff>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-5D-37-08-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite Wrath Bar">
+    <Cheat Text="MAX-Souls-1-(MC)">
     <Cheatline>
-      <Offset>1783C10</Offset>
+      <Offset>6C1874</Offset>
       <Section>0</Section>
-      <ValueOn>C7-43-04-00-00-16-43-E9-61-5C-A7-FE</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+      <ValueOn>C5-FA-58-83-02-08-00-00</ValueOn>
+      <ValueOff>C5-FA-58-83-00-08-00-00</ValueOff>
     </Cheatline>
+  </Cheat>
+      <Cheat Text="MAX-Souls-2-(MC)">
+    <Cheatline>
+      <Offset>65CFFA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-61-48-06-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Quick-Level-All-Weapon-Up-(mc)">
+    <Cheatline>
+      <Offset>3BA0F1</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-72-58-85-DC-01-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-11-85-DC-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+      <Cheat Text="Inf-Wrath-bar-Rage">
     <Cheatline>
       <Offset>1F9878</Offset>
       <Section>0</Section>
-      <ValueOn>E9-93-A3-58-01</ValueOn>
+      <ValueOn>90-90-90-90-90</ValueOn>
       <ValueOff>C5-FA-11-43-04</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Max Chaos (1 Hit)">
-    <Cheatline>
-      <Offset>1783E30</Offset>
-      <Section>0</Section>
-      <ValueOn>41-C7-44-24-08-00-00-96-43-C4-C1-7A-10-44-24-08-E9-97-F6-99-FE</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>1234D5</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-56-09-66-01-90-90</ValueOn>
-      <ValueOff>C4-C1-7A-10-44-24-08</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Instant Chaos After Use">
-    <Cheatline>
-      <Offset>1F9AC6</Offset>
-      <Section>0</Section>
-      <ValueOn>0F-44-CA</ValueOn>
-      <ValueOff>0F-4C-CA</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Infinite Horse Gallop">
-    <Cheatline>
-      <Offset>33F4A9</Offset>
-      <Section>0</Section>
-      <ValueOn>90-90-90-90-90-90</ValueOn>
-      <ValueOff>89-83-5C-06-00-00</ValueOff>
-    </Cheatline>
-  </Cheat>
-  <Cheat Text="Max/Infinite Souls">
-    <Cheatline>
-      <Offset>1783B70</Offset>
-      <Section>0</Section>
-      <ValueOn>C7-83-00-08-00-00-7F-96-18-4B-C5-FA-2C-83-00-08-00-00-E9-01-23-9A-FE</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>125E80</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-EB-DC-65-01-90-90-90</ValueOn>
-      <ValueOff>C5-FA-2C-83-00-08-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>1783C00</Offset>
-      <Section>0</Section>
-      <ValueOn>C7-87-00-08-00-00-7F-96-18-4B-E9-14-50-F5-FE</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>6D8C1B</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-E0-AF-0A-01-90-90-90</ValueOn>
-      <ValueOff>C5-FA-11-87-00-08-00-00</ValueOff>
     </Cheatline>
   </Cheat>
 </Trainer>
