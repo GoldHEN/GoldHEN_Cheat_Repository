@@ -445,6 +445,7 @@ CUSA08025_01.11.shn=Borderlands 3
 CUSA37028_01.11.shn=Wo Long Fallen Dynasty
 CUSA08779_01.02.shn=Dishonored - Death of the Outsider
 CUSA33874_01.01.shn=Persona 4 Golden
+CUSA15436_01.05.shn=Kingdom Come Deliverance Royal Edition
 CUSA47037_01.03.shn=Metaphor ReFantazio
 CUSA16261_01.08.shn=Blasphemous
 CUSA03450_01.37.shn=Fallout 4 Game of the Year Edition
