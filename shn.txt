@@ -783,6 +783,7 @@ CUSA02320_01.02_2.shn=Uncharted: The Nathan Drake Collection™ (Drakes Fortune)
 CUSA26608_01.00.shn=Blood-Rayne-Betrayal.Fresh.Bites
 CUSA03173_01.09.shn=Bloodborne
 CUSA34390_05.04.shn=God of War Ragnarok (+Valhalla DLC compatibility)
+CUSA05347_01.01_2.shn=Darksiders Warmastered Edition
 CUSA34390_06.02.shn=God Of War Ragnarok
 CUSA18723_01.18.shn=Elden Ring
 CUSA02826_01.02_big3-ps4_Shipping.elf.shn=Uncharted Collection - UNC3 Dev Menu
