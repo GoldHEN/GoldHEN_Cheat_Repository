@@ -1,60 +1,60 @@
 {
-    "name": "Elden Ring Nightreign",
-    "id": "CUSA48853",
-    "version": "01.02",
-    "process": "eboot.bin",
-    "mods": [
+  "name": "Elden Ring Nightreign",
+  "id": "CUSA48853",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "TRAINER INFO (read only)",
+      "description": "For the complete trainer, visit our discord server (Team Reaper). Invite: https://discord.gg/yrxdxSPZmH ",
+      "type": "checkbox",
+      "memory": [
         {
-            "name": "TRAINER INFO (read only)",
-            "description": "For the complete trainer, visit our discord server (Team Reaper). Invite: https://discord.gg/yrxdxSPZmH ",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "3AAEFFF",
-                    "on": "00",
-                    "off": "00"
-                }
-            ]
+          "offset": "3AAEFFF",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "God Mode",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAF000",
+          "on": "48893DF90E2901488B07FF9098010000E96BA283FE",
+          "off": "000000000000000000000000000000000000000000"
         },
         {
-            "name": "God Mode",
-            "description": "",
-            "type": "checkbox",
-            "memory": [
-                {
-                    "offset": "3AAF000",
-                    "on": "48893DF90E2901488B07FF9098010000E96BA283FE",
-                    "off": "000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "3AAF035",
-                    "on": "89D94C8D4DB8483B15BE0E29010F85C8DF16FEE9C8DF16FE",
-                    "off": "000000000000000000000000000000000000000000000000"
-                },
-                {
-                    "offset": "3AAF06D",
-                    "on": "488BB898000000E9C5C0FEFD",
-                    "off": "000000000000000000000000"
-                },
-                {
-                    "offset": "22E9277",
-                    "on": "E9845D7C0190909090",
-                    "off": "488B07FF9098010000"
-                },
-                {
-                    "offset": "1C1D00A",
-                    "on": "E92620E90190",
-                    "off": "89D94C8D4DB8"
-                },
-                {
-                    "offset": "1A9B132",
-                    "on": "E9363F01029090",
-                    "off": "488BB898000000"
-                }
-            ]
+          "offset": "3AAF035",
+          "on": "89D94C8D4DB8483B15BE0E29010F85C8DF16FEE9C8DF16FE",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3AAF06D",
+          "on": "488BB898000000E9C5C0FEFD",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "22E9277",
+          "on": "E9845D7C0190909090",
+          "off": "488B07FF9098010000"
+        },
+        {
+          "offset": "1C1D00A",
+          "on": "E92620E90190",
+          "off": "89D94C8D4DB8"
+        },
+        {
+          "offset": "1A9B132",
+          "on": "E9363F01029090",
+          "off": "488BB898000000"
         }
-    ],
-    "credits": [
-        "Pharaoh2k"
-    ]
+      ]
+    }
+  ],
+  "credits": [
+    "Pharaoh2k"
+  ]
 }
