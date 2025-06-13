@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="dust an elysian tail" Moder="Ali-mk" Cusa="CUSA01326" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health-(MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>26BF800</Offset>
+      <ValueOn>83-78-54-00-75-08-8B-48-0C-E9-D8-67-3E-FF-89-88-9C-01-00-00-E9-CD-67-3E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>1AA5FE0</Offset>
+      <ValueOn>E9-1B-98-C1-00-90</ValueOn>
+      <ValueOff>89-88-9C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-GOLD-(MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>26BF81B</Offset>
+      <ValueOn>B9-7F-96-98-00-89-88-64-01-00-00-E9-E6-E8-60-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>1CCE10B</Offset>
+      <ValueOn>E9-0B-17-9F-00-90</ValueOn>
+      <ValueOff>89-88-64-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
