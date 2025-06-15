@@ -684,6 +684,7 @@ CUSA02826_01.00_big2-ps4_Shipping.elf.shn=Uncharted Collection - UNC2 Dev Menu
 CUSA07708_15.21.shn=Monster Hunter World Iceborne
 CUSA35028_01.01.shn=Raiden IV x Mikado Remix
 CUSA05986_01.08.shn=Need For Speed Payback
+CUSA52790_01.01.shn=Scar-Lead Salvation
 CUSA00207_01.00.shn=Bloodborne
 CUSA28527_01.19.shn=Elden Ring
 CUSA02152_01.03.shn=Middle-Earth - Shadow of Mordor

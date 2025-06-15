@@ -746,6 +746,7 @@ CUSA18723_01.17.json=Elden Ring - Shadow of the Erdtree
 CUSA02980_01.00_MAGNOLIA.elf.json=Borderlands THC: Borderlands 2
 CUSA34388_02.00.json=God of War Ragnarok
 CUSA05725_04.00.json=The Witcher 3 Wild Hunt
+CUSA13910_01.06.json=Sekiro™: Shadows Die Twice 只狼：影逝二度
 CUSA27043_01.03.json=Dead Island 2
 CUSA12529_01.12.json=STAR WARS Jedi: Fallen Order™
 CUSA16084_01.06.json=West of Dead
