@@ -1,0 +1,477 @@
+{
+  "name": "Elden Ring Nightreign",
+  "id": "CUSA50615",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "TRAINER INFO (read only)",
+      "description": "This trainer has been partially tested and seem to work fine. Please let me know if there is any issue. Be sure to read the comment on each individual cheat, if a comment is available. Trainer is compatible with CUSA50614, CUSA50615, CUSA50617, CUSA48853. Enjoy! :)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAEFFF",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Master Code (Must be enabled first + all the time)",
+      "description": "Cheats with -- prefix depend on the Master Code",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAF2BE",
+          "on": "48891D5B0C2901488B43084D01F5E9BF8EB3FE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4D3FF28",
+          "on": "0000803F",
+          "off": "0000803F"
+        },
+        {
+          "offset": "4D3FF2C",
+          "on": "0000803F",
+          "off": "0000803F"
+        },
+        {
+          "offset": "3AAF2F1",
+          "on": "4C3B25280C29017508D905280C2901EB06D905240C290141D99C2458180000C4C17A59842458180000E91D5EFDFD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "25E8189",
+          "on": "E930714C019090",
+          "off": "488B43084D01F5"
+        },
+        {
+          "offset": "1A85132",
+          "on": "E9BAA102029090909090",
+          "off": "C4C17A59842458180000"
+        }
+      ]
+    },
+    {
+      "name": "God Mode",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAF000",
+          "on": "48893DF90E2901488B07FF9098010000E9ABA883FE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3AAF035",
+          "on": "89D94C8D4DB8483B15BE0E29010F85C8E016FEE9C8E016FE",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3AAF06D",
+          "on": "488BB898000000E9C5C1FEFD",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "22E98B7",
+          "on": "E944577C0190909090",
+          "off": "488B07FF9098010000"
+        },
+        {
+          "offset": "1C1D10A",
+          "on": "E9261FE90190",
+          "off": "89D94C8D4DB8"
+        },
+        {
+          "offset": "1A9B232",
+          "on": "E9363E01029090",
+          "off": "488BB898000000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B1D80B",
+          "on": "0F94C0",
+          "off": "0F95C0"
+        }
+      ]
+    },
+    {
+      "name": "Inf+Max Health",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAF099",
+          "on": "498B07488B7808488905610E2901E933EBFDFD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3AAF0CC",
+          "on": "48391D350E290175068B8354010000898350010000E9E32806FE",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A8DBD8",
+          "on": "E9BC1402029090",
+          "off": "498B07488B7808"
+        },
+        {
+          "offset": "1B119C3",
+          "on": "E904D7F90190",
+          "off": "898350010000"
+        }
+      ]
+    },
+    {
+      "name": "Kill Everybody Around (L3 + L2)",
+      "description": "When this cheat is enabled, pressing L3+L2 will instantly kill everyone in the area.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAF106",
+          "on": "8BB050010000488905FD0D2901E9CDEAFDFD",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3AAF138",
+          "on": "538587F80700008B9FF8070000891DCD0D29015BE9462034FF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3AAF171",
+          "on": "0F48C24D85ED669C483B1D900D2901741C813D8C0D2901020100007407669DE92E2806FE669D31C0E9252806FE669DE91E2806FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A8DBDF",
+          "on": "E92215020290",
+          "off": "8BB050010000"
+        },
+        {
+          "offset": "2DF1191",
+          "on": "E9A2DFCB0090",
+          "off": "8587F8070000"
+        },
+        {
+          "offset": "1B119BD",
+          "on": "E9AFD7F90190",
+          "off": "0F48C24D85ED"
+        }
+      ]
+    },
+    {
+      "name": "Enemies Dont Attack",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18EEFB9",
+          "on": "909090909090909090909090",
+          "off": "0FB68388050000C0E8042401"
+        },
+        {
+          "offset": "1A4A243",
+          "on": "4885DB9090909090909090909090",
+          "off": "488B83A8000000F6808805000010"
+        }
+      ]
+    },
+    {
+      "name": "Inf+Max FP",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAF1C5",
+          "on": "8B8E54010000898E50010000E970AD48FE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F39F40",
+          "on": "E98052B70190",
+          "off": "8B8E50010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf+Max Stamina",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAF1F6",
+          "on": "8B8E70010000898E6C010000E9A3AD48FE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F39FA4",
+          "on": "E94D52B70190",
+          "off": "8B8E6C010000"
+        }
+      ]
+    },
+    {
+      "name": "--Vanish All Enemies",
+      "description": "Probably not very useful. Just added it for the sake of it. :-)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4487954",
+          "on": "0100000000000000",
+          "off": "0000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf+Max Consumables",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "187A711",
+          "on": "894108",
+          "off": "895908"
+        }
+      ]
+    },
+    {
+      "name": "Inf+Max Runes",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAF227",
+          "on": "41C744246CFFC99A3B418B44246CE94CEA4DFE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F8DC81",
+          "on": "E9A115B201",
+          "off": "418B44246C"
+        }
+      ]
+    },
+    {
+      "name": "Runes Retained On Death",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E926A0",
+          "on": "9090909090909090",
+          "off": "41C7466C00000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf+Max Murks",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAF25A",
+          "on": "C780D0000000FFC99A3B8B90D0000000E9B78C4DFE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F87F20",
+          "on": "E93573B20190",
+          "off": "8B90D0000000"
+        }
+      ]
+    },
+    {
+      "name": "Player No Dead 1.04",
+      "description": "Player can take damage but never die.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B1071B",
+          "on": "90909090909090",
+          "off": "803D96AB970200"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ultimate Art",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DAADE6",
+          "on": "C5FA114F14",
+          "off": "C5FA114714"
+        }
+      ]
+    },
+    {
+      "name": "--No Skill Cooldown",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "44262D3",
+          "on": "0100000000000000",
+          "off": "0000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Multi Jump And Levitate",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25E63F7",
+          "on": "90909090909090909090909090909090",
+          "off": "41C687920000000041C687E501000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf+Max Level (15)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAF28F",
+          "on": "BF100000004189F689F8E9766C4AFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1F55F0F",
+          "on": "E97B93B501",
+          "off": "4189F689F8"
+        }
+      ]
+    },
+    {
+      "name": "--Enemy Speed x0.2",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D3FF2C",
+          "on": "CDCC4C3E",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Enemy Speed x0.5",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D3FF2C",
+          "on": "0000003F",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Enemy Speed x2",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D3FF2C",
+          "on": "00000040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Player Speed x1",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D3FF28",
+          "on": "0000803F",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Player Speed x2",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D3FF28",
+          "on": "00000040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Player Speed x3",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D3FF28",
+          "on": "00004040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Player Speed x4",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D3FF28",
+          "on": "00008040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Stop Night Growth",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAF33F",
+          "on": "31D2C68330010000000FB6B344010000E9E61633FE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1DE0A33",
+          "on": "E907E9CC019090",
+          "off": "0FB6B344010000"
+        }
+      ]
+    },
+    {
+      "name": "Disable Idle Timer",
+      "description": "This disables the annoying timer that sign you out of the game if you remain idle for some time.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAF374",
+          "on": "0F57C0C5FA1183C8010000E982ABFBFD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1A69EFE",
+          "on": "E971540402909090",
+          "off": "C5FA1183C8010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Pharaoh2k"
+  ]
+}
