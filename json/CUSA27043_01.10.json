@@ -7,7 +7,7 @@
     {
       "name": "Max Health (MC)",
       "type": "checkbox",
-	  "description": "Enable all cheats after the prologue (when you reach Bel-Air)",
+      "description": "Enable all cheats after the prologue (when you reach Bel-Air)",
       "memory": [
         {
           "offset": "8CA5500",
