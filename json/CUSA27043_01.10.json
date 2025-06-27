@@ -1,0 +1,135 @@
+{
+  "name": "Dead Island 2 Gold Edition",
+  "id": "CUSA27043",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Health (MC)",
+      "type": "checkbox",
+	  "description": "Enable all cheats after the prologue (when you reach Bel-Air)",
+      "memory": [
+        {
+          "offset": "8CA5500",
+          "on": "4183BDBC00000001750B41C7857801000000006145E9AFB833F90F57C041C7857801000000000000E99CB833F9",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1FE0DC0",
+          "on": "E93B47CC0690909090",
+          "off": "C4C17A118578010000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (Enable MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8CA5508",
+          "on": "7510",
+          "off": "750B"
+        }
+      ]
+    },
+    {
+      "name": "Max XP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8CA5533",
+          "on": "C681B00000000141BD048E0400E99CF7BDF9",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2884CDA",
+          "on": "E9540842069090",
+          "off": "C681B000000001"
+        }
+      ]
+    },
+    {
+      "name": "Max Items/Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8CA554B",
+          "on": "4889D141894CDF20E90D5FA0FD",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "66AB460",
+          "on": "E9E6A05F02",
+          "off": "41894CDF20"
+        }
+      ]
+    },
+    {
+      "name": "Max Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8CA556F",
+          "on": "C787200100000000C842C5FA108F20010000C5FA118B14010000E99A6E8DF9",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "257C420",
+          "on": "E94A917206909090",
+          "off": "C5FA118B14010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Weapons Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8CA558E",
+          "on": "C787480C00000000C842E9A26FA9F9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "273C52E",
+          "on": "E95B90560690909090",
+          "off": "C5FAC2C201C5F855C1"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo/No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8CA55A3",
+          "on": "C78704010000630000008B8704010000E9787888F9",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "252CE2A",
+          "on": "E97487770690",
+          "off": "038704010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Fury",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8CA55BE",
+          "on": "4983F800750FC780800000000000803FE9FB5EBAF9C5FA118080000000E9EE5EBAF9",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "284B4C6",
+          "on": "E9F3A04506909090",
+          "off": "C5FA118080000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Sondio"
+  ]
+}
