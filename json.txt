@@ -1028,6 +1028,7 @@ CUSA28465_01.02.json=Tails of Iron
 CUSA18880_01.01.json=ELDEN RING™ Network Test Ver.
 CUSA19210_01.26.json=guilty gear strive
 CUSA01615_01.00.json=Final Fantasy XV
+CUSA09435_01.12.json=Trials Rising(TM)
 CUSA18683_01.15.json=MOBILE SUIT GUNDAM EXTREME VS. MAXIBOOST ON
 SLES53887_01.00.json=Black
 CUSA12555_01.00.json=Dying Light 2: Stay Human
