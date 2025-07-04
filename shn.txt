@@ -722,6 +722,7 @@ SLPS00950_01.00.shn=Metal Slug - Super Vehicle-001
 CUSA34766_01.05_2.shn=Granblue Fantasy: Relink
 CUSA34390_06.02.shn=God Of War Ragnarok
 CUSA44317_01.01.shn=Blasphemous II
+CUSA27833_01.01.shn=BloodRayne ReVamped
 CUSA34119_16.01.shn=Monster Hunter Rise Sunbreak
 SLUS21390_01.00.shn=Urban Chaos - Riot Response
 CUSA40651_01.01.shn=Star Ocean The Second story R
