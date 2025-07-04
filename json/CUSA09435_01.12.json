@@ -1,0 +1,110 @@
+{
+  "name": "Trials Rising(TM)",
+  "id": "CUSA09435",
+  "version": "01.12",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Stop Timer",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D134D1",
+          "on": "9090909090909090",
+          "off": "41898C24B0000000"
+        }
+      ]
+    },
+    {
+      "name": "Restart Counter",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3147000",
+          "on": "448B35120000004489B3E80C00000F8457C0B3FEE9F3BFB3FE0000000000000000",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1C83003",
+          "on": "E9F83F4C0190909090",
+          "off": "4489B3E80C0000745F"
+        }
+      ]
+    },
+    {
+      "name": "--number",
+      "description": "0 Restarts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3147019",
+          "on": "0000000000000000",
+          "off": "0000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Multiplier Gold",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3147041",
+          "on": "8B350A00000001776C31F6E924B60CFF3F420F0000000000",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2212670",
+          "on": "E9CC49F300",
+          "off": "01776C31F6"
+        }
+      ]
+    },
+    {
+      "name": "--gold",
+      "description": "999999 Each race",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3147051",
+          "on": "3F420F0000000000",
+          "off": "0000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Easy Exp",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3147079",
+          "on": "448B350B0000004401334189C7E900F10AFF9600000000000000",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "21F6185",
+          "on": "E9EF0EF50090",
+          "off": "4401334189C7"
+        }
+      ]
+    },
+    {
+      "name": "--exper",
+      "description": "999999 ExpEach Race",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "314708B",
+          "on": "3F420F0000000000",
+          "off": "0000000000000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}
