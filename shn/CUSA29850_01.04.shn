@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dead Craft" Moder="The Fallen One" Cusa="CUSA29850" Version="1.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="inf undead energy drink">
+    <Cheatline>
+      <Offset>F988A4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-37</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf aqua cola">
+    <Cheatline>
+      <Offset>F988A4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-37</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf pistol ammo might work for all guns">
+    <Cheatline>
+      <Offset>F988A4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-37</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf money doesnt add any just freezes your current amount">
+    <Cheatline>
+      <Offset>F9A5AB</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-F1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf health">
+    <Cheatline>
+      <Offset>1BB812D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-86-B8-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
