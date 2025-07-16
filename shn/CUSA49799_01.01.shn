@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Onimusha 2 Samurais Destiny" Moder="Ali-mk" Cusa="CUSA49799" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>386590</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-CB-33-DD-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Web-MAGIC">
+    <Cheatline>
+      <Offset>386B95</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-C6-2D-DD-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Arrow">
+    <Cheatline>
+      <Offset>7C2671</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>FE-48-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-All-Items">
+    <Cheatline>
+      <Offset>170CF3A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>8B-5D-D4</ValueOff>
+    </Cheatline>
+  </Cheat>
+      <Cheat Text="MAX-Souls-99">
+    <Cheatline>
+      <Offset>133E84D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>81-F9-9F-86-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Arrow-Fire">
+    <Cheatline>
+      <Offset>7C2671</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>FE-48-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-GOLD-money">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>7A57800</Offset>
+      <ValueOn>81-A8-10-01-00-00-FF-E0-F5-05-E9-0A-EC-67-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>20D6412</Offset>
+      <ValueOn>E9-E9-13-98-05-90-90</ValueOn>
+      <ValueOff>44-29-B0-10-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf-shurikens-The-girl">
+    <Cheatline>
+      <Offset>1FA43E1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>FE-48-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
