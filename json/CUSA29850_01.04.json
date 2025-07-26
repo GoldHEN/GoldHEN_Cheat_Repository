@@ -1,0 +1,190 @@
+{
+  "name": "DeadCraft",
+  "id": "CUSA29850",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Health (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "63F3B73",
+          "on": "4883F8007F0FEB1841C7870001000000000000EB0B41C787F80000000000EB434983BF7802000000E9C4047BFA",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BA405C",
+          "on": "E912FB8405909090",
+          "off": "4983BF7802000000"
+        },
+        {
+          "offset": "63F3BC7",
+          "on": "C787000100000000D243C787F80000000000D243E94EF87AFA",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BA3426",
+          "on": "E99C078505909090",
+          "off": "C5FA118700010000"
+        },
+        {
+          "offset": "63F3BA7",
+          "on": "C787000100000000D243C787F80000000000D243E994F87AFA",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BA344C",
+          "on": "E956078505909090",
+          "off": "C5FA1187F8000000"
+        }
+      ]
+    },
+    {
+      "name": "Two Hit Kill (Enable MC)",
+	  "description": "Disable it for Duna Boss fight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "63F3B79",
+          "on": "9090",
+          "off": "EB18"
+        }
+      ]
+    },
+    {
+      "name": "Max Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "63F3BE7",
+          "on": "8B8368040000898364040000E998FE86FA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "C63A8A",
+          "on": "E95801790590",
+          "off": "898364040000"
+        }
+      ]
+    },
+    {
+      "name": "Items x10 On Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "63F3BFF",
+          "on": "4889E5C7070A000000E9894CBAFA",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "F98891",
+          "on": "E969B34505",
+          "off": "4889E50137"
+        }
+      ]
+    },
+    {
+      "name": "Items x99 On Use",
+	  "description": "Disable it to discard items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "63F3C13",
+          "on": "4889E5C70763000000E9854CBAFA",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "F988A1",
+          "on": "E96DB34505",
+          "off": "4889E52937"
+        }
+      ]
+    },
+    {
+      "name": "No Thirst",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "63F3C27",
+          "on": "508B839004000089838C04000058E9512A87FA",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C66685",
+          "on": "E99DD5780590",
+          "off": "89838C040000"
+        }
+      ]
+    },
+    {
+      "name": "No Hungry",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "63F3C40",
+          "on": "508B837C04000089837804000058E9082887FA",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C66455",
+          "on": "E9E6D7780590",
+          "off": "898378040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+	  "description": "Sell item or earn $ to trigger it",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "63F3C59",
+          "on": "B97F969800E92E69BAFA",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "F9A576",
+          "on": "E9DE964505",
+          "off": "B97F969800"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill Points",
+	  "description": "Triggered when gaining skill points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "63F3C69",
+          "on": "B9FFE0F505E99B91B8FA",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "F7CDF1",
+          "on": "E9736E4705",
+          "off": "B9FFE0F505"
+        }
+      ]
+    },
+    {
+      "name": "Max Fuel",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "63F3C79",
+          "on": "C783D800000000409C46E92A6F8FFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "CEABAA",
+          "on": "E9CA907005909090",
+          "off": "C5FA1183D8000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Sondio & The Fallen One"
+  ]
+}
