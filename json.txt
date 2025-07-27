@@ -924,6 +924,7 @@ CUSA13115_01.02_2.json=Watch Dogs®: Legion
 CUSA19351_01.05.json=Sonic Colors: Ultimate
 CUSA03840_01.01.json=RESIDENT EVIL 6
 CUSA00411_01.33.json=Grand Theft Auto V
+CUSA29850_01.04.json=DeadCraft
 CUSA14026_01.78.json=Marvel's Avengers
 CUSA47038_01.03.json=Metaphor ReFantazio
 CUSA26458_01.02.json=Saints Row

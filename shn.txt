@@ -790,7 +790,6 @@ CUSA02826_01.02_2.shn=Uncharted: The Nathan Drake Collection™ (Drakes Fortune)
 CUSA00208_01.00.shn=Bloodborne
 CUSA30466_01.02.shn=The Legend of Tianding
 CUSA25234_01.08.shn=(null)
-CUSA29850_01.04.shn=Dead Craft
 CUSA05574_01.50.shn=The Witcher 3 Wild Hunt
 CUSA02344_01.02.shn=Uncharted: The Nathan Drake Collection™ (Drakes Fortune)
 CUSA04482_01.00.shn=Prey
