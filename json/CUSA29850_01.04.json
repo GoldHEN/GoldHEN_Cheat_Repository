@@ -42,7 +42,7 @@
     },
     {
       "name": "Two Hit Kill (Enable MC)",
-	  "description": "Disable it for Duna Boss fight",
+      "description": "Disable it for Duna Boss fight",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
     },
     {
       "name": "Items x99 On Use",
-	  "description": "Disable it to discard items",
+      "description": "Disable it to discard items",
       "type": "checkbox",
       "memory": [
         {
@@ -135,7 +135,7 @@
     },
     {
       "name": "Max Money",
-	  "description": "Sell item or earn $ to trigger it",
+      "description": "Sell item or earn $ to trigger it",
       "type": "checkbox",
       "memory": [
         {
@@ -152,7 +152,7 @@
     },
     {
       "name": "Max Skill Points",
-	  "description": "Triggered when gaining skill points",
+      "description": "Triggered when gaining skill points",
       "type": "checkbox",
       "memory": [
         {
