@@ -1,0 +1,468 @@
+{
+  "name": "Grounded",
+  "id": "CUSA42556",
+  "version": "01.14",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Health (MC)",
+	  "description": "Disable it in Javamatic mission until repair mix.r",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C4350",
+          "on": "80BB0002000000740FC5FA1193840200009090E9868D12FAC783800200000000F044C7838402000000000000E96D8D12FA",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "17ED0E6",
+          "on": "E96572ED05909090",
+          "off": "C5FA119384020000"
+        },
+        {
+          "offset": "76C43EE",
+          "on": "C783C802000000000000486383C8020000E9031F3BFA",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A76300",
+          "on": "E9E9E0C4059090",
+          "off": "486383C8020000"
+        },
+        {
+          "offset": "76C440A",
+          "on": "C5FB118B48010000C783680100000000803FE989E406FA",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "17328A2",
+          "on": "E9631BF905909090",
+          "off": "C5FB118B48010000"
+        },
+        {
+          "offset": "76C4439",
+          "on": "3B8B64030000C7836403000001000000E9E90F5AFC",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3C65431",
+          "on": "E903F0A50390",
+          "off": "3B8B64030000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill (Enable MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C4387",
+          "on": "C7838402000000C0DA45EBD0",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "76C4359",
+          "on": "EB2C9090909090",
+          "off": "C5FA1193840200009090"
+        }
+      ]
+    },
+    {
+      "name": "Max Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C4399",
+          "on": "C783D800000000006143E9D00518FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1844970",
+          "on": "E924FAE705909090",
+          "off": "C5FA119BD8000000"
+        }
+      ]
+    },
+    {
+      "name": "No Thirst",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C43AE",
+          "on": "C7837C0200000000C842E9451618FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "18459FA",
+          "on": "E9AFE9E705909090",
+          "off": "C5FA118B7C020000"
+        }
+      ]
+    },
+    {
+      "name": "No Hungry",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C43C3",
+          "on": "41C787780200000000C842E9550818FA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1844C1F",
+          "on": "E99FF7E70590909090",
+          "off": "C4C17A118778020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Oxygen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C43D9",
+          "on": "C787800200000000C842E9A21618FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1845A82",
+          "on": "E952E9E705909090",
+          "off": "C5FA119780020000"
+        }
+      ]
+    },
+    {
+      "name": "Day Time x100 (Enable MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C4427",
+          "on": "C783680100000000C842EBE9",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "76C4412",
+          "on": "EB139090909090",
+          "off": "C783680100000000803F"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jumps (Enable MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C4454",
+          "on": "C783640300003F420F00EBE9",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "76C443F",
+          "on": "EB139090909090",
+          "off": "C7836403000001000000"
+        }
+      ]
+    },
+    {
+      "name": "Hyper Run",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C45FB",
+          "on": "B80080BB45660F6EC0E9CF2A14FA",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "18070CD",
+          "on": "E929D5EB05909090909090",
+          "off": "488D83C00C0000C5FA1000"
+        }
+      ]
+    },
+    {
+      "name": "Hyper Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C460F",
+          "on": "31D251B90000FA45660F6EC159E956745EFC",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3CABA71",
+          "on": "E9998BA10390",
+          "off": "31D2C5FA5F01"
+        }
+      ]
+    },
+    {
+      "name": "Max Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C446A",
+          "on": "C7833801000063000000E93DBB1FFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "18BFFB0",
+          "on": "E9B544E00590",
+          "off": "899338010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Brain Power lvl 16",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C447F",
+          "on": "81BB74040000980800007F0CC7837404000097080000EB0AC7837404000098080000448BB374040000E96D3816FA",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1827D13",
+          "on": "E967C7E9059090",
+          "off": "448BB374040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Raw Science",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C44B3",
+          "on": "41C786700400007F969800E9F65116FA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "18296B2",
+          "on": "E9FCADE9059090",
+          "off": "4101B670040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Analyzer Charges",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C44C9",
+          "on": "C7472000004040E996AB24FA",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "190F066",
+          "on": "E95E54DB05",
+          "off": "C5FA114720"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Torch",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C44DB",
+          "on": "C783F001000000000000E92C0223FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "18F470E",
+          "on": "E9C8FDDC05909090",
+          "off": "C5FA1183F0010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Weapons Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C44F0",
+          "on": "C7832002000000002545E9C7F722FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "18F3CBE",
+          "on": "E92D08DD05909090",
+          "off": "C5FA118B20020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Milk Molar/Mega Milk Molar",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C4505",
+          "on": "C7837C040000E7030000C78380040000E70300008B837C040000E9F35516FA",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1829B11",
+          "on": "E9EFA9E90590",
+          "off": "8B837C040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Mutations",
+	  "description": "Triggered when a mutation is activated",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C452A",
+          "on": "C7830001000029000000FF8304010000E956912FFA",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "19BD68F",
+          "on": "E9966ED00590",
+          "off": "FF8304010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Haul",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C4545",
+          "on": "C783E000000032000000898320010000E91A4412FA",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "17E896E",
+          "on": "E9D2BBED0590",
+          "off": "898320010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Bombs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C4560",
+          "on": "C783380100000A000000E9249A21FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "18DDF8C",
+          "on": "E9CF65DE059090",
+          "off": "4429BB38010000"
+        }
+      ]
+    },
+    {
+      "name": "Game Settings (GS)",
+	  "description": "To trigger cheats, first activate the desired ones, set up a custom game in the game settings, save the game and reload it",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C4575",
+          "on": "50488B87380100004883C03AC60000488B87380100004883C03BC60000488B87380100004883C03CC60000488B87380100004883C03DC60001488B87380100004883C049C60000488B87380100004883C04AC60000488B87380100004883C04BC60000488B8738010000480588000000C60003580FB68710010000E9966D6CFA",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1D8B384",
+          "on": "E9EC9193059090",
+          "off": "0FB68710010000"
+        }
+      ]
+    },
+    {
+      "name": "Unlock Recipes (Enable GS)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C4581",
+          "on": "C60001",
+          "off": "C60000"
+        }
+      ]
+    },
+    {
+      "name": "Free Build (Enable GS)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C458F",
+          "on": "C60001",
+          "off": "C60000"
+        }
+      ]
+    },
+    {
+      "name": "Build Integrity (Enable GS)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C459D",
+          "on": "C60001",
+          "off": "C60000"
+        }
+      ]
+    },
+    {
+      "name": "Free Craft (Enable GS)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C45AB",
+          "on": "C60000",
+          "off": "C60001"
+        }
+      ]
+    },
+    {
+      "name": "Unlock All Mutations (Enable GS)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C45B9",
+          "on": "C60001",
+          "off": "C60000"
+        }
+      ]
+    },
+    {
+      "name": "Fully Yoked (Enable GS)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C45C7",
+          "on": "C60001",
+          "off": "C60000"
+        }
+      ]
+    },
+    {
+      "name": "Handy Gnat (Enable GS)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C45D5",
+          "on": "C60001",
+          "off": "C60000"
+        }
+      ]
+    },
+    {
+      "name": "Respawn Backpack with You (Enable GS)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76C45E5",
+          "on": "C60001",
+          "off": "C60003"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Sondio"
+  ]
+}
