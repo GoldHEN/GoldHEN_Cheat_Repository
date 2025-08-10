@@ -6,7 +6,7 @@
   "mods": [
     {
       "name": "Master [EN_US]",
-	  "description": "Enable items (in the L2 menu) when needed, don't leave items active that you don't need",
+      "description": "Enable items (in the L2 menu) when needed, don't leave items active that you don't need",
       "type": "checkbox",
       "memory": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "name": "Master [EN_UK]",
-	  "description": "Enable items (in the L2 menu) when needed, don't leave items active that you don't need",
+      "description": "Enable items (in the L2 menu) when needed, don't leave items active that you don't need",
       "type": "checkbox",
       "memory": [
         {
@@ -40,7 +40,7 @@
     },
     {
       "name": "Master [FRE]",
-	  "description": "Activez les éléments (dans le menu L2) si nécessaire, ne laissez pas actifs les éléments dont vous n'avez pas besoin",
+      "description": "Activez les éléments (dans le menu L2) si nécessaire, ne laissez pas actifs les éléments dont vous n'avez pas besoin",
       "type": "checkbox",
       "memory": [
         {
@@ -57,7 +57,7 @@
     },
     {
       "name": "Master [DEU]",
-	  "description": "Aktivieren Sie bei Bedarf Elemente (im L2-Menü), lassen Sie keine Elemente aktiv, die Sie nicht benötigen",
+      "description": "Aktivieren Sie bei Bedarf Elemente (im L2-Menü), lassen Sie keine Elemente aktiv, die Sie nicht benötigen",
       "type": "checkbox",
       "memory": [
         {
@@ -74,7 +74,7 @@
     },
     {
       "name": "Master [ITA]",
-	  "description": "Abilita gli oggetti (nel menu L2) quando necessario, non lasciare attivi oggetti che non ti servono",
+      "description": "Abilita gli oggetti (nel menu L2) quando necessario, non lasciare attivi oggetti che non ti servono",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
     },
     {
       "name": "Master [ESP]",
-	  "description": "Habilite elementos (en el menú L2) cuando sea necesario, no deje activos elementos que no necesite",
+      "description": "Habilite elementos (en el menú L2) cuando sea necesario, no deje activos elementos que no necesite",
       "type": "checkbox",
       "memory": [
         {
@@ -108,7 +108,7 @@
     },
     {
       "name": "Master [JPN]",
-	  "description": "必要に応じて(L2メニューで)項目を有効にし、不要な項目をアクティブなままにしないでください",
+      "description": "必要に応じて(L2メニューで)項目を有効にし、不要な項目をアクティブなままにしないでください",
       "type": "checkbox",
       "memory": [
         {
@@ -477,7 +477,7 @@
     },
     {
       "name": "Pal Key Red (Enable PL)",
-	  "description": "Disable Pal Key Cyan before enabling this cheat",
+      "description": "Disable Pal Key Cyan before enabling this cheat",
       "type": "checkbox",
       "memory": [
         {
@@ -489,7 +489,7 @@
     },
     {
       "name": "Pal Key Cyan (Enable PL)",
-	  "description": "Disable Pal Key Red before enabling this cheat",
+      "description": "Disable Pal Key Red before enabling this cheat",
       "type": "checkbox",
       "memory": [
         {
@@ -567,7 +567,7 @@
     },
     {
       "name": "Suppressor",
-	  "description": "After activating this cheat, equip the socom and disable this cheat or you will not be able to shoot",
+      "description": "After activating this cheat, equip the socom and disable this cheat or you will not be able to shoot",
       "type": "checkbox",
       "memory": [
         {
