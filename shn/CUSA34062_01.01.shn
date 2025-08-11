@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Itorah" Moder="Ali-mk" Cusa="CUSA34062" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health-(mc)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>8213F800</Offset>
+      <ValueOn>41-83-7F-60-01-75-0B-C4-C1-7A-10-47-0C-E9-11-FB-88-FE-C4-C1-7A-11-47-24-E9-06-FB-88-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>809CF31D</Offset>
+      <ValueOn>E9-DE-04-77-01-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Stamina">
+    <Cheatline>
+      <Offset>805C1380</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="one-Hit-Kill-us-inf-hp">
+    <Cheatline>
+      <Offset>805CF2E5</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-4F-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Invincible-1-HIT">
+    <Cheatline>
+      <Offset>805CF32A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-46-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf-Healing-Power">
+    <Cheatline>
+      <Offset>8175D63F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-FF-4E-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf-Gems + blue-Crystal-items">
+    <Cheatline>
+      <Offset>8077BB9B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-47-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
