@@ -148,6 +148,7 @@ CUSA01760_01.02_2.shn=DARK SOULS II - Scholar of the First Sin
 CUSA02320_01.02_big3-ps4_Shipping.elf.shn=Uncharted Collection - UNC3 Dev Menu
 CUSA02823_01.00.shn=Sword Art Online - Lost Song
 CUSA20133_01.12.shn=Mortal Shell
+CUSA14715_02.03.shn=Ultra Age
 CUSA19057_01.04.shn=Minoria
 CUSA32759_01.05_2.shn=GANRYU-2
 CUSA01608_01.16.shn=Enter The Gungeon
