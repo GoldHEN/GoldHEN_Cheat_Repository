@@ -1,0 +1,206 @@
+{
+  "name": "Legacy of Kain Soul Reaver 1&2 Remastered",
+  "id": "CUSA44836",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Debug Menu SR1 & SR2",
+	  "description": "Enable it when in gameplay. Open/Close it by pressing O+[] ;For SR1 also work PS1 cheat combo without using this cheat, just pause the game and insert the PS1 combo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "46F02C",
+          "on": "0100",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "SR1 - Max Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B5EED",
+          "on": "B820A10700E90B82F37F",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "7FFEE0FC",
+          "on": "E9EC7D0C8090",
+          "off": "03054ECF0902"
+        },
+        {
+          "offset": "B5EFD",
+          "on": "C70511610A0220A10700B900000000B820A10700E92BF0F27F",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7FFE4F39",
+          "on": "E9BF0F0D80909090",
+          "off": "8B0511610A0229C8"
+        },
+        {
+          "offset": "B5F1C",
+          "on": "B820A10700E9DE7FF37F",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "7FFEDEFE",
+          "on": "E919800C8090",
+          "off": "03054CD10902"
+        },
+        {
+          "offset": "B5F2C",
+          "on": "B820A10700E90AF6F37F",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "7FFF553A",
+          "on": "E9ED090C8090",
+          "off": "0305105B0902"
+        }
+      ]
+    },
+    {
+      "name": "SR1 - One Hit Kill",
+	  "description": "The cheat work but remember that some monsters require specific kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B5F51",
+          "on": "B900000000E9A294EC7F",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "7FF7F3F4",
+          "on": "E9586B138090909090",
+          "off": "0FBF885802000029D1"
+        }
+      ]
+    },
+    {
+      "name": "SR1 - Infinite Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B5F3C",
+          "on": "C780D402000000001643E9789FF27F",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "7FFDFEBD",
+          "on": "E97A600D8090",
+          "off": "8988D4020000"
+        }
+      ]
+    },
+    {
+      "name": "SR2 - Max Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "86751CD1",
+          "on": "B820A10700E92F91E7FF",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "865CAE04",
+          "on": "E9C86E180090",
+          "off": "03052E935C03"
+        },
+        {
+          "offset": "86751CE1",
+          "on": "C70547185D0320A10700B900000000B820A10700E9F90BE7FF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "865C28EB",
+          "on": "E9F1F31800909090",
+          "off": "8B0547185D0329C8"
+        },
+        {
+          "offset": "86751D00",
+          "on": "B820A10700E93E8EE7FF",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "865CAB42",
+          "on": "E9B971180090",
+          "off": "0305F0955C03"
+        },
+        {
+          "offset": "86751D10",
+          "on": "B820A10700E9FE6CE7FF",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "865C8A12",
+          "on": "E9F992180090",
+          "off": "030520B75C03"
+        },
+        {
+          "offset": "86751D20",
+          "on": "B820A10700E9CC8EE7FF",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "865CABF0",
+          "on": "E92B71180090",
+          "off": "030542955C03"
+        }
+      ]
+    },
+    {
+      "name": "SR2 - One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "86751D30",
+          "on": "B938FFFFFF89888C020000E943A4E1FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8656C17D",
+          "on": "E9AE5B1E0090",
+          "off": "89888C020000"
+        }
+      ]
+    },
+    {
+      "name": "SR2 - Infinite Soul Reaper Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "86751D46",
+          "on": "C5F857C0C5FA114028E97C11EAFF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "865F2ECB",
+          "on": "E976EE1500",
+          "off": "C5FA114028"
+        }
+      ]
+    },
+    {
+      "name": "SR2 - Infinite Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "86751D5A",
+          "on": "C7800801000000001643E93D92E6FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "865BAF9E",
+          "on": "E9B76D1900909090",
+          "off": "C5FA118008010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Sondio"
+  ]
+}
