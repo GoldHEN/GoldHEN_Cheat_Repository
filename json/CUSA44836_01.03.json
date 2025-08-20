@@ -6,7 +6,7 @@
   "mods": [
     {
       "name": "Debug Menu SR1 & SR2",
-	  "description": "Enable it when in gameplay. Open/Close it by pressing O+[] ;For SR1 also work PS1 cheat combo without using this cheat, just pause the game and insert the PS1 combo",
+      "description": "Enable it when in gameplay. Open/Close it by pressing O+[] ;For SR1 also work PS1 cheat combo without using this cheat, just pause the game and insert the PS1 combo",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
     },
     {
       "name": "SR1 - One Hit Kill",
-	  "description": "The cheat work but remember that some monsters require specific kill",
+      "description": "The cheat work but remember that some monsters require specific kill",
       "type": "checkbox",
       "memory": [
         {
