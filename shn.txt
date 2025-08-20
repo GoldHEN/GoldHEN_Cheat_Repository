@@ -448,6 +448,7 @@ CUSA34390_04.02.shn=God of War Ragnarok
 CUSA34384_05.01.shn=God of War Ragnarok (+Valhalla DLC compatibility)
 CUSA02557_01.37.shn=Fallout 4 Game of the Year Edition
 CUSA03388_01.00.shn=Dark Souls III
+CUSA18723_01.22.shn=Elden Ring - Shadow of the Erdtree
 CUSA46721_01.01.shn=Shadow of The Ninja Reborn
 CUSA06014_05.10.shn=Tekken 7
 CUSA03920_01.05.shn=Snantae Haif Genie Hero

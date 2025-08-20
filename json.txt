@@ -1124,6 +1124,7 @@ CUSA12555_01.01.json=Dying Light 2: Stay Human
 CUSA06291_01.02.json=NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 ROAD TO BORUTO
 CUSA31337_01.01.json=Greak: Memories of Azur
 CUSA13612_01.02.json=Hitman: Blood Money HD
+CUSA44836_01.03.json=Legacy of Kain Soul Reaver 1&2 Remastered
 CUSA09175_01.00.json=DAYS GONE
 CUSA32418_01.05.json=Lumberjack's Dynasty
 CUSA03522_01.13_default.elf.json=Call of Duty®: Modern Warfare® Remastered
