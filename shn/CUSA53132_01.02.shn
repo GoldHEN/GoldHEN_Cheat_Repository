@@ -18,4 +18,28 @@
       <ValueOff>E8-95-00-47-00</ValueOff>
     </Cheatline>
    </Cheat> 
+    <Cheat Text="MAX-Points-1-buy">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>844A7800</Offset>
+      <ValueOn>B8-E7-03-00-00-42-89-44-3B-0C-E9-1B-00-01-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>814B7825</Offset>
+      <ValueOn>E9-D6-FF-FE-02</ValueOn>
+      <ValueOff>42-89-44-3B-0C</ValueOff>
+    </Cheatline>
+   </Cheat>
+     <Cheat Text="one-Hit-Kill">
+    <Cheatline>
+      <Offset>82B0F386</Offset>
+      <Section>0</Section>
+      <ValueOn>45-0F-4C-FE</ValueOn>
+      <ValueOff>45-0F-4C-E7</ValueOff>
+    </Cheatline>
+  </Cheat>
 </Trainer>
