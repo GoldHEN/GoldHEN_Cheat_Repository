@@ -277,6 +277,7 @@ CUSA34120_16.01.shn=Monster Hunter Rise Sunbreak
 CUSA36843_01.04.shn=Red Dead Redemption
 SLES52599_01.00.shn=Metal Slug 3
 CUSA35744_01.02.shn=infinity strash: dragon quest the adventure of dai!
+CUSA07402_01.00.shn=Crash Bandicoot N Sane Trilogy
 CUSA29092_01.08.shn=Call of Duty Vanguard
 SCUS94425_01.00_2.shn=Spyro 2
 CUSA34388_05.04.shn=God of War Ragnarok (+Valhalla DLC compatibility)
