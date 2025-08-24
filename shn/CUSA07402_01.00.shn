@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Crash Bandicoot N Sane Trilogy" Moder="Ali-mk" Cusa="CUSA07402" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="god-mode">
+    <Cheatline>
+      <Offset>1FD05E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-7D-0E-B6-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-lives">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>7ED-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>23EB813</Offset>
+      <ValueOn>BE-E7-03-00-00-41-89-76-0C-E9-39-3A-1E-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>1E1CDAC-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>5CF254</Offset>
+      <ValueOn>E9-BA-C5-E1-01-90</ValueOn>
+      <ValueOff>41-89-76-0C-8B-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-lives">
+    <Cheatline>
+      <Offset>1CF254</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-76-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-MASK">
+    <Cheatline>
+      <Offset>1FCD63</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-28-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
