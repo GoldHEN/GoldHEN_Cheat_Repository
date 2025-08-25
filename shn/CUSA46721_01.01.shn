@@ -2,7 +2,65 @@
 <Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Shadow of The Ninja Reborn" Moder="Ali-mk" Cusa="CUSA46721" Version="01.01" Process="eboot.bin">
   <Genres Name="Action" />
   <Items />
-  <Cheat Text="MAX-GOLD">
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>80552085</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-C6-FC-FF-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>80551CD5</Offset>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-A8-02-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Section>0</Section>
+      <Offset>8061F4E7</Offset>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-A8-02-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Section>0</Section>
+      <Offset>805520B9</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-92-FC-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX + Inf Health">
+    <Cheatline>
+      <Offset>806531C1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>83-F9-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>806531D1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-48-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+      <Cheat Text="Infinite-All-Weapon">
+    <Cheatline>
+      <Offset>8054A0FE</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-48-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="one-Hit-Kill-YOU">
+    <Cheatline>
+      <Offset>806531BC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>8B-48-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-Coins">
     <Cheatline>
       <Absolute>True</Absolute>
       <Section>0</Section>
@@ -18,20 +76,12 @@
       <ValueOff>89-50-1C-80-3D-61-20-5C-02-00</ValueOff>
     </Cheatline>
   </Cheat>
-    <Cheat Text="Infinite-Health">
+    <Cheat Text="Infinite-Time">
     <Cheatline>
-      <Offset>806531D1</Offset>
+      <Offset>80674A61</Offset>
       <Section>0</Section>
-      <ValueOn>90-90-90</ValueOn>
-      <ValueOff>89-48-18</ValueOff>
-    </Cheatline>
-  </Cheat>
-    <Cheat Text="Infinite-All-Weapon">
-    <Cheatline>
-      <Offset>8054A0FE</Offset>
-      <Section>0</Section>
-      <ValueOn>90-90-90</ValueOn>
-      <ValueOff>89-48-14</ValueOff>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-80-A4-00-00-00</ValueOff>
     </Cheatline>
   </Cheat>
 </Trainer>
