@@ -1,0 +1,123 @@
+{
+  "name": "Shinobi Art of Vengeance Digital Deluxe Edition",
+  "id": "CUSA45905",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81684A38",
+          "on": "7551",
+          "off": "7451"
+        },
+        {
+          "offset": "8173F07E",
+          "on": "0F85EC000000",
+          "off": "0F84EC000000"
+        },
+        {
+          "offset": "81699E15",
+          "on": "909090909090",
+          "off": "FF90D8010000"
+        },
+        {
+          "offset": "81736064",
+          "on": "909090909090",
+          "off": "FF91A8010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83BC3800",
+          "on": "837F2400750AC5FA104F0CE9B74FF6FDC5FA114F28E9AD4FF6FD",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81B287C2",
+          "on": "E939B00902",
+          "off": "C5FA114F28"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health-2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81684A50",
+          "on": "9090909090",
+          "off": "E85B3D0A00"
+        },
+        {
+          "offset": "8173F0CC",
+          "on": "90909090909090",
+          "off": "41FF96D8010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-shurikens",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8172B2DC",
+          "on": "90909090",
+          "off": "41295E20"
+        },
+        {
+          "offset": "817255FC",
+          "on": "90909090",
+          "off": "41295E20"
+        }
+      ]
+    },
+    {
+      "name": "Rapid + inf shurikens",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8172B2CA",
+          "on": "9090909090",
+          "off": "BF0B000000"
+        }
+      ]
+    },
+    {
+      "name": "MAX-Coins",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83BC38A8",
+          "on": "BB3F420F00015960E9EED504FE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "81C10E9E",
+          "on": "E9052AFB01",
+          "off": "01596085DB"
+        }
+      ]
+    },
+    {
+      "name": "one-Hit-Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "817287B6",
+          "on": "9090909090",
+          "off": "C5FA105728"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}
