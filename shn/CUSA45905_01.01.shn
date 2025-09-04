@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Shinobi Art of Vengeance Digital Deluxe Edition" Moder="Ali-mk" Cusa="CUSA45905" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>81684A38</Offset>
+      <Section>0</Section>
+      <ValueOn>75-51</ValueOn>
+      <ValueOff>74-51</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>8173F07E</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-85-EC-00-00-00</ValueOn>
+      <ValueOff>0F-84-EC-00-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>81699E15</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-D8-01-00-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>81736064</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-91-A8-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Health-(mc)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>83BC3800</Offset>
+      <ValueOn>83-7F-24-00-75-0A-C5-FA-10-4F-0C-E9-B7-4F-F6-FD-C5-FA-11-4F-28-E9-AD-4F-F6-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>81B287C2</Offset>
+      <ValueOn>E9-39-B0-09-02</ValueOn>
+      <ValueOff>C5-FA-11-4F-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Health-2">
+    <Cheatline>
+      <Offset>81684A50</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-5B-3D-0A-00</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>8173F0CC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-FF-96-D8-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf-shurikens">
+    <Cheatline>
+      <Offset>8172B2DC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-29-5E-20</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>817255FC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-29-5E-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Rapid + inf shurikens">
+    <Cheatline>
+      <Offset>8172B2CA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>BF-0B-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-Coins">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>83BC38A8</Offset>
+      <ValueOn>BB-3F-42-0F-00-01-59-60-E9-EE-D5-04-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Section>0</Section>
+      <Offset>81C10E9E</Offset>
+      <ValueOn>E9-05-2A-FB-01</ValueOn>
+      <ValueOff>01-59-60-85-DB</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="one-Hit-Kill">
+    <Cheatline>
+      <Offset>817287B6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-57-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
