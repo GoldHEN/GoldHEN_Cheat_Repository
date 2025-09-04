@@ -461,6 +461,7 @@ CUSA24653_01.03.json=Alan Wake Remastered
 CUSA34896_01.01.json=EP0001-CUSA34896_00-BGER000000000000
 CUSA09263_01.00_dmc2.elf.json=Devil May Cry™ HD Collection
 CUSA19648_01.04.json=Blaster Master Zero 2
+CUSA45905_01.01.json=Shinobi Art of Vengeance Digital Deluxe Edition
 CUSA02343_01.02.json=Uncharted Collection: Uncharted 1
 CUSA27373_01.07.json=The Callisto Protocol
 CUSA16596_01.61_2.json=Cyberpunk 2077
