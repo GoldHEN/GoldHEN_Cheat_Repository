@@ -2,7 +2,7 @@
 <Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hollow Knight Silksong" Moder="2pt - Contact on ps4 reaper discord if you have issues" Cusa="CUSA39420" Version="01.02" Process="eboot.bin">
   <Genres Name="Action" />
   <Items />
-  <Cheat Text="max shell shards - on pick up">
+  <Cheat Text="Max Shell Shards - On Pick Up">
     <Cheatline>
       <Section>14</Section>
       <Offset>477F800</Offset>
@@ -30,7 +30,7 @@
       <ValueOff>89-43-60-48-83-C4-08</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Max Rosary Beads - on pickup">
+  <Cheat Text="Max Rosary Beads - On Pickup">
     <Cheatline>
       <Section>14</Section>
       <Offset>477F828</Offset>
@@ -58,4 +58,5 @@
       <ValueOff>49-89-45-40-C4-A1-7A-10-0C-39</ValueOff>
     </Cheatline>
   </Cheat>
+
 </Trainer>
