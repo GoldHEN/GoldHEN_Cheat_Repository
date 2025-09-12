@@ -595,6 +595,7 @@ SLUS21306_01.00.shn=Ghost Rider
 CUSA16163_01.01.shn=Bayonetta
 CUSA32137_01.13.shn=Like a Dragon Infinite Wealth
 CUSA00341_01.00.shn=Uncharted 4 Dev Menu
+CUSA39420_01.02.shn=Hollow Knight Silksong
 CUSA03014_01.09_2.shn=Bloodborne GOTY
 SLUS00977_01.00.shn=Spyro 2
 CUSA30466_01.02.shn=The Legend of Tianding
