@@ -508,19 +508,19 @@
       ]
     },
     {
-      "name": "Unlock Cassette",
-      "description": "After you get all 99 cassette, you can disable it",
+      "name": "Unlock Cassette/Database",
+      "description": "After you get all 99 cassette and all 99 database, you can disable it",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "33FFBB6",
-          "on": "488BBF40070000C60437038A1437E9A2ED77FD",
-          "off": "00000000000000000000000000000000000000"
+          "offset": "33FFF2C",
+          "on": "488BBF400700005048C7C0A4020000C604070348FFC875F758E91EEA77FD",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
         },
         {
           "offset": "B7E961",
-          "on": "E9501288029090909090",
-          "off": "488BBF400700008A1437"
+          "on": "E9C61588029090",
+          "off": "488BBF40070000"
         }
       ]
     },
