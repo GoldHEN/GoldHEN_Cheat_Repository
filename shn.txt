@@ -370,6 +370,7 @@ CUSA18287_01.02.shn=Shantae and The Seven Sirens
 CUSA05531_01.00.shn=Final Fantasy XII The Zodiac Age
 CUSA10249_01.09_2.shn=The Last Of Us II
 CUSA33778_01.01.shn=STAR WARS Jedi: Survivor?
+CUSA41097_01.21.shn=Afterimage
 SLPM62726_01.00.shn=Shooting Love-Trizeal
 CUSA01082_01.06.shn=The Evil Within
 SLES52599_01.00.shn=Metal Slug 3
