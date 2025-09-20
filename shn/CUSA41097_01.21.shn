@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Afterimage" Moder="Bandicootmonito" Cusa="CUSA41097" Version="01.21" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health + Invincible (Turn OFF when enter to the first boss, die is needed to continue the gameplay)" Description="You can turn ON in any moment of the game. (Activalo en cualquier momento del juego).">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>800-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>56DB800</Offset>
+      <ValueOn>83-B8-88-00-00-00-03-75-0C-C7-40-10-00-3C-1C-46-E9-3C-0D-1D-FB-C5-F9-7E-40-28-E9-32-0D-1D-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>4E2FAB4-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>8AC54C</Offset>
+      <ValueOn>E9-AF-F2-E2-04</ValueOn>
+      <ValueOff>C5-F9-7E-40-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Magic / Mana (You obtain magic when collect the Book of Hydro)" Description="You can turn ON in any moment of the game, if you save your progress just kill an enemy to restore the infinite magic again. (Activalo en cualquier momento del juego, si guardas tu progreso, solo derrota a un enemigo para reparar la magia infinita).">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>7DF-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>56DB821</Offset>
+      <ValueOn>83-B8-88-00-00-00-03-75-0F-C7-80-B8-00-00-00-00-3C-1C-46-E9-18-0D-1D-FB-C5-F9-7E-40-28-E9-0E-0D-1D-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>4E2FAB4-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>8AC54C</Offset>
+      <ValueOn>E9-D0-F2-E2-04</ValueOn>
+      <ValueOff>E9-AF-F2-E2-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money (Dew) x999999" Description="You can turn ON in any moment of the game. (Activalo en cualquier momento del juego).">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>7BB-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>56DB845</Offset>
+      <ValueOn>41-83-BF-88-00-00-00-60-75-0D-41-C7-47-10-F0-23-74-49-E9-7B-F5-1C-FB-C4-C1-7A-11-47-10-E9-70-F5-1C-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>4E3122F-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>8AADD1</Offset>
+      <ValueOn>E9-6F-0A-E3-04-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

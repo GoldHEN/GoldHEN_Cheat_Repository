@@ -1,91 +1,876 @@
 {
-  "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+  "name": "Metal Gear Solid V: The Phantom Pain",
   "id": "CUSA01154",
   "version": "01.16",
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Master Code (MC)",
+      "description": "none",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "3593860",
-          "on": "C4C17A1117E942CB77FE57616E646572204657392E3030",
-          "off": "00000000000000000000"
+          "offset": "33FFA55",
+          "on": "C740440000803FC5FA104044E9FAD9C0FE",
+          "off": "0000000000000000000000000000000000"
         },
         {
-          "offset": "1D103A7",
-          "on": "E9B4348801",
-          "off": "C4C17A110F"
+          "offset": "200D45B",
+          "on": "E9F5253F01",
+          "off": "C5FA104044"
+        },
+        {
+          "offset": "33FFAD3",
+          "on": "C5FA1080A00D0000803D4EFFFFFF017515C7401000000000C7401400000000C7401800000000488B4810E9F23A59FD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "9935E8",
+          "on": "E9E6C4A60290909090909090",
+          "off": "C5FA1080A00D0000488B4810"
+        },
+        {
+          "offset": "33FFB08",
+          "on": "E8AD8A8DFD803D1CFFFFFF017505BB0000000089584CE9CDAC97FD",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D7A7E8",
+          "on": "E91B536802909090",
+          "off": "E8D3DDF5FF89584C"
+        },
+        {
+          "offset": "33FFB29",
+          "on": "C4E1FA2C4DFCB914000000894850E91FAD97FD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D7A852",
+          "on": "E9D252680290909090",
+          "off": "C4E1FA2C4DFC894850"
         }
       ]
     },
     {
-      "name": "Infinite Gun Silencer",
+      "name": "Max Health",
+      "description": "none",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "341D1C0",
-          "on": "41C644410414E9A699D2FE",
-          "off": "0000000000000000000000"
+          "offset": "33FFA38",
+          "on": "41C7448CCC00409C4641C7448CC800409C46E9A6F990FE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1D0F3EE",
+          "on": "E945066F019090",
+          "off": "C4C17A116C8CCC"
+        }
+      ]
+    },
+    {
+      "name": "Ignored by the Enemy",
+      "description": "Enable it after you get off the helicopter; it work with enemy soldiers/helicopter but not with skulls; if you enable it after the enemy has seen you, the cheat won't work",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFB42",
+          "on": "41C7434400002041C4C17A104B44E940132EFE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16E0E8F",
+          "on": "E9AEECD10190",
+          "off": "C4C17A104B44"
+        },
+        {
+          "offset": "33FFD2E",
+          "on": "0500409C454189842498000000E9D1AC93FE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1D3AA09",
+          "on": "E920536C01909090",
+          "off": "4189842498000000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFB5B",
+          "on": "29DF6641C7000000E9AD5F2DFE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "16D5B0F",
+          "on": "E947A0D20190",
+          "off": "29DF66418938"
+        },
+        {
+          "offset": "33FFD11",
+          "on": "42C7043000000000C4A17A2C04308944CE0CE957974EFE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "18E9475",
+          "on": "E99768B1019090909090",
+          "off": "C4A17A2C04308944CE0C"
+        },
+        {
+          "offset": "33FFED7",
+          "on": "42C744302800000000C4A17A2C4430288944CE04E9AD954EFE",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "18E9492",
+          "on": "E9406AB101909090909090",
+          "off": "C4A17A2C4430288944CE04"
+        },
+        {
+          "offset": "33FFEF6",
+          "on": "42C744301400000000C4A17A2C4430148944CE14E97F954EFE",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "18E9483",
+          "on": "E96E6AB101909090909090",
+          "off": "C4A17A2C4430148944CE14"
+        }
+      ]
+    },
+    {
+      "name": "Hyper Run (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFA55",
+          "on": "C7404400004040",
+          "off": "C740440000803F"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/Fulton/Drugs",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2146B11",
+          "on": "668B0C72",
+          "off": "66890C72"
+        },
+        {
+          "offset": "2146EAA",
+          "on": "668B0C42",
+          "off": "66890C42"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Silencer",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFA6C",
+          "on": "6641C74441041012E9F870D4FE",
+          "off": "00000000000000000000000000"
         },
         {
           "offset": "2146B6C",
-          "on": "E94F662D01",
+          "on": "E9FB8E2B01",
           "off": "4188544104"
         }
       ]
     },
     {
-      "name": "Infinite Ammo/Grenades",
+      "name": "No Spread",
+      "description": "none",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "3565330",
-          "on": "66C704423200C3E9731BBEFE",
+          "offset": "33FFA7F",
+          "on": "C7473800000000E96B2F94FE",
           "off": "000000000000000000000000"
         },
         {
-          "offset": "2146EAA",
-          "on": "E981E44101",
-          "off": "66890C42C3"
+          "offset": "1D429F1",
+          "on": "E989D06B01",
+          "off": "C57A115F38"
         }
       ]
     },
     {
-      "name": "Max GMP (on spend)",
+      "name": "No Recoil",
+      "description": "none",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "3593B80",
-          "on": "41C706FFE0F505808B680E000005E979265CFE",
-          "off": "00000000000000000000000000000000000000"
-        },
-        {
-          "offset": "1B56202",
-          "on": "E979D9A3019090909090",
-          "off": "418916808B680E000005"
-        }
-      ]
-    },
-    {
-      "name": "Max Ressources (on sell)",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "341F060",
-          "on": "42810CB9C0E1E40085DBE9317E63FD",
+          "offset": "33FFA91",
+          "on": "C783B800000000000000E9BF3494FE",
           "off": "000000000000000000000000000000"
         },
         {
-          "offset": "A56E9A",
-          "on": "E9C1819C0290",
-          "off": "420904B985DB"
+          "offset": "1D42F57",
+          "on": "E935CB6B01909090",
+          "off": "C5FA1183B8000000"
+        }
+      ]
+    },
+    {
+      "name": "Fast Chocke",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFAA6",
+          "on": "43C78437440500000000C842E9AF2FACFE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1EC2A5A",
+          "on": "E947D0530190909090909090",
+          "off": "43C784374405000000000000"
+        }
+      ]
+    },
+    {
+      "name": "No Mission Time",
+      "description": "Lock in-game mission time to 00:00",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFABD",
+          "on": "48C7834011000000000000E96E7E33FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "737933",
+          "on": "E98581CC02909090",
+          "off": "C5FB119340110000"
+        }
+      ]
+    },
+    {
+      "name": "No Mission Penality",
+      "description": "Penalties such as getting hit, dying, restarting the game, etc. will not be counted.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "73878C",
+          "on": "909090",
+          "off": "893C88"
+        },
+        {
+          "offset": "33FFBA0",
+          "on": "31FF41897C88FC41893C88E9510691FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1D101AC",
+          "on": "E9EFF96E0190",
+          "off": "41893C88EB4F"
+        }
+      ]
+    },
+    {
+      "name": "Weather 0 : Clean (Enable MC)",
+      "description": "Before using it, disable other weather cheats; the in-game weather will be locked to it; to restore normal weather, disable all weather cheats and enable/disable Weather 0",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFADB",
+          "on": "803D4EFFFFFF00",
+          "off": "803D4EFFFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "Weather 1 : Cloudy (Enable MC)",
+      "description": "Before using it, disable other weather cheats; the in-game weather will be locked to it; to restore normal weather, disable all weather cheats and enable/disable Weather 0",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFADB",
+          "on": "803D4EFFFFFF00",
+          "off": "803D4EFFFFFF01"
+        },
+        {
+          "offset": "33FFAE4",
+          "on": "C7401001000000",
+          "off": "C7401000000000"
+        },
+        {
+          "offset": "33FFAEB",
+          "on": "C7401401000000",
+          "off": "C7401400000000"
+        },
+        {
+          "offset": "33FFAF2",
+          "on": "C7401801000000",
+          "off": "C7401800000000"
+        }
+      ]
+    },
+    {
+      "name": "Weather 2 : Rain (Enable MC)",
+      "description": "Before using it, disable other weather cheats; the in-game weather will be locked to it; to restore normal weather, disable all weather cheats and enable/disable Weather 0",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFADB",
+          "on": "803D4EFFFFFF00",
+          "off": "803D4EFFFFFF01"
+        },
+        {
+          "offset": "33FFAE4",
+          "on": "C7401002000000",
+          "off": "C7401000000000"
+        },
+        {
+          "offset": "33FFAEB",
+          "on": "C7401402000000",
+          "off": "C7401400000000"
+        },
+        {
+          "offset": "33FFAF2",
+          "on": "C7401802000000",
+          "off": "C7401800000000"
+        }
+      ]
+    },
+    {
+      "name": "Weather 3 : Sand Storm (Enable MC)",
+      "description": "Before using it, disable other weather cheats; the in-game weather will be locked to it; to restore normal weather, disable all weather cheats and enable/disable Weather 0",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFADB",
+          "on": "803D4EFFFFFF00",
+          "off": "803D4EFFFFFF01"
+        },
+        {
+          "offset": "33FFAE4",
+          "on": "C7401003000000",
+          "off": "C7401000000000"
+        },
+        {
+          "offset": "33FFAEB",
+          "on": "C7401403000000",
+          "off": "C7401400000000"
+        },
+        {
+          "offset": "33FFAF2",
+          "on": "C7401803000000",
+          "off": "C7401800000000"
+        }
+      ]
+    },
+    {
+      "name": "Weather 4 : Mist (Enable MC)",
+      "description": "Before using it, disable other weather cheats; the in-game weather will be locked to it; to restore normal weather, disable all weather cheats and enable/disable Weather 0",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFADB",
+          "on": "803D4EFFFFFF00",
+          "off": "803D4EFFFFFF01"
+        },
+        {
+          "offset": "33FFAE4",
+          "on": "C7401004000000",
+          "off": "C7401000000000"
+        },
+        {
+          "offset": "33FFAEB",
+          "on": "C7401404000000",
+          "off": "C7401400000000"
+        },
+        {
+          "offset": "33FFAF2",
+          "on": "C7401804000000",
+          "off": "C7401800000000"
+        }
+      ]
+    },
+    {
+      "name": "Time of Day 0 : 00:00 AM (Enable MC)",
+      "description": "Before using it, disable other Time of Day cheats; The in-game time will be locked to it",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFB0D",
+          "on": "803D1CFFFFFF00",
+          "off": "803D1CFFFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "Time of Day 1 : 06:00 AM (Enable MC)",
+      "description": "Before using it, disable other Time of Day cheats; The in-game time will be locked to it",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFB0D",
+          "on": "803D1CFFFFFF00",
+          "off": "803D1CFFFFFF01"
+        },
+        {
+          "offset": "33FFB16",
+          "on": "BB60540000",
+          "off": "BB00000000"
+        }
+      ]
+    },
+    {
+      "name": "Time of Day 2 : 12:00 PM (Enable MC)",
+      "description": "Before using it, disable other Time of Day cheats; The in-game time will be locked to it",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFB0D",
+          "on": "803D1CFFFFFF00",
+          "off": "803D1CFFFFFF01"
+        },
+        {
+          "offset": "33FFB16",
+          "on": "BBC0A80000",
+          "off": "BB00000000"
+        }
+      ]
+    },
+    {
+      "name": "Time of Day 3 : 18:00 PM (Enable MC)",
+      "description": "Before using it, disable other Time of Day cheats; The in-game time will be locked to it",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFB0D",
+          "on": "803D1CFFFFFF00",
+          "off": "803D1CFFFFFF01"
+        },
+        {
+          "offset": "33FFB16",
+          "on": "BB20FD0000",
+          "off": "BB00000000"
+        }
+      ]
+    },
+    {
+      "name": "Time of Day x100 (Enable MC)",
+      "description": "Before using it, disable other Time of Day cheats; The in-game time will be accelerated",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFB2F",
+          "on": "B9D0070000",
+          "off": "B914000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Heroism",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFB6E",
+          "on": "C7017F9698008B0931D2E9A0407DFD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "BD3C17",
+          "on": "E952BF820290",
+          "off": "8B0931D20308"
+        }
+      ]
+    },
+    {
+      "name": "Max GMP",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFB88",
+          "on": "BAC08782FEC7003F4B4C008B00E9685175FE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B54CFB",
+          "on": "E988AE8A019090",
+          "off": "BAC08782FE8B00"
+        }
+      ]
+    },
+    {
+      "name": "Unlock Cassette/Database",
+      "description": "After you get all 99 cassette and all 99 database, you can disable it",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFF2C",
+          "on": "488BBF400700005048C7C0A4020000C604070348FFC875F758E91EEA77FD",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B7E961",
+          "on": "E9C61588029090",
+          "off": "488BBF40070000"
+        }
+      ]
+    },
+    {
+      "name": "Unlock Developments",
+      "description": "Some items will be unlocked during the gameplay",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFBCF",
+          "on": "0F84E53275FE418B45506641C74510000041C64512006641C7451C000041C6451E006641C7456E000041C645700041C6457200E9E92B75FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B527E6",
+          "on": "E9E4D38A019090909090",
+          "off": "0F84D4060000418B4550"
+        }
+      ]
+    },
+    {
+      "name": "Instant Developments",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFC22",
+          "on": "6641C744077A0000410FB744077AE919B37DFE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1BDAF48",
+          "on": "E9D54C820190",
+          "off": "410FB744077A"
+        },
+        {
+          "offset": "33FFCA5",
+          "on": "C783A8FE010020BCBE4CE92B8E7DFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1BD8AD7",
+          "on": "E9C9718201909090",
+          "off": "C5FA1183A8FE0100"
+        }
+      ]
+    },
+    {
+      "name": "Instant Base Developments",
+      "description": "After starting one of the base developments, go back to the idroid menu to trigger it",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFCBA",
+          "on": "488B784066C7410E00000FB7710EE9D7307BFE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1BB2D9C",
+          "on": "E919CF8401909090",
+          "off": "488B78400FB7710E"
+        }
+      ]
+    },
+    {
+      "name": "Instant External Mission",
+      "description": "After starting the external mission, go back to the idroid menu to trigger it",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFE87",
+          "on": "89CF4989D041C740180000000041C7401C00000000E99C3878FE",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B83738",
+          "on": "E94AC78701",
+          "off": "89CF4989D0"
+        }
+      ]
+    },
+    {
+      "name": "Instant Mother Base Optional Mission (Target Shooting)",
+      "description": "Instant completion by hitting a target; Enable it after loading the mission and disable it before calling the helicopter to leave the mother base",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFEA7",
+          "on": "4883F90074184881FADC000000750F5048B80000000000C0584049890658498B06488B4DC0E93FD8E4FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "224D709",
+          "on": "E999271B019090",
+          "off": "498B06488B4DC0"
+        }
+      ]
+    },
+    {
+      "name": "Instant Nuclear Development",
+      "description": "After starting the nuclear development, go back to the idroid menu to trigger it",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFCE7",
+          "on": "C7800C2B010000000000E9804076FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1B63D70",
+          "on": "E972BF890190",
+          "off": "89880C2B0100"
+        },
+        {
+          "offset": "33FFCFC",
+          "on": "C7800C2B010000000000E941EF75FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1B5EC46",
+          "on": "E9B1108A0190",
+          "off": "89880C2B0100"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Resources",
+      "description": "Some resources will be unlocked during the gameplay and will have the maximum value",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFC4E",
+          "on": "488B83300A000050415548058CE4000049C7C527000000C7007E841E004883C00449FFCD75F1488B83300A000048058CE5000049C7C522000000C700020000004883C00449FFCD75F1415D58E95C5075FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B54CF4",
+          "on": "E955AF8A019090",
+          "off": "488B83300A0000"
+        }
+      ]
+    },
+    {
+      "name": "Upgrade Base Units",
+      "description": "Move one or more soldiers between units to trigger it",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFD46",
+          "on": "B9C695030041898D709E000041898D749E000041898D789E000041898D7C9E000041898D809E000041898D849E000041898D889E0000E9AE3583FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1C33328",
+          "on": "E919CA7C019090",
+          "off": "41018D749E0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Soldiers Skills",
+      "description": "Activate it only to fully enhance the selected soldier abilities to their maximum allowed potential (scroll the list for other soldiers), then turn it off; the soldiers might all be reassigned to the basic development unit so press R3 (and select all personnel) for automatic reassignment",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFD87",
+          "on": "488B97789C000052C60482CE488B97889C0000C644820170C6448202CEC64482031B5AE9A91E85FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1C51C51",
+          "on": "E931E17A019090",
+          "off": "488B97789C0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite NVG lvl.5",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFC3B",
+          "on": "C744911C00F05247E9650492FE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "1D200A7",
+          "on": "E98FFB6D0190",
+          "off": "C5FA1144911C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mimetic Suit/Parasites lvl. 5/6 (Invisibility)",
+      "description": "To return visible with the parasites suit disable the cheat",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFCD3",
+          "on": "41C7441F040000B442E92D5B94FE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1D45807",
+          "on": "E9C7A46B019090",
+          "off": "C4C17A11441F04"
+        }
+      ]
+    },
+    {
+      "name": "D-Walker Infinite Ammo/Silencer/Overheat",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFDB5",
+          "on": "668B7C9104E9C56FBFFD",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "FF6D7F",
+          "on": "E931904002",
+          "off": "66897C9104"
+        },
+        {
+          "offset": "33FFDC5",
+          "on": "488D448809FECA8A10E9118ABFFD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "FF87DB",
+          "on": "E9E575400290909090",
+          "off": "488D448809FECA8810"
+        },
+        {
+          "offset": "33FFDD9",
+          "on": "0F47FE8B7C013CE9F36FBFFD",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "FF6DD1",
+          "on": "E9039040029090",
+          "off": "0F47FE897C013C"
+        },
+        {
+          "offset": "33FFDEB",
+          "on": "0F57C0C5FA11440154E93493C0FD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1009127",
+          "on": "E9BF6C3F0290",
+          "off": "C5FA11440154"
+        },
+        {
+          "offset": "33FFDFF",
+          "on": "C7048100007042E99A36BFFD",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "FF34A0",
+          "on": "E95AC94002",
+          "off": "C5FA110481"
+        }
+      ]
+    },
+    {
+      "name": "D-Friend Infinite Health",
+      "description": "No demage for D-Horse, DD, D-Walker and Quiet",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFE11",
+          "on": "4989D6807B70017F05E987498FFE397370E9DD488FFE",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1CF46FE",
+          "on": "E90EB7700190",
+          "off": "4989D6397370"
+        }
+      ]
+    },
+    {
+      "name": "D-Friend Max Points",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33FFF15",
+          "on": "66BFE8036689BC48D02D0000E946F389FD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "C9F264",
+          "on": "E9AC0C7602909090",
+          "off": "6689BC48D02D0000"
+        }
+      ]
+    },
+    {
+      "name": "Tanks Infinite Ammo/Speed/Rockets/Overheat",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F2041A",
+          "on": "90909090",
+          "off": "66FF0C48"
+        },
+        {
+          "offset": "33FFE2D",
+          "on": "41514883F910741841B90000003C66410F6EC10F2FC872080F57C066410F6EC9C4C17A110F4159E919E5B1FD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F1E36D",
+          "on": "E9BB1A4E02",
+          "off": "C4C17A110F"
+        },
+        {
+          "offset": "F24D0D",
+          "on": "90909090",
+          "off": "66FF0C48"
+        },
+        {
+          "offset": "F242B8",
+          "on": "C5FA111488",
+          "off": "C5FA110C88"
+        },
+        {
+          "offset": "F2084D",
+          "on": "90909090",
+          "off": "66FF0C48"
+        },
+        {
+          "offset": "33FFE5F",
+          "on": "415441BCCDCC4C3E66410F6ECC0F2FC172030F57C0C4C17A1104D6415CE98F76B2FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F2750A",
+          "on": "E950894D0290",
+          "off": "C4C17A1104D6"
         }
       ]
     }
   ],
   "credits": [
-    "Wander FW9.00"
+    "Sondio"
   ]
 }
