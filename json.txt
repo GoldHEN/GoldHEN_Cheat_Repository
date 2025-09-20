@@ -1013,6 +1013,7 @@ CUSA34386_05.01.json=God of War Ragnarok (+Valhalla DLC compatibility)
 CUSA34384_05.04.json=God of War Ragnarok (+Valhalla DLC compatibility)
 CUSA33533_01.03.json=Ghost Song
 CUSA16975_01.04.json=Disney Classic Games: Aladdin and The Lion King
+CUSA26615_01.07.json=Grand Theft Auto Vice City: The Definitive Edition
 CUSA17245_01.12.json=Kingdom of Amalur: Re-Reckoning
 CUSA08355_01.03.json=Shenmue
 CUSA08570_01.02.json=Ys VIII -Lacrimosa of DANA-
