@@ -1,0 +1,107 @@
+{
+  "name": "Grand Theft Auto Vice City: The Definitive Edition",
+  "id": "CUSA26615",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5903800",
+          "on": "90E971C689FB",
+          "off": "000000000000"
+        },
+        {
+          "offset": "119FE6E",
+          "on": "E98D39760490909090",
+          "off": "C4C17A1186DC040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Armor",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5903808",
+          "on": "90E9B0C589FB",
+          "off": "000000000000"
+        },
+        {
+          "offset": "119FDB5",
+          "on": "E94E3A760490909090",
+          "off": "C4C17A1186E0040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo (Need Total Bullets ON)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5903818",
+          "on": "90E9842A99FB",
+          "off": "000000000000"
+        },
+        {
+          "offset": "129629C",
+          "on": "E977D5660490",
+          "off": "894B088B4B0C"
+        }
+      ]
+    },
+    {
+      "name": "Total Bullets",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5903810",
+          "on": "90E9E82A99FB",
+          "off": "000000000000"
+        },
+        {
+          "offset": "12962F7",
+          "on": "E914D566049090",
+          "off": "894B0C837B0400"
+        }
+      ]
+    },
+    {
+      "name": "Wanted Level always 1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5903820",
+          "on": "C7432000000000E938B180FB",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "110E95D",
+          "on": "E9BE4E7F049090",
+          "off": "C7432002000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Max Money Instantly",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "590382E",
+          "on": "0580A1031C3D00CA9A3BE92D4C81FB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1118465",
+          "on": "E9C4B37E04",
+          "off": "3D00CA9A3B"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Bandicootmonito"
+  ]
+}
