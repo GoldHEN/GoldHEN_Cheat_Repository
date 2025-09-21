@@ -707,6 +707,7 @@ CUSA27043_01.03_2.json=Dead Island 2
 CUSA19608_01.08.json=Police Simulator: Patrol Officers
 CUSA15010_01.40.json=Call of Duty®: Black Ops Cold War
 CUSA10326_01.02_2.json=Far Cry® 3 Classic Edition
+CUSA41097_01.21.json=Afterimage
 CUSA10454_01.00.json=Dragons Crown Pro
 CUSA06560_01.12.json=Prey
 CUSA01154_01.16.json=Metal Gear Solid V: The Phantom Pain
