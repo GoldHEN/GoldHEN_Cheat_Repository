@@ -1,0 +1,59 @@
+{
+  "name": "Afterimage",
+  "id": "CUSA41097",
+  "version": "01.21",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health + Invincible (Turn OFF when enter to the first boss, die is needed to continue the gameplay)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "56DB800",
+          "on": "83B88800000003750CC74010003C1C46E93C0D1DFBC5F97E4028E9320D1DFB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8AC54C",
+          "on": "E9AFF2E204",
+          "off": "C5F97E4028"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Magic / Mana (You obtain magic when collect the Book of Hydro)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "56DB821",
+          "on": "83B88800000003750FC780B8000000003C1C46E9180D1DFBC5F97E4028E90E0D1DFB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8AC54C",
+          "on": "E9D0F2E204",
+          "off": "E9AFF2E204"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money (Dew) x999999",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "56DB845",
+          "on": "4183BF8800000060750D41C74710F0237449E97BF51CFBC4C17A114710E970F51CFB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8AADD1",
+          "on": "E96F0AE30490",
+          "off": "C4C17A114710"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Bandicootmonito"
+  ]
+}
