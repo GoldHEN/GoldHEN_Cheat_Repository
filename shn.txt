@@ -590,6 +590,7 @@ CUSA12771_01.05.shn=Hogwarts Legacy
 CUSA02320_01.02_2.shn=Uncharted: The Nathan Drake Collection™ (Drakes Fortune)
 CUSA06314_01.01.shn=Resident Evil - Revelation 
 CUSA17784_01.01.shn=Sherlock Holmes Chapter One
+CUSA42649_01.05.shn=Disney Epic Mickey Rebrushed
 CUSA15278_01.67.shn=Call Of Duty Modern Warfare
 SLUS20151_01.00.shn=Klonoa 2-Lunateas Veil
 SLES53777_01.00.shn=Gravity Rush 2
