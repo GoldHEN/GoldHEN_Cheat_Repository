@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Disney Epic Mickey Rebrushed" Moder="Bandicootmonito" Cusa="CUSA42649" Version="01.05" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health / Hearts (Some traps and thinner rivers can hurts you)" Description="You can turn ON on every moment of the game. (Puedes activarlo en cualquier momento del juego).">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>516-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>63A3AEA</Offset>
+      <ValueOn>49-83-FA-20-75-0C-C7-47-08-00-00-C0-40-E9-0D-8D-52-FA-C5-FA-11-47-08-E9-03-8D-52-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>5AD77FC-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>8CC804</Offset>
+      <ValueOn>E9-E1-72-AD-05</ValueOn>
+      <ValueOff>C5-FA-11-47-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Paint / Only when refills with bottles (The blue ones)" Description="You can turn ON on every moment of the game. (Puedes activarlo en cualquier momento del juego).">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>4F8-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>63A3B08</Offset>
+      <ValueOn>83-BF-8C-00-00-00-01-75-09-C7-47-08-00-00-C0-40-EB-E7-C5-FA-11-47-08-EB-E0</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>504-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>63A3AFC</Offset>
+      <ValueOn>EB-0A</ValueOn>
+      <ValueOff>C5-FA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Thinner / Only when refills with bottles (The green ones)" Description="You can turn ON on every moment of the game. (Puedes activarlo en cualquier momento del juego).">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>4DD-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>63A3B23</Offset>
+      <ValueOn>83-7F-7C-10-75-09-C7-47-08-00-00-C0-40-EB-ED-C5-FA-11-47-08-EB-E6</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>4E6-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>63A3B1A</Offset>
+      <ValueOn>EB-07</ValueOn>
+      <ValueOff>C5-FA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Tickets x9999999" Description="You can turn ON on every moment of the game. (Puedes activarlo en cualquier momento del juego).">
+    <Cheatline>
+      <PS5Offset>4C5-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>5FA3B3B</Offset>
+      <ValueOn>41-C7-06-7F-96-98-00-0F-84-12-10-FD-FA-E9-BD-0F-FD-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>502F4FB-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>F74B05</Offset>
+      <ValueOn>E9-31-F0-02-05</ValueOn>
+      <ValueOff>41-89-06-74-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

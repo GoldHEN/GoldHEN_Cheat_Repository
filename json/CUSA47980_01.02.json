@@ -1,0 +1,105 @@
+{
+  "name": "Slitterhead",
+  "id": "CUSA47980",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Master Code (MC)",
+      "description": "Some cheats may not work during tutorials",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5EC48A0",
+          "on": "4C8BB0D80200004983F9000F85E00000004983FB010F85D600000041514153803DD8FFFFFF01752349BB0000000000C062404D899E1807000049C78620070000000000004D899E28070000803DACFFFFFF01750C49BB000000008087C340EB0A49BB000000000000F03F4D899E400C00004D899E500C0000803D7FFFFFFF0175334D8B8E880100004D85C974274D8B094D8B99400300004D89993803000049C781700300000000000049C7817803000000000000803D43FFFFFF0175154D8B8ED00200004D8B99B00A00004D8999A80A0000803D25FFFFFF01750A41C686440B000001EB0841C686440B000000415B4159E9FB66DEFD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3CAB08A",
+          "on": "E9119821029090",
+          "off": "4C8BB0D8020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Health (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5EC48BF",
+          "on": "803DD8FFFFFF00",
+          "off": "803DD8FFFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5EC48EB",
+          "on": "803DACFFFFFF00",
+          "off": "803DACFFFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "Weapon Health (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5EC4918",
+          "on": "803D7FFFFFFF00",
+          "off": "803D7FFFFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "Max Mana (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5EC4954",
+          "on": "803D43FFFFFF00",
+          "off": "803D43FFFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "Ignored by the Enemy (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5EC4972",
+          "on": "803D25FFFFFF00",
+          "off": "803D25FFFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "Max Coins",
+      "description": "To trigger it, spend coins; disable it after obtaining 9 million coins",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5EC499C",
+          "on": "8B164983F80175204983F965751A4983FA6575144981FB06020000750B4983FD007505BA7F96980089175DE99C84EE79",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7FDACE63",
+          "on": "E9347B1186",
+          "off": "8B1689175D"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Sondio"
+  ]
+}

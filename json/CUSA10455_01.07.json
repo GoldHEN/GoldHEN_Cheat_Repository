@@ -1,0 +1,294 @@
+{
+  "name": "Borderlands GOTY",
+  "id": "CUSA10455",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Master Code (MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E68199",
+          "on": "498B84249C0000005156803DEDFFFFFF017522498BB42478020000488BB690040000488BB6700200008B8E1C010000898E98000000803DC2FFFFFF01751B498BB42478020000488BB6A00400008B8E1C010000898E98000000803D9EFFFFFF01751C498BB42478020000488BB660010000488B36C786A402000063000000803D79FFFFFF01751C498BB42478020000488BB660010000488B36C786A802000004000000498BB42478020000803D4CFFFFFF017509C686FF000000C4EB07C686FF000000CC803D33FFFFFF01751580BEB803000001750CC786A803000000803B45EB14C786A40300000000DC43C786A80300000000DC43803D01FFFFFF01750CC786E803000000809D44EB0AC786E803000000801D44803DE2FEFFFF017520498BB42478040000488BB678020000C7466800000000C7869800000000000000803DB9FEFFFF01751B498BB42478040000488BB6800200008B8E80000000898E98000000498BB42478040000488BB688020000803D86FEFFFF01751B498BB42478040000488BB6A00200008B8E80000000898E98000000803D62FEFFFF01751B498BB42478040000488BB6A80200008B8E80000000898E98000000803D3EFEFFFF017520498BB424E8100000488B7668C7864C040000E8030000C78674040000000000005E59E9DBF885FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16C7C55",
+          "on": "E93F057A00909090",
+          "off": "498B84249C000000"
+        },
+        {
+          "offset": "1E68388",
+          "on": "41504151803D04FEFFFF01751641C787A80300000000000041C787AC03000000000000803DE5FDFFFF01750D41C787C0030000003C1C46EB0E458B87C4030000458987C0030000803DC1FDFFFF0175154D8B8FC8040000458B818000000045898198000000803DA3FDFFFF01750E458B87F40400004589871805000041594158418BB718050000E98ADC7AFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1616097",
+          "on": "E9EC2285009090",
+          "off": "418BB718050000"
+        }
+      ]
+    },
+    {
+      "name": "Max Health (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E6830A",
+          "on": "803D86FEFFFF00",
+          "off": "803D86FEFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "Max Health Car (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E681CE",
+          "on": "803DC2FFFFFF00",
+          "off": "803DC2FFFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "Max Shield (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E6832E",
+          "on": "803D62FEFFFF00",
+          "off": "803D62FEFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "Max Nitro (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E681A3",
+          "on": "803DEDFFFFFF00",
+          "off": "803DEDFFFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "Max XP/Level (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E682D7",
+          "on": "803DB9FEFFFF00",
+          "off": "803DB9FEFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill Points",
+      "description": "Triggered by spending the first skill points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E6841A",
+          "on": "4883F9017505B86A000000418907418906E92DA056FE",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3D2457",
+          "on": "E9BE5FA90190",
+          "off": "418907418906"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E68436",
+          "on": "C787800300007F969800C787840300007F9698008B8780030000E9318E60FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1471280",
+          "on": "E9B1719F0090",
+          "off": "8B8780030000"
+        }
+      ]
+    },
+    {
+      "name": "Unlock Weapons Slots (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E68217",
+          "on": "803D79FFFFFF00",
+          "off": "803D79FFFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "Max Weapon Skill",
+      "description": "Triggered by killing an enemy with a weapon from each category",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E6845B",
+          "on": "43C74427103200000043C744271420DE010043C744271820DE0100E993A587FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16E2A09",
+          "on": "E94D5A7800",
+          "off": "4301442714"
+        }
+      ]
+    },
+    {
+      "name": "Max Weapon Accuracy (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E682AE",
+          "on": "803DE2FEFFFF00",
+          "off": "803DE2FEFFFF01"
+        },
+        {
+          "offset": "1E6838C",
+          "on": "803D04FEFFFF00",
+          "off": "803D04FEFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "Max Demage/One Hit Kill (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E683AB",
+          "on": "803DE5FDFFFF00",
+          "off": "803DE5FDFFFF01"
+        },
+        {
+          "offset": "1E684BB",
+          "on": "4883F900750BB8000000008987980000008B8798000000E9728AEEFE",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D50F43",
+          "on": "E97375110190",
+          "off": "8B8798000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E683CF",
+          "on": "803DC1FDFFFF00",
+          "off": "803DC1FDFFFF01"
+        },
+        {
+          "offset": "1E68481",
+          "on": "C5FA108098000000415041514D8B87800400004D8B80980200004D89C1458B80800000004589819800000041594158E900D787FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16E5BAD",
+          "on": "E9CF287800909090",
+          "off": "C5FA108098000000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E683ED",
+          "on": "803DA3FDFFFF00",
+          "off": "803DA3FDFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "Space in the Backpack x99 (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E681F2",
+          "on": "803D9EFFFFFF00",
+          "off": "803D9EFFFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "Ignored by the Enemy (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E68244",
+          "on": "803D4CFFFFFF00",
+          "off": "803D4CFFFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "Hyper Run (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E6825D",
+          "on": "803D33FFFFFF00",
+          "off": "803D33FFFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "Jump x2 (Enable MC)",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E6828F",
+          "on": "803D01FFFFFF00",
+          "off": "803D01FFFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Golden Keys (Enable MC)",
+      "description": "Use golden keys only after reaching max level so you get equivalent weapons/items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E68352",
+          "on": "803D3EFEFFFF00",
+          "off": "803D3EFEFFFF01"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Sondio"
+  ]
+}
