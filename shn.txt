@@ -457,6 +457,7 @@ CUSA33877_01.00.shn=Resident Evil - Director's Cut
 CUSA08393_01.43.shn=Assassins Creed - Origins
 CUSA08025_01.11.shn=Borderlands 3
 CUSA03014_01.09.shn=Bloodborne
+CUSA32836_01.50.shn=Naruto x Boruto Ultimate Ninja Storm Connections Ultimate Edition
 CUSA34386_04.02.shn=God of War Ragnarok
 CUSA07052_01.02.shn=Final Fantasy 7 Remake
 SLUS01525_01.00.shn=Mobile Light Force
