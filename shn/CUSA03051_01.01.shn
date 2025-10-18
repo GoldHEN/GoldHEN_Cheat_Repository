@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="GUNS GORE AND CANNOLI" Moder="Ali-mk" Cusa="CUSA03051" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health-(MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>76C-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>227B894</Offset>
+      <ValueOn>41-83-7E-6C-02-75-0B-F3-45-0F-10-7E-0C-E9-04-D4-B1-FE-F3-45-0F-11-BE-18-03-00-00-E9-F6-D3-B1-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>14E335F-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>D98CA1</Offset>
+      <ValueOn>E9-EE-2B-4E-01-90-90-90-90</ValueOn>
+      <ValueOff>F3-45-0F-11-BE-18-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf-Health-One-Hit-Kill-(MC)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>6E1-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>227B91F</Offset>
+      <ValueOn>41-83-7E-6C-02-75-0B-F3-45-0F-10-7E-0C-E9-79-D3-B1-FE-F3-41-0F-11-86-18-03-00-00-E9-6B-D3-B1-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>14E335F-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>D98CA1</Offset>
+      <ValueOn>E9-79-2C-4E-01</ValueOn>
+      <ValueOff>E9-57-2C-4E-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-All-Weapon">
+    <Cheatline>
+      <Offset>9DD06F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>49-63-7F-20</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>9DC92D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-47-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="one-Hit-Kill">
+    <Cheatline>
+      <Offset>998C89</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>F3-0F-10-44-24-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
