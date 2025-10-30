@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Plants vs Zombies Replanted" Moder="Bandicootmonito" Cusa="CUSA55613" Version="01.10" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Sun x9990" Description="Plant one sunflower or other plant  lower than 50 suns, and the cheat will work">
+    <Cheatline>
+      <PS5Offset>800-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Section>14</Section>
+      <Offset>53E3800</Offset>
+      <ValueOn>90-90-90-90-90-90-C7-40-10-06-27-00-00-E9-65-10-98-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>367F792-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Section>14</Section>
+      <Offset>1D6486E</Offset>
+      <ValueOn>E9-8D-EF-67-03-90-90-90-90</ValueOn>
+      <ValueOff>44-29-68-10-E9-94-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Plants Recharge Instantly">
+    <Cheatline>
+      <PS5Offset>7C8-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Section>14</Section>
+      <Offset>53E3838</Offset>
+      <ValueOn>B8-3F-42-0F-00-89-43-70-3B-43-74-E9-31-C8-9E-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>3613F8D-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Section>14</Section>
+      <Offset>1DD0073</Offset>
+      <ValueOn>E9-C0-37-61-03-90</ValueOn>
+      <ValueOff>89-43-70-3B-43-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money x999990" Description="When the shop is available, buy something and the cheat will work">
+    <Cheatline>
+      <PS5Offset>7A4-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Section>14</Section>
+      <Offset>53E385C</Offset>
+      <ValueOn>90-90-90-C7-40-50-9F-86-01-00-48-83-C4-08-E9-5A-94-B3-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>34C733E-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Section>14</Section>
+      <Offset>1F1CCC2</Offset>
+      <ValueOn>E9-95-6B-4C-03-90-90</ValueOn>
+      <ValueOff>01-58-50-48-83-C4-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Fertilizer x20" Description="First you need to buy it, after that every time you use the cheat will work">
+    <Cheatline>
+      <PS5Offset>78F-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Section>14</Section>
+      <Offset>53E3871</Offset>
+      <ValueOn>90-90-90-48-89-DF-E9-AB-4C-9F-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>360BADF-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Section>14</Section>
+      <Offset>1DD8521</Offset>
+      <ValueOn>E9-4B-B3-60-03-90</ValueOn>
+      <ValueOff>FF-48-58-48-89-DF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Spray x20" Description="First you need to buy it, after that every time you use the cheat will work">
+    <Cheatline>
+      <PS5Offset>78F-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Section>14</Section>
+      <Offset>53E3871</Offset>
+      <ValueOn>90-90-90-E9-AB-4C-9F-FC-E9-78-4C-9F-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>360BB0F-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Section>14</Section>
+      <Offset>1DD84F1</Offset>
+      <ValueOn>E9-7B-B3-60-03</ValueOn>
+      <ValueOff>FF-48-5C-EB-2E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Tree Food x10" Description="First you need to buy it, after that every time you use the cheat will work">
+    <Cheatline>
+      <PS5Offset>780-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Section>14</Section>
+      <Offset>53E3880</Offset>
+      <ValueOn>90-90-90-E9-97-E5-9A-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>36521E7-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Section>14</Section>
+      <Offset>1D91E19</Offset>
+      <ValueOn>E9-62-1A-65-03-90</ValueOn>
+      <ValueOff>FF-88-90-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
