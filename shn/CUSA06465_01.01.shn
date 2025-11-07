@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Slain Back from Hell" Moder="Ali-mk" Cusa="CUSA06465" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>8018C56E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-FB-FA-15-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf-Health-One-Hit-Kill-(mc)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>800-MonoAssembliesPS4.prx[0]-5</PS5Offset>
+      <Section>14</Section>
+      <Offset>8148F800</Offset>
+      <ValueOn>41-83-BE-F4-00-00-00-01-75-09-49-63-46-0C-E9-B5-9C-11-FF-49-63-46-24-E9-AC-9C-11-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>EE6B40-MonoAssembliesPS4.prx[0]-5</PS5Offset>
+      <Section>14</Section>
+      <Offset>805A94C0</Offset>
+      <ValueOn>E9-3B-63-EE-00-90-90-90</ValueOn>
+      <ValueOff>49-63-46-24-03-44-24-08</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>7E2-MonoAssembliesPS4.prx[0]-5</PS5Offset>
+      <Section>14</Section>
+      <Offset>8148F81E</Offset>
+      <ValueOn>41-83-BE-F4-00-00-00-00-75-09-49-63-46-0C-E9-97-9C-11-FF-49-63-46-24-E9-8E-9C-11-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>EE6B40-MonoAssembliesPS4.prx[0]-5</PS5Offset>
+      <Section>14</Section>
+      <Offset>805A94C0</Offset>
+      <ValueOn>E9-59-63-EE-00</ValueOn>
+      <ValueOff>E9-3B-63-EE-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Web-MAGIC">
+    <Cheatline>
+      <Offset>801A9510</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>49-63-46-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
