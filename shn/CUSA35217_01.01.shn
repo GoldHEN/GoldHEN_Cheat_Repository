@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Catmaze" Moder="Ali-mk" Cusa="CUSA35217" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health + Coins keys">
+    <Cheatline>
+      <Offset>2C7A4A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-F1-2E-E1-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
