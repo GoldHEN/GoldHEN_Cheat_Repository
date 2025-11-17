@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tormented Souls" Moder="Ali-mk" Cusa="CUSAA29199" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+    <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>8158053C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-BF-8A-63-FF</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>80BB8FDF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-1C-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>80BB90E7</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-E4-F5-90-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Ammo">
+    <Cheatline>
+      <Offset>8095B4EA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>44-89-70-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-items">
+    <Cheatline>
+      <Offset>804BB622</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>44-89-70-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="one-Hit-Kill">
+    <Cheatline>
+      <Offset>806496B0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-4F-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
