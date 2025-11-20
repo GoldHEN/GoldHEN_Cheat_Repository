@@ -486,6 +486,7 @@ CUSA03842_01.11.shn=Resident Evil 7 Biohazard
 CUSA02320_01.02_big3-ps4_Shipping.elf_2.shn=Uncharted: The Nathan Drake Collection™ (Drakes Deception)
 CUSA02819_01.18.shn=Tom Clancys - Ghost Recon Wildlands
 CUSA18581_01.21.shn=Elden Ring - Shadow of the Erdtree
+CUSA29199_01.03.shn=Tormented Souls
 CUSA28527_01.19.shn=Elden Ring
 CUSA18653_01.07.shn=Hunting Simulator 2
 CUSA11603_01.00.shn=Shinhondo
