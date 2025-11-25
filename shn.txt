@@ -227,6 +227,7 @@ CUSA00897_01.00.shn=inFAMOUS - First Light
 CUSA27373_01.12.shn=The Callisto Protocol
 CUSA28527_01.17.shn=Elden Ring - Shadow of the Erdtree
 CUSA35217_01.01.shn=Catmaze
+CUSA00633_01.09.shn=battlefield-hardline
 CUSA34392_06.02.shn=God Of War Ragnarok
 CUSA04841_03.05.shn=No Man's Sky
 CUSA55613_01.10.shn=Plants vs Zombies Replanted
