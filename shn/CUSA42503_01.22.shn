@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Atomfall Deluxe Edition" Moder="Ali-mk" Cusa="CUSA42503" Version="01.22" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+    <Cheat Text="Invincible">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>7E1-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>14DF81F</Offset>
+      <ValueOn>49-83-F8-01-0F-84-6F-E4-9C-FF-E8-22-DE-9F-FF-E9-65-E4-9C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>63236D-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>EADC93</Offset>
+      <ValueOn>E9-87-1B-63-00</ValueOn>
+      <ValueOff>E8-B8-F9-02-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>800-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>14DF800</Offset>
+      <ValueOn>83-BB-C4-00-00-00-00-75-0A-C5-FA-10-4B-0C-E9-87-95-26-FF-C5-FA-11-4B-68-E9-7D-95-26-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>D9726B-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>748D95</Offset>
+      <ValueOn>E9-66-6A-D9-00</ValueOn>
+      <ValueOff>C5-FA-11-4B-68</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf-Ammo-Never-Reload">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>C2A0C0</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-4B-90-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-SkillS-Points">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>7B5-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>14DF84B</Offset>
+      <ValueOn>B8-0F-27-00-00-89-83-A8-07-00-00-E9-45-82-8C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>738566-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>DA7A9A</Offset>
+      <ValueOn>E9-AC-7D-73-00-90</ValueOn>
+      <ValueOff>89-83-A8-07-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-All-Items">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>7A3-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>14DF85D</Offset>
+      <ValueOn>BE-E7-03-00-00-89-70-04-41-89-DE-E9-21-BC-BA-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>454B78-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>108B488</Offset>
+      <ValueOn>E9-D0-43-45-00-90</ValueOn>
+      <ValueOff>89-70-04-41-89-DE</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Ammo">
+    <Cheatline>
+      <Section>0</Section>
+      <Offset>C81307</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-34-A1-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Rapid-Fire">
+    <Cheatline>
+      <Offset>C1198E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-CD-86-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="one-Hit-Kill">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>7CB-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>14DF835</Offset>
+      <ValueOn>49-83-F8-01-0F-84-6D-95-26-FF-C5-F8-2E-43-68-E9-63-95-26-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>D97259-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>748DA7</Offset>
+      <ValueOn>E9-89-6A-D9-00</ValueOn>
+      <ValueOff>C5-F8-2E-43-68</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
