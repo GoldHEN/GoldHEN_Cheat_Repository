@@ -786,6 +786,7 @@ CUSA00031_01.00.shn=Rayman Legends
 CUSA02826_01.02_big3-ps4_Shipping.elf.shn=Uncharted Collection - UNC3 Dev Menu
 CUSA00503_01.12.shn=Dragon Age
 CUSA12044_01.02.shn=Fox N Forests
+CUSA42503_01.22.shn=Atomfall Deluxe Edition
 CUSA08543_01.03.shn=Bloody Zombies
 CUSA06997_01.09.shn=Yakuza Kiwami
 CUSA05933_01.04_kingdom2.elf.shn=Kingdom Hearts 2
