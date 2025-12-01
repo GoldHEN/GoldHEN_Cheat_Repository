@@ -638,6 +638,7 @@ CUSA01130_01.00.shn=Gravity Rush Remastered
 CUSA40651_01.01.shn=Star Ocean The Second story R
 CUSA02557_01.37.shn=Fallout 4 Game of the Year Edition
 CUSA34120_16.01.shn=Monster Hunter Rise Sunbreak
+CUSA16724_01.06.shn=Resident Evil 3
 CUSA16724_01.07.shn=Resident Evil 3
 CUSA01608_01.16.shn=Enter The Gungeon
 CUSA00250_01.02.shn=Thief
