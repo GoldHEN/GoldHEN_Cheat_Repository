@@ -295,7 +295,7 @@
       <ValueOff>00-01</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Save Anywhere (.Press L1 & L2)">
+  <Cheat Text="Save Anywhere (Press L1 &#38; L2)">
     <Cheatline>
       <Offset>19C6B8</Offset>
       <Section>11</Section>
@@ -349,7 +349,7 @@
       <ValueOff>00-1F</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite Ammo & Items">
+  <Cheat Text="Infinite Ammo &#38; Items">
     <Cheatline>
       <Offset>155EA6</Offset>
       <Section>11</Section>
@@ -551,7 +551,7 @@
       <ValueOff>FF-FF</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Turbo Shooting & No Reload">
+  <Cheat Text="Turbo Shooting &#38; No Reload">
     <Cheatline>
       <Offset>1A473A</Offset>
       <Section>11</Section>
@@ -583,7 +583,7 @@
       <ValueOff>63-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Change Size Regina Anywhere (Press L1 For Smaller & R2 For Bigger)">
+  <Cheat Text="Change Size Regina Anywhere (Press L1 For Smaller &#38; R2 For Bigger)">
     <Cheatline>
       <Offset>19C6B8</Offset>
       <Section>11</Section>
@@ -715,7 +715,7 @@
       <ValueOff>03-A8</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Transform Size Of Dinosaur's Anytime (Press L2 For Smaller & L1 For Bigger)">
+  <Cheat Text="Transform Size Of Dinosaur's Anytime (Press L2 For Smaller &#38; L1 For Bigger)">
     <Cheatline>
       <Offset>19C6B8</Offset>
       <Section>11</Section>
