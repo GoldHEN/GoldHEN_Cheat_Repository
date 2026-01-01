@@ -2,7 +2,7 @@
 <Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="River City Girls 2" Moder="Ali-mk" Cusa="CUSA33173" Version="01.02" Process="eboot.bin">
   <Genres Name="Action" />
   <Items />
-  <StartUP Text="Infinite-Health">
+  <Cheat Text="Infinite-Health">
     <Cheatline>
       <Absolute>True</Absolute>
       <Section>0</Section>
@@ -17,5 +17,5 @@
       <ValueOn>E9-9E-2D-5A-01-90-90-90-90</ValueOn>
       <ValueOff>C4-C1-7A-11-86-88-00-00-00</ValueOff>
     </Cheatline>
-  </StartUP>
+  </Cheat>
 </Trainer>

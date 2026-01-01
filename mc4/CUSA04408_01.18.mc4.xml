@@ -1,2 +1,70 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA04408" Game="Middle-earthâ„¢: Shadow of War" Moder="DJFlameDat" Process="eboot.bin" Version="01.18" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> <Cheat Description="What/how/when is this Cheat: Change me!" Text="Inf HP + Pet (Other animals have Inf HP when this is ON)"> </Cheat> <Cheat Description="What/how/when is this Cheat: Change me!" Text="Inf Arrows"> </Cheat> <Cheat Description="What/how/when is this Cheat: Change me!" Text="Inf Focus"> </Cheat> <Cheat Description="Turn Cheat On and Off Till see money or Gems change " Text="Inf Mirian and Gems"> </Cheat> <Cheat Description="What/how/when is this Cheat: Change me!" Text="Full Caragor Ally Meter Summon (On Hit)"> </Cheat> <Cheat Description="What/how/when is this Cheat: Change me!" Text="Inf Skill Points (On Buy)"> </Cheat> <Cheat Description="What/how/when is this Cheat: Change me!" Text="Inf Might (On Hit)"> </Cheat> <Cheat Description="What/how/when is this Cheat: Change me!" Text="Inf Wrath (On Kill)"> </Cheat> </Trainer>
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Middle-earthâ„¢: Shadow of War" Moder="DJFlameDat" Cusa="CUSA04408" Version="1.18" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf HP + Pet (Other animals have Inf HP when this is ON)">
+        <Cheatline>
+            <Offset>02F0B835</Offset>
+            <Section>0</Section>
+            <ValueOn>41-83-7D-7C-00-75-09-C4-C1-7A-10-85-40-05-00-00-C4-C1-7A-11-85-44-05-00-00-E9-E1-1A-F5-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Arrows">
+        <Cheatline>
+            <Offset>02F0B878</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-84-08-B0-00-00-00-0F-00-00-00-E9-55-8A-8F-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Focus">
+        <Cheatline>
+            <Offset>02F0B811</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-3C-02-00-00-00-00-D0-42-E9-D7-E9-FE-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Mirian and Gems">
+        <Cheatline>
+            <Offset>02F0B822</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-42-20-9F-86-01-00-E9-A5-5B-8E-FE-E9-9B-5B-8E-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Full Caragor Ally Meter Summon (On Hit)">
+        <Cheatline>
+            <Offset>02F0B855</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-D8-02-00-00-00-00-48-43-E9-A8-70-21-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Skill Points (On Buy)">
+        <Cheatline>
+            <Offset>02F0B866</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-43-20-F4-01-00-00-4C-8B-7B-10-E9-4C-78-8C-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Might (On Hit)">
+        <Cheatline>
+            <Offset>02F0B88A</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-D0-02-00-00-00-00-7A-43-E9-5A-45-21-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Wrath (On Kill)">
+        <Cheatline>
+            <Offset>02F0B89C</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-10-03-00-00-00-00-16-43-E9-3D-23-22-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

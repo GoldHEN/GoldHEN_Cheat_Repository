@@ -1,2 +1,598 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA33388" Game="Resident Evil 4 Remake" Moder="Dioniso" Process="eboot.bin" Version="01.04" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> <Cheat Description="Open your case and select and unselect the key-item in slot 1 to change it; they will loop." Text="[01][Special] Get Any Key/Item In Slot 1: (Un)Select It"> </Cheat> <Cheat Description="Store a weapon and it will loop through all the possible weapons. No grenades. No Boot and Kitchen Knife. If 2 same weapons are stored, 1 dissapears." Text="[02][Special] Get Any Weapon: Store A New One"> </Cheat> <Cheat Description="Turn [02] OFF. If you store a First Aid Spray in the case, you will get this weapon upgrade." Text="[03a][Special] Get High-power Scope: Store First Aid Spray"> </Cheat> <Cheat Description="" Text="[03b][Special] Get Biosensor Scope: Store First Aid Spray"> </Cheat> <Cheat Description="" Text="[03c][Special] Get Scope: Store First Aid Spray"> </Cheat> <Cheat Description="Turn ON before loading. You will start the game with this weapon instead of the SG-09 R." Text="[04a][StartFreshNewGame] Infinite Rocket Launcher"> </Cheat> <Cheat Description="" Text="[04b][StartFreshNewGame] LE 5"> </Cheat> <Cheat Description="" Text="[04c][StartFreshNewGame] Killer 7"> </Cheat> <Cheat Description="Better Turn it ON before loading the scene. Be careful in Chapter 1, when the rocks fall down. If you get under them, due to the immunity, you could cross the floor and fall forever. Load Autosave if this happened." Text="[05][Player] Immunity"> </Cheat> <Cheat Description="" Text="[06][Player] Infinite Health"> </Cheat> <Cheat Description="" Text="[07a][Player] Speed x1"> </Cheat> <Cheat Description="" Text="[07b][Player] Speed x3"> </Cheat> <Cheat Description="" Text="[08][Player] Infinite Body Armour"> </Cheat> <Cheat Description="" Text="[09a][Player] Size x0.5"> </Cheat> <Cheat Description="" Text="[09b][Player] Size x1"> </Cheat> <Cheat Description="" Text="[09c][Player] Size x2"> </Cheat> <Cheat Description="" Text="[10][Weapon] 1 Hit Kill [-Krauser]"> </Cheat> <Cheat Description="" Text="[11][Weapon] Luis Has A Rocket Launcher"> </Cheat> <Cheat Description="After shooting, the weapon will get the maximum number of bullets, that weapon has." Text="[12][Weapon] Infinite Ammo"> </Cheat> <Cheat Description="" Text="[13][Weapon] Grenades: No Decrement"> </Cheat> <Cheat Description="" Text="[14][Weapon] Knife: Infinite Durability"> </Cheat> <Cheat Description="The quantity of ammunition will not decrease. That`s the difference with cheat 12." Text="[15][Weapon] Infinite Ammo + Grenades (Instead Of [12] and [13])"> </Cheat> <Cheat Description="" Text="[16][Weapon] Rapid Fire"> </Cheat> <Cheat Description="" Text="[17][Weapon] Anti-Aircraft Gun: Infinite Ammo"> </Cheat> <Cheat Description="" Text="[18][Weapon] Cannon: No Reload"> </Cheat> <Cheat Description="If Cheat number 02 is OFF, turn this one ON in order to be able to store Saddler`s Scene Rocket Launcher. Otherwise, it will disappear. After defeating Saddler, it will disappear it does not matter what." Text="[19][Weapon] Rocket Launcher (Saddler One) Can Be Stored"> </Cheat> <Cheat Description="" Text="[20][Vehicle] Boat: Infinite Durability"> </Cheat> <Cheat Description="" Text="[21][Vehicle] Wagon: Infinite Durability"> </Cheat> <Cheat Description="" Text="[22][Vehicle] Crane: Infinite Durability"> </Cheat> <Cheat Description="" Text="[23][Vehicle] Water Scooter: Infinite Durability"> </Cheat> <Cheat Description="" Text="[24][Interaction] Bear Traps Don`t Work"> </Cheat> <Cheat Description="" Text="[25][Interaction] `Hold X` Doors/Stairs Open Instantly"> </Cheat> <Cheat Description="" Text="[26][Interaction] `Hold X` Doors/Stairs Stay Open"> </Cheat> <Cheat Description="" Text="[27][Interaction] Puzzles: No Need To Solve Them"> </Cheat> <Cheat Description="" Text="[28][Interaction] Puzzles: Paths Are Marked Stronger"> </Cheat> <Cheat Description="" Text="[29][Interaction] Open Big Door In Chapter 2 Without Item"> </Cheat> <Cheat Description="This one is really dangerous, NOT RECOMMENDED FOR FIRST PLAY. After opening some doors, you will get an animation. Some of these animations can be skipped. Others DON`T. That`s why I say it can be dangerous: you can get easily stuck (Load Autosave). If you know which ones you can skip, it can be fun, using this cheat. Or if you just want to experiment with it." Text="[30][Interaction-DANGEROUS!] Open Some Locked/Item Doors"> </Cheat> <Cheat Description="" Text="[31][Ashley] Knights Forever Frozen (L2) [Ashley]"> </Cheat> <Cheat Description="" Text="[32][Item] Infinite Treasures + Small Keys/Tokens"> </Cheat> <Cheat Description="" Text="[33][Item] Most Keys Stay When Used (-Blue Dial)"> </Cheat> <Cheat Description="" Text="[34][Item] Infinite Spinels (Go To Trade)"> </Cheat> <Cheat Description="" Text="[35][Item] Infinite Pesetas"> </Cheat> <Cheat Description="" Text="[36][Item] Infinite Completion Points (CP)"> </Cheat> <Cheat Description="" Text="[37][Total Play Time] Reset to Zero And Stopped"> </Cheat> <Cheat Description="Actually it is slowed down. If I am right, every 277 hours of playing it will be 1 second so ... I would call that: Timer Stopped." Text="[38][In-Game Timer] Stopped"> </Cheat> <Cheat Description="" Text="[39][Total Results] Rank S+ / Time 00:00:00"> </Cheat> <Cheat Description="" Text="[40][Total Results] Saves = 0"> </Cheat> <Cheat Description="" Text="[41][Saving] Times Saved: 0 (After Saving)"> </Cheat> <Cheat Description="" Text="[42a][Saving] Change Difficulty: Assisted"> </Cheat> <Cheat Description="" Text="[42b][Saving] Change Difficulty: Standard"> </Cheat> <Cheat Description="" Text="[42c][Saving] Change Difficulty: Hardcore"> </Cheat> <Cheat Description="" Text="[42d][Saving] Change Difficulty: Professional"> </Cheat> <Cheat Description="Cheats 43 to 47 will affect the end of the chapter. If you leave them ON while on Menu - Main Story - Results, it will affect ALL OF THE CHAPTERS; the info will be overwritten. If you do not want that to happen, turn them OFF." Text="[43][End Of Chapter] Chapter Play Time = 0"> </Cheat> <Cheat Description="" Text="[44][End Of Chapter] Enemies Killed = 666"> </Cheat> <Cheat Description="" Text="[45][End Of Chapter] Deaths = 0"> </Cheat> <Cheat Description="" Text="[46][End Of Chapter] Accuracy = 100 Per Cent"> </Cheat> <Cheat Description="" Text="[47][End Of Chapter] Times Damaged = 0"> </Cheat> <Cheat Description="If cheats 48 to 51 are ON, you do not need even to shoot once; you will get directly an S." Text="[48][Target Practice] Timer Frozen"> </Cheat> <Cheat Description="" Text="[49][Target Practice] All Pirates Killed"> </Cheat> <Cheat Description="" Text="[50][Target Practice] All Skulls Killed"> </Cheat> <Cheat Description="" Text="[51][Target Practice] +Points"> </Cheat> <Cheat Description="" Text="[52][Mercs] Timer Frozen"> </Cheat> <Cheat Description="" Text="[53][Mercs] Combo Timer Frozen"> </Cheat> <Cheat Description="" Text="[54][Mercs] 666 Combos"> </Cheat> <Cheat Description="" Text="[55][Mercs] Mayhem Turbo Loading"> </Cheat> <Cheat Description="" Text="[56][Mercs] Mayhem Yellow Bar Frozen"> </Cheat> <Cheat Description="" Text="[57][Mercs] Just 1 Kill = S++ (If [52] ON)"> </Cheat> <Cheat Description="It will not allow you to continue if it`s ON in some situations where NMEs must come to you, like in the House Attack with Luis (Chapter 5) or the Crane with Ashley (Chapter 14)." Text="[58][NME] Ganados Move Less - Cheat [59] Must Be OFF"> </Cheat> <Cheat Description="" Text="[59a][NME] Speed x0.2"> </Cheat> <Cheat Description="" Text="[59b][NME] Speed x0.5"> </Cheat> <Cheat Description="" Text="[59c][NME] Speed x1"> </Cheat> <Cheat Description="" Text="[60a][NME] Size x0.5"> </Cheat> <Cheat Description="" Text="[60b][NME] Size x1"> </Cheat> <Cheat Description="" Text="[60c][NME] Size x2"> </Cheat> </Trainer>
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 4 Remake" Moder="Dioniso" Cusa="CUSA33388" Version="1.04" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="[01][Special] Get Any Key/Item In Slot 1: (Un)Select It">
+        <Cheatline>
+            <Offset>7FC5E000</Offset>
+            <Section>0</Section>
+            <ValueOn>80-E5-1A-07-C0-EB-1A-07-00-F2-1A-07-80-FE-1A-07-C0-04-1B-07-00-0B-1B-07-40-11-1B-07-C0-1D-1B-07-00-24-1B-07-40-2A-1B-07-80-30-1B-07-C0-36-1B-07-00-3D-1B-07-C0-4F-1B-07-00-56-1B-07-80-62-1B-07-C0-68-1B-07-00-6F-1B-07-00-88-1B-07-80-94-1B-07-C0-9A-1B-07-00-A1-1B-07-80-AD-1B-07-C0-B3-1B-07-00-BA-1B-07-40-C0-1B-07-80-C6-1B-07-C0-CC-1B-07-40-D9-1B-07-80-DF-1B-07-C0-E5-1B-07-00-EC-1B-07-80-F8-1B-07-C0-FE-1B-07-00-05-1C-07-40-0B-1C-07-80-11-1C-07-C0-17-1C-07-00-1E-1C-07-40-24-1C-07-80-2A-1C-07-C0-30-1C-07-00-37-1C-07-40-8E-1B-07-80-E5-1A-07-FF-FF-FF-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[02][Special] Get Any Weapon: Store A New One">
+        <Cheatline>
+            <Offset>0B3CF8D0</Offset>
+            <Section>0</Section>
+            <ValueOn>48-B8-40-F8-7C-0B-00-00-00-00-3B-30-74-18-83-38-FF-74-06-48-83-C0-04-EB-F1-BE-00-12-7A-10-89-72-28-E9-44-8E-D3-F8-8B-70-04-EB-F3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[03a][Special] Get High-power Scope: Store First Aid Spray">
+        <Cheatline>
+            <Offset>7FC5E300</Offset>
+            <Section>0</Section>
+            <ValueOn>81-FE-80-D9-D1-06-0F-85-2E-A4-4A-84-BE-80-11-EA-06-89-72-28-E9-21-A4-4A-84</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[03b][Special] Get Biosensor Scope: Store First Aid Spray">
+        <Cheatline>
+            <Offset>7FC5E300</Offset>
+            <Section>0</Section>
+            <ValueOn>81-FE-80-D9-D1-06-0F-85-2E-A4-4A-84-BE-C0-17-EA-06-89-72-28-E9-21-A4-4A-84</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[03c][Special] Get Scope: Store First Aid Spray">
+        <Cheatline>
+            <Offset>7FC5E300</Offset>
+            <Section>0</Section>
+            <ValueOn>81-FE-80-D9-D1-06-0F-85-2E-A4-4A-84-BE-00-05-EA-06-89-72-28-E9-21-A4-4A-84</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[04a][StartFreshNewGame] Infinite Rocket Launcher">
+        <Cheatline>
+            <Offset>0B3CFDD0</Offset>
+            <Section>0</Section>
+            <ValueOn>81-7B-68-00-A8-61-10-75-15-C7-43-68-80-AD-77-10-C7-43-18-05-00-00-00-C7-43-1C-00-00-00-00-E8-AD-0D-AD-F6-E9-D8-00-F6-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[04b][StartFreshNewGame] LE 5">
+        <Cheatline>
+            <Offset>0B3CFDD0</Offset>
+            <Section>0</Section>
+            <ValueOn>81-7B-68-00-A8-61-10-75-15-C7-43-68-80-96-66-10-C7-43-18-05-00-00-00-C7-43-1C-00-00-00-00-E8-AD-0D-AD-F6-E9-D8-00-F6-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[04c][StartFreshNewGame] Killer 7">
+        <Cheatline>
+            <Offset>0B3CFDD0</Offset>
+            <Section>0</Section>
+            <ValueOn>81-7B-68-00-A8-61-10-75-07-C7-43-68-40-E3-6D-10-E8-BB-0D-AD-F6-E9-E6-00-F6-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[05][Player] Immunity">
+        <Cheatline>
+            <Offset>0B3CF974</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-8A-48-01-00-00-EB-09-E9-6A-A0-68-F6-B0-01-EB-F7-81-7A-38-A0-86-01-00-74-F3-81-7A-38-5E-0D-03-00-74-EA-81-7A-38-60-0D-03-00-74-E1-81-7A-38-C0-27-09-00-74-D8-81-7A-38-C1-27-09-00-74-CF-81-7A-38-C2-27-09-00-74-C6-81-7A-38-C3-27-09-00-74-BD-EB-B6</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[06][Player] Infinite Health">
+        <Cheatline>
+            <Offset>03E4C488</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-23-B8-CF-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[07a][Player] Speed x1">
+        <Cheatline>
+            <Offset>0B3CFC50</Offset>
+            <Section>0</Section>
+            <ValueOn>4D-85-ED-74-1B-48-31-C0-B0-04-41-83-7C-05-00-02-75-0E-04-10-3C-74-75-F2-B8-00-00-80-3F-89-43-20-C5-FA-59-43-20-E9-27-27-6E-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[07b][Player] Speed x3">
+        <Cheatline>
+            <Offset>0B3CFC50</Offset>
+            <Section>0</Section>
+            <ValueOn>4D-85-ED-74-1B-48-31-C0-B0-04-41-83-7C-05-00-02-75-0E-04-10-3C-74-75-F2-B8-00-00-40-40-89-43-20-C5-FA-59-43-20-E9-27-27-6E-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[08][Player] Infinite Body Armour">
+        <Cheatline>
+            <Offset>026EA939</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>45-89-67-30</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[09a][Player] Size x0.5">
+        <Cheatline>
+            <Offset>0B3CFD00</Offset>
+            <Section>0</Section>
+            <ValueOn>83-7B-08-03-74-0A-C5-FA-10-6B-50-E9-73-AC-FD-FA-C7-43-50-00-00-00-3F-C7-43-54-00-00-00-3F-C7-43-58-00-00-00-3F-EB-DF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[09b][Player] Size x1">
+        <Cheatline>
+            <Offset>0B3CFD00</Offset>
+            <Section>0</Section>
+            <ValueOn>83-7B-08-03-74-0A-C5-FA-10-6B-50-E9-73-AC-FD-FA-C7-43-50-00-00-80-3F-C7-43-54-00-00-80-3F-C7-43-58-00-00-80-3F-EB-DF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[09c][Player] Size x2">
+        <Cheatline>
+            <Offset>0B3CFD00</Offset>
+            <Section>0</Section>
+            <ValueOn>83-7B-08-03-74-0A-C5-FA-10-6B-50-E9-73-AC-FD-FA-C7-43-50-00-00-00-40-C7-43-54-00-00-00-40-C7-43-58-00-00-00-40-EB-DF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[10][Weapon] 1 Hit Kill [-Krauser]">
+        <Cheatline>
+            <Offset>0B3CFE00</Offset>
+            <Section>0</Section>
+            <ValueOn>41-83-7C-24-54-02-74-15-41-C6-86-CD-00-00-00-01-41-80-BE-CD-00-00-00-00-E9-FA-82-77-F8-49-8B-7C-24-50-81-7F-38-4B-0D-03-00-74-E5-81-7F-38-A0-86-01-00-74-DC-81-7F-38-60-0D-03-00-74-D3-81-7F-38-5E-0D-03-00-74-CA-81-7F-38-C0-27-09-00-72-B9-81-7F-38-C3-27-09-00-77-B0-EB-B6</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[11][Weapon] Luis Has A Rocket Launcher">
+        <Cheatline>
+            <Offset>0B3CFA80</Offset>
+            <Section>0</Section>
+            <ValueOn>41-81-7F-28-80-B4-61-10-74-0D-45-89-67-30-48-83-C4-08-E9-AA-AE-31-F7-41-C7-47-28-80-AD-77-10-EB-E9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[12][Weapon] Infinite Ammo">
+        <Cheatline>
+            <Offset>0B3CF9D0</Offset>
+            <Section>0</Section>
+            <ValueOn>81-7C-24-C8-FF-00-00-00-77-04-8B-44-24-C8-41-89-44-24-44-E9-81-3F-C6-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[13][Weapon] Grenades: No Decrement">
+        <Cheatline>
+            <Offset>05325505</Offset>
+            <Section>0</Section>
+            <ValueOn>FF-C0-90</ValueOn>
+            <ValueOff>0F-4C-C2</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[14][Weapon] Knife: Infinite Durability">
+        <Cheatline>
+            <Offset>9FC330</Offset>
+            <Section>0</Section>
+            <ValueOn>C3-90-90-90-90</ValueOn>
+            <ValueOff>B8-00-3F-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[15][Weapon] Infinite Ammo + Grenades (Instead Of [12] and [13])">
+        <Cheatline>
+            <Offset>9FC320</Offset>
+            <Section>0</Section>
+            <ValueOn>C3-90-90-90-90-90-90</ValueOn>
+            <ValueOff>48-8B-B6-A0-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[16][Weapon] Rapid Fire">
+        <Cheatline>
+            <Offset>0B3CF9F0</Offset>
+            <Section>0</Section>
+            <ValueOn>83-7B-38-05-75-07-C7-43-20-00-00-00-41-C5-FA-59-43-20-E9-DA-2B-6E-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[17][Weapon] Anti-Aircraft Gun: Infinite Ammo">
+        <Cheatline>
+            <Offset>0B3CFA20</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-9A-02-00-00-89-8B-80-03-00-00-E9-03-14-60-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[18][Weapon] Cannon: No Reload">
+        <Cheatline>
+            <Offset>7FC5E1D0</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-57-C0-C5-FA-11-80-0C-01-00-00-E9-E9-1D-F9-83</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[19][Weapon] Rocket Launcher (Saddler One) Can Be Stored">
+        <Cheatline>
+            <Offset>04108734</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-C6-04-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[20][Vehicle] Boat: Infinite Durability">
+        <Cheatline>
+            <Offset>024001CF</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>41-89-8C-24-88-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[21][Vehicle] Wagon: Infinite Durability">
+        <Cheatline>
+            <Offset>04F428DC</Offset>
+            <Section>0</Section>
+            <ValueOn>EB-08</ValueOn>
+            <ValueOff>74-08</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[22][Vehicle] Crane: Infinite Durability">
+        <Cheatline>
+            <Offset>01DEA332</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-86-94-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[23][Vehicle] Water Scooter: Infinite Durability">
+        <Cheatline>
+            <Offset>049A82F0</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[24][Interaction] Bear Traps Don`t Work">
+        <Cheatline>
+            <Offset>058DB3E2</Offset>
+            <Section>0</Section>
+            <ValueOn>EB-1A</ValueOn>
+            <ValueOff>75-1A</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[25][Interaction] `Hold X` Doors/Stairs Open Instantly">
+        <Cheatline>
+            <Offset>7FC5E280</Offset>
+            <Section>0</Section>
+            <ValueOn>48-83-F9-05-75-0A-C5-FA-11-40-10-E9-A1-9A-50-86-C7-40-10-00-00-80-3F-C5-FA-10-40-10-EB-ED</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[26][Interaction] `Hold X` Doors/Stairs Stay Open">
+        <Cheatline>
+            <Offset>06168066</Offset>
+            <Section>0</Section>
+            <ValueOn>EB-48</ValueOn>
+            <ValueOff>74-48</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[27][Interaction] Puzzles: No Need To Solve Them">
+        <Cheatline>
+            <Offset>01ED555B</Offset>
+            <Section>0</Section>
+            <ValueOn>EB-2E</ValueOn>
+            <ValueOff>77-26</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[28][Interaction] Puzzles: Paths Are Marked Stronger">
+        <Cheatline>
+            <Offset>02AAF2F0</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-5A-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[29][Interaction] Open Big Door In Chapter 2 Without Item">
+        <Cheatline>
+            <Offset>030E0E30</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[30][Interaction-DANGEROUS!] Open Some Locked/Item Doors">
+        <Cheatline>
+            <Offset>BB5F20</Offset>
+            <Section>0</Section>
+            <ValueOn>C3-90-90-90</ValueOn>
+            <ValueOff>48-8B-76-10</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[31][Ashley] Knights Forever Frozen (L2) [Ashley]">
+        <Cheatline>
+            <Offset>051D95E8</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-80-F0-02-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[32][Item] Infinite Treasures + Small Keys/Tokens">
+        <Cheatline>
+            <Offset>7FC5E130</Offset>
+            <Section>0</Section>
+            <ValueOn>81-7B-28-00-88-1B-07-74-2E-81-7B-28-80-2A-1C-07-74-25-81-7B-28-C0-30-1C-07-74-1C-81-7B-28-00-37-1C-07-77-0B-8B-43-34-48-85-C9-E9-25-C9-A8-82-66-81-7B-2A-40-07-73-ED-B8-9A-02-00-00-89-43-34-EB-E6-90</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[33][Item] Most Keys Stay When Used (-Blue Dial)">
+        <Cheatline>
+            <Offset>0B3CF918</Offset>
+            <Section>0</Section>
+            <ValueOn>81-78-28-40-24-1C-07-0F-85-F7-DB-0D-F7-E9-57-DC-0D-F7-90-90</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[34][Item] Infinite Spinels (Go To Trade)">
+        <Cheatline>
+            <Offset>0B3CFAD0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-41-20-9A-02-00-00-48-8B-40-58-8B-49-20-E9-EC-35-1F-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[35][Item] Infinite Pesetas">
+        <Cheatline>
+            <Offset>0B3CFAF0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-89-44-24-10-80-7D-CF-00-74-09-41-C7-44-24-10-AA-40-F9-03-E9-03-FB-D8-F6</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[36][Item] Infinite Completion Points (CP)">
+        <Cheatline>
+            <Offset>0B3CFB20</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-2A-2C-0A-00-89-83-A0-00-00-00-E9-F5-D0-EC-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[37][Total Play Time] Reset to Zero And Stopped">
+        <Cheatline>
+            <Offset>7FC5E3B0</Offset>
+            <Section>0</Section>
+            <ValueOn>48-C7-42-18-00-00-00-00-80-79-10-00-E9-E0-66-F6-84</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[38][In-Game Timer] Stopped">
+        <Cheatline>
+            <Offset>7FC5E3D0</Offset>
+            <Section>0</Section>
+            <ValueOn>48-C7-C1-01-00-00-00-E9-29-67-F6-84</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[39][Total Results] Rank S+ / Time 00:00:00">
+        <Cheatline>
+            <Offset>01AA82E8</Offset>
+            <Section>0</Section>
+            <ValueOn>EB-6F-90</ValueOn>
+            <ValueOff>8B-40-14</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[40][Total Results] Saves = 0">
+        <Cheatline>
+            <Offset>7FC5E220</Offset>
+            <Section>0</Section>
+            <ValueOn>31-FF-31-C0-89-7E-14-89-7A-14-C3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[41][Saving] Times Saved: 0 (After Saving)">
+        <Cheatline>
+            <Offset>0B3CFD5A</Offset>
+            <Section>0</Section>
+            <ValueOn>41-BC-00-00-00-00-44-89-63-4C-48-8B-01-E9-50-40-81-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[42a][Saving] Change Difficulty: Assisted">
+        <Cheatline>
+            <Offset>0B3CFE60</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-0A-00-00-00-89-50-28-E8-E3-A5-35-F7-E9-D3-CB-35-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[42b][Saving] Change Difficulty: Standard">
+        <Cheatline>
+            <Offset>0B3CFE60</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-14-00-00-00-89-50-28-E8-E3-A5-35-F7-E9-D3-CB-35-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[42c][Saving] Change Difficulty: Hardcore">
+        <Cheatline>
+            <Offset>0B3CFE60</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-1E-00-00-00-89-50-28-E8-E3-A5-35-F7-E9-D3-CB-35-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[42d][Saving] Change Difficulty: Professional">
+        <Cheatline>
+            <Offset>0B3CFE60</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-28-00-00-00-89-50-28-E8-E3-A5-35-F7-E9-D3-CB-35-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[43][End Of Chapter] Chapter Play Time = 0">
+        <Cheatline>
+            <Offset>7FC5E350</Offset>
+            <Section>0</Section>
+            <ValueOn>48-31-C0-48-89-C1-48-89-42-18-48-89-46-18-C3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[44][End Of Chapter] Enemies Killed = 666">
+        <Cheatline>
+            <Offset>0B3CFED8</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-9A-02-00-00-89-42-14-39-C1-0F-4F-C8-E9-34-0D-E1-F5</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[45][End Of Chapter] Deaths = 0">
+        <Cheatline>
+            <Offset>7FC5E370</Offset>
+            <Section>0</Section>
+            <ValueOn>48-31-C0-48-89-C1-48-89-42-14-48-89-46-14-C3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[46][End Of Chapter] Accuracy = 100 Per Cent">
+        <Cheatline>
+            <Offset>0B3CFEF0</Offset>
+            <Section>0</Section>
+            <ValueOn>31-C0-89-42-14-39-C1-0F-4F-C8-E9-7F-32-81-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[47][End Of Chapter] Times Damaged = 0">
+        <Cheatline>
+            <Offset>7FC5E390</Offset>
+            <Section>0</Section>
+            <ValueOn>48-31-C0-48-89-C1-48-89-42-14-48-89-46-14-C3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[48][Target Practice] Timer Frozen">
+        <Cheatline>
+            <Offset>0B3CFB40</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-9C-01-00-00-00-50-D0-45-C4-C1-7A-10-86-9C-01-00-00-0F-57-D2-E9-81-B1-1A-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[49][Target Practice] All Pirates Killed">
+        <Cheatline>
+            <Offset>0B3CFB60</Offset>
+            <Section>0</Section>
+            <ValueOn>44-8B-98-AC-01-00-00-44-89-98-A8-01-00-00-E9-08-F3-1A-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[50][Target Practice] All Skulls Killed">
+        <Cheatline>
+            <Offset>0B3CFB80</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-B0-DC-01-00-00-89-B0-D8-01-00-00-E9-3C-F6-1A-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[51][Target Practice] +Points">
+        <Cheatline>
+            <Offset>0B3CFBA0</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-2A-2C-0A-00-89-81-DC-00-00-00-E9-FD-EE-1A-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[52][Mercs] Timer Frozen">
+        <Cheatline>
+            <Offset>0B3CFBC0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-47-18-00-E0-77-45-C4-C1-7A-10-47-18-E9-35-9B-0C-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[53][Mercs] Combo Timer Frozen">
+        <Cheatline>
+            <Offset>033B4BFC</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-4F-24</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[54][Mercs] 666 Combos">
+        <Cheatline>
+            <Offset>0B3CFBE0</Offset>
+            <Section>0</Section>
+            <ValueOn>81-F9-9A-02-00-00-0F-83-58-50-FE-F7-B9-9A-02-00-00-E9-4E-50-FE-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[55][Mercs] Mayhem Turbo Loading">
+        <Cheatline>
+            <Offset>0B3CFC10</Offset>
+            <Section>0</Section>
+            <ValueOn>52-8B-50-34-89-50-14-5A-C5-FA-2A-40-14-E9-AC-E8-5B-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[56][Mercs] Mayhem Yellow Bar Frozen">
+        <Cheatline>
+            <Offset>02CF7285</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-47-20</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[57][Mercs] Just 1 Kill = S++ (If [52] ON)">
+        <Cheatline>
+            <Offset>0B3CFC30</Offset>
+            <Section>0</Section>
+            <ValueOn>81-BB-08-01-00-00-0A-1A-00-00-73-05-B8-9A-02-00-00-89-83-08-01-00-00-E9-88-B6-5B-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[58][NME] Ganados Move Less - Cheat [59] Must Be OFF">
+        <Cheatline>
+            <Offset>0417DD0D</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-40-20-00-00-00-00</ValueOn>
+            <ValueOff>C7-40-20-00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[59a][NME] Speed x0.2">
+        <Cheatline>
+            <Offset>0B3CFC80</Offset>
+            <Section>0</Section>
+            <ValueOn>4D-85-ED-74-07-41-83-7D-14-02-74-0A-C5-FA-11-43-1C-E9-06-27-6E-FB-48-31-C0-B0-04-41-83-7C-05-00-02-75-08-04-10-3C-74-75-F2-EB-E1-C5-FA-11-43-1C-B8-CD-CC-4C-3E-89-43-20-C5-FA-59-43-20-E9-DF-26-6E-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[59b][NME] Speed x0.5">
+        <Cheatline>
+            <Offset>0B3CFC80</Offset>
+            <Section>0</Section>
+            <ValueOn>4D-85-ED-74-07-41-83-7D-14-02-74-0A-C5-FA-11-43-1C-E9-06-27-6E-FB-48-31-C0-B0-04-41-83-7C-05-00-02-75-08-04-10-3C-74-75-F2-EB-E1-C5-FA-11-43-1C-B8-00-00-00-3F-89-43-20-C5-FA-59-43-20-E9-DF-26-6E-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[59c][NME] Speed x1">
+        <Cheatline>
+            <Offset>0B3CFC80</Offset>
+            <Section>0</Section>
+            <ValueOn>4D-85-ED-74-07-41-83-7D-14-02-74-0A-C5-FA-11-43-1C-E9-06-27-6E-FB-48-31-C0-B0-04-41-83-7C-05-00-02-75-08-04-10-3C-74-75-F2-EB-E1-C5-FA-11-43-1C-B8-00-00-80-3F-89-43-20-C5-FA-59-43-20-E9-DF-26-6E-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[60a][NME] Size x0.5">
+        <Cheatline>
+            <Offset>0B3CFD30</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-73-4C-83-7B-08-03-0F-86-0B-AC-FD-FA-C7-43-50-00-00-00-3F-C7-43-54-00-00-00-3F-C7-43-58-00-00-00-3F-E9-F1-AB-FD-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[60b][NME] Size x1">
+        <Cheatline>
+            <Offset>0B3CFD30</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-73-4C-83-7B-08-03-0F-86-0B-AC-FD-FA-C7-43-50-00-00-80-3F-C7-43-54-00-00-80-3F-C7-43-58-00-00-80-3F-E9-F1-AB-FD-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[60c][NME] Size x2">
+        <Cheatline>
+            <Offset>0B3CFD30</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-73-4C-83-7B-08-03-0F-86-0B-AC-FD-FA-C7-43-50-00-00-00-40-C7-43-54-00-00-00-40-C7-43-58-00-00-00-40-E9-F1-AB-FD-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>
