@@ -1,0 +1,44 @@
+{
+  "name": "Minecraft",
+  "id": "CUSA00744",
+  "version": "02.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "[Bypass signin with PSN] Microsoft welcome!",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D137F0",
+          "on": "7408",
+          "off": "7508"
+        }
+      ]
+    },
+    {
+      "name": "[Change Skin Unlocked!]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D6038D",
+          "on": "751B",
+          "off": "741B"
+        }
+      ]
+    },
+    {
+      "name": "[Show Dev Tags]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2D44FC5",
+          "on": "0F85AC010000",
+          "off": "0F84AC010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "NELUxP MoDz"
+  ]
+}
