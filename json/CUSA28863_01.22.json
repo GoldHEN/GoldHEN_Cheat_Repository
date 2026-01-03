@@ -1,0 +1,1002 @@
+{
+  "name": "Elden Ring - Shadow of the Erdtree",
+  "id": "CUSA28863",
+  "version": "01.22",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "TRAINER INFO (read only)",
+      "description": "This trainer has been partially tested on version 01.22 and seem to work fine. Please let me know if there is any issue. Be sure to read the comment on each individual cheat, if a comment is available. Trainer was made on CUSA18723 but it's multiCUSA compatible and should work on all CUSAs version 01.22 and partially on older and future versions of the game. Enjoy! :)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34F2FFF",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Master Code (Must be enabled first + all the time)",
+      "description": "All cheats which start with -- prefix depend on this Master Code.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34F3000",
+          "on": "4C890DF90E0F01C5FA114DFCE9C1A5AAFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "F9D5CD",
+          "on": "E92E5A5502",
+          "off": "C5FA114DFC"
+        },
+        {
+          "offset": "34F3031",
+          "on": "488B809001000053488B1848891DC50E0F015BE97409C4FD",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "11339B6",
+          "on": "E976F63B029090",
+          "off": "488B8090010000"
+        },
+        {
+          "offset": "34F3069",
+          "on": "498B8790010000488B00488905960E0F01E959791CFE",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16BA9CE",
+          "on": "E99686E3019090909090",
+          "off": "498B8790010000488B00"
+        },
+        {
+          "offset": "45E3F18",
+          "on": "0000",
+          "off": "0000"
+        },
+        {
+          "offset": "45E3F1A",
+          "on": "0000",
+          "off": "0000"
+        },
+        {
+          "offset": "45E3F1C",
+          "on": "0000",
+          "off": "0000"
+        },
+        {
+          "offset": "34F309F",
+          "on": "483B3D6A0E0F01741D483B3D590E0F0174244883FA00742E66833D5D0E0F0100742431F6EB2066833D4B0E0F010074168BB74C01000066833D3D0E0F010074068BB74C01000089B748010000E9209A94FD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E3CB0A",
+          "on": "E990656B0290",
+          "off": "89B748010000"
+        },
+        {
+          "offset": "45E3F20",
+          "on": "0000000000000000",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "45E3F28",
+          "on": "0000000000000000",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "45E3F30",
+          "on": "0000000000000000",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "34F3110",
+          "on": "75338B05080E0F0183F8007E068987540100008B05FF0D0F0183F8007E068987600100008B05F60D0F0183F8007E0689876C0100008B8754010000C3",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E3B260",
+          "on": "E9AB7E6B0290",
+          "off": "8B8754010000"
+        },
+        {
+          "offset": "45E3F38",
+          "on": "0000000000000000",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "45E3F40",
+          "on": "0000000000000000",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "45E3F48",
+          "on": "0000000000000000",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "45E3F50",
+          "on": "0000000000000000",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "45E3F58",
+          "on": "0000000000000000",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "45E3F60",
+          "on": "0000000000000000",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "45E3F68",
+          "on": "0000000000000000",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "45E3F70",
+          "on": "0000000000000000",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "45E3F78",
+          "on": "0000000000000000",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "45E3F80",
+          "on": "0000000000000000",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "34F316C",
+          "on": "8B05D60D0F0185C07E0389433C8B05D10D0F0185C07E038943408B05CC0D0F0185C07E038943448B05C70D0F0185C07E038943488B05C20D0F0185C07E0389434C8B05BD0D0F0185C07E038943508B05B80D0F0185C07E038943548B05B30D0F0185C07E038943588B055E0D0F0185C07E038943688B05590D0F0185C07E0389436C4189876C010000E90CD51DFE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16D06FC",
+          "on": "E96B2AE2019090909090",
+          "off": "8B433C4189876C010000"
+        },
+        {
+          "offset": "34F321A",
+          "on": "488905670D0F0180B8B017000000E97771A2FD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "34F324D",
+          "on": "80B9B01700000048890D350D0F01E92278A2FD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "45E3F98",
+          "on": "0000803F",
+          "off": "0000803F"
+        },
+        {
+          "offset": "45E3F9C",
+          "on": "0000803F",
+          "off": "0000803F"
+        },
+        {
+          "offset": "45E3FA0",
+          "on": "0000803F",
+          "off": "0000803F"
+        },
+        {
+          "offset": "45E3FA4",
+          "on": "0000803F",
+          "off": "0000803F"
+        },
+        {
+          "offset": "34F3280",
+          "on": "50488B05000D0F014939C67425488B05FC0C0F014939C67421833D040D0F010075088B05FC0C0F01EB188B05F00C0F01EB108B05E00C0F01EB088B05DC0C0F01EB0041898608180000C4C17A59860818000058E90F0492FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F1A39D",
+          "on": "E9788E5D029090",
+          "off": "80B8B017000000"
+        },
+        {
+          "offset": "F1AA7B",
+          "on": "E9CD875D029090",
+          "off": "80B9B017000000"
+        },
+        {
+          "offset": "E136DE",
+          "on": "E99DFB6D0290909090",
+          "off": "C4C17A598608180000"
+        },
+        {
+          "offset": "45E3FC4",
+          "on": "00004041",
+          "off": "00004041"
+        },
+        {
+          "offset": "34F35DB",
+          "on": "8B0DE3090F0141898F04010000E92E7A13FE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "162B014",
+          "on": "E9C285EC019090",
+          "off": "41898F04010000"
+        }
+      ]
+    },
+    {
+      "name": "--Infinite_HP",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F18",
+          "on": "0100",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "--Infinite_Horse_HP",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F1A",
+          "on": "0100",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "--One_Hit_Kill",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F1C",
+          "on": "0100",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "--Max FP",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F28",
+          "on": "E703000000000000",
+          "off": "0000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "--Max HP",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F20",
+          "on": "0F27000000000000",
+          "off": "0000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "--Max Stamina",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F30",
+          "on": "E703000000000000",
+          "off": "0000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "--Arcane 99",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F80",
+          "on": "6300000000000000",
+          "off": "0000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "--Dexterity 99",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F68",
+          "on": "6300000000000000",
+          "off": "0000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "--Endurance 99",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F58",
+          "on": "6300000000000000",
+          "off": "0000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "--Faith 99",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F78",
+          "on": "6300000000000000",
+          "off": "0000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "--Intelligence 99",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F70",
+          "on": "6300000000000000",
+          "off": "0000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "--Level 99",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F38",
+          "on": "6300000000000000",
+          "off": "0000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "--Mind 99",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F50",
+          "on": "6300000000000000",
+          "off": "0000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "--Runes 99999999",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F40",
+          "on": "FFE0F50500000000",
+          "off": "0000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "--Strength 99",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F60",
+          "on": "6300000000000000",
+          "off": "0000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "--Vigor 99",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F48",
+          "on": "6300000000000000",
+          "off": "0000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "--Enemy Speed x0.5",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3FA0",
+          "on": "0000003F",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Enemy Speed x1",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3FA0",
+          "on": "0000803F",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Enemy Speed x2",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3FA0",
+          "on": "00000040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--FreezeEnemy",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3FA4",
+          "on": "00000000",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Horse Speed x1",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F9C",
+          "on": "0000803F",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Horse Speed x2",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F9C",
+          "on": "00000040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Horse Speed x3",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F9C",
+          "on": "00004040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Player Speed x1",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F98",
+          "on": "0000803F",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Player Speed x2",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F98",
+          "on": "00000040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Player Speed x3",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3F98",
+          "on": "00004040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Untouchable v01.22",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34F32F8",
+          "on": "50488B4708488B8090010000488B00483905020C0F01750258C3483905EF0B0F01587501C3554889E54157E95E5995FD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E48C80",
+          "on": "E973A66A0290",
+          "off": "554889E54157"
+        }
+      ]
+    },
+    {
+      "name": "No Effects v01.13-v01.22",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34F3348",
+          "on": "418B4500418945E44983C504E926518DFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "DC8477",
+          "on": "E9CCAE7202909090",
+          "off": "418945E44983C504"
+        }
+      ]
+    },
+    {
+      "name": "100%% Loot Drop-Rate",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34F3379",
+          "on": "4C3B0D800B0F01751053BB00007A43660F6EC35BE94D9CC5FDC5FA10448818E9429CC5FD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "114CFD9",
+          "on": "E99B633A0290",
+          "off": "C5FA10448818"
+        }
+      ]
+    },
+    {
+      "name": "Infinite FP",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34F33BD",
+          "on": "4983FB007507418B855C01000041898558010000E918D094FD",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E403E7",
+          "on": "E9D12F6B029090",
+          "off": "41898558010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34F33F6",
+          "on": "4983FB007507418B856801000041898564010000E910D494FD",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E40818",
+          "on": "E9D92B6B029090",
+          "off": "41898564010000"
+        }
+      ]
+    },
+    {
+      "name": "Pause By Controller",
+      "description": "Pause Game: Press Options + Dpad Right UnPause Game: Press Options + Dpad Left Note: Some background elements like flowers and sounds may still play but the game will be paused.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34F342F",
+          "on": "8A83F808000051418B0E890D690B0F0159E9743D60FF",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "34F3465",
+          "on": "833D3C0B0F0128750CC705340B0F0101000000EB18813D240B0F0188000000750CC7051C0B0F0100000000EB00833D130B0F0100740D4180BD5803000002E983A41AFE4180BD5803000000E976A41AFE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2AF71B3",
+          "on": "E977C29F0090",
+          "off": "8A83F8080000"
+        },
+        {
+          "offset": "169D923",
+          "on": "E93D5BE501909090",
+          "off": "4180BD5803000000"
+        }
+      ]
+    },
+    {
+      "name": "Player No Dead v01.22",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E3CD8B",
+          "on": "90909090909090",
+          "off": "803DD6CAF20200"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34F34D5",
+          "on": "C683D20100000150488D83D2010000488905C50A0F0158E91A1291FD",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "45E3FB8",
+          "on": "0000803F",
+          "off": "0000803F"
+        },
+        {
+          "offset": "45E3FBC",
+          "on": "0000803F",
+          "off": "0000803F"
+        },
+        {
+          "offset": "45E3FC0",
+          "on": "00004040",
+          "off": "00004040"
+        },
+        {
+          "offset": "34F3511",
+          "on": "48833D970A0F0100746351488B0D8D0A0F0180390159755583BD04FCFFFF007F14D98504FCFFFFD835820A0F01D99D04FCFFFFEB38D98500FCFFFFD80D660A0F01D99D00FCFFFFD98508FCFFFFD80D540A0F01D99D08FCFFFFD98504FCFFFFD80D460A0F01D99D04FCFFFFEB00C5F8108D00FCFFFFE95EC0F3FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E04704",
+          "on": "E9CCED6E029090",
+          "off": "80B8D101000000"
+        },
+        {
+          "offset": "242F5E1",
+          "on": "E92B3F0C01909090",
+          "off": "C5F8108D00FCFFFF"
+        }
+      ]
+    },
+    {
+      "name": "--Jump Distance x1",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3FB8",
+          "on": "0000803F",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Jump Distance x2",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3FB8",
+          "on": "00000040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Jump Distance x5",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3FB8",
+          "on": "0000A040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Jump Distance x10",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3FB8",
+          "on": "00002041",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Jump Height x1",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3FBC",
+          "on": "0000803F",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Jump Height x2",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3FBC",
+          "on": "00000040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Jump Height x5",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3FBC",
+          "on": "0000A040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Jump Height x10",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3FBC",
+          "on": "00002041",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Unlimited Jumps",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E04704",
+          "on": "90909090909090",
+          "off": "80B8D101000000"
+        }
+      ]
+    },
+    {
+      "name": "Stealth Mode",
+      "description": "Enemies will be able to see you if and when you attack them.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CECEF5",
+          "on": "80BFBA00000001",
+          "off": "80BFBA00000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Runes",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1268B39",
+          "on": "31C990",
+          "off": "4129C8"
+        }
+      ]
+    },
+    {
+      "name": "Runes Retained On Death",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FF2C33",
+          "on": "9090909090909090",
+          "off": "41C7466C00000000"
+        }
+      ]
+    },
+    {
+      "name": "Max+Inf Items on Get+Use v01.17-v01.22",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B547E0",
+          "on": "4189C690",
+          "off": "440F42F0"
+        }
+      ]
+    },
+    {
+      "name": "PlayerExterminate (OHK) v01.17-v01.22",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E4BAB8",
+          "on": "0F94C0",
+          "off": "0F95C0"
+        }
+      ]
+    },
+    {
+      "name": "Enemies Dont Attack v01.22",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C271CE",
+          "on": "90909090909090",
+          "off": "803DA026140300"
+        },
+        {
+          "offset": "DA3516",
+          "on": "90909090909090",
+          "off": "803D5863FC0200"
+        }
+      ]
+    },
+    {
+      "name": "Ignore Crafting Item Requirement",
+      "description": "Thanks to fullcodes for originally finding this ported to 1.09 by Rizla.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1269A0C",
+          "on": "90909090",
+          "off": "440F4FE0"
+        }
+      ]
+    },
+    {
+      "name": "Ignore Smithing Item Requirement",
+      "description": "Thanks to fullcodes for originally finding this ported to 1.09 by Rizla.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12A6950",
+          "on": "4C39C390",
+          "off": "443B430C"
+        }
+      ]
+    },
+    {
+      "name": "Quick Buy+Sell Shop Items",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1237D55",
+          "on": "41899424B8010000",
+          "off": "41898424B8010000"
+        }
+      ]
+    },
+    {
+      "name": "No Overloaded Weight Slowdown",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34F35AB",
+          "on": "B80100000089818C010000E9C90CC0FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "10F427E",
+          "on": "E928F33F0290",
+          "off": "89818C010000"
+        }
+      ]
+    },
+    {
+      "name": "--Hour: 0",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3FC4",
+          "on": "00000000",
+          "off": "00004041"
+        }
+      ]
+    },
+    {
+      "name": "--Hour: 6",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3FC4",
+          "on": "0000C040",
+          "off": "00004041"
+        }
+      ]
+    },
+    {
+      "name": "--Hour: 12",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3FC4",
+          "on": "00004041",
+          "off": "00004041"
+        }
+      ]
+    },
+    {
+      "name": "--Hour: 18",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "45E3FC4",
+          "on": "00009041",
+          "off": "00004041"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Pharaoh2k",
+    "Rizla",
+    "Fullcodes",
+    "hrdcrd"
+  ]
+}
