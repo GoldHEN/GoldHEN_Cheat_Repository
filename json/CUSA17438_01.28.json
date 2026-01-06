@@ -27,6 +27,7 @@
       ]
     },
     {
+      "name": "Unknown",
       "type": "checkbox",
       "memory": [
         {

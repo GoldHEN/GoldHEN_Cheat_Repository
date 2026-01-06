@@ -1,25 +1,131 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA10873" Game="Harvest Moon: Light of Hope" Moder="Molly" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Genres Name="Simulation"/>
-<Items/>
-<Cheat Text="High Money">
-</Cheat>
-<Cheat Text="Have All Items">
-</Cheat>
-<Cheat Text="Unlimited Life Points/Stamina Points">
-</Cheat>
-<Cheat Text="Change Weather To Sunny">
-</Cheat>
-<Cheat Text="Change Weather To Cloudy">
-</Cheat>
-<Cheat Text="Change Weather To Rain">
-</Cheat>
-<Cheat Text="Change Weather To Snow">
-</Cheat>
-<Cheat Text="Change Weather To ">Rain Storm""&gt;
-    
-
-</Cheat>
-<Cheat Text="Change Weather To Blizzard">
-</Cheat>
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Game="Harvest Moon: Light of Hope" Moder="Molly" Cusa="CUSA10873" Version="01.01" Process="eboot.bin">
+  <Genres Name="Simulation" />
+  <Items />
+  <Cheat Text="High Money">
+    <Cheatline>
+      <Offset>1537800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-39-CC-B9-FF-E0-F5-05-41-89-4D-18-E9-14-A4-A7-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FFB1C1E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DD-5B-58-81-90-90</ValueOn>
+      <ValueOff>41-39-CC-41-89-4D-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Have All Items">
+    <Cheatline>
+      <Offset>1537836</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-04-99-63-00-00-00-83-3C-99-00-C7-84-99-C8-03-00-00-63-00-00-00-83-BC-99-C8-03-00-00-00-C7-84-99-14-0D-00-00-63-00-00-00-83-BC-99-14-0D-00-00-00-E9-08-BC-9B-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FEF346F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C2-43-64-81</ValueOn>
+      <ValueOff>83-7C-99-20-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlimited Life Points/Stamina Points">
+    <Cheatline>
+      <Offset>153786C</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-49-C8-B9-10-27-00-00-41-89-4F-14-E9-27-D1-A8-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FFC499D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CA-2E-57-81-90-90</ValueOn>
+      <ValueOff>0F-49-C8-41-89-4F-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Change Weather To Sunny">
+    <Cheatline>
+      <Offset>1537800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-87-A0-00-00-00-41-C7-46-18-00-00-00-00-41-8B-56-18-E9-C8-33-B8-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>800BABD5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-26-CC-47-81-90-90-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-87-A0-00-00-00-41-8B-56-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Change Weather To Cloudy">
+    <Cheatline>
+      <Offset>1537800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-87-A0-00-00-00-41-C7-46-18-01-00-00-00-41-8B-56-18-E9-C8-33-B8-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>800BABD5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-26-CC-47-81-90-90-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-87-A0-00-00-00-41-8B-56-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Change Weather To Rain">
+    <Cheatline>
+      <Offset>1537800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-87-A0-00-00-00-41-C7-46-18-02-00-00-00-41-8B-56-18-E9-C8-33-B8-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>800BABD5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-26-CC-47-81-90-90-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-87-A0-00-00-00-41-8B-56-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Change Weather To Snow">
+    <Cheatline>
+      <Offset>1537800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-87-A0-00-00-00-41-C7-46-18-03-00-00-00-41-8B-56-18-E9-C8-33-B8-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>800BABD5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-26-CC-47-81-90-90-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-87-A0-00-00-00-41-8B-56-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Change Weather To Rain Storm">
+    <Cheatline>
+      <Offset>1537800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-87-A0-00-00-00-41-C7-46-18-04-00-00-00-41-8B-56-18-E9-C8-33-B8-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>800BABD5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-26-CC-47-81-90-90-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-87-A0-00-00-00-41-8B-56-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Change Weather To Blizzard">
+    <Cheatline>
+      <Offset>1537800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-87-A0-00-00-00-41-C7-46-18-05-00-00-00-41-8B-56-18-E9-C8-33-B8-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>800BABD5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-26-CC-47-81-90-90-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-87-A0-00-00-00-41-8B-56-18</ValueOff>
+    </Cheatline>
+  </Cheat>
 </Trainer>

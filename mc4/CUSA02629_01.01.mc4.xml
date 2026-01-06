@@ -1,83 +1,281 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA02629" Game="Disgaea 5" Moder="Molly" Process="eboot.bin" Version="01.01" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Genres Name="RPG"/>
-<Items/>
-<Cheat Text="Max Money ~After Buy~">
-
-
-</Cheat>
-<Cheat Text="Max Mana ~Use Skill Shop~">
-
-
-</Cheat>
-<Cheat Text="Quick Level Up">
-
-
-</Cheat>
-<Cheat Text="Quickly Gain Item Bonus">
-
-
-</Cheat>
-<Cheat Text="Quickly Level Up Skill Power SS + ">On Enhance""&gt;
-
-    
-
-</Cheat>
-<Cheat Text="Hospital Max HP/SP ">After Heal""&gt;
-
-    
-
-</Cheat>
-<Cheat Text="Hospital Max Revive ~After Gain~">
-
-
-</Cheat>
-<Cheat Text="Quickly Gain Customer Rank">
-
-
-</Cheat>
-<Cheat Text="Max Character Creation ~Add Points To Stats Points Will Show 0~">
-
-
-
-
-
-
-</Cheat>
-<Cheat Text="Change Game Timer to 0">
-
-
-</Cheat>
-<Cheat Text="Interrogation Room ~Int. Left Max~">
-
-
-</Cheat>
-<Cheat Text="Item World Add 100 Levels ~Do Not Enable With Other Levels~">
-
-
-</Cheat>
-<Cheat Text="Item World Add 1000 Levels ~Do Not Enable With Other Levels~">
-
-
-</Cheat>
-<Cheat Text="Item World Add 10,000 Levels ~Do Not Enable With Other Levels~">
-
-
-</Cheat>
-<Cheat Text="Max Item World Exchange Points ">
-
-
-</Cheat>
-<Cheat Text="Quickly Gain Item World ~Prizes~">
-
-
-</Cheat>
-<Cheat Text="Quickly Level Up Squads">
-
-
-</Cheat>
-<Cheat Text="Max Weapon Stats ~Save After Enable Then Reload~">
-
-
-</Cheat>
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Game="Disgaea 5" Moder="Molly" Cusa="CUSA02629" Version="01.01" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Max Money ~After Buy~">
+    <Cheatline>
+      <Offset>587800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-B8-FF-7F-C6-A4-7E-8D-03-00-48-89-87-18-0A-00-00-E9-AB-AE-BB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1426BA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-41-51-44-00-90-90</ValueOn>
+      <ValueOff>48-89-87-18-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Mana ~Use Skill Shop~">
+    <Cheatline>
+      <Offset>587816</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-7F-96-98-00-89-81-F8-2D-00-00-E9-D2-C9-E3-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3C41F2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1F-36-1C-00-90</ValueOn>
+      <ValueOff>89-81-F8-2D-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quick Level Up">
+    <Cheatline>
+      <Offset>587826</Offset>
+      <Section>0</Section>
+      <ValueOn>48-0F-4F-D8-48-81-C3-FF-C9-9A-3B-49-89-5E-08-E9-89-0E-AA-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>286BB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-66-F1-55-00-90-90-90</ValueOn>
+      <ValueOff>48-0F-4F-D8-49-89-5E-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quickly Gain Item Bonus">
+    <Cheatline>
+      <Offset>58783A</Offset>
+      <Section>0</Section>
+      <ValueOn>41-81-C7-40-02-00-00-44-89-7B-0C-E9-57-43-CD-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25BB99</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9C-BC-32-00-90-90-90</ValueOn>
+      <ValueOff>44-03-7B-0C-44-89-7B-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quickly Level Up Skill Power SS + On Enhance">
+    <Cheatline>
+      <Offset>58784A</Offset>
+      <Section>0</Section>
+      <ValueOn>48-0F-4D-C2-B0-0C-41-88-47-0A-E9-CE-C9-E3-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3C421F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-26-36-1C-00-90-90-90</ValueOn>
+      <ValueOff>48-0F-4D-C2-41-88-47-0A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Hospital Max HP/SP After Heal">
+    <Cheatline>
+      <Offset>587859</Offset>
+      <Section>0</Section>
+      <ValueOn>48-0F-42-C6-48-C7-C0-7F-96-98-00-48-89-47-38-48-C7-C0-3F-42-0F-00-48-89-47-40-E9-B0-89-DF-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>380220</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-34-76-20-00-90-90-90</ValueOn>
+      <ValueOff>48-0F-42-C6-48-89-47-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Hospital Max Revive ~After Gain~">
+    <Cheatline>
+      <Offset>587878</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-E7-03-00-00-41-89-86-68-A7-5A-00-E9-3E-B2-DF-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>382AC0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B3-4D-20-00-90-90</ValueOn>
+      <ValueOff>41-89-86-68-A7-5A-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quickly Gain Customer Rank">
+    <Cheatline>
+      <Offset>587889</Offset>
+      <Section>0</Section>
+      <ValueOn>49-81-C4-7F-96-98-00-4D-01-A7-20-0A-00-00-E9-46-6C-E1-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>39E4DB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A9-93-1E-00-90-90</ValueOn>
+      <ValueOff>4D-01-A7-20-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Character Creation ~Add Points To Stats Points Will Show 0~">
+    <Cheatline>
+      <Offset>58789C</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-FF-C9-9A-3B-89-8B-20-02-00-00-E9-7F-88-EF-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>480125</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-72-77-10-00-90</ValueOn>
+      <ValueOff>89-8B-20-02-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5878AC</Offset>
+      <Section>0</Section>
+      <ValueOn>01-D6-29-CE-BE-08-00-00-00-89-30-E9-7E-87-EF-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>480034</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-73-78-10-00-90</ValueOn>
+      <ValueOff>01-D6-29-CE-89-30</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5878BC</Offset>
+      <Section>0</Section>
+      <ValueOn>01-D6-29-CE-BE-00-00-00-00-89-30-E9-67-88-EF-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>48012D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8A-77-10-00-90</ValueOn>
+      <ValueOff>01-D6-29-CE-89-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Change Game Timer to 0">
+    <Cheatline>
+      <Offset>5878CC</Offset>
+      <Section>0</Section>
+      <ValueOn>FE-C2-B2-00-88-10-88-50-01-88-50-02-88-50-03-88-50-04-E9-B1-A8-BB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14218F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-38-57-44-00</ValueOn>
+      <ValueOff>FE-C2-88-50-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Interrogation Room ~Int. Left Max~">
+    <Cheatline>
+      <Offset>5878E3</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-85-C7-11-88-00-09-E9-40-9F-D5-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2E1829</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B5-60-2A-00-90-90</ValueOn>
+      <ValueOff>41-FE-8D-C7-11-88-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Item World Add 100 Levels ~Do Not Enable With Other Levels~">
+    <Cheatline>
+      <Offset>5878F0</Offset>
+      <Section>0</Section>
+      <ValueOn>01-C3-83-C3-63-41-89-5E-04-E9-FF-08-C1-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1981F7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F4-F6-3E-00-90</ValueOn>
+      <ValueOff>01-C3-41-89-5E-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Item World Add 1000 Levels ~Do Not Enable With Other Levels~">
+    <Cheatline>
+      <Offset>5878FE</Offset>
+      <Section>0</Section>
+      <ValueOn>01-C3-81-C3-E7-03-00-00-41-89-5E-04-E9-EE-08-C1-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1981F7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-02-F7-3E-00-90</ValueOn>
+      <ValueOff>01-C3-41-89-5E-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Item World Add 10,000 Levels ~Do Not Enable With Other Levels~">
+    <Cheatline>
+      <Offset>58790F</Offset>
+      <Section>0</Section>
+      <ValueOn>01-C3-81-C3-0F-27-00-00-41-89-5E-04-E9-DD-08-C1-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1981F7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-13-F7-3E-00-90</ValueOn>
+      <ValueOff>01-C3-41-89-5E-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Item World Exchange Points ">
+    <Cheatline>
+      <Offset>587920</Offset>
+      <Section>0</Section>
+      <ValueOn>48-C7-C3-FF-C9-9A-3B-48-89-98-30-0A-00-00-E9-B2-FE-D4-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2D77DE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3D-01-2B-00-90-90</ValueOn>
+      <ValueOff>48-89-98-30-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quickly Gain Item World ~Prizes~">
+    <Cheatline>
+      <Offset>587933</Offset>
+      <Section>0</Section>
+      <ValueOn>48-C7-C0-5C-12-00-00-48-89-87-C8-00-00-00-E9-FC-85-DF-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>37FF3B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F3-79-20-00-90-90</ValueOn>
+      <ValueOff>48-89-87-C8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quickly Level Up Squads">
+    <Cheatline>
+      <Offset>587946</Offset>
+      <Section>0</Section>
+      <ValueOn>41-B8-9F-86-01-00-46-89-84-3B-C8-C5-87-00-E9-38-16-B1-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>98F89</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B8-E9-4E-00-90-90-90</ValueOn>
+      <ValueOff>46-89-84-3B-C8-C5-87-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Weapon Stats ~Save After Enable Then Reload~">
+    <Cheatline>
+      <Offset>587959</Offset>
+      <Section>0</Section>
+      <ValueOn>49-B9-FF-E3-0B-54-02-00-00-00-4C-89-8F-E8-00-00-00-4C-89-8F-F0-00-00-00-4C-89-8F-F8-00-00-00-4C-89-8F-00-01-00-00-4C-89-8F-08-01-00-00-4C-89-8F-10-01-00-00-4C-89-8F-18-01-00-00-4C-89-8F-20-01-00-00-41-B1-63-44-88-8F-40-01-00-00-44-88-8F-49-01-00-00-44-88-8F-4A-01-00-00-44-88-8F-4E-01-00-00-44-88-8F-4F-01-00-00-41-B1-08-44-88-8F-48-01-00-00-41-B1-64-44-88-8F-45-01-00-00-66-41-B9-0F-27-66-44-89-8F-2C-01-00-00-E9-27-1E-E1-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>399807</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4D-E1-1E-00-90-90</ValueOn>
+      <ValueOff>44-8B-8F-28-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
 </Trainer>

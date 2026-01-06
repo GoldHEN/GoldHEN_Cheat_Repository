@@ -1,2 +1,102 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA17196" Game="ONE PIECE: PIRATE WARRIORS 4" Moder="DJFlameDat" Process="eboot.bin" Version="01.60" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> <Cheat Description="What/how/when is this Cheat: Change me!" Text="Inf HP"> </Cheat> <Cheat Description="What/how/when is this Cheat: Change me!" Text="Inf Combos"> </Cheat> <Cheat Description="What/how/when is this Cheat: Change me!" Text="Inf Stamina"> </Cheat> <Cheat Description="What/how/when is this Cheat: Change me!" Text="Everyone Armor Gauge 0"> </Cheat> <Cheat Description="What/how/when is this Cheat: Change me!" Text="Inf Special Moves"> </Cheat> <Cheat Description="What/how/when is this Cheat: Change me!" Text="Inf K.O"> </Cheat> <Cheat Description="For Berries cheat once activated make sure to save before quit game or else items and money will revert back to original amount" Text="Inf Berries (Turn On and Off)"> </Cheat> <Cheat Description="For Growth Map cheat once activated make sure to save before quit game or else items and money will revert back to original amount" Text="Inf Materials [Growth Map] (Turn On and Off)"> </Cheat> <Cheat Description="For Soul Map cheat once activated make sure to save before quit game or else items and money will revert back to original amount" Text="Inf Materials [Soul Map] (Turn On and Off)"> </Cheat> <Cheat Description="What/how/when is this Cheat: Change me!" Text="Paused Timer"> </Cheat> <Cheat Description="What/how/when is this Cheat: Change me!" Text="Timer Countdown (To Complete Mission)"> </Cheat> <Cheat Description="What/how/when is this Cheat: Change me!" Text="Adventure Mission Points (Max Score)"> </Cheat> </Trainer>
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="ONE PIECE: PIRATE WARRIORS 4" Moder="DJFlameDat" Cusa="CUSA17196" Version="1.60" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf HP">
+        <Cheatline>
+            <Offset>016BB800</Offset>
+            <Section>0</Section>
+            <ValueOn>41-83-BD-F0-00-00-00-03-75-08-41-C7-45-28-00-3C-1C-46-C4-C1-7A-10-4D-28-E9-8B-E1-AC-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Combos">
+        <Cheatline>
+            <Offset>016BB81F</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-81-58-01-00-00-0F-27-00-00-E9-0A-2D-AD-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Stamina">
+        <Cheatline>
+            <Offset>016BB830</Offset>
+            <Section>0</Section>
+            <ValueOn>41-83-BD-3C-01-00-00-00-0F-85-F6-59-54-FE-C4-C1-7A-10-5D-48-C4-C1-7A-11-5D-44-E9-57-DA-AC-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Everyone Armor Gauge 0">
+        <Cheatline>
+            <Offset>016BB851</Offset>
+            <Section>0</Section>
+            <ValueOn>83-78-30-00-75-0A-C7-80-E0-00-00-00-00-00-00-00-C5-FA-10-80-E0-00-00-00-E9-7A-5E-F4-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Special Moves">
+        <Cheatline>
+            <Offset>016BB870</Offset>
+            <Section>0</Section>
+            <ValueOn>83-7E-2C-00-75-05-C5-FA-10-4E-18-C5-FA-11-4E-1C-E9-88-8B-F7-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf K.O">
+        <Cheatline>
+            <Offset>016BB887</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-84-08-4C-04-00-00-0F-27-00-00-E9-2A-90-F7-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Berries (Turn On and Off)">
+        <Cheatline>
+            <Offset>016BB899</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-40-10-C7-40-14-FF-C9-9A-3B-E9-16-A5-00-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Materials [Growth Map] (Turn On and Off)">
+        <Cheatline>
+            <Offset>016BB8AB</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-44-08-18-E7-03-00-00-E9-14-B5-00-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Materials [Soul Map] (Turn On and Off)">
+        <Cheatline>
+            <Offset>016BB8BA</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-44-08-18-63-00-00-00-E9-0C-9D-04-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Paused Timer">
+        <Cheatline>
+            <Offset>016BB8C9</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-47-10-00-00-70-42-E9-10-6E-E7-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Timer Countdown (To Complete Mission)">
+        <Cheatline>
+            <Offset>016BB8D7</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-40-10-00-00-96-43-E9-69-DD-F8-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Adventure Mission Points (Max Score)">
+        <Cheatline>
+            <Offset>016BB8E5</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-84-08-DC-0D-00-00-9F-86-01-00-E9-D4-7C-F6-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>
