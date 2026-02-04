@@ -837,3 +837,4 @@ CUSA32946_01.00.shn=Final Vendetta
 CUSA01133_01.00.shn=Resident Evil Revelations 2
 CUSA34388_05.04.shn=God of War Ragnarok (+Valhalla DLC compatibility)
 SLPS03354_01.00.shn=Zanac X Zanac
+‎CUSA23501_01.07.shn‎=Grand Theft Auto III – The Definitive Edition
