@@ -1,0 +1,48 @@
+{
+    "name": "Ninja - Shadow of Darkness",
+    "id": "SLUS00435",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "116AE5",
+            "on": "10",
+            "off": "A0"
+        }]
+    }, {
+        "name": "Infinite Smoke Bombs",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "11859E",
+            "on": "00",
+            "off": "42"
+        }]
+    }, {
+        "name": "Infinite Lives",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1172F0",
+            "on": "00",
+            "off": "FF"
+        }, {
+            "offset": "1172F1",
+            "on": "00",
+            "off": "FF"
+        }]
+    }, {
+        "name": "Infinite Lighting Bombs",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "118A34",
+            "on": "00",
+            "off": "FF"
+        }, {
+            "offset": "118A35",
+            "on": "00",
+            "off": "FF"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

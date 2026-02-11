@@ -1,0 +1,40 @@
+{
+    "name": "Devil May Cry 3-Dantes Awakening",
+    "id": "SLES54186",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite-Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80813E5DD5",
+            "on": "80000000",
+            "off": "80000000"
+        }, {
+            "offset": "80813E5DD6",
+            "on": "BB000000",
+            "off": "BB000000"
+        }, {
+            "offset": "80813E5DD7",
+            "on": "63000000",
+            "off": "63000000"
+        }]
+    }, {
+        "name": "Max-Red-Orbs-(999999)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808039178C",
+            "on": "FF000000",
+            "off": "FF000000"
+        }, {
+            "offset": "808039178D",
+            "on": "FF000000",
+            "off": "FF000000"
+        }, {
+            "offset": "808039178E",
+            "on": "FF000000",
+            "off": "FF000000"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

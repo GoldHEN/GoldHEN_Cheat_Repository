@@ -1,0 +1,24 @@
+{
+    "name": "Dino Crisis",
+    "id": "SLUS00922",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Unlock All-Weapon",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1AC848",
+            "on": "FF",
+            "off": "FF"
+        }]
+    }, {
+        "name": "Infinite-All-Weapon",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "155E8A",
+            "on": "42",
+            "off": "24"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

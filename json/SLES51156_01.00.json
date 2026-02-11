@@ -1,0 +1,40 @@
+{
+    "name": "Silent Hill 2",
+    "id": "SLES51156",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "All-Items",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FDDF798",
+            "on": "00000000",
+            "off": "00000000"
+        }, {
+            "offset": "8080D1EF60",
+            "on": "FFFDF3FE",
+            "off": "FFFDF3FE"
+        }, {
+            "offset": "8080D1EF64",
+            "on": "FFFFFFFF",
+            "off": "FFFFFFFF"
+        }, {
+            "offset": "8080D1EF68",
+            "on": "00007FFF",
+            "off": "00007FFF"
+        }]
+    }, {
+        "name": "Inf-Ammo-And-Item",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FDB78A8",
+            "on": "FF000000",
+            "off": "FF000000"
+        }, {
+            "offset": "807FDB4C9C",
+            "on": "FF000000",
+            "off": "FF000000"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

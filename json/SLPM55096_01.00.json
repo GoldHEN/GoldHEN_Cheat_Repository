@@ -1,0 +1,32 @@
+{
+    "name": "Thunder Force VI",
+    "id": "SLPM55096",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Special ",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FF2B668",
+            "on": "00000006",
+            "off": "00000006"
+        }]
+    }, {
+        "name": "Invincibility",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FF2B6B8",
+            "on": "00000064",
+            "off": "00000064"
+        }]
+    }, {
+        "name": "Infinite Lives",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FF2B62C",
+            "on": "63",
+            "off": "63"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

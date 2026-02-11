@@ -1,0 +1,32 @@
+{
+    "name": "Shinobi",
+    "id": "SLUS20459",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite-Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FE4E1E8",
+            "on": "00000000",
+            "off": "00000000"
+        }]
+    }, {
+        "name": "Infinite-shurikens",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FEB2E1C",
+            "on": "00000000",
+            "off": "00000000"
+        }]
+    }, {
+        "name": "Unlock-Almost-Everything",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080432280",
+            "on": "FFFFFFFF",
+            "off": "FFFFFFFF"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

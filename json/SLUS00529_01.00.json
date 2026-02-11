@@ -1,0 +1,24 @@
+{
+    "name": "Disneys Hercules Action Game ",
+    "id": "SLUS00529",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite-lives",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "14828E",
+            "on": "00",
+            "off": "42"
+        }]
+    }, {
+        "name": "Infinite-Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "148101",
+            "on": "63",
+            "off": "10"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

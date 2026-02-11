@@ -1,0 +1,48 @@
+{
+    "name": "Space Invaders-Invasion Day",
+    "id": "SLES51746",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite-Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8081031E6E",
+            "on": "FF",
+            "off": "FF"
+        }, {
+            "offset": "8081031E6F",
+            "on": "FF",
+            "off": "FF"
+        }]
+    }, {
+        "name": "Inf-Grenades",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8081031E62",
+            "on": "FF",
+            "off": "FF"
+        }, {
+            "offset": "8081031E63",
+            "on": "FF",
+            "off": "FF"
+        }]
+    }, {
+        "name": "MAX-SCORE",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808103211C",
+            "on": "FF",
+            "off": "FF"
+        }, {
+            "offset": "808103211D",
+            "on": "FF",
+            "off": "FF"
+        }, {
+            "offset": "808103211E",
+            "on": "FF",
+            "off": "FF"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

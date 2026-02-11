@@ -1,0 +1,32 @@
+{
+    "name": "Mobile Light Force",
+    "id": "SLUS01525",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite-Bomb",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "17E07E",
+            "on": "00",
+            "off": "42"
+        }]
+    }, {
+        "name": "Infinite-lives",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "17E20E",
+            "on": "00",
+            "off": "42"
+        }]
+    }, {
+        "name": "Invincible-1-HIT",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "17E0AE",
+            "on": "00",
+            "off": "42"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

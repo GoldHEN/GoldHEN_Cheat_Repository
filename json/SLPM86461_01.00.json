@@ -1,0 +1,24 @@
+{
+    "name": "Fantastic Night Dreams - Cotton Original",
+    "id": "SLPM86461",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Lives",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "121E4A",
+            "on": "00",
+            "off": "42"
+        }]
+    }, {
+        "name": "Infinite-credits",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "12D822",
+            "on": "00",
+            "off": "42"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

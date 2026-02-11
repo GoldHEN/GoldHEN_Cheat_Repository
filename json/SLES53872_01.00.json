@@ -1,0 +1,24 @@
+{
+    "name": "Samurai Aces",
+    "id": "SLES53872",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite-lives-99",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FE93218",
+            "on": "63",
+            "off": "63"
+        }]
+    }, {
+        "name": "Infinite-Bomb-99",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FE932F2",
+            "on": "63",
+            "off": "63"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

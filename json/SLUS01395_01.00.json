@@ -1,0 +1,52 @@
+{
+    "name": "Mega Man X6",
+    "id": "SLUS01395",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Have All Weapons",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "182409",
+            "on": "FF",
+            "off": "00"
+        }]
+    }, {
+        "name": "Infinite-All-Weapon",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "12AA44",
+            "on": "99",
+            "off": "23"
+        }]
+    }, {
+        "name": "Infinite Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "11C492",
+            "on": "40",
+            "off": "45"
+        }]
+    }, {
+        "name": "Infinite Lives",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1098DE",
+            "on": "00",
+            "off": "42"
+        }]
+    }, {
+        "name": "Invincible",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "12477C",
+            "on": "00",
+            "off": "FF"
+        }, {
+            "offset": "12477D",
+            "on": "00",
+            "off": "FF"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Crash Bandicoot-The Wrath of Cortex",
+    "id": "SLUS20238",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Invincibility-1-Get-mask",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80801A5D9A",
+            "on": "03",
+            "off": "03"
+        }, {
+            "offset": "80801A5D9B",
+            "on": "FF",
+            "off": "FF"
+        }, {
+            "offset": "80801A5D9C",
+            "on": "FF",
+            "off": "FF"
+        }]
+    }, {
+        "name": "Energy-250-Stage-2",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80801C30A4",
+            "on": "FF",
+            "off": "FF"
+        }]
+    }, {
+        "name": "Infinite-lives-99",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080248D30",
+            "on": "63",
+            "off": "63"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Scarface - The World is Yours",
+    "id": "SLUS21111",
+    "version": "01.01",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Ammo",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FFCE7F4",
+            "on": "00000000",
+            "off": "00000000"
+        }, {
+            "offset": "807FFD03F4",
+            "on": "00000000",
+            "off": "00000000"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

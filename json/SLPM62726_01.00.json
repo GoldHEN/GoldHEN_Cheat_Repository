@@ -1,0 +1,52 @@
+{
+    "name": "Shooting Love-Trizeal",
+    "id": "SLPM62726",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "FUIL-power",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FFC71F4",
+            "on": "00000009",
+            "off": "00000009"
+        }, {
+            "offset": "807FFC71F8",
+            "on": "00000009",
+            "off": "00000009"
+        }, {
+            "offset": "807FFC71FC",
+            "on": "00000009",
+            "off": "00000009"
+        }]
+    }, {
+        "name": "Inf-Lives-Player 1",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FFC7200",
+            "on": "63000000",
+            "off": "63000000"
+        }, {
+            "offset": "807FFC71C5",
+            "on": "66000000",
+            "off": "63000000"
+        }]
+    }, {
+        "name": "Inf-Bombs-Player 1",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FFC7200",
+            "on": "63000000",
+            "off": "63000000"
+        }]
+    }, {
+        "name": "Inf-Credits",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808004B240",
+            "on": "63000000",
+            "off": "63000000"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

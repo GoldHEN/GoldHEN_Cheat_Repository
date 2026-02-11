@@ -1,0 +1,16 @@
+{
+    "name": "Spyro 2",
+    "id": "SLUS00977",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "11DBDA",
+            "on": "6F",
+            "off": "65"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

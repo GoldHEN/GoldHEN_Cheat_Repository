@@ -1,0 +1,56 @@
+{
+    "name": "Resident Evil-Survivor 2",
+    "id": "SLES50650",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite-Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80801B12BC",
+            "on": "FF",
+            "off": "55"
+        }, {
+            "offset": "80801B12BD",
+            "on": "FF",
+            "off": "55"
+        }]
+    }, {
+        "name": "Inf-ammo-ak-47",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80801B1480",
+            "on": "FF",
+            "off": "55"
+        }, {
+            "offset": "80801B1481",
+            "on": "FF",
+            "off": "55"
+        }]
+    }, {
+        "name": "Infinite-Ammo-Magnum",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80801B147E",
+            "on": "FF",
+            "off": "55"
+        }, {
+            "offset": "80801B147F",
+            "on": "FF",
+            "off": "55"
+        }]
+    }, {
+        "name": "Infinite-Ammo-ShotGun",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80801B1482",
+            "on": "FF",
+            "off": "55"
+        }, {
+            "offset": "80801B1483",
+            "on": "FF",
+            "off": "55"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

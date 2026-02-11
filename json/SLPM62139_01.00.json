@@ -1,0 +1,68 @@
+{
+    "name": "Psyvariar - Complete Edition",
+    "id": "SLPM62139",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Lives P1",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808050C7EC",
+            "on": "63",
+            "off": "02"
+        }]
+    }, {
+        "name": "Infinite-BOMB P1",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808050C7F0",
+            "on": "63",
+            "off": "02"
+        }]
+    }, {
+        "name": "REVISION-Infinite Lives",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808051CCCC",
+            "on": "63",
+            "off": "02"
+        }]
+    }, {
+        "name": "REVISION-Infinite-BOMB",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808051CCD0",
+            "on": "63",
+            "off": "02"
+        }]
+    }, {
+        "name": "REVISION-Infinite-LEVEL",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808051CCD4",
+            "on": "16640000",
+            "off": "00000000"
+        }]
+    }, {
+        "name": "REVISION-Infinite-SHELD",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808051CCD8",
+            "on": "63636363",
+            "off": "00000000"
+        }]
+    }, {
+        "name": "REVISION-Invincible",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808051CE6C",
+            "on": "45000000",
+            "off": "10000000"
+        }, {
+            "offset": "807FD318B7",
+            "on": "45000000",
+            "off": "10000000"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

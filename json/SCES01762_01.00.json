@@ -1,0 +1,92 @@
+{
+    "name": "R-Type Delta",
+    "id": "SCES01762",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Invincibility=STEGE=1",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1BC03C",
+            "on": "00",
+            "off": "FF"
+        }, {
+            "offset": "1BC03D",
+            "on": "00",
+            "off": "FF"
+        }]
+    }, {
+        "name": "Invincibility=STEGE=2",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1A3830",
+            "on": "00",
+            "off": "FF"
+        }, {
+            "offset": "1A3831",
+            "on": "00",
+            "off": "FF"
+        }]
+    }, {
+        "name": "Invincibility=STEGE=3",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "17B924",
+            "on": "00",
+            "off": "FF"
+        }, {
+            "offset": "17B925",
+            "on": "00",
+            "off": "FF"
+        }]
+    }, {
+        "name": "Invincibility=STEGE=4",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1A7164",
+            "on": "00",
+            "off": "FF"
+        }, {
+            "offset": "1A7165",
+            "on": "00",
+            "off": "FF"
+        }]
+    }, {
+        "name": "Invincibility=STEGE=5",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "190E18",
+            "on": "00",
+            "off": "FF"
+        }, {
+            "offset": "190E19",
+            "on": "00",
+            "off": "FF"
+        }]
+    }, {
+        "name": "Invincibility=STEGE=6",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "18D210",
+            "on": "00",
+            "off": "FF"
+        }, {
+            "offset": "18D211",
+            "on": "00",
+            "off": "FF"
+        }]
+    }, {
+        "name": "Invincibility=STEGE=7",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1A1FCC",
+            "on": "00",
+            "off": "FF"
+        }, {
+            "offset": "1A1FCD",
+            "on": "00",
+            "off": "FF"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

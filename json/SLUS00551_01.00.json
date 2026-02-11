@@ -1,0 +1,36 @@
+{
+    "name": "Resident Evil Director's Cut",
+    "id": "SLUS00551",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite-Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1F4EAC",
+            "on": "72",
+            "off": "AC"
+        }, {
+            "offset": "1F4EAD",
+            "on": "A0",
+            "off": "51"
+        }]
+    }, {
+        "name": "Infinite-All-Weapon",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "12A812",
+            "on": "00",
+            "off": "42"
+        }]
+    }, {
+        "name": "Unlock-Weapon=Shotgun+Magnum",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1B3A24",
+            "on": "0364FF",
+            "off": "056400"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}
