@@ -1,49 +1,20 @@
 {
-  "name": "Call of Duty®: Black Ops III",
-  "id": "CUSA02290",
-  "version": "01.33",
-  "process": "eboot.bin",
-  "mods": [
-    {
-      "name": "Inf Health",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "9A2F1F",
-          "on": "9090909090909090",
-          "off": "43898435C8020000"
-        }
-      ]
-    },
-    {
-      "name": "Inf Money",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "151F850",
-          "on": "C783A46E0100FFE0F505E9C9F645FF",
-          "off": "000000000000000000000000000000"
-        },
-        {
-          "offset": "97EF22",
-          "on": "E92909BA0090",
-          "off": "8983A46E0100"
-        }
-      ]
-    },
-    {
-      "name": "Inf Ammo",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "1193E2A",
-          "on": "909090",
-          "off": "448928"
-        }
-      ]
-    }
-  ],
-  "credits": [
-    "EchoStretch"
-  ]
+    "name": "Black ops 3",
+    "id": "CUSA02290",
+    "version": "01.33",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Godmode (Zombies mode)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "151F810",
+            "on": "4F8D8435C802000090E9013748FF",
+            "off": "0000000000000000000000000000"
+        }, {
+            "offset": "9A2F14",
+            "on": "E9F7C8B700909090909090",
+            "off": "4F8D8435C80200004429E0"
+        }]
+    }],
+    "credits": ["Skal"]
 }

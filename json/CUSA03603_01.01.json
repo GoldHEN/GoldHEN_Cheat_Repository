@@ -1,0 +1,48 @@
+{
+    "name": "Dishonored 2",
+    "id": "CUSA03603",
+    "version": "01.01",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Godmode",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "294C1B0",
+            "on": "BEFFFFFFFF39734E0F842CEABAFEC5FA114320E922EABAFE",
+            "off": "000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "14FABE5",
+            "on": "E9C6154501",
+            "off": "C5FA114320"
+        }]
+    }, {
+        "name": "Infinite Money",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "294C1C8",
+            "on": "BB3F420F00899F6C010000E9634698FE",
+            "off": "00000000000000000000000000000000"
+        }, {
+            "offset": "12D0835",
+            "on": "E98EB9670190",
+            "off": "019F6C010000"
+        }]
+    }, {
+        "name": "Infinite Mana",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "15360D5",
+            "on": "9090909090",
+            "off": "C5FA114720"
+        }]
+    }, {
+        "name": "Infinite Items/Ammo",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "12D078C",
+            "on": "90909090",
+            "off": "895C3120"
+        }]
+    }],
+    "credits": ["TLH"]
+}

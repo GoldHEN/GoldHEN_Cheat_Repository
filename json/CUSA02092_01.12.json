@@ -1,0 +1,40 @@
+{
+    "name": "DOOM",
+    "id": "CUSA02092",
+    "version": "01.12",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Health + Shield",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "769E47",
+            "on": "90909090909090",
+            "off": "C4C37917650001"
+        }]
+    }, {
+        "name": "Infinite Ammo",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "E3D32D",
+            "on": "909090",
+            "off": "894338"
+        }]
+    }, {
+        "name": "Infinite Weapon Points",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "CB4301",
+            "on": "909090909090",
+            "off": "8983705A0500"
+        }]
+    }, {
+        "name": "Infinite Praetor Points",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "E3C722",
+            "on": "909090",
+            "off": "894338"
+        }]
+    }],
+    "credits": ["M3hdi PS"]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Harry Potter Years 5-7",
+    "id": "CUSA05935",
+    "version": "01.00",
+    "process": "harry2.elf",
+    "mods": [{
+        "name": "Godmode",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "116BC01",
+            "on": "418B8D3012000041C7853012000008080000E9FF42C3FF",
+            "off": "0000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "D9FF0F",
+            "on": "E9EDBC3C00909090",
+            "off": "410FB68D30120000"
+        }]
+    }, {
+        "name": "Double Studs On Pick Up",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "D1111D",
+            "on": "49011F4883C4085B",
+            "off": "49891F4883C4085B"
+        }]
+    }],
+    "credits": ["PS4Guru", "Molly"]
+}

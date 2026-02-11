@@ -1,0 +1,30 @@
+{
+    "name": "Harry Potter Years 1-4",
+    "id": "CUSA05935",
+    "version": "01.00",
+    "process": "harry1.elf",
+    "mods": [{
+        "name": "Godmode",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "DEFC01",
+            "on": "0FB6BE3E160000C7863E16000004040000E9AD1CB7FF90",
+            "off": "0000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "9618BD",
+            "on": "E93FE348009090",
+            "off": "0FB6BE3E160000"
+        }]
+    }, {
+        "name": "Double Studs On Pick Up",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "9B735E",
+            "on": "49011F4881FB8096",
+            "off": "49891F4881FB8096"
+        }]
+    }],
+    "credits": ["PS4Guru", "Molly"]
+}

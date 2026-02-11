@@ -1,0 +1,56 @@
+{
+    "name": "METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE",
+    "id": "CUSA05597",
+    "version": "01.05",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Max Resources",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "A56ECB",
+            "on": "42C704B940420F00",
+            "off": "428124B90100E0FF"
+        }]
+    }, {
+        "name": "No Reload",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "2147121",
+            "on": "90909090",
+            "off": "66890C72"
+        }, {
+            "offset": "2147119",
+            "on": "9090909090",
+            "off": "66894C7202"
+        }]
+    }, {
+        "name": "Steady Aim - No Recoil",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1D4177A",
+            "on": "909090909090",
+            "off": "898F98000000"
+        }, {
+            "offset": "1D418D0",
+            "on": "909090909090",
+            "off": "898798000000"
+        }, {
+            "offset": "1D41901",
+            "on": "9090909090",
+            "off": "C5FA114734"
+        }, {
+            "offset": "1D41ECA",
+            "on": "909090909090",
+            "off": "898798000000"
+        }, {
+            "offset": "1D421CE",
+            "on": "9090909090909090",
+            "off": "C5FA1197B8000000"
+        }, {
+            "offset": "1D431F5",
+            "on": "9090909090",
+            "off": "C5FA114734"
+        }]
+    }],
+    "credits": ["hejran7"]
+}

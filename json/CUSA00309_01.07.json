@@ -1,0 +1,68 @@
+{
+    "name": "inFAMOUS Second Son",
+    "id": "CUSA00309",
+    "version": "01.07",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Inf Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5BFC0",
+            "on": "C4C17A119650EE010041C78650EE010000005E43E9479C5B80",
+            "off": "00000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "215C17",
+            "on": "E9A463A47F90909090",
+            "off": "C4C17A119650EE0100"
+        }]
+    }, {
+        "name": "Inf Energy",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5BF90",
+            "on": "C4C17A118424E8A1010041C78424E8A1010000001643E958085B80",
+            "off": "000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "20C7F9",
+            "on": "E992F7A47F9090909090",
+            "off": "C4C17A118424E8A10100"
+        }]
+    }, {
+        "name": "Inf Ammo Capacity",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5BF70",
+            "on": "BE0800000089B7DC000000E92E765880",
+            "off": "00000000000000000000000000000000"
+        }, {
+            "offset": "1E35A8",
+            "on": "E9C389A77F90",
+            "off": "89B7DC000000"
+        }]
+    }, {
+        "name": "Get Max Shards x99",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5BFE0",
+            "on": "BB63000000899FE0000000E9BA625880",
+            "off": "00000000000000000000000000000000"
+        }, {
+            "offset": "1E229D",
+            "on": "E93E9DA77F9090",
+            "off": "448BAFE0000000"
+        }]
+    }, {
+        "name": "Karmic Streak Always Available",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5BF50",
+            "on": "B909000000894B28E912A46080",
+            "off": "00000000000000000000000000"
+        }, {
+            "offset": "266368",
+            "on": "E9E35B9F7F9090",
+            "off": "894B28488B7B18"
+        }]
+    }],
+    "credits": ["x3shakir"]
+}

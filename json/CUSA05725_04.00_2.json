@@ -1,0 +1,80 @@
+{
+    "name": "The Witcher 3: Wild Hunt – Complete Edition",
+    "id": "CUSA05725",
+    "version": "04.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "9999 Weight",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "253B970",
+            "on": "4883FB00740CC4817A104CE70CE92C4874FE43817CE71000007042740CC4817A104CE70CE9154874FE43C744E70C003C1C4643C744E710003C1C46E9FE4774FE",
+            "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "C801A7",
+            "on": "E9C4B78B019090",
+            "off": "C4817A104CE70C"
+        }]
+    }, {
+        "name": "Max Coins (on sell) Turn off after use",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "253BA40",
+            "on": "4883FA2C74094883FA2D74034401E0C7013F420F00E938553AFE4401E08901E92E553AFE",
+            "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "8E0F8D",
+            "on": "E9AEAAC501",
+            "off": "4401E08901"
+        }]
+    }, {
+        "name": "Experience Multiplier ",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "253BB10",
+            "on": "4839F3750C418B04240345C8E9C16ADEFE41817C2404E80300007D02EBE7B810000000F765C841030424E9A36ADEFE",
+            "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "13225DB",
+            "on": "E9309521019090",
+            "off": "418B04240345C8"
+        }]
+    }, {
+        "name": "Infinite Durability",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "253BB80",
+            "on": "C74419640000C842498B07E9D0863BFE",
+            "off": "00000000000000000000000000000000"
+        }, {
+            "offset": "8F4259",
+            "on": "E92279C4019090",
+            "off": "89441964498B07"
+        }]
+    }, {
+        "name": "Infinite Skill points (on spend)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "253B610",
+            "on": "4839F3750C418B04242B45C8E99170DEFE41817C240CE80300007D02EBE7B863000000E97A70DEFE",
+            "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "13226AB",
+            "on": "E9608F21019090",
+            "off": "418B04242B45C8"
+        }]
+    }, {
+        "name": "Infinite Food (on consume equip it first) ",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "253B660",
+            "on": "BE03000000C60063E90F603AFE",
+            "off": "00000000000000000000000000"
+        }, {
+            "offset": "8E1675",
+            "on": "E9E69FC5019090",
+            "off": "BE030000008910"
+        }]
+    }],
+    "credits": ["Wander FW9.00"]
+}

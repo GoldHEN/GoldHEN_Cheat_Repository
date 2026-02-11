@@ -1,0 +1,28 @@
+{
+    "name": "Assassin's Creed: The Ezio Collection [Assasins Creed Brotherhood]",
+    "id": "CUSA04893",
+    "version": "01.00",
+    "process": "ScimitarACB.elf",
+    "mods": [{
+        "name": "Godmode",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "18ab0e6",
+            "on": "9090909090909090",
+            "off": "41898424A4000000"
+        }, {
+            "offset": "18ab0f1",
+            "on": "9090909090909090",
+            "off": "41898424A4000000"
+        }]
+    }, {
+        "name": "Infinite Money / Items",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1bceb16",
+            "on": "909090",
+            "off": "894714"
+        }]
+    }],
+    "credits": ["TLH"]
+}

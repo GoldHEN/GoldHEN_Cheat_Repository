@@ -1,0 +1,152 @@
+{
+    "name": "Red Dead Redemption 2",
+    "id": "CUSA03041",
+    "version": "01.29",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "MASTER CODE for god mode and honor always max",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "779B800",
+            "on": "4C8B5210B904040000803D6C00000001740A48C7421800000000EB0848C7421811100000803D52000000010F853D630EF95048B8409D465F0200000066C700102758E927630EF9",
+            "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "881B65",
+            "on": "E9969CF10690909090",
+            "off": "4C8B5210B904040000"
+        }]
+    }, {
+        "name": "God Mode (player and horse)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "779B87C",
+            "on": "1",
+            "off": "0"
+        }]
+    }, {
+        "name": "infinite dead eye",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "144E525",
+            "on": "909090",
+            "off": "FF5048"
+        }]
+    }, {
+        "name": "infinite stamina (horse/player)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "100F487",
+            "on": "909090",
+            "off": "FF5048"
+        }]
+    }, {
+        "name": "never wanted and zero bounty",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "DB2116",
+            "on": "833D371CD90605",
+            "off": "833D371CD90600"
+        }, {
+            "offset": "779B847",
+            "on": "C783EC3D000000000000E94EED60F9",
+            "off": "000000000000000000000000000000"
+        }, {
+            "offset": "DAA59E",
+            "on": "E9A4129F0690",
+            "off": "8983EC3D0000"
+        }]
+    }, {
+        "name": "Infinite items and consumables(disable during unique mission items like bounty posters...)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "C8C303",
+            "on": "49894618",
+            "off": "4D897E18"
+        }]
+    }, {
+        "name": "HONOR always maxed",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "779B87D",
+            "on": "1",
+            "off": "0"
+        }]
+    }, {
+        "name": "MAX Honor updated(set honor to max one time, do an honor related task to see the difference)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "25F469D40",
+            "on": "A0860100",
+            "off": "A0860100"
+        }]
+    }, {
+        "name": "add 30 pelts(enable after skinning pelt disable after putting on horse!)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "C8C2FF",
+            "on": "4983C71F",
+            "off": "4C0F44FB"
+        }]
+    }, {
+        "name": "infinite ammo (in game cheat)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "779B867",
+            "on": "C7871802000090E90000328F18020000E9DF648EF9",
+            "off": "000000000000000000000000000000000000000000"
+        }, {
+            "offset": "1081D55",
+            "on": "E90D9B710690",
+            "off": "328F18020000"
+        }]
+    }, {
+        "name": "no reload",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "2C11E3B",
+            "on": "9090909090",
+            "off": "E88065F9FF"
+        }]
+    }, {
+        "name": "fast shooting (no bullet loading , skips the animation of loading bullets)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "48D52CD",
+            "on": "9090909090909090",
+            "off": "41808D3B06000010"
+        }]
+    }, {
+        "name": "weapons always clean",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "779B856",
+            "on": "C5F857C0C5FA1180D0000000E9DAA686FB",
+            "off": "0000000000000000000000000000000000"
+        }, {
+            "offset": "3005F39",
+            "on": "E918597904909090",
+            "off": "C5FA1180D0000000"
+        }]
+    }, {
+        "name": "infinite ammo ,throwables ,arrows ,no reload ,weapons stay clean",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "2B95803",
+            "on": "9090909090",
+            "off": "E878C50700"
+        }, {
+            "offset": "C80A4C",
+            "on": "9090909090",
+            "off": "E8AF460000"
+        }]
+    }, {
+        "name": "freeze all(ammo,throwables,money,items,trapper and pearson stock)disable during unique mission items like bounty posters...",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "C8637F",
+            "on": "9090909090",
+            "off": "E8CC0A0000"
+        }]
+    }],
+    "credits": ["LMN"]
+}

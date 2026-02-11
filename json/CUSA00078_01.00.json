@@ -1,0 +1,68 @@
+{
+    "name": "Dying Light",
+    "id": "CUSA00078",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Inf Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8FECEE",
+            "on": "C5FA119360110000",
+            "off": "C5FA118360110000"
+        }]
+    }, {
+        "name": "Inf Weapon Durability",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "573626",
+            "on": "9090909090",
+            "off": "C5FA114304"
+        }]
+    }, {
+        "name": "Inf Ammo",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "A300E2",
+            "on": "4183EF0090",
+            "off": "44897C0804"
+        }]
+    }, {
+        "name": "No Reload",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "573151",
+            "on": "9090909090",
+            "off": "E87AB8CF00"
+        }]
+    }, {
+        "name": "Freeze Part / Item Count",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "57315B",
+            "on": "909090",
+            "off": "458937"
+        }]
+    }, {
+        "name": "Add Item",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "57315B",
+            "on": "450137",
+            "off": "458937"
+        }]
+    }, {
+        "name": "Max Money on Spend",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC4BE50",
+            "on": "B83F420F004189463CE9623ADE80",
+            "off": "0000000000000000000000000000"
+        }, {
+            "offset": "A2F8B9",
+            "on": "E992C5217F9090",
+            "off": "4429F84189463C"
+        }]
+    }],
+    "credits": ["x3shakir"]
+}
