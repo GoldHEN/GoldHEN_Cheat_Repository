@@ -1,0 +1,68 @@
+{
+    "name": "Grand Theft Auto: San Andreas ? The Definitive Edition",
+    "id": "CUSA26619",
+    "version": "01.04",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "5B87220",
+            "on": "4181BF2407000000001041751041C7870407000000009643E90F9F61FBC4C17A119704070000E9019F61FB",
+            "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "11A1143",
+            "on": "E9D8609E0490909090",
+            "off": "C4C17A119704070000"
+        }]
+    }, {
+        "name": "Infinite Car Health (when driving it)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "5B87AB0",
+            "on": "4180BA3C06000000751041C782C40600000080BB44E99EE88DFBC4C17A118AC4060000E990E88DFB",
+            "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "146635F",
+            "on": "E94C17720490909090",
+            "off": "C4C17A118AC4060000"
+        }]
+    }, {
+        "name": "Fast Car driving skill level up",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "11757CC",
+            "on": "01057EF14705",
+            "off": "89057EF14705"
+        }]
+    }, {
+        "name": "Max Weapons/Muscles/Stamina skill level",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "5B87890",
+            "on": "43C704B70080BB44E9F4895FFB",
+            "off": "00000000000000000000000000"
+        }, {
+            "offset": "118028B",
+            "on": "E90076A00490",
+            "off": "C4817A1104B7"
+        }]
+    }, {
+        "name": "Fast Motorcycle driving skill level up",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1176B79",
+            "on": "0105E5DE4705",
+            "off": "8905E5DE4705"
+        }]
+    }, {
+        "name": "Infinite Service vehicules timer",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "112E1EF",
+            "on": "909090",
+            "off": "893C08"
+        }]
+    }],
+    "credits": ["Wander FW9.00"]
+}

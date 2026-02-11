@@ -1,0 +1,116 @@
+{
+    "name": "God of War Ragnarok",
+    "id": "CUSA34384",
+    "version": "02.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Cheat Activator (cheats with * need this on)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "172B628",
+            "on": "669C50415549C1FD104981FDFEEE0700743B664181FB00B07450664181FB08B67448664181FB58A97462664181FB10E4745A81FE809AFDC07449C4C17A114C2428415D58669DE9C4DC2BFFEBED4183BC2498010000007402EB19803D9F03000000C4C17A11542428EBD7803D9003000000EB28803D880300000074BEB800000000EB12803D7903000000EB0F803D7103000000EB06F30F2AC8EB9F749DC5FA104B14EB96",
+            "off": "669C50415549C1FD104981FDFEEE0700743B664181FB00B07450664181FB08B67448664181FB58A97462664181FB10E4745A81FE809AFDC07449C4C17A114C2428415D58669DE9C4DC2BFFEBED4183BC2498010000007402EB19803D9F03000000C4C17A11542428EBD7803D9003000000EB28803D880300000074BEB800000000EB12803D7903000000EB0F803D7103000000EB06F30F2AC8EB9F749DC5FA104B14EB96"
+        }, {
+            "offset": "9E9330",
+            "on": "E9F322D4009090",
+            "off": "C4C17A114C2428"
+        }]
+    }, {
+        "name": "Godmode*",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "172BA28",
+            "on": "01",
+            "off": "00"
+        }]
+    }, {
+        "name": "Infinite Rage*",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "172BA29",
+            "on": "01",
+            "off": "00"
+        }]
+    }, {
+        "name": "One-hit Kill*",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "172BA2A",
+            "on": "01",
+            "off": "00"
+        }]
+    }, {
+        "name": "Instant R3*",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "172BA2B",
+            "on": "01",
+            "off": "00"
+        }]
+    }, {
+        "name": "Infinite Arrows*",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "172BA2C",
+            "on": "01",
+            "off": "00"
+        }]
+    }, {
+        "name": "No Cooldown (no cooldown for weapons use with combo L1 + *)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "A47102",
+            "on": "C5FA104D809090",
+            "off": "C4C17A104C2438"
+        }]
+    }, {
+        "name": "Infinite XP/HS/Resources x99,999",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "172B828",
+            "on": "8B0DDA010000898D40FFFFFF890EE919054FFF90",
+            "off": "8B0DDA010000898D40FFFFFF890EE919054FFF90"
+        }, {
+            "offset": "C1BD4C",
+            "on": "E9D7FAB000909090",
+            "off": "898D40FFFFFF890E"
+        }, {
+            "offset": "172BA08",
+            "on": "9F860100",
+            "off": "9F860100"
+        }]
+    }, {
+        "name": "Infinite XP/HS/Resources x100 (activated x99,999 first)",
+        "type": "button",
+        "memory": [{
+            "offset": "172BA08",
+            "on": "64000000",
+            "off": "64000000"
+        }]
+    }, {
+        "name": "Infinite XP/HS/Resources x1,000 (activated x99,999 first)",
+        "type": "button",
+        "memory": [{
+            "offset": "172BA08",
+            "on": "E8030000",
+            "off": "E8030000"
+        }]
+    }, {
+        "name": "Infinite XP/HS/Resources x2,000 (activated x99,999 first)",
+        "type": "button",
+        "memory": [{
+            "offset": "172BA08",
+            "on": "D0070000",
+            "off": "D0070000"
+        }]
+    }, {
+        "name": "Infinite XP/HS/Resources x99,999 (only if you activated other Infinite XP/HS/Resources cheats)",
+        "type": "button",
+        "memory": [{
+            "offset": "172BA08",
+            "on": "9F860100",
+            "off": "9F860100"
+        }]
+    }],
+    "credits": ["JustGotenks, edit by Chronoss"]
+}

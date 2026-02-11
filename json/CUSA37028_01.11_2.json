@@ -1,0 +1,260 @@
+{
+    "name": "Wo Long Fallen Dynasty",
+    "id": "CUSA37028",
+    "version": "01.11",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Master Code (Must always be enabled)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "3623800",
+            "on": "833F020F94C083BF18010000000F850340DCFC4883EF1048893DF9C73D004883C710E9EF3FDCFC",
+            "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "3E7810",
+            "on": "E9EBBF230390",
+            "off": "833F020F94C0"
+        }, {
+            "offset": "3623827",
+            "on": "48C1E920C5F96EC148A32700E00300000000E91F6418FE",
+            "off": "0000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "17A9C55",
+            "on": "E9CD9BE701909090",
+            "off": "48C1E920C5F96EC1"
+        }]
+    }, {
+        "name": "Ghost Mode",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "402B0",
+            "on": "C3",
+            "off": "55"
+        }]
+    }, {
+        "name": "God Mode",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "362383E",
+            "on": "488BBDE0FEFFFF4C89EE4183BD50010000000F85D59CDAFCE9D59CDAFCE9CB9CDAFC",
+            "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "3CD521",
+            "on": "E918632503",
+            "off": "E9DA622503"
+        }]
+    }, {
+        "name": "Infinite Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "3623860",
+            "on": "C4C17C1147104C393DAAC73D000F859B3EF0FC52418B5718418957145AE98C3EF0FC",
+            "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "527708",
+            "on": "E953C10F0390",
+            "off": "C4C17C114710"
+        }]
+    }, {
+        "name": "Max Morale",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "3623882",
+            "on": "C7401040787D01448B7010488DBD5CFFFFFFE97948C8FD",
+            "off": "0000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "12A8107",
+            "on": "E976B73702909090909090",
+            "off": "448B7010488DBD5CFFFFFF"
+        }, {
+            "offset": "3623899",
+            "on": "C74014190000008B4814898D5CFFFFFFE95948C8FD",
+            "off": "000000000000000000000000000000000000000000"
+        }, {
+            "offset": "12A80FE",
+            "on": "E996B7370290909090",
+            "off": "8B4814898D5CFFFFFF"
+        }]
+    }, {
+        "name": "One Hit Kill",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "36238AE",
+            "on": "4881C2900100004839155BC73D00740E4881EA9001000031C0E95077DCFC4881EA90010000C4E270F2C0E93F77DCFC",
+            "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "3EB017",
+            "on": "E992882303",
+            "off": "C4E270F2C0"
+        }]
+    }, {
+        "name": "Max Spirit",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "36238DD",
+            "on": "C5FC1147104C392D3EC73D000F85E77DD2FC518B4F18894F1059E9DA7DD2FC",
+            "off": "00000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "34B6D1",
+            "on": "E907822D03",
+            "off": "C5FC114710"
+        }]
+    }, {
+        "name": "Max Genuine Qi",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "36238FC",
+            "on": "C700FFE0F5058B10B9B4C05903E95B21ECFD",
+            "off": "000000000000000000000000000000000000"
+        }, {
+            "offset": "14E5A64",
+            "on": "E993DE1302",
+            "off": "B9B4C05903"
+        }]
+    }, {
+        "name": "Infinite Buff Duration",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "36239D0",
+            "on": "41C787880000000000FA44C4C17A108788000000E9F052E7FC",
+            "off": "00000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "498CD0",
+            "on": "E9FBAC180390909090",
+            "off": "C4C17A118788000000"
+        }]
+    }, {
+        "name": "World Speed (Master-Code)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "3623922",
+            "on": "C5FA100D23C73D00C4E1FA2AC0E90542A3FC",
+            "off": "000000000000000000000000000000000000"
+        }, {
+            "offset": "57B34",
+            "on": "E9E9BD5C03",
+            "off": "C4E1FA2AC0"
+        }, {
+            "offset": "03A0004D",
+            "on": "0000803F",
+            "off": "0000803F"
+        }]
+    }, {
+        "name": "---x0.5 Speed",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "03A0004D",
+            "on": "0000003F",
+            "off": "0000803F"
+        }]
+    }, {
+        "name": "---x2 Speed",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "03A0004D",
+            "on": "00000040",
+            "off": "0000803F"
+        }]
+    }, {
+        "name": "---x3 Speed",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "03A0004D",
+            "on": "00004040",
+            "off": "0000803F"
+        }]
+    }, {
+        "name": "---x4 Speed",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "03A0004D",
+            "on": "00008040",
+            "off": "0000803F"
+        }]
+    }, {
+        "name": "Max Accolades (On Buy)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "3623938",
+            "on": "0F42CFC7400CFFC99A3B8B480CE9E174BDFD",
+            "off": "000000000000000000000000000000000000"
+        }, {
+            "offset": "11FAE25",
+            "on": "E90E8B420290",
+            "off": "0F42CF89480C"
+        }]
+    }, {
+        "name": "99 Dragon Cure Potions (On use)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "362394C",
+            "on": "C680E5A90000638A88E5A90000E9304EBDFD",
+            "off": "000000000000000000000000000000000000"
+        }, {
+            "offset": "11F8788",
+            "on": "E9BFB1420290",
+            "off": "8888E5A90000"
+        }]
+    }, {
+        "name": "Infinite Copper",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "362395E",
+            "on": "42C744A00863000000428B44A008E97A4BDEFD",
+            "off": "00000000000000000000000000000000000000"
+        }, {
+            "offset": "14084E6",
+            "on": "E973B42102",
+            "off": "428B44A008"
+        }]
+    }, {
+        "name": "Infinite Wizardry Spells (On use)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "3623971",
+            "on": "C78481D4010000630000008BB481D4010000E97107BDFD",
+            "off": "0000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "11F40F2",
+            "on": "E97AF842029090",
+            "off": "89B481D4010000"
+        }]
+    }, {
+        "name": "Infinite Throwables (On use)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "362398A",
+            "on": "C647086389F0E9D64083FD",
+            "off": "0000000000000000000000"
+        }, {
+            "offset": "E57A66",
+            "on": "E91FBF7C02",
+            "off": "29770889F0"
+        }]
+    }, {
+        "name": "Instant Beast Power Charge",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "3623997",
+            "on": "C4C1781144245041C744245000007A44E94861F0FC",
+            "off": "000000000000000000000000000000000000000000"
+        }, {
+            "offset": "529AED",
+            "on": "E9A59E0F039090",
+            "off": "C4C17811442450"
+        }]
+    }, {
+        "name": "Infinite Tiger Beast Duration",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "36239AE",
+            "on": "C741700F2700008B4970394B38E9D2CEC7FD",
+            "off": "000000000000000000000000000000000000"
+        }, {
+            "offset": "12A088C",
+            "on": "E91D31380290",
+            "off": "8B4970394B38"
+        }]
+    }],
+    "credits": ["Pharaoh2k"]
+}

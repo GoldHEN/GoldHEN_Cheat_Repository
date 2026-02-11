@@ -1,0 +1,220 @@
+{
+    "name": "Granblue Fantasy Link",
+    "id": "CUSA34766",
+    "version": "01.11",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5C510",
+            "on": "4C8DB3100200004883F901751C4883FA0175168B837C010000898378010000C5F82EC8E96C14AB8090C5F82EC8E96214AB80",
+            "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "70D999",
+            "on": "E972EB547F909090909090",
+            "off": "4C8DB310020000C5F82EC8"
+        }]
+    }, {
+        "name": "Infinite SKills",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7F8C9E",
+            "on": "C5F25CC0",
+            "off": "C5EA5CC0"
+        }]
+    }, {
+        "name": "Infinite SBA",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5C570",
+            "on": "C5FA108B80000000C5FA114B7CC5FA104B7CE9BBFEE18290",
+            "off": "000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "2A7C43D",
+            "on": "E92E011E7D",
+            "off": "C5FA104B7C"
+        }]
+    }, {
+        "name": "Replenish items at 1",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5C5A0",
+            "on": "C74004010000008B400489442470E98525588090",
+            "off": "0000000000000000000000000000000000000000"
+        }, {
+            "offset": "1DEB31",
+            "on": "E96ADAA77F9090",
+            "off": "8B400489442470"
+        }]
+    }, {
+        "name": "Max link level",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5C5D0",
+            "on": "C5FA104348C5FA1183D0010000E9BCC7DE82",
+            "off": "000000000000000000000000000000000000"
+        }, {
+            "offset": "2A48D96",
+            "on": "E93538217D909090",
+            "off": "C5FA1183D0010000"
+        }]
+    }, {
+        "name": "Freeze link attack timer",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5C600",
+            "on": "C5FA1098F0000000C5FA118074010000C5FA109874010000E979EC2F8290",
+            "off": "000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "1F5B28E",
+            "on": "E96D13D07D909090",
+            "off": "C5FA109874010000"
+        }]
+    }, {
+        "name": "All treasure and key items",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5C640",
+            "on": "837B0400740B8B334C39E6E967B9EA8290C74304010000008B334C39E6E955B9EA82",
+            "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "2B07FB2",
+            "on": "E98946157D",
+            "off": "8B334C39E6"
+        }]
+    }, {
+        "name": "Instant +999 treasures",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5C680",
+            "on": "C74304E7030000418B6D50498B7D38E941B9EA82",
+            "off": "0000000000000000000000000000000000000000"
+        }, {
+            "offset": "2B07FCD",
+            "on": "E9AE46157D909090",
+            "off": "418B6D50498B7D38"
+        }]
+    }, {
+        "name": "Sell item x900",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5C6B0",
+            "on": "4D8D67044101470441C7470484030000E9115CEA8290",
+            "off": "00000000000000000000000000000000000000000000"
+        }, {
+            "offset": "2B022CE",
+            "on": "E9DDA3157D909090",
+            "off": "4D8D670441014704"
+        }]
+    }, {
+        "name": "Event timer",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5C6E0",
+            "on": "41C785080A00000000803FC4C17A1085080A0000C4C17A1185080A0000E9EE75A680",
+            "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "6C3CE7",
+            "on": "E9F489597F90909090",
+            "off": "C4C17A1185080A0000"
+        }]
+    }, {
+        "name": "Increase all level",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5C720",
+            "on": "41FF86E0300000418B86E0300000E93DCBEF8090",
+            "off": "0000000000000000000000000000000000000000"
+        }, {
+            "offset": "B59269",
+            "on": "E9B234107F9090",
+            "off": "418B86E0300000"
+        }]
+    }, {
+        "name": "Max all party exp",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5C750",
+            "on": "41C786C8300000802C8000418B86C8300000E991CAEF8090",
+            "off": "000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "B591F1",
+            "on": "E95A35107F9090",
+            "off": "418B86C8300000"
+        }]
+    }, {
+        "name": "Max base hp all members",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5C780",
+            "on": "41C786E43000009F860100418B86E4300000E9EDCAEF8090",
+            "off": "000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "B5927D",
+            "on": "E9FE34107F9090",
+            "off": "418B86E4300000"
+        }]
+    }, {
+        "name": "Max all members base atk",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5C7B0",
+            "on": "41C786E83000003F420F00418B86E8300000E9D1CAEF8090",
+            "off": "000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "B59291",
+            "on": "E91A35107F9090",
+            "off": "418B86E8300000"
+        }]
+    }, {
+        "name": "Max stun power all members",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5C7E0",
+            "on": "C7401000C07944C5FA104810C5FA114810E9EF7FEF80",
+            "off": "00000000000000000000000000000000000000000000"
+        }, {
+            "offset": "B547E0",
+            "on": "E9FB7F107F",
+            "off": "C5FA114810"
+        }]
+    }, {
+        "name": "Max crit all members",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5C810",
+            "on": "41C786F430000064000000418B86F4300000E9BBCAEF8090",
+            "off": "000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "B592DB",
+            "on": "E93035107F9090",
+            "off": "418B86F4300000"
+        }]
+    }, {
+        "name": "Max rupies",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5C840",
+            "on": "41C74740FFC99A3B418B4740488D742415E9E3043182",
+            "off": "00000000000000000000000000000000000000000000"
+        }, {
+            "offset": "1F6CD34",
+            "on": "E907FBCE7D",
+            "off": "488D742415"
+        }]
+    }, {
+        "name": "Max MSP",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5C870",
+            "on": "41C787A80000003F420F00418B87A8000000E91005318290",
+            "off": "000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "1F6CD90",
+            "on": "E9DBFACE7D9090",
+            "off": "418B87A8000000"
+        }]
+    }],
+    "credits": ["d01v"]
+}
