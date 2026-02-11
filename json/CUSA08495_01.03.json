@@ -1,0 +1,208 @@
+{
+    "name": "DARK SOULS™: REMASTERED",
+    "id": "CUSA08495",
+    "version": "01.03",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Inf HP Master Code",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1837800",
+            "on": "4183BFC000000000750E4189B700040000E97EFBA3FE31F64189B700040000E970FBA3FE",
+            "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "27738D",
+            "on": "E96E045C019090",
+            "off": "4189B700040000"
+        }]
+    }, {
+        "name": "Stamina Master Code",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1837851",
+            "on": "83BBC4000000007513909090909090898B10040000E93704A4FE31C9898B10040000E92A04A4FE",
+            "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "277C9C",
+            "on": "E9B0FB5B0190",
+            "off": "898B10040000"
+        }]
+    }, {
+        "name": "Speed Hack Master Code",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1837878",
+            "on": "6681FC9083750FC7000000803FC5FA5900E9CC04B6FE480F44C1C5FA5900E9BF04B6FE",
+            "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "397D52",
+            "on": "E921FB4901909090",
+            "off": "480F44C1C5FA5900"
+        }]
+    }, {
+        "name": "Drop Rate Master Code",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "183789B",
+            "on": "49B988834100080000004D8B094183F906750B41C78784000000630000008994079C700000E9E539C8FE",
+            "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        }]
+    }, {
+        "name": "Player Infinite Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "183780A",
+            "on": "41898700040000",
+            "off": "4189B700040000"
+        }]
+    }, {
+        "name": "Player + Enemy Inf HP",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "27738D",
+            "on": "90909090909090",
+            "off": "E96E045C019090"
+        }]
+    }, {
+        "name": "Player Only Inf Stamina",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "183785A",
+            "on": "8B8B14040000",
+            "off": "909090909090"
+        }]
+    }, {
+        "name": "Player + NPC Inf Stamina",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1837851",
+            "on": "813B6860C50190",
+            "off": "83BBC400000000"
+        }, {
+            "offset": "183785A",
+            "on": "8B8B14040000",
+            "off": "909090909090"
+        }]
+    }, {
+        "name": "Everyone Else 0 Stamina",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1837858",
+            "on": "7511",
+            "off": "7513"
+        }]
+    }, {
+        "name": "Max Infinite Spell Uses",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "6EC089",
+            "on": "418944B71C",
+            "off": "418954B71C"
+        }]
+    }, {
+        "name": "Max Humanity on Use",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "27CE6E",
+            "on": "EB1190",
+            "off": "83F864"
+        }]
+    }, {
+        "name": "Max Infinite Souls",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "6F6423",
+            "on": "BEFFC99A3B90",
+            "off": "81FE00CA9A3B"
+        }]
+    }, {
+        "name": "Dupe Anything (Storage) + Max Items",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "6E825E",
+            "on": "89C3",
+            "off": "39C3"
+        }]
+    }, {
+        "name": "Never Lose Humanity when Die",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "3E414F",
+            "on": "9090909090909090909090",
+            "off": "41C7868400000000000000"
+        }]
+    }, {
+        "name": "Never Lose Souls when Die",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "3E4131",
+            "on": "90909090909090",
+            "off": "41898E94000000"
+        }]
+    }, {
+        "name": "Bleed Resistance",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "27D36A",
+            "on": "90909090909090",
+            "off": "41898638040000"
+        }]
+    }, {
+        "name": "Poison Resistance",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "27D2EC",
+            "on": "90909090909090",
+            "off": "41898630040000"
+        }]
+    }, {
+        "name": "Curse Resistance",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "27D3E8",
+            "on": "90909090909090",
+            "off": "4189863C040000"
+        }]
+    }, {
+        "name": "Speed Hack x1.25",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "183787F",
+            "on": "C7000000A03F",
+            "off": "C7000000803F"
+        }]
+    }, {
+        "name": "Speed Hack x1.50",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "183787F",
+            "on": "C7000000C03F",
+            "off": "C7000000803F"
+        }]
+    }, {
+        "name": "Speed Hack x2.00",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "183787F",
+            "on": "C70000000040",
+            "off": "C7000000803F"
+        }]
+    }, {
+        "name": "100% Drop Rate Press L3+R3",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "12B0794",
+            "on": "F63F1C46",
+            "off": "66660640"
+        }, {
+            "offset": "12B076C",
+            "on": "F63F1C46",
+            "off": "66660640"
+        }, {
+            "offset": "4BB2A3",
+            "on": "E9F3C537019090",
+            "off": "8994079C700000"
+        }]
+    }],
+    "credits": ["hejran7"]
+}

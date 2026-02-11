@@ -1,0 +1,136 @@
+{
+    "name": "Nioh 2",
+    "id": "CUSA15526",
+    "version": "01.08",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Unlimited Items",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "B36311",
+            "on": "9090909090909090",
+            "off": "66899C16745D1000"
+        }]
+    }, {
+        "name": "Unlimited Anima",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "92C64C",
+            "on": "90909090",
+            "off": "C5FA1117"
+        }]
+    }, {
+        "name": "Unlimited Yokai Shift Duration",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "9D801D",
+            "on": "90909090",
+            "off": "C5FA5CD9"
+        }]
+    }, {
+        "name": "Unlimited Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "2289330",
+            "on": "498B471849894720E967BBD3FE",
+            "off": "00000000000000000000000000"
+        }, {
+            "offset": "FC4E9D",
+            "on": "E98E442C019090",
+            "off": "498B47204885C0"
+        }]
+    }, {
+        "name": "Unlimited Ki",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "2289348",
+            "on": "C4C17A10474CC4C17A114748E90FBDD3FE",
+            "off": "0000000000000000000000000000000000"
+        }, {
+            "offset": "FC5062",
+            "on": "E9E1422C0190",
+            "off": "C4C17A104748"
+        }]
+    }, {
+        "name": "Unlimited Sentience",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "89D485",
+            "on": "909090909090",
+            "off": "C4E3694AC010"
+        }]
+    }, {
+        "name": "Max Weapon Proficiency",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "B0DAB7",
+            "on": "410107",
+            "off": "418907"
+        }]
+    }, {
+        "name": " Max Weapon Familiarity",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "F23FE9",
+            "on": "4501770C",
+            "off": "4589770C"
+        }]
+    }, {
+        "name": "max amrita",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "B0CE17",
+            "on": "490107",
+            "off": "498907"
+        }]
+    }, {
+        "name": "friand never go",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "AEBFB4",
+            "on": "909090909090",
+            "off": "03B760080000"
+        }]
+    }, {
+        "name": "Unlimited Shortcut Items",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "BF74DE",
+            "on": "909090",
+            "off": "4129CB"
+        }]
+    }, {
+        "name": "frind infinte hp",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "FBDA16",
+            "on": "4903442420",
+            "off": "498B442420"
+        }]
+    }, {
+        "name": "inc glory",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "BE5F31",
+            "on": "018BBC040000",
+            "off": "898BBC040000"
+        }]
+    }, {
+        "name": "Yokai Shift Duration no cooldown",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "924063",
+            "on": "90909090",
+            "off": "C5EA5CE1"
+        }]
+    }, {
+        "name": "inc itme",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "B36311",
+            "on": "66019C16745D1000",
+            "off": "66019C16745D1000"
+        }]
+    }],
+    "credits": ["Ibraheem"]
+}

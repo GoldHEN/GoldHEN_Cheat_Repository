@@ -1,0 +1,24 @@
+{
+    "name": "Shikhondo Soul Eater",
+    "id": "CUSA11603",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite-Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80744C9D",
+            "on": "90909090",
+            "off": "41895E7C"
+        }]
+    }, {
+        "name": "Infinite-Bomb",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8074B93D",
+            "on": "90909090909090",
+            "off": "41899E80000000"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

@@ -1,0 +1,80 @@
+{
+    "name": "Call of Duty® WWII (Campaign)",
+    "id": "CUSA08602",
+    "version": "01.25",
+    "process": "default.elf",
+    "mods": [{
+        "name": "Inf Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "106F800",
+            "on": "41813F011000007507418B97300200004189972C020000E997C89EFF90",
+            "off": "49813F0110000075130000000000000000000000000000000000000000"
+        }, {
+            "offset": "A5C0AC",
+            "on": "E94F3761009090",
+            "off": "4189972C020000"
+        }]
+    }, {
+        "name": "Inf Ammo / No Reload",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "D34DE7",
+            "on": "9090909090",
+            "off": "4429648810"
+        }]
+    }, {
+        "name": "Inf Throwables",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "D0E04E",
+            "on": "909090",
+            "off": "FF4810"
+        }]
+    }, {
+        "name": "Sherman Tank (Inf HP)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "106F81F",
+            "on": "4183BF1C0100000175034531ED4529AF2C020000E9B1BC9EFF",
+            "off": "00000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "A5B4E2",
+            "on": "E9384361009090",
+            "off": "4529AF2C020000"
+        }]
+    }, {
+        "name": "Tank MG (No Overheating)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "106F89D",
+            "on": "498B064981FCC70D000075094883F8147E034831C0488903E90D96BFFF",
+            "off": "0000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "C68EC1",
+            "on": "E9D769400090",
+            "off": "498B06488903"
+        }]
+    }, {
+        "name": "P-47 (Inf HP)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "B3EA8E",
+            "on": "C5FA2CC1",
+            "off": "C5FA2CC0"
+        }]
+    }, {
+        "name": "P-47  MG (No Overheating) ",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "106F83A",
+            "on": "498B064881F985040000750B483D0000003F7E034831C0488903E9CB39C0FF",
+            "off": "00000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "C7321E",
+            "on": "E917C63F0090",
+            "off": "498B06488903"
+        }]
+    }],
+    "credits": ["Saso"]
+}

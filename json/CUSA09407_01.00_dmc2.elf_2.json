@@ -1,0 +1,44 @@
+{
+    "name": "Devil May Cry® HD Collection (2)",
+    "id": "CUSA09407",
+    "version": "01.00",
+    "process": "dmc2.elf",
+    "mods": [{
+        "name": "Max/Infinite Health (DMC2)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5BAE0",
+            "on": "4983F900751041C7864001000010270000E9ABD63D806641899640010000E99ED63D80",
+            "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "39199",
+            "on": "E94229C27F909090",
+            "off": "6641899640010000"
+        }]
+    }, {
+        "name": "Max/Infinite Devil Trigger (DMC2)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC59BB0",
+            "on": "C7831E05000010270000E924CD5980",
+            "off": "000000000000000000000000000000"
+        }, {
+            "offset": "1F68DC",
+            "on": "E9CF32A67F9090",
+            "off": "6689831E050000"
+        }]
+    }, {
+        "name": "Max/Infinite Red Orbs (DMC2)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5AB90",
+            "on": "488B0090E9EE595380",
+            "off": "000000000000000000"
+        }, {
+            "offset": "190581",
+            "on": "E90AA6AC7F90",
+            "off": "488B008B4078"
+        }]
+    }],
+    "credits": ["Celogamez"]
+}
