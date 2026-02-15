@@ -1,0 +1,60 @@
+{
+    "name": "YAKUZA KIWAMI",
+    "id": "CUSA07615",
+    "version": "01.09",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Godmode",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "11D47E0",
+            "on": "49BDD02F0900020000004C39E8740466894816C3",
+            "off": "0000000000000000000000000000000000000000"
+        }, {
+            "offset": "296E56",
+            "on": "E985D9F300",
+            "off": "66894816C3"
+        }]
+    }, {
+        "name": "Infinite Heat Gauge",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "11D47F4",
+            "on": "C7401C008C8647E915A107FF",
+            "off": "000000000000000000000000"
+        }, {
+            "offset": "24E910",
+            "on": "E9DF5EF800",
+            "off": "C5FA11401C"
+        }]
+    }, {
+        "name": "Infinite Skillpoints",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "11D4800",
+            "on": "41C744C648B8820100E9FBE357FF",
+            "off": "0000000000000000000000000000"
+        }, {
+            "offset": "752C04",
+            "on": "E9F71BA800",
+            "off": "498954C648"
+        }]
+    }, {
+        "name": "Infinite Money, CP",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7567DD",
+            "on": "9090909090909090",
+            "off": "49898CC7A8C80000"
+        }]
+    }, {
+        "name": "Infinite Weapon Durability",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "754B08",
+            "on": "90909090",
+            "off": "66894802"
+        }]
+    }],
+    "credits": ["TLH"]
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Remnant: From the Ashes",
+    "id": "CUSA13830",
+    "version": "01.24",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5F5E0",
+            "on": "83BB7402000000750DC5FA108B70080000E967B5BF80C5FA118B70080000E95AB5BF80",
+            "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "85AB55",
+            "on": "E9864A407F909090",
+            "off": "C5FA118B70080000"
+        }]
+    }, {
+        "name": "Infinite Endurance",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5FF80",
+            "on": "C5FA108B40010000E9C2EBBD80",
+            "off": "00000000000000000000000000"
+        }, {
+            "offset": "83EB47",
+            "on": "E93414427F909090",
+            "off": "C5FA118B40010000"
+        }]
+    }, {
+        "name": "No Reload",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "9639F6",
+            "on": "442B7654",
+            "off": "44297654"
+        }]
+    }, {
+        "name": "Max/Infinite Items",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5FEA0",
+            "on": "89702CC6402C63E93944CE80",
+            "off": "000000000000000000000000"
+        }, {
+            "offset": "9442E0",
+            "on": "E9BBBB317F",
+            "off": "740389702C"
+        }]
+    }, {
+        "name": "Max/Infinite Consumables/Resources/Money",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5F890",
+            "on": "89472CC7472C3F420F00E90FF5CE80",
+            "off": "000000000000000000000000000000"
+        }, {
+            "offset": "94EDA9",
+            "on": "E9E20A317F",
+            "off": "01D889472C"
+        }]
+    }, {
+        "name": "MAX XP (On Kill)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5F8F0",
+            "on": "89BB24010000E9A3DBD580",
+            "off": "0000000000000000000000"
+        }, {
+            "offset": "9BD497",
+            "on": "E954242A7F9090",
+            "off": "4401B324010000"
+        }]
+    }],
+    "credits": ["Celogamez"]
+}

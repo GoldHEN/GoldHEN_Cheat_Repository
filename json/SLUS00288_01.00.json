@@ -1,0 +1,36 @@
+{
+    "name": "Contra - Legacy of War",
+    "id": "SLUS00288",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "infinite lives",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "11B6B2",
+            "on": "00",
+            "off": "42"
+        }]
+    }, {
+        "name": "Invincible P1",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "116FE8",
+            "on": "65",
+            "off": "FF"
+        }, {
+            "offset": "116FE9",
+            "on": "00",
+            "off": "FF"
+        }, {
+            "offset": "116FEA",
+            "on": "02",
+            "off": "62"
+        }, {
+            "offset": "116FEB",
+            "on": "34",
+            "off": "24"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

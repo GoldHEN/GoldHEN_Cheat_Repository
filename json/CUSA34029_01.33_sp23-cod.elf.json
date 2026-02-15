@@ -1,0 +1,48 @@
+{
+    "name": "Call of Duty® Modern Warfare® III",
+    "id": "CUSA34029",
+    "version": "01.33",
+    "process": "sp23-cod.elf",
+    "mods": [{
+        "name": "Inf Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "33CF800",
+            "on": "4D31D2452996D0010000E9F1D503FF",
+            "off": "000000000000000000000000000000"
+        }, {
+            "offset": "240CDF9",
+            "on": "E9022AFC009090",
+            "off": "452996D0010000"
+        }, {
+            "offset": "250275C",
+            "on": "C5FA2CC2",
+            "off": "C5FA2CC0"
+        }]
+    }, {
+        "name": "Inf Armor ",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "33CF82C",
+            "on": "0FB69D05FFFFFF83FB01751B4D39D67516534B8D1C27817B080E49E5A35B750748C7C0E8030000E9A7E150FE90",
+            "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "18DD9F8",
+            "on": "E92F1EAF019090",
+            "off": "0FB69D05FFFFFF"
+        }]
+    }, {
+        "name": "Inf Ammo / Grenade / No Reload",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "33CF811",
+            "on": "0F49DF664181FCFFFF7505BB63000000895C8864E98ADAC2FE",
+            "off": "00000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "1FFD2AD",
+            "on": "E95F253D019090",
+            "off": "0F49DF895C8864"
+        }]
+    }],
+    "credits": ["Saso_9.00"]
+}

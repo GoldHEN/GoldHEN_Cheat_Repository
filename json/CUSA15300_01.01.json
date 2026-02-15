@@ -1,0 +1,28 @@
+{
+    "name": "Travis Strikes Again: No More Heroes ",
+    "id": "CUSA15300",
+    "version": "01.01",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Max Exp On Gain",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "625455",
+            "on": "49895E50",
+            "off": "41894650"
+        }]
+    }, {
+        "name": "Max LB On Gain",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "4D9381D",
+            "on": "41C74648FFE0F505E93B0789FB",
+            "off": "00000000000000000000000000"
+        }, {
+            "offset": "623F5B",
+            "on": "E9BDF87604",
+            "off": "E9AEF87604"
+        }]
+    }],
+    "credits": ["Scalerize"]
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Okami",
+    "id": "CUSA08418",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8CB87D",
+            "on": "4889CA668910E98B0EAAFF",
+            "off": "0000000000000000000000"
+        }, {
+            "offset": "36C6CF",
+            "on": "E9A9F1550090",
+            "off": "6689106685D2"
+        }]
+    }, {
+        "name": "1 Hit Kill (Small enemies only)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8CB800",
+            "on": "C783440E000000000000E9A4F984FF",
+            "off": "000000000000000000000000000000"
+        }, {
+            "offset": "11B1AC",
+            "on": "E94F067B009090",
+            "off": "4429BB440E0000"
+        }]
+    }, {
+        "name": "Max Yen On Gain",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8CB860",
+            "on": "C74110FFE0F505E9FA11B1FF",
+            "off": "000000000000000000000000"
+        }, {
+            "offset": "3DCA30",
+            "on": "E92BEE4E00",
+            "off": "8971107E31"
+        }]
+    }, {
+        "name": "Max Karma On Gain",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8CB900",
+            "on": "48C7C20F27000089500AE9E711AAFF",
+            "off": "000000000000000000000000000000"
+        }, {
+            "offset": "36CAAD",
+            "on": "E94EEE5500909090",
+            "off": "6689500A66BA0F27"
+        }]
+    }, {
+        "name": "Max Demon Fangs On Gain",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8CB86E",
+            "on": "6642C7446860DCFFE97C10B1FF",
+            "off": "00000000000000000000000000"
+        }, {
+            "offset": "3DC8F1",
+            "on": "E978EF4E0090",
+            "off": "6642895C6860"
+        }]
+    }, {
+        "name": "Infinite Double Jump (After It Is Unlocked)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "2D4704",
+            "on": "90909090909090",
+            "off": "41888D45110000"
+        }]
+    }],
+    "credits": ["Skal"]
+}

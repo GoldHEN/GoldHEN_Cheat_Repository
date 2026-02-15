@@ -1,0 +1,52 @@
+{
+    "name": "Rogue Trooper",
+    "id": "SLUS21320",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Invincible",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8081A11F2E",
+            "on": "FF",
+            "off": "FF"
+        }, {
+            "offset": "8081A11F2F",
+            "on": "55",
+            "off": "55"
+        }]
+    }, {
+        "name": "Infinite-Items/Grenades",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FE7CD60",
+            "on": "00000000",
+            "off": "00000000"
+        }]
+    }, {
+        "name": "Infinite-Supplies",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808094D837",
+            "on": "00000001",
+            "off": "00000001"
+        }]
+    }, {
+        "name": "Never-Reload-Shotgun-ALL",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FFA3158",
+            "on": "00000000",
+            "off": "00000000"
+        }, {
+            "offset": "807FF9B638",
+            "on": "00000000",
+            "off": "00000000"
+        }, {
+            "offset": "807FF8D128",
+            "on": "00000000",
+            "off": "00000000"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

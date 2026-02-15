@@ -1,0 +1,16 @@
+{
+    "name": "CASTLEVANIA SOTN REBORN",
+    "id": "SLUS00067",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite-Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1EA08D",
+            "on": "99",
+            "off": "10"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

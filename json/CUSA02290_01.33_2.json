@@ -1,0 +1,49 @@
+{
+  "name": "Call of Duty®: Black Ops III",
+  "id": "CUSA02290",
+  "version": "01.33",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A2F1F",
+          "on": "9090909090909090",
+          "off": "43898435C8020000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "151F850",
+          "on": "C783A46E0100FFE0F505E9C9F645FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "97EF22",
+          "on": "E92909BA0090",
+          "off": "8983A46E0100"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1193E2A",
+          "on": "909090",
+          "off": "448928"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "EchoStretch"
+  ]
+}

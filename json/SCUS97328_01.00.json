@@ -1,0 +1,68 @@
+{
+    "name": "Gran Turismo 4",
+    "id": "SCUS97328",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "1 Billion Credits",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808061FCA8",
+            "on": "5E98F657",
+            "off": "5E98F657"
+        }, {
+            "offset": "808061FCAC",
+            "on": "706F727A",
+            "off": "706F727A"
+        }]
+    }, {
+        "name": "Max Days",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080617AB8",
+            "on": "75F62600",
+            "off": "75F62600"
+        }]
+    }, {
+        "name": "Max Races Won With No Losses",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808060C22C",
+            "on": "00000000",
+            "off": "00000000"
+        }, {
+            "offset": "808060C230",
+            "on": "0F270000",
+            "off": "0F270000"
+        }, {
+            "offset": "808060C234",
+            "on": "00000000",
+            "off": "00000000"
+        }, {
+            "offset": "808060C238",
+            "on": "00000000",
+            "off": "00000000"
+        }]
+    }, {
+        "name": "Max Total Prize Credits",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808060C220",
+            "on": "0010A5D4",
+            "off": "0010A5D4"
+        }, {
+            "offset": "808060C224",
+            "on": "E8000000",
+            "off": "E8000000"
+        }]
+    }, {
+        "name": "Buying Items Doesnt Decrease Credits",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808003AFD0",
+            "on": "2D284000",
+            "off": "2D284000"
+        }]
+    }],
+    "credits": ["W"]
+}

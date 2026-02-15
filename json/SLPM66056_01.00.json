@@ -1,0 +1,36 @@
+{
+    "name": "Mushihime-sama",
+    "id": "SLPM66056",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Invincible P1",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FDF4E40",
+            "on": "0000",
+            "off": "FFFF"
+        }, {
+            "offset": "807FDF4E41",
+            "on": "0000",
+            "off": "FFFF"
+        }]
+    }, {
+        "name": "Infinite Lives P1",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808010DECC",
+            "on": "63",
+            "off": "02"
+        }]
+    }, {
+        "name": "Infinite bomb P1",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FDF47A2",
+            "on": "00",
+            "off": "63"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

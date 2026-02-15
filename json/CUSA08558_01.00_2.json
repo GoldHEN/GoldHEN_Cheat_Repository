@@ -1,0 +1,76 @@
+{
+    "name": "Dead Rising 4: Frank's Big Package",
+    "id": "CUSA08558",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "God Mode",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "2AFB800",
+            "on": "448B701844897014E998378DFE",
+            "off": "00000000000000000000000000"
+        }, {
+            "offset": "13CEF9F",
+            "on": "E95CC8720190",
+            "off": "7404448B7014"
+        }]
+    }, {
+        "name": "Infinite Ammo",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "2AFB80D",
+            "on": "C7402800007F43C5FA104028E9FE36BEFE",
+            "off": "0000000000000000000000000000000000"
+        }, {
+            "offset": "16DEF17",
+            "on": "E9F1C84101",
+            "off": "C5FA104028"
+        }]
+    }, {
+        "name": "Infinite Throwables",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "2AFB81E",
+            "on": "41C7451C00007F43C4C17A104D1CE92538BEFE",
+            "off": "00000000000000000000000000000000000000"
+        }, {
+            "offset": "16DF050",
+            "on": "E9C9C7410190",
+            "off": "C4C17A104D1C"
+        }]
+    }, {
+        "name": "Max EXP/PP on Gain",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "2AFB831",
+            "on": "41C6866003000001BBFFC99A3B895A04E9DF3528FE",
+            "off": "000000000000000000000000000000000000000000"
+        }, {
+            "offset": "D7EE1A",
+            "on": "E912CAD701909090909090",
+            "off": "41C6866003000001015A04"
+        }]
+    }, {
+        "name": "Infinite Vehicle Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "2AFB846",
+            "on": "448B4018448940148B4018E9C0BC7DFE",
+            "off": "00000000000000000000000000000000"
+        }, {
+            "offset": "12D750F",
+            "on": "E9324382019090",
+            "off": "448B40148B4018"
+        }, {
+            "offset": "2AFB856",
+            "on": "448B4018448940148B4018E94A877CFE",
+            "off": "00000000000000000000000000000000"
+        }, {
+            "offset": "12C3FA9",
+            "on": "E9A87883019090",
+            "off": "448B40148B4018"
+        }]
+    }],
+    "credits": ["Rizla"]
+}

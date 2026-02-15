@@ -1,0 +1,56 @@
+{
+    "name": "Ghost Rider",
+    "id": "SLUS21306",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Return-to-Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8081126380",
+            "on": "000000FF",
+            "off": "000000FF"
+        }, {
+            "offset": "8081126381",
+            "on": "000000FF",
+            "off": "000000FF"
+        }, {
+            "offset": "8081126382",
+            "on": "000000FF",
+            "off": "000000FF"
+        }]
+    }, {
+        "name": "MAX-SOULS-(9999999)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808112636C",
+            "on": "FF",
+            "off": "FF"
+        }, {
+            "offset": "808112636D",
+            "on": "FF",
+            "off": "FF"
+        }, {
+            "offset": "808112636E",
+            "on": "FF",
+            "off": "FF"
+        }, {
+            "offset": "808112636F",
+            "on": "63",
+            "off": "63"
+        }]
+    }, {
+        "name": "Infinite-Health-2",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080BC25F2",
+            "on": "99",
+            "off": "99"
+        }, {
+            "offset": "8080BC25F3",
+            "on": "55",
+            "off": "55"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

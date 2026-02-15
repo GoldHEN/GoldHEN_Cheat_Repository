@@ -1,0 +1,104 @@
+{
+    "name": "Mega-Man-X8",
+    "id": "SLUS20960",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Characters-1-Invincible",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808024E373",
+            "on": "FF",
+            "off": "FF"
+        }, {
+            "offset": "808024E374",
+            "on": "55",
+            "off": "55"
+        }]
+    }, {
+        "name": "Characters-1-Inf-Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808024E35C",
+            "on": "FF",
+            "off": "FF"
+        }, {
+            "offset": "808024E35D",
+            "on": "55",
+            "off": "55"
+        }]
+    }, {
+        "name": "Characters-2-Inf-Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808024E14C",
+            "on": "FF",
+            "off": "FF"
+        }, {
+            "offset": "808024E14D",
+            "on": "55",
+            "off": "55"
+        }]
+    }, {
+        "name": "Characters-2-Invincible",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808024E104",
+            "on": "FF",
+            "off": "FF"
+        }, {
+            "offset": "808024E105",
+            "on": "55",
+            "off": "55"
+        }]
+    }, {
+        "name": "Infinite-Bomb",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80804B114C",
+            "on": "4718664",
+            "off": "4718664"
+        }]
+    }, {
+        "name": "Shining-Ray",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80804B1148",
+            "on": "4718664",
+            "off": "4718664"
+        }]
+    }, {
+        "name": "Shadow-Runner",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80804B1150",
+            "on": "4718664",
+            "off": "4718664"
+        }]
+    }, {
+        "name": "Drift-Diamond",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80804B1154",
+            "on": "4718664",
+            "off": "4718664"
+        }]
+    }, {
+        "name": "Crystal-Wall",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80804B1154",
+            "on": "4718664",
+            "off": "4718664"
+        }]
+    }, {
+        "name": "Green-Spinner",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80804B1158",
+            "on": "4718664",
+            "off": "4718664"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

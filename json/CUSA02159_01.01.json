@@ -1,0 +1,40 @@
+{
+    "name": "Onechanbara Z2: Chaos",
+    "id": "CUSA02159",
+    "version": "01.01",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Max Money and Skill points",
+        "type": "button",
+        "memory": [{
+            "offset": "545F9988",
+            "on": "99919466",
+            "off": "99919466"
+        }]
+    }, {
+        "name": "Max Cure Gem",
+        "type": "button",
+        "memory": [{
+            "offset": "545F92E8",
+            "on": "99",
+            "off": "99"
+        }]
+    }, {
+        "name": "Max Goddess Statue Shard",
+        "type": "button",
+        "memory": [{
+            "offset": "545F92FC",
+            "on": "99",
+            "off": "99"
+        }]
+    }, {
+        "name": "Max Power Gem",
+        "type": "button",
+        "memory": [{
+            "offset": "545F92EC",
+            "on": "99",
+            "off": "99"
+        }]
+    }],
+    "credits": ["GamerX2"]
+}

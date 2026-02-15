@@ -1,0 +1,44 @@
+{
+    "name": "Castle Shikigami 2",
+    "id": "SLUS20962",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Invincible",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FEC0868",
+            "on": "63000000",
+            "off": "63000000"
+        }, {
+            "offset": "807FEC0869",
+            "on": "FF000000",
+            "off": "FF000000"
+        }]
+    }, {
+        "name": "Inf-Energy",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FEC0824",
+            "on": "63000000",
+            "off": "63000000"
+        }, {
+            "offset": "807FEC0825",
+            "on": "63000000",
+            "off": "63000000"
+        }]
+    }, {
+        "name": "Inf-Bomb",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FEC083A",
+            "on": "63000000",
+            "off": "63000000"
+        }, {
+            "offset": "807FEC083B",
+            "on": "63000000",
+            "off": "63000000"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

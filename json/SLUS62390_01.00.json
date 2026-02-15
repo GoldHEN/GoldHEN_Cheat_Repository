@@ -1,0 +1,44 @@
+{
+    "name": "Super Mario - 64",
+    "id": "SLUS62390",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Max-GOLD",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080AF2040",
+            "on": "63000000",
+            "off": "63000000"
+        }, {
+            "offset": "8080AF2041",
+            "on": "00000000",
+            "off": "00000000"
+        }]
+    }, {
+        "name": "Inf-Energy",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080AF2047",
+            "on": "63",
+            "off": "63"
+        }]
+    }, {
+        "name": "Invincible",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080AF1FBF",
+            "on": "FF000000",
+            "off": "FF000000"
+        }]
+    }, {
+        "name": "Infinite-lives",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080AF2045",
+            "on": "63",
+            "off": "63"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

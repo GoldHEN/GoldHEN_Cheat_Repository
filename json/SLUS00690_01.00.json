@@ -1,0 +1,40 @@
+{
+    "name": "G. Darius",
+    "id": "SLUS00690",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite-lives",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "13BEEA",
+            "on": "00",
+            "off": "62"
+        }]
+    }, {
+        "name": "Invincible",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "13B68E",
+            "on": "00",
+            "off": "82"
+        }]
+    }, {
+        "name": "Infinite-credits",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "129612",
+            "on": "00",
+            "off": "62"
+        }]
+    }, {
+        "name": "Inf-Capture-Ball",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "146EAE",
+            "on": "00",
+            "off": "42"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

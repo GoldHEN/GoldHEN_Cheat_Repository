@@ -1,0 +1,48 @@
+{
+    "name": "Metal Gear Solid 3 Snake Eater Master Collection",
+    "id": "CUSA41305",
+    "version": "01.40",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Life",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "3FD609",
+            "on": "90909090909090",
+            "off": "66298184060000"
+        }]
+    }, {
+        "name": "Grenades",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "11AEEB",
+            "on": "90909090",
+            "off": "66FF4F24"
+        }]
+    }, {
+        "name": "Medical",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "11B69F",
+            "on": "909090",
+            "off": "668911"
+        }]
+    }, {
+        "name": "No Reload",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "11AEC4",
+            "on": "90909090",
+            "off": "66894728"
+        }]
+    }, {
+        "name": "Bullets",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "11AECA",
+            "on": "90909090",
+            "off": "66FF4F24"
+        }]
+    }],
+    "credits": ["Big_Wadger"]
+}

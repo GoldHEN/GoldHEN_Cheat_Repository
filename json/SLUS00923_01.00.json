@@ -1,0 +1,104 @@
+{
+    "name": "Resident Evil 3 - Nemesis (USA)",
+    "id": "SLUS00923",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Inf-Ammo All Weapons",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "15830A",
+            "on": "00",
+            "off": "10"
+        }]
+    }, {
+        "name": "Infinite Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "129042",
+            "on": "40",
+            "off": "44"
+        }]
+    }, {
+        "name": "Inf-Ink-Ribbons-HARD MODE",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "157FCC",
+            "on": "99",
+            "off": "10"
+        }]
+    }, {
+        "name": "handgun SIGPRO",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1BD3D4",
+            "on": "11FFFFFF",
+            "off": "00000000"
+        }]
+    }, {
+        "name": "Infinite-rocket launcher",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1BD3D4",
+            "on": "0AFFFF",
+            "off": "040000"
+        }]
+    }, {
+        "name": "Infinite-grenade launcher",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1BD3D4",
+            "on": "06FFFF",
+            "off": "000000"
+        }]
+    }, {
+        "name": "Infinite-handgun EAGLE",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1BD3D4",
+            "on": "0DFFFF",
+            "off": "000000"
+        }]
+    }, {
+        "name": "Infinite-shotgun",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1BD3D4",
+            "on": "04FFFF",
+            "off": "000000"
+        }]
+    }, {
+        "name": "Infinite-machine gun",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1BD3D4",
+            "on": "0BFFFF",
+            "off": "000000"
+        }]
+    }, {
+        "name": "Ink Ribbon",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1BD3D4",
+            "on": "81FFFF",
+            "off": "000000"
+        }]
+    }, {
+        "name": "Infinite-Assault Rifle",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1BD3D5",
+            "on": "FFFF",
+            "off": "10"
+        }]
+    }, {
+        "name": "Infinite-magnum",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1BD3D5",
+            "on": "05FFFF",
+            "off": "0606"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

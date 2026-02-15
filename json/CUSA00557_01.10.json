@@ -1,0 +1,36 @@
+{
+    "name": "The Last of Us™ Remastered",
+    "id": "CUSA00557",
+    "version": "01.10",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Parts, Pills",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "89022",
+            "on": "664589BC5FF4000000",
+            "off": "664589B45FF40000"
+        }]
+    }, {
+        "name": "Flashlight Never Dies",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "697B88",
+            "on": "c4817a118dd4070000",
+            "off": "c4c17a1195d4070000"
+        }]
+    }, {
+        "name": "All Tools Pickup Level 5",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "68462",
+            "on": "C784BB4864010005000000C39090",
+            "off": "9090909090909090909090909090"
+        }, {
+            "offset": "68742",
+            "on": "E81BFDFFFF9090",
+            "off": "FF84BB48640100"
+        }]
+    }],
+    "credits": ["illusion"]
+}

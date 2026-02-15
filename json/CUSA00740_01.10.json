@@ -1,0 +1,164 @@
+{
+    "name": "Terraria",
+    "id": "CUSA00740",
+    "version": "01.10",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Invincible",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80259A40",
+            "on": "410FB68785040000",
+            "off": "410FB68784040000"
+        }]
+    }, {
+        "name": "Infinite HP",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "802AA6D5",
+            "on": "01D1",
+            "off": "2BCA"
+        }, {
+            "offset": "8025B4F8",
+            "on": "90909090909090",
+            "off": "41898770060000"
+        }, {
+            "offset": "8025AE2A",
+            "on": "83C005",
+            "off": "83E805"
+        }]
+    }, {
+        "name": "Infinite Mana",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "802BE65F",
+            "on": "90909090909090",
+            "off": "41898774060000"
+        }]
+    }, {
+        "name": "Infinite Oxygen",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80272000",
+            "on": "909090909090",
+            "off": "898824050000"
+        }]
+    }, {
+        "name": "One Hit Kill",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80691E14",
+            "on": "29C0",
+            "off": "2BC1"
+        }, {
+            "offset": "80691D91",
+            "on": "29C9",
+            "off": "2BCA"
+        }]
+    }, {
+        "name": "Craft Anything",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80304009",
+            "on": "723B",
+            "off": "743B"
+        }]
+    }, {
+        "name": "INV-Take one for Max",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "804D5B33",
+            "on": "486388BC000000",
+            "off": "486388B8000000"
+        }, {
+            "offset": "802DC6C4",
+            "on": "9090",
+            "off": "FFC8"
+        }, {
+            "offset": "80302817",
+            "on": "9090",
+            "off": "2BCB"
+        }]
+    }, {
+        "name": "Big Weapon After Take and Place",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80532CEB",
+            "on": "66C780FE0000004040",
+            "off": "F3440F11B8FC000000"
+        }]
+    }, {
+        "name": "50% Brightness",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "12DB834",
+            "on": "C74014CDCC4C3FE9A1E9EC7E",
+            "off": "000000000000000000000000"
+        }, {
+            "offset": "801AA1DB",
+            "on": "E95416138190",
+            "off": "F3440F117814"
+        }, {
+            "offset": "12DB840",
+            "on": "C74024CDCC4C3FE9B3E9EC7E",
+            "off": "000000000000000000000000"
+        }, {
+            "offset": "801AA1F9",
+            "on": "E94216138190",
+            "off": "F3440F117824"
+        }, {
+            "offset": "12DB84C",
+            "on": "C7401CCDCC4C3FE998E9EC7E",
+            "off": "000000000000000000000000"
+        }, {
+            "offset": "801AA1EA",
+            "on": "E95D16138190",
+            "off": "F3440F11781C"
+        }]
+    }, {
+        "name": "Freeze Timer",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "801DCCFB",
+            "on": "909090909090",
+            "off": "F3440F117824"
+        }]
+    }, {
+        "name": "Fast Forward Time",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "12DB800",
+            "on": "83C018F20F2AC8F20F58C1E9DF14F07E",
+            "off": "00000000000000000000000000000000"
+        }, {
+            "offset": "801DCCE7",
+            "on": "E914EB0F81909090",
+            "off": "F20F2AC8F20F58C1"
+        }]
+    }, {
+        "name": "Switch to Day Time 7:00 AM",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "12DB810",
+            "on": "C7402400A00C46E9E514F07E",
+            "off": "000000000000000000000000"
+        }, {
+            "offset": "801DCCFB",
+            "on": "E910EB0F8190",
+            "off": "F3440F117824"
+        }]
+    }, {
+        "name": "Switch to Night Time 7:00 PM",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "12DB81C",
+            "on": "C7402400E84B47E9D914F07E",
+            "off": "000000000000000000000000"
+        }, {
+            "offset": "801DCCFB",
+            "on": "E91CEB0F8190",
+            "off": "F3440F117824"
+        }]
+    }],
+    "credits": ["Molly & hejran7"]
+}

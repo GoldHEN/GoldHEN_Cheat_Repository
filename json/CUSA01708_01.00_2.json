@@ -1,0 +1,197 @@
+{
+    "name": "Devil May Cry 4 Special Edition",
+    "id": "CUSA01708",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "GodMode",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "EE7232",
+            "on": "C5FA104340C5FA5CD983BB9C000000030F85A4EA3AFFE9A4EA3AFF",
+            "off": "000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "295CE3",
+            "on": "E94A15C500",
+            "off": "C5FA104340C5FA5CD9"
+        }]
+    }, {
+        "name": "Nero Inf Max Act",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "5E050A",
+            "on": "909090909090",
+            "off": "8983100D0100"
+        }]
+    }, {
+        "name": "Nero Instant Charge Shot",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "60C9B4",
+            "on": "90909090",
+            "off": "0FB7420A"
+        }]
+    }, {
+        "name": "Dante Inf Disaster Gauge",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "C0909",
+            "on": "C5FA1183D49E0100",
+            "off": "C5FA1083D49E0100"
+        }]
+    }, {
+        "name": "Dante Inf Royal Guard",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "C07BE",
+            "on": "C5FA118340990100",
+            "off": "C5FA108340990100"
+        }]
+    }, {
+        "name": "Vergil Inf Concentration Gauge",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1140F3",
+            "on": "C5FA118360910000",
+            "off": "C5F82E8360910000"
+        }]
+    }, {
+        "name": "Lady Instant Charge Shot",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "60C9AF",
+            "on": "C5FA114E10",
+            "off": "C5FA114610"
+        }, {
+            "offset": "DCACF",
+            "on": "4C89B3B420000090",
+            "off": "C5FA10A3B4200000"
+        }]
+    }, {
+        "name": "Trish Inf Round Trip",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "106B90",
+            "on": "48898BFCB4000090",
+            "off": "C5FA1083FCB40000"
+        }]
+    }, {
+        "name": "Freeze Mission Time",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1AC83D",
+            "on": "9090909090",
+            "off": "C5FA114320"
+        }]
+    }, {
+        "name": "Inf Devil Trigger",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "5977D4",
+            "on": "9090909090909090",
+            "off": "C5FA1083682A0000"
+        }, {
+            "offset": "5976DD",
+            "on": "9090909090909090",
+            "off": "C5FA118B642A0000"
+        }, {
+            "offset": "5984BF",
+            "on": "9090909090909090",
+            "off": "C5FA118B642A0000"
+        }]
+    }, {
+        "name": "Inf Red Orbs",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "203BE4",
+            "on": "B8000F243F90",
+            "off": "8B8384010000"
+        }]
+    }, {
+        "name": "Inf Proud Souls",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "22004C",
+            "on": "B8000F243F",
+            "off": "3D3F420F00"
+        }, {
+            "offset": "220078",
+            "on": "B8000F243F",
+            "off": "3D3F420F00"
+        }, {
+            "offset": "22001C",
+            "on": "B8000F243F",
+            "off": "3D3F420F00"
+        }, {
+            "offset": "2200CA",
+            "on": "B8000F243F",
+            "off": "3D3F420F00"
+        }, {
+            "offset": "2200A1",
+            "on": "B8000F243F",
+            "off": "3D3F420F00"
+        }]
+    }, {
+        "name": "Inf Devilstar L",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "21FC55",
+            "on": "BA0A00000090",
+            "off": "83FB0A0F4ED3"
+        }]
+    }, {
+        "name": "Inf Gold Orbs Hell and Hell",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "167B76",
+            "on": "909090909090",
+            "off": "FF88BC010000"
+        }]
+    }, {
+        "name": "Inf Gold Orbs in Missions",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "21F98B",
+            "on": "90909090",
+            "off": "41895728"
+        }]
+    }, {
+        "name": "Inf Health Enemy and Player for Practice",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "295CEC",
+            "on": "9090909090",
+            "off": "C5FA115B40"
+        }]
+    }, {
+        "name": "Max Mission Red Orbs Pick One at Least",
+        "hint": null,
+        "type": "checkbox",
+        "memory": [{
+            "offset": "EE7800",
+            "on": "448BB38A010000418A04244489B38C010000E9A1C431FF",
+            "off": "0000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "203CAD",
+            "on": "E94E3BCE00909090909090",
+            "off": "4401B38C010000418A0424"
+        }]
+    }],
+    "credits": ["Weysincha"]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Teenage Mutant Ninja Turtles 2",
+    "id": "SLUS20981",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "RETURN-Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080170B68",
+            "on": "FF",
+            "off": "FF"
+        }, {
+            "offset": "8080170B69",
+            "on": "3F",
+            "off": "3F"
+        }, {
+            "offset": "8080170B6A",
+            "on": "7A",
+            "off": "7A"
+        }]
+    }, {
+        "name": "RETURN-Shurikens",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "808038DCA8",
+            "on": "00000063",
+            "off": "00000063"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

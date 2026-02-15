@@ -1,0 +1,56 @@
+{
+    "name": "sand land",
+    "id": "CUSA34697",
+    "version": "01.03",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Max Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "5FF00",
+            "on": "813BD8965109750CC783A80D0000F6090000EB06898BA80D0000E934443882",
+            "off": "00000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "1FE434D",
+            "on": "E9AEBBC77D90",
+            "off": "898BA80D0000"
+        }]
+    }, {
+        "name": "XP x2",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8CA7800",
+            "on": "456BE40245896730E9C98932F9E9BD8932F9",
+            "off": "000000000000000000000000000000000000"
+        }, {
+            "offset": "1FD01C9",
+            "on": "E93276CD0690",
+            "off": "45896730EB07"
+        }]
+    }, {
+        "name": "Money x2",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8CA7814",
+            "on": "6BC0028947480F8490CE71F9E968CE71F9",
+            "off": "0000000000000000000000000000000000"
+        }, {
+            "offset": "23C4688",
+            "on": "E987318E06",
+            "off": "8947487423"
+        }]
+    }, {
+        "name": "Items x99",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8CA7837",
+            "on": "C703630000004584E4E9A1C171F9",
+            "off": "0000000000000000000000000000"
+        }, {
+            "offset": "23C39E0",
+            "on": "E9523E8E06",
+            "off": "E9423E8E06"
+        }]
+    }],
+    "credits": ["Q8Despair"]
+}

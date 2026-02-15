@@ -1,0 +1,44 @@
+{
+    "name": "infinity strash: dragon quest the adventure of dai!",
+    "id": "CUSA35744",
+    "version": "01.02",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "5FEC0",
+            "on": "813F9000DA06750CC787B4000000F6090000EB068997B4000000E907F10781",
+            "off": "00000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "CDEFE0",
+            "on": "E9DB0EF87E90",
+            "off": "8997B4000000"
+        }]
+    }, {
+        "name": "Max Meomry Ambers/Mote",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "664B800",
+            "on": "C74008C40900000F8E0ADA79FAE92FD979FA",
+            "off": "000000000000000000000000000000000000"
+        }, {
+            "offset": "DE9138",
+            "on": "E9C326860590909090",
+            "off": "8950080F8ED6000000"
+        }]
+    }, {
+        "name": "Infinite Consumables(must have 2)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "664B814",
+            "on": "C74710630000008B4F50E91C0795FA",
+            "off": "000000000000000000000000000000"
+        }, {
+            "offset": "F9BF39",
+            "on": "E9D6F86A0590",
+            "off": "8947108B4F50"
+        }]
+    }],
+    "credits": ["Q8Despair"]
+}

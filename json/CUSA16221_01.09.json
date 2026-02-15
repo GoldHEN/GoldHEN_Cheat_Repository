@@ -1,0 +1,64 @@
+{
+    "name": "Streets Of Rage 4",
+    "id": "CUSA16221",
+    "version": "01.09",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Max/Infinite Health/Special Attack/1 Hit Kill (Master Code)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "334FDB0",
+            "on": "41807C2448007511418B6C242041896C242CE9ACD1FEFC31ED41896C242CE9A0D1FEFC",
+            "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "33CF6E",
+            "on": "E93D2E0103",
+            "off": "41896C242C"
+        }]
+    }, {
+        "name": "1 Hit Kill (Enable MC)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "334FDB6",
+            "on": "750F",
+            "off": "7511"
+        }]
+    }, {
+        "name": "Max/Infinite Lives",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "334FBA0",
+            "on": "0F839B15FEFCC6440B3009E9B20FFEFC",
+            "off": "00000000000000000000000000000000"
+        }, {
+            "offset": "330B58",
+            "on": "E943F001039090909090",
+            "off": "0F83E9050000FF4C0B30"
+        }]
+    }, {
+        "name": "Max/Infinite Stars",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "334FC60",
+            "on": "0F843A3FFAFCC6412063E9BE3EFAFC",
+            "off": "000000000000000000000000000000"
+        }, {
+            "offset": "2F3B28",
+            "on": "E933C10503",
+            "off": "747C896920"
+        }]
+    }, {
+        "name": "Max Score On Gain",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "334FB90",
+            "on": "C74401443F420F00E9685AFDFC",
+            "off": "00000000000000000000000000"
+        }, {
+            "offset": "325600",
+            "on": "E98BA50203",
+            "off": "44016C0144"
+        }]
+    }],
+    "credits": ["wander"]
+}

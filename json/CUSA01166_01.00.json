@@ -1,0 +1,68 @@
+{
+    "name": "AKIBA'S TRIP: UNDEAD ＆ UNDRESSED",
+    "id": "CUSA01166",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Money",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "C6A40",
+            "on": "909090909090",
+            "off": "898320B50000"
+        }]
+    }, {
+        "name": "Infinite Exp",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "C687A",
+            "on": "4D01B60C060000",
+            "off": "41018E0C060000"
+        }]
+    }, {
+        "name": "Infinite Unison Strip Gauge",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "5FFF00",
+            "on": "B96E000000898C10040B0000E9AE35ACFF",
+            "off": "0000000000000000000000000000000000"
+        }, {
+            "offset": "C34B8",
+            "on": "E943CA53009090",
+            "off": "898C10040B0000"
+        }]
+    }, {
+        "name": "Infinite Strip Skill Exp",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "CED99",
+            "on": "4589A48718060000",
+            "off": "4589B48718060000"
+        }]
+    }, {
+        "name": "Infinite Weapon Enhancement",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "5FFF20",
+            "on": "B8E7030000894304498B06E92BF7B6FF",
+            "off": "00000000000000000000000000000000"
+        }, {
+            "offset": "16F655",
+            "on": "E9C608490090",
+            "off": "894304498B06"
+        }]
+    }, {
+        "name": "Infinite Gear Enhancement",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "5FFF30",
+            "on": "B8E7030000894304498B06E96BDFB3FF",
+            "off": "00000000000000000000000000000000"
+        }, {
+            "offset": "13DEA5",
+            "on": "E986204C0090",
+            "off": "894304498B06"
+        }]
+    }],
+    "credits": ["TLH"]
+}

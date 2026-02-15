@@ -1,0 +1,32 @@
+{
+    "name": "Sky Force Anniversary",
+    "id": "CUSA04445",
+    "version": "01.03",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite-Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "80217B26",
+            "on": "909090909090909090",
+            "off": "F3450F11BF74010000"
+        }]
+    }, {
+        "name": "max+Infinite-money",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8022AA64",
+            "on": "90909090",
+            "off": "48630C24"
+        }]
+    }, {
+        "name": "Infinite-Bomb",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8022AF40",
+            "on": "9090",
+            "off": "8930"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

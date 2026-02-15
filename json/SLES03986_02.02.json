@@ -1,0 +1,32 @@
+{
+    "name": "THE-MESSENGER",
+    "id": "SLES03986",
+    "version": "02.02",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite-Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "810704F9",
+            "on": "90909090909090",
+            "off": "4529BED0020000"
+        }]
+    }, {
+        "name": "Infinite-shurikens",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "81090733",
+            "on": "90909090",
+            "off": "41895E3C"
+        }]
+    }, {
+        "name": "Infinite-money",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "81C3F96B",
+            "on": "90909090",
+            "off": "89548820"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

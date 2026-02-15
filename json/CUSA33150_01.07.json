@@ -1,0 +1,64 @@
+{
+    "name": "Assassin's Creed® Mirage",
+    "id": "CUSA33150",
+    "version": "01.07",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "2DA9DD8",
+            "on": "898F68010000",
+            "off": "899768010000"
+        }]
+    }, {
+        "name": "Infinite Stamina",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "323A30E",
+            "on": "C5FA105310",
+            "off": "C5FA595310"
+        }]
+    }, {
+        "name": "Infinite Oxygen",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1F52EAA",
+            "on": "C5FA1188DC060000",
+            "off": "C5FA1180DC060000"
+        }]
+    }, {
+        "name": "Mount Stamina",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "2E3B1E5",
+            "on": "C4C17A11450C",
+            "off": "C4C17A11550C"
+        }]
+    }, {
+        "name": "(99)  Skill Points / Level (On Spend)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "66A7800",
+            "on": "488B87B80B0000C7401063000000C7401400000000E95791D3FD",
+            "off": "0000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "43E096A",
+            "on": "E9916E2C029090",
+            "off": "488B87B80B0000"
+        }]
+    }, {
+        "name": "(9999) Resources (On Use)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "66A7800",
+            "on": "2B4584B80F270000E9968D8CFC",
+            "off": "00000000000000000000000000"
+        }, {
+            "offset": "2F7059D",
+            "on": "E95E72730390",
+            "off": "2B45840F42C1"
+        }]
+    }],
+    "credits": ["Saso"]
+}

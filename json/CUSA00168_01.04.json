@@ -1,0 +1,16 @@
+{
+    "name": "Need for Speed™ Rivals",
+    "id": "CUSA00168",
+    "version": "01.04",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite SP",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "D5DB7F",
+            "on": "90909090",
+            "off": "44296024"
+        }]
+    }],
+    "credits": ["TLH"]
+}

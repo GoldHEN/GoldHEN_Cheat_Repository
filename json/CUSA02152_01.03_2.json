@@ -1,0 +1,88 @@
+{
+    "name": "Middle-earth™: Shadow of Mordor™ - Game of the Year Edition",
+    "id": "CUSA02152",
+    "version": "01.03",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1BA7E5B",
+            "on": "41C7876401000000004843C4C17A108764010000E9D9F176FE",
+            "off": "00000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "317044",
+            "on": "E9120E890190909090",
+            "off": "C4C17A108764010000"
+        }]
+    }, {
+        "name": "One Hit Kill",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1BA7E74",
+            "on": "4983FA017511C7473400000000C5FA104734E910CD76FEC5FA104734E906CD76FE",
+            "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "314B96",
+            "on": "E9D9328901",
+            "off": "C5FA104734"
+        }]
+    }, {
+        "name": "Stealth Mode ( No Attacks )",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1588BBC",
+            "on": "90909090909090",
+            "off": "448997B8000000"
+        }]
+    }, {
+        "name": "Infinite Focus",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1BA7E40",
+            "on": "C7435400004843E900F972FE",
+            "off": "000000000000000000000000"
+        }, {
+            "offset": "2D7747",
+            "on": "E9F4068D01",
+            "off": "C5FA114B54"
+        }]
+    }, {
+        "name": "Infinite Arrows",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1BA7E4C",
+            "on": "0F4FC1C743500E000000E981F972FE",
+            "off": "000000000000000000000000000000"
+        }, {
+            "offset": "2D77D6",
+            "on": "E971068D0190",
+            "off": "0F4FC1894350"
+        }]
+    }, {
+        "name": "Max Ability Points ( after the first kill of the opponent )",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1BA7E95",
+            "on": "41C785EC0400003F420F00418B9DEC040000E9AD4BA2FE",
+            "off": "0000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "5CCA52",
+            "on": "E93EB45D019090",
+            "off": "418B9DEC040000"
+        }]
+    }, {
+        "name": "Max Tier Unlock Points ( on gain )",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1BA7EAC",
+            "on": "41C787F40400009F860100418B8FF4040000E912076EFE",
+            "off": "0000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "2885CE",
+            "on": "E9D9F891019090",
+            "off": "418B8FF4040000"
+        }]
+    }],
+    "credits": ["Reddevil82 ", " FW 9.00"]
+}

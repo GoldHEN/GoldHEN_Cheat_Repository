@@ -1,0 +1,24 @@
+{
+    "name": "Sol Divide",
+    "id": "SLES53873",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite-Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FDBE2CC",
+            "on": "00",
+            "off": "E8"
+        }]
+    }, {
+        "name": "Infinite-MAGIC",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FDCDA38",
+            "on": "00",
+            "off": "50"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

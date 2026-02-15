@@ -1,0 +1,116 @@
+{
+    "name": "Star Ocean The Second Story R",
+    "id": "CUSA40651",
+    "version": "01.10",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Health/1 Hit Kill (MASTERCODE/MUST BE ON)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "01A7FDB0",
+            "on": "0F4CC2837F2800740D894754894754E981BC327F31C0894754E977BC327F",
+            "off": "000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "80DABA3F",
+            "on": "E96C43CD8090",
+            "off": "0F4CC2894754"
+        }]
+    }, {
+        "name": "Infinite Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "01A7FDB9",
+            "on": "8B4750",
+            "off": "894754"
+        }]
+    }, {
+        "name": "1 Hit Kill",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "01A7FDB7",
+            "on": "740B",
+            "off": "740D"
+        }]
+    }, {
+        "name": "Infinite MP",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "01A7F890",
+            "on": "0F49D08B575C895760E9C9C1327F",
+            "off": "0000000000000000000000000000"
+        }, {
+            "offset": "80DABA61",
+            "on": "E92A3ECD8090",
+            "off": "0F49D0895760"
+        }]
+    }, {
+        "name": "Max BP On Gain",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "01A7F930",
+            "on": "41C786400100000F270000E925AD327F",
+            "off": "00000000000000000000000000000000"
+        }, {
+            "offset": "80DAA65E",
+            "on": "E9CD52CD809090",
+            "off": "41899E40010000"
+        }]
+    }, {
+        "name": "Infinite SP On Use",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "01A7F8F0",
+            "on": "B80F2700004189842430010000C4E270F2C0488B3BE9C0A7327F",
+            "off": "0000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "AEA0C5",
+            "on": "E92658CD80",
+            "off": "C4E270F2C0"
+        }]
+    }, {
+        "name": "Infinite Items/Craft/Baits",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "01A7FC00",
+            "on": "C7471463000000C3E928EFB97E90",
+            "off": "0000000000000000000000000000"
+        }, {
+            "offset": "8061EB30",
+            "on": "E9CB104681",
+            "off": "66897714C3"
+        }]
+    }, {
+        "name": "Infinite Fol",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "01A7FA20",
+            "on": "0F49C841C746143F420F00E90DDBD47F",
+            "off": "00000000000000000000000000000000"
+        }, {
+            "offset": "817CD536",
+            "on": "E9E5242B809090",
+            "off": "0F49C841894E14"
+        }, {
+            "offset": "01A7F6C0",
+            "on": "41C74424143F420F00E9F0DED47F",
+            "off": "0000000000000000000000000000"
+        }, {
+            "offset": "817CD5B9",
+            "on": "E902212B80",
+            "off": "41894C2414"
+        }]
+    }, {
+        "name": "Max XP (Win Battle)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "01A7F890",
+            "on": "41C74728FFC99A3B498B3C24E921C8327F",
+            "off": "0000000000000000000000000000000000"
+        }, {
+            "offset": "80DAC0BA",
+            "on": "E9D137CD80909090",
+            "off": "41895F28498B3C24"
+        }]
+    }],
+    "credits": ["Celogamez"]
+}

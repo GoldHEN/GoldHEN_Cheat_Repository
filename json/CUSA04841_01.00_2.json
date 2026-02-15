@@ -1,0 +1,132 @@
+{
+    "name": "No Man's Sky",
+    "id": "CUSA04841",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Sprint",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5EB50",
+            "on": "41C78424205400000000803FE9CCA76881",
+            "off": "0000000000000000000000000000000000"
+        }, {
+            "offset": "12E9323",
+            "on": "E92858977E9090909090",
+            "off": "C4C17A11842420540000"
+        }]
+    }, {
+        "name": "Infinite Jetpack",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5EB70",
+            "on": "41C78424843300000000A040E92A976881",
+            "off": "0000000000000000000000000000000000"
+        }, {
+            "offset": "12E82A1",
+            "on": "E9CA68977E9090909090",
+            "off": "C4C17A11842484330000"
+        }]
+    }, {
+        "name": "Infinite Pet Sprint",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5EB90",
+            "on": "41C787D00500000000803FE9E8656881",
+            "off": "00000000000000000000000000000000"
+        }, {
+            "offset": "12E517F",
+            "on": "E90C9A977E90909090",
+            "off": "C4C17A1187D0050000"
+        }]
+    }, {
+        "name": "Infinite Gun Ammo",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "13DD1FD",
+            "on": "9090909090909090",
+            "off": "4189848FC8250000"
+        }]
+    }, {
+        "name": "Minotaur Infinite Jetpack",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "16C4F59",
+            "on": "9090909090909090",
+            "off": "C5FA1183F4000000"
+        }]
+    }, {
+        "name": "Max Quicksilver (on spend)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5EAB0",
+            "on": "C787D4010000FFE0F505E904617B80",
+            "off": "000000000000000000000000000000"
+        }, {
+            "offset": "414BBD",
+            "on": "E9EE9E847F90",
+            "off": "8987D4010000"
+        }]
+    }, {
+        "name": "Max Nanite Clusters (on gain)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5EAD0",
+            "on": "C787D0010000FFC99A3BE918447A80",
+            "off": "000000000000000000000000000000"
+        }, {
+            "offset": "402EF1",
+            "on": "E9DABB857F90",
+            "off": "898FD0010000"
+        }]
+    }, {
+        "name": "Max Unites (on spend)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5EB10",
+            "on": "C787CC010000FFC99A3BE9C05F7B80",
+            "off": "000000000000000000000000000000"
+        }, {
+            "offset": "414AD9",
+            "on": "E932A0847F90",
+            "off": "8987CC010000"
+        }]
+    }, {
+        "name": "999 Salvaged Data (on spend)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5EB30",
+            "on": "488386B8000000306641C74518E703E955697A80",
+            "off": "0000000000000000000000000000000000000000"
+        }, {
+            "offset": "40548D",
+            "on": "E99E96857F90909090909090",
+            "off": "488386B80000003045297D18"
+        }]
+    }, {
+        "name": "999 Minerals (on gain)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5DCB0",
+            "on": "0F8495927A8041C745F0E7030000E985927A80",
+            "off": "00000000000000000000000000000000000000"
+        }, {
+            "offset": "406F42",
+            "on": "E9696D857F90",
+            "off": "740D450165F0"
+        }]
+    }, {
+        "name": "999 Minerals (on use)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "7FC5DCE0",
+            "on": "6641C7442418E703E9B7047B80",
+            "off": "00000000000000000000000000"
+        }, {
+            "offset": "40E19F",
+            "on": "E93CFB847F",
+            "off": "4129442418"
+        }]
+    }],
+    "credits": ["Wander FW9.00"]
+}

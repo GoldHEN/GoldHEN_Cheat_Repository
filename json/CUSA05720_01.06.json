@@ -1,0 +1,132 @@
+{
+    "name": "Rise of the Tomb Raider 20 Year Celebration",
+    "id": "CUSA05720",
+    "version": "01.06",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Inf HP",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "15CF800",
+            "on": "669C4983F906750E669DC747280000E143E9883FDDFE669DC5FA114F28E97C3FDDFE",
+            "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "3A3799",
+            "on": "E962C02201",
+            "off": "C5FA114F28"
+        }]
+    }, {
+        "name": "Inf Ammo - Res",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "88751C",
+            "on": "C6400CFF",
+            "off": "6689580C"
+        }]
+    }, {
+        "name": "No Reload",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8EB263",
+            "on": "9090",
+            "off": "8908"
+        }]
+    }, {
+        "name": "No Recoil",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "15CF830",
+            "on": "C7839004000000000000C783F004000000000000C783F804000000000000C5FA108B90040000E96F5032FF",
+            "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "8F48C2",
+            "on": "E969AFCD00909090",
+            "off": "C5FA108B90040000"
+        }]
+    }, {
+        "name": "Rapid Fire",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "A09D51",
+            "on": "909090909090909090",
+            "off": "C4C17A1185FC100000"
+        }]
+    }, {
+        "name": "Max Skill Points on Use",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "15CF822",
+            "on": "440F42F1B9FF000000E9621761FF",
+            "off": "0000000000000000000000000000"
+        }, {
+            "offset": "BE0F8B",
+            "on": "E992E89E009090",
+            "off": "440F42F14429F1"
+        }]
+    }, {
+        "name": "Inf Time Bonus",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "90B8E9",
+            "on": "909090909090909090",
+            "off": "C4C17A1185C4020000"
+        }]
+    }, {
+        "name": "Inf Time Combo",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "908E46",
+            "on": "C5FA1193C8020000",
+            "off": "C5FA1183C8020000"
+        }]
+    }, {
+        "name": "Full Hunger Meter",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8F8706",
+            "on": "9090909090",
+            "off": "C5FA114724"
+        }]
+    }, {
+        "name": "Full Cold Meter",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8F7135",
+            "on": "9090909090",
+            "off": "C5FA114724"
+        }]
+    }, {
+        "name": "Super Jump",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "15CF85B",
+            "on": "C5F8294020837828000F8EA64463FF8178280000C8420F8D994463FF6800005040D94028D80C24D958284883C408E9824463FF",
+            "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "C03D0B",
+            "on": "E94BBB9C00",
+            "off": "C5F8294020"
+        }]
+    }, {
+        "name": "Moon Jump",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "15CF800",
+            "on": "C5F8294020837828000F8E014563FF8178280000C8420F8DF44463FF680000A040D94028D80C24D958284883C408E9DD4463FF",
+            "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "C03D0B",
+            "on": "E9F0BA9C00",
+            "off": "C5F8294020"
+        }]
+    }, {
+        "name": "Full Hunger and Cold Meter",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "DAA141",
+            "on": "909090909090",
+            "off": "898B3C010000"
+        }]
+    }],
+    "credits": ["hejran7"]
+}

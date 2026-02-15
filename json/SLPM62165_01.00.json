@@ -1,0 +1,40 @@
+{
+    "name": "Shikigami no Shiro",
+    "id": "SLPM62165",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Invincible",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FEC9A48",
+            "on": "FF",
+            "off": "FF"
+        }, {
+            "offset": "807FEC9A49",
+            "on": "FF",
+            "off": "FF"
+        }]
+    }, {
+        "name": "Infinite-Energy",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FEC99FC",
+            "on": "FF",
+            "off": "FF"
+        }, {
+            "offset": "807FEC99FD",
+            "on": "FF",
+            "off": "FF"
+        }]
+    }, {
+        "name": "Infinite-Bomb",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "807FEC9A66",
+            "on": "FF",
+            "off": "FF"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

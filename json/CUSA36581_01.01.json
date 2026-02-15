@@ -1,0 +1,68 @@
+{
+    "name": "Prince of Persia: The Lost Crown",
+    "id": "CUSA36581",
+    "version": "01.01",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Health",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "847179D0",
+            "on": "41C74728F40100004883C408E91B6C82FC",
+            "off": "0000000000000000000000000000000000"
+        }, {
+            "offset": "80F3E5F4",
+            "on": "E9D7937D03909090",
+            "off": "452977284883C408"
+        }]
+    }, {
+        "name": "Instant Athra surge charge ",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "847173B0",
+            "on": "C780E00000000000FA43E9B18251FC",
+            "off": "000000000000000000000000000000"
+        }, {
+            "offset": "80C2F668",
+            "on": "E9437DAE03909090",
+            "off": "C5FA1180E0000000"
+        }]
+    }, {
+        "name": "Max Currencies (on get)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "84717850",
+            "on": "488B44C130C740149F860100E92FA8D2FC",
+            "off": "0000000000000000000000000000000000"
+        }, {
+            "offset": "81442087",
+            "on": "E9C4572D0390909090",
+            "off": "488B44C13044016814"
+        }]
+    }, {
+        "name": "No Athra surge Cooldown",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "84717220",
+            "on": "41C786680100002A8706BCE9512D2FFC",
+            "off": "00000000000000000000000000000000"
+        }, {
+            "offset": "80A09F78",
+            "on": "E9A3D2D00390909090",
+            "off": "C4C17A118668010000"
+        }]
+    }, {
+        "name": "Infinite Arrows/Potions(on Shoot/Consume)",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "84716FD0",
+            "on": "488B44C130C640140AE902BCD2FC",
+            "off": "0000000000000000000000000000"
+        }, {
+            "offset": "81442BD7",
+            "on": "E9F4432D0390909090",
+            "off": "488B44C13044297014"
+        }]
+    }],
+    "credits": ["Wander FW9.00"]
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Divinity : Original Sin Enhanced Edition",
+    "id": "CUSA02762",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Max Inf HP",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1457800",
+            "on": "4180BF9001000064750C41898740010000E9EDC2F1FE41899F40010000E9E1C2F1FE",
+            "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "373AFC",
+            "on": "E9FF3C0E019090",
+            "off": "41899F40010000"
+        }]
+    }, {
+        "name": "Max Inf HP + 1 Hit Kill",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1457822",
+            "on": "4180BF9001000064750C41898740010000E9CBC2F1FE41C7874001000000000000E9BBC2F1FE",
+            "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "373AFC",
+            "on": "E9213D0E019090",
+            "off": "41899F40010000"
+        }]
+    }, {
+        "name": "Max Items On Pickup-Must Have 1",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "3D95A0",
+            "on": "898FCC000000",
+            "off": "89B7CC000000"
+        }]
+    }, {
+        "name": "Max Items x99-Must Have 1",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1457848",
+            "on": "C787CC00000063000000E94F1DF8FE",
+            "off": "000000000000000000000000000000"
+        }, {
+            "offset": "3D95A0",
+            "on": "E9A3E2070190",
+            "off": "898FCC000000"
+        }]
+    }, {
+        "name": "10000 XP On Get",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1457883",
+            "on": "81875001000000000100E9CF1C1AFF",
+            "off": "000000000000000000000000000000"
+        }, {
+            "offset": "5F955B",
+            "on": "E923E3E50090",
+            "off": "89B750010000"
+        }]
+    }, {
+        "name": "Unlimited Actions",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "1457892",
+            "on": "4489A84801000080B8A0010000010F8574CDF1FE4489B048010000E968CDF1FE",
+            "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        }, {
+            "offset": "374613",
+            "on": "E97A320E019090",
+            "off": "4489A848010000"
+        }]
+    }],
+    "credits": ["hejran7"]
+}

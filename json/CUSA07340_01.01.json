@@ -1,0 +1,72 @@
+{
+    "name": "Dragon's Dogma: Dark Arisen",
+    "id": "CUSA07340",
+    "version": "01.01",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Health",
+        "type": "checkbox",
+        "memory": []
+    }, {
+        "name": "Infinite Pawn Health",
+        "type": "checkbox",
+        "memory": []
+    }, {
+        "name": "Infinite Stamina",
+        "type": "checkbox",
+        "memory": []
+    }, {
+        "name": "Infinite Pawn Stamina",
+        "type": "checkbox",
+        "memory": []
+    }, {
+        "name": "Player/Pawn Level Up on XP Gain",
+        "type": "checkbox",
+        "memory": []
+    }, {
+        "name": "One/Two Hit Kill",
+        "type": "checkbox",
+        "memory": []
+    }, {
+        "name": "Player/Pawn 0 Weight",
+        "type": "checkbox",
+        "memory": []
+    }, {
+        "name": "Max Items on Use",
+        "type": "checkbox",
+        "memory": []
+    }, {
+        "name": "x2 Items on Use",
+        "type": "checkbox",
+        "memory": []
+    }, {
+        "name": "Max RC on Spend",
+        "type": "checkbox",
+        "memory": []
+    }, {
+        "name": "x2 RC on Spend",
+        "type": "checkbox",
+        "memory": []
+    }, {
+        "name": "Max Gold on Spend",
+        "type": "checkbox",
+        "memory": []
+    }, {
+        "name": "x2 Gold on Spend",
+        "type": "checkbox",
+        "memory": []
+    }, {
+        "name": "Player/Pawn Max Vocation Rank on Gain",
+        "type": "checkbox",
+        "memory": []
+    }, {
+        "name": "Max Discipline on Spend",
+        "type": "checkbox",
+        "memory": []
+    }, {
+        "name": "x2 Discipline on Spend",
+        "type": "checkbox",
+        "memory": []
+    }],
+    "credits": ["Rizla"]
+}

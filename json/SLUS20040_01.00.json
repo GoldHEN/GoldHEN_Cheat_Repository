@@ -1,0 +1,120 @@
+{
+    "name": "Gradius III and IV",
+    "id": "SLUS20040",
+    "version": "01.00",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Gradius-III-Inf-lives",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080C01050",
+            "on": "63000000",
+            "off": "63000000"
+        }]
+    }, {
+        "name": "Gradius-III-Inf-SPEED-UP",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080C0106A",
+            "on": "01",
+            "off": "01"
+        }]
+    }, {
+        "name": "Gradius-III-Inf-MISSILE",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080C0106A",
+            "on": "02",
+            "off": "02"
+        }]
+    }, {
+        "name": "Gradius-III-Inf-DOUBLE",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080C0106A",
+            "on": "03",
+            "off": "03"
+        }]
+    }, {
+        "name": "Gradius-III-Inf-LASER",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080C0106A",
+            "on": "04",
+            "off": "04"
+        }]
+    }, {
+        "name": "Gradius-III-Inf-OPTIONS",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080C0106A",
+            "on": "05",
+            "off": "05"
+        }]
+    }, {
+        "name": "Gradius-III-Inf-FUIL-POWER",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080C0106A",
+            "on": "06",
+            "off": "06"
+        }]
+    }, {
+        "name": "Gradius-IV-Inf-lives",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080496008",
+            "on": "63000000",
+            "off": "63000000"
+        }]
+    }, {
+        "name": "Gradius-IV-Inf-SPEED-UP",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080496042",
+            "on": "01",
+            "off": "01"
+        }]
+    }, {
+        "name": "Gradius-IV-Inf-MISSILE",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080496042",
+            "on": "02",
+            "off": "02"
+        }]
+    }, {
+        "name": "Gradius-IV-Inf-DOUBLE",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080496042",
+            "on": "03",
+            "off": "03"
+        }]
+    }, {
+        "name": "Gradius-IV-Inf-LASER",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080496042",
+            "on": "04",
+            "off": "04"
+        }]
+    }, {
+        "name": "Gradius-IV-Inf-OPTIONS",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080496042",
+            "on": "05",
+            "off": "05"
+        }]
+    }, {
+        "name": "Gradius-IV-Inf-FUIL-POWER",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "8080496042",
+            "on": "06",
+            "off": "06"
+        }]
+    }],
+    "credits": ["Ali-mk"]
+}

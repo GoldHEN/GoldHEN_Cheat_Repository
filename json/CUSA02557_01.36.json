@@ -1,0 +1,20 @@
+{
+    "name": "Fallout 4",
+    "id": "CUSA02557",
+    "version": "01.36",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Inf HP+Stamina",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "228F800",
+            "on": "90E966A978FE",
+            "off": "000000000000"
+        }, {
+            "offset": "A1A167",
+            "on": "E994568701",
+            "off": "C5FA584308"
+        }]
+    }],
+    "credits": ["2B"]
+}

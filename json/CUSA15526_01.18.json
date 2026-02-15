@@ -1,0 +1,136 @@
+{
+    "name": "Nioh 2",
+    "id": "CUSA15526",
+    "version": "01.18",
+    "process": "eboot.bin",
+    "mods": [{
+        "name": "Infinite Anima",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "C33A37",
+            "on": "490107",
+            "off": "498907"
+        }]
+    }, {
+        "name": "max level",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "C33EC7",
+            "on": "410107",
+            "off": "418907"
+        }]
+    }, {
+        "name": "Infinite Items",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "C57974",
+            "on": "9090",
+            "off": "29CB"
+        }]
+    }, {
+        "name": "add Items",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "C5797D",
+            "on": "66019C06745D1000",
+            "off": "66899C06745D1000"
+        }]
+    }, {
+        "name": "Max Weapon Familiarity",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "10697F9",
+            "on": "4501770C",
+            "off": "4589770C"
+        }]
+    }, {
+        "name": "Max Weapon Proficiency",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "C34877",
+            "on": "410107",
+            "off": "418907"
+        }]
+    }, {
+        "name": "Max Yokai Shift Gauge",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "A28910",
+            "on": "90909090",
+            "off": "C5F828CA"
+        }]
+    }, {
+        "name": "inf Infinite Yokai Shift Duration",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "9AE1EA",
+            "on": "9090909090909090",
+            "off": "C5FA1188C4000000"
+        }]
+    }, {
+        "name": "Infinite Ki",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "9AD4B3",
+            "on": "909090",
+            "off": "8B4008"
+        }]
+    }, {
+        "name": " Infinite BUFF/Skill Duration",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "A3015B",
+            "on": "90909090",
+            "off": "C5FA1117"
+        }]
+    }, {
+        "name": "frend no go",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "C10752",
+            "on": "909090909090",
+            "off": "89B7D0080000"
+        }]
+    }, {
+        "name": "Infinite Sentience",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "996005",
+            "on": "909090909090",
+            "off": "C4E3694AC010"
+        }]
+    }, {
+        "name": "Infinite Shortcut Items",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "D2A8BF",
+            "on": "909090",
+            "off": "4129CB"
+        }]
+    }, {
+        "name": "inf shockwaves cutting blast talisman",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "97D093",
+            "on": "9090909090909090",
+            "off": "C5F2590DD12A6501"
+        }]
+    }, {
+        "name": "inf water fire poison lightning on sword speed running",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "9D380F",
+            "on": "909090909090",
+            "off": "C4C17A11461C"
+        }]
+    }, {
+        "name": "inc glory",
+        "type": "checkbox",
+        "memory": [{
+            "offset": "D1B291",
+            "on": "018BBC040000",
+            "off": "898BBC040000"
+        }]
+    }],
+    "credits": ["Ibraheem"]
+}
