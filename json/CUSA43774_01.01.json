@@ -1,256 +1,347 @@
 {
-    "name": "Tomb Raider I–III Remastered",
-    "id": "CUSA43774",
-    "version": "01.01",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "-{Tomb Raider I}-",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "9A",
-            "on": "90",
-            "off": "90"
-        }]
-    }, {
-        "name": "Infinity Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "C6EDD",
-            "on": "488B0066C74022E8030FB74022E903A4E07F",
-            "off": "000000000000000000000000000000000000"
-        }, {
-            "offset": "7FED12EB",
-            "on": "E9ED5B1F809090",
-            "off": "488B000FB74022"
-        }]
-    }, {
-        "name": "Infinity Oxigen",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FEDDF48",
-            "on": "9090909090",
-            "off": "6641FF4F16"
-        }]
-    }, {
-        "name": "Infinity Supplies",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "C6EEF",
-            "on": "66C7044632000FBF1C464183C69CE92FCFE07F",
-            "off": "00000000000000000000000000000000000000"
-        }, {
-            "offset": "7FED3E29",
-            "on": "E9C1301F80909090",
-            "off": "0FBF1C464183C69C"
-        }]
-    }, {
-        "name": "Super Jump",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "C6F02",
-            "on": "410FB74702666BC002E93E72E17F",
-            "off": "0000000000000000000000000000"
-        }, {
-            "offset": "7FEDE149",
-            "on": "E9B48D1E80",
-            "off": "410FB74702"
-        }]
-    }, {
-        "name": "Reset Timer",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FED342F",
-            "on": "4489BB10060000",
-            "off": "4401B310060000"
-        }]
-    }, {
-        "name": "Freeze Timer",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FED342F",
-            "on": "4401BB10060000",
-            "off": "4401B310060000"
-        }]
-    }, {
-        "name": "Change Outfit (Photomode)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FF46F87",
-            "on": "9090909090909090",
-            "off": "C5F81180B8020000"
-        }]
-    }, {
-        "name": "-{Tomb Raider II}-",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "9A",
-            "on": "90",
-            "off": "90"
-        }]
-    }, {
-        "name": "Infinity Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8399B800",
-            "on": "488B0066C74022E8030FB74022E9C305F5FF",
-            "off": "000000000000000000000000000000000000"
-        }, {
-            "offset": "838EBDCE",
-            "on": "E92DFA0A009090",
-            "off": "488B000FB74022"
-        }]
-    }, {
-        "name": "Infinity Ammo",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "838FE28E",
-            "on": "9090",
-            "off": "FFC9"
-        }]
-    }, {
-        "name": "Infinity Oxigen",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "839001C7",
-            "on": "9090909090",
-            "off": "6641FF4F16"
-        }]
-    }, {
-        "name": "Infinity Supplies",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8399B812",
-            "on": "89C866C7044232000FBF1442E91B31F5FF",
-            "off": "0000000000000000000000000000000000"
-        }, {
-            "offset": "838EE938",
-            "on": "E9D5CE0A0090",
-            "off": "89C80FBF1442"
-        }]
-    }, {
-        "name": "Super Jump",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8399B823",
-            "on": "410FB74602666BC002E98D4BF6FF",
-            "off": "0000000000000000000000000000"
-        }, {
-            "offset": "839003B9",
-            "on": "E965B40900",
-            "off": "410FB74602"
-        }]
-    }, {
-        "name": "Reset Timer",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "838EDEEF",
-            "on": "4489BB0C060000",
-            "off": "4401B30C060000"
-        }]
-    }, {
-        "name": "Freeze Timer",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "838EDEEF",
-            "on": "4401BB0C060000",
-            "off": "4401B30C060000"
-        }]
-    }, {
-        "name": "Change Outfit (Photomode)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8396B657",
-            "on": "9090909090909090",
-            "off": "C5F81180B8020000"
-        }]
-    }, {
-        "name": "-{Tomb Raider III}-",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "9A",
-            "on": "90",
-            "off": "90"
-        }]
-    }, {
-        "name": "Infinity Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "873EB800",
-            "on": "488B0066C74022E8030FB74022E96557F2FF",
-            "off": "000000000000000000000000000000000000"
-        }, {
-            "offset": "87310F70",
-            "on": "E98BA80D009090",
-            "off": "488B000FB74022"
-        }]
-    }, {
-        "name": "Infinity Oxigen",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "87330AD7",
-            "on": "90909090909090",
-            "off": "664183442416FA"
-        }, {
-            "offset": "873309E9",
-            "on": "909090909090",
-            "off": "6641FF4C2416"
-        }]
-    }, {
-        "name": "Infinity Supplies",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "873EB812",
-            "on": "89C866C7044232000FBF1442E9EB8FF2FF",
-            "off": "0000000000000000000000000000000000"
-        }, {
-            "offset": "87314808",
-            "on": "E905700D0090",
-            "off": "89C80FBF1442"
-        }]
-    }, {
-        "name": "Super Jump",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "873EB823",
-            "on": "410FB74602666BC002E9BE54F4FF",
-            "off": "0000000000000000000000000000"
-        }, {
-            "offset": "87330CEA",
-            "on": "E934AB0B00",
-            "off": "410FB74602"
-        }]
-    }, {
-        "name": "Reset Timer",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "87313CDF",
-            "on": "4489BBA8080000",
-            "off": "4401B3A8080000"
-        }]
-    }, {
-        "name": "Freeze Timer",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "87313CDF",
-            "on": "4401BBA8080000",
-            "off": "4401B3A8080000"
-        }]
-    }, {
-        "name": "Change Outfit (Photomode)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "873B7027",
-            "on": "9090909090909090",
-            "off": "C5F81180B8020000"
-        }]
-    }, {
-        "name": "***Fast Forward Timer***",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "504A",
-            "on": "909090909090",
-            "off": "890DEC546300"
-        }]
-    }],
-    "credits": ["hejran7"]
+  "name": "Tomb Raider I–III Remastered",
+  "id": "CUSA43774",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "-{Tomb Raider I}-",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A",
+          "on": "90",
+          "off": "90"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C6EDD",
+          "on": "488B0066C74022E8030FB74022E903A4E07F",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7FED12EB",
+          "on": "E9ED5B1F809090",
+          "off": "488B000FB74022"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Oxigen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEDDF48",
+          "on": "9090909090",
+          "off": "6641FF4F16"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Supplies",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C6EEF",
+          "on": "66C7044632000FBF1C464183C69CE92FCFE07F",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7FED3E29",
+          "on": "E9C1301F80909090",
+          "off": "0FBF1C464183C69C"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C6F02",
+          "on": "410FB74702666BC002E93E72E17F",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "7FEDE149",
+          "on": "E9B48D1E80",
+          "off": "410FB74702"
+        }
+      ]
+    },
+    {
+      "name": "Reset Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FED342F",
+          "on": "4489BB10060000",
+          "off": "4401B310060000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FED342F",
+          "on": "4401BB10060000",
+          "off": "4401B310060000"
+        }
+      ]
+    },
+    {
+      "name": "Change Outfit (Photomode)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FF46F87",
+          "on": "9090909090909090",
+          "off": "C5F81180B8020000"
+        }
+      ]
+    },
+    {
+      "name": "-{Tomb Raider II}-",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A",
+          "on": "90",
+          "off": "90"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8399B800",
+          "on": "488B0066C74022E8030FB74022E9C305F5FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "838EBDCE",
+          "on": "E92DFA0A009090",
+          "off": "488B000FB74022"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "838FE28E",
+          "on": "9090",
+          "off": "FFC9"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Oxigen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "839001C7",
+          "on": "9090909090",
+          "off": "6641FF4F16"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Supplies",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8399B812",
+          "on": "89C866C7044232000FBF1442E91B31F5FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "838EE938",
+          "on": "E9D5CE0A0090",
+          "off": "89C80FBF1442"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8399B823",
+          "on": "410FB74602666BC002E98D4BF6FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "839003B9",
+          "on": "E965B40900",
+          "off": "410FB74602"
+        }
+      ]
+    },
+    {
+      "name": "Reset Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "838EDEEF",
+          "on": "4489BB0C060000",
+          "off": "4401B30C060000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "838EDEEF",
+          "on": "4401BB0C060000",
+          "off": "4401B30C060000"
+        }
+      ]
+    },
+    {
+      "name": "Change Outfit (Photomode)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8396B657",
+          "on": "9090909090909090",
+          "off": "C5F81180B8020000"
+        }
+      ]
+    },
+    {
+      "name": "-{Tomb Raider III}-",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A",
+          "on": "90",
+          "off": "90"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "873EB800",
+          "on": "488B0066C74022E8030FB74022E96557F2FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "87310F70",
+          "on": "E98BA80D009090",
+          "off": "488B000FB74022"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Oxigen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "87330AD7",
+          "on": "90909090909090",
+          "off": "664183442416FA"
+        },
+        {
+          "offset": "873309E9",
+          "on": "909090909090",
+          "off": "6641FF4C2416"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Supplies",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "873EB812",
+          "on": "89C866C7044232000FBF1442E9EB8FF2FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "87314808",
+          "on": "E905700D0090",
+          "off": "89C80FBF1442"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "873EB823",
+          "on": "410FB74602666BC002E9BE54F4FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "87330CEA",
+          "on": "E934AB0B00",
+          "off": "410FB74602"
+        }
+      ]
+    },
+    {
+      "name": "Reset Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "87313CDF",
+          "on": "4489BBA8080000",
+          "off": "4401B3A8080000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "87313CDF",
+          "on": "4401BBA8080000",
+          "off": "4401B3A8080000"
+        }
+      ]
+    },
+    {
+      "name": "Change Outfit (Photomode)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "873B7027",
+          "on": "9090909090909090",
+          "off": "C5F81180B8020000"
+        }
+      ]
+    },
+    {
+      "name": "***Fast Forward Timer***",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "504A",
+          "on": "909090909090",
+          "off": "890DEC546300"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
 }

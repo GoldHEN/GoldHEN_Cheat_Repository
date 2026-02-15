@@ -1,20 +1,27 @@
 {
-    "name": "Generation Zero",
-    "id": "CUSA14212",
-    "version": "01.11",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Bottomless Clip",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "249B800",
-            "on": "BE6300000089B774020000E9E6B50CFF",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "1566DF0",
-            "on": "E90B4AF3009090",
-            "off": "89B774020000C3"
-        }]
-    }],
-    "credits": ["GamerX2"]
+  "name": "Generation Zero",
+  "id": "CUSA14212",
+  "version": "01.11",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Bottomless Clip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "249B800",
+          "on": "BE6300000089B774020000E9E6B50CFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1566DF0",
+          "on": "E90B4AF3009090",
+          "off": "89B774020000C3"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "GamerX2"
+  ]
 }

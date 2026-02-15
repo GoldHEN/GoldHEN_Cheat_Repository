@@ -1,1364 +1,1802 @@
 {
-    "name": "Gran Turismo 3",
-    "id": "SCUS97102",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "10 Trillion - Sim Mode",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080558EFC",
-            "on": "18090000",
-            "off": "18090000"
-        }, {
-            "offset": "8080558EF8",
-            "on": "00A0724E",
-            "off": "00A0724E"
-        }]
-    }, {
-        "name": "9999 Races",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080558EEC",
-            "on": "0F270000",
-            "off": "0F270000"
-        }]
-    }, {
-        "name": "9999 Wins",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080558EF4",
-            "on": "0F270000",
-            "off": "0F270000"
-        }]
-    }, {
-        "name": "All Cars Purchaseable",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FE34390",
-            "on": "00000224",
-            "off": "00000224"
-        }]
-    }, {
-        "name": "Always Good Tires",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8081BBE960",
-            "on": "29000400",
-            "off": "29000400"
-        }, {
-            "offset": "80865C4000",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Always Simulation Day 1",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080558EE8",
-            "on": "01000000",
-            "off": "01000000"
-        }]
-    }, {
-        "name": "Always Simulation Day 9999",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080558EE8",
-            "on": "0F270000",
-            "off": "0F270000"
-        }]
-    }, {
-        "name": "License A-1 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080578ED0",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License A-2 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080579024",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License A-3 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080579178",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License A-4 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "80805792CC",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License A-5 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080579420",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License A-6 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080579574",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License A-7 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "80805796C8",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License A-8 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057981C",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License B-1 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080578430",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License B-2 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080578584",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License B-3 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "80805786D8",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License B-4 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057882C",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License B-5 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080578980",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License B-6 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080578AD4",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License B-7 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080578C28",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License B-8 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080578D7C",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License Ia-1 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057A410",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License Ia-2 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057A564",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License Ia-3 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057A6B8",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License Ia-4 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057A80C",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License Ia-5 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057A960",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License Ia-6 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057AAB4",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License Ia-7 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057AC08",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License Ia-8 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057AD5C",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License Ib-1 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080579970",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License Ib-2 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080579AC4",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License Ib-3 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080579C18",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License Ib-4 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080579D6C",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License Ib-5 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080579EC0",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License Ib-6 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057A014",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License Ib-7 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057A168",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "License Ib-8 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057A2BC",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Super License 1 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057AEB0",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Super License 2 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057B004",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Super License 3 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057B158",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Super License 4 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057B2AC",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Super License 5 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057B400",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Super License 6 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057B554",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Super License 7 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057B6A8",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Super License 8 Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057B7FC",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold 4wd Challenge",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C490",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C494",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C498",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold 80's S.car Cup",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C4B4",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C4B8",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C4BC",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold All Japgt Champ",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C784",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C788",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C78C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C790",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C794",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C798",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C79C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C7A0",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C7A4",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C7A8",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C7AC",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Altezza Champ",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C4E4",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C4E8",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C4EC",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C4F0",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C4F4",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C4F8",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold American Champ",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C954",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C958",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C95C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C960",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C964",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C968",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Audi Tt Race",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C8B8",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C8BC",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C8C0",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C8C4",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C8C8",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C8CC",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Beetle Cup",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C4FC",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C500",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C504",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C508",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C50C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C510",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Boxer Spirit",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C520",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C524",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C528",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Clio Trophy",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C538",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C53C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C540",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C544",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C548",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C54C",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Clubman Cup",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C550",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C554",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C558",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Dream Car Championship",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C594",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C598",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C59C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C5A0",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C5A4",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C5A8",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C5AC",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C5B0",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Elise Trophy",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C5B4",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C5B8",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C5BC",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C5C0",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C5C4",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C5C8",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold European Champ",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C5CC",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C5D0",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C5D4",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C5D8",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C5DC",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C5E0",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Evolution Meeting",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C5F0",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C5F4",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C5F8",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Ff Challenge",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C634",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C638",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C63C",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Formula Gt",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C5FC",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C600",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C604",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C608",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C60C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C610",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C614",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C618",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C61C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C620",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C624",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Fr Challenge",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C658",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C65C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C660",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold German Touring Car Championship (All Gold Trophies)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C55C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C560",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C564",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C568",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C56C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C570",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Grand Valley",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C46C",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Grand Valley",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C46C",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Granturismo As",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C670",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C674",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C678",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C67C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C680",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C684",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C688",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C68C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C690",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C694",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C698",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Gt World Champ",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C70C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C710",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C714",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C718",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C71C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C720",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C724",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C728",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C72C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C730",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C734",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Italian Avant",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C764",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C768",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Japanese Champ",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C76C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C770",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C774",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C778",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C77C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C780",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Laguna SCEA 200 Endurance",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C470",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Like The Wind",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C99C",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Mistral 78 Laps",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C474",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Mr Challenge",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C800",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C804",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C808",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold P Digital Cup",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C848",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C84C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C850",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C854",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C858",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C85C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C860",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C864",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C868",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C86C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C870",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Pass Colosseo",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C47C",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Passage to Colosseo",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C47C",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Race Na Sports",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C824",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C828",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C82C",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Race Red Emblem",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C6D4",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C6D8",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C6DC",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Rally Alps",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C444",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C448",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C44C",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Rally Alps II",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C408",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C40C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C410",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Rally Chal II",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C414",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C418",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C41C",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Rally Challenge",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C450",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C454",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C458",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Roadster Endurance",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C478",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Route 5-wet",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C42C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C430",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C434",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold S Mtn Rally",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C438",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C43C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C440",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold S Mtn Rally Ii",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C3FC",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C400",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C404",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Seattle 100 Mi",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C484",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Seattle 100 Miles",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C484",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Silver Arrow",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C7E8",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C7EC",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C7F0",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Silver Arrow",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C7F4",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C7F8",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C7FC",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Smoky Mountain Rally",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C438",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C43C",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C440",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Smoky Mountain Rally II",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C3FC",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C400",
-            "on": "00000000",
-            "off": "00000000"
-        }, {
-            "offset": "808057C404",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Sp Route 11",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C480",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Gold Special Stage Route 11",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808057C480",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }],
-    "credits": ["W"]
+  "name": "Gran Turismo 3",
+  "id": "SCUS97102",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "10 Trillion - Sim Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080558EFC",
+          "on": "18090000",
+          "off": "18090000"
+        },
+        {
+          "offset": "8080558EF8",
+          "on": "00A0724E",
+          "off": "00A0724E"
+        }
+      ]
+    },
+    {
+      "name": "9999 Races",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080558EEC",
+          "on": "0F270000",
+          "off": "0F270000"
+        }
+      ]
+    },
+    {
+      "name": "9999 Wins",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080558EF4",
+          "on": "0F270000",
+          "off": "0F270000"
+        }
+      ]
+    },
+    {
+      "name": "All Cars Purchaseable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FE34390",
+          "on": "00000224",
+          "off": "00000224"
+        }
+      ]
+    },
+    {
+      "name": "Always Good Tires",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8081BBE960",
+          "on": "29000400",
+          "off": "29000400"
+        },
+        {
+          "offset": "80865C4000",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Always Simulation Day 1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080558EE8",
+          "on": "01000000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "Always Simulation Day 9999",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080558EE8",
+          "on": "0F270000",
+          "off": "0F270000"
+        }
+      ]
+    },
+    {
+      "name": "License A-1 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080578ED0",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License A-2 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080579024",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License A-3 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080579178",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License A-4 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80805792CC",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License A-5 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080579420",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License A-6 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080579574",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License A-7 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80805796C8",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License A-8 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057981C",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License B-1 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080578430",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License B-2 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080578584",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License B-3 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80805786D8",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License B-4 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057882C",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License B-5 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080578980",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License B-6 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080578AD4",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License B-7 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080578C28",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License B-8 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080578D7C",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License Ia-1 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057A410",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License Ia-2 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057A564",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License Ia-3 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057A6B8",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License Ia-4 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057A80C",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License Ia-5 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057A960",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License Ia-6 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057AAB4",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License Ia-7 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057AC08",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License Ia-8 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057AD5C",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License Ib-1 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080579970",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License Ib-2 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080579AC4",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License Ib-3 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080579C18",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License Ib-4 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080579D6C",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License Ib-5 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080579EC0",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License Ib-6 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057A014",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License Ib-7 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057A168",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "License Ib-8 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057A2BC",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Super License 1 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057AEB0",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Super License 2 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057B004",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Super License 3 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057B158",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Super License 4 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057B2AC",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Super License 5 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057B400",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Super License 6 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057B554",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Super License 7 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057B6A8",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Super License 8 Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057B7FC",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold 4wd Challenge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C490",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C494",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C498",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold 80's S.car Cup",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C4B4",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C4B8",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C4BC",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold All Japgt Champ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C784",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C788",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C78C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C790",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C794",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C798",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C79C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C7A0",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C7A4",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C7A8",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C7AC",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Altezza Champ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C4E4",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C4E8",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C4EC",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C4F0",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C4F4",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C4F8",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold American Champ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C954",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C958",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C95C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C960",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C964",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C968",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Audi Tt Race",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C8B8",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C8BC",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C8C0",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C8C4",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C8C8",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C8CC",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Beetle Cup",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C4FC",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C500",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C504",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C508",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C50C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C510",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Boxer Spirit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C520",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C524",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C528",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Clio Trophy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C538",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C53C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C540",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C544",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C548",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C54C",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Clubman Cup",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C550",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C554",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C558",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Dream Car Championship",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C594",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C598",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C59C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C5A0",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C5A4",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C5A8",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C5AC",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C5B0",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Elise Trophy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C5B4",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C5B8",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C5BC",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C5C0",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C5C4",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C5C8",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold European Champ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C5CC",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C5D0",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C5D4",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C5D8",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C5DC",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C5E0",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Evolution Meeting",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C5F0",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C5F4",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C5F8",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Ff Challenge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C634",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C638",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C63C",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Formula Gt",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C5FC",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C600",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C604",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C608",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C60C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C610",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C614",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C618",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C61C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C620",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C624",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Fr Challenge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C658",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C65C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C660",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold German Touring Car Championship (All Gold Trophies)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C55C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C560",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C564",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C568",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C56C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C570",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Grand Valley",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C46C",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Grand Valley",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C46C",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Granturismo As",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C670",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C674",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C678",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C67C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C680",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C684",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C688",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C68C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C690",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C694",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C698",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Gt World Champ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C70C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C710",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C714",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C718",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C71C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C720",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C724",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C728",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C72C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C730",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C734",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Italian Avant",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C764",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C768",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Japanese Champ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C76C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C770",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C774",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C778",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C77C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C780",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Laguna SCEA 200 Endurance",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C470",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Like The Wind",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C99C",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Mistral 78 Laps",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C474",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Mr Challenge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C800",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C804",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C808",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold P Digital Cup",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C848",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C84C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C850",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C854",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C858",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C85C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C860",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C864",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C868",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C86C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C870",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Pass Colosseo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C47C",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Passage to Colosseo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C47C",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Race Na Sports",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C824",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C828",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C82C",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Race Red Emblem",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C6D4",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C6D8",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C6DC",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Rally Alps",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C444",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C448",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C44C",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Rally Alps II",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C408",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C40C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C410",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Rally Chal II",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C414",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C418",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C41C",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Rally Challenge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C450",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C454",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C458",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Roadster Endurance",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C478",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Route 5-wet",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C42C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C430",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C434",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold S Mtn Rally",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C438",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C43C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C440",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold S Mtn Rally Ii",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C3FC",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C400",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C404",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Seattle 100 Mi",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C484",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Seattle 100 Miles",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C484",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Silver Arrow",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C7E8",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C7EC",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C7F0",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Silver Arrow",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C7F4",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C7F8",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C7FC",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Smoky Mountain Rally",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C438",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C43C",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C440",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Smoky Mountain Rally II",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C3FC",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C400",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "808057C404",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Sp Route 11",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C480",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Gold Special Stage Route 11",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808057C480",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "W"
+  ]
 }

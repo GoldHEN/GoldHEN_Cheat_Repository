@@ -1,188 +1,251 @@
 {
-    "name": "Outward",
-    "id": "CUSA10853",
-    "version": "01.07",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Health(100)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FE70",
-            "on": "4180BEC800000001750A41C746640000C842EB06C4C17A114664E9A0E2D100",
-            "off": "00000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "8097E129",
-            "on": "E9421D2EFF90",
-            "off": "C4C17A114664"
-        }]
-    }, {
-        "name": "Max Health (100)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FE00",
-            "on": "C7435400000000E9930FD200",
-            "off": "000000000000000000000000"
-        }, {
-            "offset": "80980D9A",
-            "on": "E961F02DFF",
-            "off": "C5FA114354"
-        }]
-    }, {
-        "name": "Infinite Stamina (100)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FF10",
-            "on": "41C786D80000000000C842E9C2E7D100",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "8097E6D9",
-            "on": "E932182EFF90909090",
-            "off": "C4C17A1186D8000000"
-        }]
-    }, {
-        "name": "Max Stamina (100)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FF90",
-            "on": "C783CC00000000000000E98DEBD100",
-            "off": "000000000000000000000000000000"
-        }, {
-            "offset": "8097EB24",
-            "on": "E967142EFF909090",
-            "off": "C5FA1183CC000000"
-        }]
-    }, {
-        "name": "Infinite Mana (200)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FD70",
-            "on": "41C786B000000000004843E947EAD100",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "8097E7BE",
-            "on": "E9AD152EFF90909090",
-            "off": "C4C17A1186B0000000"
-        }]
-    }, {
-        "name": "Max Durability (Armor/weapons/food)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5F940",
-            "on": "41C784247401000000009643E9A9340302",
-            "off": "0000000000000000000000000000000000"
-        }, {
-            "offset": "81C92DF0",
-            "on": "E94BCBFCFD9090909090",
-            "off": "C4C17A11842474010000"
-        }]
-    }, {
-        "name": "No Hunger",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FCD0",
-            "on": "C7834802000000007A44E9961ED901",
-            "off": "000000000000000000000000000000"
-        }, {
-            "offset": "819F1B6D",
-            "on": "E95EE126FE909090",
-            "off": "C5FA118348020000"
-        }]
-    }, {
-        "name": "No Thirst",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FF40",
-            "on": "C7837002000000007A44E97F1CD901",
-            "off": "000000000000000000000000000000"
-        }, {
-            "offset": "819F1BC6",
-            "on": "E975E326FE909090",
-            "off": "C5FA118370020000"
-        }]
-    }, {
-        "name": "No Sleep",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FD00",
-            "on": "C7839802000000007A44E9181FD901",
-            "off": "000000000000000000000000000000"
-        }, {
-            "offset": "819F1C1F",
-            "on": "E9DCE026FE909090",
-            "off": "C5FA118398020000"
-        }]
-    }, {
-        "name": "2000 Coins (on buy needs 50 Capacity )",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FBD0",
-            "on": "41C786F0030000D0070000E9F6010402",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "81C9FDCF",
-            "on": "E9FCFDFBFD9090",
-            "off": "418986F0030000"
-        }]
-    }, {
-        "name": "4000 Coins (On buy Needs 50 Capacity Bag)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FAF0",
-            "on": "41C786F0030000A00F0000E9D6020402",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "81C9FDCF",
-            "on": "E91CFDFBFD9090",
-            "off": "418986F0030000"
-        }]
-    }, {
-        "name": "9000 Coins on Buy (Needs 100 Capacity bag)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FAC0",
-            "on": "41C786F003000028230000E906030402",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "81C9FDCF",
-            "on": "E9ECFCFBFD9090",
-            "off": "418986F0030000"
-        }]
-    }, {
-        "name": "1 weight (doesnt work on silver coins)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FEC0",
-            "on": "41C787FC0300000000803FC4C17A108FFC030000E9113D0302",
-            "off": "00000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "81C93BE1",
-            "on": "E9DAC2FCFD90909090",
-            "off": "C4C17A108FFC030000"
-        }]
-    }, {
-        "name": "No Cooldown (Skills/Spells)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FE30",
-            "on": "41C786E803000000000000E999B1C001",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "8186AFD0",
-            "on": "E95B4E3FFE90909090",
-            "off": "C4C17A1186E8030000"
-        }]
-    }, {
-        "name": "Infinite Ammo/items except food(turn off when removing traps or tents)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FD30",
-            "on": "FF90D801000041C6473C14E92BB70302",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "81C9B461",
-            "on": "E9CA48FCFD9090909090",
-            "off": "FF90D80100004589673C"
-        }]
-    }],
-    "credits": ["Wander FW9.00"]
+  "name": "Outward",
+  "id": "CUSA10853",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health(100)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FE70",
+          "on": "4180BEC800000001750A41C746640000C842EB06C4C17A114664E9A0E2D100",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8097E129",
+          "on": "E9421D2EFF90",
+          "off": "C4C17A114664"
+        }
+      ]
+    },
+    {
+      "name": "Max Health (100)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FE00",
+          "on": "C7435400000000E9930FD200",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "80980D9A",
+          "on": "E961F02DFF",
+          "off": "C5FA114354"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina (100)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FF10",
+          "on": "41C786D80000000000C842E9C2E7D100",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8097E6D9",
+          "on": "E932182EFF90909090",
+          "off": "C4C17A1186D8000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Stamina (100)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FF90",
+          "on": "C783CC00000000000000E98DEBD100",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "8097EB24",
+          "on": "E967142EFF909090",
+          "off": "C5FA1183CC000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mana (200)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FD70",
+          "on": "41C786B000000000004843E947EAD100",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8097E7BE",
+          "on": "E9AD152EFF90909090",
+          "off": "C4C17A1186B0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Durability (Armor/weapons/food)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F940",
+          "on": "41C784247401000000009643E9A9340302",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "81C92DF0",
+          "on": "E94BCBFCFD9090909090",
+          "off": "C4C17A11842474010000"
+        }
+      ]
+    },
+    {
+      "name": "No Hunger",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FCD0",
+          "on": "C7834802000000007A44E9961ED901",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "819F1B6D",
+          "on": "E95EE126FE909090",
+          "off": "C5FA118348020000"
+        }
+      ]
+    },
+    {
+      "name": "No Thirst",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FF40",
+          "on": "C7837002000000007A44E97F1CD901",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "819F1BC6",
+          "on": "E975E326FE909090",
+          "off": "C5FA118370020000"
+        }
+      ]
+    },
+    {
+      "name": "No Sleep",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FD00",
+          "on": "C7839802000000007A44E9181FD901",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "819F1C1F",
+          "on": "E9DCE026FE909090",
+          "off": "C5FA118398020000"
+        }
+      ]
+    },
+    {
+      "name": "2000 Coins (on buy needs 50 Capacity )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FBD0",
+          "on": "41C786F0030000D0070000E9F6010402",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "81C9FDCF",
+          "on": "E9FCFDFBFD9090",
+          "off": "418986F0030000"
+        }
+      ]
+    },
+    {
+      "name": "4000 Coins (On buy Needs 50 Capacity Bag)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FAF0",
+          "on": "41C786F0030000A00F0000E9D6020402",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "81C9FDCF",
+          "on": "E91CFDFBFD9090",
+          "off": "418986F0030000"
+        }
+      ]
+    },
+    {
+      "name": "9000 Coins on Buy (Needs 100 Capacity bag)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FAC0",
+          "on": "41C786F003000028230000E906030402",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "81C9FDCF",
+          "on": "E9ECFCFBFD9090",
+          "off": "418986F0030000"
+        }
+      ]
+    },
+    {
+      "name": "1 weight (doesnt work on silver coins)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FEC0",
+          "on": "41C787FC0300000000803FC4C17A108FFC030000E9113D0302",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81C93BE1",
+          "on": "E9DAC2FCFD90909090",
+          "off": "C4C17A108FFC030000"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown (Skills/Spells)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FE30",
+          "on": "41C786E803000000000000E999B1C001",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8186AFD0",
+          "on": "E95B4E3FFE90909090",
+          "off": "C4C17A1186E8030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/items except food(turn off when removing traps or tents)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FD30",
+          "on": "FF90D801000041C6473C14E92BB70302",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "81C9B461",
+          "on": "E9CA48FCFD9090909090",
+          "off": "FF90D80100004589673C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
 }

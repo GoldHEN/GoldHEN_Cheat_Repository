@@ -1,64 +1,88 @@
 {
-    "name": "Zombie Army 4: Dead War",
-    "id": "CUSA12596",
-    "version": "01.07",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "infinte ammo",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "BDE01E",
-            "on": "90909090",
-            "off": "41895720"
-        }]
-    }, {
-        "name": "inf energe bullets",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "BDE07D",
-            "on": "909090",
-            "off": "894348"
-        }]
-    }, {
-        "name": "inf special attack",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "CD322C",
-            "on": "9090",
-            "off": "7704"
-        }]
-    }, {
-        "name": "max sniper coldown",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "B93CC1",
-            "on": "9090",
-            "off": "7202"
-        }]
-    }, {
-        "name": "Max combo",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "C8F6A8",
-            "on": "9090909090",
-            "off": "C5E2C2C906"
-        }]
-    }, {
-        "name": "inf finesh",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "B838F1",
-            "on": "9090909090909090",
-            "off": "410FB68688000000"
-        }]
-    }, {
-        "name": "max mark skill",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "B93C7D",
-            "on": "9090",
-            "off": "89CA"
-        }]
-    }],
-    "credits": ["Ibraheem"]
+  "name": "Zombie Army 4: Dead War",
+  "id": "CUSA12596",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "infinte ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BDE01E",
+          "on": "90909090",
+          "off": "41895720"
+        }
+      ]
+    },
+    {
+      "name": "inf energe bullets",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BDE07D",
+          "on": "909090",
+          "off": "894348"
+        }
+      ]
+    },
+    {
+      "name": "inf special attack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CD322C",
+          "on": "9090",
+          "off": "7704"
+        }
+      ]
+    },
+    {
+      "name": "max sniper coldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B93CC1",
+          "on": "9090",
+          "off": "7202"
+        }
+      ]
+    },
+    {
+      "name": "Max combo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C8F6A8",
+          "on": "9090909090",
+          "off": "C5E2C2C906"
+        }
+      ]
+    },
+    {
+      "name": "inf finesh",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B838F1",
+          "on": "9090909090909090",
+          "off": "410FB68688000000"
+        }
+      ]
+    },
+    {
+      "name": "max mark skill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B93C7D",
+          "on": "9090",
+          "off": "89CA"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ibraheem"
+  ]
 }

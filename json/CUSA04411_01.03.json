@@ -1,76 +1,102 @@
 {
-    "name": "Sky Force Anniversary",
-    "id": "CUSA04411",
-    "version": "01.03",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "80217B26",
-            "on": "F3410F119774010000",
-            "off": "F3450F11BF74010000"
-        }]
-    }, {
-        "name": "Infinity Resources",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "125B800",
-            "on": "48C7C17F9698008908E9BCF2FC7E",
-            "off": "0000000000000000000000000000"
-        }, {
-            "offset": "8022AAC4",
-            "on": "E9370D038190",
-            "off": "48630C248908"
-        }]
-    }, {
-        "name": "Infinite Laser",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "80247F8D",
-            "on": "F30F111090",
-            "off": "F3440F1138"
-        }, {
-            "offset": "80247CED",
-            "on": "F30F111090",
-            "off": "F3440F1138"
-        }, {
-            "offset": "8022AE9C",
-            "on": "66BE0500",
-            "off": "48633424"
-        }]
-    }, {
-        "name": "Infinite Shield",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8023F5BD",
-            "on": "40B705",
-            "off": "488BFE"
-        }, {
-            "offset": "8022AFDC",
-            "on": "66BE0500",
-            "off": "48633424"
-        }]
-    }, {
-        "name": "Infinite Mega Bome",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8022AF3C",
-            "on": "66BE0300",
-            "off": "48633424"
-        }]
-    }, {
-        "name": "Press R3 to Refill Energy Shield Timer",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "125B81E",
-            "on": "538B1DB3C9190083E304750BF3450F11BF90000000EB0B41C7879000000060661E415BE94640FE7E",
-            "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "8023F883",
-            "on": "E996BF018190909090",
-            "off": "F3450F11BF90000000"
-        }]
-    }],
-    "credits": ["hejran7"]
+  "name": "Sky Force Anniversary",
+  "id": "CUSA04411",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80217B26",
+          "on": "F3410F119774010000",
+          "off": "F3450F11BF74010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Resources",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "125B800",
+          "on": "48C7C17F9698008908E9BCF2FC7E",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "8022AAC4",
+          "on": "E9370D038190",
+          "off": "48630C248908"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Laser",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80247F8D",
+          "on": "F30F111090",
+          "off": "F3440F1138"
+        },
+        {
+          "offset": "80247CED",
+          "on": "F30F111090",
+          "off": "F3440F1138"
+        },
+        {
+          "offset": "8022AE9C",
+          "on": "66BE0500",
+          "off": "48633424"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Shield",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8023F5BD",
+          "on": "40B705",
+          "off": "488BFE"
+        },
+        {
+          "offset": "8022AFDC",
+          "on": "66BE0500",
+          "off": "48633424"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mega Bome",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8022AF3C",
+          "on": "66BE0300",
+          "off": "48633424"
+        }
+      ]
+    },
+    {
+      "name": "Press R3 to Refill Energy Shield Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "125B81E",
+          "on": "538B1DB3C9190083E304750BF3450F11BF90000000EB0B41C7879000000060661E415BE94640FE7E",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8023F883",
+          "on": "E996BF018190909090",
+          "off": "F3450F11BF90000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
 }

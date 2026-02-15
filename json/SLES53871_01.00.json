@@ -1,40 +1,54 @@
 {
-    "name": "Tengai",
-    "id": "SLES53871",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-lives P1",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FE26BB0",
-            "on": "63",
-            "off": "03"
-        }]
-    }, {
-        "name": "Infinite-Bomb P1",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FDF8608",
-            "on": "00",
-            "off": "FF"
-        }, {
-            "offset": "807FDF8609",
-            "on": "00",
-            "off": "FF"
-        }]
-    }, {
-        "name": "Invincible P1",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FDF8638",
-            "on": "0000",
-            "off": "FFFF"
-        }, {
-            "offset": "807FDF8639",
-            "on": "0000",
-            "off": "FFFF"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Tengai",
+  "id": "SLES53871",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-lives P1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FE26BB0",
+          "on": "63",
+          "off": "03"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Bomb P1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FDF8608",
+          "on": "00",
+          "off": "FF"
+        },
+        {
+          "offset": "807FDF8609",
+          "on": "00",
+          "off": "FF"
+        }
+      ]
+    },
+    {
+      "name": "Invincible P1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FDF8638",
+          "on": "0000",
+          "off": "FFFF"
+        },
+        {
+          "offset": "807FDF8639",
+          "on": "0000",
+          "off": "FFFF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

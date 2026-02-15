@@ -1,24 +1,33 @@
 {
-    "name": "Bloodborne™",
-    "id": "CUSA03173",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Godmode",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1A0D894",
-            "on": "909090",
-            "off": "897708"
-        }]
-    }, {
-        "name": "Infinite Stamina",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1A29C55",
-            "on": "90909090909090",
-            "off": "41898734010000"
-        }]
-    }],
-    "credits": ["DeathRGH"]
+  "name": "Bloodborne™",
+  "id": "CUSA03173",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A0D894",
+          "on": "909090",
+          "off": "897708"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A29C55",
+          "on": "90909090909090",
+          "off": "41898734010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
 }

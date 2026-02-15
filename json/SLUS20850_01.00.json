@@ -1,24 +1,33 @@
 {
-    "name": "Blowout",
-    "id": "SLUS20850",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Unlock-All-Cheats",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FFBB530",
-            "on": "FFFFFFFF",
-            "off": "FFFFFFFF"
-        }]
-    }, {
-        "name": "Infinite-Ammo",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FD93638",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Blowout",
+  "id": "SLUS20850",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Unlock-All-Cheats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FFBB530",
+          "on": "FFFFFFFF",
+          "off": "FFFFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FD93638",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

@@ -1,28 +1,38 @@
 {
-    "name": "Raiden DX",
-    "id": "SLPS00728",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-lives P1",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "111392",
-            "on": "00",
-            "off": "63"
-        }]
-    }, {
-        "name": "Infinite-Bomb P1",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "137354",
-            "on": "63",
-            "off": "FF"
-        }, {
-            "offset": "137355",
-            "on": "24",
-            "off": "FF"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Raiden DX",
+  "id": "SLPS00728",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-lives P1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "111392",
+          "on": "00",
+          "off": "63"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Bomb P1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "137354",
+          "on": "63",
+          "off": "FF"
+        },
+        {
+          "offset": "137355",
+          "on": "24",
+          "off": "FF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

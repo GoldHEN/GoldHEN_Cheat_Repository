@@ -1,32 +1,43 @@
 {
-    "name": "Gravity Rush 2",
-    "id": "SLES53777",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080AAE8F0",
-            "on": "63000000",
-            "off": "63000000"
-        }, {
-            "offset": "8080AAE8F1",
-            "on": "63000000",
-            "off": "63000000"
-        }]
-    }, {
-        "name": "Max+Infinite-Sand",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080AAF348",
-            "on": "63000000",
-            "off": "63000000"
-        }, {
-            "offset": "8080AAF349",
-            "on": "63000000",
-            "off": "63000000"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Gravity Rush 2",
+  "id": "SLES53777",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080AAE8F0",
+          "on": "63000000",
+          "off": "63000000"
+        },
+        {
+          "offset": "8080AAE8F1",
+          "on": "63000000",
+          "off": "63000000"
+        }
+      ]
+    },
+    {
+      "name": "Max+Infinite-Sand",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080AAF348",
+          "on": "63000000",
+          "off": "63000000"
+        },
+        {
+          "offset": "8080AAF349",
+          "on": "63000000",
+          "off": "63000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

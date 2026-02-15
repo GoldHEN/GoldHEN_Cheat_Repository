@@ -1,56 +1,75 @@
 {
-    "name": "Raiden Project-The",
-    "id": "SCUS94402",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Raiden=1-Infinite-lives",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "FE688",
-            "on": "00",
-            "off": "FF"
-        }, {
-            "offset": "FE689",
-            "on": "00",
-            "off": "FF"
-        }]
-    }, {
-        "name": "Raiden=1-Infinite-Bomb",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "10BFD8",
-            "on": "00",
-            "off": "FF"
-        }, {
-            "offset": "10BFD9",
-            "on": "00",
-            "off": "FF"
-        }]
-    }, {
-        "name": "Raiden=2-Infinite-lives",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "FE814",
-            "on": "00",
-            "off": "FF"
-        }, {
-            "offset": "FE815",
-            "on": "00",
-            "off": "FF"
-        }]
-    }, {
-        "name": "Raiden=2-Infinite-Bomb",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "14625C",
-            "on": "03",
-            "off": "FF"
-        }, {
-            "offset": "14625D",
-            "on": "00",
-            "off": "FF"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Raiden Project-The",
+  "id": "SCUS94402",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Raiden=1-Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FE688",
+          "on": "00",
+          "off": "FF"
+        },
+        {
+          "offset": "FE689",
+          "on": "00",
+          "off": "FF"
+        }
+      ]
+    },
+    {
+      "name": "Raiden=1-Infinite-Bomb",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10BFD8",
+          "on": "00",
+          "off": "FF"
+        },
+        {
+          "offset": "10BFD9",
+          "on": "00",
+          "off": "FF"
+        }
+      ]
+    },
+    {
+      "name": "Raiden=2-Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FE814",
+          "on": "00",
+          "off": "FF"
+        },
+        {
+          "offset": "FE815",
+          "on": "00",
+          "off": "FF"
+        }
+      ]
+    },
+    {
+      "name": "Raiden=2-Infinite-Bomb",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14625C",
+          "on": "03",
+          "off": "FF"
+        },
+        {
+          "offset": "14625D",
+          "on": "00",
+          "off": "FF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

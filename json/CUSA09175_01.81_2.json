@@ -1,180 +1,239 @@
 {
-    "name": "DAYS GONE",
-    "id": "CUSA09175",
-    "version": "01.81",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FEB0",
-            "on": "41837F0808750EC4C17A1187BC1F0000E9FAC66B81C4C17A1087BC1F0000E9ECC66B81",
-            "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "131C5B6",
-            "on": "E9F538947E90909090",
-            "off": "C4C17A1187BC1F0000"
-        }]
-    }, {
-        "name": "Infinite Endurance/Focus",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FF00",
-            "on": "C5FB5AC0C5FA1006E93F307C82",
-            "off": "00000000000000000000000000"
-        }, {
-            "offset": "2422F44",
-            "on": "E9B7CF837D909090",
-            "off": "C5FB5AC0C5FA1106"
-        }]
-    }, {
-        "name": "Infinite Items (Don't Use Max Items)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1275BB0",
-            "on": "C3",
-            "off": "55"
-        }]
-    }, {
-        "name": "Max Items (Get Items First/Reload Game)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FD70",
-            "on": "85C0C743403F420F00E98E5E6181",
-            "off": "0000000000000000000000000000"
-        }, {
-            "offset": "1275C07",
-            "on": "E964A19E7E",
-            "off": "85C0894340"
-        }]
-    }, {
-        "name": "No Reload",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FE80",
-            "on": "0F851E91968190E9ED8F9681",
-            "off": "000000000000000000000000"
-        }, {
-            "offset": "15C8E6F",
-            "on": "E90C70697E9090909090",
-            "off": "0F852701000041FF4D00"
-        }, {
-            "offset": "7FC5FD00",
-            "on": "418B8600280000E9DEFE9581",
-            "off": "000000000000000000000000"
-        }, {
-            "offset": "15BFBE3",
-            "on": "E918016A7E9090",
-            "off": "41898600280000"
-        }, {
-            "offset": "7FC5FA90",
-            "on": "8B8300280000E9068F9681",
-            "off": "0000000000000000000000"
-        }, {
-            "offset": "15C899B",
-            "on": "E9F070697E90",
-            "off": "898300280000"
-        }]
-    }, {
-        "name": "Infinite Suppressor",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FE30",
-            "on": "8B8B70030000E919539B81",
-            "off": "0000000000000000000000"
-        }, {
-            "offset": "161514E",
-            "on": "E9DDAC647E90",
-            "off": "898B70030000"
-        }]
-    }, {
-        "name": "Infinite Weapon Durability",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FDE0",
-            "on": "C4C17A1080AC030000E985499881",
-            "off": "0000000000000000000000000000"
-        }, {
-            "offset": "15E476A",
-            "on": "E971B6677E90909090",
-            "off": "C4C17A1180AC030000"
-        }]
-    }, {
-        "name": "Infinite Bike Durability (Disable On Chase Bike Missions)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5D080",
-            "on": "C4C17A1085D8000000E9DC2C8981",
-            "off": "0000000000000000000000000000"
-        }, {
-            "offset": "14EFD61",
-            "on": "E91AD3767E90909090",
-            "off": "C4C17A1185D8000000"
-        }]
-    }, {
-        "name": "Infinite Bike Fuel",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FDB0",
-            "on": "C4C17A1087D4000000E9CF2D8981",
-            "off": "0000000000000000000000000000"
-        }, {
-            "offset": "14F2B84",
-            "on": "E927D2767E90909090",
-            "off": "C4C17A1187D4000000"
-        }]
-    }, {
-        "name": "Infinite Nitro Turbo ",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FE00",
-            "on": "C4C17A108714050000E9E3668C81",
-            "off": "0000000000000000000000000000"
-        }, {
-            "offset": "15264E8",
-            "on": "E91399737E90909090",
-            "off": "C4C17A118714050000"
-        }]
-    }, {
-        "name": "Infinite Skill Points",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "E76C29",
-            "on": "909090909090",
-            "off": "2B9180000000"
-        }]
-    }, {
-        "name": "Max Level Up/XP On Gain",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5F6C0",
-            "on": "89C2897B50E9A2772181",
-            "off": "00000000000000000000"
-        }, {
-            "offset": "E76E67",
-            "on": "E95488DE7E",
-            "off": "89C2015350"
-        }]
-    }, {
-        "name": "Max Infinite Money(Buy Or Sell) Turn Off Before New Camp",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FF90",
-            "on": "0345D441C74774FFC99A3BE90EA71182",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "1D7A6A7",
-            "on": "E9E458EE7D9090",
-            "off": "0345D441894774"
-        }, {
-            "offset": "7FC5FFB0",
-            "on": "0F8CEF9D518141C74774FFC99A3BE9109D5181",
-            "off": "00000000000000000000000000000000000000"
-        }, {
-            "offset": "1179CC9",
-            "on": "E9E262AE7E9090909090",
-            "off": "0F8CDC00000041894774"
-        }]
-    }],
-    "credits": ["Celogamez_9.00"]
+  "name": "DAYS GONE",
+  "id": "CUSA09175",
+  "version": "01.81",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FEB0",
+          "on": "41837F0808750EC4C17A1187BC1F0000E9FAC66B81C4C17A1087BC1F0000E9ECC66B81",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "131C5B6",
+          "on": "E9F538947E90909090",
+          "off": "C4C17A1187BC1F0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Endurance/Focus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FF00",
+          "on": "C5FB5AC0C5FA1006E93F307C82",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "2422F44",
+          "on": "E9B7CF837D909090",
+          "off": "C5FB5AC0C5FA1106"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items (Don't Use Max Items)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1275BB0",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    },
+    {
+      "name": "Max Items (Get Items First/Reload Game)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FD70",
+          "on": "85C0C743403F420F00E98E5E6181",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1275C07",
+          "on": "E964A19E7E",
+          "off": "85C0894340"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FE80",
+          "on": "0F851E91968190E9ED8F9681",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "15C8E6F",
+          "on": "E90C70697E9090909090",
+          "off": "0F852701000041FF4D00"
+        },
+        {
+          "offset": "7FC5FD00",
+          "on": "418B8600280000E9DEFE9581",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "15BFBE3",
+          "on": "E918016A7E9090",
+          "off": "41898600280000"
+        },
+        {
+          "offset": "7FC5FA90",
+          "on": "8B8300280000E9068F9681",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "15C899B",
+          "on": "E9F070697E90",
+          "off": "898300280000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Suppressor",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FE30",
+          "on": "8B8B70030000E919539B81",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "161514E",
+          "on": "E9DDAC647E90",
+          "off": "898B70030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FDE0",
+          "on": "C4C17A1080AC030000E985499881",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "15E476A",
+          "on": "E971B6677E90909090",
+          "off": "C4C17A1180AC030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Bike Durability (Disable On Chase Bike Missions)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5D080",
+          "on": "C4C17A1085D8000000E9DC2C8981",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "14EFD61",
+          "on": "E91AD3767E90909090",
+          "off": "C4C17A1185D8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Bike Fuel",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FDB0",
+          "on": "C4C17A1087D4000000E9CF2D8981",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "14F2B84",
+          "on": "E927D2767E90909090",
+          "off": "C4C17A1187D4000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Nitro Turbo ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FE00",
+          "on": "C4C17A108714050000E9E3668C81",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "15264E8",
+          "on": "E91399737E90909090",
+          "off": "C4C17A118714050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E76C29",
+          "on": "909090909090",
+          "off": "2B9180000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Level Up/XP On Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F6C0",
+          "on": "89C2897B50E9A2772181",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "E76E67",
+          "on": "E95488DE7E",
+          "off": "89C2015350"
+        }
+      ]
+    },
+    {
+      "name": "Max Infinite Money(Buy Or Sell) Turn Off Before New Camp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FF90",
+          "on": "0345D441C74774FFC99A3BE90EA71182",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1D7A6A7",
+          "on": "E9E458EE7D9090",
+          "off": "0345D441894774"
+        },
+        {
+          "offset": "7FC5FFB0",
+          "on": "0F8CEF9D518141C74774FFC99A3BE9109D5181",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1179CC9",
+          "on": "E9E262AE7E9090909090",
+          "off": "0F8CDC00000041894774"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez_9.00"
+  ]
 }

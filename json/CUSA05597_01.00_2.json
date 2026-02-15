@@ -1,52 +1,71 @@
 {
-    "name": "METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE",
-    "id": "CUSA05597",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "10F305F",
-            "on": "90909090",
-            "off": "C5FA1108"
-        }]
-    }, {
-        "name": "Infinite Ammo",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "29C09C1",
-            "on": "90909090",
-            "off": "66890C72"
-        }]
-    }, {
-        "name": "Infinite Suppressor",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "29C0A17",
-            "on": "90909090",
-            "off": "884C4204"
-        }]
-    }, {
-        "name": "Infinite GMP",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "273A660",
-            "on": "E9FB2E3E009090909090",
-            "off": "418916808B680E000005"
-        }, {
-            "offset": "2B1D560",
-            "on": "41C70680A1031CE9F9D0C1FF",
-            "off": "000000000000000000000000"
-        }]
-    }, {
-        "name": "No Bullet Spread(Hip Fire)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "28F89A3",
-            "on": "C5FA117F34",
-            "off": "C5FA114734"
-        }]
-    }],
-    "credits": ["TylerMods"]
+  "name": "METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE",
+  "id": "CUSA05597",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10F305F",
+          "on": "90909090",
+          "off": "C5FA1108"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "29C09C1",
+          "on": "90909090",
+          "off": "66890C72"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Suppressor",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "29C0A17",
+          "on": "90909090",
+          "off": "884C4204"
+        }
+      ]
+    },
+    {
+      "name": "Infinite GMP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "273A660",
+          "on": "E9FB2E3E009090909090",
+          "off": "418916808B680E000005"
+        },
+        {
+          "offset": "2B1D560",
+          "on": "41C70680A1031CE9F9D0C1FF",
+          "off": "000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "No Bullet Spread(Hip Fire)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28F89A3",
+          "on": "C5FA117F34",
+          "off": "C5FA114734"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TylerMods"
+  ]
 }

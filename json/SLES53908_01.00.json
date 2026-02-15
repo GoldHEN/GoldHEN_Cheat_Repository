@@ -1,60 +1,81 @@
 {
-    "name": "Lara Croft Tomb Raider-Legend",
-    "id": "SLES53908",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Inf-Health-Packs-999",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808157D534",
-            "on": "63000000",
-            "off": "63000000"
-        }, {
-            "offset": "808157D535",
-            "on": "99000000",
-            "off": "99000000"
-        }]
-    }, {
-        "name": "Inf-Ammo",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FE8D110",
-            "on": "24A2",
-            "off": "24A2"
-        }]
-    }, {
-        "name": "Inf-Air-Never Drown",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FEC27AC",
-            "on": "00000000",
-            "off": "00000000"
-        }]
-    }, {
-        "name": "Inf-Time-Trials",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FF923A0",
-            "on": "46FAB16F",
-            "off": "46FAB16F"
-        }]
-    }, {
-        "name": "All-Weapons-Press-Down",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FFE405C",
-            "on": "BFFF",
-            "off": "BFFF"
-        }, {
-            "offset": "807FFB928E",
-            "on": "0800",
-            "off": "0800"
-        }, {
-            "offset": "807FFB900E",
-            "on": "00000008",
-            "off": "00000008"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Lara Croft Tomb Raider-Legend",
+  "id": "SLES53908",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf-Health-Packs-999",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808157D534",
+          "on": "63000000",
+          "off": "63000000"
+        },
+        {
+          "offset": "808157D535",
+          "on": "99000000",
+          "off": "99000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FE8D110",
+          "on": "24A2",
+          "off": "24A2"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Air-Never Drown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FEC27AC",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Time-Trials",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FF923A0",
+          "on": "46FAB16F",
+          "off": "46FAB16F"
+        }
+      ]
+    },
+    {
+      "name": "All-Weapons-Press-Down",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FFE405C",
+          "on": "BFFF",
+          "off": "BFFF"
+        },
+        {
+          "offset": "807FFB928E",
+          "on": "0800",
+          "off": "0800"
+        },
+        {
+          "offset": "807FFB900E",
+          "on": "00000008",
+          "off": "00000008"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

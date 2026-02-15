@@ -1,72 +1,99 @@
 {
-    "name": "FINAL FANTASY VII REMAKE",
-    "id": "CUSA07187",
-    "version": "01.02",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "INF HP",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DFB8D1",
-            "on": "9090909090",
-            "off": "4489740830"
-        }]
-    }, {
-        "name": "Add GIL When Buying",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "E560D8",
-            "on": "4401B4C33C560300",
-            "off": "4489B4C33C560300"
-        }]
-    }, {
-        "name": "Freez GIL",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "E560D8",
-            "on": "9090909090909090",
-            "off": "4489B4C33C560300"
-        }]
-    }, {
-        "name": "Add Item When Buying",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "E41E6F",
-            "on": "0111",
-            "off": "8911"
-        }]
-    }, {
-        "name": "Freez Mp",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DFBBD8",
-            "on": "9090909090",
-            "off": "4489740838"
-        }]
-    }, {
-        "name": "ADD Mp",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DFBBD8",
-            "on": "4401740838",
-            "off": "4489740838"
-        }]
-    }, {
-        "name": "MAX ATB",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DFB656",
-            "on": "C57A114C0844",
-            "off": "C5FA11440844"
-        }]
-    }, {
-        "name": "Freez Special LIMIT",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DFBF76",
-            "on": "909090909090",
-            "off": "C5FA11440824"
-        }]
-    }],
-    "credits": ["M3hdi PS"]
+  "name": "FINAL FANTASY VII REMAKE",
+  "id": "CUSA07187",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "INF HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DFB8D1",
+          "on": "9090909090",
+          "off": "4489740830"
+        }
+      ]
+    },
+    {
+      "name": "Add GIL When Buying",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E560D8",
+          "on": "4401B4C33C560300",
+          "off": "4489B4C33C560300"
+        }
+      ]
+    },
+    {
+      "name": "Freez GIL",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E560D8",
+          "on": "9090909090909090",
+          "off": "4489B4C33C560300"
+        }
+      ]
+    },
+    {
+      "name": "Add Item When Buying",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E41E6F",
+          "on": "0111",
+          "off": "8911"
+        }
+      ]
+    },
+    {
+      "name": "Freez Mp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DFBBD8",
+          "on": "9090909090",
+          "off": "4489740838"
+        }
+      ]
+    },
+    {
+      "name": "ADD Mp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DFBBD8",
+          "on": "4401740838",
+          "off": "4489740838"
+        }
+      ]
+    },
+    {
+      "name": "MAX ATB",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DFB656",
+          "on": "C57A114C0844",
+          "off": "C5FA11440844"
+        }
+      ]
+    },
+    {
+      "name": "Freez Special LIMIT",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DFBF76",
+          "on": "909090909090",
+          "off": "C5FA11440824"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "M3hdi PS"
+  ]
 }

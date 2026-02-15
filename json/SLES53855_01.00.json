@@ -1,24 +1,33 @@
 {
-    "name": "Heracles-Battle with the Gods ",
-    "id": "SLES53855",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "RETURN-Energy",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808011E7C8",
-            "on": "63",
-            "off": "63"
-        }]
-    }, {
-        "name": "Infinite-lives-99",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FD3844C",
-            "on": "63",
-            "off": "63"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Heracles-Battle with the Gods ",
+  "id": "SLES53855",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "RETURN-Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808011E7C8",
+          "on": "63",
+          "off": "63"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives-99",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FD3844C",
+          "on": "63",
+          "off": "63"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

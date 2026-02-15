@@ -1,44 +1,58 @@
 {
-    "name": "Fighting Force (v1.1)",
-    "id": "SLUS00433",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Health Player 1",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "19F5FA",
-            "on": "017C",
-            "off": "6363"
-        }]
-    }, {
-        "name": "Infinite-All-Weapon",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "110774",
-            "on": "00",
-            "off": "FF"
-        }, {
-            "offset": "110775",
-            "on": "00",
-            "off": "FF"
-        }, {
-            "offset": "1106A8",
-            "on": "00",
-            "off": "FF"
-        }, {
-            "offset": "1106A9",
-            "on": "00",
-            "off": "FF"
-        }, {
-            "offset": "110838",
-            "on": "00",
-            "off": "FF"
-        }, {
-            "offset": "110839",
-            "on": "00",
-            "off": "FF"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Fighting Force (v1.1)",
+  "id": "SLUS00433",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health Player 1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19F5FA",
+          "on": "017C",
+          "off": "6363"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "110774",
+          "on": "00",
+          "off": "FF"
+        },
+        {
+          "offset": "110775",
+          "on": "00",
+          "off": "FF"
+        },
+        {
+          "offset": "1106A8",
+          "on": "00",
+          "off": "FF"
+        },
+        {
+          "offset": "1106A9",
+          "on": "00",
+          "off": "FF"
+        },
+        {
+          "offset": "110838",
+          "on": "00",
+          "off": "FF"
+        },
+        {
+          "offset": "110839",
+          "on": "00",
+          "off": "FF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

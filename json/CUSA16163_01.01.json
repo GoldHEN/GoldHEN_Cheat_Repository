@@ -1,394 +1,529 @@
 {
-    "name": "Bayonetta",
-    "id": "CUSA16163",
-    "version": "01.01",
-    "process": "eboot.bin",
-    "master": {
-        "challenged": "yes",
-        "memory": [{
-            "offset": "DE0597",
-            "on": "89888401000050B8103D4E02678B0083F802750FA3004000000000000058E945F6C5FF83F8047509A3004000000000000058E931F6C5FF"
-        }, {
-            "offset": "A3FBF9",
-            "on": "E999093A0090"
-        }]
+  "name": "Bayonetta",
+  "id": "CUSA16163",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "master": {
+    "challenged": "yes",
+    "memory": [
+      {
+        "offset": "DE0597",
+        "on": "89888401000050B8103D4E02678B0083F802750FA3004000000000000058E945F6C5FF83F8047509A3004000000000000058E931F6C5FF"
+      },
+      {
+        "offset": "A3FBF9",
+        "on": "E999093A0090"
+      }
+    ]
+  },
+  "mods": [
+    {
+      "name": "Max Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DE0541",
+          "on": "898B900700008BB39807000031C0E93AD092FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "70D588",
+          "on": "E9B42F6D0090",
+          "off": "898B90070000"
+        }
+      ]
     },
-    "mods": [{
-        "name": "Max Inf HP",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DE0541",
-            "on": "898B900700008BB39807000031C0E93AD092FF",
-            "off": "00000000000000000000000000000000000000"
-        }, {
-            "offset": "70D588",
-            "on": "E9B42F6D0090",
-            "off": "898B90070000"
-        }]
-    }, {
-        "name": "Inf NPC HP",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "752C2B",
-            "on": "BE00000000",
-            "off": "BE64000000"
-        }]
-    }, {
-        "name": "One Hit Kill",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "056C0F",
-            "on": "31C0",
-            "off": "29C8"
-        }]
-    }, {
-        "name": "Inf 1st Jump",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "72462B",
-            "on": "90909090909090",
-            "off": "41FF86584E0900"
-        }]
-    }, {
-        "name": "Inf 2nd Jump",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "724417",
-            "on": "EB10",
-            "off": "7210"
-        }]
-    }, {
-        "name": "Max Inf Halos",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DE052C",
-            "on": "C780A4F00000FFE0F5058BB8A4F00000E907A92EFF",
-            "off": "000000000000000000000000000000000000000000"
-        }, {
-            "offset": "0CAE42",
-            "on": "E9E556D10090",
-            "off": "8BB8A4F00000"
-        }]
-    }, {
-        "name": "Arcade Inf Bullets",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "A7D49D",
-            "on": "90909090909090",
-            "off": "418986A8000000"
-        }]
-    }, {
-        "name": "Arcade Max Score",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DE04F7",
-            "on": "B8E7030000418986AC000000E909C8C9FF",
-            "off": "0000000000000000000000000000000000"
-        }, {
-            "offset": "A7CD0A",
-            "on": "E9E83736009090",
-            "off": "410186AC000000"
-        }]
-    }, {
-        "name": "Always Max Magic",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DE0554",
-            "on": "8B87A0F000006BC032F30F2AC0C5FA11879CF00000C5FA10879CF00000E9D27336FF",
-            "off": "00000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "147940",
-            "on": "E90F8CC900909090",
-            "off": "C5FA10879CF00000"
-        }]
-    }, {
-        "name": "Inf Witch Time Always On",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "70F44E",
-            "on": "C5FA1005B29DD7FF",
-            "off": "C5FA1083DC790900"
-        }]
-    }, {
-        "name": "Inf Witch Time when Get",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DE0508",
-            "on": "C780DC7909000000A042C5FA1088DC790900E9218298FF",
-            "off": "0000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "768738",
-            "on": "E9CB7D6700909090",
-            "off": "C5FA1088DC790900"
-        }]
-    }, {
-        "name": "Witch Time L3 On R3 Off",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DE05CE",
-            "on": "833D2B3AE2FE02750DC5FA1005298C6AFFE972EE92FFC5FA1083DC790900E965EE92FF",
-            "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "70F44E",
-            "on": "E97B116D00909090",
-            "off": "C5FA1083DC790900"
-        }]
-    }, {
-        "name": "Inf Weapon Durability",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DE051F",
-            "on": "31C089867C0D0000E9598998FF",
-            "off": "00000000000000000000000000"
-        }, {
-            "offset": "768E7F",
-            "on": "E99B76670090",
-            "off": "8B867C0D0000"
-        }]
-    }, {
-        "name": "Freeze Countdown Timer",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "16CDC5",
-            "on": "909090",
-            "off": "894F20"
-        }, {
-            "offset": "2BC08C",
-            "on": "909090909090",
-            "off": "C4C17A114710"
-        }]
-    }, {
-        "name": "Death Counter Always 0",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DE05F1",
-            "on": "66C78441B4FD00000000E98EF0C8FF",
-            "off": "000000000000000000000000000000"
-        }, {
-            "offset": "A6F686",
-            "on": "E9660F3700909090",
-            "off": "66FF8441B4FD0000"
-        }, {
-            "offset": "DE0600",
-            "on": "66C7836CFC00000000E9FFFCC5FF",
-            "off": "0000000000000000000000000000"
-        }, {
-            "offset": "A40306",
-            "on": "E9F5023A009090",
-            "off": "66FF836CFC0000"
-        }, {
-            "offset": "DE060E",
-            "on": "C783E4FD000000000000E9C7FCC5FF",
-            "off": "000000000000000000000000000000"
-        }, {
-            "offset": "A402DE",
-            "on": "E92B033A0090",
-            "off": "FF83E4FD0000"
-        }]
-    }, {
-        "name": "Craft Items WO Material",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DE048D",
-            "on": "C78481B8F00000620000008B8481B8F00000E944E6B1FF",
-            "off": "0000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "8FEAE1",
-            "on": "E9A7194E009090",
-            "off": "8B8481B8F00000"
-        }]
-    }, {
-        "name": "Enemies Inf HP For Training",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "056C11",
-            "on": "909090909090",
-            "off": "898390070000"
-        }]
-    }, {
-        "name": "Result No Damage Taken",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "A7AAED",
-            "on": "90909090909090",
-            "off": "410186FCFD0000"
-        }]
-    }, {
-        "name": "Chapter No Damages Taken",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "A6F654",
-            "on": "909090909090",
-            "off": "0198ACFD0000"
-        }]
-    }, {
-        "name": "Result 0:00.00 Time Cleared",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "A7A9BF",
-            "on": "8983F4FD0000",
-            "off": "FF83F4FD0000"
-        }]
-    }, {
-        "name": "Chapter 0:00.00 Time Cleared ",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "A6F600",
-            "on": "909090909090",
-            "off": "FF80A4FD0000"
-        }]
-    }, {
-        "name": "Combos Multiplier x99",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DE04D2",
-            "on": "6BC06301834C010000E9052724FF",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "022BDF",
-            "on": "E9EED8DB0090",
-            "off": "01834C010000"
-        }]
-    }, {
-        "name": "Result Max 999,999 Combos",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DE04D2",
-            "on": "B83F420F0089834C010000E9032724FF",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "022BDF",
-            "on": "E9EED8DB0090",
-            "off": "01834C010000"
-        }]
-    }, {
-        "name": "Chapter Max 9,999,999 Combos",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DE04E2",
-            "on": "41BA7F969800448957080F8E24EFC8FFE9EEEEC8FF",
-            "off": "000000000000000000000000000000000000000000"
-        }, {
-            "offset": "A6F3DF",
-            "on": "E9FE10370090",
-            "off": "448957087E31"
-        }]
-    }, {
-        "name": "Megatons Gigatons Easy Max",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "0CB66F",
-            "on": "C5FA10058171F5FF9090",
-            "off": "C4A17A10843398000000"
-        }, {
-            "offset": "DE0586",
-            "on": "C7437400004041C5FA104374E90774C6FF",
-            "off": "0000000000000000000000000000000000"
-        }, {
-            "offset": "A47999",
-            "on": "E9E88B3900",
-            "off": "C5FA104374"
-        }]
-    }, {
-        "name": "Megatons Gigatons Extra Time",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "0CB318",
-            "on": "FFC2",
-            "off": "FFCA"
-        }]
-    }, {
-        "name": "Alfheim 0 Damage Taken",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "A7AAE5",
-            "on": "B800000000",
-            "off": "B890010000"
-        }]
-    }, {
-        "name": "Alfheim Always Full HP",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "70D504",
-            "on": "909090909090",
-            "off": "FF8B24890900"
-        }]
-    }, {
-        "name": "Unlock Sai Fung for Completing 100 Chapters",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DE0576",
-            "on": "41C7865CEF000065000000E9F4C336FF",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "14C973",
-            "on": "E9FE3BC9009090",
-            "off": "41FF865CEF0000"
-        }]
-    }, {
-        "name": "Megatons Gigatons Easy Max",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "0CB679",
-            "on": "C5FA5805EBF8BA00",
-            "off": "C5FA5805333ABC00"
-        }]
-    }, {
-        "name": "Max Halos Earned Max Halos Must Be On",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "147E8B",
-            "on": "898FA8F00000",
-            "off": "01B7A8F00000"
-        }]
-    }, {
-        "name": "Character Scaling 0.75",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DE061D",
-            "on": "C783F00000000000403FC783F40000000000403FC783F80000000000403FE96A8D7FFF",
-            "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "5D93A2",
-            "on": "E976728000909090",
-            "off": "C5F81183F0000000"
-        }]
-    }, {
-        "name": "Character Scaling 1.25",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DE061D",
-            "on": "C783F00000000000A03FC783F40000000000A03FC783F80000000000A03FE96A8D7FFF",
-            "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "5D93A2",
-            "on": "E976728000909090",
-            "off": "C5F81183F0000000"
-        }]
-    }, {
-        "name": "Character Scaling 1.50",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DE061D",
-            "on": "C783F00000000000C03FC783F40000000000C03FC783F80000000000C03FE96A8D7FFF",
-            "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "5D93A2",
-            "on": "E976728000909090",
-            "off": "C5F81183F0000000"
-        }]
-    }, {
-        "name": "Character Scaling 2.00",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DE061D",
-            "on": "C783F000000000000040C783F400000000000040C783F800000000000040E96A8D7FFF",
-            "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "5D93A2",
-            "on": "E976728000909090",
-            "off": "C5F81183F0000000"
-        }]
-    }],
-    "credits": ["hejran7"]
+    {
+      "name": "Inf NPC HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "752C2B",
+          "on": "BE00000000",
+          "off": "BE64000000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "056C0F",
+          "on": "31C0",
+          "off": "29C8"
+        }
+      ]
+    },
+    {
+      "name": "Inf 1st Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "72462B",
+          "on": "90909090909090",
+          "off": "41FF86584E0900"
+        }
+      ]
+    },
+    {
+      "name": "Inf 2nd Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "724417",
+          "on": "EB10",
+          "off": "7210"
+        }
+      ]
+    },
+    {
+      "name": "Max Inf Halos",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DE052C",
+          "on": "C780A4F00000FFE0F5058BB8A4F00000E907A92EFF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "0CAE42",
+          "on": "E9E556D10090",
+          "off": "8BB8A4F00000"
+        }
+      ]
+    },
+    {
+      "name": "Arcade Inf Bullets",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A7D49D",
+          "on": "90909090909090",
+          "off": "418986A8000000"
+        }
+      ]
+    },
+    {
+      "name": "Arcade Max Score",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DE04F7",
+          "on": "B8E7030000418986AC000000E909C8C9FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "A7CD0A",
+          "on": "E9E83736009090",
+          "off": "410186AC000000"
+        }
+      ]
+    },
+    {
+      "name": "Always Max Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DE0554",
+          "on": "8B87A0F000006BC032F30F2AC0C5FA11879CF00000C5FA10879CF00000E9D27336FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "147940",
+          "on": "E90F8CC900909090",
+          "off": "C5FA10879CF00000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Witch Time Always On",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "70F44E",
+          "on": "C5FA1005B29DD7FF",
+          "off": "C5FA1083DC790900"
+        }
+      ]
+    },
+    {
+      "name": "Inf Witch Time when Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DE0508",
+          "on": "C780DC7909000000A042C5FA1088DC790900E9218298FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "768738",
+          "on": "E9CB7D6700909090",
+          "off": "C5FA1088DC790900"
+        }
+      ]
+    },
+    {
+      "name": "Witch Time L3 On R3 Off",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DE05CE",
+          "on": "833D2B3AE2FE02750DC5FA1005298C6AFFE972EE92FFC5FA1083DC790900E965EE92FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "70F44E",
+          "on": "E97B116D00909090",
+          "off": "C5FA1083DC790900"
+        }
+      ]
+    },
+    {
+      "name": "Inf Weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DE051F",
+          "on": "31C089867C0D0000E9598998FF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "768E7F",
+          "on": "E99B76670090",
+          "off": "8B867C0D0000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Countdown Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16CDC5",
+          "on": "909090",
+          "off": "894F20"
+        },
+        {
+          "offset": "2BC08C",
+          "on": "909090909090",
+          "off": "C4C17A114710"
+        }
+      ]
+    },
+    {
+      "name": "Death Counter Always 0",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DE05F1",
+          "on": "66C78441B4FD00000000E98EF0C8FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "A6F686",
+          "on": "E9660F3700909090",
+          "off": "66FF8441B4FD0000"
+        },
+        {
+          "offset": "DE0600",
+          "on": "66C7836CFC00000000E9FFFCC5FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "A40306",
+          "on": "E9F5023A009090",
+          "off": "66FF836CFC0000"
+        },
+        {
+          "offset": "DE060E",
+          "on": "C783E4FD000000000000E9C7FCC5FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "A402DE",
+          "on": "E92B033A0090",
+          "off": "FF83E4FD0000"
+        }
+      ]
+    },
+    {
+      "name": "Craft Items WO Material",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DE048D",
+          "on": "C78481B8F00000620000008B8481B8F00000E944E6B1FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8FEAE1",
+          "on": "E9A7194E009090",
+          "off": "8B8481B8F00000"
+        }
+      ]
+    },
+    {
+      "name": "Enemies Inf HP For Training",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "056C11",
+          "on": "909090909090",
+          "off": "898390070000"
+        }
+      ]
+    },
+    {
+      "name": "Result No Damage Taken",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A7AAED",
+          "on": "90909090909090",
+          "off": "410186FCFD0000"
+        }
+      ]
+    },
+    {
+      "name": "Chapter No Damages Taken",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A6F654",
+          "on": "909090909090",
+          "off": "0198ACFD0000"
+        }
+      ]
+    },
+    {
+      "name": "Result 0:00.00 Time Cleared",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A7A9BF",
+          "on": "8983F4FD0000",
+          "off": "FF83F4FD0000"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 0:00.00 Time Cleared ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A6F600",
+          "on": "909090909090",
+          "off": "FF80A4FD0000"
+        }
+      ]
+    },
+    {
+      "name": "Combos Multiplier x99",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DE04D2",
+          "on": "6BC06301834C010000E9052724FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "022BDF",
+          "on": "E9EED8DB0090",
+          "off": "01834C010000"
+        }
+      ]
+    },
+    {
+      "name": "Result Max 999,999 Combos",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DE04D2",
+          "on": "B83F420F0089834C010000E9032724FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "022BDF",
+          "on": "E9EED8DB0090",
+          "off": "01834C010000"
+        }
+      ]
+    },
+    {
+      "name": "Chapter Max 9,999,999 Combos",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DE04E2",
+          "on": "41BA7F969800448957080F8E24EFC8FFE9EEEEC8FF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A6F3DF",
+          "on": "E9FE10370090",
+          "off": "448957087E31"
+        }
+      ]
+    },
+    {
+      "name": "Megatons Gigatons Easy Max",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "0CB66F",
+          "on": "C5FA10058171F5FF9090",
+          "off": "C4A17A10843398000000"
+        },
+        {
+          "offset": "DE0586",
+          "on": "C7437400004041C5FA104374E90774C6FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "A47999",
+          "on": "E9E88B3900",
+          "off": "C5FA104374"
+        }
+      ]
+    },
+    {
+      "name": "Megatons Gigatons Extra Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "0CB318",
+          "on": "FFC2",
+          "off": "FFCA"
+        }
+      ]
+    },
+    {
+      "name": "Alfheim 0 Damage Taken",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A7AAE5",
+          "on": "B800000000",
+          "off": "B890010000"
+        }
+      ]
+    },
+    {
+      "name": "Alfheim Always Full HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "70D504",
+          "on": "909090909090",
+          "off": "FF8B24890900"
+        }
+      ]
+    },
+    {
+      "name": "Unlock Sai Fung for Completing 100 Chapters",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DE0576",
+          "on": "41C7865CEF000065000000E9F4C336FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "14C973",
+          "on": "E9FE3BC9009090",
+          "off": "41FF865CEF0000"
+        }
+      ]
+    },
+    {
+      "name": "Megatons Gigatons Easy Max",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "0CB679",
+          "on": "C5FA5805EBF8BA00",
+          "off": "C5FA5805333ABC00"
+        }
+      ]
+    },
+    {
+      "name": "Max Halos Earned Max Halos Must Be On",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "147E8B",
+          "on": "898FA8F00000",
+          "off": "01B7A8F00000"
+        }
+      ]
+    },
+    {
+      "name": "Character Scaling 0.75",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DE061D",
+          "on": "C783F00000000000403FC783F40000000000403FC783F80000000000403FE96A8D7FFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5D93A2",
+          "on": "E976728000909090",
+          "off": "C5F81183F0000000"
+        }
+      ]
+    },
+    {
+      "name": "Character Scaling 1.25",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DE061D",
+          "on": "C783F00000000000A03FC783F40000000000A03FC783F80000000000A03FE96A8D7FFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5D93A2",
+          "on": "E976728000909090",
+          "off": "C5F81183F0000000"
+        }
+      ]
+    },
+    {
+      "name": "Character Scaling 1.50",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DE061D",
+          "on": "C783F00000000000C03FC783F40000000000C03FC783F80000000000C03FE96A8D7FFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5D93A2",
+          "on": "E976728000909090",
+          "off": "C5F81183F0000000"
+        }
+      ]
+    },
+    {
+      "name": "Character Scaling 2.00",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DE061D",
+          "on": "C783F000000000000040C783F400000000000040C783F800000000000040E96A8D7FFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5D93A2",
+          "on": "E976728000909090",
+          "off": "C5F81183F0000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
 }

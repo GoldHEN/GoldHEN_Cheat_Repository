@@ -1,24 +1,33 @@
 {
-    "name": "CODE VEIN",
-    "id": "CUSA10246",
-    "version": "01.03",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Items",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "113DFA7",
-            "on": "909090",
-            "off": "418907"
-        }]
-    }, {
-        "name": "infinite Haze",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "11207B4",
-            "on": "909090909090",
-            "off": "898748050000"
-        }]
-    }],
-    "credits": ["DanteClaus"]
+  "name": "CODE VEIN",
+  "id": "CUSA10246",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "113DFA7",
+          "on": "909090",
+          "off": "418907"
+        }
+      ]
+    },
+    {
+      "name": "infinite Haze",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11207B4",
+          "on": "909090909090",
+          "off": "898748050000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DanteClaus"
+  ]
 }

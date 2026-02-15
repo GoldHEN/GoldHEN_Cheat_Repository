@@ -1,36 +1,48 @@
 {
-    "name": "Castlevania-Curse of Darkness",
-    "id": "SLUS21168",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "RETURN-Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "80806EFAE8",
-            "on": "FF",
-            "off": "FF"
-        }, {
-            "offset": "80806F2184",
-            "on": "000003E7",
-            "off": "000003E7"
-        }]
-    }, {
-        "name": "MAX-EXP",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "80806EFADC",
-            "on": "FF",
-            "off": "FF"
-        }, {
-            "offset": "80806EFADD",
-            "on": "FF",
-            "off": "FF"
-        }, {
-            "offset": "80806EFADE",
-            "on": "FF",
-            "off": "FF"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Castlevania-Curse of Darkness",
+  "id": "SLUS21168",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "RETURN-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80806EFAE8",
+          "on": "FF",
+          "off": "FF"
+        },
+        {
+          "offset": "80806F2184",
+          "on": "000003E7",
+          "off": "000003E7"
+        }
+      ]
+    },
+    {
+      "name": "MAX-EXP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80806EFADC",
+          "on": "FF",
+          "off": "FF"
+        },
+        {
+          "offset": "80806EFADD",
+          "on": "FF",
+          "off": "FF"
+        },
+        {
+          "offset": "80806EFADE",
+          "on": "FF",
+          "off": "FF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

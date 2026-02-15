@@ -1,68 +1,92 @@
 {
-    "name": "Sky Force Reloaded",
-    "id": "CUSA09421",
-    "version": "01.03",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "802E1DD2",
-            "on": "F3410F119768020000",
-            "off": "F3450F11BF68020000"
-        }]
-    }, {
-        "name": "Infinity Resources",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8038D89C",
-            "on": "B87F969800",
-            "off": "3509130500"
-        }]
-    }, {
-        "name": "Infinite Laser",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "80378FC5",
-            "on": "F30F111090",
-            "off": "F3440F1138"
-        }, {
-            "offset": "80378B0B",
-            "on": "F30F111090",
-            "off": "F3440F1138"
-        }, {
-            "offset": "8038DE7C",
-            "on": "66BE0500",
-            "off": "48633424"
-        }]
-    }, {
-        "name": "Infinite Shield",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8038DFDC",
-            "on": "66BE0500",
-            "off": "48633424"
-        }]
-    }, {
-        "name": "Infinite Mega Bome",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8038DF2C",
-            "on": "66BE0300",
-            "off": "48633424"
-        }]
-    }, {
-        "name": "Press R3 to Refill Energy Shield Timer",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "129B800",
-            "on": "4150448B05173015004180F804750D41C787880000000000E040EB09F3450F11BF880000004158E995A20C7F",
-            "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "80365AB8",
-            "on": "E9435DF38090909090",
-            "off": "F3450F11BF88000000"
-        }]
-    }],
-    "credits": ["hejran7"]
+  "name": "Sky Force Reloaded",
+  "id": "CUSA09421",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "802E1DD2",
+          "on": "F3410F119768020000",
+          "off": "F3450F11BF68020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Resources",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8038D89C",
+          "on": "B87F969800",
+          "off": "3509130500"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Laser",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80378FC5",
+          "on": "F30F111090",
+          "off": "F3440F1138"
+        },
+        {
+          "offset": "80378B0B",
+          "on": "F30F111090",
+          "off": "F3440F1138"
+        },
+        {
+          "offset": "8038DE7C",
+          "on": "66BE0500",
+          "off": "48633424"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Shield",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8038DFDC",
+          "on": "66BE0500",
+          "off": "48633424"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mega Bome",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8038DF2C",
+          "on": "66BE0300",
+          "off": "48633424"
+        }
+      ]
+    },
+    {
+      "name": "Press R3 to Refill Energy Shield Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "129B800",
+          "on": "4150448B05173015004180F804750D41C787880000000000E040EB09F3450F11BF880000004158E995A20C7F",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80365AB8",
+          "on": "E9435DF38090909090",
+          "off": "F3450F11BF88000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
 }

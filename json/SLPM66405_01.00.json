@@ -1,28 +1,38 @@
 {
-    "name": "Radirgy Precious (Japan)",
-    "id": "SLPM66405",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-Energy",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FEE8DD0",
-            "on": "0800",
-            "off": "0303"
-        }]
-    }, {
-        "name": "Infinite-credits",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FD79BC8",
-            "on": "00",
-            "off": "FF"
-        }, {
-            "offset": "807FD79BC9",
-            "on": "00",
-            "off": "FF"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Radirgy Precious (Japan)",
+  "id": "SLPM66405",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FEE8DD0",
+          "on": "0800",
+          "off": "0303"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-credits",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FD79BC8",
+          "on": "00",
+          "off": "FF"
+        },
+        {
+          "offset": "807FD79BC9",
+          "on": "00",
+          "off": "FF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

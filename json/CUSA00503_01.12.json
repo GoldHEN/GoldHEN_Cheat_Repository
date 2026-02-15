@@ -1,316 +1,434 @@
 {
-    "name": "Dragon Age",
-    "id": "CUSA00503",
-    "version": "01.12",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Disable Infinite Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3213813",
-            "on": "90909090909090",
-            "off": "C7462C003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "321381A",
-            "on": "90909090909090909090",
-            "off": "C786ACF4FFFF003C1C46"
-        }]
-    }, {
-        "name": "Disable Infinite Stamina / Mana",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3213824",
-            "on": "90909090909090909090",
-            "off": "C786AC000000003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Stamina / Mana",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "321382E",
-            "on": "90909090909090909090",
-            "off": "C786ECF5FFFF003C1C46"
-        }]
-    }, {
-        "name": "Disable Infinite Focus",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3213838",
-            "on": "90909090909090909090",
-            "off": "C7862C010000003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Focus",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3213842",
-            "on": "90909090909090909090",
-            "off": "C7862CF6FFFF003C1C46"
-        }]
-    }, {
-        "name": "Disable Max EXP",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "321384C",
-            "on": "90909090909090909090",
-            "off": "C7866CF0FFFF80354149"
-        }]
-    }, {
-        "name": "Disable Max Ability Points",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3213856",
-            "on": "90909090909090909090",
-            "off": "C786AC0100000000C842"
-        }]
-    }, {
-        "name": "Disable Max Cooldown",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3213860",
-            "on": "90909090909090909090",
-            "off": "C7866C0D000000004843"
-        }]
-    }, {
-        "name": "Disable Max STR",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "321386A",
-            "on": "90909090909090909090",
-            "off": "C786ACF2FFFF003C1C46"
-        }]
-    }, {
-        "name": "Disable Max DEX",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3213874",
-            "on": "90909090909090909090",
-            "off": "C7862CF4FFFF003C1C46"
-        }]
-    }, {
-        "name": "Disable Max MAG",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "321387E",
-            "on": "90909090909090909090",
-            "off": "C786ECF2FFFF003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Cunning",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3213888",
-            "on": "90909090909090909090",
-            "off": "C786ACF5FFFF003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Willpower",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3213892",
-            "on": "90909090909090909090",
-            "off": "C7866CF4FFFF003C1C46"
-        }]
-    }, {
-        "name": "Disable Max CON",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "321389C",
-            "on": "90909090909090909090",
-            "off": "C786ECF1FFFF003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Attack",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "32138A6",
-            "on": "90909090909090909090",
-            "off": "C7862CF7FFFF003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Guard Damage",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "32138B0",
-            "on": "90909090909090909090",
-            "off": "C7866C040000003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Penetration",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "32138BA",
-            "on": "90909090909090909090",
-            "off": "C786EC0C0000003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Barrier Damage Bonus",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "32138C4",
-            "on": "90909090909090909090",
-            "off": "C786AC040000003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Critical Damage Bonus",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "32138CE",
-            "on": "90909090909090909090",
-            "off": "C786ECFCFFFF003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Critical Chance",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "32138D8",
-            "on": "90909090909090909090",
-            "off": "C7862CFCFFFF0000FA43"
-        }]
-    }, {
-        "name": "Disable Max Main Hand Bonus",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "32138E2",
-            "on": "90909090909090909090",
-            "off": "C7866CF7FFFF003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Off Hand Bonus",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "32138EC",
-            "on": "90909090909090909090",
-            "off": "C786ACF7FFFF003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Sunder On Hit",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "32138F6",
-            "on": "90909090909090909090",
-            "off": "C786AC060000003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Stagger On Hit",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3213900",
-            "on": "90909090909090909090",
-            "off": "C786EC060000003C1C46"
-        }]
-    }, {
-        "name": "Disable Heal On Kill",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "321390A",
-            "on": "90909090909090909090",
-            "off": "C7862C0700000000C842"
-        }]
-    }, {
-        "name": "Disable Max Flanking Damage",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3213914",
-            "on": "90909090909090909090",
-            "off": "C7862C0D0000003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Magic Defense",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "321391E",
-            "on": "90909090909090909090",
-            "off": "C786EC040000003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Melee Defense",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3213928",
-            "on": "90909090909090909090",
-            "off": "C7862C050000003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Range Defense",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3213932",
-            "on": "90909090909090909090",
-            "off": "C7866C050000003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Cold Resistance",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "321393C",
-            "on": "90909090909090909090",
-            "off": "C7862CFFFFFF003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Electric Resistance",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3213946",
-            "on": "90909090909090909090",
-            "off": "C7866CFFFFFF003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Fire Resistance",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3213950",
-            "on": "90909090909090909090",
-            "off": "C786ECFEFFFF003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Spirit Resistance",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "321395A",
-            "on": "90909090909090",
-            "off": "C746EC003C1C46"
-        }]
-    }, {
-        "name": "Disable Max Guard (Auto Cast)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3213961",
-            "on": "90909090909090909090",
-            "off": "C7866C03000000007A44"
-        }]
-    }, {
-        "name": "Disable Max Barrier (Auto Cast)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "321396B",
-            "on": "90909090909090909090",
-            "off": "C786EC03000000007A44"
-        }]
-    }, {
-        "name": "Max Item",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "6D2653",
-            "on": "0F4DC1",
-            "off": "0F4EC1"
-        }]
-    }, {
-        "name": "Max Gold",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "32139E0",
-            "on": "4883FB0075284883F90075224983F800751C4983FB00751641C745287F969800418B45284883C408E94B9435FE90418B45284883C408E93D9435FE",
-            "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "156CE50",
-            "on": "E98B6BCA01909090",
-            "off": "418B45284883C408"
-        }]
-    }],
-    "credits": ["d01v"]
+  "name": "Dragon Age",
+  "id": "CUSA00503",
+  "version": "01.12",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Disable Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3213813",
+          "on": "90909090909090",
+          "off": "C7462C003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "321381A",
+          "on": "90909090909090909090",
+          "off": "C786ACF4FFFF003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Infinite Stamina / Mana",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3213824",
+          "on": "90909090909090909090",
+          "off": "C786AC000000003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Stamina / Mana",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "321382E",
+          "on": "90909090909090909090",
+          "off": "C786ECF5FFFF003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Infinite Focus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3213838",
+          "on": "90909090909090909090",
+          "off": "C7862C010000003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Focus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3213842",
+          "on": "90909090909090909090",
+          "off": "C7862CF6FFFF003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max EXP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "321384C",
+          "on": "90909090909090909090",
+          "off": "C7866CF0FFFF80354149"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Ability Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3213856",
+          "on": "90909090909090909090",
+          "off": "C786AC0100000000C842"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3213860",
+          "on": "90909090909090909090",
+          "off": "C7866C0D000000004843"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max STR",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "321386A",
+          "on": "90909090909090909090",
+          "off": "C786ACF2FFFF003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max DEX",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3213874",
+          "on": "90909090909090909090",
+          "off": "C7862CF4FFFF003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max MAG",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "321387E",
+          "on": "90909090909090909090",
+          "off": "C786ECF2FFFF003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Cunning",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3213888",
+          "on": "90909090909090909090",
+          "off": "C786ACF5FFFF003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Willpower",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3213892",
+          "on": "90909090909090909090",
+          "off": "C7866CF4FFFF003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max CON",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "321389C",
+          "on": "90909090909090909090",
+          "off": "C786ECF1FFFF003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Attack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32138A6",
+          "on": "90909090909090909090",
+          "off": "C7862CF7FFFF003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Guard Damage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32138B0",
+          "on": "90909090909090909090",
+          "off": "C7866C040000003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Penetration",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32138BA",
+          "on": "90909090909090909090",
+          "off": "C786EC0C0000003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Barrier Damage Bonus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32138C4",
+          "on": "90909090909090909090",
+          "off": "C786AC040000003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Critical Damage Bonus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32138CE",
+          "on": "90909090909090909090",
+          "off": "C786ECFCFFFF003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Critical Chance",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32138D8",
+          "on": "90909090909090909090",
+          "off": "C7862CFCFFFF0000FA43"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Main Hand Bonus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32138E2",
+          "on": "90909090909090909090",
+          "off": "C7866CF7FFFF003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Off Hand Bonus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32138EC",
+          "on": "90909090909090909090",
+          "off": "C786ACF7FFFF003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Sunder On Hit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32138F6",
+          "on": "90909090909090909090",
+          "off": "C786AC060000003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Stagger On Hit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3213900",
+          "on": "90909090909090909090",
+          "off": "C786EC060000003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Heal On Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "321390A",
+          "on": "90909090909090909090",
+          "off": "C7862C0700000000C842"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Flanking Damage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3213914",
+          "on": "90909090909090909090",
+          "off": "C7862C0D0000003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Magic Defense",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "321391E",
+          "on": "90909090909090909090",
+          "off": "C786EC040000003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Melee Defense",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3213928",
+          "on": "90909090909090909090",
+          "off": "C7862C050000003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Range Defense",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3213932",
+          "on": "90909090909090909090",
+          "off": "C7866C050000003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Cold Resistance",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "321393C",
+          "on": "90909090909090909090",
+          "off": "C7862CFFFFFF003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Electric Resistance",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3213946",
+          "on": "90909090909090909090",
+          "off": "C7866CFFFFFF003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Fire Resistance",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3213950",
+          "on": "90909090909090909090",
+          "off": "C786ECFEFFFF003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Spirit Resistance",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "321395A",
+          "on": "90909090909090",
+          "off": "C746EC003C1C46"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Guard (Auto Cast)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3213961",
+          "on": "90909090909090909090",
+          "off": "C7866C03000000007A44"
+        }
+      ]
+    },
+    {
+      "name": "Disable Max Barrier (Auto Cast)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "321396B",
+          "on": "90909090909090909090",
+          "off": "C786EC03000000007A44"
+        }
+      ]
+    },
+    {
+      "name": "Max Item",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6D2653",
+          "on": "0F4DC1",
+          "off": "0F4EC1"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32139E0",
+          "on": "4883FB0075284883F90075224983F800751C4983FB00751641C745287F969800418B45284883C408E94B9435FE90418B45284883C408E93D9435FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "156CE50",
+          "on": "E98B6BCA01909090",
+          "off": "418B45284883C408"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
 }

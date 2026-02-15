@@ -1,24 +1,33 @@
 {
-    "name": "Castle Shikigami 2",
-    "id": "SLES53518",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-Energy",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FEB9E24",
-            "on": "63",
-            "off": "03"
-        }]
-    }, {
-        "name": "Infinite-Bomb",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FEB9E3A",
-            "on": "63",
-            "off": "03"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Castle Shikigami 2",
+  "id": "SLES53518",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FEB9E24",
+          "on": "63",
+          "off": "03"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Bomb",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FEB9E3A",
+          "on": "63",
+          "off": "03"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

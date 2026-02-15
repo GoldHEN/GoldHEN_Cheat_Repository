@@ -1,24 +1,33 @@
 {
-    "name": "CT Special Forces",
-    "id": "SLPM66301",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Lives P1",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FD38FD8",
-            "on": "99",
-            "off": "02"
-        }]
-    }, {
-        "name": "Infinite bomb P1",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808004C5DD",
-            "on": "FF",
-            "off": "01"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "CT Special Forces",
+  "id": "SLPM66301",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Lives P1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FD38FD8",
+          "on": "99",
+          "off": "02"
+        }
+      ]
+    },
+    {
+      "name": "Infinite bomb P1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808004C5DD",
+          "on": "FF",
+          "off": "01"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

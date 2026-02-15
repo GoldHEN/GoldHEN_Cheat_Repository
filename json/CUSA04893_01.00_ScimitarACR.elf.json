@@ -1,16 +1,22 @@
 {
-    "name": "Assassin's Creed The Ezio Collection",
-    "id": "CUSA04893",
-    "version": "01.00",
-    "process": "ScimitarACR.elf",
-    "mods": [{
-        "name": "Infinite Money, Items",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1CA4536",
-            "on": "909090",
-            "off": "894310"
-        }]
-    }],
-    "credits": ["TLH"]
+  "name": "Assassin's Creed The Ezio Collection",
+  "id": "CUSA04893",
+  "version": "01.00",
+  "process": "ScimitarACR.elf",
+  "mods": [
+    {
+      "name": "Infinite Money, Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CA4536",
+          "on": "909090",
+          "off": "894310"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
 }

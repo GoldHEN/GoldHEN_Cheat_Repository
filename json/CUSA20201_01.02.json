@@ -1,32 +1,44 @@
 {
-    "name": "Turok -Dinosaur Hunter",
-    "id": "CUSA20201",
-    "version": "01.02",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1DEAB9",
-            "on": "9090909090",
-            "off": "E8B2180E00"
-        }]
-    }, {
-        "name": "Infinite-lives",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "236094",
-            "on": "909090909090",
-            "off": "898F88000000"
-        }]
-    }, {
-        "name": "Infinite-All-Weapon",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "2362BB",
-            "on": "9090",
-            "off": "8908"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Turok -Dinosaur Hunter",
+  "id": "CUSA20201",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DEAB9",
+          "on": "9090909090",
+          "off": "E8B2180E00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "236094",
+          "on": "909090909090",
+          "off": "898F88000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2362BB",
+          "on": "9090",
+          "off": "8908"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

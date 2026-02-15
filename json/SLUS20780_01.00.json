@@ -1,32 +1,44 @@
 {
-    "name": "R-Type Fina",
-    "id": "SLUS20780",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Invincibility",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FF0746C",
-            "on": "00000001",
-            "off": "00000001"
-        }]
-    }, {
-        "name": "Infinite-lives-99",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FEE6758",
-            "on": "63",
-            "off": "63"
-        }]
-    }, {
-        "name": "Infinite-Credits",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FEE6754",
-            "on": "63",
-            "off": "63"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "R-Type Fina",
+  "id": "SLUS20780",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincibility",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FF0746C",
+          "on": "00000001",
+          "off": "00000001"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives-99",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FEE6758",
+          "on": "63",
+          "off": "63"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Credits",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FEE6754",
+          "on": "63",
+          "off": "63"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

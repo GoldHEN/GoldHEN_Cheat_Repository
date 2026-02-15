@@ -1,16 +1,22 @@
 {
-    "name": "mortal-kombat-4",
-    "id": "SLUS00605",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "14D394",
-            "on": "AC",
-            "off": "60"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "mortal-kombat-4",
+  "id": "SLUS00605",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14D394",
+          "on": "AC",
+          "off": "60"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

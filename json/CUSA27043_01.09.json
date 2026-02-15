@@ -1,112 +1,151 @@
 {
-    "name": "Dead Island 2",
-    "id": "CUSA27043",
-    "version": "01.09",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Health/1 Hit kill (Master Code)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8BC3DB0",
-            "on": "4183BDBC00000001751341C7857801000000E02B45E9DF4640F90F57C0C4C17A118578010000E9CE4640F9",
-            "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "1FC84A0",
-            "on": "E90BB9BF0690909090",
-            "off": "C4C17A118578010000"
-        }]
-    }, {
-        "name": "1 Hit Kill (Activate After Killing The First Zombie)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8BC3DB8",
-            "on": "7510",
-            "off": "7513"
-        }]
-    }, {
-        "name": "Medkits Don't Decrease",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "6606948",
-            "on": "9090909090",
-            "off": "E863C5FFFF"
-        }]
-    }, {
-        "name": "Infinite Ammo",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "6602EF3",
-            "on": "909090",
-            "off": "895620"
-        }]
-    }, {
-        "name": "No Reload",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "24F1720",
-            "on": "909090909090",
-            "off": "898704010000"
-        }]
-    }, {
-        "name": "Infinite Weapons Durability",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8BC3900",
-            "on": "C787B80B00000000C842E940C8B0F9",
-            "off": "000000000000000000000000000000"
-        }, {
-            "offset": "26D0147",
-            "on": "E9B4374F06909090",
-            "off": "C5FA1187B80B0000"
-        }]
-    }, {
-        "name": "Max Items On Gain (x2 To Work)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8BC39B0",
-            "on": "4983FE01750E41C744DF2063000000E9D1F0A3FD41894CDF20E9C7F0A3FD",
-            "off": "000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "6602A90",
-            "on": "E91B0F5C02",
-            "off": "41894CDF20"
-        }]
-    }, {
-        "name": "Max Money On Sell (Sell N Disable)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8BC37E0",
-            "on": "4983FE1A740E41C744DF207F969800E9A1F2A3FD41894CDF20E997F2A3FD",
-            "off": "000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "6602A90",
-            "on": "E94B0D5C02",
-            "off": "41894CDF20"
-        }]
-    }, {
-        "name": "Max/Infinite Fury On Kill",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8BC1720",
-            "on": "4983F800750FC780800000000000803FE97935C2F9C5FA118080000000E96C35C2F9",
-            "off": "00000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "27E4CA6",
-            "on": "E975CA3D06909090",
-            "off": "C5FA118080000000"
-        }]
-    }, {
-        "name": "Max XP",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8BC3B90",
-            "on": "C681B0000000014983FF1475004189C5E9B09FC5F9",
-            "off": "000000000000000000000000000000000000000000"
-        }, {
-            "offset": "281DB4A",
-            "on": "E941603A06909090909090",
-            "off": "C681B00000000144896878"
-        }]
-    }],
-    "credits": ["Celogamez"]
+  "name": "Dead Island 2",
+  "id": "CUSA27043",
+  "version": "01.09",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit kill (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8BC3DB0",
+          "on": "4183BDBC00000001751341C7857801000000E02B45E9DF4640F90F57C0C4C17A118578010000E9CE4640F9",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1FC84A0",
+          "on": "E90BB9BF0690909090",
+          "off": "C4C17A118578010000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (Activate After Killing The First Zombie)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8BC3DB8",
+          "on": "7510",
+          "off": "7513"
+        }
+      ]
+    },
+    {
+      "name": "Medkits Don't Decrease",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6606948",
+          "on": "9090909090",
+          "off": "E863C5FFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6602EF3",
+          "on": "909090",
+          "off": "895620"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24F1720",
+          "on": "909090909090",
+          "off": "898704010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapons Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8BC3900",
+          "on": "C787B80B00000000C842E940C8B0F9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "26D0147",
+          "on": "E9B4374F06909090",
+          "off": "C5FA1187B80B0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Items On Gain (x2 To Work)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8BC39B0",
+          "on": "4983FE01750E41C744DF2063000000E9D1F0A3FD41894CDF20E9C7F0A3FD",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6602A90",
+          "on": "E91B0F5C02",
+          "off": "41894CDF20"
+        }
+      ]
+    },
+    {
+      "name": "Max Money On Sell (Sell N Disable)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8BC37E0",
+          "on": "4983FE1A740E41C744DF207F969800E9A1F2A3FD41894CDF20E997F2A3FD",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6602A90",
+          "on": "E94B0D5C02",
+          "off": "41894CDF20"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Fury On Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8BC1720",
+          "on": "4983F800750FC780800000000000803FE97935C2F9C5FA118080000000E96C35C2F9",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "27E4CA6",
+          "on": "E975CA3D06909090",
+          "off": "C5FA118080000000"
+        }
+      ]
+    },
+    {
+      "name": "Max XP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8BC3B90",
+          "on": "C681B0000000014983FF1475004189C5E9B09FC5F9",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "281DB4A",
+          "on": "E941603A06909090909090",
+          "off": "C681B00000000144896878"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
 }

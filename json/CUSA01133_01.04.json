@@ -1,68 +1,92 @@
 {
-    "name": "RESIDENT EVIL REVELATIONS 2",
-    "id": "CUSA01133",
-    "version": "01.04",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Bottomless Clip",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "407358",
-            "on": "90909090",
-            "off": "41894610"
-        }]
-    }, {
-        "name": "Infinite Ammo",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7D9558",
-            "on": "90909090",
-            "off": "41894D10"
-        }]
-    }, {
-        "name": "Infinite Money (Raid)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "153F800",
-            "on": "49C7C49F8601004C89A3C8C40000E9B63732FF",
-            "off": "00000000000000000000000000000000000000"
-        }, {
-            "offset": "862FC2",
-            "on": "E939C8CD009090",
-            "off": "4C89A3C8C40000"
-        }]
-    }, {
-        "name": "Infinite BP",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "153F813",
-            "on": "B83F420F008987B0180000E930B327FF",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "7BAB4D",
-            "on": "E9C14CD80090",
-            "off": "8987B0180000"
-        }]
-    }, {
-        "name": "Infinite Items",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "153F823",
-            "on": "C64310638B5310E9D34E1CFF",
-            "off": "000000000000000000000000"
-        }, {
-            "offset": "7046FD",
-            "on": "E921B1E300",
-            "off": "75038B5310"
-        }]
-    }, {
-        "name": "Infinite Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "410210",
-            "on": "909090",
-            "off": "4429F0"
-        }]
-    }],
-    "credits": ["TLH"]
+  "name": "RESIDENT EVIL REVELATIONS 2",
+  "id": "CUSA01133",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Bottomless Clip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "407358",
+          "on": "90909090",
+          "off": "41894610"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7D9558",
+          "on": "90909090",
+          "off": "41894D10"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money (Raid)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "153F800",
+          "on": "49C7C49F8601004C89A3C8C40000E9B63732FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "862FC2",
+          "on": "E939C8CD009090",
+          "off": "4C89A3C8C40000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite BP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "153F813",
+          "on": "B83F420F008987B0180000E930B327FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "7BAB4D",
+          "on": "E9C14CD80090",
+          "off": "8987B0180000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "153F823",
+          "on": "C64310638B5310E9D34E1CFF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "7046FD",
+          "on": "E921B1E300",
+          "off": "75038B5310"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "410210",
+          "on": "909090",
+          "off": "4429F0"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
 }

@@ -1,24 +1,33 @@
 {
-    "name": "Spyro the Dragon",
-    "id": "SCUS94228",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Lives",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "117B0E",
-            "on": "00",
-            "off": "42"
-        }]
-    }, {
-        "name": "Infinite Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "12C2B2",
-            "on": "00",
-            "off": "62"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Spyro the Dragon",
+  "id": "SCUS94228",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "117B0E",
+          "on": "00",
+          "off": "42"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12C2B2",
+          "on": "00",
+          "off": "62"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

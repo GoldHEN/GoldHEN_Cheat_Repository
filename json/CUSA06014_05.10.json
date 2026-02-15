@@ -1,52 +1,71 @@
 {
-    "name": "Tekken 7",
-    "id": "CUSA06014",
-    "version": "05.10",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Player 1: Max Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "5447800",
-            "on": "01",
-            "off": "00"
-        }]
-    }, {
-        "name": "Player 1: Min Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "5447800",
-            "on": "02",
-            "off": "00"
-        }]
-    }, {
-        "name": "Player 2: Max Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "5447801",
-            "on": "01",
-            "off": "00"
-        }]
-    }, {
-        "name": "Player 2: Min Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "5447801",
-            "on": "02",
-            "off": "00"
-        }]
-    }, {
-        "name": "Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "5447800",
-            "on": "00004183BFA0140000007414803DEEFFFFFF01742B803DE5FFFFFF027416EB27803DD9FFFFFF017417803DD0FFFFFF027402EB1383F800760EB801000000EB07418B87A8140000418987A4140000E9F7ED04FC",
-            "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "1496643",
-            "on": "E9BA11FB039090",
-            "off": "418987A4140000"
-        }]
-    }],
-    "credits": ["TLH"]
+  "name": "Tekken 7",
+  "id": "CUSA06014",
+  "version": "05.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Player 1: Max Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5447800",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Player 1: Min Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5447800",
+          "on": "02",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Player 2: Max Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5447801",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Player 2: Min Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5447801",
+          "on": "02",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5447800",
+          "on": "00004183BFA0140000007414803DEEFFFFFF01742B803DE5FFFFFF027416EB27803DD9FFFFFF017417803DD0FFFFFF027402EB1383F800760EB801000000EB07418B87A8140000418987A4140000E9F7ED04FC",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1496643",
+          "on": "E9BA11FB039090",
+          "off": "418987A4140000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
 }

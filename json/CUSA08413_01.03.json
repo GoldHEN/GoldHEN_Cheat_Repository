@@ -1,40 +1,54 @@
 {
-    "name": "Guns Gore and Cannoli-2",
-    "id": "CUSA08413",
-    "version": "01.03",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Invincible",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "803E1278",
-            "on": "909090909090",
-            "off": "FF90B0010000"
-        }, {
-            "offset": "803E5D68",
-            "on": "909090909090",
-            "off": "FF90B0010000"
-        }]
-    }, {
-        "name": "Infinite-All-Weapon",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "803E99C2",
-            "on": "90909090",
-            "off": "4189471C"
-        }, {
-            "offset": "803E9E7B",
-            "on": "9090909090",
-            "off": "E884E01500"
-        }]
-    }, {
-        "name": "All-Weapon-Rapid-Fire",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "803DDDCB",
-            "on": "909090",
-            "off": "894828"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Guns Gore and Cannoli-2",
+  "id": "CUSA08413",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "803E1278",
+          "on": "909090909090",
+          "off": "FF90B0010000"
+        },
+        {
+          "offset": "803E5D68",
+          "on": "909090909090",
+          "off": "FF90B0010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "803E99C2",
+          "on": "90909090",
+          "off": "4189471C"
+        },
+        {
+          "offset": "803E9E7B",
+          "on": "9090909090",
+          "off": "E884E01500"
+        }
+      ]
+    },
+    {
+      "name": "All-Weapon-Rapid-Fire",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "803DDDCB",
+          "on": "909090",
+          "off": "894828"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

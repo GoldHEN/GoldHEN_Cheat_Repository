@@ -1,20 +1,27 @@
 {
-    "name": "Espgaluda",
-    "id": "SLPS25352",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-Hearts",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "80803F8C74",
-            "on": "00",
-            "off": "FF"
-        }, {
-            "offset": "80803F8C75",
-            "on": "00",
-            "off": "FF"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Espgaluda",
+  "id": "SLPS25352",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Hearts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80803F8C74",
+          "on": "00",
+          "off": "FF"
+        },
+        {
+          "offset": "80803F8C75",
+          "on": "00",
+          "off": "FF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

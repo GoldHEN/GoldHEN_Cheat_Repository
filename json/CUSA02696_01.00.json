@@ -1,40 +1,54 @@
 {
-    "name": "This War of Mine: The Little Ones",
-    "id": "CUSA02696",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Inf Items Backpack",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "787800",
-            "on": "51428B4C3B2042894C3B2059E9C4858DFF",
-            "off": "0000000000000000000000000000000000"
-        }, {
-            "offset": "5FDD0",
-            "on": "E92B7A7200",
-            "off": "4289443B20"
-        }]
-    }, {
-        "name": "Inf Ammo and Items Consumables",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "787811",
-            "on": "51418B4F0841894F0859E96D25CAFF",
-            "off": "000000000000000000000000000000"
-        }, {
-            "offset": "429D88",
-            "on": "E984DA3500",
-            "off": "29C8418907"
-        }]
-    }, {
-        "name": "Day never increased (Use after Day1)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "110096",
-            "on": "9090",
-            "off": "FFC2"
-        }]
-    }],
-    "credits": ["Vampirex Hejran"]
+  "name": "This War of Mine: The Little Ones",
+  "id": "CUSA02696",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Items Backpack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "787800",
+          "on": "51428B4C3B2042894C3B2059E9C4858DFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "5FDD0",
+          "on": "E92B7A7200",
+          "off": "4289443B20"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo and Items Consumables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "787811",
+          "on": "51418B4F0841894F0859E96D25CAFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "429D88",
+          "on": "E984DA3500",
+          "off": "29C8418907"
+        }
+      ]
+    },
+    {
+      "name": "Day never increased (Use after Day1)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "110096",
+          "on": "9090",
+          "off": "FFC2"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Vampirex Hejran"
+  ]
 }

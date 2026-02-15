@@ -1,44 +1,60 @@
 {
-    "name": "CT Special Forces 3 - Bioterror",
-    "id": "SLES04155",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "12993D",
-            "on": "63",
-            "off": "10"
-        }]
-    }, {
-        "name": "Infinite-lives",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1208DE",
-            "on": "00",
-            "off": "82"
-        }]
-    }, {
-        "name": "Infinite-Grenades",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "12FC6A",
-            "on": "00",
-            "off": "42"
-        }]
-    }, {
-        "name": "Infinite-AMMO",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "12D938",
-            "on": "00",
-            "off": "FF"
-        }, {
-            "offset": "12D939",
-            "on": "00",
-            "off": "FF"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "CT Special Forces 3 - Bioterror",
+  "id": "SLES04155",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12993D",
+          "on": "63",
+          "off": "10"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1208DE",
+          "on": "00",
+          "off": "82"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12FC6A",
+          "on": "00",
+          "off": "42"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-AMMO",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12D938",
+          "on": "00",
+          "off": "FF"
+        },
+        {
+          "offset": "12D939",
+          "on": "00",
+          "off": "FF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

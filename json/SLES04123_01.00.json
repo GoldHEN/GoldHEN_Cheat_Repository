@@ -1,52 +1,70 @@
 {
-    "name": "CT Special Forces - Back to Hell",
-    "id": "SLES04123",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "134BCD",
-            "on": "63",
-            "off": "10"
-        }, {
-            "offset": "1239C9",
-            "on": "63",
-            "off": "10"
-        }, {
-            "offset": "12E409",
-            "on": "63",
-            "off": "10"
-        }]
-    }, {
-        "name": "Infinite-Weapon",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "129FA4",
-            "on": "00",
-            "off": "FF"
-        }, {
-            "offset": "129FA5",
-            "on": "00",
-            "off": "FF"
-        }]
-    }, {
-        "name": "Infinite-lives",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1335EE",
-            "on": "00",
-            "off": "FF"
-        }]
-    }, {
-        "name": "Infinite Grenades",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "12CA52",
-            "on": "00",
-            "off": "42"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "CT Special Forces - Back to Hell",
+  "id": "SLES04123",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "134BCD",
+          "on": "63",
+          "off": "10"
+        },
+        {
+          "offset": "1239C9",
+          "on": "63",
+          "off": "10"
+        },
+        {
+          "offset": "12E409",
+          "on": "63",
+          "off": "10"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "129FA4",
+          "on": "00",
+          "off": "FF"
+        },
+        {
+          "offset": "129FA5",
+          "on": "00",
+          "off": "FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1335EE",
+          "on": "00",
+          "off": "FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12CA52",
+          "on": "00",
+          "off": "42"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

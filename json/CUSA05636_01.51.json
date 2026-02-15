@@ -1,24 +1,33 @@
 {
-    "name": "ACE COMBAT™ 7: SKIES UNKNOWN",
-    "id": "CUSA05636",
-    "version": "01.51",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Missile and Special Weapons",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "16ED3F9",
-            "on": "9090",
-            "off": "8910"
-        }]
-    }, {
-        "name": "Dont lose MRP on spend",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "126C347",
-            "on": "90909090",
-            "off": "483904D1"
-        }]
-    }],
-    "credits": ["DementedAI"]
+  "name": "ACE COMBAT™ 7: SKIES UNKNOWN",
+  "id": "CUSA05636",
+  "version": "01.51",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Missile and Special Weapons",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16ED3F9",
+          "on": "9090",
+          "off": "8910"
+        }
+      ]
+    },
+    {
+      "name": "Dont lose MRP on spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "126C347",
+          "on": "90909090",
+          "off": "483904D1"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DementedAI"
+  ]
 }

@@ -1,52 +1,71 @@
 {
-    "name": "Call of Duty®: Modern Warfare® Remastered",
-    "id": "CUSA03522",
-    "version": "01.02",
-    "process": "default.elf",
-    "mods": [{
-        "name": "Infinite Health/1 Hit Kill (Master Code/Must Be On)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5BF90",
-            "on": "4881FF805FE406750DEB0B41C78784010000E7030000418B8784010000E9A770788031C041898784010000E999707880",
-            "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "3E3052",
-            "on": "E9398F877F9090",
-            "off": "418B8784010000"
-        }]
-    }, {
-        "name": "Infinite Health (Enable MC)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "5BF99",
-            "on": "EB00",
-            "off": "EB0B"
-        }]
-    }, {
-        "name": "1 Hit Kill (Enable MC)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "5BF97",
-            "on": "7519",
-            "off": "750D"
-        }]
-    }, {
-        "name": "Infinite Ammo",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "690BA9",
-            "on": "89DB9090",
-            "off": "44297008"
-        }]
-    }, {
-        "name": "NoReload/InfGrenades",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "690924",
-            "on": "9090909090",
-            "off": "4429748808"
-        }]
-    }],
-    "credits": ["x3shakir"]
+  "name": "Call of Duty®: Modern Warfare® Remastered",
+  "id": "CUSA03522",
+  "version": "01.02",
+  "process": "default.elf",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit Kill (Master Code/Must Be On)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5BF90",
+          "on": "4881FF805FE406750DEB0B41C78784010000E7030000418B8784010000E9A770788031C041898784010000E999707880",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3E3052",
+          "on": "E9398F877F9090",
+          "off": "418B8784010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (Enable MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5BF99",
+          "on": "EB00",
+          "off": "EB0B"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (Enable MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5BF97",
+          "on": "7519",
+          "off": "750D"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "690BA9",
+          "on": "89DB9090",
+          "off": "44297008"
+        }
+      ]
+    },
+    {
+      "name": "NoReload/InfGrenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "690924",
+          "on": "9090909090",
+          "off": "4429748808"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "x3shakir"
+  ]
 }

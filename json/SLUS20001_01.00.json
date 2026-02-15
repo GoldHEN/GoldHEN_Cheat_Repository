@@ -1,40 +1,53 @@
 {
-    "name": "Tekken Tag Tournamen",
-    "id": "SLUS20001",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-Health-P1",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080479A34",
-            "on": "619315",
-            "off": "619315"
-        }, {
-            "offset": "8080479A38",
-            "on": "619315",
-            "off": "619315"
-        }]
-    }, {
-        "name": "Unlock-Characters",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8080039C70",
-            "on": "FFFFFFFF",
-            "off": "FFFFFFFF"
-        }, {
-            "offset": "8080039C74",
-            "on": "FFFFFFFF",
-            "off": "FFFFFFFF"
-        }, {
-            "offset": "8080039C78",
-            "on": "FFFFFFFF",
-            "off": "FFFFFFFF"
-        }, {
-            "offset": "8080039C82",
-            "on": "00000103",
-            "off": "00000103"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Tekken Tag Tournamen",
+  "id": "SLUS20001",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health-P1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080479A34",
+          "on": "619315",
+          "off": "619315"
+        },
+        {
+          "offset": "8080479A38",
+          "on": "619315",
+          "off": "619315"
+        }
+      ]
+    },
+    {
+      "name": "Unlock-Characters",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080039C70",
+          "on": "FFFFFFFF",
+          "off": "FFFFFFFF"
+        },
+        {
+          "offset": "8080039C74",
+          "on": "FFFFFFFF",
+          "off": "FFFFFFFF"
+        },
+        {
+          "offset": "8080039C78",
+          "on": "FFFFFFFF",
+          "off": "FFFFFFFF"
+        },
+        {
+          "offset": "8080039C82",
+          "on": "00000103",
+          "off": "00000103"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

@@ -1,48 +1,66 @@
 {
-    "name": "C-The Contra Adventure (USA)",
-    "id": "SLUS00499",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Lives-All Levels",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1D67B8",
-            "on": "63",
-            "off": "05"
-        }]
-    }, {
-        "name": "Infinite Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1E9DE9",
-            "on": "FF",
-            "off": "10"
-        }]
-    }, {
-        "name": "Inf-Bombs-Need-1",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1F42AE",
-            "on": "00",
-            "off": "42"
-        }]
-    }, {
-        "name": "Infinite-Health-2-3D",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "120139",
-            "on": "FF",
-            "off": "10"
-        }]
-    }, {
-        "name": "Inf-Bombs-Need-1-3D",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "12BE4A",
-            "on": "00",
-            "off": "62"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "C-The Contra Adventure (USA)",
+  "id": "SLUS00499",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Lives-All Levels",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D67B8",
+          "on": "63",
+          "off": "05"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E9DE9",
+          "on": "FF",
+          "off": "10"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Bombs-Need-1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F42AE",
+          "on": "00",
+          "off": "42"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health-2-3D",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "120139",
+          "on": "FF",
+          "off": "10"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Bombs-Need-1-3D",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12BE4A",
+          "on": "00",
+          "off": "62"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

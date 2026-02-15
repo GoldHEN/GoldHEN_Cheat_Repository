@@ -1,76 +1,101 @@
 {
-    "name": "God of War Ragnarok (+Valhalla DLC compatibility)",
-    "id": "CUSA34384",
-    "version": "05.03",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "TRAINER INFO (read only)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1786840",
-            "on": "00",
-            "off": "00"
-        }]
-    }, {
-        "name": "God Mode (Untouchable+No Effects) [DO NOT USE IN VALHALLA]",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1786850",
-            "on": "48891DBA1644004C036308C5F057C9E941E30DFF",
-            "off": "0000000000000000000000000000000000000000"
-        }, {
-            "offset": "864B9D",
-            "on": "E9AE1CF200909090",
-            "off": "4C036308C5F057C9"
-        }, {
-            "offset": "1786870",
-            "on": "08C1884D814C3B35951644000F8495E0F6FEE98BE0F6FE",
-            "off": "0000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "6F490D",
-            "on": "E95E1F0901",
-            "off": "08C1884D81"
-        }, {
-            "offset": "1786890",
-            "on": "C5F8118424900100005048A1117FFC0100000000483B8518FFFFFF580F8420E533FFE916E533FF",
-            "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "AC4DC4",
-            "on": "E9C71ACC0090909090",
-            "off": "C5F811842490010000"
-        }]
-    }, {
-        "name": "No Damage Taken",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1786950",
-            "on": "B001C3",
-            "off": "000000"
-        }, {
-            "offset": "84F286",
-            "on": "E9C576F300",
-            "off": "C390909090"
-        }]
-    }, {
-        "name": "No XP,HS, Resources subtracted when used",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1786960",
-            "on": "83FA007F0231D2F0015708E9C50D52FF",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "CA772F",
-            "on": "E92CF2AD0090",
-            "off": "F0015708EB09"
-        }]
-    }, {
-        "name": "No Crafting And Upgrade Limits",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "C3EB86",
-            "on": "9090",
-            "off": "7C9D"
-        }]
-    }],
-    "credits": ["Pharaoh2k"]
+  "name": "God of War Ragnarok (+Valhalla DLC compatibility)",
+  "id": "CUSA34384",
+  "version": "05.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "TRAINER INFO (read only)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1786840",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "God Mode (Untouchable+No Effects) [DO NOT USE IN VALHALLA]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1786850",
+          "on": "48891DBA1644004C036308C5F057C9E941E30DFF",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "864B9D",
+          "on": "E9AE1CF200909090",
+          "off": "4C036308C5F057C9"
+        },
+        {
+          "offset": "1786870",
+          "on": "08C1884D814C3B35951644000F8495E0F6FEE98BE0F6FE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6F490D",
+          "on": "E95E1F0901",
+          "off": "08C1884D81"
+        },
+        {
+          "offset": "1786890",
+          "on": "C5F8118424900100005048A1117FFC0100000000483B8518FFFFFF580F8420E533FFE916E533FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "AC4DC4",
+          "on": "E9C71ACC0090909090",
+          "off": "C5F811842490010000"
+        }
+      ]
+    },
+    {
+      "name": "No Damage Taken",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1786950",
+          "on": "B001C3",
+          "off": "000000"
+        },
+        {
+          "offset": "84F286",
+          "on": "E9C576F300",
+          "off": "C390909090"
+        }
+      ]
+    },
+    {
+      "name": "No XP,HS, Resources subtracted when used",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1786960",
+          "on": "83FA007F0231D2F0015708E9C50D52FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "CA772F",
+          "on": "E92CF2AD0090",
+          "off": "F0015708EB09"
+        }
+      ]
+    },
+    {
+      "name": "No Crafting And Upgrade Limits",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C3EB86",
+          "on": "9090",
+          "off": "7C9D"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Pharaoh2k"
+  ]
 }

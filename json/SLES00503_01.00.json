@@ -1,80 +1,106 @@
 {
-    "name": "Mega Man X3",
-    "id": "SLES00503",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Invincible",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1227F5",
-            "on": "99",
-            "off": "00"
-        }]
-    }, {
-        "name": "Infinite health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "126351",
-            "on": "99",
-            "off": "10"
-        }]
-    }, {
-        "name": "Infinite-lives",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "10A9B6",
-            "on": "00",
-            "off": "63"
-        }]
-    }, {
-        "name": "Infinite-All-Weapon",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "119394",
-            "on": "99",
-            "off": "23"
-        }]
-    }, {
-        "name": "Unlock All-Weapon",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1C39FB",
-            "on": "63",
-            "off": "00"
-        }, {
-            "offset": "1C39EB",
-            "on": "5C",
-            "off": "00"
-        }, {
-            "offset": "1C39EF",
-            "on": "5C",
-            "off": "00"
-        }, {
-            "offset": "1C39EC",
-            "on": "5C",
-            "off": "00"
-        }, {
-            "offset": "1C39F7",
-            "on": "63",
-            "off": "00"
-        }, {
-            "offset": "1C39F1",
-            "on": "63",
-            "off": "00"
-        }, {
-            "offset": "1C39F3",
-            "on": "63",
-            "off": "00"
-        }, {
-            "offset": "1C39F5",
-            "on": "63",
-            "off": "00"
-        }, {
-            "offset": "1C39F9",
-            "on": "63",
-            "off": "00"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Mega Man X3",
+  "id": "SLES00503",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1227F5",
+          "on": "99",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "126351",
+          "on": "99",
+          "off": "10"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10A9B6",
+          "on": "00",
+          "off": "63"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "119394",
+          "on": "99",
+          "off": "23"
+        }
+      ]
+    },
+    {
+      "name": "Unlock All-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C39FB",
+          "on": "63",
+          "off": "00"
+        },
+        {
+          "offset": "1C39EB",
+          "on": "5C",
+          "off": "00"
+        },
+        {
+          "offset": "1C39EF",
+          "on": "5C",
+          "off": "00"
+        },
+        {
+          "offset": "1C39EC",
+          "on": "5C",
+          "off": "00"
+        },
+        {
+          "offset": "1C39F7",
+          "on": "63",
+          "off": "00"
+        },
+        {
+          "offset": "1C39F1",
+          "on": "63",
+          "off": "00"
+        },
+        {
+          "offset": "1C39F3",
+          "on": "63",
+          "off": "00"
+        },
+        {
+          "offset": "1C39F5",
+          "on": "63",
+          "off": "00"
+        },
+        {
+          "offset": "1C39F9",
+          "on": "63",
+          "off": "00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

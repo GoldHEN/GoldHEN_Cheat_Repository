@@ -1,280 +1,376 @@
 {
-    "name": "Persona 3 Reload",
-    "id": "CUSA37521",
-    "version": "01.02",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinte Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "65527C1",
-            "on": "0F4FD84939FE7509895F0CE9546B88FA904189460CE94A6B88FA",
-            "off": "0000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "DD931E",
-            "on": "E99E9477059090",
-            "off": "0F4FD841895E0C"
-        }]
-    }, {
-        "name": "Infinite SP",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "65527F1",
-            "on": "0F4FD84839F8740A41895E10E9536B88FA9041894610E9496B88FA90",
-            "off": "00000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "DD934E",
-            "on": "E99E9477059090",
-            "off": "0F4FD841895E10"
-        }]
-    }, {
-        "name": "all consumable misc event items",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "6552821",
-            "on": "C68408000E00005A8A8408000E0000E95F7086FA",
-            "off": "0000000000000000000000000000000000000000"
-        }, {
-            "offset": "DB988D",
-            "on": "E98F8F79059090",
-            "off": "8A8408000E0000"
-        }]
-    }, {
-        "name": "all skill items",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "6552851",
-            "on": "C6840800170000328A840800170000E9EF7086FA",
-            "off": "0000000000000000000000000000000000000000"
-        }, {
-            "offset": "DB994D",
-            "on": "E9FF8E79059090",
-            "off": "8A840800170000"
-        }]
-    }, {
-        "name": "all weapons",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "6552881",
-            "on": "0FB7CBC604080A8A0408E9106F86FA90",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "DB979A",
-            "on": "E9E290790590",
-            "off": "0FB7CB8A0408"
-        }]
-    }, {
-        "name": "all armors",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "65528B1",
-            "on": "C68408000400000A8A840800040000E90F6F86FA",
-            "off": "0000000000000000000000000000000000000000"
-        }, {
-            "offset": "DB97CD",
-            "on": "E9DF9079059090",
-            "off": "8A840800040000"
-        }]
-    }, {
-        "name": "all footwear",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "65528E1",
-            "on": "C68408000800000A8A840800080000E91F6F86FA",
-            "off": "0000000000000000000000000000000000000000"
-        }, {
-            "offset": "DB980D",
-            "on": "E9CF9079059090",
-            "off": "8A840800080000"
-        }]
-    }, {
-        "name": "all outfit",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "6552911",
-            "on": "C68408001B0000018A8408001B0000E96F7086FA",
-            "off": "0000000000000000000000000000000000000000"
-        }, {
-            "offset": "DB998D",
-            "on": "E97F8F79059090",
-            "off": "8A8408001B0000"
-        }]
-    }, {
-        "name": "all accessories",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "6552941",
-            "on": "C68408000C00000A8A8408000C0000E9FF6E86FA",
-            "off": "0000000000000000000000000000000000000000"
-        }, {
-            "offset": "DB984D",
-            "on": "E9EF9079059090",
-            "off": "8A8408000C0000"
-        }]
-    }, {
-        "name": "yen",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "6552971",
-            "on": "C780F83C00007F9698008B88F83C0000E935D49BFA90",
-            "off": "00000000000000000000000000000000000000000000"
-        }, {
-            "offset": "F0FDB5",
-            "on": "E9B72B640590",
-            "off": "8B88F83C0000"
-        }]
-    }, {
-        "name": "date (master code)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "65529A1",
-            "on": "4489B880A30000EB1B9049FFCF4489B880A30000EB0E9049FFC74489B880A30000EB0190E977EE61FA90",
-            "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "B7183A",
-            "on": "E962119E059090",
-            "off": "4489B880A30000"
-        }]
-    }, {
-        "name": "decrease 1 day (MC / date)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "65529A8",
-            "on": "EB01",
-            "off": "EB1B"
-        }]
-    }, {
-        "name": "increase 1 day (MC / date)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "65529A8",
-            "on": "EB0E",
-            "off": "EB1B"
-        }]
-    }, {
-        "name": "daytime (master code)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "65529F1",
-            "on": "4488B07CA30000EB289041B6024488B07CA30000EB1B9041B6064488B07CA30000EB0E9041B6074488B07CA30000EB0190E9361B62FA",
-            "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "B74556",
-            "on": "E996E49D059090",
-            "off": "4488B07CA30000"
-        }]
-    }, {
-        "name": "early morning (MC / daytime)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "65529F8",
-            "on": "EB01",
-            "off": "EB28"
-        }]
-    }, {
-        "name": "after school (MC / daytime)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "65529F8",
-            "on": "EB0E",
-            "off": "EB28"
-        }]
-    }, {
-        "name": "evening (MC / daytime)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "65529F8",
-            "on": "EB1B",
-            "off": "EB28"
-        }]
-    }, {
-        "name": "max exp player only",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "6552A51",
-            "on": "C786840400007F9698008B8684040000E99A7887FA90",
-            "off": "00000000000000000000000000000000000000000000"
-        }, {
-            "offset": "DCA2FA",
-            "on": "E95287780590",
-            "off": "8B8684040000"
-        }]
-    }, {
-        "name": "max exp persona and party",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "6552A81",
-            "on": "4889E5C747087F9698008B4708E9C4EB86FA",
-            "off": "000000000000000000000000000000000000"
-        }, {
-            "offset": "DC1651",
-            "on": "E92B14790590",
-            "off": "4889E58B4708"
-        }]
-    }, {
-        "name": "persona id (master code)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "6552AB1",
-            "on": "C5FC11404CEB0F9066FF404EEB089066FF484EEB0190E9F72987FA90",
-            "off": "00000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "DC54BE",
-            "on": "E9EED57805",
-            "off": "C5FC11404C"
-        }]
-    }, {
-        "name": "increase persona id (MC / id)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "6552AB6",
-            "on": "EB01",
-            "off": "EB0F"
-        }]
-    }, {
-        "name": "decrease persona id (MC / id)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "6552AB6",
-            "on": "EB08",
-            "off": "EB0F"
-        }]
-    }, {
-        "name": "max social stats",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "6552AF1",
-            "on": "31FFC744C204E60000008B74C204E90A526BFA90",
-            "off": "0000000000000000000000000000000000000000"
-        }, {
-            "offset": "C07D08",
-            "on": "E9E4AD940590",
-            "off": "31FF8B74C204"
-        }]
-    }, {
-        "name": "max social links",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "6552B1F",
-            "on": "488B4708C7000A0000000FB700E98A006BFA",
-            "off": "000000000000000000000000000000000000"
-        }, {
-            "offset": "C02BB4",
-            "on": "E966FF94059090",
-            "off": "488B47080FB700"
-        }]
-    }, {
-        "name": "99999999 Yen (On buying)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "65539D0",
-            "on": "C783F83C0000FFE0F505E9148389FA",
-            "off": "000000000000000000000000000000"
-        }, {
-            "offset": "DEBCED",
-            "on": "E9DE7C760590",
-            "off": "8983F83C0000"
-        }]
-    }],
-    "credits": ["d01v & Wander FW9.00"]
+  "name": "Persona 3 Reload",
+  "id": "CUSA37521",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinte Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "65527C1",
+          "on": "0F4FD84939FE7509895F0CE9546B88FA904189460CE94A6B88FA",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DD931E",
+          "on": "E99E9477059090",
+          "off": "0F4FD841895E0C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite SP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "65527F1",
+          "on": "0F4FD84839F8740A41895E10E9536B88FA9041894610E9496B88FA90",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DD934E",
+          "on": "E99E9477059090",
+          "off": "0F4FD841895E10"
+        }
+      ]
+    },
+    {
+      "name": "all consumable misc event items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6552821",
+          "on": "C68408000E00005A8A8408000E0000E95F7086FA",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DB988D",
+          "on": "E98F8F79059090",
+          "off": "8A8408000E0000"
+        }
+      ]
+    },
+    {
+      "name": "all skill items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6552851",
+          "on": "C6840800170000328A840800170000E9EF7086FA",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DB994D",
+          "on": "E9FF8E79059090",
+          "off": "8A840800170000"
+        }
+      ]
+    },
+    {
+      "name": "all weapons",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6552881",
+          "on": "0FB7CBC604080A8A0408E9106F86FA90",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "DB979A",
+          "on": "E9E290790590",
+          "off": "0FB7CB8A0408"
+        }
+      ]
+    },
+    {
+      "name": "all armors",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "65528B1",
+          "on": "C68408000400000A8A840800040000E90F6F86FA",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DB97CD",
+          "on": "E9DF9079059090",
+          "off": "8A840800040000"
+        }
+      ]
+    },
+    {
+      "name": "all footwear",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "65528E1",
+          "on": "C68408000800000A8A840800080000E91F6F86FA",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DB980D",
+          "on": "E9CF9079059090",
+          "off": "8A840800080000"
+        }
+      ]
+    },
+    {
+      "name": "all outfit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6552911",
+          "on": "C68408001B0000018A8408001B0000E96F7086FA",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DB998D",
+          "on": "E97F8F79059090",
+          "off": "8A8408001B0000"
+        }
+      ]
+    },
+    {
+      "name": "all accessories",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6552941",
+          "on": "C68408000C00000A8A8408000C0000E9FF6E86FA",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DB984D",
+          "on": "E9EF9079059090",
+          "off": "8A8408000C0000"
+        }
+      ]
+    },
+    {
+      "name": "yen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6552971",
+          "on": "C780F83C00007F9698008B88F83C0000E935D49BFA90",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F0FDB5",
+          "on": "E9B72B640590",
+          "off": "8B88F83C0000"
+        }
+      ]
+    },
+    {
+      "name": "date (master code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "65529A1",
+          "on": "4489B880A30000EB1B9049FFCF4489B880A30000EB0E9049FFC74489B880A30000EB0190E977EE61FA90",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B7183A",
+          "on": "E962119E059090",
+          "off": "4489B880A30000"
+        }
+      ]
+    },
+    {
+      "name": "decrease 1 day (MC / date)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "65529A8",
+          "on": "EB01",
+          "off": "EB1B"
+        }
+      ]
+    },
+    {
+      "name": "increase 1 day (MC / date)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "65529A8",
+          "on": "EB0E",
+          "off": "EB1B"
+        }
+      ]
+    },
+    {
+      "name": "daytime (master code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "65529F1",
+          "on": "4488B07CA30000EB289041B6024488B07CA30000EB1B9041B6064488B07CA30000EB0E9041B6074488B07CA30000EB0190E9361B62FA",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B74556",
+          "on": "E996E49D059090",
+          "off": "4488B07CA30000"
+        }
+      ]
+    },
+    {
+      "name": "early morning (MC / daytime)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "65529F8",
+          "on": "EB01",
+          "off": "EB28"
+        }
+      ]
+    },
+    {
+      "name": "after school (MC / daytime)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "65529F8",
+          "on": "EB0E",
+          "off": "EB28"
+        }
+      ]
+    },
+    {
+      "name": "evening (MC / daytime)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "65529F8",
+          "on": "EB1B",
+          "off": "EB28"
+        }
+      ]
+    },
+    {
+      "name": "max exp player only",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6552A51",
+          "on": "C786840400007F9698008B8684040000E99A7887FA90",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DCA2FA",
+          "on": "E95287780590",
+          "off": "8B8684040000"
+        }
+      ]
+    },
+    {
+      "name": "max exp persona and party",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6552A81",
+          "on": "4889E5C747087F9698008B4708E9C4EB86FA",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DC1651",
+          "on": "E92B14790590",
+          "off": "4889E58B4708"
+        }
+      ]
+    },
+    {
+      "name": "persona id (master code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6552AB1",
+          "on": "C5FC11404CEB0F9066FF404EEB089066FF484EEB0190E9F72987FA90",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DC54BE",
+          "on": "E9EED57805",
+          "off": "C5FC11404C"
+        }
+      ]
+    },
+    {
+      "name": "increase persona id (MC / id)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6552AB6",
+          "on": "EB01",
+          "off": "EB0F"
+        }
+      ]
+    },
+    {
+      "name": "decrease persona id (MC / id)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6552AB6",
+          "on": "EB08",
+          "off": "EB0F"
+        }
+      ]
+    },
+    {
+      "name": "max social stats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6552AF1",
+          "on": "31FFC744C204E60000008B74C204E90A526BFA90",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C07D08",
+          "on": "E9E4AD940590",
+          "off": "31FF8B74C204"
+        }
+      ]
+    },
+    {
+      "name": "max social links",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6552B1F",
+          "on": "488B4708C7000A0000000FB700E98A006BFA",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C02BB4",
+          "on": "E966FF94059090",
+          "off": "488B47080FB700"
+        }
+      ]
+    },
+    {
+      "name": "99999999 Yen (On buying)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "65539D0",
+          "on": "C783F83C0000FFE0F505E9148389FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "DEBCED",
+          "on": "E9DE7C760590",
+          "off": "8983F83C0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v & Wander FW9.00"
+  ]
 }

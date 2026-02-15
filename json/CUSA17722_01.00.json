@@ -1,236 +1,315 @@
 {
-    "name": "Marvels Spider-Man: Miles Morales",
-    "id": "CUSA17722",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Finisher Always Available",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FFD0",
-            "on": "45896678B80100000041894760E97091B280",
-            "off": "000000000000000000000000000000000000"
-        }, {
-            "offset": "78914A",
-            "on": "E9816E4D7F909090",
-            "off": "45896678418B4760"
-        }]
-    }, {
-        "name": "Activity Tokens, Tech Part, Gadget Unlimited",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FFB0",
-            "on": "FF901001000041BC6300000044896038E992512882",
-            "off": "000000000000000000000000000000000000000000"
-        }, {
-            "offset": "1EE514D",
-            "on": "E95EAED77D9090909090",
-            "off": "FF901001000044036038"
-        }]
-    }, {
-        "name": "Venom Bar Unlimited",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FF60",
-            "on": "B80000FA43418984240C010000418984241001000041898424140100004189842418010000418984241C0100004189842420010000E9D9E0B780",
-            "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "7DE06B",
-            "on": "E9F01E487F909090",
-            "off": "418B842408010000"
-        }]
-    }, {
-        "name": "Spawns the 3rd Venom Bar",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FE00",
-            "on": "41BD030000004589AF24010000E97BBC9880",
-            "off": "000000000000000000000000000000000000"
-        }, {
-            "offset": "5EBA86",
-            "on": "E97543677F9090",
-            "off": "458BAF24010000"
-        }]
-    }, {
-        "name": "Quick Charge Camouflage Bar",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FED0",
-            "on": "C4C17A1087A8010000C4C17A1187A0010000E9D75BB580",
-            "off": "0000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "7B5AB5",
-            "on": "E916A44A7F90909090",
-            "off": "C4C17A1187A0010000"
-        }]
-    }, {
-        "name": "Unlimited Camouflage duration",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FEA0",
-            "on": "C4C17A108E8801000041C786880100000000A041E92448B580",
-            "off": "00000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "7B46D4",
-            "on": "E9C7B74A7F90909090",
-            "off": "C4C17A108E88010000"
-        }]
-    }, {
-        "name": "Combo x99",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FC30",
-            "on": "0F84039DB28041C7465063000000E9F09AB280",
-            "off": "00000000000000000000000000000000000000"
-        }, {
-            "offset": "789729",
-            "on": "E902654D7F9090909090",
-            "off": "0F841602000041FF4650"
-        }]
-    }, {
-        "name": "Max Skill Point",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FF30",
-            "on": "BA63000000418995F8B90000E9F9BB9B80",
-            "off": "0000000000000000000000000000000000"
-        }, {
-            "offset": "61BB33",
-            "on": "E9F843647F9090",
-            "off": "418B95F8B90000"
-        }]
-    }, {
-        "name": "Maximum EXP After Getting It",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FF00",
-            "on": "41C786F0B900007F969800E920B2F380",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "B9B129",
-            "on": "E9D24D0C7F9090",
-            "off": "41899EF0B90000"
-        }]
-    }, {
-        "name": "Cannot Be Touched By Enemy ( ON )",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FE70",
-            "on": "C4C1782E455141C6455101E9501DBA80",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "801BC7",
-            "on": "E9A4E2457F90909090",
-            "off": "C4C1782E8588000000"
-        }]
-    }, {
-        "name": "Cannot Be Touched By Enemy ( OFF )",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FE70",
-            "on": "C4C1782E455141C6455100E9501DBA80",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "801BC7",
-            "on": "E9A4E2457F90909090",
-            "off": "C4C1782E8588000000"
-        }]
-    }, {
-        "name": "Infinite Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FE30",
-            "on": "C5F82E8088000000C7808800000000002F43C7808C00000000002F43E975C8B880",
-            "off": "000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "7EC6BE",
-            "on": "E96D37477F909090",
-            "off": "C5F82E8088000000"
-        }]
-    }, {
-        "name": "Travesal Challenge Time Always 0",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FDA0",
-            "on": "41C70100000000E94E9CDC81",
-            "off": "000000000000000000000000"
-        }, {
-            "offset": "1A299F5",
-            "on": "E9A663237E",
-            "off": "C4C17A1101"
-        }]
-    }, {
-        "name": "Unlimited Combat Challenge Time",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FDD0",
-            "on": "C7436400006C42E90A129680",
-            "off": "000000000000000000000000"
-        }, {
-            "offset": "5C0FE1",
-            "on": "E9EAED697F",
-            "off": "C5FA114364"
-        }]
-    }, {
-        "name": "Speed Becomes Normal",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FD60",
-            "on": "C5FA108190000000C781900000000000803FE927CBB180",
-            "off": "0000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "77C896",
-            "on": "E9C5344E7F909090",
-            "off": "C5FA108190000000"
-        }]
-    }, {
-        "name": "Speed 1.5x",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FD20",
-            "on": "C5FA108190000000C781900000000000C03FE967CBB180",
-            "off": "0000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "77C896",
-            "on": "E985344E7F909090",
-            "off": "C5FA108190000000"
-        }]
-    }, {
-        "name": "Speed 2x",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FCE0",
-            "on": "C5FA108190000000C7819000000000000040E9A7CBB180",
-            "off": "0000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "77C896",
-            "on": "E945344E7F909090",
-            "off": "C5FA108190000000"
-        }]
-    }, {
-        "name": "Speed 3x",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FCA0",
-            "on": "C5FA108190000000C7819000000000004040E9E7CBB180",
-            "off": "0000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "77C896",
-            "on": "E905344E7F909090",
-            "off": "C5FA108190000000"
-        }]
-    }, {
-        "name": "Speed becomes Very Slow",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FC60",
-            "on": "C5FA108190000000C78190000000CDCCCC3DE927CCB180",
-            "off": "0000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "77C896",
-            "on": "E9C5334E7F909090",
-            "off": "C5FA108190000000"
-        }]
-    }],
-    "credits": ["x3shakir"]
+  "name": "Marvels Spider-Man: Miles Morales",
+  "id": "CUSA17722",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Finisher Always Available",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FFD0",
+          "on": "45896678B80100000041894760E97091B280",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "78914A",
+          "on": "E9816E4D7F909090",
+          "off": "45896678418B4760"
+        }
+      ]
+    },
+    {
+      "name": "Activity Tokens, Tech Part, Gadget Unlimited",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FFB0",
+          "on": "FF901001000041BC6300000044896038E992512882",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1EE514D",
+          "on": "E95EAED77D9090909090",
+          "off": "FF901001000044036038"
+        }
+      ]
+    },
+    {
+      "name": "Venom Bar Unlimited",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FF60",
+          "on": "B80000FA43418984240C010000418984241001000041898424140100004189842418010000418984241C0100004189842420010000E9D9E0B780",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7DE06B",
+          "on": "E9F01E487F909090",
+          "off": "418B842408010000"
+        }
+      ]
+    },
+    {
+      "name": "Spawns the 3rd Venom Bar",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FE00",
+          "on": "41BD030000004589AF24010000E97BBC9880",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5EBA86",
+          "on": "E97543677F9090",
+          "off": "458BAF24010000"
+        }
+      ]
+    },
+    {
+      "name": "Quick Charge Camouflage Bar",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FED0",
+          "on": "C4C17A1087A8010000C4C17A1187A0010000E9D75BB580",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7B5AB5",
+          "on": "E916A44A7F90909090",
+          "off": "C4C17A1187A0010000"
+        }
+      ]
+    },
+    {
+      "name": "Unlimited Camouflage duration",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FEA0",
+          "on": "C4C17A108E8801000041C786880100000000A041E92448B580",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7B46D4",
+          "on": "E9C7B74A7F90909090",
+          "off": "C4C17A108E88010000"
+        }
+      ]
+    },
+    {
+      "name": "Combo x99",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FC30",
+          "on": "0F84039DB28041C7465063000000E9F09AB280",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "789729",
+          "on": "E902654D7F9090909090",
+          "off": "0F841602000041FF4650"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill Point",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FF30",
+          "on": "BA63000000418995F8B90000E9F9BB9B80",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "61BB33",
+          "on": "E9F843647F9090",
+          "off": "418B95F8B90000"
+        }
+      ]
+    },
+    {
+      "name": "Maximum EXP After Getting It",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FF00",
+          "on": "41C786F0B900007F969800E920B2F380",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "B9B129",
+          "on": "E9D24D0C7F9090",
+          "off": "41899EF0B90000"
+        }
+      ]
+    },
+    {
+      "name": "Cannot Be Touched By Enemy ( ON )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FE70",
+          "on": "C4C1782E455141C6455101E9501DBA80",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "801BC7",
+          "on": "E9A4E2457F90909090",
+          "off": "C4C1782E8588000000"
+        }
+      ]
+    },
+    {
+      "name": "Cannot Be Touched By Enemy ( OFF )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FE70",
+          "on": "C4C1782E455141C6455100E9501DBA80",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "801BC7",
+          "on": "E9A4E2457F90909090",
+          "off": "C4C1782E8588000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FE30",
+          "on": "C5F82E8088000000C7808800000000002F43C7808C00000000002F43E975C8B880",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7EC6BE",
+          "on": "E96D37477F909090",
+          "off": "C5F82E8088000000"
+        }
+      ]
+    },
+    {
+      "name": "Travesal Challenge Time Always 0",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FDA0",
+          "on": "41C70100000000E94E9CDC81",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "1A299F5",
+          "on": "E9A663237E",
+          "off": "C4C17A1101"
+        }
+      ]
+    },
+    {
+      "name": "Unlimited Combat Challenge Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FDD0",
+          "on": "C7436400006C42E90A129680",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "5C0FE1",
+          "on": "E9EAED697F",
+          "off": "C5FA114364"
+        }
+      ]
+    },
+    {
+      "name": "Speed Becomes Normal",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FD60",
+          "on": "C5FA108190000000C781900000000000803FE927CBB180",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "77C896",
+          "on": "E9C5344E7F909090",
+          "off": "C5FA108190000000"
+        }
+      ]
+    },
+    {
+      "name": "Speed 1.5x",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FD20",
+          "on": "C5FA108190000000C781900000000000C03FE967CBB180",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "77C896",
+          "on": "E985344E7F909090",
+          "off": "C5FA108190000000"
+        }
+      ]
+    },
+    {
+      "name": "Speed 2x",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FCE0",
+          "on": "C5FA108190000000C7819000000000000040E9A7CBB180",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "77C896",
+          "on": "E945344E7F909090",
+          "off": "C5FA108190000000"
+        }
+      ]
+    },
+    {
+      "name": "Speed 3x",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FCA0",
+          "on": "C5FA108190000000C7819000000000004040E9E7CBB180",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "77C896",
+          "on": "E905344E7F909090",
+          "off": "C5FA108190000000"
+        }
+      ]
+    },
+    {
+      "name": "Speed becomes Very Slow",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FC60",
+          "on": "C5FA108190000000C78190000000CDCCCC3DE927CCB180",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "77C896",
+          "on": "E9C5334E7F909090",
+          "off": "C5FA108190000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "x3shakir"
+  ]
 }

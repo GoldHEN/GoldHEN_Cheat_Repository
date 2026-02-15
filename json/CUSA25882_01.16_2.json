@@ -1,20 +1,27 @@
 {
-    "name": "WWE2K22",
-    "id": "CUSA25882",
-    "version": "01.16",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "INF HEALTH",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FE9DF90",
-            "on": "81BB000300000A1E2800750CC743100000C842E966540E81C5FA115B10E95C540E81",
-            "off": "00000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "F83409",
-            "on": "E982ABF17E",
-            "off": "C5FA115B10"
-        }]
-    }],
-    "credits": ["aran"]
+  "name": "WWE2K22",
+  "id": "CUSA25882",
+  "version": "01.16",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "INF HEALTH",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FE9DF90",
+          "on": "81BB000300000A1E2800750CC743100000C842E966540E81C5FA115B10E95C540E81",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F83409",
+          "on": "E982ABF17E",
+          "off": "C5FA115B10"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "aran"
+  ]
 }

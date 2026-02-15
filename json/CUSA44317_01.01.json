@@ -1,20 +1,27 @@
 {
-    "name": "Blasphemous II",
-    "id": "CUSA44317",
-    "version": "01.01",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Max Tears/Marks of Martyrdom",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "6FA3A3E",
-            "on": "C740383F420F00488D7DD8E94DAE88FD",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "482E894",
-            "on": "E9A55177029090",
-            "off": "894838488D7DD8"
-        }]
-    }],
-    "credits": ["Q8Despair"]
+  "name": "Blasphemous II",
+  "id": "CUSA44317",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Tears/Marks of Martyrdom",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6FA3A3E",
+          "on": "C740383F420F00488D7DD8E94DAE88FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "482E894",
+          "on": "E9A55177029090",
+          "off": "894838488D7DD8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Q8Despair"
+  ]
 }

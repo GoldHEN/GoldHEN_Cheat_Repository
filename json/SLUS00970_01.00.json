@@ -1,16 +1,22 @@
 {
-    "name": "Gekido - Urban Fighters",
-    "id": "SLUS00970",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Lives P1",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "13BB36",
-            "on": "00",
-            "off": "42"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Gekido - Urban Fighters",
+  "id": "SLUS00970",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Lives P1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13BB36",
+          "on": "00",
+          "off": "42"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

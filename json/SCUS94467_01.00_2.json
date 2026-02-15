@@ -1,28 +1,38 @@
 {
-    "name": "Spyro 3.5 - Return to the Forgotten Realms",
-    "id": "SCUS94467",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "12BD04",
-            "on": "00",
-            "off": "FF"
-        }, {
-            "offset": "12BD05",
-            "on": "00",
-            "off": "FF"
-        }]
-    }, {
-        "name": "Infinite-lives",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "134CF2",
-            "on": "00",
-            "off": "42"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Spyro 3.5 - Return to the Forgotten Realms",
+  "id": "SCUS94467",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12BD04",
+          "on": "00",
+          "off": "FF"
+        },
+        {
+          "offset": "12BD05",
+          "on": "00",
+          "off": "FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "134CF2",
+          "on": "00",
+          "off": "42"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

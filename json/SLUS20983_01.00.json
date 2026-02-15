@@ -1,32 +1,44 @@
 {
-    "name": "Musashi Samurai Legend",
-    "id": "SLUS20983",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Max Money",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "80802C6BA8",
-            "on": "02BCBE4C",
-            "off": "02BCBE4C"
-        }]
-    }, {
-        "name": "Max Focus",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "80802C6BA0",
-            "on": "00004843",
-            "off": "00004843"
-        }]
-    }, {
-        "name": "Max Luck",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "80802C6BA4",
-            "on": "00004843",
-            "off": "00004843"
-        }]
-    }],
-    "credits": ["Aurangzeb565"]
+  "name": "Musashi Samurai Legend",
+  "id": "SLUS20983",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80802C6BA8",
+          "on": "02BCBE4C",
+          "off": "02BCBE4C"
+        }
+      ]
+    },
+    {
+      "name": "Max Focus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80802C6BA0",
+          "on": "00004843",
+          "off": "00004843"
+        }
+      ]
+    },
+    {
+      "name": "Max Luck",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80802C6BA4",
+          "on": "00004843",
+          "off": "00004843"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Aurangzeb565"
+  ]
 }

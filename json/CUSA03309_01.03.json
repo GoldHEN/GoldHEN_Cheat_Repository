@@ -1,40 +1,55 @@
 {
-    "name": "Far Cry® Primal",
-    "id": "CUSA03309",
-    "version": "01.03",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Arrows/Clubs/spears",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "14EF920",
-            "on": "9090",
-            "off": "8903"
-        }]
-    }, {
-        "name": "Infinite Throwables",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "244438E",
-            "on": "9090909090909090",
-            "off": "41899C2488000000"
-        }]
-    }, {
-        "name": "Earn Skills On Spend",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DC7580",
-            "on": "034850",
-            "off": "2B4850"
-        }]
-    }, {
-        "name": "Infinite Skill Points",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "DC7592",
-            "on": "90909090909090",
-            "off": "41898F84000000"
-        }]
-    }],
-    "credits": ["M3hdi PS"]
+  "name": "Far Cry® Primal",
+  "id": "CUSA03309",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Arrows/Clubs/spears",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14EF920",
+          "on": "9090",
+          "off": "8903"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Throwables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "244438E",
+          "on": "9090909090909090",
+          "off": "41899C2488000000"
+        }
+      ]
+    },
+    {
+      "name": "Earn Skills On Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DC7580",
+          "on": "034850",
+          "off": "2B4850"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DC7592",
+          "on": "90909090909090",
+          "off": "41898F84000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "M3hdi PS"
+  ]
 }

@@ -1,36 +1,49 @@
 {
-    "name": "Dino Crisis 2",
-    "id": "SLUS01279",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "124831",
-            "on": "FF",
-            "off": "18"
-        }, {
-            "offset": "1249D9",
-            "on": "FF",
-            "off": "18"
-        }]
-    }, {
-        "name": "Infinite-All-Weapon",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "13D791",
-            "on": "FF",
-            "off": "18"
-        }]
-    }, {
-        "name": "Max-Points",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "2B4142",
-            "on": "96",
-            "off": "64"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Dino Crisis 2",
+  "id": "SLUS01279",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "124831",
+          "on": "FF",
+          "off": "18"
+        },
+        {
+          "offset": "1249D9",
+          "on": "FF",
+          "off": "18"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13D791",
+          "on": "FF",
+          "off": "18"
+        }
+      ]
+    },
+    {
+      "name": "Max-Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2B4142",
+          "on": "96",
+          "off": "64"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

@@ -1,24 +1,33 @@
 {
-    "name": "caladrius-Blaze",
-    "id": "CUSA03698",
-    "version": "01.01",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-lives",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "BB2C9",
-            "on": "909090",
-            "off": "44892F"
-        }]
-    }, {
-        "name": "Infinite-Bomb",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "C0F3A",
-            "on": "9090909090",
-            "off": "FF89000100"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "caladrius-Blaze",
+  "id": "CUSA03698",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BB2C9",
+          "on": "909090",
+          "off": "44892F"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Bomb",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C0F3A",
+          "on": "9090909090",
+          "off": "FF89000100"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

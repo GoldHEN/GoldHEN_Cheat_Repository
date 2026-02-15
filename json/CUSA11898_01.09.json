@@ -1,112 +1,150 @@
 {
-    "name": "Divinity: Original Sin 2 - Definitive Edition",
-    "id": "CUSA11898",
-    "version": "01.09",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Inf HP SP AP 1 hit kill",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "24A7800",
-            "on": "83B80802000000751483B8F8010000017F3D8B80F8010000E9A0D62DFEC780F8010000E7030000C780FC010000E7030000C78000020000E7030000C7801002000006000000B8E7030000E96ED62DFEC780F801000001000000C780FC01000000000000B801000000E950D62DFE000000",
-            "off": "0000000000000000000000"
-        }, {
-            "offset": "784EB7",
-            "on": "E94429D20190",
-            "off": "8B80F8010000"
-        }]
-    }, {
-        "name": "Max Exp (Max 35 Level ) Get by kill 1 enemy",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "24A786F",
-            "on": "41039E18020000BB7811F94FE9A50E91FE",
-            "off": "0000000000000000000000000000000000"
-        }, {
-            "offset": "DB871E",
-            "on": "E94CF16E019090",
-            "off": "41039E18020000"
-        }]
-    }, {
-        "name": "Max Money(buy or Sell)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "24A7882",
-            "on": "BE7F96980089B784010000E93B2540FE",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "8A9DC7",
-            "on": "E9B6DABF0190",
-            "off": "89B784010000"
-        }]
-    }, {
-        "name": "99 Attribute Points (after using 1 point)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "24A7894",
-            "on": "B96300000089880003000089880403000089880803000089880C030000E9471C6FFE",
-            "off": "00000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "B994F7",
-            "on": "E998E3900190",
-            "off": "898800030000"
-        }]
-    }, {
-        "name": "99 Combat Ability Points (after using 1 point)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "24A78B8",
-            "on": "C7800403000063000000E9611F6FFE",
-            "off": "000000000000000000000000000000"
-        }, {
-            "offset": "B99822",
-            "on": "E991E0900190",
-            "off": "898804030000"
-        }]
-    }, {
-        "name": "99 civil Ability Points (after using 1 point)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "24A78C9",
-            "on": "C7800803000063000000E95F1F6FFE",
-            "off": "000000000000000000000000000000"
-        }, {
-            "offset": "B99831",
-            "on": "E993E0900190",
-            "off": "898808030000"
-        }]
-    }, {
-        "name": "99 Talents Ability Points (after using 1 point)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "24A78DA",
-            "on": "41C7870C03000063000000E967216FFE",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "B99A4A",
-            "on": "E98BDE90019090",
-            "off": "4589A70C030000"
-        }]
-    }, {
-        "name": "Game Speed x3",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "24A78EC",
-            "on": "41C787B002000000004040C4C17A5987B0020000E901B2BDFD",
-            "off": "00000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "82AFD",
-            "on": "E9EA4D420290909090",
-            "off": "C4C17A5987B0020000"
-        }]
-    }, {
-        "name": "Ignore weight and Never Decrease Movement speed",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "88B32",
-            "on": "9090909090",
-            "off": "E829910800"
-        }]
-    }],
-    "credits": ["EvilGoku"]
+  "name": "Divinity: Original Sin 2 - Definitive Edition",
+  "id": "CUSA11898",
+  "version": "01.09",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP SP AP 1 hit kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24A7800",
+          "on": "83B80802000000751483B8F8010000017F3D8B80F8010000E9A0D62DFEC780F8010000E7030000C780FC010000E7030000C78000020000E7030000C7801002000006000000B8E7030000E96ED62DFEC780F801000001000000C780FC01000000000000B801000000E950D62DFE000000",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "784EB7",
+          "on": "E94429D20190",
+          "off": "8B80F8010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Exp (Max 35 Level ) Get by kill 1 enemy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24A786F",
+          "on": "41039E18020000BB7811F94FE9A50E91FE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "DB871E",
+          "on": "E94CF16E019090",
+          "off": "41039E18020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money(buy or Sell)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24A7882",
+          "on": "BE7F96980089B784010000E93B2540FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8A9DC7",
+          "on": "E9B6DABF0190",
+          "off": "89B784010000"
+        }
+      ]
+    },
+    {
+      "name": "99 Attribute Points (after using 1 point)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24A7894",
+          "on": "B96300000089880003000089880403000089880803000089880C030000E9471C6FFE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B994F7",
+          "on": "E998E3900190",
+          "off": "898800030000"
+        }
+      ]
+    },
+    {
+      "name": "99 Combat Ability Points (after using 1 point)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24A78B8",
+          "on": "C7800403000063000000E9611F6FFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "B99822",
+          "on": "E991E0900190",
+          "off": "898804030000"
+        }
+      ]
+    },
+    {
+      "name": "99 civil Ability Points (after using 1 point)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24A78C9",
+          "on": "C7800803000063000000E95F1F6FFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "B99831",
+          "on": "E993E0900190",
+          "off": "898808030000"
+        }
+      ]
+    },
+    {
+      "name": "99 Talents Ability Points (after using 1 point)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24A78DA",
+          "on": "41C7870C03000063000000E967216FFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "B99A4A",
+          "on": "E98BDE90019090",
+          "off": "4589A70C030000"
+        }
+      ]
+    },
+    {
+      "name": "Game Speed x3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24A78EC",
+          "on": "41C787B002000000004040C4C17A5987B0020000E901B2BDFD",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "82AFD",
+          "on": "E9EA4D420290909090",
+          "off": "C4C17A5987B0020000"
+        }
+      ]
+    },
+    {
+      "name": "Ignore weight and Never Decrease Movement speed",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "88B32",
+          "on": "9090909090",
+          "off": "E829910800"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "EvilGoku"
+  ]
 }

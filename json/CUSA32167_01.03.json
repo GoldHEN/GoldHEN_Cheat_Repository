@@ -1,40 +1,54 @@
 {
-    "name": "No More Heroes III",
-    "id": "CUSA32167",
-    "version": "01.03",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Sword battery never decreases",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "E21996",
-            "on": "898F341D0000",
-            "off": "8987341D0000"
-        }]
-    }, {
-        "name": "Max Uc on gain",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "64CB800",
-            "on": "C7872C030000FFE0F505E91D75AAFA",
-            "off": "000000000000000000000000000000"
-        }, {
-            "offset": "F72D26",
-            "on": "E9D58A550590",
-            "off": "898F2C030000"
-        }]
-    }, {
-        "name": "Max WESN on gain",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "64CB811",
-            "on": "C78730030000FFE0F505E98C75AAFA",
-            "off": "000000000000000000000000000000"
-        }, {
-            "offset": "F72DA6",
-            "on": "E9668A550590",
-            "off": "898F30030000"
-        }]
-    }],
-    "credits": ["Skal"]
+  "name": "No More Heroes III",
+  "id": "CUSA32167",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Sword battery never decreases",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E21996",
+          "on": "898F341D0000",
+          "off": "8987341D0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Uc on gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "64CB800",
+          "on": "C7872C030000FFE0F505E91D75AAFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "F72D26",
+          "on": "E9D58A550590",
+          "off": "898F2C030000"
+        }
+      ]
+    },
+    {
+      "name": "Max WESN on gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "64CB811",
+          "on": "C78730030000FFE0F505E98C75AAFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "F72DA6",
+          "on": "E9668A550590",
+          "off": "898F30030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Skal"
+  ]
 }

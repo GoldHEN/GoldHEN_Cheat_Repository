@@ -1,104 +1,139 @@
 {
-    "name": "Horizon Zero Dawn™: Complete Edition",
-    "id": "CUSA10213",
-    "version": "01.52",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "God Mode",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1F23800",
-            "on": "837B5002750E4181F9100100007C05E93353B1FEC5FA114364E92953B1FE",
-            "off": "000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "A38B42",
-            "on": "E9B9AC4E01",
-            "off": "C5FA114364"
-        }]
-    }, {
-        "name": "One Hit Kill",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1F2381E",
-            "on": "488BB0D8000000837B5002750E4181F9100100007C05E91553B1FEC7436400000000E90953B1FE",
-            "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "A38B47",
-            "on": "E9D2AC4E019090",
-            "off": "488BB0D8000000"
-        }]
-    }, {
-        "name": "Inf Item",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "F2F020",
-            "on": "83E800",
-            "off": "4429F0"
-        }]
-    }, {
-        "name": "Freeze Timer",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "11BB878",
-            "on": "9090909090",
-            "off": "C5FA11511C"
-        }]
-    }, {
-        "name": "Inf Skill Points",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "15D7324",
-            "on": "4529742464",
-            "off": "4129442464"
-        }]
-    }, {
-        "name": "XP x2 (Turn off first: x4, x8)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1F23845",
-            "on": "50B00241F7E44101465431F658E9B3096BFF",
-            "off": "000000000000000000000000000000000000"
-        }, {
-            "offset": "1293F4F",
-            "on": "440F4DCE",
-            "off": "440F4ECE"
-        }, {
-            "offset": "15D4204",
-            "on": "E93CF6940090",
-            "off": "4501665431F6"
-        }]
-    }, {
-        "name": "XP x4 (Turn off first: x2, x8)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1F23845",
-            "on": "50B00441F7E44101465431F658E9B3096BFF",
-            "off": "000000000000000000000000000000000000"
-        }, {
-            "offset": "1293F4F",
-            "on": "440F4DCE",
-            "off": "440F4ECE"
-        }, {
-            "offset": "15D4204",
-            "on": "E93CF6940090",
-            "off": "4501665431F6"
-        }]
-    }, {
-        "name": "XP x8 (Turn off first: x2, x4)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1F23845",
-            "on": "50B00841F7E44101465431F658E9B3096BFF",
-            "off": "000000000000000000000000000000000000"
-        }, {
-            "offset": "1293F4F",
-            "on": "440F4DCE",
-            "off": "440F4ECE"
-        }, {
-            "offset": "15D4204",
-            "on": "E93CF6940090",
-            "off": "4501665431F6"
-        }]
-    }],
-    "credits": ["Cosmaty"]
+  "name": "Horizon Zero Dawn™: Complete Edition",
+  "id": "CUSA10213",
+  "version": "01.52",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F23800",
+          "on": "837B5002750E4181F9100100007C05E93353B1FEC5FA114364E92953B1FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A38B42",
+          "on": "E9B9AC4E01",
+          "off": "C5FA114364"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F2381E",
+          "on": "488BB0D8000000837B5002750E4181F9100100007C05E91553B1FEC7436400000000E90953B1FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A38B47",
+          "on": "E9D2AC4E019090",
+          "off": "488BB0D8000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Item",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F2F020",
+          "on": "83E800",
+          "off": "4429F0"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11BB878",
+          "on": "9090909090",
+          "off": "C5FA11511C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15D7324",
+          "on": "4529742464",
+          "off": "4129442464"
+        }
+      ]
+    },
+    {
+      "name": "XP x2 (Turn off first: x4, x8)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F23845",
+          "on": "50B00241F7E44101465431F658E9B3096BFF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1293F4F",
+          "on": "440F4DCE",
+          "off": "440F4ECE"
+        },
+        {
+          "offset": "15D4204",
+          "on": "E93CF6940090",
+          "off": "4501665431F6"
+        }
+      ]
+    },
+    {
+      "name": "XP x4 (Turn off first: x2, x8)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F23845",
+          "on": "50B00441F7E44101465431F658E9B3096BFF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1293F4F",
+          "on": "440F4DCE",
+          "off": "440F4ECE"
+        },
+        {
+          "offset": "15D4204",
+          "on": "E93CF6940090",
+          "off": "4501665431F6"
+        }
+      ]
+    },
+    {
+      "name": "XP x8 (Turn off first: x2, x4)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F23845",
+          "on": "50B00841F7E44101465431F658E9B3096BFF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1293F4F",
+          "on": "440F4DCE",
+          "off": "440F4ECE"
+        },
+        {
+          "offset": "15D4204",
+          "on": "E93CF6940090",
+          "off": "4501665431F6"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Cosmaty"
+  ]
 }

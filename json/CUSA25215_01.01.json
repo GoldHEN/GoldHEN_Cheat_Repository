@@ -1,20 +1,27 @@
 {
-    "name": "Turok-Dinosaur-2",
-    "id": "CUSA25215",
-    "version": "01.01",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-All-Weapon",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "32D260",
-            "on": "909090",
-            "off": "4429F2"
-        }, {
-            "offset": "32D3F0",
-            "on": "909090",
-            "off": "4429F2"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Turok-Dinosaur-2",
+  "id": "CUSA25215",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-All-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32D260",
+          "on": "909090",
+          "off": "4429F2"
+        },
+        {
+          "offset": "32D3F0",
+          "on": "909090",
+          "off": "4429F2"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

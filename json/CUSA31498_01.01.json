@@ -1,24 +1,33 @@
 {
-    "name": "STREET FIGHTER 6",
-    "id": "CUSA31498",
-    "version": "01.01",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "5331B39",
-            "on": "909090909090",
-            "off": "8981A8000000"
-        }]
-    }, {
-        "name": "Infinite money",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "2435DE8",
-            "on": "909090",
-            "off": "894814"
-        }]
-    }],
-    "credits": ["Master_s9"]
+  "name": "STREET FIGHTER 6",
+  "id": "CUSA31498",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5331B39",
+          "on": "909090909090",
+          "off": "8981A8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2435DE8",
+          "on": "909090",
+          "off": "894814"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Master_s9"
+  ]
 }

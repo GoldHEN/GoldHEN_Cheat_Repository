@@ -1,24 +1,33 @@
 {
-    "name": "GigaWing Generations",
-    "id": "SLES53548",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-lives",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808010C098",
-            "on": "63000000",
-            "off": "63000000"
-        }]
-    }, {
-        "name": "Infinite-bomb",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "808010C099",
-            "on": "63000000",
-            "off": "63000000"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "GigaWing Generations",
+  "id": "SLES53548",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808010C098",
+          "on": "63000000",
+          "off": "63000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-bomb",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808010C099",
+          "on": "63000000",
+          "off": "63000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

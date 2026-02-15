@@ -1,28 +1,38 @@
 {
-    "name": "Lord of the Rings, The - The Return of the King",
-    "id": "SLUS20770",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "80809EAE20",
-            "on": "FFFF",
-            "off": "FFFF"
-        }, {
-            "offset": "80809EAE21",
-            "on": "FFFF",
-            "off": "FFFF"
-        }]
-    }, {
-        "name": "Arrows-99",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "80809ECDA8",
-            "on": "63",
-            "off": "63"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Lord of the Rings, The - The Return of the King",
+  "id": "SLUS20770",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80809EAE20",
+          "on": "FFFF",
+          "off": "FFFF"
+        },
+        {
+          "offset": "80809EAE21",
+          "on": "FFFF",
+          "off": "FFFF"
+        }
+      ]
+    },
+    {
+      "name": "Arrows-99",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80809ECDA8",
+          "on": "63",
+          "off": "63"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

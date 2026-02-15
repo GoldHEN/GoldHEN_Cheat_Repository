@@ -1,24 +1,33 @@
 {
-    "name": "Blood-Rayne-Betrayal.Fresh.Bites",
-    "id": "CUSA26608",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "F1446",
-            "on": "9090909090",
-            "off": "E845C70C00"
-        }]
-    }, {
-        "name": "Infinite-Weapon",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "E9F29",
-            "on": "9090909090909090",
-            "off": "41FE8C24100D0000"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Blood-Rayne-Betrayal.Fresh.Bites",
+  "id": "CUSA26608",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F1446",
+          "on": "9090909090",
+          "off": "E845C70C00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E9F29",
+          "on": "9090909090909090",
+          "off": "41FE8C24100D0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

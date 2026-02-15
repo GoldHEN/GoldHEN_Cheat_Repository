@@ -1,20 +1,27 @@
 {
-    "name": "Jurassic World Evolution 2",
-    "id": "CUSA27321",
-    "version": "01.30",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Money x2",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "2F6B800",
-            "on": "4D6BE4024D89A6B8000000E9F97BA2FE",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "1993402",
-            "on": "E9F9835D019090",
-            "off": "4D89A6B8000000"
-        }]
-    }],
-    "credits": ["Q8Despair"]
+  "name": "Jurassic World Evolution 2",
+  "id": "CUSA27321",
+  "version": "01.30",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Money x2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2F6B800",
+          "on": "4D6BE4024D89A6B8000000E9F97BA2FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1993402",
+          "on": "E9F9835D019090",
+          "off": "4D89A6B8000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Q8Despair"
+  ]
 }

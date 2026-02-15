@@ -1,24 +1,33 @@
 {
-    "name": "MediEvil",
-    "id": "SCUS94227",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "130F25",
-            "on": "64",
-            "off": "10"
-        }]
-    }, {
-        "name": "Infinite-Weapon",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1493E1",
-            "on": "64",
-            "off": "18"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "MediEvil",
+  "id": "SCUS94227",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "130F25",
+          "on": "64",
+          "off": "10"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1493E1",
+          "on": "64",
+          "off": "18"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

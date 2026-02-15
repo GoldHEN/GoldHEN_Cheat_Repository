@@ -1,40 +1,54 @@
 {
-    "name": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition",
-    "id": "CUSA19120",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Max Inf. Gold Coins",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "5F9B800",
-            "on": "C787C00000007F9698008B8FC0000000E92009B6FB",
-            "off": "000000000000000000000000000000000000000000"
-        }, {
-            "offset": "1AFC12F",
-            "on": "E9CCF6490490",
-            "off": "898FC0000000"
-        }]
-    }, {
-        "name": "Inf. Item Usage",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1019FE1",
-            "on": "8B4318",
-            "off": "894318"
-        }]
-    }, {
-        "name": "Max. Skill Points",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "5F9B815",
-            "on": "41C785B4000000E7030000E9235C97FB",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "1911441",
-            "on": "E9CFA368049090",
-            "off": "418985B4000000"
-        }]
-    }],
-    "credits": ["KoKyi"]
+  "name": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition",
+  "id": "CUSA19120",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Inf. Gold Coins",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F9B800",
+          "on": "C787C00000007F9698008B8FC0000000E92009B6FB",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1AFC12F",
+          "on": "E9CCF6490490",
+          "off": "898FC0000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf. Item Usage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1019FE1",
+          "on": "8B4318",
+          "off": "894318"
+        }
+      ]
+    },
+    {
+      "name": "Max. Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F9B815",
+          "on": "41C785B4000000E7030000E9235C97FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1911441",
+          "on": "E9CFA368049090",
+          "off": "418985B4000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "KoKyi"
+  ]
 }

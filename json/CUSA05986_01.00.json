@@ -1,52 +1,70 @@
 {
-    "name": "Need for Speed Payback",
-    "id": "CUSA05986",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Max Money",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "03E17E50",
-            "on": "418B4014BEFFC99A3BE90BA2A9FE",
-            "off": "0000000000000000000000000000"
-        }, {
-            "offset": "028B2061",
-            "on": "E9EA5D5601909090",
-            "off": "418B4014418B7708"
-        }]
-    }, {
-        "name": "Max Tokens",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "03E17F50",
-            "on": "B97F96980041894C2418E931A9AFFE",
-            "off": "000000000000000000000000000000"
-        }, {
-            "offset": "0291288B",
-            "on": "E9C0565001",
-            "off": "41894C2418"
-        }]
-    }, {
-        "name": "Max Rep Points",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "0295ED5A",
-            "on": "C743087F96980090",
-            "off": "448973084489430C"
-        }]
-    }, {
-        "name": "Inf Nitro",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "35AA940",
-            "on": "41C78514020000675DBA40E91E0FE7FE",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "241B865",
-            "on": "E9D6F0180190909090",
-            "off": "C4C17A118514020000"
-        }]
-    }],
-    "credits": ["x3shakir"]
+  "name": "Need for Speed Payback",
+  "id": "CUSA05986",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "03E17E50",
+          "on": "418B4014BEFFC99A3BE90BA2A9FE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "028B2061",
+          "on": "E9EA5D5601909090",
+          "off": "418B4014418B7708"
+        }
+      ]
+    },
+    {
+      "name": "Max Tokens",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "03E17F50",
+          "on": "B97F96980041894C2418E931A9AFFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "0291288B",
+          "on": "E9C0565001",
+          "off": "41894C2418"
+        }
+      ]
+    },
+    {
+      "name": "Max Rep Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "0295ED5A",
+          "on": "C743087F96980090",
+          "off": "448973084489430C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Nitro",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "35AA940",
+          "on": "41C78514020000675DBA40E91E0FE7FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "241B865",
+          "on": "E9D6F0180190909090",
+          "off": "C4C17A118514020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "x3shakir"
+  ]
 }

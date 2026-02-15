@@ -1,28 +1,38 @@
 {
-    "name": "Prince of Persia The Sands of Time",
-    "id": "SLES51918",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FF033D8",
-            "on": "FFFF",
-            "off": "9898"
-        }]
-    }, {
-        "name": "Infinite-Sand-Bar",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FF340E4",
-            "on": "63",
-            "off": "03"
-        }, {
-            "offset": "807FF340E5",
-            "on": "63",
-            "off": "03"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Prince of Persia The Sands of Time",
+  "id": "SLES51918",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FF033D8",
+          "on": "FFFF",
+          "off": "9898"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Sand-Bar",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FF340E4",
+          "on": "63",
+          "off": "03"
+        },
+        {
+          "offset": "807FF340E5",
+          "on": "63",
+          "off": "03"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

@@ -1,28 +1,38 @@
 {
-    "name": "CT Special Forces",
-    "id": "SLUS21731",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Health+-1-Hit",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FD26928",
-            "on": "E6000BDC",
-            "off": "600F8C4"
-        }]
-    }, {
-        "name": "Infinite-All-Weapon",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FD37F78",
-            "on": "FFFF",
-            "off": "FFFF"
-        }, {
-            "offset": "807FD37F79",
-            "on": "FFFF",
-            "off": "FFFF"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "CT Special Forces",
+  "id": "SLUS21731",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health+-1-Hit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FD26928",
+          "on": "E6000BDC",
+          "off": "600F8C4"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FD37F78",
+          "on": "FFFF",
+          "off": "FFFF"
+        },
+        {
+          "offset": "807FD37F79",
+          "on": "FFFF",
+          "off": "FFFF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

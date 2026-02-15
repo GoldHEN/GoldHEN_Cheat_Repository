@@ -1,44 +1,60 @@
 {
-    "name": "Mega Man X5",
-    "id": "SLUS01334",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Unlock All-Weapon",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "185409",
-            "on": "FF",
-            "off": "00"
-        }]
-    }, {
-        "name": "Infinite-All-Weapon",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "12AACD",
-            "on": "99",
-            "off": "18"
-        }]
-    }, {
-        "name": "Infinite Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "11CDCA",
-            "on": "44",
-            "off": "46"
-        }, {
-            "offset": "12AACD",
-            "on": "99",
-            "off": "23"
-        }]
-    }, {
-        "name": "Infinite Lives",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "10BAE2",
-            "on": "00",
-            "off": "42"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Mega Man X5",
+  "id": "SLUS01334",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Unlock All-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "185409",
+          "on": "FF",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12AACD",
+          "on": "99",
+          "off": "18"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11CDCA",
+          "on": "44",
+          "off": "46"
+        },
+        {
+          "offset": "12AACD",
+          "on": "99",
+          "off": "23"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10BAE2",
+          "on": "00",
+          "off": "42"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

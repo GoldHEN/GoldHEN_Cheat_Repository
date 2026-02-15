@@ -1,216 +1,291 @@
 {
-    "name": "Persona 4 Golden",
-    "id": "CUSA33874",
-    "version": "01.01",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "backport 9 to 505 only",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "815731",
-            "on": "C390",
-            "off": "0000"
-        }]
-    }, {
-        "name": "infinite Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "815739",
-            "on": "4139C64883F9047406E9C2C886FF90410F4EC6E9B8C886FF",
-            "off": "000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "82002",
-            "on": "E9323779009090",
-            "off": "4139C6410F4EC6"
-        }]
-    }, {
-        "name": "infinite SP",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "815761",
-            "on": "4139C64883F9047406E9DAC886FF90410F4EC6E9D0C886FF",
-            "off": "000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "82042",
-            "on": "E91A3779009090",
-            "off": "4139C6410F4EC6"
-        }]
-    }, {
-        "name": "All items",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "815791",
-            "on": "4863CF803C0800750DC60408018A0408E937DE92FF908A0408E92EDE92FF",
-            "off": "000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "1435D7",
-            "on": "E9B5216D0090",
-            "off": "4863CF8A0408"
-        }]
-    }, {
-        "name": "Max Player EXP",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8157D1",
-            "on": "F607044C39F875174883FB017511C74740E6041D000FB74702E9E2C186FF900FB74702E9D8C186FF",
-            "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "819CA",
-            "on": "E9023E79009090",
-            "off": "F607040FB74702"
-        }]
-    }, {
-        "name": "Max exp persona",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "815811",
-            "on": "0FB74302C743089E4C4C0066BB0100E93F6387FF",
-            "off": "0000000000000000000000000000000000000000"
-        }, {
-            "offset": "8BB5C",
-            "on": "E9B09C7800909090",
-            "off": "0FB7430266BB0100"
-        }]
-    }, {
-        "name": "Max persona stats",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "815841",
-            "on": "41C6441E1C63458A641E1CE9606187FF",
-            "off": "00000000000000000000000000000000"
-        }, {
-            "offset": "8B9AC",
-            "on": "E9909E7800",
-            "off": "458A641E1C"
-        }]
-    }, {
-        "name": "Max Social Stats",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "815871",
-            "on": "4883FF0074234883FF01742F4883FF02743B4883FF0374114883FF0474410FBF747834E9D6EE92FF9066C74478348C000FBF747834E9C4EE92FF9066C7447834F0000FBF747834E9B2EE92FF9066C744783482000FBF747834E9A0EE92FF9066C744783455000FBF747834E98EEE92FF",
-            "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "14476A",
-            "on": "E902116D00",
-            "off": "0FBF747834"
-        }]
-    }, {
-        "name": "Max Exp Social Link",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "815901",
-            "on": "66B863006641014608E9BCB593FF",
-            "off": "0000000000000000000000000000"
-        }, {
-            "offset": "150EC6",
-            "on": "E9364A6C00",
-            "off": "6641014608"
-        }]
-    }, {
-        "name": "Master Code Daytime",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "815961",
-            "on": "C7400401000000EB2E90B10188480AC6400200E97BA28DFF90B10588480AC6400204E96CA28DFF90B10088480AC6400205E95DA28DFF90E957A28DFF",
-            "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "EFBED",
-            "on": "E96F5D72009090",
-            "off": "C7400401000000"
-        }]
-    }, {
-        "name": "Early morning (MC daytime)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "815968",
-            "on": "EB01",
-            "off": "EB2E"
-        }]
-    }, {
-        "name": "Afterschool (MC daytime)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "815968",
-            "on": "EB10",
-            "off": "EB2E"
-        }]
-    }, {
-        "name": "Evening (MC daytime)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "815968",
-            "on": "EB1F",
-            "off": "EB2E"
-        }]
-    }, {
-        "name": "Master Code Date",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8159C1",
-            "on": "803C7700EB199066FFC2668910E902A28DFF9066FFCA668910E9F6A18DFF9066895008E9ECA18DFF",
-            "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "EFBCD",
-            "on": "E9EF5D7200909090",
-            "off": "803C770066895008"
-        }]
-    }, {
-        "name": "Decrease 1 day (MC Date)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8159C5",
-            "on": "EB0D",
-            "off": "EB19"
-        }]
-    }, {
-        "name": "Increase 1 day (MC Date)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "8159C5",
-            "on": "EB01",
-            "off": "EB19"
-        }]
-    }, {
-        "name": "Yen",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "815A01",
-            "on": "4883FB0075234883F900751D4883FF0075174983FA007511C7007F9698000FB7444804E986DA92FF900FB7444804E97BDA92FF90",
-            "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "1434AA",
-            "on": "E952256D00",
-            "off": "0FB7444804"
-        }]
-    }, {
-        "name": "Master Code Persona id (skin)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "815A51",
-            "on": "4883FB04752D4883F90075274983FC017521EB1F9066FF400666C7000000E9F87C87FF9066FF480666C7000000E9E97C87FF9066C7000000E9DE7C87FF90",
-            "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "8D767",
-            "on": "E9E5827800",
-            "off": "66C7000000"
-        }]
-    }, {
-        "name": "Increase id (MC id)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "815A63",
-            "on": "EB01",
-            "off": "EB1F"
-        }]
-    }, {
-        "name": "Decrease id (MC id)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "815A63",
-            "on": "EB10",
-            "off": "EB1F"
-        }]
-    }],
-    "credits": ["d01v"]
+  "name": "Persona 4 Golden",
+  "id": "CUSA33874",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "backport 9 to 505 only",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "815731",
+          "on": "C390",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "815739",
+          "on": "4139C64883F9047406E9C2C886FF90410F4EC6E9B8C886FF",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "82002",
+          "on": "E9323779009090",
+          "off": "4139C6410F4EC6"
+        }
+      ]
+    },
+    {
+      "name": "infinite SP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "815761",
+          "on": "4139C64883F9047406E9DAC886FF90410F4EC6E9D0C886FF",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "82042",
+          "on": "E91A3779009090",
+          "off": "4139C6410F4EC6"
+        }
+      ]
+    },
+    {
+      "name": "All items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "815791",
+          "on": "4863CF803C0800750DC60408018A0408E937DE92FF908A0408E92EDE92FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1435D7",
+          "on": "E9B5216D0090",
+          "off": "4863CF8A0408"
+        }
+      ]
+    },
+    {
+      "name": "Max Player EXP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8157D1",
+          "on": "F607044C39F875174883FB017511C74740E6041D000FB74702E9E2C186FF900FB74702E9D8C186FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "819CA",
+          "on": "E9023E79009090",
+          "off": "F607040FB74702"
+        }
+      ]
+    },
+    {
+      "name": "Max exp persona",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "815811",
+          "on": "0FB74302C743089E4C4C0066BB0100E93F6387FF",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8BB5C",
+          "on": "E9B09C7800909090",
+          "off": "0FB7430266BB0100"
+        }
+      ]
+    },
+    {
+      "name": "Max persona stats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "815841",
+          "on": "41C6441E1C63458A641E1CE9606187FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8B9AC",
+          "on": "E9909E7800",
+          "off": "458A641E1C"
+        }
+      ]
+    },
+    {
+      "name": "Max Social Stats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "815871",
+          "on": "4883FF0074234883FF01742F4883FF02743B4883FF0374114883FF0474410FBF747834E9D6EE92FF9066C74478348C000FBF747834E9C4EE92FF9066C7447834F0000FBF747834E9B2EE92FF9066C744783482000FBF747834E9A0EE92FF9066C744783455000FBF747834E98EEE92FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14476A",
+          "on": "E902116D00",
+          "off": "0FBF747834"
+        }
+      ]
+    },
+    {
+      "name": "Max Exp Social Link",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "815901",
+          "on": "66B863006641014608E9BCB593FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "150EC6",
+          "on": "E9364A6C00",
+          "off": "6641014608"
+        }
+      ]
+    },
+    {
+      "name": "Master Code Daytime",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "815961",
+          "on": "C7400401000000EB2E90B10188480AC6400200E97BA28DFF90B10588480AC6400204E96CA28DFF90B10088480AC6400205E95DA28DFF90E957A28DFF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "EFBED",
+          "on": "E96F5D72009090",
+          "off": "C7400401000000"
+        }
+      ]
+    },
+    {
+      "name": "Early morning (MC daytime)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "815968",
+          "on": "EB01",
+          "off": "EB2E"
+        }
+      ]
+    },
+    {
+      "name": "Afterschool (MC daytime)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "815968",
+          "on": "EB10",
+          "off": "EB2E"
+        }
+      ]
+    },
+    {
+      "name": "Evening (MC daytime)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "815968",
+          "on": "EB1F",
+          "off": "EB2E"
+        }
+      ]
+    },
+    {
+      "name": "Master Code Date",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8159C1",
+          "on": "803C7700EB199066FFC2668910E902A28DFF9066FFCA668910E9F6A18DFF9066895008E9ECA18DFF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "EFBCD",
+          "on": "E9EF5D7200909090",
+          "off": "803C770066895008"
+        }
+      ]
+    },
+    {
+      "name": "Decrease 1 day (MC Date)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8159C5",
+          "on": "EB0D",
+          "off": "EB19"
+        }
+      ]
+    },
+    {
+      "name": "Increase 1 day (MC Date)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8159C5",
+          "on": "EB01",
+          "off": "EB19"
+        }
+      ]
+    },
+    {
+      "name": "Yen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "815A01",
+          "on": "4883FB0075234883F900751D4883FF0075174983FA007511C7007F9698000FB7444804E986DA92FF900FB7444804E97BDA92FF90",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1434AA",
+          "on": "E952256D00",
+          "off": "0FB7444804"
+        }
+      ]
+    },
+    {
+      "name": "Master Code Persona id (skin)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "815A51",
+          "on": "4883FB04752D4883F90075274983FC017521EB1F9066FF400666C7000000E9F87C87FF9066FF480666C7000000E9E97C87FF9066C7000000E9DE7C87FF90",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8D767",
+          "on": "E9E5827800",
+          "off": "66C7000000"
+        }
+      ]
+    },
+    {
+      "name": "Increase id (MC id)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "815A63",
+          "on": "EB01",
+          "off": "EB1F"
+        }
+      ]
+    },
+    {
+      "name": "Decrease id (MC id)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "815A63",
+          "on": "EB10",
+          "off": "EB1F"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
 }

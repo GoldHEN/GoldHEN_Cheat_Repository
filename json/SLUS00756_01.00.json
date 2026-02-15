@@ -1,24 +1,33 @@
 {
-    "name": "Resident Evil 2 Claire",
-    "id": "SLUS00756",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "12B50E",
-            "on": "40",
-            "off": "44"
-        }]
-    }, {
-        "name": "Infinite-All-Weapon",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1547A9",
-            "on": "FF",
-            "off": "00"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Resident Evil 2 Claire",
+  "id": "SLUS00756",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12B50E",
+          "on": "40",
+          "off": "44"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1547A9",
+          "on": "FF",
+          "off": "00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

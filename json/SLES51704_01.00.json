@@ -1,24 +1,33 @@
 {
-    "name": "XII Stag",
-    "id": "SLES51704",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-lives",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FE4ED94",
-            "on": "FF",
-            "off": "FF"
-        }]
-    }, {
-        "name": "Infinite-Bomb",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "807FE4EDAC",
-            "on": "FF",
-            "off": "FF"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "XII Stag",
+  "id": "SLES51704",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FE4ED94",
+          "on": "FF",
+          "off": "FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Bomb",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FE4EDAC",
+          "on": "FF",
+          "off": "FF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

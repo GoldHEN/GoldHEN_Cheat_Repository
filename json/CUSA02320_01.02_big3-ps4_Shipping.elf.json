@@ -1,40 +1,54 @@
 {
-    "name": "Uncharted: The Nathan Drake Collection™",
-    "id": "CUSA02320",
-    "version": "01.02",
-    "process": "big3-ps4_Shipping.elf",
-    "mods": [{
-        "name": "L3 + Upper L or Upper R Touch Pad",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "164B800",
-            "on": "5148B98883400008000000488B094883E102750DC680FC4B00000059E9299A46FFC680FC4B00000159E91C9A46FF",
-            "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "AB5243",
-            "on": "E9B865B9009090",
-            "off": "80B8FC4B000000"
-        }]
-    }, {
-        "name": "Enable FPS View - Hold L3",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "56CB94",
-            "on": "0F84551A0000",
-            "off": "0F85551A0000"
-        }]
-    }, {
-        "name": "Enable Task View - Hold L3",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "164B82E",
-            "on": "5348BB8883400008000000488B1B4883E302750DC681B9390000015BE9830FC1FFC681B9390000005BE9760FC1FF",
-            "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "125C7CA",
-            "on": "E95FF03E009090907427",
-            "off": "8A89B93900000A087527"
-        }]
-    }],
-    "credits": ["hejran7"]
+  "name": "Uncharted: The Nathan Drake Collection™",
+  "id": "CUSA02320",
+  "version": "01.02",
+  "process": "big3-ps4_Shipping.elf",
+  "mods": [
+    {
+      "name": "L3 + Upper L or Upper R Touch Pad",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "164B800",
+          "on": "5148B98883400008000000488B094883E102750DC680FC4B00000059E9299A46FFC680FC4B00000159E91C9A46FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "AB5243",
+          "on": "E9B865B9009090",
+          "off": "80B8FC4B000000"
+        }
+      ]
+    },
+    {
+      "name": "Enable FPS View - Hold L3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "56CB94",
+          "on": "0F84551A0000",
+          "off": "0F85551A0000"
+        }
+      ]
+    },
+    {
+      "name": "Enable Task View - Hold L3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "164B82E",
+          "on": "5348BB8883400008000000488B1B4883E302750DC681B9390000015BE9830FC1FFC681B9390000005BE9760FC1FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "125C7CA",
+          "on": "E95FF03E009090907427",
+          "off": "8A89B93900000A087527"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
 }

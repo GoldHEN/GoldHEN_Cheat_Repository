@@ -1,56 +1,76 @@
 {
-    "name": "YAKUZA 0",
-    "id": "CUSA05133",
-    "version": "01.05",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Godmode",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "12F17FC",
-            "on": "49BE10303E00020000004C39F0741349BE10343E00020000004C39F0740466894816C3",
-            "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "2ACFBD",
-            "on": "E93A480401",
-            "off": "66894816C3"
-        }]
-    }, {
-        "name": "Infinite Heat Gauge",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "12F17F0",
-            "on": "C7401C0010A446E942B5F7FE",
-            "off": "000000000000000000000000"
-        }, {
-            "offset": "26CD39",
-            "on": "E9B24A0801",
-            "off": "C5FA11401C"
-        }]
-    }, {
-        "name": "Infinite Money, CP",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7D6F2F",
-            "on": "9090909090",
-            "off": "4C8974C308"
-        }]
-    }, {
-        "name": "Infinite Weapon Durability",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7D5DA9",
-            "on": "909090909090",
-            "off": "6641894C2404"
-        }]
-    }, {
-        "name": "Dance Battle Max Points",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "5CEE99",
-            "on": "4D019FA8000000",
-            "off": "4D019FA8000000"
-        }]
-    }],
-    "credits": ["TLH"]
+  "name": "YAKUZA 0",
+  "id": "CUSA05133",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12F17FC",
+          "on": "49BE10303E00020000004C39F0741349BE10343E00020000004C39F0740466894816C3",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2ACFBD",
+          "on": "E93A480401",
+          "off": "66894816C3"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Heat Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12F17F0",
+          "on": "C7401C0010A446E942B5F7FE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "26CD39",
+          "on": "E9B24A0801",
+          "off": "C5FA11401C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money, CP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7D6F2F",
+          "on": "9090909090",
+          "off": "4C8974C308"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7D5DA9",
+          "on": "909090909090",
+          "off": "6641894C2404"
+        }
+      ]
+    },
+    {
+      "name": "Dance Battle Max Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5CEE99",
+          "on": "4D019FA8000000",
+          "off": "4D019FA8000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
 }

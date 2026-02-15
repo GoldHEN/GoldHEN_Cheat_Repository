@@ -1,57 +1,75 @@
 {
-    "name": "Kena: Bridge of Spirits",
-    "id": "CUSA25000",
-    "version": "01.13",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "9999 Crystal",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7147800",
-            "on": "4489D2C7010F270000E92187CFFA",
-            "off": "0000000000000000000000000000"
-        }, {
-            "offset": "1E3FF29",
-            "on": "E9D278300590",
-            "off": "4489D2448911"
-        }]
-    }, {
-        "name": "Inf Arrow",
-        "type": "checkbox",
-        "memory": [{
-            "section": "1",
-            "offset": "7147810",
-            "on": "837EFC04741E4983C3048906E93C7060FB904983C3048906C70604000000E92A7060FB90837E1C0474E84983C3048906E9187060FB",
-            "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "section": "1",
-            "offset": "274E857",
-            "on": "E9B48F9F0490",
-            "off": "4983C3048906"
-        }]
-    }, {
-        "name": "inf HP & 2 Hit Kill Enemy",
-        "type": "checkbox",
-        "memory": [{
-            "section": "1",
-            "offset": "7147847",
-            "on": "817F106F12833A741C837F10017D16813F0000803F7F21C5E25CC0C5FA1107E98E31D4FA90C5E25CC0C5FA1047FCC5FA1107E97B31D4FA90C5E25CC0C7070000803FE96B31D4FA",
-            "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "section": "1",
-            "offset": "1E8A9F1",
-            "on": "E951CE2B05909090",
-            "off": "C5E25CC0C5FA1107"
-        }]
-    }, {
-        "name": "Inf Rot Use",
-        "type": "checkbox",
-        "memory": [{
-            "section": "1",
-            "offset": "1E8A5A4",
-            "on": "C5EA58C1",
-            "off": "C5EA58C3"
-        }]
-    }],
-    "credits": [""]
+  "name": "Kena: Bridge of Spirits",
+  "id": "CUSA25000",
+  "version": "01.13",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "9999 Crystal",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7147800",
+          "on": "4489D2C7010F270000E92187CFFA",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1E3FF29",
+          "on": "E9D278300590",
+          "off": "4489D2448911"
+        }
+      ]
+    },
+    {
+      "name": "Inf Arrow",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "1",
+          "offset": "7147810",
+          "on": "837EFC04741E4983C3048906E93C7060FB904983C3048906C70604000000E92A7060FB90837E1C0474E84983C3048906E9187060FB",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "section": "1",
+          "offset": "274E857",
+          "on": "E9B48F9F0490",
+          "off": "4983C3048906"
+        }
+      ]
+    },
+    {
+      "name": "inf HP & 2 Hit Kill Enemy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "1",
+          "offset": "7147847",
+          "on": "817F106F12833A741C837F10017D16813F0000803F7F21C5E25CC0C5FA1107E98E31D4FA90C5E25CC0C5FA1047FCC5FA1107E97B31D4FA90C5E25CC0C7070000803FE96B31D4FA",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "section": "1",
+          "offset": "1E8A9F1",
+          "on": "E951CE2B05909090",
+          "off": "C5E25CC0C5FA1107"
+        }
+      ]
+    },
+    {
+      "name": "Inf Rot Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "section": "1",
+          "offset": "1E8A5A4",
+          "on": "C5EA58C1",
+          "off": "C5EA58C3"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    ""
+  ]
 }

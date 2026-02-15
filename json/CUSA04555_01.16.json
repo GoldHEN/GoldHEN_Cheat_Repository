@@ -1,36 +1,48 @@
 {
-    "name": "DEAD OR ALIVE Xtreme 3 Fortune",
-    "id": "CUSA04555",
-    "version": "01.16",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Max Money",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "385F2B",
-            "on": "909090",
-            "off": "0F4EF9"
-        }, {
-            "offset": "272A9D",
-            "on": "4189CB90",
-            "off": "440F4FD9"
-        }, {
-            "offset": "26E6DD",
-            "on": "909090",
-            "off": "0F4EC2"
-        }]
-    }, {
-        "name": "Max XP",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "87F800",
-            "on": "488D1544C03D0041BFFFFFFF00E95A81B5FF",
-            "off": "000000000000000000000000000000000000"
-        }, {
-            "offset": "3D7965",
-            "on": "E9967E4A009090",
-            "off": "488D1544C03D00"
-        }]
-    }],
-    "credits": ["TLH"]
+  "name": "DEAD OR ALIVE Xtreme 3 Fortune",
+  "id": "CUSA04555",
+  "version": "01.16",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "385F2B",
+          "on": "909090",
+          "off": "0F4EF9"
+        },
+        {
+          "offset": "272A9D",
+          "on": "4189CB90",
+          "off": "440F4FD9"
+        },
+        {
+          "offset": "26E6DD",
+          "on": "909090",
+          "off": "0F4EC2"
+        }
+      ]
+    },
+    {
+      "name": "Max XP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "87F800",
+          "on": "488D1544C03D0041BFFFFFFF00E95A81B5FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3D7965",
+          "on": "E9967E4A009090",
+          "off": "488D1544C03D00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
 }

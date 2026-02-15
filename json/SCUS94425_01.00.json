@@ -1,28 +1,38 @@
 {
-    "name": "Spyro 2",
-    "id": "SCUS94425",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Lives",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "11E286",
-            "on": "00",
-            "off": "42"
-        }]
-    }, {
-        "name": "Infinite Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1163B8",
-            "on": "00",
-            "off": "FF"
-        }, {
-            "offset": "1163B9",
-            "on": "00",
-            "off": "FF"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Spyro 2",
+  "id": "SCUS94425",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11E286",
+          "on": "00",
+          "off": "42"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1163B8",
+          "on": "00",
+          "off": "FF"
+        },
+        {
+          "offset": "1163B9",
+          "on": "00",
+          "off": "FF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

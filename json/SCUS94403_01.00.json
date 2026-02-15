@@ -1,32 +1,44 @@
 {
-    "name": "Philosoma",
-    "id": "SCUS94403",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-lives",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "11BBFE",
-            "on": "00",
-            "off": "42"
-        }]
-    }, {
-        "name": "Infinite-Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "11B912",
-            "on": "00",
-            "off": "82"
-        }]
-    }, {
-        "name": "Infinite Buster Grenades",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "11BFD6",
-            "on": "02",
-            "off": "62"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Philosoma",
+  "id": "SCUS94403",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11BBFE",
+          "on": "00",
+          "off": "42"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11B912",
+          "on": "00",
+          "off": "82"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Buster Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11BFD6",
+          "on": "02",
+          "off": "62"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

@@ -1,32 +1,44 @@
 {
-    "name": "Mega Man 8",
-    "id": "SLES01064",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1F29DC",
-            "on": "20",
-            "off": "23"
-        }]
-    }, {
-        "name": "Infinite-lives",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1EC612",
-            "on": "09",
-            "off": "42"
-        }]
-    }, {
-        "name": "Inf-Weapon-mega-Ball",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1FB89D",
-            "on": "99",
-            "off": "10"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Mega Man 8",
+  "id": "SLES01064",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F29DC",
+          "on": "20",
+          "off": "23"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1EC612",
+          "on": "09",
+          "off": "42"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Weapon-mega-Ball",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FB89D",
+          "on": "99",
+          "off": "10"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

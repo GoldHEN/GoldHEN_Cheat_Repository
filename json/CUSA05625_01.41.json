@@ -1,40 +1,56 @@
 {
-    "name": "Assassin's Creed® Origins",
-    "id": "CUSA05625",
-    "version": "01.41",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Godmode",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3550C06",
-            "on": "018FD4",
-            "off": "898FD4"
-        }]
-    }, {
-        "name": "Infinite Arrows",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3A3E529",
-            "on": "9090",
-            "off": "29C8"
-        }]
-    }, {
-        "name": "21 Skillpoints / Kill",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3D77C10",
-            "on": "6641C78314010000FFFF",
-            "off": "4529E74189B314010000"
-        }]
-    }, {
-        "name": "Max Money",
-        "type": "button",
-        "memory": [{
-            "offset": "3A3E524",
-            "on": "B87E9698009090",
-            "off": "B87E9698009090"
-        }]
-    }],
-    "credits": ["Talixme", "Weysincha"]
+  "name": "Assassin's Creed® Origins",
+  "id": "CUSA05625",
+  "version": "01.41",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3550C06",
+          "on": "018FD4",
+          "off": "898FD4"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Arrows",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3A3E529",
+          "on": "9090",
+          "off": "29C8"
+        }
+      ]
+    },
+    {
+      "name": "21 Skillpoints / Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3D77C10",
+          "on": "6641C78314010000FFFF",
+          "off": "4529E74189B314010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "3A3E524",
+          "on": "B87E9698009090",
+          "off": "B87E9698009090"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme",
+    "Weysincha"
+  ]
 }

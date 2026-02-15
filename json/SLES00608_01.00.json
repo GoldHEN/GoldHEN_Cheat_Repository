@@ -1,16 +1,22 @@
 {
-    "name": "CT Special Forces",
-    "id": "SLES00608",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "infinite lives ",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "11B87A",
-            "on": "99",
-            "off": "42"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "CT Special Forces",
+  "id": "SLES00608",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "infinite lives ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11B87A",
+          "on": "99",
+          "off": "42"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

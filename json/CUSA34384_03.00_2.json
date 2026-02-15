@@ -1,192 +1,257 @@
 {
-    "name": "God of War Ragnarok",
-    "id": "CUSA34384",
-    "version": "03.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Godmode",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "176B000",
-            "on": "4881FF90214E04740BC5FA104C2460E98EF6F7FEB8E0FCFFFFF30F2AC8C5FA114C2460EBEA909090",
-            "off": "4881FF90214E04740BC5FA104C2460E98EF6F7FEB8E0FCFFFFF30F2AC8C5FA114C2460EBEA909090"
-        }, {
-            "offset": "6EA69C",
-            "on": "E95F09080190",
-            "off": "C5FA104C2460"
-        }]
-    }, {
-        "name": "Infinite Rage",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "176B130",
-            "on": "4181FC49147CD6740AC5EA584328E991D13AFFBEF4010000F30F2AC6C5FA114328EBE690",
-            "off": "4181FC49147CD6740AC5EA584328E991D13AFFBEF4010000F30F2AC6C5FA114328EBE690"
-        }, {
-            "offset": "B182CF",
-            "on": "E95C2EC500",
-            "off": "C5EA584328"
-        }, {
-            "offset": "176B170",
-            "on": "4983FB02740AC5FA584328E9F2C84EFF41BEF4010000F3410F2AC6C5FA114328EBE99090",
-            "off": "4983FB02740AC5FA584328E9F2C84EFF41BEF4010000F3410F2AC6C5FA114328EBE99090"
-        }, {
-            "offset": "C57A6D",
-            "on": "E9FE36B100",
-            "off": "C5FA584328"
-        }]
-    }, {
-        "name": "Instant R3",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "176B030",
-            "on": "566681FE8BA7740CC4C17A1056285EE9976D00FFBE64000000F30F2AC6EBE990",
-            "off": "566681FE8BA7740CC4C17A1056285EE9976D00FFBE64000000F30F2AC6EBE990"
-        }, {
-            "offset": "771DD5",
-            "on": "E95692FF0090",
-            "off": "C4C17A105628"
-        }]
-    }, {
-        "name": "No Cooldown (no cooldown for weapons use with combo L1 + *)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "A5DD02",
-            "on": "C5FA104D809090",
-            "off": "C4C17A104C2438"
-        }]
-    }, {
-        "name": "Infinite Projectiles",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "176B200",
-            "on": "669C4983FB027417664181F8F021740FC5FA108D90DFFFFF669DE912E30FFFC5FA109D80DFFFFFEBE7909090",
-            "off": "669C4983FB027417664181F8F021740FC5FA108D90DFFFFF669DE912E30FFFC5FA109D80DFFFFFEBE7909090"
-        }, {
-            "offset": "869529",
-            "on": "E9D21CF000909090",
-            "off": "C5FA108D90DFFFFF"
-        }, {
-            "offset": "176B250",
-            "on": "BF32000000F30F2ACFC5FA11084889C7E91B02EEFE909090",
-            "off": "BF32000000F30F2ACFC5FA11084889C7E91B02EEFE909090"
-        }, {
-            "offset": "64B457",
-            "on": "E9F4FD1101",
-            "off": "4889C7EB24"
-        }]
-    }, {
-        "name": "Resources up (on craft/sell)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "176B0B0",
-            "on": "0F84AEF44BFF669C85D2780AF00116669DE99AF44BFFF7DAEBF29090",
-            "off": "0F84AEF44BFF669C85D2780AF00116669DE99AF44BFFF7DAEBF29090"
-        }, {
-            "offset": "C2A55B",
-            "on": "E9500BB400",
-            "off": "7407F00116"
-        }]
-    }, {
-        "name": "Damage Multiplier (default: x2)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "176B070",
-            "on": "4180FBF0720BC5FA114C2460E98DDEF7FEC5F2590D77020000EBEB90",
-            "off": "4180FBF0720BC5FA114C2460E98DDEF7FEC5F2590D77020000EBEB90"
-        }, {
-            "offset": "6E8F08",
-            "on": "E96321080190",
-            "off": "C5FA114C2460"
-        }, {
-            "offset": "176B300",
-            "on": "00000040",
-            "off": "0000803F"
-        }]
-    }, {
-        "name": "Damage Multiplier x0.5",
-        "type": "button",
-        "memory": [{
-            "offset": "176B300",
-            "on": "0000003F",
-            "off": "0000003F"
-        }]
-    }, {
-        "name": "Damage Multiplier x3",
-        "type": "button",
-        "memory": [{
-            "offset": "176B300",
-            "on": "00004040",
-            "off": "00004040"
-        }]
-    }, {
-        "name": "Damage Multiplier x5",
-        "type": "button",
-        "memory": [{
-            "offset": "176B300",
-            "on": "0000A040",
-            "off": "0000A040"
-        }]
-    }, {
-        "name": "XP/HS/Resource Multiplier (default: x2)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "176B0F0",
-            "on": "8B0D1A020000410FAF4D0841894D0889D1418B5508E902F313FF9090",
-            "off": "8B0D1A020000410FAF4D0841894D0889D1418B5508E902F313FF9090"
-        }, {
-            "offset": "8AA406",
-            "on": "E9E50CEC0090",
-            "off": "89D1418B5508"
-        }, {
-            "offset": "176B310",
-            "on": "02000000",
-            "off": "01000000"
-        }]
-    }, {
-        "name": "XP/HS/Resource Multiplier (on get) (default: x3)",
-        "type": "button",
-        "memory": [{
-            "offset": "176B310",
-            "on": "03000000",
-            "off": "03000000"
-        }]
-    }, {
-        "name": "XP/HS/Resource Multiplier (on get) (default: x5)",
-        "type": "button",
-        "memory": [{
-            "offset": "176B310",
-            "on": "05000000",
-            "off": "05000000"
-        }]
-    }, {
-        "name": "XP/HS/Resource Multiplier (on get) (default: x10)",
-        "type": "button",
-        "memory": [{
-            "offset": "176B310",
-            "on": "0A000000",
-            "off": "0A000000"
-        }]
-    }, {
-        "name": "XP/HS/Resource Multiplier (on get) (default: x25)",
-        "type": "button",
-        "memory": [{
-            "offset": "176B310",
-            "on": "19000000",
-            "off": "19000000"
-        }]
-    }, {
-        "name": "Wishing Well Fix",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "176B1C0",
-            "on": "669C4983FC1974134983FC1A740D898D40FFFFFF669DE9A7174BFFB964000000EBEC9090",
-            "off": "669C4983FC1974134983FC1A740D898D40FFFFFF669DE9A7174BFFB964000000EBEC9090"
-        }, {
-            "offset": "C2A586",
-            "on": "E9350CB40090",
-            "off": "898D40FFFFFF"
-        }]
-    }],
-    "credits": ["JustGotenks, edit by Chronoss"]
+  "name": "God of War Ragnarok",
+  "id": "CUSA34384",
+  "version": "03.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "176B000",
+          "on": "4881FF90214E04740BC5FA104C2460E98EF6F7FEB8E0FCFFFFF30F2AC8C5FA114C2460EBEA909090",
+          "off": "4881FF90214E04740BC5FA104C2460E98EF6F7FEB8E0FCFFFFF30F2AC8C5FA114C2460EBEA909090"
+        },
+        {
+          "offset": "6EA69C",
+          "on": "E95F09080190",
+          "off": "C5FA104C2460"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Rage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "176B130",
+          "on": "4181FC49147CD6740AC5EA584328E991D13AFFBEF4010000F30F2AC6C5FA114328EBE690",
+          "off": "4181FC49147CD6740AC5EA584328E991D13AFFBEF4010000F30F2AC6C5FA114328EBE690"
+        },
+        {
+          "offset": "B182CF",
+          "on": "E95C2EC500",
+          "off": "C5EA584328"
+        },
+        {
+          "offset": "176B170",
+          "on": "4983FB02740AC5FA584328E9F2C84EFF41BEF4010000F3410F2AC6C5FA114328EBE99090",
+          "off": "4983FB02740AC5FA584328E9F2C84EFF41BEF4010000F3410F2AC6C5FA114328EBE99090"
+        },
+        {
+          "offset": "C57A6D",
+          "on": "E9FE36B100",
+          "off": "C5FA584328"
+        }
+      ]
+    },
+    {
+      "name": "Instant R3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "176B030",
+          "on": "566681FE8BA7740CC4C17A1056285EE9976D00FFBE64000000F30F2AC6EBE990",
+          "off": "566681FE8BA7740CC4C17A1056285EE9976D00FFBE64000000F30F2AC6EBE990"
+        },
+        {
+          "offset": "771DD5",
+          "on": "E95692FF0090",
+          "off": "C4C17A105628"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown (no cooldown for weapons use with combo L1 + *)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A5DD02",
+          "on": "C5FA104D809090",
+          "off": "C4C17A104C2438"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Projectiles",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "176B200",
+          "on": "669C4983FB027417664181F8F021740FC5FA108D90DFFFFF669DE912E30FFFC5FA109D80DFFFFFEBE7909090",
+          "off": "669C4983FB027417664181F8F021740FC5FA108D90DFFFFF669DE912E30FFFC5FA109D80DFFFFFEBE7909090"
+        },
+        {
+          "offset": "869529",
+          "on": "E9D21CF000909090",
+          "off": "C5FA108D90DFFFFF"
+        },
+        {
+          "offset": "176B250",
+          "on": "BF32000000F30F2ACFC5FA11084889C7E91B02EEFE909090",
+          "off": "BF32000000F30F2ACFC5FA11084889C7E91B02EEFE909090"
+        },
+        {
+          "offset": "64B457",
+          "on": "E9F4FD1101",
+          "off": "4889C7EB24"
+        }
+      ]
+    },
+    {
+      "name": "Resources up (on craft/sell)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "176B0B0",
+          "on": "0F84AEF44BFF669C85D2780AF00116669DE99AF44BFFF7DAEBF29090",
+          "off": "0F84AEF44BFF669C85D2780AF00116669DE99AF44BFFF7DAEBF29090"
+        },
+        {
+          "offset": "C2A55B",
+          "on": "E9500BB400",
+          "off": "7407F00116"
+        }
+      ]
+    },
+    {
+      "name": "Damage Multiplier (default: x2)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "176B070",
+          "on": "4180FBF0720BC5FA114C2460E98DDEF7FEC5F2590D77020000EBEB90",
+          "off": "4180FBF0720BC5FA114C2460E98DDEF7FEC5F2590D77020000EBEB90"
+        },
+        {
+          "offset": "6E8F08",
+          "on": "E96321080190",
+          "off": "C5FA114C2460"
+        },
+        {
+          "offset": "176B300",
+          "on": "00000040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Damage Multiplier x0.5",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "176B300",
+          "on": "0000003F",
+          "off": "0000003F"
+        }
+      ]
+    },
+    {
+      "name": "Damage Multiplier x3",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "176B300",
+          "on": "00004040",
+          "off": "00004040"
+        }
+      ]
+    },
+    {
+      "name": "Damage Multiplier x5",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "176B300",
+          "on": "0000A040",
+          "off": "0000A040"
+        }
+      ]
+    },
+    {
+      "name": "XP/HS/Resource Multiplier (default: x2)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "176B0F0",
+          "on": "8B0D1A020000410FAF4D0841894D0889D1418B5508E902F313FF9090",
+          "off": "8B0D1A020000410FAF4D0841894D0889D1418B5508E902F313FF9090"
+        },
+        {
+          "offset": "8AA406",
+          "on": "E9E50CEC0090",
+          "off": "89D1418B5508"
+        },
+        {
+          "offset": "176B310",
+          "on": "02000000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "XP/HS/Resource Multiplier (on get) (default: x3)",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "176B310",
+          "on": "03000000",
+          "off": "03000000"
+        }
+      ]
+    },
+    {
+      "name": "XP/HS/Resource Multiplier (on get) (default: x5)",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "176B310",
+          "on": "05000000",
+          "off": "05000000"
+        }
+      ]
+    },
+    {
+      "name": "XP/HS/Resource Multiplier (on get) (default: x10)",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "176B310",
+          "on": "0A000000",
+          "off": "0A000000"
+        }
+      ]
+    },
+    {
+      "name": "XP/HS/Resource Multiplier (on get) (default: x25)",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "176B310",
+          "on": "19000000",
+          "off": "19000000"
+        }
+      ]
+    },
+    {
+      "name": "Wishing Well Fix",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "176B1C0",
+          "on": "669C4983FC1974134983FC1A740D898D40FFFFFF669DE9A7174BFFB964000000EBEC9090",
+          "off": "669C4983FC1974134983FC1A740D898D40FFFFFF669DE9A7174BFFB964000000EBEC9090"
+        },
+        {
+          "offset": "C2A586",
+          "on": "E9350CB40090",
+          "off": "898D40FFFFFF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "JustGotenks, edit by Chronoss"
+  ]
 }

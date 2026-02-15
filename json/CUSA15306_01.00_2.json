@@ -1,68 +1,91 @@
 {
-    "name": "Terminator: Resistance",
-    "id": "CUSA15306",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5EAC0",
-            "on": "4C89F7C60300E997AF9580",
-            "off": "0000000000000000000000"
-        }, {
-            "offset": "5B9A5B",
-            "on": "E960506A7F9090",
-            "off": "4C89F7C5FA5C03"
-        }]
-    }, {
-        "name": "Infinite Items",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FDD0",
-            "on": "42034CC008E9B93A8F80",
-            "off": "00000000000000000000"
-        }, {
-            "offset": "55388E",
-            "on": "E93DC5707F",
-            "off": "42294CC008"
-        }]
-    }, {
-        "name": "Infinite Ammo/No Reload (Use Infinite Items)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5FDE0",
-            "on": "41038E80070000E90EB9B180",
-            "off": "000000000000000000000000"
-        }, {
-            "offset": "77B6F3",
-            "on": "E9E8464E7F9090",
-            "off": "41FF8E80070000"
-        }]
-    }, {
-        "name": "Max XP On Kill",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5EB00",
-            "on": "41038E6C060000E94E87AC80",
-            "off": "000000000000000000000000"
-        }, {
-            "offset": "727253",
-            "on": "E9A878537F9090",
-            "off": "418B8E6C060000"
-        }]
-    }, {
-        "name": "Infinite Skill Points",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FC5F040",
-            "on": "038F74060000E97B9AAC80",
-            "off": "0000000000000000000000"
-        }, {
-            "offset": "728AC0",
-            "on": "E97B65537F90",
-            "off": "898774060000"
-        }]
-    }],
-    "credits": ["Celogamez_9.00"]
+  "name": "Terminator: Resistance",
+  "id": "CUSA15306",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5EAC0",
+          "on": "4C89F7C60300E997AF9580",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "5B9A5B",
+          "on": "E960506A7F9090",
+          "off": "4C89F7C5FA5C03"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FDD0",
+          "on": "42034CC008E9B93A8F80",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "55388E",
+          "on": "E93DC5707F",
+          "off": "42294CC008"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/No Reload (Use Infinite Items)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FDE0",
+          "on": "41038E80070000E90EB9B180",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "77B6F3",
+          "on": "E9E8464E7F9090",
+          "off": "41FF8E80070000"
+        }
+      ]
+    },
+    {
+      "name": "Max XP On Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5EB00",
+          "on": "41038E6C060000E94E87AC80",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "727253",
+          "on": "E9A878537F9090",
+          "off": "418B8E6C060000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F040",
+          "on": "038F74060000E97B9AAC80",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "728AC0",
+          "on": "E97B65537F90",
+          "off": "898774060000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez_9.00"
+  ]
 }

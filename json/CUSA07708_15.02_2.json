@@ -1,96 +1,132 @@
 {
-    "name": "Monster Hunter World: Iceborne",
-    "id": "CUSA07708",
-    "version": "15.02",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "invisible to Monsters",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3F0DFF3",
-            "on": "90909090",
-            "off": "C5F82EC8"
-        }]
-    }, {
-        "name": "Inf Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "2CDE4AA",
-            "on": "9090909090",
-            "off": "C5FA114064"
-        }]
-    }, {
-        "name": "Inf Stamina",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "2E4874E",
-            "on": "9090909090",
-            "off": "C5FA10436C"
-        }]
-    }, {
-        "name": "Inf Item",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3A223C1",
-            "on": "909090",
-            "off": "4501F7"
-        }]
-    }, {
-        "name": "inf Item Pouch",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3A22521",
-            "on": "90909090",
-            "off": "44897E0C"
-        }]
-    }, {
-        "name": "Max Money on purchase from women armoery",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "433296D",
-            "on": "01D1",
-            "off": "29D9"
-        }]
-    }, {
-        "name": "Item max when roll back in craft",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3A2226F",
-            "on": "44894E0C",
-            "off": "44897E0C"
-        }]
-    }, {
-        "name": "item incress when sawp with high number in sell box",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "41BD57B",
-            "on": "41894E0C",
-            "off": "4189460C"
-        }]
-    }, {
-        "name": "incress res on get",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "3A22536",
-            "on": "89460C",
-            "off": "894E0C"
-        }]
-    }, {
-        "name": "Max PTS on get ",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "2ED705B",
-            "on": "01D0",
-            "off": "01D8"
-        }]
-    }, {
-        "name": "max throwable stons",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "467BBCC",
-            "on": "8984C3407C0000",
-            "off": "898CC3407C0000"
-        }]
-    }],
-    "credits": ["Muhanned"]
+  "name": "Monster Hunter World: Iceborne",
+  "id": "CUSA07708",
+  "version": "15.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "invisible to Monsters",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3F0DFF3",
+          "on": "90909090",
+          "off": "C5F82EC8"
+        }
+      ]
+    },
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2CDE4AA",
+          "on": "9090909090",
+          "off": "C5FA114064"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2E4874E",
+          "on": "9090909090",
+          "off": "C5FA10436C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Item",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3A223C1",
+          "on": "909090",
+          "off": "4501F7"
+        }
+      ]
+    },
+    {
+      "name": "inf Item Pouch",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3A22521",
+          "on": "90909090",
+          "off": "44897E0C"
+        }
+      ]
+    },
+    {
+      "name": "Max Money on purchase from women armoery",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "433296D",
+          "on": "01D1",
+          "off": "29D9"
+        }
+      ]
+    },
+    {
+      "name": "Item max when roll back in craft",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3A2226F",
+          "on": "44894E0C",
+          "off": "44897E0C"
+        }
+      ]
+    },
+    {
+      "name": "item incress when sawp with high number in sell box",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "41BD57B",
+          "on": "41894E0C",
+          "off": "4189460C"
+        }
+      ]
+    },
+    {
+      "name": "incress res on get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3A22536",
+          "on": "89460C",
+          "off": "894E0C"
+        }
+      ]
+    },
+    {
+      "name": "Max PTS on get ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2ED705B",
+          "on": "01D0",
+          "off": "01D8"
+        }
+      ]
+    },
+    {
+      "name": "max throwable stons",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "467BBCC",
+          "on": "8984C3407C0000",
+          "off": "898CC3407C0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Muhanned"
+  ]
 }

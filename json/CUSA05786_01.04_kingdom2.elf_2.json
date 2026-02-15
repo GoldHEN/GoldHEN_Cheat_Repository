@@ -1,104 +1,141 @@
 {
-    "name": "KINGDOM HEARTS - HD 1.5+2.5 ReMIX -",
-    "id": "CUSA05786",
-    "version": "01.04",
-    "process": "kingdom2.elf",
-    "mods": [{
-        "name": "Kingdom Hearts 2 HD undub 1.04",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "5E2A71",
-            "on": "C390",
-            "off": "0000"
-        }]
-    }, {
-        "name": "Infinite Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "5E2A81",
-            "on": "8B4704890789C190E9176ECCFF",
-            "off": "00000000000000000000000000"
-        }, {
-            "offset": "2A98A0",
-            "on": "E9DC913300",
-            "off": "8B470489C1"
-        }]
-    }, {
-        "name": "Infinite MP",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "5E2B00",
-            "on": "8B838401000089838001000090E9EF63CCFF",
-            "off": "000000000000000000000000000000000000"
-        }, {
-            "offset": "2A8EFB",
-            "on": "E9009C330090",
-            "off": "898380010000"
-        }]
-    }, {
-        "name": "All Keyblades (buy item on shop)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "5E2AA0",
-            "on": "889C088035000066C780A2350000010166C7807B3600000101C6807F36000001C7808036000001010101C7808436000001010101C7808836000001010101C7808C3600000101010190E9784BC8FF",
-            "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "26765F",
-            "on": "E93CB437009090",
-            "off": "889C0880350000"
-        }]
-    }, {
-        "name": "99 Discard Items",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "26796D",
-            "on": "B26490",
-            "off": "83FA02"
-        }]
-    }, {
-        "name": "Max Exp",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "26A658",
-            "on": "0F4FCF",
-            "off": "0F4CCF"
-        }]
-    }, {
-        "name": "Max Munny",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "20175F",
-            "on": "0F4FCB",
-            "off": "0F42CB"
-        }]
-    }, {
-        "name": "Max Drive",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "259C1D",
-            "on": "89C8",
-            "off": "39C8"
-        }]
-    }, {
-        "name": "Infinite Drive Cooldown",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "2A92EE",
-            "on": "C5FA1183B4010000",
-            "off": "C5FA119BB4010000"
-        }]
-    }, {
-        "name": "All Materials (synthesis shop)",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "5E2B20",
-            "on": "41C7849E344A00006300000090E9792AB9FF",
-            "off": "000000000000000000000000000000000000"
-        }, {
-            "offset": "1755A0",
-            "on": "E97BD54600909090909090",
-            "off": "4183BC9E344A000000740A"
-        }]
-    }],
-    "credits": ["d01v"]
+  "name": "KINGDOM HEARTS - HD 1.5+2.5 ReMIX -",
+  "id": "CUSA05786",
+  "version": "01.04",
+  "process": "kingdom2.elf",
+  "mods": [
+    {
+      "name": "Kingdom Hearts 2 HD undub 1.04",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E2A71",
+          "on": "C390",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E2A81",
+          "on": "8B4704890789C190E9176ECCFF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "2A98A0",
+          "on": "E9DC913300",
+          "off": "8B470489C1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E2B00",
+          "on": "8B838401000089838001000090E9EF63CCFF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A8EFB",
+          "on": "E9009C330090",
+          "off": "898380010000"
+        }
+      ]
+    },
+    {
+      "name": "All Keyblades (buy item on shop)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E2AA0",
+          "on": "889C088035000066C780A2350000010166C7807B3600000101C6807F36000001C7808036000001010101C7808436000001010101C7808836000001010101C7808C3600000101010190E9784BC8FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "26765F",
+          "on": "E93CB437009090",
+          "off": "889C0880350000"
+        }
+      ]
+    },
+    {
+      "name": "99 Discard Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26796D",
+          "on": "B26490",
+          "off": "83FA02"
+        }
+      ]
+    },
+    {
+      "name": "Max Exp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26A658",
+          "on": "0F4FCF",
+          "off": "0F4CCF"
+        }
+      ]
+    },
+    {
+      "name": "Max Munny",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "20175F",
+          "on": "0F4FCB",
+          "off": "0F42CB"
+        }
+      ]
+    },
+    {
+      "name": "Max Drive",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "259C1D",
+          "on": "89C8",
+          "off": "39C8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Drive Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A92EE",
+          "on": "C5FA1183B4010000",
+          "off": "C5FA119BB4010000"
+        }
+      ]
+    },
+    {
+      "name": "All Materials (synthesis shop)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E2B20",
+          "on": "41C7849E344A00006300000090E9792AB9FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1755A0",
+          "on": "E97BD54600909090909090",
+          "off": "4183BC9E344A000000740A"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
 }

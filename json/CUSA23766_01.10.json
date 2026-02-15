@@ -1,116 +1,155 @@
 {
-    "name": "Tiny Tina's Wonderlands",
-    "id": "CUSA23766",
-    "version": "01.10",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Inf HP",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "A697800",
-            "on": "83B97C010000167517C787A00000000080BB45C5FA108FA0000000E95FB709FBC5FA118FA0000000E952B709FB",
-            "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-        }, {
-            "offset": "5732F77",
-            "on": "E98448F604909090",
-            "off": "C5FA118FA0000000"
-        }]
-    }, {
-        "name": "Inf XP",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "A69782F",
-            "on": "B87F969800418985C4010000E98B3F0CF7",
-            "off": "0000000000000000000000000000000000"
-        }, {
-            "offset": "175B7C4",
-            "on": "E966C0F3089090",
-            "off": "418985C4010000"
-        }]
-    }, {
-        "name": "Inf Skill Point use it once After max XP cheat",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "A697842",
-            "on": "90E9808B7FF6",
-            "off": "000000000000"
-        }, {
-            "offset": "E903C1",
-            "on": "E97C7480099090",
-            "off": "41898658010000"
-        }]
-    }, {
-        "name": "Inf Money on gain",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "A69784A",
-            "on": "B97F96980042894C3818E9D6A970FB",
-            "off": "000000000000000000000000000000"
-        }, {
-            "offset": "5DA222A",
-            "on": "E91B568F04",
-            "off": "42894C3818"
-        }]
-    }, {
-        "name": "Inf Money on spend ",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "A69785B",
-            "on": "B97F9698008908E98DB470FB",
-            "off": "000000000000000000000000"
-        }, {
-            "offset": "5DA2CED",
-            "on": "E9694B8F049090",
-            "off": "8908428B44360C"
-        }]
-    }, {
-        "name": "Inf Ammo use it with No Reload",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "A697869",
-            "on": "90E943CD09FB",
-            "off": "000000000000"
-        }, {
-            "offset": "57345AA",
-            "on": "E9BA32F604909090",
-            "off": "C5FA118FA0000000"
-        }]
-    }, {
-        "name": "No Reload",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "A697871",
-            "on": "90E94DC87CFB",
-            "off": "000000000000"
-        }, {
-            "offset": "5E640BD",
-            "on": "E9AF3783049090",
-            "off": "418987B0010000"
-        }]
-    }, {
-        "name": "Inf Myth Points use it once After max XP cheat",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "A697879",
-            "on": "90E9C5C70CF7",
-            "off": "000000000000"
-        }, {
-            "offset": "176403D",
-            "on": "E93738F3089090",
-            "off": "4189B778010000"
-        }]
-    }, {
-        "name": "Inf Hero Points use it once After max XP cheat",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "A697881",
-            "on": "90E9FD6937F7",
-            "off": "000000000000"
-        }, {
-            "offset": "1A0E27D",
-            "on": "E9FF95C8089090",
-            "off": "4589A690060000"
-        }]
-    }],
-    "credits": ["2B"]
+  "name": "Tiny Tina's Wonderlands",
+  "id": "CUSA23766",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A697800",
+          "on": "83B97C010000167517C787A00000000080BB45C5FA108FA0000000E95FB709FBC5FA118FA0000000E952B709FB",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5732F77",
+          "on": "E98448F604909090",
+          "off": "C5FA118FA0000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf XP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A69782F",
+          "on": "B87F969800418985C4010000E98B3F0CF7",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "175B7C4",
+          "on": "E966C0F3089090",
+          "off": "418985C4010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Skill Point use it once After max XP cheat",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A697842",
+          "on": "90E9808B7FF6",
+          "off": "000000000000"
+        },
+        {
+          "offset": "E903C1",
+          "on": "E97C7480099090",
+          "off": "41898658010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money on gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A69784A",
+          "on": "B97F96980042894C3818E9D6A970FB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "5DA222A",
+          "on": "E91B568F04",
+          "off": "42894C3818"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money on spend ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A69785B",
+          "on": "B97F9698008908E98DB470FB",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "5DA2CED",
+          "on": "E9694B8F049090",
+          "off": "8908428B44360C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo use it with No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A697869",
+          "on": "90E943CD09FB",
+          "off": "000000000000"
+        },
+        {
+          "offset": "57345AA",
+          "on": "E9BA32F604909090",
+          "off": "C5FA118FA0000000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A697871",
+          "on": "90E94DC87CFB",
+          "off": "000000000000"
+        },
+        {
+          "offset": "5E640BD",
+          "on": "E9AF3783049090",
+          "off": "418987B0010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Myth Points use it once After max XP cheat",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A697879",
+          "on": "90E9C5C70CF7",
+          "off": "000000000000"
+        },
+        {
+          "offset": "176403D",
+          "on": "E93738F3089090",
+          "off": "4189B778010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Hero Points use it once After max XP cheat",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A697881",
+          "on": "90E9FD6937F7",
+          "off": "000000000000"
+        },
+        {
+          "offset": "1A0E27D",
+          "on": "E9FF95C8089090",
+          "off": "4589A690060000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "2B"
+  ]
 }

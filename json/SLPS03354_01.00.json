@@ -1,32 +1,43 @@
 {
-    "name": "Zanac X Zanac",
-    "id": "SLPS03354",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Invincible",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1417C8",
-            "on": "00",
-            "off": "FF"
-        }, {
-            "offset": "1417C9",
-            "on": "00",
-            "off": "FF"
-        }]
-    }, {
-        "name": "Infinite-lives",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "142A38",
-            "on": "00",
-            "off": "FF"
-        }, {
-            "offset": "142A39",
-            "on": "00",
-            "off": "FF"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "Zanac X Zanac",
+  "id": "SLPS03354",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1417C8",
+          "on": "00",
+          "off": "FF"
+        },
+        {
+          "offset": "1417C9",
+          "on": "00",
+          "off": "FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "142A38",
+          "on": "00",
+          "off": "FF"
+        },
+        {
+          "offset": "142A39",
+          "on": "00",
+          "off": "FF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }

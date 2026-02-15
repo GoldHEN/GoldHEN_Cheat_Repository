@@ -1,80 +1,110 @@
 {
-    "name": "Dying Light",
-    "id": "CUSA03991",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "A659DE",
-            "on": "C5FA1193F4110000",
-            "off": "C5FA1183F4110000"
-        }]
-    }, {
-        "name": "Infinite Ammo",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "5FCB31",
-            "on": "9090909090",
-            "off": "E87AD2EB00"
-        }]
-    }, {
-        "name": "Infinite Grappling Stamina",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "C36FD8",
-            "on": "9090909090",
-            "off": "C5FA114340"
-        }]
-    }, {
-        "name": "Buy To Earn Money",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "B86DC9",
-            "on": "4401F8",
-            "off": "4429F8"
-        }]
-    }, {
-        "name": "Infinite Weapon Durability",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "5FCF76",
-            "on": "9090909090",
-            "off": "E87AD2EB00"
-        }]
-    }, {
-        "name": "Infinite Items",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "5FCB3B",
-            "on": "909090",
-            "off": "458937"
-        }]
-    }, {
-        "name": "Weather Change",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "10EC12D",
-            "on": "C5FA1108",
-            "off": "C5FA1100"
-        }]
-    }, {
-        "name": "Wall Hack",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "10EC12D",
-            "on": "C5F82912",
-            "off": "C5F82902"
-        }]
-    }, {
-        "name": "Scramble Menu Text",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "7FD769A3",
-            "on": "909090",
-            "off": "668932"
-        }]
-    }],
-    "credits": ["TylerMods"]
+  "name": "Dying Light",
+  "id": "CUSA03991",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A659DE",
+          "on": "C5FA1193F4110000",
+          "off": "C5FA1183F4110000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5FCB31",
+          "on": "9090909090",
+          "off": "E87AD2EB00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Grappling Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C36FD8",
+          "on": "9090909090",
+          "off": "C5FA114340"
+        }
+      ]
+    },
+    {
+      "name": "Buy To Earn Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B86DC9",
+          "on": "4401F8",
+          "off": "4429F8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5FCF76",
+          "on": "9090909090",
+          "off": "E87AD2EB00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5FCB3B",
+          "on": "909090",
+          "off": "458937"
+        }
+      ]
+    },
+    {
+      "name": "Weather Change",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10EC12D",
+          "on": "C5FA1108",
+          "off": "C5FA1100"
+        }
+      ]
+    },
+    {
+      "name": "Wall Hack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10EC12D",
+          "on": "C5F82912",
+          "off": "C5F82902"
+        }
+      ]
+    },
+    {
+      "name": "Scramble Menu Text",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FD769A3",
+          "on": "909090",
+          "off": "668932"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TylerMods"
+  ]
 }

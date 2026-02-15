@@ -1,40 +1,55 @@
 {
-    "name": "CT Special Forces",
-    "id": "SLES03986",
-    "version": "01.00",
-    "process": "eboot.bin",
-    "mods": [{
-        "name": "Infinite-Weapon",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "14602A",
-            "on": "00",
-            "off": "42"
-        }]
-    }, {
-        "name": "Infinite-Health",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "138429",
-            "on": "63",
-            "off": "10"
-        }]
-    }, {
-        "name": "Infinite-lives",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1385BA",
-            "on": "63",
-            "off": "42"
-        }]
-    }, {
-        "name": "Infinite-Bomb",
-        "type": "checkbox",
-        "memory": [{
-            "offset": "1457D2",
-            "on": "00",
-            "off": "42"
-        }]
-    }],
-    "credits": ["Ali-mk"]
+  "name": "CT Special Forces",
+  "id": "SLES03986",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14602A",
+          "on": "00",
+          "off": "42"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "138429",
+          "on": "63",
+          "off": "10"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1385BA",
+          "on": "63",
+          "off": "42"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Bomb",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1457D2",
+          "on": "00",
+          "off": "42"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
 }
