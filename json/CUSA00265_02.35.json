@@ -1,0 +1,313 @@
+{
+  "name": "Minecraft",
+  "id": "CUSA00265",
+  "version": "02.35",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "[] Reach 14 Attack & Blocks",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6C19254",
+          "on": "0000604100006041000060410000604100006041",
+          "off": "6666b6403333b340000040416666d6400000e040"
+        },
+        {
+          "offset": "6C1DFD8",
+          "on": "00006041",
+          "off": "00004040"
+        }
+      ]
+    },
+    {
+      "name": "[] Unfair Attack ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6C1957C",
+          "on": "00008040",
+          "off": "CDCCCC3D"
+        }
+      ]
+    },
+    {
+      "name": "[] Rapid Hit & Fast Place",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6A19FB2",
+          "on": "885008",
+          "off": "885018"
+        }
+      ]
+    },
+    {
+      "name": "[] Hidden Attack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5A6FE60",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    },
+    {
+      "name": "[] Player Speed x2 & Low Gravity ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24FBD7A",
+          "on": "C5FA100536D171044883C4405B415C415E415F5DC3E810CC57040F0BE849CC19FE0F0B909090",
+          "off": "C5F828C14883C4405B415C415E415F5DC3E810CC57040F0BE849CC19FE0F0B90909090909090"
+        },
+        {
+          "offset": "6C18EB8",
+          "on": "00008D3E",
+          "off": "0000803F"
+        },
+        {
+          "offset": "6C18E40",
+          "on": "CDCC4CBD",
+          "off": "0AD7A3BD"
+        }
+      ]
+    },
+    {
+      "name": "[] Velocity Off XYZ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2607aa0",
+          "on": "9090909090909090909090909090909090909090909090909090",
+          "off": "8B068987900500008B46048987940500008B4608898798050000"
+        }
+      ]
+    },
+    {
+      "name": "[] Forward jump x4",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6C18D88",
+          "on": "33333340",
+          "off": "CDCC4C3E"
+        }
+      ]
+    },
+    {
+      "name": "[] Multi jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8B63000",
+          "on": "C680080200000180B80802000000C6800802000001E951F44CF9",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2032464",
+          "on": "E9970BB3069090",
+          "off": "4088B008020000"
+        }
+      ]
+    },
+    {
+      "name": "[] Zero Gravity & Speed",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24FBD7A",
+          "on": "C5FA100536D171044883C4405B415C415E415F5DC3E810CC57040F0BE849CC19FE0F0B909090",
+          "off": "C5F828C14883C4405B415C415E415F5DC3E810CC57040F0BE849CC19FE0F0B90909090909090"
+        },
+        {
+          "offset": "6C18EB8",
+          "on": "0000603F",
+          "off": "0000803F"
+        },
+        {
+          "offset": "6C18E40",
+          "on": "00000000",
+          "off": "0AD7A3BD"
+        },
+        {
+          "offset": "2607aa0",
+          "on": "9090909090909090909090909090909090909090909090909090",
+          "off": "8B068987900500008B46048987940500008B4608898798050000"
+        }
+      ]
+    },
+    {
+      "name": "[] Smooth Walk",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2032444",
+          "on": "C7807C0200000000803FC390",
+          "off": "C5FA11807C020000C3909090"
+        }
+      ]
+    },
+    {
+      "name": "[] Fast Break",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6C175f4",
+          "on": "0000C842",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "[] No Fog",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "06C1DFCC",
+          "on": "0000C842",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "[] Critical attack(Host Only)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FEBF51",
+          "on": "9090",
+          "off": "762D"
+        },
+        {
+          "offset": "0x1FEBF5B",
+          "on": "9090",
+          "off": "7521"
+        }
+      ]
+    },
+    {
+      "name": "[] One Punchman(Host Only)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "06C17390",
+          "on": "CDCCCC3FCDCC8C3F9A99993F00008041000080410000C0419A9999410000804117B7D138CDCCCC4100000000CDCC4C41",
+          "off": "CDCCCCBECDCC8CBF9A9999BF0000803F0000803F0000C03F9A99993E0000803F17B7D138CDCCCC3E00000000CDCC4C3E"
+        }
+      ]
+    },
+    {
+      "name": "[] Change Specified Color To Red",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9489590",
+          "on": "00002041",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "[] Change Specified Color To Green",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9489594",
+          "on": "00002041",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "[] Change Specified Color To Blue",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9489598",
+          "on": "00002041",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "[] Set Entity Color Aqua",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9489620",
+          "on": "00000000000020410000204100000040",
+          "off": "00000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "[] Show Dev Strings",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12ae8da",
+          "on": "7543",
+          "off": "7443"
+        }
+      ]
+    },
+    {
+      "name": "[] Change Minecraft Platform Xbox/One/X/S",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34E5AC0",
+          "on": "B801",
+          "off": "B802"
+        },
+        {
+          "offset": "34E2640",
+          "on": "B80D",
+          "off": "B80B"
+        }
+      ]
+    },
+    {
+      "name": "[] Bypass Signin",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6d0f54",
+          "on": "0F95",
+          "off": "0F94"
+        },
+        {
+          "offset": "64d997f",
+          "on": "0f95",
+          "off": "0f94"
+        },
+        {
+          "offset": "6d4712",
+          "on": " 84C0C783F00000000000000090",
+          "off": "84C0750983BBF000000037510"
+        }
+      ]
+    },
+    {
+      "name": "[] Enable LAN Play",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34E2620",
+          "on": "B000",
+          "off": "B001"
+        },
+        {
+          "offset": "34E2630",
+          "on": "B000",
+          "off": "B001"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "NELUxP MoDz"
+  ]
+}
