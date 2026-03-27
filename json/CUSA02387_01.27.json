@@ -1,0 +1,115 @@
+{
+  "name": "BF1",
+  "id": "CUSA02387",
+  "version": "01.27",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Enemies AFK",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3B4C00",
+          "on": "C3",
+          "off": "55"
+        },
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "22B7695",
+          "on": "9090",
+          "off": "FFC8"
+        },
+		{
+          "offset": "22B774C",
+          "on": "9090",
+          "off": "FFC8"
+        }
+      ]
+    },
+    {
+      "name": "No Weapon Overheat",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "22B6860",
+          "on": "C3",
+          "off": "C5"
+        },
+      ]
+    },
+    {
+      "name": "Better Aiming",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17DB640",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "22A456A",
+          "on": "41C7C120000000",
+          "off": "80BBC000000000"
+        },
+      ]
+    },
+    {
+      "name": "Vsync off for more fps 120+ laggy on PS4",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1347BA7",
+          "on": "0f94c0",
+          "off": "0f95c0"
+        },
+      ]
+    },
+    {
+      "name": "Speed Hack x2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "308E7F0",
+          "on": "0000000000000040",
+          "off": "000000000000f03f"
+        },
+      ]
+    },
+    {
+      "name": "Player isGrounded",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19F6AC0",
+          "on": "b000",
+          "off": "b001"
+        },
+      ]
+    },
+    {
+      "name": "Fire rate 60 / 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32C1098",
+          "on": "0000F041",
+          "off": "00007042"
+        },
+      ]
+    }
+  ],
+  "credits": [
+    "NELUxP MoDz"
+  ]
+}
