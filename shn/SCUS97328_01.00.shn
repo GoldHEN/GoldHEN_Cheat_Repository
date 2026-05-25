@@ -72,7 +72,7 @@
       <ValueOff>2D-28-40-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Have All Cars Purchaseable & Cost $1">
+  <Cheat Text="Have All Cars Purchaseable &#38; Cost $1">
     <Cheatline>
       <Offset>807FCC0220</Offset>
       <Section>0</Section>
@@ -1630,7 +1630,7 @@
       <ValueOff>02-0F-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Spider & Roadster Codes">
+  <Cheat Text="Spider &#38; Roadster Codes">
   </Cheat>
   <Cheat Text="Have Gold Medal Codes">
   </Cheat>
