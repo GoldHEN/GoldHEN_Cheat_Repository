@@ -1,0 +1,99 @@
+{
+  "name": "inFAMOUS: Second Son",
+  "id": "CUSA00004",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "615c17",
+          "on": "909090909090909090",
+          "off": "C4C17A119650EE0100"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "60c7f9",
+          "on": "90909090909090909090",
+          "off": "C4C17A118424E8A10100"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Bombs / Rockets",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5e35a8",
+          "on": "BE0500000089B7DC0000009090",
+          "off": "89B7DC00000080BFC90A020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skillpoints / Shards",
+      "hint": null,
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E22A4",
+          "on": "BBE7030000899FE00000009090",
+          "off": "899FE000000080BFC90A020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Level True Hero (turn off Infamous)",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "12FADB8",
+          "on": "A0E68745",
+          "off": "A0E68745"
+        }
+      ]
+    },
+    {
+      "name": "Max Level Infamous (turn off True Hero)",
+      "hint": null,
+      "type": "button",
+      "memory": [
+        {
+          "offset": "12FADB8",
+          "on": "00CAE6FD",
+          "off": "00CAE6FD"
+        }
+      ]
+    },
+    {
+      "name": "Inf finisher",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "CC7800",
+          "on": "C7432807000000E963EB59FF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "266368",
+          "on": "E99314A6009090",
+          "off": "894B28488B7B18"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha, 2B"
+  ]
+}

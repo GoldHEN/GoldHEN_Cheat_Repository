@@ -54,7 +54,7 @@
       <ValueOff>C5-F8-28-C2</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Add Items & Money (Drop)">
+  <Cheat Text="Add Items &#38; Money (Drop)">
     <Cheatline>
       <Offset>BF8AF6</Offset>
       <Section>0</Section>

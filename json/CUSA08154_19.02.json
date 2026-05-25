@@ -1,0 +1,27 @@
+{
+  "name": "Tropico 6",
+  "id": "CUSA08154",
+  "version": "19.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "1 Bilion (On Spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6ABBDB0",
+          "on": "C78338090000286B6E4EE902E50AFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "B6A2B9",
+          "on": "E9F21AF505909090",
+          "off": "C5FA118338090000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

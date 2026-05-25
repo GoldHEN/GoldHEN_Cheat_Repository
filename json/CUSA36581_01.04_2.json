@@ -1,0 +1,62 @@
+{
+  "name": "Prince of Persia The Lost Crown",
+  "id": "CUSA36581",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "TRAINER INFO (read only)",
+      "description": "Please  be sure to read the comment on each individual cheat, if a comment is available. Enjoy! :-)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AA2000",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Easy Kill",
+      "description": "May cause progression issues when used when fighting some bosses, especially in the beginning of the game, before mount Qaf.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8471A000",
+          "on": "4C393519605A00741C41837E1C0A741541C7461C0A00000041C746280A000000B80A000000412B442410E90F6E06FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "82780E39",
+          "on": "E9C291F901",
+          "off": "412B442410"
+        },
+        {
+          "offset": "8471A040",
+          "on": "48893DD95F5A00FF9038020000E9CD341FFC",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8090D519",
+          "on": "E922CBE00390",
+          "off": "FF9038020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jumps",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81B2E8B3",
+          "on": "BA0200000090",
+          "off": "8B91E4010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Pharaoh2k"
+  ]
+}
