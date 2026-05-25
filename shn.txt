@@ -634,6 +634,7 @@ CUSA04647_01.03.shn=World of Final Fantasy
 CUSA08798_01.10_2.shn=Darksiders 3
 CUSA05350_01.37.shn=Dragon Ball Xenoverse 2
 CUSA31873_01.01.shn=FIFA 23
+CUSA23501_01.07.shn=Grand Theft Auto III – The Definitive Edition
 CUSA13275_01.02.shn=Doom Eternal
 CUSA36582_01.41.shn=Prince of Persia The Lost Crown
 SLES51156_01.00.shn=Silent Hill 2
