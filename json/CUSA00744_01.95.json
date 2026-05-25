@@ -184,6 +184,23 @@
           "off": "418937"
         }
       ]
+    },
+    {
+      "name": "[ Slider Bypass ]",
+      "type": "checkbox",
+      "description": "Bypasses maximum/minimum limits of sliders",
+      "memory": [
+        {
+          "offset": "868224",
+          "on": "909090",
+          "off": "0F4FF2"
+        },
+        {
+          "offset": "868229",
+          "on": "909090",
+          "off": "0F4DF1"
+        }
+      ]
     }
   ],
   "credits": [

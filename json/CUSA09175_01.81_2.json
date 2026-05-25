@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Items (Dont Use Max Items)",
+      "name": "Infinite Items (Don't Use Max Items)",
       "type": "checkbox",
       "memory": [
         {

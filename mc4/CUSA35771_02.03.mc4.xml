@@ -1,2 +1,166 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA35771" Game="Daymare: 1994 Sandcastle" Moder="Dioniso" Process="eboot.bin" Version="02.03" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> <Cheat Description="" Text="[00] MASTER CODE &gt; ALWAYS ON!!!"> </Cheat> <Cheat Description="No Enemy will touch/grab you." Text="[01][Health] Immunity: Physical Contact"> </Cheat> <Cheat Description="" Text="[02][Health] Immunity: Rays"> </Cheat> <Cheat Description="Side effect: Enemies` shots will stay on the floor/air." Text="[03][Health] Immunity: Shots"> </Cheat> <Cheat Description="Sparkers and Ogre Helen can grab and kill you if cheat [05] is off." Text="[04][Health] Infinite"> </Cheat> <Cheat Description="" Text="[05][Health] Ungrab Automatically"> </Cheat> <Cheat Description="" Text="[06][Weapon] Infinite Ammo + Total Accuracy"> </Cheat> <Cheat Description="1 Hit Kill on not frozen or red (Mutated) Decoys." Text="[07][Weapon] 1 Hit Kill"> </Cheat> <Cheat Description="" Text="[08][Weapon] Frost Grip: Infinite"> </Cheat> <Cheat Description="" Text="[09][Hacking] Timer Stopped"> </Cheat> <Cheat Description="" Text="[10a][Items] Inventory: Clear it all"> </Cheat> <Cheat Description="If cheat 10a or 10b is always on, nothing will be added ot taken from the inventory. You better use it once, go to inventory and turn it off." Text="[10b][Items] Inventory: All Keys"> </Cheat> <Cheat Description="" Text="[11a][Speed] Player x1"> </Cheat> <Cheat Description="" Text="[11b][Speed] Player x2"> </Cheat> <Cheat Description="" Text="[11c][Speed] Player x3"> </Cheat> <Cheat Description="" Text="[11d][Speed] Player x4"> </Cheat> <Cheat Description="" Text="[12a][Speed] Enemy x0"> </Cheat> <Cheat Description="" Text="[12b][Speed] Enemy x0,25"> </Cheat> <Cheat Description="" Text="[12c][Speed] Enemy x0,5"> </Cheat> <Cheat Description="" Text="[12d][Speed] Enemy x1"> </Cheat> </Trainer>
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Daymare: 1994 Sandcastle" Moder="Dioniso" Cusa="CUSA35771" Version="2.03" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="[00] MASTER CODE > ALWAYS ON!!!">
+        <Cheatline>
+            <Offset>05972020</Offset>
+            <Section>0</Section>
+            <ValueOn>90-80-3D-D8-07-00-00-FF-75-36-81-7F-D8-00-80-09-44-75-2D-8B-57-0C-89-17-89-16-5D-C3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[01][Health] Immunity: Physical Contact">
+        <Cheatline>
+            <Offset>05972480</Offset>
+            <Section>0</Section>
+            <ValueOn>90-0F-84-D0-FF-23-FD-41-81-BF-90-00-00-00-00-02-00-00-75-18-41-83-F8-05-77-06-41-83-FA-05-76-0C-41-83-BF-E0-00-00-00-00-74-02-B0-00-84-C0-0F-84-A3-FF-23-FD-E9-A9-FC-23-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[02][Health] Immunity: Rays">
+        <Cheatline>
+            <Offset>02BB5719</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-82-C6-FF-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[03][Health] Immunity: Shots">
+        <Cheatline>
+            <Offset>05972500</Offset>
+            <Section>0</Section>
+            <ValueOn>41-83-FD-02-72-0A-48-89-E5-41-57-E9-46-29-05-FD-49-8B-46-20-83-78-44-04-90-75-EB-5D-C3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[04][Health] Infinite">
+        <Cheatline>
+            <Offset>05972800</Offset>
+            <Section>0</Section>
+            <ValueOn>FF</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[05][Health] Ungrab Automatically">
+        <Cheatline>
+            <Offset>05972802</Offset>
+            <Section>0</Section>
+            <ValueOn>FF</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[06][Weapon] Infinite Ammo + Total Accuracy">
+        <Cheatline>
+            <Offset>05972801</Offset>
+            <Section>0</Section>
+            <ValueOn>FF</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[07][Weapon] 1 Hit Kill">
+        <Cheatline>
+            <Offset>05972803</Offset>
+            <Section>0</Section>
+            <ValueOn>FF</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[08][Weapon] Frost Grip: Infinite">
+        <Cheatline>
+            <Offset>05972804</Offset>
+            <Section>0</Section>
+            <ValueOn>FF</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[09][Hacking] Timer Stopped">
+        <Cheatline>
+            <Offset>02662E6B</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-57-C0-90-90</ValueOn>
+            <ValueOff>C5-FA-10-45-84</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[10a][Items] Inventory: Clear it all">
+        <Cheatline>
+            <Offset>05972808</Offset>
+            <Section>0</Section>
+            <ValueOn>FF</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[10b][Items] Inventory: All Keys">
+        <Cheatline>
+            <Offset>05972809</Offset>
+            <Section>0</Section>
+            <ValueOn>FF</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[11a][Speed] Player x1">
+        <Cheatline>
+            <Offset>05972250</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-83-98-00-00-00-81-BB-90-00-00-00-00-02-00-00-0F-85-DE-33-1E-FD-83-BB-60-01-00-00-FF-0F-85-D1-33-1E-FD-83-BB-9C-00-00-00-00-0F-85-C4-33-1E-FD-C7-83-98-00-00-00-00-00-80-3F-C5-FA-10-83-98-00-00-00-E9-AD-33-1E-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[11b][Speed] Player x2">
+        <Cheatline>
+            <Offset>05972250</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-83-98-00-00-00-81-BB-90-00-00-00-00-02-00-00-0F-85-DE-33-1E-FD-83-BB-60-01-00-00-FF-0F-85-D1-33-1E-FD-83-BB-9C-00-00-00-00-0F-85-C4-33-1E-FD-C7-83-98-00-00-00-00-00-00-40-C5-FA-10-83-98-00-00-00-E9-AD-33-1E-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[11c][Speed] Player x3">
+        <Cheatline>
+            <Offset>05972250</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-83-98-00-00-00-81-BB-90-00-00-00-00-02-00-00-0F-85-DE-33-1E-FD-83-BB-60-01-00-00-FF-0F-85-D1-33-1E-FD-83-BB-9C-00-00-00-00-0F-85-C4-33-1E-FD-C7-83-98-00-00-00-00-00-40-40-C5-FA-10-83-98-00-00-00-E9-AD-33-1E-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[11d][Speed] Player x4">
+        <Cheatline>
+            <Offset>05972250</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-83-98-00-00-00-81-BB-90-00-00-00-00-02-00-00-0F-85-DE-33-1E-FD-83-BB-60-01-00-00-FF-0F-85-D1-33-1E-FD-83-BB-9C-00-00-00-00-0F-85-C4-33-1E-FD-C7-83-98-00-00-00-00-00-80-40-C5-FA-10-83-98-00-00-00-E9-AD-33-1E-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[12a][Speed] Enemy x0">
+        <Cheatline>
+            <Offset>059722A0</Offset>
+            <Section>0</Section>
+            <ValueOn>48-85-DB-0F-84-95-33-1E-FD-81-BB-90-00-00-00-00-02-00-00-0F-85-7B-33-1E-FD-83-BB-60-01-00-00-FF-0F-85-6E-33-1E-FD-83-BB-9C-00-00-00-00-0F-84-61-33-1E-FD-83-BB-E0-00-00-00-00-C7-83-98-00-00-00-00-00-80-3F-74-0A-C7-83-98-00-00-00-00-00-00-00-C5-FA-10-83-98-00-00-00-E9-49-33-1E-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[12b][Speed] Enemy x0,25">
+        <Cheatline>
+            <Offset>059722A0</Offset>
+            <Section>0</Section>
+            <ValueOn>48-85-DB-0F-84-95-33-1E-FD-81-BB-90-00-00-00-00-02-00-00-0F-85-7B-33-1E-FD-83-BB-60-01-00-00-FF-0F-85-6E-33-1E-FD-83-BB-9C-00-00-00-00-0F-84-61-33-1E-FD-83-BB-E0-00-00-00-00-C7-83-98-00-00-00-00-00-80-3F-74-0A-C7-83-98-00-00-00-00-00-80-3E-C5-FA-10-83-98-00-00-00-E9-49-33-1E-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[12c][Speed] Enemy x0,5">
+        <Cheatline>
+            <Offset>059722A0</Offset>
+            <Section>0</Section>
+            <ValueOn>48-85-DB-0F-84-95-33-1E-FD-81-BB-90-00-00-00-00-02-00-00-0F-85-7B-33-1E-FD-83-BB-60-01-00-00-FF-0F-85-6E-33-1E-FD-83-BB-9C-00-00-00-00-0F-84-61-33-1E-FD-83-BB-E0-00-00-00-00-C7-83-98-00-00-00-00-00-80-3F-74-0A-C7-83-98-00-00-00-00-00-00-3F-C5-FA-10-83-98-00-00-00-E9-49-33-1E-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[12d][Speed] Enemy x1">
+        <Cheatline>
+            <Offset>059722B0</Offset>
+            <Section>0</Section>
+            <ValueOn>48-85-DB-0F-84-85-33-1E-FD-81-BB-90-00-00-00-00-02-00-00-0F-85-6B-33-1E-FD-83-BB-60-01-00-00-FF-0F-85-5E-33-1E-FD-83-BB-9C-00-00-00-00-0F-84-51-33-1E-FD-C7-83-98-00-00-00-00-00-80-3F-C5-FA-10-83-98-00-00-00-E9-4C-33-1E-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

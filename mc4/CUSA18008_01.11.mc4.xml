@@ -1,2 +1,350 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Trainer Cusa="CUSA18008" Game="Resident Evil Village" Moder="Dioniso" Process="eboot.bin" Version="01.11" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> <Cheat Description="" Text="[00] This is just INFO!!! [1] Main Story [2] Shadows Of Rose [3] Mercenaries. Don`t forget to see Ethan`s wife 3 times before getting into the elevator to House of Beneviento. Otherwise, you`ll get stuck (Restart)."> </Cheat> <Cheat Description="" Text="[01][123] Immunity"> </Cheat> <Cheat Description="" Text="[02][123] Infinite HP"> </Cheat> <Cheat Description="" Text="[03][12] 1 Hit Kill"> </Cheat> <Cheat Description="" Text="[04a][1] Ethan`s + Chris`s Speed x2"> </Cheat> <Cheat Description="" Text="[04b][1] Ethan`s + Chris`s Speed x4"> </Cheat> <Cheat Description="" Text="[05][1] L1+O (3 Sec.) Ethan`s Size Change (Most Of The Game)"> </Cheat> <Cheat Description="" Text="[06][1] Boss Moreau Not In Water"> </Cheat> <Cheat Description="" Text="[07][123] Gunsmithy Weapons: Power = 30k (1HK)"> </Cheat> <Cheat Description="" Text="[08][123] Gunsmithy Weapons: Infinite Ammo (No Decrease)"> </Cheat> <Cheat Description="" Text="[09][123] Gunsmithy Weapons: Rate Of Fire = 0.1"> </Cheat> <Cheat Description="" Text="[10][123] Infinite Items"> </Cheat> <Cheat Description="" Text="[11][123] Selling: Get Money + Keep Item"> </Cheat> <Cheat Description="" Text="[12][1] Torchlight ON"> </Cheat> <Cheat Description="" Text="[13][1] Torchlight OFF"> </Cheat> <Cheat Description="" Text="[14][1] Cannon Instantly Ready"> </Cheat> <Cheat Description="" Text="[15][1] Chris`s Target Locator Instant Fire/ReLoad"> </Cheat> <Cheat Description="" Text="[16][123] Infinite Leis"> </Cheat> <Cheat Description="" Text="[17a][2] Rose`s Speed x2"> </Cheat> <Cheat Description="" Text="[17b][2] Rose`s Speed x4"> </Cheat> <Cheat Description="" Text="[18][2] Rose`s Focus Full"> </Cheat> <Cheat Description="" Text="[19][3] Timer Stopped"> </Cheat> <Cheat Description="" Text="[20][3] Combo Number Frozen"> </Cheat> <Cheat Description="" Text="[21][3] Ethan`s Speed x4"> </Cheat> <Cheat Description="" Text="[22][3] Chris`s Speed x4"> </Cheat> <Cheat Description="" Text="[23][3] Chris`s Fist Bar Instant Reload"> </Cheat> <Cheat Description="" Text="[24][3] Karl`s Speed x4"> </Cheat> <Cheat Description="" Text="[25][3] Karl`s Hammer Power = 30k"> </Cheat> <Cheat Description="" Text="[26][3] Karl`s Hammer Electric Charge = 30k"> </Cheat> <Cheat Description="" Text="[27][3] Karl`s Sawblade Instant Reload"> </Cheat> <Cheat Description="" Text="[28][3] Karl`s Sawblade Power = 30k"> </Cheat> <Cheat Description="" Text="[29][3] Karl`s Scrap Instant Reload"> </Cheat> <Cheat Description="" Text="[30][3] Karl`s Scrap Power = 30k"> </Cheat> <Cheat Description="" Text="[31][3] Karl`s Scrap 6 Projectiles"> </Cheat> <Cheat Description="" Text="[32][3] Karl`s Soldier Jet Instant Reload"> </Cheat> <Cheat Description="" Text="[33][3] Alcina`s Speed x4"> </Cheat> <Cheat Description="" Text="[34][3] Alcina`s Damage Bar Instant Reload"> </Cheat> <Cheat Description="" Text="[35][3] Alcina`s Insect Swarm (R2) Instant Reload"> </Cheat> <Cheat Description="" Text="[36][3] Alcina`s Ornate Vanity (Square) Instant Reload"> </Cheat> <Cheat Description="" Text="[37][3] Alcina`s Daughter (L2+R1) Instant Reload"> </Cheat> <Cheat Description="" Text="[38][3] Alcina`s Insects Swarm Power = 30k"> </Cheat> <Cheat Description="" Text="[39][3] Alcina`s Hand Power = 30k"> </Cheat> <Cheat Description="" Text="[40][3] Alcina`s Ornate Vanity Power = 30k"> </Cheat> </Trainer>
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil Village" Moder="Dioniso" Cusa="CUSA18008" Version="1.11" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="[00] This is just INFO!!! [1] Main Story [2] Shadows Of Rose [3] Mercenaries. Don`t forget to see Ethan`s wife 3 times before getting into the elevator to House of Beneviento. Otherwise, you`ll get stuck (Restart).">
+        <Cheatline>
+            <Offset>0B19F4F4</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-00-00</ValueOn>
+            <ValueOff>00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[01][123] Immunity">
+        <Cheatline>
+            <Offset>0B19F500</Offset>
+            <Section>0</Section>
+            <ValueOn>50-EB-10-58-80-78-14-00-0F-84-11-20-91-FA-E9-62-20-91-FA-48-8B-42-50-48-85-C0-74-E7-66-8B-40-10-66-3D-F1-B0-74-2C-66-3D-9E-48-74-26-66-3D-92-C1-74-20-66-3D-3A-3D-74-1A-66-3D-0C-06-74-14-66-3D-7A-40-74-0E-66-3D-23-62-74-08-66-3D-E7-51-74-02-EB-B1-58-66-81-78-10-DB-F9-74-A9-66-81-78-10-45-45-74-A1-E9-B7-1F-91-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[02][123] Infinite HP">
+        <Cheatline>
+            <Offset>0B19F132</Offset>
+            <Section>0</Section>
+            <ValueOn>83-78-24-02-75-0F-50-48-8B-40-20-8B-00-3D-B0-E1-BF-0C-58-74-0E-C5-F8-2E-C1-C5-FA-11-48-14-E9-53-C5-2A-FA-C5-F8-2E-C1-C5-FA-10-48-10-C5-FA-11-48-14-E9-40-C5-2A-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[03][12] 1 Hit Kill">
+        <Cheatline>
+            <Offset>0B19F600</Offset>
+            <Section>0</Section>
+            <ValueOn>83-78-24-02-75-29-50-48-83-C0-20-48-8B-00-8B-00-3D-B0-E1-BF-0C-58-75-17-C5-FA-10-40-10-E9-7D-C0-2A-FA-0F-57-C0-C5-FA-11-40-14-E9-85-C0-2A-FA-81-78-10-00-00-FA-43-74-EA-81-78-10-00-00-2F-44-74-E1-81-78-10-00-40-9C-45-74-D8-81-78-10-00-80-89-44-74-CF-81-78-10-00-C0-DA-45-74-C6-81-78-10-00-80-3B-45-74-BD-81-78-10-00-80-68-44-74-B4-81-78-10-00-E0-AB-46-74-AB-81-78-10-00-00-7A-45-74-A2-81-78-10-00-40-9C-46-74-99-81-78-10-00-00-AF-44-74-90-81-78-10-00-50-C3-46-74-87-81-78-10-00-80-54-45-0F-84-7A-FF-FF-FF-81-78-10-00-40-67-45-0F-84-6D-FF-FF-FF-81-78-10-00-00-7A-44-0F-84-60-FF-FF-FF-81-78-10-00-00-96-44-0F-84-53-FF-FF-FF-81-78-10-00-00-FA-44-0F-84-46-FF-FF-FF-81-78-10-00-80-BB-44-0F-84-39-FF-FF-FF-81-78-10-00-C0-0F-45-0F-84-2C-FF-FF-FF-81-78-10-00-A0-8C-45-0F-84-1F-FF-FF-FF-81-78-10-00-60-6A-46-0F-84-12-FF-FF-FF-81-78-10-00-20-CB-46-0F-84-05-FF-FF-FF-81-78-10-00-60-EA-46-0F-84-F8-FE-FF-FF-81-78-10-00-00-16-44-0F-84-EB-FE-FF-FF-81-78-10-00-3C-1C-46-0F-84-DE-FE-FF-FF-81-78-10-00-00-E1-43-0F-84-D1-FE-FF-FF-E9-C2-FE-FF-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[04a][1] Ethan`s + Chris`s Speed x2">
+        <Cheatline>
+            <Offset>0B19F22A</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-8E-38-02-00-00-F3-0F-58-C9-C4-C1-7A-11-8E-38-02-00-00-C4-C1-7A-10-8E-34-02-00-00-F3-0F-58-C9-C4-C1-7A-11-8E-34-02-00-00-C4-C1-7A-10-8E-30-02-00-00-F3-0F-58-C9-C4-C1-7A-11-8E-30-02-00-00-E9-9B-AB-D6-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[04b][1] Ethan`s + Chris`s Speed x4">
+        <Cheatline>
+            <Offset>0B19F22A</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-8E-38-02-00-00-F3-0F-58-C9-F3-0F-58-C9-C4-C1-7A-11-8E-38-02-00-00-C4-C1-7A-10-8E-34-02-00-00-F3-0F-58-C9-F3-0F-58-C9-C4-C1-7A-11-8E-34-02-00-00-C4-C1-7A-10-8E-30-02-00-00-F3-0F-58-C9-F3-0F-58-C9-C4-C1-7A-11-8E-30-02-00-00-E9-8F-AB-D6-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[05][1] L1+O (3 Sec.) Ethan`s Size Change (Most Of The Game)">
+        <Cheatline>
+            <Offset>0B19F330</Offset>
+            <Section>0</Section>
+            <ValueOn>48-83-EC-28-44-8B-66-24-41-81-FC-40-02-10-00-74-19-C7-05-B9-CB-F0-04-11-11-11-11-C7-05-B3-CB-F0-04-00-00-00-00-E9-BB-EE-FE-F9-C7-05-A0-CB-F0-04-FF-FF-FF-FF-83-3D-9D-CB-F0-04-60-0F-84-A4-EE-FE-F9-FF-05-91-CB-F0-04-E9-99-EE-FE-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[06][1] Boss Moreau Not In Water">
+        <Cheatline>
+            <Offset>0B19FBE0</Offset>
+            <Section>0</Section>
+            <ValueOn>66-81-7B-10-D5-E9-74-0A-8A-43-12-84-C0-E9-76-A8-F0-FE-C7-43-12-00-00-00-00-EB-ED</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[07][123] Gunsmithy Weapons: Power = 30k (1HK)">
+        <Cheatline>
+            <Offset>0B19F300</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-86-3C-01-00-00-00-60-EA-46-C5-FA-10-86-3C-01-00-00-E9-E9-73-2C-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[08][123] Gunsmithy Weapons: Infinite Ammo (No Decrease)">
+        <Cheatline>
+            <Offset>0B19F16A</Offset>
+            <Section>0</Section>
+            <ValueOn>49-83-FB-00-74-02-31-DB-41-29-5C-24-4C-E9-02-D5-F7-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[09][123] Gunsmithy Weapons: Rate Of Fire = 0.1">
+        <Cheatline>
+            <Offset>0B19F318</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-4C-02-00-00-CD-CC-CC-3D-C5-FA-10-83-4C-02-00-00-E9-B5-96-8F-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[10][123] Infinite Items">
+        <Cheatline>
+            <Offset>0B19F1A0</Offset>
+            <Section>0</Section>
+            <ValueOn>81-78-4C-9A-02-00-00-73-05-BE-9A-02-00-00-89-70-4C-49-8B-4F-50-E9-A6-17-F8-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[11][123] Selling: Get Money + Keep Item">
+        <Cheatline>
+            <Offset>0B19F1E4</Offset>
+            <Section>0</Section>
+            <ValueOn>4D-85-E4-0F-84-37-D6-F7-F7-49-83-FB-00-74-05-E9-81-D4-F7-F7-31-DB-41-29-5C-24-4C-E9-7A-D4-F7-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[12][1] Torchlight ON">
+        <Cheatline>
+            <Offset>0B19F7C0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-46-64-01-00-00-00-0F-85-7F-21-33-FA-E9-D7-20-33-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[13][1] Torchlight OFF">
+        <Cheatline>
+            <Offset>0B19F7D8</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-46-64-00-00-00-00-83-7E-64-00-8A-4E-68-E9-C5-20-33-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[14][1] Cannon Instantly Ready">
+        <Cheatline>
+            <Offset>0B19FC28</Offset>
+            <Section>0</Section>
+            <ValueOn>81-7E-18-00-00-70-41-75-11-C7-46-14-00-00-00-00-C5-FA-10-46-14-E9-46-BC-CC-F7-C5-FA-11-46-14-E9-3C-BC-CC-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[15][1] Chris`s Target Locator Instant Fire/ReLoad">
+        <Cheatline>
+            <Offset>0B19FC50</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-5C-80-54-02-00-00-81-7E-18-00-00-C0-40-74-0E-81-7E-18-00-00-F0-41-74-05-E9-14-BC-CC-F7-C7-46-14-00-00-00-00-C5-FA-10-46-14-E9-08-BC-CC-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[16][123] Infinite Leis">
+        <Cheatline>
+            <Offset>0B19F208</Offset>
+            <Section>0</Section>
+            <ValueOn>49-8B-44-24-50-41-81-7F-48-2A-2C-0A-00-0F-83-EE-E1-F4-F7-41-C7-47-48-2A-2C-0A-00-E9-E1-E1-F4-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[17a][2] Rose`s Speed x2">
+        <Cheatline>
+            <Offset>0B19F280</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-8E-38-02-00-00-F3-0F-58-C9-C4-C1-7A-11-8E-38-02-00-00-C4-C1-7A-10-8E-34-02-00-00-F3-0F-58-C9-C4-C1-7A-11-8E-34-02-00-00-C4-C1-7A-10-8E-30-02-00-00-F3-0F-58-C9-C4-C1-7A-11-8E-30-02-00-00-E9-55-B4-23-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[17b][2] Rose`s Speed x4">
+        <Cheatline>
+            <Offset>0B19F280</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-8E-38-02-00-00-F3-0F-58-C9-F3-0F-58-C9-C4-C1-7A-11-8E-38-02-00-00-C4-C1-7A-10-8E-34-02-00-00-F3-0F-58-C9-F3-0F-58-C9-C4-C1-7A-11-8E-34-02-00-00-C4-C1-7A-10-8E-30-02-00-00-F3-0F-58-C9-F3-0F-58-C9-C4-C1-7A-11-8E-30-02-00-00-E9-49-B4-23-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[18][2] Rose`s Focus Full">
+        <Cheatline>
+            <Offset>0B19F2D8</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-F4-01-00-00-89-42-10-89-42-14-89-41-28-3B-41-28-E9-AC-D9-EB-F5</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[19][3] Timer Stopped">
+        <Cheatline>
+            <Offset>06253FD0</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[20][3] Combo Number Frozen">
+        <Cheatline>
+            <Offset>0B19F8F0</Offset>
+            <Section>0</Section>
+            <ValueOn>81-7E-18-00-00-70-41-75-05-C5-FA-10-46-18-C5-FA-11-46-14-E9-80-BF-CC-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[21][3] Ethan`s Speed x4">
+        <Cheatline>
+            <Offset>0B19F760</Offset>
+            <Section>0</Section>
+            <ValueOn>F3-41-0F-10-86-C0-01-00-00-F3-0F-58-C0-F3-0F-58-C0-F3-41-0F-11-86-C0-01-00-00-F3-41-0F-10-86-C4-01-00-00-F3-0F-58-C0-F3-0F-58-C0-F3-41-0F-11-86-C4-01-00-00-F3-41-0F-10-86-C8-01-00-00-F3-0F-58-C0-F3-0F-58-C0-F3-41-0F-11-86-C8-01-00-00-C5-F8-10-43-30-E9-48-DC-3B-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[22][3] Chris`s Speed x4">
+        <Cheatline>
+            <Offset>0B19F490</Offset>
+            <Section>0</Section>
+            <ValueOn>F3-41-0F-10-86-C0-01-00-00-F3-0F-58-C0-F3-0F-58-C0-F3-41-0F-11-86-C0-01-00-00-F3-41-0F-10-86-C4-01-00-00-F3-0F-58-C0-F3-0F-58-C0-F3-41-0F-11-86-C4-01-00-00-F3-41-0F-10-86-C8-01-00-00-F3-0F-58-C0-F3-0F-58-C0-F3-41-0F-11-86-C8-01-00-00-C5-F8-10-43-30-E9-08-90-4B-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[23][3] Chris`s Fist Bar Instant Reload">
+        <Cheatline>
+            <Offset>0B19F590</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-43-54-C5-FA-11-43-50-E9-2A-FB-0C-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[24][3] Karl`s Speed x4">
+        <Cheatline>
+            <Offset>0B19F5A0</Offset>
+            <Section>0</Section>
+            <ValueOn>F3-41-0F-10-86-D0-01-00-00-F3-0F-58-C0-F3-0F-58-C0-F3-41-0F-11-86-D0-01-00-00-F3-41-0F-10-86-D4-01-00-00-F3-0F-58-C0-F3-0F-58-C0-F3-41-0F-11-86-D4-01-00-00-F3-41-0F-10-86-D8-01-00-00-F3-0F-58-C0-F3-0F-58-C0-F3-41-0F-11-86-D8-01-00-00-C5-F8-10-43-30-E9-6C-64-A5-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[25][3] Karl`s Hammer Power = 30k">
+        <Cheatline>
+            <Offset>0B19F9B0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-B4-01-00-00-00-60-EA-46-C5-FA-10-83-B4-01-00-00-E9-1D-B1-D4-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[26][3] Karl`s Hammer Electric Charge = 30k">
+        <Cheatline>
+            <Offset>0B19F9F0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-B8-01-00-00-00-60-EA-46-C4-C1-7A-10-86-B8-01-00-00-E9-16-9C-BF-F6</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[27][3] Karl`s Sawblade Instant Reload">
+        <Cheatline>
+            <Offset>0B19F910</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-86-88-01-00-00-00-00-00-3C-C5-FA-10-86-88-01-00-00-C3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[28][3] Karl`s Sawblade Power = 30k">
+        <Cheatline>
+            <Offset>0B19F950</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-80-84-01-00-00-00-60-EA-46-C5-FA-10-88-84-01-00-00-E9-F7-F3-CC-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[29][3] Karl`s Scrap Instant Reload">
+        <Cheatline>
+            <Offset>0B19F930</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-86-8C-01-00-00-00-00-00-3D-C5-FA-10-86-8C-01-00-00-C3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[30][3] Karl`s Scrap Power = 30k">
+        <Cheatline>
+            <Offset>0B19F970</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-86-84-01-00-00-00-60-EA-46-C5-FA-10-86-84-01-00-00-C3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[31][3] Karl`s Scrap 6 Projectiles">
+        <Cheatline>
+            <Offset>0B19F990</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-86-88-01-00-00-00-00-C0-40-C5-FA-2C-86-88-01-00-00-C3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[32][3] Karl`s Soldier Jet Instant Reload">
+        <Cheatline>
+            <Offset>0B19F8D0</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-47-54-C4-C1-7A-11-47-50-E9-E4-FA-16-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[33][3] Alcina`s Speed x4">
+        <Cheatline>
+            <Offset>0B19F800</Offset>
+            <Section>0</Section>
+            <ValueOn>F3-41-0F-10-86-A0-01-00-00-F3-0F-58-C0-F3-0F-58-C0-F3-41-0F-11-86-A0-01-00-00-F3-41-0F-10-86-A4-01-00-00-F3-0F-58-C0-F3-0F-58-C0-F3-41-0F-11-86-A4-01-00-00-F3-41-0F-10-86-A8-01-00-00-F3-0F-58-C0-F3-0F-58-C0-F3-41-0F-11-86-A8-01-00-00-C5-F8-10-43-30-E9-58-17-80-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[34][3] Alcina`s Damage Bar Instant Reload">
+        <Cheatline>
+            <Offset>0B19F860</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-43-54-C5-FA-11-43-50-E9-A5-2B-76-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[35][3] Alcina`s Insect Swarm (R2) Instant Reload">
+        <Cheatline>
+            <Offset>0B19F870</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-44-90-24-C5-FA-11-44-90-20-E9-90-2C-A7-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[36][3] Alcina`s Ornate Vanity (Square) Instant Reload">
+        <Cheatline>
+            <Offset>03C1C33F</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>41-C7-86-40-02-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[37][3] Alcina`s Daughter (L2+R1) Instant Reload">
+        <Cheatline>
+            <Offset>0B19F8B0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-44-02-00-00-00-00-70-42-C4-C1-7A-10-86-44-02-00-00-E9-40-20-A7-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[38][3] Alcina`s Insects Swarm Power = 30k">
+        <Cheatline>
+            <Offset>0B19FA10</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-40-6C-00-60-EA-46-C5-FA-10-40-6C-E9-1F-4D-F6-F5</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[39][3] Alcina`s Hand Power = 30k">
+        <Cheatline>
+            <Offset>0B19FA30</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-86-B4-01-00-00-00-60-EA-46-C5-FA-10-8E-B4-01-00-00-E9-4E-E4-EC-F6</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[40][3] Alcina`s Ornate Vanity Power = 30k">
+        <Cheatline>
+            <Offset>0B19FA50</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-84-01-00-00-00-60-EA-46-C4-C1-7A-10-8F-84-01-00-00-E9-83-9E-A6-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,22 @@
+{
+  "name": "A Plague Tale: Innocence",
+  "id": "CUSA10812",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Throwable/ Equipped / Craftable Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2820C0",
+          "on": "90909090",
+          "off": "44296838"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "GamerX2"
+  ]
+}
