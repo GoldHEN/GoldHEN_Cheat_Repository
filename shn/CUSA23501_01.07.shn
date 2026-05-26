@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Grand Theft Auto III – The Definitive Edition" Moder="4GAMER" Cusa="CUSA23501" Version="01.07" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health" Description="Grants complete invulnerability to all damage. (Player Only)">
+    <Cheatline>
+      <PS5Offset>5F2-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>5853A0E</Offset>
+      <ValueOn>80-3B-D8-74-08-C5-FA-11-93-30-04-00-00-E9-19-DC-8F-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>47029CF-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>1151631</Offset>
+      <ValueOn>E9-D8-23-70-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-93-30-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Armor" Description="Maintains maximum body armor level. (Player Only)">
+    <Cheatline>
+      <PS5Offset>5DE-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>5853A22</Offset>
+      <ValueOn>80-3B-D8-74-08-C5-FA-11-93-34-04-00-00-E9-00-DB-8F-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>4702AD4-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>115152C</Offset>
+      <ValueOn>E9-F1-24-70-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-93-34-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo" Description="Unlimited ammunition.">
+    <Cheatline>
+      <PS5Offset>465ADAB-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>11F9255</Offset>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money" Description="Get $99,999,999 ( On Gain )">
+    <Cheatline>
+      <PS5Offset>4851A16-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>10025EA</Offset>
+      <ValueOn>BA-00-E1-F5-05</ValueOn>
+      <ValueOff>BA-00-E1-F5-05</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Money" Description="Prevents money from decreasing when buying items.">
+    <Cheatline>
+      <PS5Offset>4851648-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>10029B8</Offset>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-D1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Time" Description="Stops timer in sub-missions (taxi, police, etc.).">
+    <Cheatline>
+      <PS5Offset>47BB862-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>109879E</Offset>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

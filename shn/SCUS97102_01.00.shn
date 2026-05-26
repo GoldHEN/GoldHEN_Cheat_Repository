@@ -1652,7 +1652,7 @@
       <ValueOff>00-00-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Gold Spider&roadster">
+  <Cheat Text="Gold Spider &#38; Roadster">
     <Cheatline>
       <Offset>808057C874</Offset>
       <Section>0</Section>
@@ -1692,7 +1692,7 @@
       <ValueOff>00-00-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Gold Stars & Stripes">
+  <Cheat Text="Gold Stars &#38; Stripes">
     <Cheatline>
       <Offset>808057C89C</Offset>
       <Section>0</Section>
