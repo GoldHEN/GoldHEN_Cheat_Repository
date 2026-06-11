@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Monster Hunter Stories 2: Wings of Ruin" Moder="Super Death" Cusa="CUSA43546" Version="01.10" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Max Lvl" Description="Clear 2 battles for Max level">
+    <Cheatline>
+      <PS5Offset>7FC-executable[0]-5</PS5Offset>
+      <Offset>1BE3804</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-FA</ValueOn>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>D4F9DB-executable[0]-5</PS5Offset>
+      <Offset>E94625</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DA-F1-D4-00-90</ValueOn>
+      <ValueOff>89-87-A0-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>7F8-executable[0]-5</PS5Offset>
+      <Offset>1BE3808</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-00-65-CD-1D-89-87-A0-01-00-00-E9-13-0E-2B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>800-executable[0]-5</PS5Offset>
+      <Offset>1BE3800</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-06-90</ValueOn>
+      <ValueOff>EB-FE-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money" Description="Buy/sell an item">
+    <Cheatline>
+      <PS5Offset>7E6-executable[0]-5</PS5Offset>
+      <Offset>1BE381A</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-FE</ValueOn>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>1485EA2-executable[0]-5</PS5Offset>
+      <Offset>75E15E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B7-56-48-01-90</ValueOn>
+      <ValueOff>89-B3-54-05-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>7E2-executable[0]-5</PS5Offset>
+      <Offset>1BE381E</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-00-E1-F5-05-89-B3-54-05-00-00-E9-36-A9-B7-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Add x99 Items" Description="Buying or obtaining an item will add 99 of it.">
+    <Cheatline>
+      <PS5Offset>7C8-executable[0]-5</PS5Offset>
+      <Offset>1BE3838</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-FA</ValueOn>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>1485EFE-executable[0]-5</PS5Offset>
+      <Offset>75E102</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-31-57-48-01</ValueOn>
+      <ValueOff>44-01-7C-11-2C</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>7C4-executable[0]-5</PS5Offset>
+      <Offset>1BE383C</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BF-63-00-00-00-44-01-7C-11-2C-E9-BB-A8-B7-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>7CC-executable[0]-5</PS5Offset>
+      <Offset>1BE3834</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-06-90</ValueOn>
+      <ValueOff>EB-FE-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

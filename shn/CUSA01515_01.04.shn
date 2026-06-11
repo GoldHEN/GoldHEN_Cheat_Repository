@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Abyss Odyssey: Extended Dream Edition" Moder="Ali-mk" Cusa="CUSA01515" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="max-Health+max-GOLD+max-XP">
+    <Cheatline>
+      <Offset>200B800</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-9F-86-01-00-41-89-0E-49-8B-07-E9-D7-11-45-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>45C9E1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1A-EE-BA-01-90</ValueOn>
+      <ValueOff>41-89-0E-49-8B-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

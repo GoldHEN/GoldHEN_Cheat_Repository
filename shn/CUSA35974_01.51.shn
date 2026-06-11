@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Jagged Alliance 3" Moder="Evil Goku" Cusa="CUSA35974" Version="01.51" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf AP">
+    <Cheatline>
+      <PS5Offset>800-executable[0]-5</PS5Offset>
+      <Offset>FA3800</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-B6-48-08-4C-8B-6D-B8-48-3B-25-53-00-00-00-0F-85-90-2C-55-FF-48-83-F9-13-0F-85-86-2C-55-FF-49-83-F8-05-0F-85-7C-2C-55-FF-49-83-FA-7E-0F-85-72-2C-55-FF-49-81-FB-46-02-00-00-0F-85-65-2C-55-FF-49-83-FC-03-0F-85-5B-2C-55-FF-48-81-38-50-C3-00-00-0F-8D-4E-2C-55-FF-81-00-20-A1-07-00-E9-43-2C-55-FF-D0-33-09-EE-07-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>AADB63-executable[0]-5</PS5Offset>
+      <Offset>4F649D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5E-D3-AA-00-90-90-90</ValueOn>
+      <ValueOff>0F-B6-48-08-4C-8B-6D-B8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Money">
+    <Cheatline>
+      <PS5Offset>796-executable[0]-5</PS5Offset>
+      <Offset>FA386A</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-F9-13-75-2B-49-83-F8-0B-75-25-49-83-FA-00-75-1F-49-81-FB-46-02-00-00-75-16-49-83-FC-03-75-10-48-3B-25-15-00-00-00-75-07-48-C7-00-FF-C9-9A-3B-41-88-49-08-48-8B-00-E9-08-2C-55-FF-F0-1E-09-EE-07</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>AADB58-executable[0]-5</PS5Offset>
+      <Offset>4F64A8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BD-D3-AA-00-90-90</ValueOn>
+      <ValueOff>41-88-49-08-48-8B-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

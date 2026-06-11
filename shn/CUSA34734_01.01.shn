@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="NeverAwake" Moder="Ali-mk" Cusa="CUSA34734" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>83FF07A9</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-52-A0-C5-FC</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Shield-Ring">
+    <Cheatline>
+      <Offset>84B93681</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-80-F4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max-money">
+    <Cheatline>
+      <Offset>8715B800</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-7F-96-98-00-89-48-2C-E9-EA-81-FC-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>841239F0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0B-7E-03-03-90-90</ValueOn>
+      <ValueOff>89-48-2C-48-8B-45-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
