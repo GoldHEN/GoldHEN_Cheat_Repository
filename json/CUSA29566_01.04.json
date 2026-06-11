@@ -1,0 +1,102 @@
+{
+  "name": "Eiyuden Chronicle: Hundred Heroes",
+  "id": "CUSA29566",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "TRAINER INFO (read only)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5EFFF",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "837B5C010F84EC10FE028903418B4608E9E110FE02",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "82C400F0",
+          "on": "E90BEF01FD90",
+          "off": "8903418B4608"
+        }
+      ]
+    },
+    {
+      "name": "Inf HP \u002B One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F035",
+          "on": "837B5C017411837B540474148903418B4608E9AA10FE02418B4608E9A110FE02B8000000008903418B4608E99110FE02",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "82C400F0",
+          "on": "E940EF01FD90",
+          "off": "8903418B4608"
+        }
+      ]
+    },
+    {
+      "name": "Inf SP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F085",
+          "on": "C4E270F2C0B8050000008907E9DB20FE02",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "82C4116A",
+          "on": "E916DF01FD9090",
+          "off": "C4E270F2C08907"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F0B6",
+          "on": "B83F420F0089C341894674E9B2CFF201",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "81B8C072",
+          "on": "E93F300DFE90",
+          "off": "89C341894674"
+        }
+      ]
+    },
+    {
+      "name": "Inf Items (No Battle)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F0E6",
+          "on": "0F4CC8B806000000894F14E91FA09502",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "825B910F",
+          "on": "E9D25F6AFD90",
+          "off": "0F4CC8894F14"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

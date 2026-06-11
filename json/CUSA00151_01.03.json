@@ -1,0 +1,65 @@
+{
+  "name": "Guacamelee! Super Turbo Championship Edition",
+  "id": "CUSA00151",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B73000",
+          "on": "81BB200200002058FF000F844E918BFF898B50020000E943918BFFB90000803F",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "42C158",
+          "on": "E9A36E740090",
+          "off": "898B50020000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Life \u002B Easy Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B73040",
+          "on": "81BB200200002058FF000F840E918BFFB90000803F898B50020000E9FE908BFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "42C158",
+          "on": "E9E36E740090",
+          "off": "898B50020000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money at kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FD9E5",
+          "on": "0118",
+          "off": "8918"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "22636F",
+          "on": "9090909090909090",
+          "off": "C5FA1180A0010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

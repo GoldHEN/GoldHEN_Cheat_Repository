@@ -1,0 +1,123 @@
+{
+  "name": "DAVE THE DIVER",
+  "id": "CUSA45600",
+  "version": "01.21",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf O2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "C783940000000000C842C5FA108394000000C5FA118394000000E99DC59E01",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8164B5B4",
+          "on": "E9473A61FE909090",
+          "off": "C5FA118394000000"
+        }
+      ]
+    },
+    {
+      "name": "0 Weight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F03F",
+          "on": "41C7452C00000000C4C17A104D2CC4C17A114D2CE93744DC02",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "82A23489",
+          "on": "E9B1BB23FD90",
+          "off": "C4C17A114D2C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Bombs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F078",
+          "on": "4585FF8B4318894318E932C6C701",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "818DB6B2",
+          "on": "E9C13938FE90",
+          "off": "4585FF894318"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F0A6",
+          "on": "FFCE8B7374897374E97A1E9B02",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "82610F28",
+          "on": "E979E164FD",
+          "off": "FFCE897374"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F0D3",
+          "on": "41C747400000C842C4C17A104740C4C17A114740E93033EB01",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81B12416",
+          "on": "E9B8CC14FE90",
+          "off": "C4C17A114740"
+        }
+      ]
+    },
+    {
+      "name": "Max Items At Sell",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F10C",
+          "on": "C74490200F2700008B4C902085C9E959C20402",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81CAB372",
+          "on": "E9953DFBFD90",
+          "off": "8B4C902085C9"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (Only Melee)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F13F",
+          "on": "C7436400000000C5FA104364C5FA114364E9DAE09B01",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8161D22A",
+          "on": "E9101F64FE",
+          "off": "C5FA114364"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

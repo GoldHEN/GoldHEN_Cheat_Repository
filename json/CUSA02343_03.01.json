@@ -1,0 +1,22 @@
+{
+  "name": "Uncharted: The Nathan Drake Collection",
+  "id": "CUSA02343",
+  "version": "03.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Enable Debug Menu",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "16218D",
+          "on": "C681014C000000EB04C10B0000C681FC4B000001EB0584B30B0000",
+          "off": "C681014C000000EB04C10B0000C681FC4B000001EB0584B30B0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH"
+  ]
+}

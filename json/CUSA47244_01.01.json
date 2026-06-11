@@ -1,0 +1,75 @@
+{
+  "name": "Phantom Brave: The Lost Hero",
+  "id": "CUSA47244",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "4983BC242003000000740D49899C2470010000E9904B50804989842470010000E9834B5080",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "163BA0",
+          "on": "E95BB4AF7F909090",
+          "off": "49899C2470010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf SP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F045",
+          "on": "4989842490010000E9A34B5080",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "163BED",
+          "on": "E953B4AF7F909090",
+          "off": "49899C2490010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money And Mana",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F072",
+          "on": "49C7C5FFE0F5054D89AE187700004D89AE28770000E9CF9B4780",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D8C54",
+          "on": "E91964B87F9090",
+          "off": "4D89AE18770000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Spirits",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F0AC",
+          "on": "41BD630000004489ABE0030000E99C5D9880",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5E4E53",
+          "on": "E954A2677F9090",
+          "off": "4489ABE0030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

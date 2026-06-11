@@ -1,0 +1,70 @@
+{
+  "name": "Death\u0027s Door",
+  "id": "CUSA30424",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "C5FA104730C5FA114730E9FF5AF201",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "81B84B09",
+          "on": "E9F2A40DFE",
+          "off": "C5FA114730"
+        }
+      ]
+    },
+    {
+      "name": "Inf Life",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8060A16C",
+          "on": "9090909090",
+          "off": "E88F44FFFF"
+        }
+      ]
+    },
+    {
+      "name": "Inf Orbs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F02F",
+          "on": "41BE9F86010044897324803D8AE2400200E93D879F00",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80657777",
+          "on": "E9B37860FF909090909090",
+          "off": "44017324803D8AE2400200"
+        }
+      ]
+    },
+    {
+      "name": "Inf Plants",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F065",
+          "on": "41BC63000000458966240F8F5C859F00E94B849F00",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "806574BB",
+          "on": "E9A57B60FF9090909090",
+          "off": "452966240F8F0C010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

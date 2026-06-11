@@ -1,0 +1,615 @@
+{
+  "name": "Horizon Forbidden West",
+  "id": "CUSA30023",
+  "version": "01.18",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "TRAINER INFO (read only)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BDAFFF",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Master Code (Must be enabled first \u002B all the time)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BDB000",
+          "on": "C5FA108884000000488905F14EB703E954F272FF",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "674FF10",
+          "on": "00247449",
+          "off": "00247449"
+        },
+        {
+          "offset": "2BDB034",
+          "on": "837C241C10752B488905C64EB703488B4424184805D000000083780410751F488B00483B05A34EB703488B05A44EB70375154D8BBFB0000000E92729A6FE483B05874EB70374EB8B058F4EB703894328488B057D4EB703EBD9",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "230A260",
+          "on": "E99B0D8D00909090",
+          "off": "C5FA108884000000"
+        },
+        {
+          "offset": "163D992",
+          "on": "E99DD659019090",
+          "off": "4D8BBFB0000000"
+        },
+        {
+          "offset": "674FF20",
+          "on": "0000",
+          "off": "0000"
+        },
+        {
+          "offset": "2BDB115",
+          "on": "488B4748488B487853488B98D0000000488B5B70668B1DF04DB7035BE9B87D03FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1C12EE6",
+          "on": "E92A82FC00909090",
+          "off": "488B4748488B4878"
+        },
+        {
+          "offset": "674FF24",
+          "on": "00004041",
+          "off": "00004041"
+        },
+        {
+          "offset": "2BDB2AB",
+          "on": "D905734CB703D95820C5FA104020E927A46AFF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "22856E0",
+          "on": "E9C65B9500",
+          "off": "C5FA104020"
+        },
+        {
+          "offset": "674FF28",
+          "on": "0100000000000000",
+          "off": "0100000000000000"
+        },
+        {
+          "offset": "2BDB374",
+          "on": "8A4E58448B6620440FAF25A54BB703E9A49E39FF",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F75225",
+          "on": "E94A61C6009090",
+          "off": "8A4E58448B6620"
+        },
+        {
+          "offset": "2BDB435",
+          "on": "C5FA104074488905EF4AB70350498B80C8000000488905E84AB70358E917EE72FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "674FF40",
+          "on": "0000803F",
+          "off": "0000803F"
+        },
+        {
+          "offset": "674FF44",
+          "on": "0000803F",
+          "off": "0000803F"
+        },
+        {
+          "offset": "2BDB476",
+          "on": "483B3DBB4AB70374088B05BF4AB703EB068B05B34AB703898390030000E925604CFE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "230A268",
+          "on": "E9C8118D00",
+          "off": "C5FA104074"
+        },
+        {
+          "offset": "10A14B3",
+          "on": "E9BE9FB3019090909090",
+          "off": "C783900300000000803F"
+        },
+        {
+          "offset": "674FF48",
+          "on": "0000803F",
+          "off": "0000803F"
+        },
+        {
+          "offset": "2BDB4B8",
+          "on": "F30F590D884AB703C5FA11885C010000E9197BAAFE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1682FDE",
+          "on": "E9D5845501909090",
+          "off": "C5FA11885C010000"
+        },
+        {
+          "offset": "674FF4C",
+          "on": "0000803F",
+          "off": "0000803F"
+        },
+        {
+          "offset": "2BDB4ED",
+          "on": "F30F5905574AB703C5FA5981D0000000C5FA5981D8000000E96EFA22FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1E0AF68",
+          "on": "E98005DD009090909090909090909090",
+          "off": "C5FA5981D0000000C5FA5981D8000000"
+        }
+      ]
+    },
+    {
+      "name": "--One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "674FF10",
+          "on": "00247449",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BDB0AD",
+          "on": "4C893D644EB703C5FA104074E99C3581FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "2BDB0DE",
+          "on": "31C94889DA4C39352E4EB7030F8481F52BFEE977F52BFE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "23EE655",
+          "on": "E953CA7E00",
+          "off": "C5FA104074"
+        },
+        {
+          "offset": "E9A667",
+          "on": "E9720AD401",
+          "off": "31C94889DA"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jump and Glide",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "223ECEF",
+          "on": "4180BC245001000001",
+          "off": "4180BC245001000000"
+        }
+      ]
+    },
+    {
+      "name": "--Toggle_Mount_Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "674FF20",
+          "on": "0100",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Stealth Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1416E10",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Heavy Weapons Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BDB156",
+          "on": "4885C9740D4885D2740841837C243C10750D41898C2490000000E9EA2F46FFB99A020000EBEC",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "203E157",
+          "on": "E9FACFB900909090",
+          "off": "41898C2490000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Max Items and Arrows",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BDB19C",
+          "on": "440F4EE141BC0F27000045896250E9078031FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2BDB1CF",
+          "on": "29C84885C0750941894050E9D42131FFB80F270000EBF0",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2BDB206",
+          "on": "488B8D58FFFFFF7C05E9952131FF4189405039CAE98A2131FF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1EF31AE",
+          "on": "E9E97FCE00909090",
+          "off": "440F4EE145896250"
+        },
+        {
+          "offset": "1EED3AD",
+          "on": "E91DDECE0090",
+          "off": "29C841894050"
+        },
+        {
+          "offset": "1EED3A2",
+          "on": "E95FDECE009090",
+          "off": "488B8D58FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "No Craft, Purchase, Upgrade Requirements",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F09820",
+          "on": "83FF0090",
+          "off": "413B7E20"
+        }
+      ]
+    },
+    {
+      "name": "[Weapon] Instant Reload Speed",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BDB23F",
+          "on": "0F57C00F57C9C5FA118300010000E98F0746FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "203B9D9",
+          "on": "E961F8B900909090",
+          "off": "C5FA118300010000"
+        }
+      ]
+    },
+    {
+      "name": "[Weapon] Straight Shot With Little Tautness",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BDB272",
+          "on": "41C7868C00000000002040C4C17A10868C000000E9614746FF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "203F9E3",
+          "on": "E98AB8B90090909090",
+          "off": "C4C17A11868C000000"
+        }
+      ]
+    },
+    {
+      "name": "--Hour: 0",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "674FF24",
+          "on": "00000000",
+          "off": "00004041"
+        }
+      ]
+    },
+    {
+      "name": "Max Med Use Amount on Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C25055",
+          "on": "89D690",
+          "off": "0F4ED6"
+        }
+      ]
+    },
+    {
+      "name": "No Stash Items Increase",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F06957",
+          "on": "9090",
+          "off": "01F9"
+        }
+      ]
+    },
+    {
+      "name": "Max Infinite Shards (Open Inventory)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BDB2DE",
+          "on": "41BE7F969800458974F210E9A480A4FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "162338D",
+          "on": "E94C7F5B01",
+          "off": "458B74F210"
+        }
+      ]
+    },
+    {
+      "name": "Inf\u002BMax Valor Surge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BDB30E",
+          "on": "F30F10CAC4C17A118F80000000E91DAE7DFF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "23B6134",
+          "on": "E9D551820090909090",
+          "off": "C4C17A108F80000000"
+        }
+      ]
+    },
+    {
+      "name": "Instant End Valor Surge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B1F186",
+          "on": "C5FA1116",
+          "off": "C5FA1106"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Oxygen\u002BStamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DDB554",
+          "on": "F30F10C1",
+          "off": "C5FA5DC1"
+        }
+      ]
+    },
+    {
+      "name": "Inf\u002BMax Skill Points (Open Inventory)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BDB340",
+          "on": "B8E7030000894770488DB3E0000000E9A4B0ACFF",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "26A63EE",
+          "on": "E94D4F53009090909090",
+          "off": "8B4770488DB3E0000000"
+        }
+      ]
+    },
+    {
+      "name": "--XP Multiplier x5",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "674FF28",
+          "on": "0500000000000000",
+          "off": "0100000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Instant Remove Effects",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BDB3A8",
+          "on": "41C7874C01000000000000E91E1207FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1C4C5CD",
+          "on": "E9D6EDF80090909090",
+          "off": "C4C17A10874C010000"
+        }
+      ]
+    },
+    {
+      "name": "Instant Mount Override Recovery",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BDB3D8",
+          "on": "41B601C7000000803FE9A1A985FD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "435D80",
+          "on": "E953567A029090",
+          "off": "41B601C5FA1100"
+        }
+      ]
+    },
+    {
+      "name": "Mount Never Gets Scared (Read Info)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C133BD",
+          "on": "9090",
+          "off": "FFC0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Food Health Boost on Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BDB406",
+          "on": "C5FA104028C5FA11402CE90E82C5FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "183361E",
+          "on": "E9E37D3A01",
+          "off": "C5FA11402C"
+        }
+      ]
+    },
+    {
+      "name": "--Aloy Speed x1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "674FF40",
+          "on": "0000803F",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Others Speed x0.2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "674FF44",
+          "on": "0000803F",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Game Speed x1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "674FF48",
+          "on": "0000803F",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Camera Zoom x0",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "674FF4C",
+          "on": "00000000",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "[Teleport] To Base (L1\u002BL2\u002BR1\u002BR2)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BDB52A",
+          "on": "468B642F284883FF000F8532375FFD448925104AB703E926375FFD",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2BDB565",
+          "on": "C5FB584010488905E749B703E9DA54ADFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "2BDB596",
+          "on": "813DB049B703000F0000740DC5F15808C5F91108E99C54ADFD483B05A249B70375EAC7400430BF9040C7400CFF9A60C0C74014E1BC8240EBD3",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1CEC66",
+          "on": "E9BFC8A002",
+          "off": "468B642F28"
+        },
+        {
+          "offset": "6B0A4B",
+          "on": "E915AB5202",
+          "off": "C5FB584010"
+        },
+        {
+          "offset": "6B0A43",
+          "on": "E94EAB5202909090",
+          "off": "C5F15808C5F91108"
+        }
+      ]
+    },
+    {
+      "name": "[Teleport] To map waypoint",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BDB5EF",
+          "on": "4883FF000F8578365FFD4489256049B7034585E40F98C2E966365FFD",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2BDB62B",
+          "on": "C5FB1140104889053149B703E91954ADFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "2BDB65C",
+          "on": "C4817C110427813DF448B703000100000F85513EAEFE50488B05EE48B703438B5C2714895804438B5C271C89580C438B5C272481C30000010089581458E9253EAEFE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1CEC6B",
+          "on": "E97FC9A00290",
+          "off": "4585E40F98C2"
+        },
+        {
+          "offset": "6B0A50",
+          "on": "E9D6AB5202",
+          "off": "C5FB114010"
+        },
+        {
+          "offset": "16BF4BD",
+          "on": "E99AC1510190",
+          "off": "C4817C110427"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Dioniso",
+    "Pharaoh2k",
+    "Rizla",
+    "Fullcodes"
+  ]
+}

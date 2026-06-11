@@ -1,0 +1,90 @@
+{
+  "name": "Cult of the Lamb",
+  "id": "CUSA32184",
+  "version": "01.29",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Items And Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81234B8C",
+          "on": "90909090",
+          "off": "44017014"
+        },
+        {
+          "offset": "7FC5F000",
+          "on": "C74014E70300004889C3E9D4605D01",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "812350DC",
+          "on": "E91F9FA2FE9090",
+          "off": "440160144889C3"
+        }
+      ]
+    },
+    {
+      "name": "Inf Life",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F02F",
+          "on": "E98492F301C5FA1187F4020000E97792F301",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81B982B0",
+          "on": "E97A6D0CFE909090",
+          "off": "C5FA1187F4020000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Prey Bar",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F061",
+          "on": "C7809C0100000000C842C5FA10809C010000C5FA11809C010000E97D658E02",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "825455F5",
+          "on": "E9679A71FD909090",
+          "off": "C5FA11809C010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Prey Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F0A0",
+          "on": "B9E703000041898E08010000E9D160D002",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "81F5FBA3",
+          "on": "90909090909090",
+          "off": "41898D08010000"
+        },
+        {
+          "offset": "81F5F923",
+          "on": "90909090909090",
+          "off": "41898F08010000"
+        },
+        {
+          "offset": "8296517B",
+          "on": "E9209F2FFD9090",
+          "off": "41898E08010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

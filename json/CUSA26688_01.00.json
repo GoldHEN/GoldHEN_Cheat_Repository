@@ -1,0 +1,140 @@
+{
+  "name": "Road Fury",
+  "id": "CUSA26688",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18D7DB0",
+          "on": "8B4C24F48B4844894840E956F9F07F526564646576696C3832202D20465720392E3030",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "817E770E",
+          "on": "E99D060F809090",
+          "off": "8B4C24F4894840"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill ( Boss )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18D7DD3",
+          "on": "8B4C24F431C9894864E9546AF07F",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "817DE82E",
+          "on": "E9A0950F809090",
+          "off": "8B4C24F4894864"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18D7DE1",
+          "on": "488B4424F8C740189F8601008B4018E9B8B2E87F",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "817630A5",
+          "on": "E9374D1780909090",
+          "off": "488B4424F88B4018"
+        }
+      ]
+    },
+    {
+      "name": "Max Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18D7DF5",
+          "on": "488B4424F8C74028180000008B4028E904B3E87F",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81763105",
+          "on": "E9EB4C1780909090",
+          "off": "488B4424F88B4028"
+        }
+      ]
+    },
+    {
+      "name": "Max driving Distance",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18D7E09",
+          "on": "C740240000C842C5FA104024E9A5B2E87F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "817630BA",
+          "on": "E94A4D1780",
+          "off": "C5FA104024"
+        }
+      ]
+    },
+    {
+      "name": "Max Damage Cars",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18D7E44",
+          "on": "488B4424F8C7401CDC0500008B401CE975B2E87F",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "817630C5",
+          "on": "E97A4D1780909090",
+          "off": "488B4424F88B401C"
+        }
+      ]
+    },
+    {
+      "name": "Max Booster",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18D7E30",
+          "on": "488B4424F8C7407C5E0100008B407CE9B9B2E87F",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "817630F5",
+          "on": "E9364D1780909090",
+          "off": "488B4424F88B407C"
+        }
+      ]
+    },
+    {
+      "name": "Max Damage ( Police Cars )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18D7E1A",
+          "on": "C78080000000640000008B8080000000E9B1B2E87F",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "817630DA",
+          "on": "E93B4D178090",
+          "off": "8B8080000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

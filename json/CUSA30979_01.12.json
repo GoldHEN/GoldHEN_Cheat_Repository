@@ -1,0 +1,91 @@
+{
+  "name": "Little Witch Nobeta",
+  "id": "CUSA30979",
+  "version": "01.12",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "4181FD88700083740AC5FA114320E9CEC93201C5FA104320C5FA114320E9BFC93201",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80F8B9DC",
+          "on": "E91F36CDFE",
+          "off": "C5FA114320"
+        }
+      ]
+    },
+    {
+      "name": "Inf Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F042",
+          "on": "C5FA10432CC5FA11432CE986CA3201",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80F8BAD2",
+          "on": "E96B35CDFE",
+          "off": "C5FA11432C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F071",
+          "on": "C5FA104338C5FA114338E937CB3201",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80F8BBB2",
+          "on": "E9BA34CDFE",
+          "off": "C5FA114338"
+        }
+      ]
+    },
+    {
+      "name": "Inf Super",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F0A0",
+          "on": "C5FA10432CC5FA11432CE9EDCC3201",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80F8BD97",
+          "on": "E90433CDFE",
+          "off": "C5FA11432C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F0CF",
+          "on": "C74010804FC347C5FA104010C5FA114010E974B51301",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80D9A654",
+          "on": "E9764AECFE",
+          "off": "C5FA114010"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

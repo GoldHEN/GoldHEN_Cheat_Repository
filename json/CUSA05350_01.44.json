@@ -1,0 +1,91 @@
+{
+  "name": "Dragon Ball: Xenoverse 2",
+  "id": "CUSA05350",
+  "version": "01.44",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Atribute Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CBF000",
+          "on": "41C7860002000058020000E9BEDB8BFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "57CBC7",
+          "on": "E9342474019090",
+          "off": "4589BE00020000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ki",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CBF030",
+          "on": "C4C17A109760010000C4C17A1197FC000000E9E67E3DFE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "96F24",
+          "on": "E90781C20190909090",
+          "off": "C4C17A1197FC000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Life",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CBF067",
+          "on": "41807F30007517C4C17A108750010000C4C17A1187F0000000E9C9733FFEC4C17A1187F0000000E9BB733FFE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B6445",
+          "on": "E91D8CC00190909090",
+          "off": "C4C17A1187F0000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CBF0B3",
+          "on": "BB00CA9A3BE9245EC7FE",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "934EDB",
+          "on": "E9D3A1380190",
+          "off": "81FB00CA9A3B"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CBF0DD",
+          "on": "C4C17A108660010000C4C17A11865C010000E9D8763FFE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B67C3",
+          "on": "E91589C00190909090",
+          "off": "C4C17A11865C010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "All credits to Celogamez / Talixme Only convert 1.44"
+  ]
+}

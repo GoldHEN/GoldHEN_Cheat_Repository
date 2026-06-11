@@ -1,0 +1,103 @@
+{
+  "name": "Prodeus",
+  "id": "CUSA31340",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invulnerable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1983DB0",
+          "on": "2401B801000000E98932DF7E526564646576696C3832202D20465720392E3030",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "80777040",
+          "on": "E96BCD2081",
+          "off": "24010FB6C0"
+        }
+      ]
+    },
+    {
+      "name": "Ignore me ( Enemies won\u00B4t attack you )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1983DD0",
+          "on": "2401B801000000E9C981CB7E",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "8063BFA0",
+          "on": "E92B7E3481",
+          "off": "24010FB6C0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health ( after hit )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1983DDC",
+          "on": "488B4424F8C74424F4640000008B4C24F4E9105FCF7E",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80679CF9",
+          "on": "E9DEA0308190909090",
+          "off": "488B4424F88B4C24F4"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Armor ( after hit )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1983DF2",
+          "on": "488B4424F8C74424F4640000008B4C24F4E91A32DF7E",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80777019",
+          "on": "E9D4CD208190909090",
+          "off": "488B4424F88B4C24F4"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19B83F9",
+          "on": "9090",
+          "off": "8908"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1983E08",
+          "on": "8B8884000000898888000000E97F9DD97E",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "8071DB92",
+          "on": "E97162268190",
+          "off": "898888000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

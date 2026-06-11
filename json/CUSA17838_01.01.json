@@ -1,0 +1,70 @@
+{
+  "name": "Creature in the Well",
+  "id": "CUSA17838",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "659363",
+          "on": "8987B0070000",
+          "off": "898FB0070000"
+        }
+      ]
+    },
+    {
+      "name": "Easy Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5D9B000",
+          "on": "83C60A897413104139F0E9E29A8CFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "664AEA",
+          "on": "E9116573059090",
+          "off": "897413104139F0"
+        }
+      ]
+    },
+    {
+      "name": "0 Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5D9B02F",
+          "on": "BE00000000897413104139F0E9B19A8CFA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "664AEA",
+          "on": "E9406573059090",
+          "off": "897413104139F0"
+        }
+      ]
+    },
+    {
+      "name": "Max Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5D9B060",
+          "on": "C74413109F8601004139F0E9819A8CFA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "664AEA",
+          "on": "E9716573059090",
+          "off": "897413104139F0"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

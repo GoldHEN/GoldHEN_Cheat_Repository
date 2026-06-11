@@ -1,0 +1,75 @@
+{
+  "name": "Blasphemous",
+  "id": "CUSA16275",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "157FEA0",
+          "on": "90E9F4B27F7F",
+          "off": "000000000000"
+        },
+        {
+          "offset": "80D7B195",
+          "on": "E9064D8080",
+          "off": "E856AF2900"
+        }
+      ]
+    },
+    {
+      "name": "Invincibility",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "157FF40",
+          "on": "90E97336807F",
+          "off": "000000000000"
+        },
+        {
+          "offset": "80D835B3",
+          "on": "E988C97F8090",
+          "off": "FF9080010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Fervor",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "157FE00",
+          "on": "90E953FC827F",
+          "off": "000000000000"
+        },
+        {
+          "offset": "80DAFA54",
+          "on": "E9A7037D80",
+          "off": "E8C794E4FF"
+        }
+      ]
+    },
+    {
+      "name": "Max Health/Fervor/Blood Penitence On Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "157FF50",
+          "on": "6681F9904D750CC74748003C1C46E9CD8F677FC5FA114748E9C38F677F",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80BF8F2B",
+          "on": "E920709880",
+          "off": "C5FA114748"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "name": "Deep Rock Galactic",
+  "id": "CUSA15094",
+  "version": "01.33",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Oxygen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "623F800",
+          "on": "41C786D40000000000C842E9DD4599FA526564646576696C3832202D20465720392E3030",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "BD3DE4",
+          "on": "E917BA660590909090",
+          "off": "C4C17A1186D4000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Bosco Revives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "623F826",
+          "on": "C786E8040000020000008B86E8040000E9D07592FA",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B66E05",
+          "on": "E91C8A6D0590",
+          "off": "8B86E8040000"
+        }
+      ]
+    },
+    {
+      "name": "No Overheat",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "623F83D",
+          "on": "C4C17A1085A8070000C4C17A1185B4070000E9D03DAAFA",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "CE361B",
+          "on": "E91DC2550590909090",
+          "off": "C4C17A1185B4070000"
+        }
+      ]
+    },
+    {
+      "name": "No Overheat Drill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "623F856",
+          "on": "0F57C0C5FA1183C4020000E93379ADFA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "D17191",
+          "on": "E9C0865205909090",
+          "off": "C5FA1183C4020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Drill Fuel",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "623F868",
+          "on": "C4C17A1084247C040000C4C17A11842480040000C4C17A10842480040000E997ABA9FA",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "CDA418",
+          "on": "E94B5456059090909090",
+          "off": "C4C17A10842480040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Flares",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "623FDC7",
+          "on": "41C7871802000005000000418B8718020000E9F76F70FA",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "946DCE",
+          "on": "E9F48F8F059090",
+          "off": "418B8718020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo ( Primary )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "623F88D",
+          "on": "C780480600000F270000888BC0020000E94FB3A7FA",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "CBABEB",
+          "on": "E99D4C580590",
+          "off": "888BC0020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo ( Secondary )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "623F8A4",
+          "on": "C78348060000E7030000E9323BA7FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "CB33DF",
+          "on": "E9C0C4580590",
+          "off": "898348060000"
+        }
+      ]
+    },
+    {
+      "name": "Max Shield Generator",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "623F8B5",
+          "on": "C78754010000630000008B8754010000E9209AAAFA",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "CE92E4",
+          "on": "E9CC65550590",
+          "off": "8B8754010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Grenades ( on use )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "623F8CC",
+          "on": "C7838C030000E7030000E99A42ADFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "D13B6F",
+          "on": "E958BD520590",
+          "off": "89838C030000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CB33C8",
+          "on": "909090909090",
+          "off": "2B8330060000"
+        }
+      ]
+    },
+    {
+      "name": "Max Clip Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "623F8DD",
+          "on": "C78744060000E70300008B8744060000E94462A7FA",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "CB5B30",
+          "on": "E9A89D580590",
+          "off": "8B8744060000"
+        }
+      ]
+    },
+    {
+      "name": "Max Bosco Rockets",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "623F8F4",
+          "on": "C78350010000040000008B8350010000E98FAC92FA",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B6A592",
+          "on": "E95D536D0590",
+          "off": "8B8350010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Credits",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "623FDB0",
+          "on": "C78018050000FFE0F505C5FA2A8018050000E9828E9EFA",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C28C41",
+          "on": "E96A716105909090",
+          "off": "C5FA2A8018050000"
+        }
+      ]
+    },
+    {
+      "name": "Max Scrip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "623F90B",
+          "on": "C740043F420F008B40044883C408E9BAAFBFFA",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E3A8D1",
+          "on": "E9355040059090",
+          "off": "8B40044883C408"
+        }
+      ]
+    },
+    {
+      "name": "Max Ressources",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "623F920",
+          "on": "C74408109F860100C5FA10440810E987D689FA",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "ADCFB4",
+          "on": "E96729760590",
+          "off": "C5FA10440810"
+        }
+      ]
+    },
+    {
+      "name": "Max Perks ( on use )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "623F935",
+          "on": "C780D0030000E70300003998D0030000E931B59DFA",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C1AE75",
+          "on": "E9BB4A620590",
+          "off": "3998D0030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Performance",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "623F94C",
+          "on": "C70040420F008B18E847C682FAE944B6BFFA",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E3AF9B",
+          "on": "E9AC4940059090",
+          "off": "8B18E8FE0FC3FF"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer ( Mission )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "AB431B",
+          "on": "90909090909090909090",
+          "off": "C4C17A118424C0040000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

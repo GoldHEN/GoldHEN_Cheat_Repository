@@ -1,0 +1,146 @@
+{
+  "name": "Dying Light 2: Stay Human",
+  "id": "CUSA12555",
+  "version": "01.30",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (Not Against Your Own Molotov)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2EF0C26",
+          "on": "9090909090",
+          "off": "E8E5C949FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina/Breath",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "602B220",
+          "on": "C4C17A10442408C4C17A11442410E99977EFFC",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2F229C5",
+          "on": "E9568810039090",
+          "off": "C4C17A11442410"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items/Arrows/Craft On Use (Need 2 To work)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2E9BA78",
+          "on": "9090909090",
+          "off": "E8C35AD4FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Throwables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2E9BD80",
+          "on": "9090909090",
+          "off": "E8BB57D4FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapons Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BA2083",
+          "on": "9090909090909090",
+          "off": "C5FA1183A8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Immunity/Chemical Area",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2EF8D7D",
+          "on": "909090909090",
+          "off": "C4C17A11472C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite UV Flashlight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "604BD90",
+          "on": "41C784248001000000006041E92D1547FC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "24BD2C4",
+          "on": "E9C7EAB8039090909090",
+          "off": "C4C17A11842480010000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "607B910",
+          "on": "0F4CD1C74734FFC99A3BE9CBDCE1FC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2E995E4",
+          "on": "E927231E0390",
+          "off": "0F4CD1895734"
+        },
+        {
+          "offset": "607B940",
+          "on": "29D8C74734FFC99A3BE9AFDEE1FC",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "2E997F8",
+          "on": "E943211E03",
+          "off": "29D8894734"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Time challenge (Disable B4 Finishing)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3503E88",
+          "on": "9090909090",
+          "off": "C5FA114370"
+        }
+      ]
+    },
+    {
+      "name": "Max XP (Use After Escaping Waltz)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "30F30DD",
+          "on": "41897E18",
+          "off": "49894618"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

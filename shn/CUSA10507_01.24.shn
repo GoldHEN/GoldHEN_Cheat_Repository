@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Remnant: From the Ashes" Moder="Celogamez" Cusa="CUSA10507" Version="01.24" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>7FC5F5E0</Offset>
+      <Section>0</Section>
+      <ValueOn>83-BB-74-02-00-00-00-75-0D-C5-FA-10-8B-70-08-00-00-E9-67-B5-BF-80-C5-FA-11-8B-70-08-00-00-E9-5A-B5-BF-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>85AB55</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-86-4A-40-7F-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-70-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Endurance">
+    <Cheatline>
+      <Offset>7FC5FF80</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-8B-40-01-00-00-E9-C2-EB-BD-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>83EB47</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-34-14-42-7F-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-40-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>9639F6</Offset>
+      <Section>0</Section>
+      <ValueOn>44-2B-76-54</ValueOn>
+      <ValueOff>44-29-76-54</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Items">
+    <Cheatline>
+      <Offset>7FC5FEA0</Offset>
+      <Section>0</Section>
+      <ValueOn>89-70-2C-C6-40-2C-63-E9-39-44-CE-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9442E0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BB-BB-31-7F</ValueOn>
+      <ValueOff>74-03-89-70-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Consumables/Resources/Money">
+    <Cheatline>
+      <Offset>7FC5F890</Offset>
+      <Section>0</Section>
+      <ValueOn>89-47-2C-C7-47-2C-3F-42-0F-00-E9-0F-F5-CE-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>94EDA9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E2-0A-31-7F</ValueOn>
+      <ValueOff>01-D8-89-47-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="MAX XP (On Kill)">
+    <Cheatline>
+      <Offset>7FC5F8F0</Offset>
+      <Section>0</Section>
+      <ValueOn>89-BB-24-01-00-00-E9-A3-DB-D5-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9BD497</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-54-24-2A-7F-90-90</ValueOn>
+      <ValueOff>44-01-B3-24-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

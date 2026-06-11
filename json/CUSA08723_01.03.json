@@ -1,0 +1,38 @@
+{
+  "name": "Rabi-Ribi",
+  "id": "CUSA08723",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7CB000",
+          "on": "83FF00740C418907448B4DCCE965EE8DFF418B07418907448B4DCCE956EE8DFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A9E6F",
+          "on": "E98C1172009090",
+          "off": "418907448B4DCC"
+        }
+      ]
+    },
+    {
+      "name": "Inf Mp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "63233",
+          "on": "909090909090909090",
+          "off": "C5FA118408B8060000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

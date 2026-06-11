@@ -1,0 +1,74 @@
+{
+  "name": "Seven: Enhanced Edition",
+  "id": "CUSA15019",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life And Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4897000",
+          "on": "837E0A007514C5FA11065DE90DA2EFFBC5FA11065DE903A2EFFB837E0E0074F0C5FA1006C5FA11065DE9EFA1EFFB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "791218",
+          "on": "E9E35D1004",
+          "off": "C5FA11065D"
+        }
+      ]
+    },
+    {
+      "name": "Inf Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "259575",
+          "on": "C4817C11443508",
+          "off": "C4817C11443508"
+        },
+        {
+          "offset": "489704E",
+          "on": "B863000000E99A0299FB",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "4897078",
+          "on": "B9630000008908F6853CFEFFFF01E98EF098FBC4817C11443508E9E5249CFB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2272E9",
+          "on": "E960FD660490909090",
+          "off": "4429E80F8EC7000000"
+        },
+        {
+          "offset": "226110",
+          "on": "E9630F670490909090",
+          "off": "0108F6853CFEFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "0 Weight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "48970B7",
+          "on": "41C786E003000000000000E91FFE98FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "226EDD",
+          "on": "E9D501670490909090",
+          "off": "C4C17A118EE0030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

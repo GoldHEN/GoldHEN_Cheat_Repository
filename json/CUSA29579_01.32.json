@@ -1,0 +1,167 @@
+{
+  "name": "Stranger of Paradise: Final Fantasy Origin",
+  "id": "CUSA29579",
+  "version": "01.32",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33DBDB0",
+          "on": "8B83D806000083BBC40100000074068B4A18894A208B4A20E9FF61E9FC526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "271FC3",
+          "on": "E9E89D160390909090",
+          "off": "8B83D80600008B4A20"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33DBDE1",
+          "on": "4150448B44836444894483604158C5F82E448360E918BDD4FC",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "127B0C",
+          "on": "E9D0422B0390",
+          "off": "C5F82E448360"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Break Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2771EC",
+          "on": "C4C17A114F34",
+          "off": "C4C17A114734"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP \u002B Max MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33DBDFA",
+          "on": "C783E013000000001644C783EC13000000001644C5FA108BE0130000E9820EE8FC",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "25CC95",
+          "on": "E960F11703909090",
+          "off": "C5FA108BE0130000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33DBE1B",
+          "on": "89F883BB18020000007405B8010000004429F0E9BC04CEFC",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BC2EA",
+          "on": "E92CFB3103",
+          "off": "89F84429F0"
+        }
+      ]
+    },
+    {
+      "name": "Max Potion",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33DBE33",
+          "on": "41C647046341807F0400E99868CBFC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "926D5",
+          "on": "E959973403",
+          "off": "41807F0400"
+        }
+      ]
+    },
+    {
+      "name": "Max Abilities ( if available )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33DBE42",
+          "on": "C7840860210000630000008B9C0860210000E908F724FE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "162B55A",
+          "on": "E9E308DB019090",
+          "off": "8B9C0860210000"
+        }
+      ]
+    },
+    {
+      "name": "Max Anima ( Job Menu - you need one )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33DBE59",
+          "on": "6641C7840538C51700E703410FB7840538C51700E9F1FC41FE",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "17FBB5A",
+          "on": "E9FA02BE0190909090",
+          "off": "410FB7840538C51700"
+        }
+      ]
+    },
+    {
+      "name": "Max Anima, Maginit ( Items Inventory - you need one )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33DBE72",
+          "on": "488B042466C74008E7030FB77808E915AA36FE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1746892",
+          "on": "E9DB55C901909090",
+          "off": "488B04240FB77808"
+        }
+      ]
+    },
+    {
+      "name": "Max Job Points ( on use )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33DBE85",
+          "on": "BAE70300008910C60701E919D618FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "5694A8",
+          "on": "E9D829E702",
+          "off": "8910C60701"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

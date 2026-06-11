@@ -1,0 +1,54 @@
+{
+  "name": "Shovel Knight",
+  "id": "CUSA01867",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F1F000",
+          "on": "41C784242C0A00009F860100E917499FFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "913920",
+          "on": "E9DBB66000909090",
+          "off": "418984242C0A0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Life",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F1F031",
+          "on": "4983FF010F846E1455FFC4C17A11442438E9621455FF",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4704A2",
+          "on": "E98AEBAA009090",
+          "off": "C4C17A11442438"
+        }
+      ]
+    },
+    {
+      "name": "Inf Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "913F96",
+          "on": "909090909090",
+          "off": "8883280A0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

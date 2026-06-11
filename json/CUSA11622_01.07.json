@@ -1,0 +1,172 @@
+{
+  "name": "Agony",
+  "id": "CUSA11622",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4CC7800",
+          "on": "C5FA108B5C090000C5FA118BF0090000C5FA108BF0090000E94AEE47FB526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14665F",
+          "on": "E99C11B804909090",
+          "off": "C5FA108BF0090000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4CC7DB0",
+          "on": "C5FA1083200D0000C5FA1183880D0000E9B6F648FB",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "157473",
+          "on": "E93809B704909090",
+          "off": "C5FA1183880D0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Breath",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4CC7833",
+          "on": "C5FA1083240D0000C5FA1183940D0000E97BFC48FB",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1574BB",
+          "on": "E97303B704909090",
+          "off": "C5FA1183940D0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Astral Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4CC784A",
+          "on": "C4C17A10870C0D0000C4C17A1187100D0000E917A14AFB",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "17196F",
+          "on": "E9D65EB50490909090",
+          "off": "C4C17A1187100D0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4CC7863",
+          "on": "C7835C09000000401C46C5FA10835C090000E9E5ED47FB",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "146657",
+          "on": "E90712B804909090",
+          "off": "C5FA10835C090000"
+        }
+      ]
+    },
+    {
+      "name": "Max Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4CC787C",
+          "on": "C783200D00000000C842C5FA109B200D0000E95EFD48FB",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1575E9",
+          "on": "E98E02B704909090",
+          "off": "C5FA109B200D0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Breath",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4CC7895",
+          "on": "C783240D00000000C842C5FA1083240D0000E904FD48FB",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1575A8",
+          "on": "E9E802B704909090",
+          "off": "C5FA1083240D0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Astral Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4CC78AE",
+          "on": "C7870C0D000000007A44C5FA5E870C0D0000E95F8D4BFB",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "18061C",
+          "on": "E98D72B404909090",
+          "off": "C5FA5E870C0D0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Skills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4CC7DC5",
+          "on": "E810F862FB66C7401863000FB74018E9465756FB",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "22D516",
+          "on": "E9AAA8A904",
+          "off": "E8C5A00C00"
+        }
+      ]
+    },
+    {
+      "name": "Max Knowledge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4CC7DD9",
+          "on": "E8FCF762FBC74014630000008B4014E9075756FB",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "22D4EC",
+          "on": "E9E8A8A904",
+          "off": "E8EFA00C00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

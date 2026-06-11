@@ -1,0 +1,49 @@
+{
+  "name": "Octopath Traveler II",
+  "id": "CUSA36274",
+  "version": "01.11",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "8B1681FEC465FFEE7511837EF400740B8B56F489175DE90DF3160089175DE905F31600",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7FDCE323",
+          "on": "E9D80CE9FF",
+          "off": "8B1689175D"
+        }
+      ]
+    },
+    {
+      "name": "Inf Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CA20A9",
+          "on": "9090909090",
+          "off": "E8C237DDFF"
+        }
+      ]
+    },
+    {
+      "name": "Inf money after Buy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "AA4771",
+          "on": "4589A424E8020000",
+          "off": "41898424E8020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ran \u0026 Talixme"
+  ]
+}

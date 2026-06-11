@@ -1,0 +1,202 @@
+{
+  "name": "Vanquish",
+  "id": "CUSA16161",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1477800",
+          "on": "418B8D4804000041898D40040000418B8D40040000E9466ECDFE526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14E659",
+          "on": "E9A29132019090",
+          "off": "418B8D40040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1477830",
+          "on": "41C787A47D000000007A44E9B3B3D2FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1A2BEA",
+          "on": "E9414C2D0190909090",
+          "off": "C4C17A1187A47D0000"
+        },
+        {
+          "offset": "1477842",
+          "on": "C783A47D000000007A44E90277D0FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "17EF49",
+          "on": "E9F4882F019090909090",
+          "off": "C783A47D000000000000"
+        },
+        {
+          "offset": "1477853",
+          "on": "C783A47D000000007A44E98C31D4FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1BA9E6",
+          "on": "E968CE2B01909090",
+          "off": "C5FA1183A47D0000"
+        },
+        {
+          "offset": "1477864",
+          "on": "C783A47D000000007A44E90F33D4FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1BAB7A",
+          "on": "E9E5CC2B01909090",
+          "off": "C5FA1183A47D0000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1477875",
+          "on": "31C0898740040000E94835ECFE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "33ADC4",
+          "on": "E9ACCA130190",
+          "off": "898740040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo ( Weapon right )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14778DC",
+          "on": "66C780586C0100E703440FBF98586C0100E9C29DD5FE",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1D16AC",
+          "on": "E92B622A01909090",
+          "off": "440FBF98586C0100"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo ( Weapon up )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14778F4",
+          "on": "66C780386C0100E7030FBF88386C0100E9B29DD5FE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1D16B4",
+          "on": "E93B622A019090",
+          "off": "0FBF88386C0100"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo ( Weapon down )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "147790B",
+          "on": "66C780786C0100E703440FBF90786C0100E9FE9DD5FE",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1D1717",
+          "on": "E9EF612A01909090",
+          "off": "440FBF90786C0100"
+        }
+      ]
+    },
+    {
+      "name": "Max Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14778AD",
+          "on": "66C780986C0100E703440FBF98986C0100E9969ED5FE",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1D1751",
+          "on": "E957612A01909090",
+          "off": "440FBF98986C0100"
+        }
+      ]
+    },
+    {
+      "name": "Max EMP Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1477923",
+          "on": "66C780B86C0100E703440FBF98B86C0100E9669ED5FE",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1D1797",
+          "on": "E987612A01909090",
+          "off": "440FBF98B86C0100"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1477884",
+          "on": "668B510C6689510E837F1C00E98F57D0FE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "17D01C",
+          "on": "E963A82F01909090",
+          "off": "6689510E837F1C00"
+        }
+      ]
+    },
+    {
+      "name": "Max Total Score ( after Level finished )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1477897",
+          "on": "C74310FFE0F5058B4B10BA816967FFE9454A0BFF",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "52C2E8",
+          "on": "E9AAB5F400909090",
+          "off": "8B4B10BA816967FF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

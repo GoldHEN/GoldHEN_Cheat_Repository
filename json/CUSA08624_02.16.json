@@ -1,0 +1,1208 @@
+{
+  "name": "The Long Dark",
+  "id": "CUSA08624",
+  "version": "02.16",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "0-GO to  t.ly/Q9ogg  for the full tutorial on how to use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85C43799",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "1-ENABLE ALL A/C OPIONS (recommended) OR",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85C43813",
+          "on": "41C7457000000000C4C17A105D70E973B318FC",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81DCEB93",
+          "on": "E97B4CE70390",
+          "off": "C4C17A115D70"
+        },
+        {
+          "offset": "81C5C460",
+          "on": "909090909090",
+          "off": "C4C17A11467C"
+        },
+        {
+          "offset": "81C5C481",
+          "on": "909090909090",
+          "off": "C4C17A11467C"
+        },
+        {
+          "offset": "82E2E3E2",
+          "on": "9090909090",
+          "off": "E8B90C05FF"
+        },
+        {
+          "offset": "81E75572",
+          "on": "9090909090909090",
+          "off": "C5FA118304030000"
+        },
+        {
+          "offset": "81E75593",
+          "on": "9090909090909090",
+          "off": "C5FA118304030000"
+        },
+        {
+          "offset": "81DD70B3",
+          "on": "90909090",
+          "off": "41894F18"
+        },
+        {
+          "offset": "81B08898",
+          "on": "9090909090909090",
+          "off": "C5FA1183BC000000"
+        },
+        {
+          "offset": "82AB89B3",
+          "on": "9090909090909090",
+          "off": "C5FA1183BC000000"
+        },
+        {
+          "offset": "81A3BB63",
+          "on": "9090909090909090",
+          "off": "C5FA1183BC000000"
+        },
+        {
+          "offset": "81B09056",
+          "on": "909090909090909090",
+          "off": "C4C17A1186BC000000"
+        },
+        {
+          "offset": "80C7A1E3",
+          "on": "9090909090",
+          "off": "C5FA11401C"
+        },
+        {
+          "offset": "80C9C163",
+          "on": "909090",
+          "off": "894318"
+        },
+        {
+          "offset": "81DD6E70",
+          "on": "90909090",
+          "off": "41894618"
+        },
+        {
+          "offset": "80C7C3FA",
+          "on": "909090909090",
+          "off": "C4C17A114618"
+        },
+        {
+          "offset": "81619940",
+          "on": "9090909090",
+          "off": "C5FA114360"
+        },
+        {
+          "offset": "80C6346C",
+          "on": "909090",
+          "off": "FF4818"
+        },
+        {
+          "offset": "80C7D4DE",
+          "on": "909090",
+          "off": "FF4818"
+        },
+        {
+          "offset": "81E720AC",
+          "on": "90909090",
+          "off": "44296818"
+        },
+        {
+          "offset": "85C43927",
+          "on": "C7838000000000000000C5FA108380000000E906EBA8FC",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "826D243C",
+          "on": "E9E6145703909090",
+          "off": "C5FA118380000000"
+        },
+        {
+          "offset": "8210D912",
+          "on": "909090",
+          "off": "FF4818"
+        },
+        {
+          "offset": "828729C6",
+          "on": "9090909090",
+          "off": "C5FA11401C"
+        },
+        {
+          "offset": "81DD7A92",
+          "on": "909090",
+          "off": "FF4818"
+        },
+        {
+          "offset": "81E6D728",
+          "on": "9090909090909090",
+          "off": "C5FA118388000000"
+        },
+        {
+          "offset": "80C4D4A9",
+          "on": "9090909090",
+          "off": "C5FA114334"
+        },
+        {
+          "offset": "8210A620",
+          "on": "909090",
+          "off": "FF4818"
+        },
+        {
+          "offset": "82106D49",
+          "on": "9090909090",
+          "off": "E8B2080000"
+        },
+        {
+          "offset": "81A4B1BC",
+          "on": "C74344A3839042",
+          "off": "C7434400000000"
+        },
+        {
+          "offset": "85C43940",
+          "on": "C74344A3839042E9F073E0FB",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "81A4AD37",
+          "on": "E9048C1F04",
+          "off": "C5FA114344"
+        },
+        {
+          "offset": "81A37F32",
+          "on": "9090909090909090",
+          "off": "C5FA118804030000"
+        },
+        {
+          "offset": "81A37F64",
+          "on": "9090909090909090",
+          "off": "C5FA118004030000"
+        },
+        {
+          "offset": "81C4A43C",
+          "on": "9090909090",
+          "off": "C5FA11437C"
+        },
+        {
+          "offset": "81C4A45C",
+          "on": "9090909090",
+          "off": "C5FA11437C"
+        }
+      ]
+    },
+    {
+      "name": "2-ENABLE ALL B/C OPIONS (too easy=Boring)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85C43800",
+          "on": "C743180000D242C5FA104318E92F4A92FB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "8156823B",
+          "on": "E9C0B56D04",
+          "off": "C5FA114318"
+        },
+        {
+          "offset": "85C43813",
+          "on": "41C7457000000000C4C17A105D70E973B318FC",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81DCEB93",
+          "on": "E97B4CE70390",
+          "off": "C4C17A115D70"
+        },
+        {
+          "offset": "81C5C460",
+          "on": "909090909090",
+          "off": "C4C17A11467C"
+        },
+        {
+          "offset": "81C5C481",
+          "on": "909090909090",
+          "off": "C4C17A11467C"
+        },
+        {
+          "offset": "85C43828",
+          "on": "488B8308030000C5FA104848C5FA118B04030000C5FA108304030000E93D1D23FC",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81E75572",
+          "on": "E9B1E2DC03909090",
+          "off": "C5FA118304030000"
+        },
+        {
+          "offset": "85C4384B",
+          "on": "50488B8308030000C5FA104048C5FA11830403000058E97BAC22FC",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81E6E4D9",
+          "on": "E96D53DD03909090",
+          "off": "C5FA108304030000"
+        },
+        {
+          "offset": "85C43868",
+          "on": "50498B8508030000C5FA104048C4C17A11850403000058E9EA1F19FC",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81DD5865",
+          "on": "E9FEDFE60390909090",
+          "off": "C4C17A108504030000"
+        },
+        {
+          "offset": "81DD70B3",
+          "on": "90909090",
+          "off": "41894F18"
+        },
+        {
+          "offset": "81B08898",
+          "on": "9090909090909090",
+          "off": "C5FA1183BC000000"
+        },
+        {
+          "offset": "82AB89B3",
+          "on": "9090909090909090",
+          "off": "C5FA1183BC000000"
+        },
+        {
+          "offset": "81A3BB63",
+          "on": "9090909090909090",
+          "off": "C5FA1183BC000000"
+        },
+        {
+          "offset": "85C438B1",
+          "on": "C743180000A042C5FA104318E9019BECFB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "81B0D3BE",
+          "on": "E9EE641304",
+          "off": "C5FA104318"
+        },
+        {
+          "offset": "81B09056",
+          "on": "909090909090909090",
+          "off": "C4C17A1186BC000000"
+        },
+        {
+          "offset": "80C7A1E3",
+          "on": "9090909090",
+          "off": "C5FA11401C"
+        },
+        {
+          "offset": "80C9C163",
+          "on": "909090",
+          "off": "894318"
+        },
+        {
+          "offset": "81DD6E70",
+          "on": "90909090",
+          "off": "41894618"
+        },
+        {
+          "offset": "80C7C3FA",
+          "on": "909090909090",
+          "off": "C4C17A114618"
+        },
+        {
+          "offset": "85C43886",
+          "on": "C743600000803FC5FA104360E9AE609DFB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "81619940",
+          "on": "E9419F6204",
+          "off": "C5FA114360"
+        },
+        {
+          "offset": "84873D17",
+          "on": "90909090",
+          "off": "44894718"
+        },
+        {
+          "offset": "85C43914",
+          "on": "C7401863000000C5FB104018E9CBA818FC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "81DCE1EB",
+          "on": "E92457E703",
+          "off": "C5FB104018"
+        },
+        {
+          "offset": "80C6346C",
+          "on": "909090",
+          "off": "FF4818"
+        },
+        {
+          "offset": "826DFB4D",
+          "on": "9090909090",
+          "off": "C5FA114820"
+        },
+        {
+          "offset": "85C438C4",
+          "on": "41C7462000000000C4C17A104620E9E06BA9FC",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "826DA4B1",
+          "on": "E90E94560390",
+          "off": "C4C17A114620"
+        },
+        {
+          "offset": "826E3A57",
+          "on": "9090909090",
+          "off": "C5FA11431C"
+        },
+        {
+          "offset": "826E13F1",
+          "on": "9090909090",
+          "off": "C5FA114318"
+        },
+        {
+          "offset": "826D0FD7",
+          "on": "9090909090",
+          "off": "C5FA11431C"
+        },
+        {
+          "offset": "85C438FF",
+          "on": "C744822000000000C5FA104C8220E90ACD05FC",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81CA0616",
+          "on": "E9E432FA0390",
+          "off": "C5FA114C8220"
+        },
+        {
+          "offset": "85C438D9",
+          "on": "C7437800000000C5FA106B78E9A9CD4CFC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "8211068E",
+          "on": "E94632B303",
+          "off": "C5FA106B78"
+        },
+        {
+          "offset": "85C438EC",
+          "on": "C7437C00000000C5FA10437CE956CA4CFC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "8211034E",
+          "on": "E99935B303",
+          "off": "C5FA10437C"
+        },
+        {
+          "offset": "85C43927",
+          "on": "C7838000000000000000C5FA108380000000E906EBA8FC",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "826D243C",
+          "on": "E9E6145703909090",
+          "off": "C5FA118380000000"
+        },
+        {
+          "offset": "8210D912",
+          "on": "909090",
+          "off": "FF4818"
+        },
+        {
+          "offset": "828729C6",
+          "on": "9090909090",
+          "off": "C5FA11401C"
+        },
+        {
+          "offset": "81DD7A92",
+          "on": "909090",
+          "off": "FF4818"
+        },
+        {
+          "offset": "81E6D728",
+          "on": "9090909090909090",
+          "off": "C5FA118388000000"
+        },
+        {
+          "offset": "80C4D4A9",
+          "on": "9090909090",
+          "off": "C5FA114334"
+        },
+        {
+          "offset": "8210A620",
+          "on": "909090",
+          "off": "FF4818"
+        },
+        {
+          "offset": "82106D49",
+          "on": "9090909090",
+          "off": "E8B2080000"
+        },
+        {
+          "offset": "81A4B1BC",
+          "on": "C74344A3839042",
+          "off": "C7434400000000"
+        },
+        {
+          "offset": "85C43940",
+          "on": "C74344A3839042E9F073E0FB",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "81A4AD37",
+          "on": "E9048C1F04",
+          "off": "C5FA114344"
+        },
+        {
+          "offset": "81A37F32",
+          "on": "9090909090909090",
+          "off": "C5FA118804030000"
+        },
+        {
+          "offset": "81A37F64",
+          "on": "9090909090909090",
+          "off": "C5FA118004030000"
+        },
+        {
+          "offset": "81C4A43C",
+          "on": "9090909090",
+          "off": "C5FA11437C"
+        },
+        {
+          "offset": "81C4A45C",
+          "on": "9090909090",
+          "off": "C5FA11437C"
+        },
+        {
+          "offset": "85C4394E",
+          "on": "C783880000000000C842C5FA108388000000E9CB9D22FC",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81E6D728",
+          "on": "E92162DD03909090",
+          "off": "C5FA118388000000"
+        },
+        {
+          "offset": "81CA30F5",
+          "on": "909090909090",
+          "off": "C4C17A11465C"
+        },
+        {
+          "offset": "81CA313A",
+          "on": "909090909090",
+          "off": "C4C17A11465C"
+        },
+        {
+          "offset": "81CA2A17",
+          "on": "909090909090",
+          "off": "C4C17A10465C"
+        }
+      ]
+    },
+    {
+      "name": "3-INF Health W B",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85C43800",
+          "on": "C743180000D242C5FA104318E92F4A92FB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "8156823B",
+          "on": "E9C0B56D04",
+          "off": "C5FA114318"
+        }
+      ]
+    },
+    {
+      "name": "4-INF Weight W C",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85C43813",
+          "on": "41C7457000000000C4C17A105D70E973B318FC",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81DCEB93",
+          "on": "E97B4CE70390",
+          "off": "C4C17A115D70"
+        },
+        {
+          "offset": "85C43927",
+          "on": "C7838000000000000000C5FA108380000000E906EBA8FC",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "826D243C",
+          "on": "E9E6145703909090",
+          "off": "C5FA118380000000"
+        }
+      ]
+    },
+    {
+      "name": "5-INF Stamina N C",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81C5C460",
+          "on": "909090909090",
+          "off": "C4C17A11467C"
+        },
+        {
+          "offset": "81C5C481",
+          "on": "909090909090",
+          "off": "C4C17A11467C"
+        }
+      ]
+    },
+    {
+      "name": "6-Durablity never decreases N A OR",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82E2E3E2",
+          "on": "9090909090",
+          "off": "E8B90C05FF"
+        },
+        {
+          "offset": "81E75572",
+          "on": "9090909090909090",
+          "off": "C5FA118304030000"
+        },
+        {
+          "offset": "81E75593",
+          "on": "9090909090909090",
+          "off": "C5FA118304030000"
+        }
+      ]
+    },
+    {
+      "name": "7-Durablity is always MAX  W R B",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85C43828",
+          "on": "488B8308030000C5FA104848C5FA118B04030000C5FA108304030000E93D1D23FC",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81E75572",
+          "on": "E9B1E2DC03909090",
+          "off": "C5FA118304030000"
+        },
+        {
+          "offset": "85C4384B",
+          "on": "50488B8308030000C5FA104048C5FA11830403000058E97BAC22FC",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81E6E4D9",
+          "on": "E96D53DD03909090",
+          "off": "C5FA108304030000"
+        },
+        {
+          "offset": "85C43868",
+          "on": "50498B8508030000C5FA104048C4C17A11850403000058E9EA1F19FC",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81DD5865",
+          "on": "E9FEDFE60390909090",
+          "off": "C4C17A108504030000"
+        }
+      ]
+    },
+    {
+      "name": "8-INF Crafting  N C",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81DD70B3",
+          "on": "90909090",
+          "off": "41894F18"
+        }
+      ]
+    },
+    {
+      "name": "9-INF Fire time N C",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81B08898",
+          "on": "9090909090909090",
+          "off": "C5FA1183BC000000"
+        },
+        {
+          "offset": "82AB89B3",
+          "on": "9090909090909090",
+          "off": "C5FA1183BC000000"
+        }
+      ]
+    },
+    {
+      "name": "10-INF torch fire N C",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81A3BB63",
+          "on": "9090909090909090",
+          "off": "C5FA1183BC000000"
+        }
+      ]
+    },
+    {
+      "name": "11-Fire Temp always Max W B",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85C438B1",
+          "on": "C743180000A042C5FA104318E9019BECFB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "81B0D3BE",
+          "on": "E9EE641304",
+          "off": "C5FA104318"
+        }
+      ]
+    },
+    {
+      "name": "12-FIRE pit immune to wind N C",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81B09056",
+          "on": "909090909090909090",
+          "off": "C4C17A1186BC000000"
+        }
+      ]
+    },
+    {
+      "name": "13-water never decreases N C",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C7A1E3",
+          "on": "9090909090",
+          "off": "C5FA11401C"
+        },
+        {
+          "offset": "828729C6",
+          "on": "9090909090",
+          "off": "C5FA11401C"
+        }
+      ]
+    },
+    {
+      "name": "14-Charcoal never decreases N C",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8210D912",
+          "on": "909090",
+          "off": "FF4818"
+        }
+      ]
+    },
+    {
+      "name": "15-Firewood never decreases N C",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C9C163",
+          "on": "909090",
+          "off": "894318"
+        }
+      ]
+    },
+    {
+      "name": "16-Spray paint never decreases N C",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81A37F32",
+          "on": "9090909090909090",
+          "off": "C5FA118804030000"
+        },
+        {
+          "offset": "81A37F64",
+          "on": "9090909090909090",
+          "off": "C5FA118004030000"
+        }
+      ]
+    },
+    {
+      "name": "17-Medications never decreases N C",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81DD6E70",
+          "on": "90909090",
+          "off": "41894618"
+        }
+      ]
+    },
+    {
+      "name": "18-Oil/Antiseptic never decreases  N C",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C7C3FA",
+          "on": "909090909090",
+          "off": "C4C17A114618"
+        }
+      ]
+    },
+    {
+      "name": "19-Lantern Oil never decreases N A OR",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81619940",
+          "on": "9090909090",
+          "off": "C5FA114360"
+        }
+      ]
+    },
+    {
+      "name": "20-Lantern Oil always full on ignition W B",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85C43886",
+          "on": "C743600000803FC5FA104360E9AE609DFB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "81619940",
+          "on": "E9419F6204",
+          "off": "C5FA114360"
+        }
+      ]
+    },
+    {
+      "name": "21-INF Climbing N C",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81C4A43C",
+          "on": "9090909090",
+          "off": "C5FA11437C"
+        },
+        {
+          "offset": "81C4A45C",
+          "on": "9090909090",
+          "off": "C5FA11437C"
+        }
+      ]
+    },
+    {
+      "name": "22-NO Reload N B",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84873D17",
+          "on": "90909090",
+          "off": "44894718"
+        }
+      ]
+    },
+    {
+      "name": "23-INF Aim Time N C",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82106D49",
+          "on": "9090909090",
+          "off": "E8B2080000"
+        }
+      ]
+    },
+    {
+      "name": "24-Ammo never decreases N C",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81DD7A92",
+          "on": "909090",
+          "off": "FF4818"
+        }
+      ]
+    },
+    {
+      "name": "25-Arrows never decrease N C",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8210A620",
+          "on": "909090",
+          "off": "FF4818"
+        }
+      ]
+    },
+    {
+      "name": "26-Rocks never decreases N C",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C6346C",
+          "on": "909090",
+          "off": "FF4818"
+        }
+      ]
+    },
+    {
+      "name": "27-cat tail never decreases N A",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C7D4DE",
+          "on": "909090",
+          "off": "FF4818"
+        }
+      ]
+    },
+    {
+      "name": "28-ALL FOODs/DRINKs never decreases N B",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "826DFB4D",
+          "on": "9090909090",
+          "off": "C5FA114820"
+        }
+      ]
+    },
+    {
+      "name": "29-99 items on get W B",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85C43914",
+          "on": "C7401863000000C5FB104018E9CBA818FC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "81DCE1EB",
+          "on": "E92457E703",
+          "off": "C5FB104018"
+        }
+      ]
+    },
+    {
+      "name": "30-NO More Thirst N B",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "826E3A57",
+          "on": "9090909090",
+          "off": "C5FA11431C"
+        }
+      ]
+    },
+    {
+      "name": "31-NO More Hunger N B",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "826E13F1",
+          "on": "9090909090",
+          "off": "C5FA114318"
+        }
+      ]
+    },
+    {
+      "name": "32-Never get tired or sleepy N B",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "826D0FD7",
+          "on": "9090909090",
+          "off": "C5FA11431C"
+        }
+      ]
+    },
+    {
+      "name": "33-NO More Frostbites W B",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85C438FF",
+          "on": "C744822000000000C5FA104C8220E90ACD05FC",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81CA0616",
+          "on": "E9E432FA0390",
+          "off": "C5FA114C8220"
+        }
+      ]
+    },
+    {
+      "name": "34-NO More wet clothes R B",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85C438D9",
+          "on": "C7437800000000C5FA106B78E9A9CD4CFC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "8211068E",
+          "on": "E94632B303",
+          "off": "C5FA106B78"
+        }
+      ]
+    },
+    {
+      "name": "35-NO More frozen clothes R B",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85C438EC",
+          "on": "C7437C00000000C5FA10437CE956CA4CFC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "8211034E",
+          "on": "E99935B303",
+          "off": "C5FA10437C"
+        }
+      ]
+    },
+    {
+      "name": "36-NO More Hypothermia RISK N B",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81CA30F5",
+          "on": "909090909090",
+          "off": "C4C17A11465C"
+        },
+        {
+          "offset": "81CA313A",
+          "on": "909090909090",
+          "off": "C4C17A11465C"
+        },
+        {
+          "offset": "81CA2A17",
+          "on": "909090909090",
+          "off": "C4C17A10465C"
+        }
+      ]
+    },
+    {
+      "name": "37-NO More Cold/Hypothermia Risk W B",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85C438C4",
+          "on": "41C7462000000000C4C17A104620E9E06BA9FC",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "826DA4B1",
+          "on": "E90E94560390",
+          "off": "C4C17A114620"
+        }
+      ]
+    },
+    {
+      "name": "38-Duplicate any Item !!! (read guide on how to use) N",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81DD04A9",
+          "on": "9090909090",
+          "off": "E822080000"
+        }
+      ]
+    },
+    {
+      "name": "39-Droped items do not decreases (require 2 or more) N A",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81E720AC",
+          "on": "90909090",
+          "off": "44296818"
+        }
+      ]
+    },
+    {
+      "name": "40-Make the selected item in inventory X16 (require 1 item or more)W",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85C43899",
+          "on": "C7471810000000837F18020F8DEF89EDFCE92C87EDFC",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "82B1BFD1",
+          "on": "E9C37812039090909090",
+          "off": "837F18020F8DBE020000"
+        }
+      ]
+    },
+    {
+      "name": "41-INF well fed effect (from eating anything) N C",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81A4B1BC",
+          "on": "C74344A3839042",
+          "off": "C7434400000000"
+        },
+        {
+          "offset": "85C43940",
+          "on": "C74344A3839042E9F073E0FB",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "81A4AD37",
+          "on": "E9048C1F04",
+          "off": "C5FA114344"
+        }
+      ]
+    },
+    {
+      "name": "42-INF Warm effect (from HOT FOODs/DRINKs) N",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C4D4ED",
+          "on": "9090909090",
+          "off": "C5FA114348"
+        }
+      ]
+    },
+    {
+      "name": "43-INF Improved rest effect (from HERBAL TEA) N",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C4DD2B",
+          "on": "9090909090",
+          "off": "C5FA114B50"
+        }
+      ]
+    },
+    {
+      "name": "44-INF Restore condition effect (from BIRCH BARK TEA) N",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C4D59D",
+          "on": "9090909090",
+          "off": "C5FA114B60"
+        }
+      ]
+    },
+    {
+      "name": "45-INF Fatigue reduced effect  ( from CUPS OF CUFFEE )  N C",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C4D4A9",
+          "on": "9090909090",
+          "off": "C5FA114334"
+        }
+      ]
+    },
+    {
+      "name": "46-FOODs/Drinks stay hot (after cooking or heating) N C OR",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81E6D728",
+          "on": "9090909090909090",
+          "off": "C5FA118388000000"
+        }
+      ]
+    },
+    {
+      "name": "47-FOODs/Drinks always hot (no need for heating cans or drinks) W B",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85C4394E",
+          "on": "C783880000000000C842C5FA108388000000E9CB9D22FC",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81E6D728",
+          "on": "E92162DD03909090",
+          "off": "C5FA118388000000"
+        }
+      ]
+    },
+    {
+      "name": "48-Rest/Sleep Start at 24 HRs (use with caution cz hunger will kill you) (read guide on how to use) N",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81D907E9",
+          "on": "B819000000",
+          "off": "418B442440"
+        }
+      ]
+    },
+    {
+      "name": "49-Rest/Sleep Start at 48 HRs (use with caution cz hunger will kill you) (read guide on how to use)  N",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81D907E9",
+          "on": "B831000000",
+          "off": "418B442440"
+        }
+      ]
+    },
+    {
+      "name": "50-Rest/Sleep Start at 7 Days (use with caution cz hunger will kill you) (read guide on how to use)  N",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81D907E9",
+          "on": "B8A8000000",
+          "off": "418B442440"
+        }
+      ]
+    },
+    {
+      "name": "51-Rest/Sleep Start at 100 Days (use with caution cz hunger will kill you/Max sleep time is 7 days) (read guide on how to use)  N",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81D907E9",
+          "on": "B860090000",
+          "off": "418B442440"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "LMN"
+  ]
+}

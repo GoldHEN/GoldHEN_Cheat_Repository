@@ -1,0 +1,38 @@
+{
+  "name": "Spyro: Reignited Trilogy",
+  "id": "CUSA12085",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5D2169",
+          "on": "9090909090",
+          "off": "E882050000"
+        }
+      ]
+    },
+    {
+      "name": "Moon Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2418822",
+          "on": "909090909090",
+          "off": "FF832C040000"
+        },
+        {
+          "offset": "241885E",
+          "on": "909090909090",
+          "off": "FF832C040000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "name": "Hellpoint",
+  "id": "CUSA17806",
+  "version": "01.25",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19C7A87",
+          "on": "83BBC4000000007405C5FA104324C5FA114320E963CE897F",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "812648FD",
+          "on": "E985317680",
+          "off": "C5FA114320"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19C7AA0",
+          "on": "C5FA105B3CE92303CD7E",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "80697DC8",
+          "on": "E9D3FC3281",
+          "off": "C5FA105B38"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19C7A20",
+          "on": "C5FA104358C5FA114354E914D5897F526564646576696C3832202D20465720392E3030",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "81264F3E",
+          "on": "E9DD2A7680",
+          "off": "C5FA114354"
+        }
+      ]
+    },
+    {
+      "name": "Max Axions ( on gain - use )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19C7A60",
+          "on": "41C787B8000000FFC99A3B498B8FB8000000E93278CC7E",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8068F2A2",
+          "on": "E9B98733819090",
+          "off": "498B8FB8000000"
+        },
+        {
+          "offset": "19C7A77",
+          "on": "49C786B8000000FFC99A3BE9E731CD7E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8069AC67",
+          "on": "E90BCE32819090",
+          "off": "49898EB8000000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19C7AAA",
+          "on": "83B8D8000000007507C7402000000000C5FA104020E96CC5CC7E",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8069402B",
+          "on": "E97A3A3381",
+          "off": "C5FA104020"
+        }
+      ]
+    },
+    {
+      "name": "Perfect Temperature",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19C7AC4",
+          "on": "C5FA10838C000000C5FA118388000000E97DD8897F",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8126534E",
+          "on": "E971277680909090",
+          "off": "C5FA118388000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Air",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19C7AD9",
+          "on": "C5FA10A3A0000000C5FA11A39C000000E9CCDC897F",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "812657B2",
+          "on": "E922237680909090",
+          "off": "C5FA11A39C000000"
+        }
+      ]
+    },
+    {
+      "name": "No Radiation",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19C7AEE",
+          "on": "C7838C00000000000000E9A6D9897F",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "8126549B",
+          "on": "E94E267680909090",
+          "off": "C5FA11A38C000000"
+        }
+      ]
+    },
+    {
+      "name": "No Sanity",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19FF800",
+          "on": "C7839800000000000000E9595E867F",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "81265660",
+          "on": "E99BA17980909090",
+          "off": "C5FA118398000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Tenacity",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19C7AFD",
+          "on": "C4C17A104778C4C17A114774E97FFCDB7E",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80787787",
+          "on": "E97103248190",
+          "off": "C4C17A114774"
+        }
+      ]
+    },
+    {
+      "name": "No load Equipment",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19C7B0E",
+          "on": "41C786A800000000000000418B86A8000000E9CAE7897F",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "812662E8",
+          "on": "E9211876809090",
+          "off": "418B86A8000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Power Up ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19C7B4B",
+          "on": "C5FA104330C5FA11432CE902F1277F",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80C46C57",
+          "on": "E9EF0ED880",
+          "off": "C5FA11432C"
+        },
+        {
+          "offset": "19C7B5A",
+          "on": "C5FA104330C5FA11432CE94D5B897F",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "8125D6B1",
+          "on": "E9A4A47680",
+          "off": "C5FA11432C"
+        }
+      ]
+    },
+    {
+      "name": "Max Stats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19C7B25",
+          "on": "48C1FF1EC7449920E70300008B4C9920E96E79CC7E",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8068F4A0",
+          "on": "E980863381909090",
+          "off": "48C1FF1E8B4C9920"
+        }
+      ]
+    },
+    {
+      "name": "Max Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19C7B3A",
+          "on": "498B5E3845896734458B6734E9DEB8027F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "809F3421",
+          "on": "E91447FD80909090",
+          "off": "498B5E38458B6734"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

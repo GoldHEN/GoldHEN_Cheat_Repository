@@ -1,0 +1,60 @@
+{
+  "name": "Marvel: Ultimate Alliance",
+  "id": "CUSA04787",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A0BDB0",
+          "on": "C5FA1083CC020000C5FA1183C4020000C5FA1083C4020000E9AAE479FF526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1AA26F",
+          "on": "E93C1B8600909090",
+          "off": "C5FA1083C4020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A0BDE1",
+          "on": "C5FA1083E8020000C5FA1183D0020000C5FA1083D0020000E9E07971FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1237D6",
+          "on": "E906868E00909090",
+          "off": "C5FA1083D0020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Coins",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A0BDFE",
+          "on": "C78487008C0000FFC99A3B8B8487008C0000E9CC2A6DFF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DE8DA",
+          "on": "E91FD592009090",
+          "off": "8B8487008C0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

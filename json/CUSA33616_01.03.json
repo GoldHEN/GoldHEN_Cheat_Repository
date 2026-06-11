@@ -1,0 +1,54 @@
+{
+  "name": "The Lord of the Rings: Gollum",
+  "id": "CUSA33616",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "686BF20",
+          "on": "41C786BC00000000004843E970A499FA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1206397",
+          "on": "E9845B660590909090",
+          "off": "C4C17A1186BC000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "686BEE0",
+          "on": "C7830C01000000004843E9FD8A9AFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "12149E4",
+          "on": "E9F7746505909090",
+          "off": "C5FA11930C010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Food use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12A27E7",
+          "on": "9090909090909090",
+          "off": "41FF8C2400010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

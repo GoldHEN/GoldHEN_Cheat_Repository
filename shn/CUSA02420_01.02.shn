@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Darksiders II: Deathinitive Edition" Moder="Celogamez" Cusa="CUSA02420" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>7FC5BF00</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-00-C5-FA-10-00-E9-29-BB-8E-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>547A2B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D0-44-71-7F-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-5C-44-24-20-C5-FA-11-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health/Wrath Bottles Potion">
+    <Cheatline>
+      <Offset>71D0A9</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Wrath">
+    <Cheatline>
+      <Offset>7FC5BDE0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-04-00-00-7A-44-E9-80-26-B2-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>77E467</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-74-D9-4D-7F</ValueOn>
+      <ValueOff>C5-FA-10-40-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Horse Stamina">
+    <Cheatline>
+      <Offset>7FC5BF20</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-87-2C-0E-00-00-E9-A7-C0-A9-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6F7FCC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4F-3F-56-7F-90</ValueOn>
+      <ValueOff>89-87-2C-0E-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Reaper Power">
+    <Cheatline>
+      <Offset>7FC5BF70</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-08-00-00-96-43-E9-A3-33-80-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>45F31A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-51-CC-7F-7F</ValueOn>
+      <ValueOff>C5-FA-11-43-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Bullets">
+    <Cheatline>
+      <Offset>7FC5BE30</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8B-84-24-CC-03-00-00-E9-90-17-B1-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>76D5C5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-66-E8-4E-7F-90-90-90</ValueOn>
+      <ValueOff>41-FF-8C-24-CC-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP">
+    <Cheatline>
+      <Offset>7FC5BF40</Offset>
+      <Section>0</Section>
+      <ValueOn>89-45-C4-C7-43-20-3F-42-0F-00-E9-C2-B4-8F-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>55740B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-30-4B-70-7F-90</ValueOn>
+      <ValueOff>89-45-C4-01-43-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Skill Points">
+    <Cheatline>
+      <Offset>7FC5BF90</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-C3-AF-8F-80-C6-43-44-63-E9-C0-AF-8F-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>556F59</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-32-50-70-7F-90</ValueOn>
+      <ValueOff>74-04-44-89-73-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Lot Of Money On Gain (Disable After Use)">
+    <Cheatline>
+      <Offset>551CB0</Offset>
+      <Section>0</Section>
+      <ValueOn>89-7B-30-90</ValueOn>
+      <ValueOff>44-01-63-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Lot Of Boatman Coins (Disable After Use)">
+    <Cheatline>
+      <Offset>7FC5BDA0</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-88-F8-0D-00-00-89-41-30-E9-D0-68-94-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5A2675</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-26-97-6B-7F-90-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-88-F8-0D-00-00-01-59-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

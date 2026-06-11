@@ -1,0 +1,60 @@
+{
+  "name": "Disney Epic Mickey: Rebrushed",
+  "id": "CUSA42649",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "GodMode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E82A4A",
+          "on": "9090909090",
+          "off": "E821000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ink",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4805E1",
+          "on": "90909090909090",
+          "off": "41FF9068060000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Life",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4A1F40",
+          "on": "909090909090",
+          "off": "FF9068060000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Tickets",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5FA3000",
+          "on": "4585EDB83F420F00418906E9F81AFDFA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "F74B02",
+          "on": "E9F9E4020590",
+          "off": "4585ED418906"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

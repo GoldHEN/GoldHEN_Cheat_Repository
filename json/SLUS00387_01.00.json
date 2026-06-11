@@ -1,0 +1,44 @@
+{
+  "name": "Batman Forever: The Arcade Game",
+  "id": "SLUS00387",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1688F5",
+          "on": "99",
+          "off": "10"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1687C6",
+          "on": "99",
+          "off": "42"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16D532",
+          "on": "99",
+          "off": "42"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

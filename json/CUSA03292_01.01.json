@@ -1,0 +1,38 @@
+{
+  "name": "Super Star Wars",
+  "id": "CUSA03292",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5CB800",
+          "on": "83BB880000000B75088B430CE9766EE6FF89430CE96E6EE6FF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "432681",
+          "on": "E97A91190090",
+          "off": "89430C4889DF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "325BE",
+          "on": "9090",
+          "off": "8910"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

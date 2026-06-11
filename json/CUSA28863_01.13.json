@@ -1,0 +1,107 @@
+{
+  "name": "Elden Ring",
+  "id": "CUSA28863",
+  "version": "01.13",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Heath",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "39CBDB0",
+          "on": "4981F868D051037513418B854C01000041898548010000E9510971FD41898548010000E9450971FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "10DC716",
+          "on": "E995F68E029090",
+          "off": "41898548010000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Health\u002B1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "39CBDB0",
+          "on": "4981F868D051037515418B854C01000041898548010000E9510971FD31C041C7854801000001000000E93F0971FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "10DC716",
+          "on": "E995F68E029090",
+          "off": "41898548010000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "39CBA50",
+          "on": "418B855C01000041898558010000E91B1371FD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "10DCD77",
+          "on": "E9D4EC8E029090",
+          "off": "41898558010000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "39CBBC0",
+          "on": "418B856801000041898564010000E9DC1571FD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "10DD1A8",
+          "on": "E913EA8E029090",
+          "off": "41898564010000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Items/Potions/Arrows (On Pick Up/x2 To Work)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "39CB930",
+          "on": "438944A70CC701E7030000E9A38F42FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "DF48DB",
+          "on": "E95070BD02909090",
+          "off": "438944A70C448931"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Runes On Start",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "39CBC90",
+          "on": "8B09C7406CFFC99A3BE9FA749CFD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1393193",
+          "on": "E9F88A6302",
+          "off": "8B0989486C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

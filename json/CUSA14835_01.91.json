@@ -1,0 +1,188 @@
+{
+  "name": "Dragon Ball Z: Kakarot",
+  "id": "CUSA14835",
+  "version": "01.91",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Caution : i would advise not using XP gain cheat unless you need to (creat a backup save) cz if you level up too high the game becames boring",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7E237FE",
+          "on": "0000",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F5944F",
+          "on": "909090909090",
+          "off": "898178020000"
+        }
+      ]
+    },
+    {
+      "name": "inf ki",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F594AF",
+          "on": "909090909090",
+          "off": "89817C020000"
+        }
+      ]
+    },
+    {
+      "name": "inf medals/items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7E23800",
+          "on": "C7449004E7030000035C900448FFC2E913224EF9",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1305A20",
+          "on": "E9DBDDB1069090",
+          "off": "035C900448FFC2"
+        }
+      ]
+    },
+    {
+      "name": "Max money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7E23816",
+          "on": "C7033F420F008B034883C408E9248D2AFA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "20CC545",
+          "on": "E9CC72D50590",
+          "off": "8B034883C408"
+        }
+      ]
+    },
+    {
+      "name": "max ORBs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7E23829",
+          "on": "C7003F420F008B005B415EE9F158CDF9",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1AF9125",
+          "on": "E9FFA63206",
+          "off": "8B005B415E"
+        }
+      ]
+    },
+    {
+      "name": "XP gain x 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7E2383B",
+          "on": "4D01FF4401FAB8FFC99A3BE9956113F9",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "F599D8",
+          "on": "E95E9EEC06909090",
+          "off": "4401FAB8FFC99A3B"
+        }
+      ]
+    },
+    {
+      "name": "XP gain x 4",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7E2383B",
+          "on": "4D01FF4D01FF4401FAB8FFC99A3BE9926113F9",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F599D8",
+          "on": "E95E9EEC06909090",
+          "off": "4401FAB8FFC99A3B"
+        }
+      ]
+    },
+    {
+      "name": "XP gain x 8",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7E2383B",
+          "on": "4D01FF4D01FF4D01FF4401FAB8FFC99A3BE98F6113F9",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F599D8",
+          "on": "E95E9EEC06909090",
+          "off": "4401FAB8FFC99A3B"
+        }
+      ]
+    },
+    {
+      "name": "XP gain x 32",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7E2383B",
+          "on": "4D01FF4D01FF4D01FF4D01FF4D01FF4401FAB8FFC99A3BE9896113F9",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F599D8",
+          "on": "E95E9EEC06909090",
+          "off": "4401FAB8FFC99A3B"
+        }
+      ]
+    },
+    {
+      "name": "XP gain x 256",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7E2383B",
+          "on": "4D01FF4D01FF4D01FF4D01FF4D01FF4D01FF4D01FF4D01FF4401FAB8FFC99A3BE9806113F9",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F599D8",
+          "on": "E95E9EEC06909090",
+          "off": "4401FAB8FFC99A3B"
+        }
+      ]
+    },
+    {
+      "name": "player lvl 250 (after 2 battles) = one hit kills = boring and permenent",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7E23862",
+          "on": "48C78170020000EC0CF619E98B6113F9",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "F599F6",
+          "on": "E9679EEC069090",
+          "off": "48899170020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "LMN"
+  ]
+}

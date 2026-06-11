@@ -1,0 +1,85 @@
+{
+  "name": "FINAL FANTASY IV",
+  "id": "CUSA33830",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "C4E278F2DB0F2EDC0F84099B0A0141895F14E9009B0A01",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7FC5F037",
+          "on": "C4C278F2DD0F2EDC0F84E4D1CC0041895F14E9DBD1CC00",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80D08B0E",
+          "on": "E9ED64F5FE90909090",
+          "off": "C4E278F2DB41895F14"
+        },
+        {
+          "offset": "8092C220",
+          "on": "E9122E33FF90909090",
+          "off": "C4C278F2DD41895F14"
+        }
+      ]
+    },
+    {
+      "name": "Inf MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F06E",
+          "on": "BBE703000041895E18498B06E95C21A100",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "806711D4",
+          "on": "E995DE5EFF9090",
+          "off": "41895E18498B06"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F09F",
+          "on": "488B87B0000000BEFFE0F505897030E9D7EFCE00",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8094E080",
+          "on": "E91A1031FF9090909090",
+          "off": "488B87B0000000897030"
+        }
+      ]
+    },
+    {
+      "name": "Inf Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F0D3",
+          "on": "C7401463000000FF4814B001E9184BDE00",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80A43BF7",
+          "on": "E9D7B421FF",
+          "off": "FF4814B001"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

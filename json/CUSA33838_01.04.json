@@ -1,0 +1,85 @@
+{
+  "name": "FINAL FANTASY VI",
+  "id": "CUSA33838",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "C4E278F2DB0F2EDC0F84AE82C40041895F14E9A582C400",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7FC5F037",
+          "on": "C4C278F2DF0F2EDC0F844097F10041895D14E93797F100",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "808A72B3",
+          "on": "E9487D3BFF90909090",
+          "off": "C4E278F2DB41895F14"
+        },
+        {
+          "offset": "80B7877C",
+          "on": "E9B6680EFF90909090",
+          "off": "C4C278F2DF41895D14"
+        }
+      ]
+    },
+    {
+      "name": "Inf MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F06E",
+          "on": "B8E70300008943185B415EE9227FF600",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80BC6F9A",
+          "on": "E9CF8009FF90",
+          "off": "8943185B415E"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F09E",
+          "on": "0F84F1CDDE00BEFFE0F505897030E9E2CDDE00",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80A4BE8E",
+          "on": "E90B3221FF",
+          "off": "7405897030"
+        }
+      ]
+    },
+    {
+      "name": "Inf Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F0D1",
+          "on": "0F8426F7F700C7401463000000FF4814E910F7F700",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80BDE7F1",
+          "on": "E9DB0808FF",
+          "off": "740AFF4814"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}
