@@ -1,0 +1,107 @@
+{
+  "name": "Mega Man Battle Network Legacy Collection",
+  "id": "CUSA31429",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (battle network 4 Red Sun)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6E97720",
+          "on": "83C024668B0C02E9DAC454F9",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "3E3BFF",
+          "on": "E91C3BAB069090",
+          "off": "83C02466890C02"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (battle network 4 Blue moon)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6E97920",
+          "on": "83C024668B0C02E90AABF2F9",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "DC242F",
+          "on": "E9EC540D069090",
+          "off": "83C02466890C02"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (Battle Network 5 Team Protoman)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6E97820",
+          "on": "83C124807C0A40007506668B040AEB046689040AE9399297FA",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1810A6B",
+          "on": "E9B06D68059090",
+          "off": "83C1246689040A"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (battle network 5 Team Colonel)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6E978D0",
+          "on": "83C124807C0A40007506668B040AEB046689040AE9E9285BFB",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "244A1CB",
+          "on": "E900D7A4049090",
+          "off": "83C1246689040A"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (battle Network 6 Cybeast falzar)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6E979E0",
+          "on": "83C024807C0240007506668B0C02EB0466890C02E967C4F9FC",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3E33E59",
+          "on": "E9823B06039090",
+          "off": "83C02466890C02"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (battle Network 6 Cybeast Gregar)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6E97A60",
+          "on": "83C024807C0240007506668B0C02EB0466890C02E947462AFC",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "313C0B9",
+          "on": "E9A2B9D5039090",
+          "off": "83C02466890C02"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "name": "Dead Cells",
+  "id": "CUSA10484",
+  "version": "01.51",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Master Code",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AAF000",
+          "on": "41837F5809740E48833D2800000001751231C0EB0E48833D12000000010F8400F45FFE4189878C010000E9F4F35FFE00000000000000000000000000000000",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "AE41C",
+          "on": "E9DF0BA0019090",
+          "off": "4189878C010000"
+        }
+      ]
+    },
+    {
+      "name": "--Infinite_Life",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AAF02F",
+          "on": "0100000000000000",
+          "off": "0000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "--One_Hit_Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AAF037",
+          "on": "0100000000000000",
+          "off": "0000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16743E",
+          "on": "9090909090",
+          "off": "E88D6BF4FF"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AAF05F",
+          "on": "440F4CF8448B7B3044897B30E9E69268FE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "13834E",
+          "on": "E90C6D9701909090",
+          "off": "440F4CF844897B30"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "40CCF8",
+          "on": "9090909090909090",
+          "off": "C5FB1183A0000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AAF090",
+          "on": "4401FEBE3F420F00897048E950406AFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1AAF0C0",
+          "on": "BE3F420F008970488975C8E903466AFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1530EA",
+          "on": "E9A1BF950190",
+          "off": "4401FE897048"
+        },
+        {
+          "offset": "1536CD",
+          "on": "E9EEB9950190",
+          "off": "8970488975C8"
+        }
+      ]
+    },
+    {
+      "name": "Inf Cells",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AAF0F0",
+          "on": "BEE703000089B37C040000E987516AFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "154281",
+          "on": "E96AAE950190",
+          "off": "89B37C040000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

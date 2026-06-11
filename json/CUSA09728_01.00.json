@@ -1,0 +1,54 @@
+{
+  "name": "Ghost 1.0",
+  "id": "CUSA09728",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (when haunting the other will get inf hp)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "473CA0",
+          "on": "817B1C01010101750CC783F4050000003C1C46EB08C5FA1183F4050000E92411ECFF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "334DDE",
+          "on": "E9BDEE1300909090",
+          "off": "C5FA1183F4050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34F66B",
+          "on": "909090",
+          "off": "FF4814"
+        }
+      ]
+    },
+    {
+      "name": "Max Golden Cube",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "473DE0",
+          "on": "41C7850C0700003F420F00E91054D6FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1D91F9",
+          "on": "E9E2AB29009090",
+          "off": "41899D0C070000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

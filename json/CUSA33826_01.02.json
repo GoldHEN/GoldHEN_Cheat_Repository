@@ -1,0 +1,75 @@
+{
+  "name": "FINAL FANTASY III",
+  "id": "CUSA33826",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "C4E278F2DB0F2EDC0F846ACDCA0041895E14E961CDCA00",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8090BD6F",
+          "on": "E98C3235FF90909090",
+          "off": "C4E278F2DB41895E14"
+        }
+      ]
+    },
+    {
+      "name": "Inf MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F037",
+          "on": "E92051ED01428954202CE91651ED01",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "81B34157",
+          "on": "E9DBAE12FE",
+          "off": "428954202C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F066",
+          "on": "488B87B0000000BEFFE0F505897030E9C01FAD00",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80731030",
+          "on": "E931E052FF9090909090",
+          "off": "488B87B0000000897030"
+        }
+      ]
+    },
+    {
+      "name": "Inf Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F09A",
+          "on": "488B4078C7401463000000FF4814E93830EB00",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80B120DE",
+          "on": "E9B7CF14FF9090",
+          "off": "488B4078FF4814"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

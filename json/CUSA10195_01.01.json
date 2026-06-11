@@ -1,0 +1,119 @@
+{
+  "name": "The Binding of Isaac: Afterbirth\u002B",
+  "id": "CUSA10195",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Coins (On Spend, On Get Crashes)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "527800",
+          "on": "BA630000008993BC270000E93CE1C3FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "165946",
+          "on": "E9B51E3C0090",
+          "off": "8993BC270000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Bombs(On Use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19479B",
+          "on": "90909090909090",
+          "off": "41FF8DB8270000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Red Hearts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "527800",
+          "on": "B918000000898A98270000E93274C5FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "17EC3C",
+          "on": "E9BF8B3A0090",
+          "off": "898A98270000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Keys(On Get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "527810",
+          "on": "B963000000898FB0270000E973E3C3FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "165B8D",
+          "on": "E97E1C3C0090",
+          "off": "898FB0270000"
+        }
+      ]
+    },
+    {
+      "name": "Pedestal Items Dont Disappear (Pedestal item will go invis but its there)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "157DB0",
+          "on": "9090909090909090",
+          "off": "41C7454000000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Active Item",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16D38E",
+          "on": "90909090909090",
+          "off": "4589BDF8290000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Blue Hearts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "527800",
+          "on": "BA1800000041899424A0270000E91373C5FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "17EB1D",
+          "on": "E9DE8C3A00909090",
+          "off": "41899424A0270000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Cards(On Use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19AEDC",
+          "on": "90909090909090",
+          "off": "488983E82B0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Xiko"
+  ]
+}

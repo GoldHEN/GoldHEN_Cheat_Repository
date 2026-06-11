@@ -1,0 +1,93 @@
+{
+  "name": "Far Cry 5",
+  "id": "CUSA05847",
+  "version": "01.15",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28AF535",
+          "on": "9090909090",
+          "off": "E866BBFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Invincibility",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28BE434",
+          "on": "9090909090",
+          "off": "E877FFFEFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Endurance",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28A7284",
+          "on": "9090909090",
+          "off": "E8E7020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Breath",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28B6A83",
+          "on": "9090909090",
+          "off": "E82804FFFF"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Ammo/Money/Throwables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5FCFDC0",
+          "on": "410F43C541C7474C3F420F00E98A351AFB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1173353",
+          "on": "E968CAE504909090",
+          "off": "410F43C54189474C"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3871A27",
+          "on": "90909090909090",
+          "off": "4489BB88010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "343336C",
+          "on": "9090909090",
+          "off": "E83F000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

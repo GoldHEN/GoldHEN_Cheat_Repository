@@ -1,0 +1,70 @@
+{
+  "name": "FINAL FANTASY",
+  "id": "CUSA33818",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "0F2EDC0F8459861C0141895C2414E94F861C01",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80E2765D",
+          "on": "E99E79E3FE",
+          "off": "41895C2414"
+        }
+      ]
+    },
+    {
+      "name": "Inf MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81B20E59",
+          "on": "9090909090",
+          "off": "428954302C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F033",
+          "on": "FF4114FF4914488B4878E9072C1F01",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80E51C42",
+          "on": "E9ECD3E0FE9090",
+          "off": "FF4914488B4878"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F062",
+          "on": "0F841D24AF00BEFFC99A3B897030E90E24AF00",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8075147E",
+          "on": "E9DFDB50FF",
+          "off": "7405897030"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

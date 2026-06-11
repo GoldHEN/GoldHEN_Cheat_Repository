@@ -1,0 +1,82 @@
+{
+  "name": "Shing!",
+  "id": "CUSA19595",
+  "version": "01.12",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Mastercode Health - One Hit Kill ( must be activated )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18D3DD5",
+          "on": "837B54007505C5FA114358837B54037505C5FA114358C5FA114358E9331DC47EC7435800C07944C5FA104358C3",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80515B23",
+          "on": "E9ADE23B81",
+          "off": "C5FA114358"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18D3DDB",
+          "on": "E815000000",
+          "off": "C5FA114358"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18D3DE6",
+          "on": "0F57C09090",
+          "off": "C5FA114358"
+        }
+      ]
+    },
+    {
+      "name": "Instant Rage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18D3DB0",
+          "on": "C7405800C07944C5FA104058E9E432277F526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80B470A0",
+          "on": "E90BCDD880",
+          "off": "C5FA104058"
+        }
+      ]
+    },
+    {
+      "name": "Max Credits",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18D3E02",
+          "on": "44037014C740143F420F00E9F4EE3E7F",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80CC2CFE",
+          "on": "E9FF10C180909090",
+          "off": "4403701444897014"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

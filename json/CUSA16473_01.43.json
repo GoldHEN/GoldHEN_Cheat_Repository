@@ -1,0 +1,77 @@
+{
+  "name": "Astroneer",
+  "id": "CUSA16473",
+  "version": "01.43",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "infinite oxygen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "190322A",
+          "on": "9090909090",
+          "off": "E8B1CDF2FF"
+        }
+      ]
+    },
+    {
+      "name": "printing material never disappears",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "188445B",
+          "on": "9090909090",
+          "off": "E820AB2000"
+        }
+      ]
+    },
+    {
+      "name": "inf fuel",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1831587",
+          "on": "9090909090",
+          "off": "E884D4FFFF"
+        }
+      ]
+    },
+    {
+      "name": "bytes never decrease",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A2DF2B",
+          "on": "9090909090909090",
+          "off": "C5FB1180B0000000"
+        }
+      ]
+    },
+    {
+      "name": "inf soil canister",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AA9B3A",
+          "on": "9090909090",
+          "off": "E831C6FCFF"
+        }
+      ]
+    },
+    {
+      "name": "inf jetpack fuel",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18256F8",
+          "on": "9090909090",
+          "off": "E813930000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "LMN"
+  ]
+}

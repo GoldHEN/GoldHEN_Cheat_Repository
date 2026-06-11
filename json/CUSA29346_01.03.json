@@ -1,0 +1,205 @@
+{
+  "name": "Axiom Verge 2",
+  "id": "CUSA29346",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Freeze AI \u002B Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E01DC",
+          "on": "9090909090",
+          "off": "E8AF61F2FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D0F800",
+          "on": "8B870C0200008987080200008B8708020000E9DFC780FB526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "51BFF0",
+          "on": "E90B387F0490",
+          "off": "8B8708020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health Drone",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D0F82D",
+          "on": "C787100200004A0100008B8710020000E924B680FB",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "51AE60",
+          "on": "E9C8497F0490",
+          "off": "8B8710020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mushhus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D0F844",
+          "on": "C5FA10871C020000C5FA118718020000C5FA108718020000E9A70E71FB",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "420700",
+          "on": "E93FF18E04909090",
+          "off": "C5FA108718020000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "35C0F2",
+          "on": "C7878400000000000000",
+          "off": "898784000000C3909090"
+        }
+      ]
+    },
+    {
+      "name": "Max Health Node",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D0F863",
+          "on": "C7875C020000630000008B875C020000E9CEAD80FB",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "51A640",
+          "on": "E91E527F0490",
+          "off": "8B875C020000"
+        }
+      ]
+    },
+    {
+      "name": "Health Node Fragment",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D0F87A",
+          "on": "C787580200000400000048638758020000E9D7AD80FB",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "51A660",
+          "on": "E915527F049090",
+          "off": "48638758020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Apocalypse Flask",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D0F892",
+          "on": "C787000100000000C642C5FA108700010000E98FAD80FB",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "51A630",
+          "on": "E95D527F04909090",
+          "off": "C5FA108700010000"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump [ Land ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D0F8AB",
+          "on": "415741BF000020C166410F6EC7415FF30F10C0E98CC780FB",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "51C047",
+          "on": "E95F387F04909090",
+          "off": "C5FA1087B8020000"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump [ Water ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D0F8C5",
+          "on": "415741BF000020C166410F6EC7415FF30F10C0E9D2C780FB",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "51C0A7",
+          "on": "E919387F04909090",
+          "off": "C5FA1087C8020000"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump Drone [ Land ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D0F8DF",
+          "on": "415741BF000020C166410F6EC7415FF30F10C0E938C880FB",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "51C127",
+          "on": "E9B3377F04909090",
+          "off": "C5FA1087D8020000"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump Drone [ Water ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D0F8F9",
+          "on": "415741BF000020C166410F6EC7415FF30F10C0E97EC880FB",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "51C187",
+          "on": "E96D377F04909090",
+          "off": "C5FA1087E8020000"
+        }
+      ]
+    },
+    {
+      "name": "Zero Death Stats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "431AA1",
+          "on": "C783D800000000000000",
+          "off": "FF83D8000000498B4500"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

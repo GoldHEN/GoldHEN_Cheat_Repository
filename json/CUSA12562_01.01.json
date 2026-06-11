@@ -1,0 +1,44 @@
+{
+  "name": "Bloodstained: Curse of the Moon",
+  "id": "CUSA12562",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible\u002Bpower=no-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2F6822",
+          "on": "909090909090",
+          "off": "FF90F0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2F5DAD",
+          "on": "909090909090",
+          "off": "8987AC050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "415B5D",
+          "on": "90909090",
+          "off": "41885E2C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

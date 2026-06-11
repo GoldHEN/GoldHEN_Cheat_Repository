@@ -1,0 +1,189 @@
+{
+  "name": "Dying Light 2: Stay Human",
+  "id": "CUSA12584",
+  "version": "01.33",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "GOD Mod",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "335F9D6",
+          "on": "9090909090",
+          "off": "E8F5AF4AFF"
+        },
+        {
+          "offset": "33627D6",
+          "on": "9090909090",
+          "off": "E8F5814AFF"
+        },
+        {
+          "offset": "2811398",
+          "on": "9090909090",
+          "off": "E8A3160000"
+        },
+        {
+          "offset": "2724AB7",
+          "on": "9090909090",
+          "off": "E8145F0E00"
+        }
+      ]
+    },
+    {
+      "name": "freeze Stamina/Breath",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3392405",
+          "on": "90909090909090",
+          "off": "C4C17A11442410"
+        }
+      ]
+    },
+    {
+      "name": "Items/Craftables/consumables/thrwoables never decrease (Need 2 or more)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33092E8",
+          "on": "9090909090",
+          "off": "E863B8D3FF"
+        }
+      ]
+    },
+    {
+      "name": "inf lock picks",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33095F0",
+          "on": "9090909090",
+          "off": "E85BB5D3FF"
+        }
+      ]
+    },
+    {
+      "name": "Max durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "654F813",
+          "on": "C783A800000000803B45E9EB6FA6FC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2FB6805",
+          "on": "E909905903909090",
+          "off": "C5FA1183A8000000"
+        }
+      ]
+    },
+    {
+      "name": "max money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "654F800",
+          "on": "C74734FFE0F505E88477DBFCE96178DBFC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "330706A",
+          "on": "E991872403909090",
+          "off": "894734E81EFFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "inf immunity",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3367EFD",
+          "on": "909090909090",
+          "off": "C4C17A11472C"
+        }
+      ]
+    },
+    {
+      "name": "Freeze timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2963161",
+          "on": "9090909090909090",
+          "off": "C5FA118348030000"
+        }
+      ]
+    },
+    {
+      "name": "inf UV Flashlight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2916DED",
+          "on": "9090909090",
+          "off": "E80E4EFCFF"
+        }
+      ]
+    },
+    {
+      "name": "No Reload for Crossbow/Boomsticks",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "352F914",
+          "on": "9090909090",
+          "off": "E83752B1FF"
+        }
+      ]
+    },
+    {
+      "name": "MAX XP/legend/inhibitators on get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "654F824",
+          "on": "48C7C000957900498946180F88092201FDE94D2101FD",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "356197D",
+          "on": "E9A2DEFE029090909090",
+          "off": "498946180F88B7000000"
+        }
+      ]
+    },
+    {
+      "name": "bounty tokens never decrease (bounty vendor)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3309869",
+          "on": "9090909090",
+          "off": "E8E2B2D3FF"
+        }
+      ]
+    },
+    {
+      "name": "agent level 1000 / get 1000 token (complete a single bounty)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "654F83C",
+          "on": "48C7C140420F0048894C1038E9434D09FD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "35E458B",
+          "on": "E9ACB2F602",
+          "off": "48894C1038"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "LMN"
+  ]
+}

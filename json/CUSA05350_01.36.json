@@ -1,0 +1,113 @@
+{
+  "name": "Dragon Ball: Xenoverse 2",
+  "id": "CUSA05350",
+  "version": "01.36",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health/1 Hit Kill (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2AE3DB0",
+          "on": "41807F3000751AC4C17A10874C010000C4C17A1187EC000000E9FAFD5CFD0F57C0C4C17A1187EC000000E9E9FD5CFD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B3BBF",
+          "on": "E9EC01A30290909090",
+          "off": "C4C17A1187EC000000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (Enable MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2AE3DB5",
+          "on": "7517",
+          "off": "751A"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2AE3850",
+          "on": "C4C17A10865C010000C4C17A118658010000E9D2065DFD",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B3F30",
+          "on": "E91BF9A20290909090",
+          "off": "C4C17A118658010000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Ki",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2AE3800",
+          "on": "C4C17A1097FC000000C4C17A1197F8000000E928015BFD",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "93936",
+          "on": "E9C5FEA40290909090",
+          "off": "C4C17A1197F8000000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Zeni",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "872FFF",
+          "on": "B800CA9A3B",
+          "off": "3D00CA9A3B"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite TP On Activation",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2AE38B0",
+          "on": "C747708861263A8B4F70894F6C394F6C90E9A4F7D8FD",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "873064",
+          "on": "E94708270290",
+          "off": "8B4F70394F6C"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Attribute Points (Activate/Exit/Enter)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2AE30F0",
+          "on": "41C78700020000E7030000E95B87A6FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "54B854",
+          "on": "E9977859029090",
+          "off": "4589B700020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

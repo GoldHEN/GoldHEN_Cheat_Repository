@@ -1,0 +1,91 @@
+{
+  "name": "SaGa Frontier Remastered",
+  "id": "CUSA26054",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "823E72A0",
+          "on": "85F6807A4081750866C74228E703EB03897228E9B63BD5FE",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8113AE69",
+          "on": "E932C42A01",
+          "off": "85F6897228"
+        }
+      ]
+    },
+    {
+      "name": "Infinite LP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "823E7890",
+          "on": "BE7F000000C642340AE93236D5FE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "8113AEC7",
+          "on": "E9C4C92A0190909090",
+          "off": "BE7F00000066894A34"
+        }
+      ]
+    },
+    {
+      "name": "Infinite WP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "823E7930",
+          "on": "8B7DBCC6463814E9FB87D6FE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "81150130",
+          "on": "E9FB7729019090",
+          "off": "8B7DBC66297E38"
+        }
+      ]
+    },
+    {
+      "name": "Infinite JP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "823E79D0",
+          "on": "8B4DC0C6463C14E96287D6FE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "81150137",
+          "on": "E9947829019090",
+          "off": "8B4DC066294E3C"
+        }
+      ]
+    },
+    {
+      "name": "Max Credits (on buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "823E7A10",
+          "on": "488B8018030000C74018FFE0F505E98939D1FE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "810FB3A2",
+          "on": "E969C62E019090909090",
+          "off": "488B8018030000895818"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

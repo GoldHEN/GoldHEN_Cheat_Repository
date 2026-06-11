@@ -1,0 +1,39 @@
+{
+  "name": "Bus Simulator 21",
+  "id": "CUSA14925",
+  "version": "02.28",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6D57DB0",
+          "on": "48C78030010000FFC99A3B488B8030010000E9071487FB526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "25C91C7",
+          "on": "E9E4EB78049090",
+          "off": "488B8030010000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "102AE47",
+          "on": "909090909090909090",
+          "off": "C4C17A11851C030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "name": "GreedFall",
+  "id": "CUSA14211",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Exp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "138F000",
+          "on": "49C74650286B6E4EE9B50448FF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "80F4BC",
+          "on": "E93FFBB70090",
+          "off": "C4C17A114650"
+        }
+      ]
+    },
+    {
+      "name": "Inf Item (on use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "138F02D",
+          "on": "4429F841C7453C63000000E958894BFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "84798E",
+          "on": "E99A76B4009090",
+          "off": "4429F84189453C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "138F05D",
+          "on": "418B44243C41C7463C7F969800E907734BFF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "84636D",
+          "on": "E9EB8CB40090909090",
+          "off": "418B44243C4101463C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "All credits to Wander / Talixme only updated to 1.08"
+  ]
+}

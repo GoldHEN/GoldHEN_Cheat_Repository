@@ -1,0 +1,71 @@
+{
+  "name": "Twin Robots",
+  "id": "CUSA06339",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Level Unlocker",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "139F800",
+          "on": "C6472C1C488B472883F801E9EFD9BAFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "F4D1F8",
+          "on": "E9032645009090",
+          "off": "488B472883F801"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "139FDB0",
+          "on": "41C787DC00000000007A44C4C17A1087DC000000E96064F47E526564646576696C3832202D20465720392E3030",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "802E6220",
+          "on": "E98B9B0B8190909090",
+          "off": "C4C17A1087DC000000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "42F934",
+          "on": "9090",
+          "off": "FFC0"
+        }
+      ]
+    },
+    {
+      "name": "Reset Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "139FDDD",
+          "on": "41C7859C01000000000000E950FBF17E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "802BF936",
+          "on": "E9A2040E819090",
+          "off": "4189859C010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 ",
+    " FW 9.00"
+  ]
+}

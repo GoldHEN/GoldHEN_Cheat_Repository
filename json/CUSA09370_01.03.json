@@ -1,0 +1,139 @@
+{
+  "name": "The Incredible Adventures of Van Helsing II",
+  "id": "CUSA09370",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69D7BA0",
+          "on": "80BBC400000002750CC7831405000000C07944EB08C5FA118314050000E99C3CFCFA",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "199B856",
+          "on": "E945C30305909090",
+          "off": "C5FA118314050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mana",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69D7C50",
+          "on": "41C785440B000000C07944E9F80AF3FA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "190874F",
+          "on": "E9FCF40C0590909090",
+          "off": "C4C17A1195440B0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stat point Van Helsing",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69D7BF0",
+          "on": "C6807C0A000063E9FD2691FE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "52EA2F2",
+          "on": "E9F9D86E019090",
+          "off": "4429A87C0A0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Power Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69D7C20",
+          "on": "41C686780A000063E9F203F6FA",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "1938018",
+          "on": "E903FC09059090",
+          "off": "412986780A0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Perk Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69D7CB0",
+          "on": "C7874C16000064000000E96E9B7FFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "11D1827",
+          "on": "E98464800590",
+          "off": "01B74C160000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stats Lady Katarina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69D7CE0",
+          "on": "C6807C0A000063E9C2E995FE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "53366A7",
+          "on": "E934166A019090",
+          "off": "4429A87C0A0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69D7C90",
+          "on": "41C787800A0000FFE0F505E9D1F6F5FA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "193736A",
+          "on": "E921090A059090",
+          "off": "418987800A0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Coins (on get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69D7D10",
+          "on": "C787441600007F969800E9F8E07FFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "11D5E11",
+          "on": "E9FA1E800590",
+          "off": "898F44160000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

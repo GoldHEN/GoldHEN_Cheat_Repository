@@ -1,0 +1,104 @@
+{
+  "name": "Ghost Song",
+  "id": "CUSA33533",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Dash",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8054BB7A",
+          "on": "9090909090909090",
+          "off": "C5FA1180E8020000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Life",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8053517D",
+          "on": "9090909090909090",
+          "off": "C5FA118884000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Modules Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81997D8F",
+          "on": "909090909090",
+          "off": "01885C030000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "C7802C030000FFC99A3BE931502301",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80E9403A",
+          "on": "E9C1AFDCFE90",
+          "off": "01902C030000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8055FF5D",
+          "on": "9090909090909090",
+          "off": "C5FA1180E8020000"
+        }
+      ]
+    },
+    {
+      "name": "No Increment the Suit Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "805CD1E9",
+          "on": "90909090909090",
+          "off": "41FF8758030000"
+        }
+      ]
+    },
+    {
+      "name": "No Overheating",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80DDB51F",
+          "on": "9090909090909090",
+          "off": "C5FA118090000000"
+        }
+      ]
+    },
+    {
+      "name": "No Requires Level Up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "805CD29A",
+          "on": "C4417A11BF68020000",
+          "off": "C4C17A118768020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

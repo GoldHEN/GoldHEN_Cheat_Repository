@@ -1,0 +1,43 @@
+{
+  "name": "Aeterna Noctis",
+  "id": "CUSA31094",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "843EF800",
+          "on": "41837C246C02750A452B74240CE9FE135EFD4529742420E9F4135EFD",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "819D0C0B",
+          "on": "E9F0EBA102",
+          "off": "4529742420"
+        }
+      ]
+    },
+    {
+      "name": "MAX-GOLD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "843EF81E",
+          "on": "B9FFC99A3B0188DC000000E9370743FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8181FF5F",
+          "on": "E9BAF8BC0290",
+          "off": "0188DC000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

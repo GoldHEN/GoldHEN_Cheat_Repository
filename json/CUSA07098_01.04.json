@@ -1,0 +1,65 @@
+{
+  "name": "Guacamelee! 2",
+  "id": "CUSA07098",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A5B000",
+          "on": "4181BDF0000000E006EE000F84140DCDFF41898D20010000E9080DCDFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "72BD1E",
+          "on": "E9DDF232009090",
+          "off": "41898D20010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Life \u002B Easy Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A5B03D",
+          "on": "4181BDF0000000E006EE000F84D70CCDFFB90000803F41898D20010000E9C60CCDFF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "72BD1E",
+          "on": "E91AF332009090",
+          "off": "41898D20010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B86FA",
+          "on": "909090909090909090",
+          "off": "C5FA118488BC000000"
+        }
+      ]
+    },
+    {
+      "name": "Easy Money at Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "453E4B",
+          "on": "01B481C8000000",
+          "off": "89B481C8000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

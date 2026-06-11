@@ -1,0 +1,65 @@
+{
+  "name": "Mortal Kombat XL",
+  "id": "CUSA03589",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "31EB800",
+          "on": "6681BB210A0000C0A8752BC5FA118B380A0000E9BAB235FD81BB380A00000000803E7E12C783380A00000000803EC5FA1093380A0000C5FA1193380A0000E98FB235FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "546ACA",
+          "on": "E9314DCA02909090",
+          "off": "C5FA1193380A0000"
+        }
+      ]
+    },
+    {
+      "name": "Opponent Health (25%) (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "31EB809",
+          "on": "750D",
+          "off": "752B"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Super Meter Bars (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "31EB845",
+          "on": "837B08007508C5FA108390020000C5FA11838C020000E906AF68FDC5F857C0EBED",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "87675E",
+          "on": "E9E2509702909090",
+          "off": "C5FA11838C020000"
+        }
+      ]
+    },
+    {
+      "name": "Opponent Super Meter Bars (0) (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "31EB849",
+          "on": "7515",
+          "off": "7508"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Effie",
+  "id": "CUSA16400",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Master Code Infinite Skill usage (turn off when gliding)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "48D0FF0",
+          "on": "4883C0FC41817C0B080000C841750A41C7040B00C07944EB0441893C0BE9BA5807FC41817C0B2000002F44750A41C7040B00C07944EB0441893C0BE99C5807FC41817C0B34D6660800750A41C7040B804FC347EB0441893C0BE97E5807FC",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "9468C4",
+          "on": "E927A7F803909090",
+          "off": "4883C0FC41893C0B"
+        }
+      ]
+    },
+    {
+      "name": "Infinite health (M)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "48D0FFD",
+          "on": "7513",
+          "off": "750A"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience (M) (the game will freeze turn it off to take effect)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "48D101B",
+          "on": "7513",
+          "off": "750A"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

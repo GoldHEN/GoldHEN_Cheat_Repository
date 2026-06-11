@@ -1,0 +1,75 @@
+{
+  "name": "RAD",
+  "id": "CUSA13879",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5CF8B10",
+          "on": "80BB9001000002750C448B8BE4040000E9AE45A6FA44898BE8040000E9A245A6FA",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "75D0CC",
+          "on": "E93FBA59059090",
+          "off": "44898BE8040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Cash (on get 2 at least)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5C5A2E0",
+          "on": "4139C36641C74630E703E94975B1FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "771831",
+          "on": "E9AA8A4E059090",
+          "off": "4139C341894630"
+        }
+      ]
+    },
+    {
+      "name": "Max Floppy Disks (on use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5C5A350",
+          "on": "39F041C6463063E92BAEB1FA",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "775181",
+          "on": "E9CA514E0590",
+          "off": "39F041897630"
+        }
+      ]
+    },
+    {
+      "name": "Max Mutation (use once)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5CD1290",
+          "on": "8183BC010000FFE0F505E9108EA9FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "76A0A9",
+          "on": "E9E271560590",
+          "off": "0183BC010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}
