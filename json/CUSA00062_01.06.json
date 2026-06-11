@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Pause/Unpause Game (Click Touch-Pad\u002BDpad Right/Left)",
+      "name": "Pause/Unpause Game (Click Touch-Pad+Dpad Right/Left)",
       "type": "checkbox",
       "memory": [
         {

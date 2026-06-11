@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode (Untouchable\u002BNo Effects)",
+      "name": "God Mode (Untouchable+No Effects)",
       "hint": "May cause progression issues with some bosses. Disable and restart from checkpoint if and when it does",
       "type": "checkbox",
       "memory": [
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Infinite Arrows \u0026 Throwables",
+      "name": "Infinite Arrows & Throwables",
       "type": "checkbox",
       "memory": [
         {
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "name": "Infinite Weapon Charge (L1\u002BTriangle)",
+      "name": "Infinite Weapon Charge (L1+Triangle)",
       "type": "checkbox",
       "memory": [
         {

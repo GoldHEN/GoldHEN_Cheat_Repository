@@ -99,7 +99,7 @@
       ]
     },
     {
-      "name": "Inf\u002BMax Health",
+      "name": "Inf+Max Health",
       "type": "checkbox",
       "memory": [
         {
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "name": "Inf\u002BMax FP",
+      "name": "Inf+Max FP",
       "type": "checkbox",
       "memory": [
         {
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "name": "Inf\u002BMax Stamina",
+      "name": "Inf+Max Stamina",
       "type": "checkbox",
       "memory": [
         {
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "name": "Inf\u002BMax Consumables",
+      "name": "Inf+Max Consumables",
       "type": "checkbox",
       "memory": [
         {
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "name": "Inf\u002BMax Runes",
+      "name": "Inf+Max Runes",
       "type": "checkbox",
       "memory": [
         {
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "name": "Inf\u002BMax Murks",
+      "name": "Inf+Max Murks",
       "type": "checkbox",
       "memory": [
         {

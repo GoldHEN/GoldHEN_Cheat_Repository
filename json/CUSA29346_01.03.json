@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Freeze AI \u002B Invincible",
+      "name": "Freeze AI + Invincible",
       "type": "checkbox",
       "memory": [
         {

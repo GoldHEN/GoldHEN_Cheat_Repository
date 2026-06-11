@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible\u002Bpower=no-Weapon",
+      "name": "Invincible+power=no-Weapon",
       "type": "checkbox",
       "memory": [
         {

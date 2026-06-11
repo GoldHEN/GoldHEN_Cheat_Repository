@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Master Code (Must be enabled first \u002B all the time)",
+      "name": "Master Code (Must be enabled first + all the time)",
       "type": "checkbox",
       "memory": [
         {
@@ -366,7 +366,7 @@
       ]
     },
     {
-      "name": "Inf\u002BMax Valor Surge",
+      "name": "Inf+Max Valor Surge",
       "type": "checkbox",
       "memory": [
         {
@@ -393,7 +393,7 @@
       ]
     },
     {
-      "name": "Infinite Oxygen\u002BStamina",
+      "name": "Infinite Oxygen+Stamina",
       "type": "checkbox",
       "memory": [
         {
@@ -404,7 +404,7 @@
       ]
     },
     {
-      "name": "Inf\u002BMax Skill Points (Open Inventory)",
+      "name": "Inf+Max Skill Points (Open Inventory)",
       "type": "checkbox",
       "memory": [
         {
@@ -534,7 +534,7 @@
       ]
     },
     {
-      "name": "[Teleport] To Base (L1\u002BL2\u002BR1\u002BR2)",
+      "name": "[Teleport] To Base (L1+L2+R1+R2)",
       "type": "checkbox",
       "memory": [
         {

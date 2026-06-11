@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Master Code (Must be enabled first \u002B all the time)",
+      "name": "Master Code (Must be enabled first + all the time)",
       "type": "checkbox",
       "memory": [
         {
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "name": "Inf\u002BMax Health",
+      "name": "Inf+Max Health",
       "type": "checkbox",
       "memory": [
         {
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "name": "Kill Everybody Around (L3 \u002B L2)",
+      "name": "Kill Everybody Around (L3 + L2)",
       "type": "checkbox",
       "memory": [
         {
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "name": "Inf\u002BMax FP",
+      "name": "Inf+Max FP",
       "type": "checkbox",
       "memory": [
         {
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "name": "Inf\u002BMax Stamina",
+      "name": "Inf+Max Stamina",
       "type": "checkbox",
       "memory": [
         {
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "name": "Inf\u002BMax Consumables",
+      "name": "Inf+Max Consumables",
       "type": "checkbox",
       "memory": [
         {
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "name": "Inf\u002BMax Runes",
+      "name": "Inf+Max Runes",
       "type": "checkbox",
       "memory": [
         {
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "name": "Inf\u002BMax Murks",
+      "name": "Inf+Max Murks",
       "type": "checkbox",
       "memory": [
         {
@@ -318,7 +318,7 @@
       ]
     },
     {
-      "name": "Inf\u002BMax Level (15)",
+      "name": "Inf+Max Level (15)",
       "type": "checkbox",
       "memory": [
         {
