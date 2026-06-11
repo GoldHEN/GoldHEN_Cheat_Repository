@@ -1,0 +1,33 @@
+{
+  "name": "Nine Sols",
+  "id": "CUSA50688",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf life",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80B43A40",
+          "on": "9090909090",
+          "off": "C5FA114738"
+        }
+      ]
+    },
+    {
+      "name": "Inf Healer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80B4C895",
+          "on": "9090909090",
+          "off": "C5FA114334"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "name": "DAVE THE DIVER",
+  "id": "CUSA45600",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf O2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AFB800",
+          "on": "C783940000000000C842C5FA108394000000E93EC59BFB",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4B7D4D",
+          "on": "E9AE3A6404909090",
+          "off": "C5FA118394000000"
+        }
+      ]
+    },
+    {
+      "name": "weight never Inc",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AFB819",
+          "on": "C7402C00000000C5FA10482CE9C74285FC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "134FAEC",
+          "on": "E928BD7A03",
+          "off": "C5FA11482C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Dave Stamina at the Resturant ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AFB82C",
+          "on": "41C747400000C842C4C17A104740E9A3A8F2FB",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A260DC",
+          "on": "E94B570D0490",
+          "off": "C4C17A114740"
+        }
+      ]
+    },
+    {
+      "name": "Inf Speargun Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AFB841",
+          "on": "C74374640000008B4374E9DDB177FC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1276A25",
+          "on": "E9174E8803909090",
+          "off": "894374E8F3EEFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Inf Itmes use only in resturant sell 1 item to restore it to x99",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AFB800",
+          "on": "C7449020640000008B4C9020E9777CD1FB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "813482",
+          "on": "E979832E0490",
+          "off": "8B4C902085C9"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "2B"
+  ]
+}

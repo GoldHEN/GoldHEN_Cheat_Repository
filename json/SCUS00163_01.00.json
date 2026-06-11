@@ -1,0 +1,60 @@
+{
+  "name": "Mickey\u0027s Wild Adventure",
+  "id": "SCUS00163",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "107DCC",
+          "on": "00",
+          "off": "FF"
+        },
+        {
+          "offset": "107DCD",
+          "on": "00",
+          "off": "FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1083E4",
+          "on": "00",
+          "off": "01"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-marbles",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "113976",
+          "on": "00",
+          "off": "42"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "105E46",
+          "on": "00",
+          "off": "42"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

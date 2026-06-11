@@ -1,0 +1,75 @@
+{
+  "name": "Ravenswatch",
+  "id": "CUSA46987",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Life",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19CB000",
+          "on": "4983FA180F84DD79CFFEC5FA108BDC000000E9B179CFFE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6C29C0",
+          "on": "E93B863001909090",
+          "off": "C5FA108BDC000000"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19CB037",
+          "on": "C783AC00000000000000C5FA1083AC000000C5FA1183AC000000E91BAC0AFF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A75C69",
+          "on": "E9C953F500909090",
+          "off": "C5FA1183AC000000"
+        }
+      ]
+    },
+    {
+      "name": "Stop Book Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19CB076",
+          "on": "664181F8800D740AC5FA114378E9F0BFBDFEC7437800002042C5FA104378C5FA114378E9DABFBDFE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5A7073",
+          "on": "E9FE3F4201",
+          "off": "C5FA114378"
+        }
+      ]
+    },
+    {
+      "name": "Inf Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19CB0BE",
+          "on": "C707003C1C46C5FA1007C5FA1107C5FA115708E94BA588FE",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "255618",
+          "on": "E9A15A770190909090",
+          "off": "C5FA1107C5FA115708"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

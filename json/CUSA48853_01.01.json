@@ -1,0 +1,272 @@
+{
+  "name": "Elden Ring Nightreign",
+  "id": "CUSA48853",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "TRAINER INFO (read only)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAEFFF",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Master Code (Must be enabled first and all the time)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAF1D0",
+          "on": "48891D390D2901488B43084D01F5E96D89B3FE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4D3FF18",
+          "on": "0000803F",
+          "off": "0000803F"
+        },
+        {
+          "offset": "4D3FF1C",
+          "on": "0000803F",
+          "off": "0000803F"
+        },
+        {
+          "offset": "3AAF203",
+          "on": "4C3B25060D29017508D905060D2901EB06D905020D290141D99C2458180000C4C17A59842458180000E90B5EFDFD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "25E7B49",
+          "on": "E982764C019090",
+          "off": "488B43084D01F5"
+        },
+        {
+          "offset": "1A85032",
+          "on": "E9CCA102029090909090",
+          "off": "C4C17A59842458180000"
+        }
+      ]
+    },
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAF000",
+          "on": "48893DF90E2901488B07FF9098010000E96BA283FE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3AAF035",
+          "on": "89D94C8D4DB8483B15BE0E29010F85C8DF16FEE9C8DF16FE",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3AAF06D",
+          "on": "488BB898000000E9C5C0FEFD",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "22E9277",
+          "on": "E9845D7C0190909090",
+          "off": "488B07FF9098010000"
+        },
+        {
+          "offset": "1C1D00A",
+          "on": "E92620E90190",
+          "off": "89D94C8D4DB8"
+        },
+        {
+          "offset": "1A9B132",
+          "on": "E9363F01029090",
+          "off": "488BB898000000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B1D70B",
+          "on": "0F94C0",
+          "off": "0F95C0"
+        }
+      ]
+    },
+    {
+      "name": "Inf\u002BMax Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAF099",
+          "on": "498B07488B7808488905610E2901E933EAFDFD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3AAF0CC",
+          "on": "48391D350E290175068B8354010000898350010000E9E32706FE",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A8DAD8",
+          "on": "E9BC1502029090",
+          "off": "498B07488B7808"
+        },
+        {
+          "offset": "1B118C3",
+          "on": "E904D8F90190",
+          "off": "898350010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf\u002BMax FP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAF106",
+          "on": "8B8E54010000898E50010000E9CFA748FE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F398E0",
+          "on": "E92158B70190",
+          "off": "8B8E50010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf\u002BMax Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAF137",
+          "on": "8B8E70010000898E6C010000E902A848FE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F39944",
+          "on": "E9EE57B70190",
+          "off": "8B8E6C010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf\u002BMax Consumables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "187A611",
+          "on": "894108",
+          "off": "895908"
+        }
+      ]
+    },
+    {
+      "name": "Inf\u002BMax Runes",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAF168",
+          "on": "41C744246CFFC99A3B418B44246CE9ABE44DFE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F8D621",
+          "on": "E9421BB201",
+          "off": "418B44246C"
+        }
+      ]
+    },
+    {
+      "name": "Runes Retained On Death",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E92030",
+          "on": "9090909090909090",
+          "off": "41C7466C00000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf\u002BMax Murks",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AAF19B",
+          "on": "C780D0000000FFC99A3B8B90D0000000E916874DFE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F878C0",
+          "on": "E9D678B20190",
+          "off": "8B90D0000000"
+        }
+      ]
+    },
+    {
+      "name": "Player No Dead 1.01-1.02",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B1061B",
+          "on": "90909090909090",
+          "off": "803D96AC970200"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ultimate Art",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DAACC6",
+          "on": "C5FA114F14",
+          "off": "C5FA114714"
+        }
+      ]
+    },
+    {
+      "name": "--No Skill Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "44262D3",
+          "on": "0100000000000000",
+          "off": "0100000000000000"
+        }
+      ]
+    },
+    {
+      "name": "--Enemy Speed x0",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D3FF1C",
+          "on": "00000000",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Player Speed x1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D3FF18",
+          "on": "0000803F",
+          "off": "0000803F"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Pharaoh2k"
+  ]
+}

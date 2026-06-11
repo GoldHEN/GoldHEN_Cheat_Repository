@@ -1,0 +1,49 @@
+{
+  "name": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
+  "id": "CUSA44075",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "GodMode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80AADC62",
+          "on": "9090909090",
+          "off": "E8F9A1FBFF"
+        }
+      ]
+    },
+    {
+      "name": "Inf Exp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80BA3030",
+          "on": "9090909090",
+          "off": "E8AB485601"
+        }
+      ]
+    },
+    {
+      "name": "One hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "4883F800751241BD000000004589AE84000000E99394E0004589AE84000000E98794E000",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80A684A4",
+          "on": "E9576B1FFF9090",
+          "off": "4589AE84000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

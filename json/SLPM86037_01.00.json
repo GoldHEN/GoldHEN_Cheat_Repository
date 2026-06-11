@@ -1,0 +1,44 @@
+{
+  "name": "Salamander Deluxe Pack Plus",
+  "id": "SLPM86037",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Salamander Inf Lives P1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1479F2",
+          "on": "99",
+          "off": "62"
+        }
+      ]
+    },
+    {
+      "name": "Salamander 2 Inf Lives P1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "133306",
+          "on": "99",
+          "off": "42"
+        }
+      ]
+    },
+    {
+      "name": "Lifeforce Inf Lives P1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14719A",
+          "on": "99",
+          "off": "62"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

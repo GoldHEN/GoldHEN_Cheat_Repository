@@ -1,0 +1,38 @@
+{
+  "name": "Final Fight 1-Remake",
+  "id": "CUSA99816",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FD15710",
+          "on": "00",
+          "off": "23"
+        },
+        {
+          "offset": "807FD15711",
+          "on": "63",
+          "off": "10"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FD5C3FC",
+          "on": "99",
+          "off": "03"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}
