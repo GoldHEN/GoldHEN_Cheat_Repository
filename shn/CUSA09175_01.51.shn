@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Days Gone" Moder="TLH" Cusa="CUSA09175" Version="01.51" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Fighting" />
+  <Items />
+  <Cheat Text="Bottomless Clip">
+    <Cheatline>
+      <Offset>15BE0BF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-0B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>126C803</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-D0</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>126E177</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-D1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items">
+    <Cheatline>
+      <Offset>1270636</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-03</ValueOn>
+      <ValueOff>7C-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Credits">
+    <Cheatline>
+      <Offset>1178296</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C0</ValueOn>
+      <ValueOff>29-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items">
+    <Cheatline>
+      <Offset>1270700</Offset>
+      <Section>0</Section>
+      <ValueOn>C3</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant LevelUp">
+    <Cheatline>
+      <Offset>E75A4F</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-43-54-90-90</ValueOn>
+      <ValueOff>E8-8C-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Molotov: Ignore Crafting Limit">
+    <Cheatline>
+      <Offset>126FDB5</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-C3</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

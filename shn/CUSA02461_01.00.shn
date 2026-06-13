@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tales of Zestiria" Moder="Weysincha" Cusa="CUSA02461" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Inf HP ">
+    <Cheatline>
+      <Offset>113B800</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4E-DA-89-DA-83-79-04-01-0F-85-0F-FC-27-FF-90-90-90-E9-0A-FC-27-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3BB419</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E2-03-D8-00</ValueOn>
+      <ValueOff>0F-4E-DA-89-DA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf EXP / Max LvL">
+    <Cheatline>
+      <Offset>113B817</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-FF-E0-F5-05-0F-4E-D1-BA-7F-96-98-00-E9-97-F9-34-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>48B1B8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5A-06-CB-00-90-90-90</ValueOn>
+      <ValueOff>BA-FF-E0-F5-05-0F-4E-D1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Glad/Money (On Buy)">
+    <Cheatline>
+      <Offset>4793CA</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-FF-C9-9A-3B-90</ValueOn>
+      <ValueOff>81-FE-FF-C9-9A-3B</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4793D5</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-4E-CE</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

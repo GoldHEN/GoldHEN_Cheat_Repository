@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Far Cry 3: Classic Edition" Moder="Celogamez" Cusa="CUSA10326" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>3B6BDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>4C-89-F6-90-E9-27-54-9D-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5411DA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D1-AB-62-03-90</ValueOn>
+      <ValueOff>4C-89-F6-FF-51-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Invincibility">
+    <Cheatline>
+      <Offset>3B6BDF0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-CA-FD-9C-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>53BBBA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-31-02-63-03-90</ValueOn>
+      <ValueOff>FF-90-E0-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Breath (Underwater)">
+    <Cheatline>
+      <Offset>3B6BE40</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-C4-12-9D-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>53D105</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-36-ED-62-03</ValueOn>
+      <ValueOff>E8-E6-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health Syringes">
+    <Cheatline>
+      <Offset>1316584</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-83-90-00-00-00</ValueOn>
+      <ValueOff>89-83-90-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>126FE2E</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8B-46-18</ValueOn>
+      <ValueOff>41-89-46-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>119DF20</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-91-D8-00-00-00</ValueOn>
+      <ValueOff>89-91-D8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Throwables (After Getting Throwables)">
+    <Cheatline>
+      <Offset>12C4FF3</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-73-70</ValueOn>
+      <ValueOff>89-73-70</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Lot Of Infinite Money On First Buy">
+    <Cheatline>
+      <Offset>12963E3</Offset>
+      <Section>0</Section>
+      <ValueOn>89-F8</ValueOn>
+      <ValueOff>29-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Skill Points">
+    <Cheatline>
+      <Offset>3B6BE20</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-C9-41-C7-47-64-3F-42-0F-00-E9-41-F9-60-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>17B76A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B1-06-9F-03-90</ValueOn>
+      <ValueOff>FF-C9-41-89-47-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stop Time">
+    <Cheatline>
+      <Offset>3B6BEE0</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-07-E9-61-BA-E3-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9A7946</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-95-45-1C-03</ValueOn>
+      <ValueOff>C4-C1-7A-11-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stop Time Seringues">
+    <Cheatline>
+      <Offset>3B6B9E0</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-45-3C-E9-20-AC-E3-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9A6605</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D6-53-1C-03-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-45-3C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Damage To The Helicopter">
+    <Cheatline>
+      <Offset>3B6BA30</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-87-50-01-00-00-E9-E6-C8-7D-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>134831B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-10-37-82-02-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-87-50-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Armor">
+    <Cheatline>
+      <Offset>54267C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>41-FF-D6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Invincibility">
+    <Cheatline>
+      <Offset>3B6BDF0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-CA-FD-9C-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>53BBBA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-31-02-63-03-90</ValueOn>
+      <ValueOff>FF-90-E0-02-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5411DD</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>FF-51-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money">
+    <Cheatline>
+      <Offset>3B6BDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-3F-42-0F-00-89-47-08-C4-E2-78-F2-C6-C3-E9-0A-A6-72-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12963C8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E3-59-8D-02</ValueOn>
+      <ValueOff>C4-E2-78-F2-C6</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3B6B890</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-3F-42-0F-00-89-47-08-C4-E2-70-F2-C0-C3-E9-4C-AB-72-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12963EA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A1-54-8D-02</ValueOn>
+      <ValueOff>C4-E2-70-F2-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Yakuza Kiwami 2" Moder="TLH" Cusa="CUSA10706" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Arcade" />
+  <Genres Name="Fighting" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>418AB3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>49-0F-4F-CE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill">
+    <Cheatline>
+      <Offset>40DA6F</Offset>
+      <Section>0</Section>
+      <ValueOn>48-31-C9-90</ValueOn>
+      <ValueOff>48-0F-4F-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Heat">
+    <Cheatline>
+      <Offset>3CE8F6</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-5F-40-04</ValueOn>
+      <ValueOff>C5-FA-5D-40-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money, Skillpoints, Easy Completition">
+    <Cheatline>
+      <Offset>ED831F</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-DA-90</ValueOn>
+      <ValueOff>48-0F-4F-D3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items">
+    <Cheatline>
+      <Offset>EC1E27</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>45-0F-4E-EC</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items">
+    <Cheatline>
+      <Offset>164B360</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>45-01-F5</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Weapon Durability">
+    <Cheatline>
+      <Offset>F5ED1B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>2B-8B-C0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Enhancements">
+    <Cheatline>
+      <Offset>3DDAD2</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F2-5F-0D-F6-3D-D6-01</ValueOn>
+      <ValueOff>C5-F2-5D-0D-F6-3D-D6-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Challenge Time">
+    <Cheatline>
+      <Offset>2F469E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-5C-05-FE-2D-43-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Golf: Easy Score">
+    <Cheatline>
+      <Offset>11C2B1E</Offset>
+      <Section>0</Section>
+      <ValueOn>83-C6-78</ValueOn>
+      <ValueOff>83-C6-1E</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11C2A29</Offset>
+      <Section>0</Section>
+      <ValueOn>83-C6-78</ValueOn>
+      <ValueOff>83-C6-32</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11C24C9</Offset>
+      <Section>0</Section>
+      <ValueOn>83-C6-78</ValueOn>
+      <ValueOff>83-C6-64</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11C2779</Offset>
+      <Section>0</Section>
+      <ValueOn>83-C6-78</ValueOn>
+      <ValueOff>83-C6-46</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Golf: Perfect Swing">
+    <Cheatline>
+      <Offset>11B6EE1</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C0-90</ValueOn>
+      <ValueOff>C5-FA-5C-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Golf: Slowdown">
+    <Cheatline>
+      <Offset>11B74C9</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-0A-D7-A3-3B-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-0D-D3-FF-56-01</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11B74D1</Offset>
+      <Section>0</Section>
+      <ValueOn>66-0F-6E-CE-90-90-90-90</ValueOn>
+      <ValueOff>C5-F2-59-0D-B3-E3-2C-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Casino: Max Wooden Tags">
+    <Cheatline>
+      <Offset>ED9751</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-DE-90</ValueOn>
+      <ValueOff>48-0F-4F-F3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Koi-Koi: Max Points">
+    <Cheatline>
+      <Offset>23B3800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-40-58-0F-27-00-00-BE-79-04-00-00-E9-58-66-E2-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11D9E65</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-96-99-1D-01</ValueOn>
+      <ValueOff>BE-79-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

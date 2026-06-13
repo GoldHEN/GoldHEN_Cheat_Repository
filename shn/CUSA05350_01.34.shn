@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dragon Ball: Xenoverse 2" Moder="Celogamez" Cusa="CUSA05350" Version="01.34" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Max/Infinite Health/1 Hit Kill (Master Code)">
+    <Cheatline>
+      <Offset>2AD3570</Offset>
+      <Section>0</Section>
+      <ValueOn>41-80-7F-30-00-75-1A-C4-C1-7A-10-87-EC-00-00-00-C4-C1-7A-11-87-E8-00-00-00-E9-3A-96-5D-FD-0F-57-C0-C4-C1-7A-11-87-E8-00-00-00-E9-29-96-5D-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>ACBBF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AC-69-A2-02-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-87-E8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill (Need MC)">
+    <Cheatline>
+      <Offset>2AD3575</Offset>
+      <Section>0</Section>
+      <ValueOn>75-17</ValueOn>
+      <ValueOff>75-1A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>2AD3900</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-86-54-01-00-00-C4-C1-7A-11-86-54-01-00-00-E9-E6-95-5D-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>ACEF4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-07-6A-A2-02-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-54-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ki">
+    <Cheatline>
+      <Offset>2AD37E0</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-97-F4-00-00-00-C4-C1-7A-11-97-F4-00-00-00-E9-28-AC-5B-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8E416</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C5-53-A4-02-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-97-F4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Zeni">
+    <Cheatline>
+      <Offset>86579F</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-00-CA-9A-3B</ValueOn>
+      <ValueOff>3D-00-CA-9A-3B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max TP">
+    <Cheatline>
+      <Offset>2AD3B10</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-47-70-88-61-26-3A-8B-4F-70-89-4F-6C-39-4F-6C-90-E9-E4-1C-D9-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>865804</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-07-E3-26-02-90</ValueOn>
+      <ValueOff>8B-4F-70-39-4F-6C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Attribute Points">
+    <Cheatline>
+      <Offset>2AD3A30</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-00-02-00-00-E7-03-00-00-E9-1B-E0-A6-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>541A54</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D7-1F-59-02-90-90</ValueOn>
+      <ValueOff>45-89-B7-00-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

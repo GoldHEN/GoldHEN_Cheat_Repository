@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="7 Days to Die" Moder="DeathRGH" Cusa="CUSA03455" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Infinite Health / Stamina">
+    <Cheatline>
+      <Offset>804901BB</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>F3-45-0F-11-7F-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Get Skillpoints For Spending Them">
+    <Cheatline>
+      <Offset>8075ACA9</Offset>
+      <Section>0</Section>
+      <ValueOn>01-C8</ValueOn>
+      <ValueOff>2B-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

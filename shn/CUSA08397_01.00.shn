@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dragon Quest XI: Echoes of an Elusive Age" Moder="cjwine" Cusa="CUSA08397" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="god mode">
+    <Cheatline>
+      <Offset>6AEF800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-0F-4D-DE-BE-FF-FF-FF-FF-41-39-B7-D4-05-00-00-0F-84-98-68-44-FA-41-89-5F-54-E9-8F-68-44-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F360A6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-55-97-BB-05-90-90-90</ValueOn>
+      <ValueOff>41-0F-4D-DE-41-89-5F-54</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="money max">
+    <Cheatline>
+      <Offset>6AEF81F</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-8C-F1-A4-E4-FA-B8-7F-96-98-00-41-89-45-50-E9-E9-A4-E4-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1939D16</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-04-5B-1B-05-90</ValueOn>
+      <ValueOff>7C-04-41-89-45-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="one hit kill">
+    <Cheatline>
+      <Offset>6AEF833</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-FF-FF-FF-FF-41-39-B7-D4-05-00-00-74-08-41-C7-47-54-00-00-00-00-29-D8-44-29-EB-E9-60-68-44-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F360AE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-80-97-BB-05</ValueOn>
+      <ValueOff>29-D8-44-29-EB</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf mp">
+    <Cheatline>
+      <Offset>F36211</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-46-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="max lv99">
+    <Cheatline>
+      <Offset>6AEF853</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BD-FF-C9-9A-3B-44-89-AB-88-00-00-00-E9-CA-1F-44-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F31828</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-26-E0-BB-05-90-90</ValueOn>
+      <ValueOff>44-89-AB-88-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="add point after used">
+    <Cheatline>
+      <Offset>1025302</Offset>
+      <Section>0</Section>
+      <ValueOn>41-29-95-90-00-00-00</ValueOn>
+      <ValueOff>41-89-95-90-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="item buy get max">
+    <Cheatline>
+      <Offset>6AEF865</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-63-00-00-00-41-89-D6-41-89-51-18-E9-02-B6-4A-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F9AE71</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EF-49-B5-05-90-90</ValueOn>
+      <ValueOff>41-89-D6-41-89-51-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="item  used get more">
+    <Cheatline>
+      <Offset>6AEF875</Offset>
+      <Section>0</Section>
+      <ValueOn>44-0F-4D-F2-B8-63-00-00-00-41-89-45-18-E9-91-C5-4A-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F9BE11</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-60-3A-B5-05-90-90-90</ValueOn>
+      <ValueOff>44-0F-4D-F2-41-89-45-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="SPPED UP">
+    <Cheatline>
+      <Offset>6AEF887</Offset>
+      <Section>0</Section>
+      <ValueOn>81-7E-10-80-E9-0E-07-75-0A-C7-86-84-01-00-00-00-00-C0-40-C5-F8-10-96-80-01-00-00-E9-E2-69-8B-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>43A6281</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-01-96-74-02-90-90-90</ValueOn>
+      <ValueOff>C5-F8-10-96-80-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="fly to sky (wall pass)">
+    <Cheatline>
+      <Offset>6AEF8A7</Offset>
+      <Section>0</Section>
+      <ValueOn>81-7E-10-80-E9-0E-07-75-0A-C7-86-78-01-00-00-00-50-C3-46-C5-F8-10-86-70-01-00-00-E9-2F-1C-89-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>43814EE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B4-E3-76-02-90-90-90</ValueOn>
+      <ValueOff>C5-F8-10-86-70-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

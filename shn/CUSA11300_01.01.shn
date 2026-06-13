@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Onimusha: Warlords" Moder="Wander FW9.00" Cusa="CUSA11300" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>567B50</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-C7-80-DC-B9-00-00-C8-00-E9-01-D7-D0-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>275258</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F3-28-2F-00-90-90-90</ValueOn>
+      <ValueOff>66-41-89-88-DC-B9-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max red souls" Description="when absorbing">
+    <Cheatline>
+      <Offset>567800</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-84-AD-00-00-FF-C9-9A-3B-E9-5F-3E-AA-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B668</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-93-C1-55-00-90</ValueOn>
+      <ValueOff>89-88-84-AD-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite blue sword magic">
+    <Cheatline>
+      <Offset>567811</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-80-3E-AF-00-00-C8-00-E9-0F-93-D0-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>270B27</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E5-6C-2F-00-90-90</ValueOn>
+      <ValueOff>66-29-88-3E-AF-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite red sword magic" Description="turn off Blue sword and green spear before activating">
+    <Cheatline>
+      <Offset>567811</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-80-40-AF-00-00-C8-00-E9-83-96-D0-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>270E9B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-71-69-2F-00-90-90</ValueOn>
+      <ValueOff>66-29-88-40-AF-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Green spear">
+    <Cheatline>
+      <Offset>567D90</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-80-42-AF-00-00-C8-00-E9-C6-92-D0-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>27105D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2E-6D-2F-00-90-90</ValueOn>
+      <ValueOff>66-29-88-42-AF-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite items ">
+    <Cheatline>
+      <Offset>5677E0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-84-B4-11-27-00-00-50-E9-85-EE-D6-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2D666B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-70-11-29-00-90-90-90</ValueOn>
+      <ValueOff>41-88-94-B4-11-27-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Kunai throw Kaede">
+    <Cheatline>
+      <Offset>567821</Offset>
+      <Section>0</Section>
+      <ValueOn>42-C6-84-89-AD-AD-00-00-50-E9-DA-45-D7-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2DBE01</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1B-BA-28-00-90-90-90</ValueOn>
+      <ValueOff>42-88-84-89-AD-AD-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

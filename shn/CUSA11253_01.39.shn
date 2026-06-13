@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dead Cells" Moder="2B" Cusa="CUSA11253" Version="01.39" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf Health">
+    <Cheatline>
+      <Offset>1AAB800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-7C-24-50-09-75-0D-41-8B-84-24-61-01-00-00-E9-CC-0B-9F-FE-41-89-84-24-5C-01-00-00-E9-BF-0B-9F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>49C3D9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-22-F4-60-01-90-90-90</ValueOn>
+      <ValueOff>41-89-84-24-5C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Cells on spend">
+    <Cheatline>
+      <Offset>1AAB830</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-3F-42-0F-00-41-89-B6-A4-04-00-00-E9-94-2D-CA-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>74E5CE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5D-D2-35-01-90-90</ValueOn>
+      <ValueOff>41-89-B6-A4-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Money on spend">
+    <Cheatline>
+      <Offset>1AAB8D1</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-3F-42-0F-00-89-70-48-E9-D9-1F-CA-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>74D8B2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1A-E0-35-01</ValueOn>
+      <ValueOff>29-DE-89-70-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Kill Score">
+    <Cheatline>
+      <Offset>1AAB843</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-3F-42-0F-00-89-51-74-E9-A7-CC-A1-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4C84F1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4D-33-5E-01-90</ValueOn>
+      <ValueOff>89-51-74-8B-71-78</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Arrow">
+    <Cheatline>
+      <Offset>1AAB852</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-47-30-E7-03-00-00-E9-E8-D8-D5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80913B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-12-27-2A-01-90-90-90-90-90-90</ValueOn>
+      <ValueOff>83-7F-30-00-C7-45-C8-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Cooldown">
+    <Cheatline>
+      <Offset>1AAB860</Offset>
+      <Section>0</Section>
+      <ValueOn>48-C7-C0-00-00-00-00-48-89-83-A0-00-00-00-E9-86-C1-A5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5079F2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-69-3E-5A-01-90-90</ValueOn>
+      <ValueOff>48-89-83-A0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Jump">
+    <Cheatline>
+      <Offset>1AAB875</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-88-03-00-00-00-00-00-00-E9-6A-4B-CE-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7903E8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-88-B4-31-01-90-90</ValueOn>
+      <ValueOff>41-FF-87-88-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Survival scroll upgrade x99">
+    <Cheatline>
+      <Offset>1AAB887</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-63-00-00-00-89-83-90-01-00-00-E9-B3-DA-C9-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>749344</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3E-25-36-01-90</ValueOn>
+      <ValueOff>89-83-90-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tactics scroll upgrade x99">
+    <Cheatline>
+      <Offset>1AAB899</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-63-00-00-00-89-83-88-01-00-00-E9-7E-DA-C9-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>749321</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-73-25-36-01-90</ValueOn>
+      <ValueOff>89-83-88-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Brutality scroll upgrade x99">
+    <Cheatline>
+      <Offset>1AAB8AB</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-63-00-00-00-89-83-8C-01-00-00-E9-B2-DA-C9-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>749367</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3F-25-36-01-90</ValueOn>
+      <ValueOff>89-83-8C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Play lvl Time freeze ">
+    <Cheatline>
+      <Offset>1AAB8BD</Offset>
+      <Section>0</Section>
+      <ValueOn>48-C7-40-38-14-00-00-00-C5-FB-10-40-38-E9-7B-0E-E1-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8BC745</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-73-F1-1E-01</ValueOn>
+      <ValueOff>C5-FB-11-40-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

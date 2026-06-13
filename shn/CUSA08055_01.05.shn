@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Aven Colony" Moder="Celogamez" Cusa="CUSA08055" Version="01.05" Process="eboot.bin">
+  <Genres Name="Simulation" />
+  <Genres Name="Strategy" />
+  <Items />
+  <Cheat Text="Max/Infinite Water/Foods/Nanites On Spend">
+    <Cheatline>
+      <Offset>50AFDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-84-07-64-04-00-00-F0-23-74-49-E9-61-3C-1E-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>293A18</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-93-C3-E1-04-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-84-07-64-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

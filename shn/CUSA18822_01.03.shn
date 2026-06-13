@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Coma 2: Vicious Sisters" Moder="Ali-mk" Cusa="CUSA18822" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health-(mc)">
+    <Cheatline>
+      <Offset>80803BD3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-08-B3-AB-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Stamina-(mc)">
+    <Cheatline>
+      <Offset>81827144</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-C7-D7-0B-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-money-(mc)">
+    <Cheatline>
+      <Offset>80AA8CC7</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-14-62-81-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

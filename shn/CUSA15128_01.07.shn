@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DYSMANTLE" Moder="Reddevil82 ,  FW 9.00" Cusa="CUSA15128" Version="01.07" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Mastercode ( must be activate for [ MC ] Cheats )">
+    <Cheatline>
+      <Offset>B4BE54</Offset>
+      <Section>0</Section>
+      <ValueOn>80-3D-15-42-2B-00-01-75-09-41-C6-84-24-69-04-00-00-08-80-3D-03-42-2B-00-00-75-09-41-C6-84-24-69-04-00-00-01-80-3D-F2-41-2B-00-01-75-09-41-C6-84-24-68-04-00-00-00-80-3D-E0-41-2B-00-00-75-09-41-C6-84-24-68-04-00-00-C4-41-8B-84-24-68-04-00-00-E9-BC-6C-BA-FF-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6F2B5D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F2-92-45-00-90-90-90</ValueOn>
+      <ValueOff>41-8B-84-24-68-04-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B4BF38</Offset>
+      <Section>0</Section>
+      <ValueOn>80-3D-49-41-2B-00-01-74-0B-80-3D-41-41-2B-00-01-74-27-EB-4B-C6-05-35-41-2B-00-00-50-41-8B-47-58-A3-80-00-20-01-00-00-00-00-41-8B-47-5C-A3-84-00-20-01-00-00-00-00-58-EB-26-C6-05-11-41-2B-00-00-83-3D-01-41-2B-00-00-74-16-52-8B-15-F8-40-2B-00-41-89-57-58-8B-15-F2-40-2B-00-41-89-57-5C-5A-C4-C1-7B-10-4F-58-E9-3D-34-A8-FF-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5CF3D9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5A-CB-57-00-90</ValueOn>
+      <ValueOff>C4-C1-7B-10-4F-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Invincibility [ MC ]">
+    <Cheatline>
+      <Offset>E00070</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Cinematic Mode [ MC ]">
+    <Cheatline>
+      <Offset>E00071</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>B4BDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-80-A0-04-00-00-C5-FA-11-80-9C-04-00-00-C5-FA-10-80-9C-04-00-00-E9-39-04-7C-FF-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>30C1FE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AD-FB-83-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-80-9C-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill - Fast Destroy">
+    <Cheatline>
+      <Offset>B4BDE1</Offset>
+      <Section>0</Section>
+      <ValueOn>81-BB-28-01-00-00-00-80-00-00-74-03-0F-57-C0-C5-FA-11-83-9C-04-00-00-E9-FB-83-C1-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7641F0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EC-7B-3E-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-9C-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Projectiles">
+    <Cheatline>
+      <Offset>B4BDFD</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-24-00-00-00-00-2B-48-24-B8-00-00-00-00-E9-FF-76-7C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>31350B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-ED-88-83-00</ValueOn>
+      <ValueOff>2B-48-24-89-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Perfect Temperature">
+    <Cheatline>
+      <Offset>B4BE11</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-90-06-00-00-00-00-00-00-E9-2D-AE-7B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>306C45</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C7-51-84-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-87-90-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items ( on gain - need 2 )">
+    <Cheatline>
+      <Offset>B4BE21</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-C0-C7-43-08-63-00-00-00-E9-65-C1-7A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2F7F8F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8D-3E-85-00</ValueOn>
+      <ValueOff>FF-C0-89-43-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Collectable Slots">
+    <Cheatline>
+      <Offset>B4BE30</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-45-10-10-00-00-00-C4-C1-2A-2A-45-10-E9-7E-A5-7A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2F63BB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-70-5A-85-00-90</ValueOn>
+      <ValueOff>C4-C1-2A-2A-45-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP">
+    <Cheatline>
+      <Offset>B4BE43</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-FF-C9-9A-3B-41-89-9F-88-00-00-00-E9-94-2D-7C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>30EBE1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5D-D2-83-00-90-90</ValueOn>
+      <ValueOff>41-8B-9F-88-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Zero Deaths">
+    <Cheatline>
+      <Offset>B4BEAB</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-28-01-00-00-00-00-00-00-8B-90-28-01-00-00-E9-74-3C-87-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3BFB2E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-78-C3-78-00-90</ValueOn>
+      <ValueOff>8B-90-28-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Save Location [ MC ]">
+    <Cheatline>
+      <Offset>E00088</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Load Location [ MC ]">
+    <Cheatline>
+      <Offset>E00089</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Game Speed [ Normal ]">
+    <Cheatline>
+      <Offset>B4BEC0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-86-84-04-00-00-00-00-96-44-C4-E2-79-18-8E-84-04-00-00-E9-3F-41-6C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>21000E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AD-BE-93-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-E2-79-18-8E-84-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Game Speed [ x 2 ]">
+    <Cheatline>
+      <Offset>B4BEF0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-86-84-04-00-00-00-00-16-45-C4-E2-79-18-8E-84-04-00-00-E9-0F-41-6C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>21000E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DD-BE-93-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-E2-79-18-8E-84-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Game Speed [ x 3 ]">
+    <Cheatline>
+      <Offset>B4BED8</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-86-84-04-00-00-00-00-16-45-C4-E2-79-18-8E-84-04-00-00-E9-27-41-6C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>21000E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C5-BE-93-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-E2-79-18-8E-84-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Game Speed [ x 4 ]">
+    <Cheatline>
+      <Offset>B4BF08</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-86-84-04-00-00-00-00-96-45-C4-E2-79-18-8E-84-04-00-00-E9-F7-40-6C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>21000E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F5-BE-93-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-E2-79-18-8E-84-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Game Speed [ x 5 ]">
+    <Cheatline>
+      <Offset>B4BF20</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-86-84-04-00-00-00-80-BB-45-C4-E2-79-18-8E-84-04-00-00-E9-DF-40-6C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>21000E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0D-BF-93-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-E2-79-18-8E-84-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

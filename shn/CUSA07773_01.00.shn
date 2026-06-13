@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Cursed Castilla EX" Moder="Rizla+Weysincha" Cusa="CUSA07773" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Arcade" />
+  <Items />
+  <Cheat Text="Inf HP">
+    <Cheatline>
+      <Offset>3DF800</Offset>
+      <Section>0</Section>
+      <ValueOn>66-9C-C5-F9-2E-4D-F0-48-B8-00-00-00-00-00-00-08-40-50-F2-0F-10-04-24-58-C5-FB-11-03-66-9D-E9-58-7A-DC-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1A7272</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-89-85-23-00-90-90-90-90</ValueOn>
+      <ValueOff>C5-F9-2E-4D-F0-C5-FB-11-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Lives">
+    <Cheatline>
+      <Offset>3DF823</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-63-00-00-00-41-89-06-83-FB-00-E9-01-7A-DC-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1A722E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F0-85-23-00-90</ValueOn>
+      <ValueOff>41-89-06-83-FB-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Score on Gain">
+    <Cheatline>
+      <Offset>3DF833</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-3F-42-0F-00-89-01-B0-01-5D-E9-CB-79-DC-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1A7208</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-26-86-23-00</ValueOn>
+      <ValueOff>89-01-B0-01-5D</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

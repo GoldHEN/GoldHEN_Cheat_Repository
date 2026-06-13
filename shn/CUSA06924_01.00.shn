@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Alchemic Jousts" Moder="DeathRGH" Cusa="CUSA06924" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Get Reagents For Spending Them">
+    <Cheatline>
+      <Offset>30D6A5</Offset>
+      <Section>0</Section>
+      <ValueOn>41-01-86-A8-00-00-00</ValueOn>
+      <ValueOff>41-29-86-A8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Get Clues For Spending Them">
+    <Cheatline>
+      <Offset>30F238</Offset>
+      <Section>0</Section>
+      <ValueOn>41-FF-85-AC-00-00-00</ValueOn>
+      <ValueOff>41-FF-8D-AC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sonic Frontiers" Moder="Wander FW9.00" Cusa="CUSA28194" Version="01.30" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Max Rings on hit">
+    <Cheatline>
+      <Offset>23DBA90</Offset>
+      <Section>0</Section>
+      <ValueOn>01-CA-66-C7-40-28-E7-03-E9-08-09-F7-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>134C3A0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EB-F6-08-01</ValueOn>
+      <ValueOff>01-CA-89-50-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max rings (on Get)">
+    <Cheatline>
+      <Offset>23DBAE0</Offset>
+      <Section>0</Section>
+      <ValueOn>4C-89-E7-66-C7-40-28-E7-03-E9-6D-1B-E0-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11DD655</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-86-E4-1F-01-90</ValueOn>
+      <ValueOff>4C-89-E7-89-48-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Hearts/Koco (on get claim 2 )">
+    <Cheatline>
+      <Offset>23DBB20</Offset>
+      <Section>0</Section>
+      <ValueOn>42-C7-84-B8-00-14-00-00-0F-27-00-00-E9-5A-EC-CD-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>10BA783</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-98-13-32-01-90-90-90</ValueOn>
+      <ValueOff>46-89-B4-B8-00-14-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Blue seeds (on get)">
+    <Cheatline>
+      <Offset>23DBD80</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-B4-00-00-00-0F-27-00-00-E9-BF-1C-E0-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11DDA48</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-33-E3-1F-01-90-90</ValueOn>
+      <ValueOff>41-89-8F-B4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max red Seeds (On get)">
+    <Cheatline>
+      <Offset>23DBDE0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-B0-00-00-00-0F-27-00-00-E9-95-1B-E0-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11DD97E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5D-E4-1F-01-90-90</ValueOn>
+      <ValueOff>41-89-8F-B0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Vault Keys + Portal Gears ( use it first after Stage 1-2 )(collect 1 each At least)">
+    <Cheatline>
+      <Offset>23DB2E0</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-84-08-00-10-00-00-63-44-8A-A4-08-00-10-00-00-E9-E1-F8-CD-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>10BABCE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0D-07-32-01-90-90-90</ValueOn>
+      <ValueOff>44-8A-A4-08-00-10-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Skill Points (activate and die)">
+    <Cheatline>
+      <Offset>23DB9A0</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-83-D0-00-00-00-E7-03-0F-B7-93-D0-00-00-00-E9-98-41-F1-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2EFB46</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-55-BE-0E-02-90-90</ValueOn>
+      <ValueOff>0F-B7-93-D0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Purple Coins (on get)">
+    <Cheatline>
+      <Offset>23DB2A0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-85-B8-00-00-00-0F-27-00-00-E9-67-28-E0-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11DDB0F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8C-D7-1F-01-90-90-90</ValueOn>
+      <ValueOff>66-41-89-8D-B8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Stars (on collect)">
+    <Cheatline>
+      <Offset>23DB240</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-81-10-01-00-00-E7-03-E9-34-30-06-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>143E27C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BF-CF-F9-00-90</ValueOn>
+      <ValueOff>01-81-10-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max golden tickets ">
+    <Cheatline>
+      <Offset>23DB180</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-C7-84-24-BC-00-00-00-E7-03-E9-31-30-AD-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>EAE1B8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C3-CF-52-01-90-90-90-90</ValueOn>
+      <ValueOff>66-41-89-84-24-BC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Fish Token (on get)">
+    <Cheatline>
+      <Offset>23DB1F0</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-C7-84-24-BA-00-00-00-E7-03-E9-90-2F-AD-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>EAE187</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-64-D0-52-01-90-90-90-90</ValueOn>
+      <ValueOff>66-41-89-84-24-BA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Super Sonic Rings">
+    <Cheatline>
+      <Offset>23DBC90</Offset>
+      <Section>0</Section>
+      <ValueOn>01-CF-66-C7-42-28-E7-03-E9-10-26-F3-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>130E2A8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E3-D9-0C-01</ValueOn>
+      <ValueOff>01-CF-89-7A-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Boost">
+    <Cheatline>
+      <Offset>23DBA40</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-45-3C-00-00-C8-42-E9-A8-F1-F2-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>130ABEF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4C-0E-0D-01-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-45-3C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Family reunion Infinite Timer">
+    <Cheatline>
+      <Offset>F5FEAD</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-4B-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Springs in the air Infinite Timer">
+    <Cheatline>
+      <Offset>F7907A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4D-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Koco round up Infinite timer">
+    <Cheatline>
+      <Offset>F6695D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-48-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="The best defence Infinite Timer">
+    <Cheatline>
+      <Offset>F56A97</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4D-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mechanical collectible Infinite Timer">
+    <Cheatline>
+      <Offset>F544B0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4D-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bridge the gap Infinite Timer">
+    <Cheatline>
+      <Offset>F5976B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-48-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Clear the game in the ruins MAX SCORE">
+    <Cheatline>
+      <Offset>23DBC20</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-83-A8-02-00-00-FF-E0-F5-05-E9-98-BE-C3-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1017AC1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5A-41-3C-01-90-90</ValueOn>
+      <ValueOff>45-01-83-A8-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

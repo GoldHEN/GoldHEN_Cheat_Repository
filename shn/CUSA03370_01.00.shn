@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="God Eater 2: Rage Burst" Moder="Weysincha" Cusa="CUSA03370" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>8051DF02</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>8051E672</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-40-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite OP">
+    <Cheatline>
+      <Offset>8051E302</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-40-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money">
+    <Cheatline>
+      <Offset>8050636E</Offset>
+      <Section>0</Section>
+      <ValueOn>48-C7-C0-7F-96-98-00-90-90-90</ValueOn>
+      <ValueOff>48-C7-C0-7F-96-98-00-90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Stranger of Paradise: Final Fantasy Origin" Moder="Reddevil82 - FW 9.00" Cusa="CUSA29579" Version="01.32" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>33DBDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-83-D8-06-00-00-83-BB-C4-01-00-00-00-74-06-8B-4A-18-89-4A-20-8B-4A-20-E9-FF-61-E9-FC-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>271FC3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E8-9D-16-03-90-90-90-90</ValueOn>
+      <ValueOff>8B-83-D8-06-00-00-8B-4A-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>33DBDE1</Offset>
+      <Section>0</Section>
+      <ValueOn>41-50-44-8B-44-83-64-44-89-44-83-60-41-58-C5-F8-2E-44-83-60-E9-18-BD-D4-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>127B0C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D0-42-2B-03-90</ValueOn>
+      <ValueOff>C5-F8-2E-44-83-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Break Gauge">
+    <Cheatline>
+      <Offset>2771EC</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-11-4F-34</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-34</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite MP + Max MP">
+    <Cheatline>
+      <Offset>33DBDFA</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-E0-13-00-00-00-00-16-44-C7-83-EC-13-00-00-00-00-16-44-C5-FA-10-8B-E0-13-00-00-E9-82-0E-E8-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25CC95</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-60-F1-17-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-8B-E0-13-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill">
+    <Cheatline>
+      <Offset>33DBE1B</Offset>
+      <Section>0</Section>
+      <ValueOn>89-F8-83-BB-18-02-00-00-00-74-05-B8-01-00-00-00-44-29-F0-E9-BC-04-CE-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BC2EA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2C-FB-31-03</ValueOn>
+      <ValueOff>89-F8-44-29-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Potion">
+    <Cheatline>
+      <Offset>33DBE33</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-47-04-63-41-80-7F-04-00-E9-98-68-CB-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>926D5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-59-97-34-03</ValueOn>
+      <ValueOff>41-80-7F-04-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Abilities ( if available )">
+    <Cheatline>
+      <Offset>33DBE42</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-84-08-60-21-00-00-63-00-00-00-8B-9C-08-60-21-00-00-E9-08-F7-24-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>162B55A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E3-08-DB-01-90-90</ValueOn>
+      <ValueOff>8B-9C-08-60-21-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Anima ( Job Menu - you need one )">
+    <Cheatline>
+      <Offset>33DBE59</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-C7-84-05-38-C5-17-00-E7-03-41-0F-B7-84-05-38-C5-17-00-E9-F1-FC-41-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>17FBB5A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FA-02-BE-01-90-90-90-90</ValueOn>
+      <ValueOff>41-0F-B7-84-05-38-C5-17-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Anima, Maginit ( Items Inventory - you need one )">
+    <Cheatline>
+      <Offset>33DBE72</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-04-24-66-C7-40-08-E7-03-0F-B7-78-08-E9-15-AA-36-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1746892</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DB-55-C9-01-90-90-90</ValueOn>
+      <ValueOff>48-8B-04-24-0F-B7-78-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Job Points ( on use )">
+    <Cheatline>
+      <Offset>33DBE85</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-E7-03-00-00-89-10-C6-07-01-E9-19-D6-18-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5694A8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D8-29-E7-02</ValueOn>
+      <ValueOff>89-10-C6-07-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

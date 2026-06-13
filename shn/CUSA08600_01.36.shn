@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Crew 2" Moder="SunRita" Cusa="CUSA08600" Version="01.36" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Racing" />
+  <Items />
+  <Cheat Text="MAX BUCKS" Description="After winning the second Race">
+    <Cheatline>
+      <Offset>53D3C80</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-5C-03-00-00-FF-C9-9A-3B-E9-D0-2E-07-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>446B59</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-22-D1-F8-04-90-90</ValueOn>
+      <ValueOff>41-89-9E-5C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Nitro">
+    <Cheatline>
+      <Offset>53D3690</Offset>
+      <Section>0</Section>
+      <ValueOn>80-BB-58-01-00-00-00-75-0C-C7-43-34-00-00-48-43-E9-E7-F5-5A-FD-C5-FA-11-43-34-E9-DD-F5-5A-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2982C87</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-04-0A-A5-02</ValueOn>
+      <ValueOff>C5-FA-11-43-34</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Money">
+    <Cheatline>
+      <Offset>53D3AE0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-5C-03-00-00-FF-E0-F5-05-E9-70-30-07-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>446B59</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-82-CF-F8-04-90-90</ValueOn>
+      <ValueOff>41-89-9E-5C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Nitro Turbo">
+    <Cheatline>
+      <Offset>53D39B0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-34-00-00-C8-42-C5-FA-10-6B-34-E9-2D-EF-5A-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>29828E9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C2-10-A5-02</ValueOn>
+      <ValueOff>C5-FA-10-6B-34</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

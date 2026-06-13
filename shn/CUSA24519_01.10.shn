@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Legend of Mana" Moder="Reddevil82 - FW 9.00" Cusa="CUSA24519" Version="01.10" Process="eboot.bin">
+  <Genres Name="Arcade" />
+  <Items />
+  <Cheat Text="Max Lucre">
+    <Cheatline>
+      <Offset>41FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>4C-89-C3-C7-41-4C-3F-42-0F-00-8B-79-4C-E9-24-60-CF-FF-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>115DE0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CB-9F-30-00-90</ValueOn>
+      <ValueOff>4C-89-C3-8B-79-4C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items ( after buy )">
+    <Cheatline>
+      <Offset>41FDD6</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-84-01-E0-35-00-00-63-E9-5E-27-D3-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>152539</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-98-D8-2C-00-90-90-90</ValueOn>
+      <ValueOff>40-88-B4-01-E0-35-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Character Level">
+    <Cheatline>
+      <Offset>41FDE3</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-84-08-50-06-00-00-63-0F-B6-BC-08-50-06-00-00-E9-BD-5E-CF-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>115CAD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-31-A1-30-00-90-90-90</ValueOn>
+      <ValueOff>0F-B6-BC-08-50-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max HP">
+    <Cheatline>
+      <Offset>41FDF8</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-84-08-54-06-00-00-0F-27-0F-B7-BC-08-54-06-00-00-E9-AA-63-CF-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1161B1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-42-9C-30-00-90-90-90</ValueOn>
+      <ValueOff>0F-B7-BC-08-54-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

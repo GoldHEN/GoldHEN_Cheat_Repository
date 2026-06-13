@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Incredible Adventures of Van Helsing II" Moder="Wander FW9.00" Cusa="CUSA09370" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>69D7BA0</Offset>
+      <Section>0</Section>
+      <ValueOn>80-BB-C4-00-00-00-02-75-0C-C7-83-14-05-00-00-00-C0-79-44-EB-08-C5-FA-11-83-14-05-00-00-E9-9C-3C-FC-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>199B856</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-45-C3-03-05-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-14-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Mana">
+    <Cheatline>
+      <Offset>69D7C50</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-85-44-0B-00-00-00-C0-79-44-E9-F8-0A-F3-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>190874F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FC-F4-0C-05-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-95-44-0B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stat point Van Helsing">
+    <Cheatline>
+      <Offset>69D7BF0</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-80-7C-0A-00-00-63-E9-FD-26-91-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>52EA2F2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F9-D8-6E-01-90-90</ValueOn>
+      <ValueOff>44-29-A8-7C-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Power Points">
+    <Cheatline>
+      <Offset>69D7C20</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-86-78-0A-00-00-63-E9-F2-03-F6-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1938018</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-03-FC-09-05-90-90</ValueOn>
+      <ValueOff>41-29-86-78-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Perk Points">
+    <Cheatline>
+      <Offset>69D7CB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-4C-16-00-00-64-00-00-00-E9-6E-9B-7F-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11D1827</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-84-64-80-05-90</ValueOn>
+      <ValueOff>01-B7-4C-16-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stats Lady Katarina">
+    <Cheatline>
+      <Offset>69D7CE0</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-80-7C-0A-00-00-63-E9-C2-E9-95-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>53366A7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-34-16-6A-01-90-90</ValueOn>
+      <ValueOff>44-29-A8-7C-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Experience">
+    <Cheatline>
+      <Offset>69D7C90</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-80-0A-00-00-FF-E0-F5-05-E9-D1-F6-F5-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>193736A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-21-09-0A-05-90-90</ValueOn>
+      <ValueOff>41-89-87-80-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Coins (on get)">
+    <Cheatline>
+      <Offset>69D7D10</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-44-16-00-00-7F-96-98-00-E9-F8-E0-7F-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11D5E11</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FA-1E-80-05-90</ValueOn>
+      <ValueOff>89-8F-44-16-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

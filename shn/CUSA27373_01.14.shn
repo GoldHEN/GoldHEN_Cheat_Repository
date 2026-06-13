@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Callisto Protocol" Moder="Celogamez" Cusa="CUSA27373" Version="01.14" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Max/Infinite Health">
+    <Cheatline>
+      <Offset>73F3DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>80-BB-C4-01-00-00-10-75-15-C5-FA-10-93-1C-01-00-00-C5-FA-11-93-18-01-00-00-E9-D9-A8-3D-FB-C5-FA-11-93-18-01-00-00-E9-CC-A8-3D-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>27CE69F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0C-57-C2-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-93-18-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill">
+    <Cheatline>
+      <Offset>73F3E10</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-BC-24-C4-01-00-00-10-74-08-C7-44-24-20-00-40-1C-46-C4-C1-7A-10-8C-24-18-01-00-00-E9-CB-AF-0C-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>24BEDF3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-18-50-F3-04-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-8C-24-18-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>25D72DF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-4C-E5-FD-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite GRP">
+    <Cheatline>
+      <Offset>73F3C30</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-9F-BC-00-00-00-E9-B3-C9-1B-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25B05E8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-43-36-E4-04-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-9F-B8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Callisto Credits">
+    <Cheatline>
+      <Offset>25CA651</Offset>
+      <Section>0</Section>
+      <ValueOn>89-79-F8</ValueOn>
+      <ValueOff>89-71-F8</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25C2662</Offset>
+      <Section>0</Section>
+      <ValueOn>43-89-7C-25-10</ValueOn>
+      <ValueOff>43-29-54-25-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

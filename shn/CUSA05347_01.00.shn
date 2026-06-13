@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Darksiders: Warmastered Edition" Moder="Vampirexx" Cusa="CUSA05347" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Arcade" />
+  <Items />
+  <Cheat Text="Infinite Health" Description="Infinite Health">
+    <Cheatline>
+      <Offset>6B7B38</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-5C-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Chaos Form" Description="Instant Chaos Form">
+    <Cheatline>
+      <Offset>1F96C6</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-44-CA</ValueOn>
+      <ValueOff>0F-4C-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Infinite Wrath" Description="Max Infinite Wrath">
+    <Cheatline>
+      <Offset>1783800</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-00-00-FA-43-66-0F-6E-C2-E9-6A-5C-A7-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1F9473</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-88-A3-58-01</ValueOn>
+      <ValueOff>C5-FA-58-43-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Souls on PickUp" Description="Max Souls on PickUp">
+    <Cheatline>
+      <Offset>178380E</Offset>
+      <Section>0</Section>
+      <ValueOn>41-55-41-BD-80-96-18-4B-66-41-0F-6E-D5-C5-EA-5F-C2-41-5D-E9-56-DC-F3-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6C1474</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-95-23-0C-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-58-83-00-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Horse Bursts" Description="Inf Horse Bursts">
+    <Cheatline>
+      <Offset>33F0A9</Offset>
+      <Section>0</Section>
+      <ValueOn>89-83-60-06-00-00</ValueOn>
+      <ValueOff>89-83-5C-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

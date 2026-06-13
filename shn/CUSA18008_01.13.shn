@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil Village" Moder="Celogamez" Cusa="CUSA18008" Version="01.13" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Horror" />
+  <Items />
+  <Cheat Text="(Ethan) Max/Infinite Health">
+    <Cheatline>
+      <Offset>544B71F</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-2E-D0</ValueOn>
+      <ValueOff>C5-F8-2E-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="(Ethan) 1 Hit Kill">
+    <Cheatline>
+      <Offset>B19FA20</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-80-B8-00-00-00-01-75-09-C5-F0-57-C9-E9-E3-BC-2A-FA-C5-F2-5C-4D-D4-E9-D9-BC-2A-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>544B710</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0B-43-D5-05</ValueOn>
+      <ValueOff>C5-FA-10-48-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="(Rose) Infinite Health/1 Hit Kill (Master Code/Must Be On)">
+    <Cheatline>
+      <Offset>B19FDE0</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-83-FA-FF-74-12-C5-FA-11-48-14-C5-FA-11-48-14-E9-32-B9-2A-FA-0F-57-C9-C5-FA-11-48-14-E9-25-B9-2A-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>544B723</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B8-46-D5-05</ValueOn>
+      <ValueOff>C5-FA-11-48-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="(Rose) Infinite Health (Enable MC)">
+    <Cheatline>
+      <Offset>B19FDE7</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-48-14</ValueOn>
+      <ValueOff>C5-FA-11-48-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="(Rose) 1 Hit Kill (Enable MC)">
+    <Cheatline>
+      <Offset>B19FDE5</Offset>
+      <Section>0</Section>
+      <ValueOn>74-0F</ValueOn>
+      <ValueOff>74-12</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Ammo/White Sage (Rose)">
+    <Cheatline>
+      <Offset>B19FA50</Offset>
+      <Section>0</Section>
+      <ValueOn>44-29-E1-C7-40-4C-E7-03-00-00-E9-5B-D8-F7-F7</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>311D2B4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-97-27-08-08-90</ValueOn>
+      <ValueOff>44-29-E1-89-48-4C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>4A98FF6</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-00-00-00-00</ValueOn>
+      <ValueOff>B9-01-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Stun Enemies (Rose)">
+    <Cheatline>
+      <Offset>B19F5B0</Offset>
+      <Section>0</Section>
+      <ValueOn>85-F6-C7-42-14-E7-03-00-00-E9-FF-CB-11-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>62BC1B8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F3-33-EE-04</ValueOn>
+      <ValueOff>85-F6-89-4A-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Throwables/Items On Craft">
+    <Cheatline>
+      <Offset>B19F5E0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-44-24-4C-63-E9-E3-D0-F7-F7</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>311C6C9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-12-2F-08-08</ValueOn>
+      <ValueOff>41-29-5C-24-4C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Lei">
+    <Cheatline>
+      <Offset>B19F610</Offset>
+      <Section>0</Section>
+      <ValueOn>01-D1-B9-3F-42-0F-00-41-89-4F-48-E9-34-DE-F4-F7</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>30ED44E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BD-21-0B-08-90</ValueOn>
+      <ValueOff>01-D1-41-89-4F-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Lot Of CP Points">
+    <Cheatline>
+      <Offset>1C94B3D</Offset>
+      <Section>0</Section>
+      <ValueOn>89-52-18</ValueOn>
+      <ValueOff>89-4A-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health/1 Hit Kill (Mastercode/Must Be On)">
+    <Cheatline>
+      <Offset>B19FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7C-24-18-02-75-05-C5-FA-11-48-14-C5-FA-11-48-14-E9-62-B9-2A-FA-C7-40-14-00-00-00-00-E9-56-B9-2A-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>544B723</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-88-46-D5-05</ValueOn>
+      <ValueOff>C5-FA-11-48-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>B19FDB7</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-48-10</ValueOn>
+      <ValueOff>C5-FA-11-48-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill">
+    <Cheatline>
+      <Offset>B19FDB5</Offset>
+      <Section>0</Section>
+      <ValueOn>75-0F</ValueOn>
+      <ValueOff>75-05</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tank Cannon/Target Locator No Cooldown">
+    <Cheatline>
+      <Offset>2E6B8D3</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-66-14</ValueOn>
+      <ValueOff>C5-FA-11-46-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Points For Mercenaries (Enable/Kill/Disable To Earn More)">
+    <Cheatline>
+      <Offset>B19F7C0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-85-EA-FD-95-F6-41-C7-46-18-7F-96-98-00-E9-1B-FF-95-F6</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1AFF6E4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D7-00-6A-09-90-90-90-90-90</ValueOn>
+      <ValueOff>0F-85-CC-FE-FF-FF-41-01-46-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="(Chris) Onslaught Gauge No Cooldown">
+    <Cheatline>
+      <Offset>B19F900</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-54-C5-FA-11-43-50-E9-3A-F8-0C-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>626F144</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B7-07-F3-04</ValueOn>
+      <ValueOff>C5-FA-10-43-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="(Karl) Sawblade No Cooldown">
+    <Cheatline>
+      <Offset>7FC5FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-86-88-01-00-00-00-00-00-00-C5-FA-10-86-88-01-00-00-C3-E9-B7-F1-F7-85</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5BDEF77</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-34-0E-08-7A-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-86-88-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="(Karl) Scrap No Cooldown">
+    <Cheatline>
+      <Offset>7FC5FDE0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-86-8C-01-00-00-E7-FB-29-3D-C5-FA-10-86-8C-01-00-00-C3-E9-DE-F0-F7-85</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5BDEECE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0D-0F-08-7A-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-86-8C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="(Karl) Soldat Jet No Cooldown">
+    <Cheatline>
+      <Offset>B19F9C0</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-47-54-C4-C1-7A-11-47-50-E9-44-FA-16-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>430F40F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AC-05-E9-06-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-47-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="(Dimitrescu) Thrill Gauge No Cooldown">
+    <Cheatline>
+      <Offset>B19F500</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-54-C5-FA-11-43-50-E9-55-2F-76-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>390245F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9C-D0-89-07</ValueOn>
+      <ValueOff>C5-FA-10-43-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="(Dimitrescu) Entomphobia (R2) No Cooldown">
+    <Cheatline>
+      <Offset>B19F530</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-44-90-24-C5-FA-11-44-90-20-E9-20-30-A7-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3C1255B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D0-CF-58-07-90</ValueOn>
+      <ValueOff>C5-FA-11-44-90-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="(Dimitrescu) Ornate Vanity Attack (Square) No Cooldown">
+    <Cheatline>
+      <Offset>B19F560</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-34-CE-A7-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3C1C38F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CC-31-58-07-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-C7-86-40-02-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="(Dimitrescu) Blood Sacrifice (L1+R2) No Cooldown">
+    <Cheatline>
+      <Offset>B19F590</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-44-02-00-00-00-00-70-42-C4-C1-7A-10-86-44-02-00-00-E9-B0-23-A7-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3C11950</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3B-DC-58-07-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-44-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Farm Together" Moder="Reddevil82 / 2B - FW 9.00" Cusa="CUSA13483" Version="01.35" Process="eboot.bin">
+  <Genres Name="Strategy" />
+  <Items />
+  <Cheat Text="Max Money ( on gain )">
+    <Cheatline>
+      <Offset>152FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-07-FF-C9-9A-3B-E9-D1-82-FB-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>804E8087</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-24-7D-04-81</ValueOn>
+      <ValueOff>48-89-07-B0-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Diamonds, Medails, Tickets ( on gain )">
+    <Cheatline>
+      <Offset>152FDC0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-47-08-FF-C9-9A-3B-C7-47-10-FF-C9-9A-3B-C7-47-18-FF-C9-9A-3B-E9-BE-82-FB-7E-52-65-64-64-65-76-69-6C-38-32-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>804E8090</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2B-7D-04-81-90-90-90</ValueOn>
+      <ValueOff>48-89-57-10-48-89-77-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP ( on first Level Up )">
+    <Cheatline>
+      <Offset>44D446</Offset>
+      <Section>14</Section>
+      <ValueOn>41-89-56-14</ValueOn>
+      <ValueOff>41-89-5E-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max collected Harvest">
+    <Cheatline>
+      <Offset>152FE00</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-53-20-48-89-D6-E9-49-D1-FB-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>804ECF4D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AE-2E-04-81-90-90-90</ValueOn>
+      <ValueOff>48-8B-53-20-48-03-73-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Fuel">
+    <Cheatline>
+      <Offset>152FE10</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-BE-A8-02-00-00-01-75-11-41-C7-06-00-00-80-3F-C4-C1-7A-10-06-E9-BF-E0-46-7F-C4-C1-7A-11-06-E9-B5-E0-46-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8099DEE5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-26-1F-B9-80</ValueOn>
+      <ValueOff>C4-C1-7A-11-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

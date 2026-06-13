@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Diablo III: Reaper of Souls: Ultimate Evil Edition" Moder="d01v" Cusa="CUSA00242" Version="01.45" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>136C1C1</Offset>
+      <Section>0</Section>
+      <ValueOn>83-BF-4C-01-00-00-07-74-0E-C5-FA-10-87-50-01-00-00-E9-D1-31-18-FF-90-C7-87-50-01-00-00-80-4F-C3-47-C5-FA-10-87-50-01-00-00-E9-B9-31-18-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4EF3A0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1C-CE-E7-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-87-50-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina / Mana">
+    <Cheatline>
+      <Offset>136C211</Offset>
+      <Section>0</Section>
+      <ValueOn>89-75-C8-66-81-7B-08-96-20-74-41-66-81-7B-08-96-70-74-39-66-81-7B-08-96-10-74-31-66-81-7B-08-96-80-74-29-66-81-7B-08-96-30-74-21-66-81-7B-08-96-00-74-19-66-81-7B-08-96-50-74-11-66-81-7B-08-96-60-74-09-8B-43-0C-E9-51-90-3F-FF-90-81-7B-0C-00-3C-1C-46-7C-09-8B-43-0C-E9-3F-90-3F-FF-90-C7-43-0C-00-3C-1C-46-8B-43-0C-E9-2F-90-3F-FF-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7652A7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-65-6F-C0-00-90</ValueOn>
+      <ValueOff>89-75-C8-8B-43-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Magic Find (Legendary Drops / Req level 11)">
+    <Cheatline>
+      <Offset>136C2B1</Offset>
+      <Section>0</Section>
+      <ValueOn>89-77-10-66-81-7A-08-41-F0-74-09-8B-42-0C-E9-9D-64-3F-FF-90-C7-42-0C-00-1B-37-4A-8B-42-0C-E9-8D-64-3F-FF-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>76275B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-51-9B-C0-00-90</ValueOn>
+      <ValueOff>89-77-10-8B-42-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Gold">
+    <Cheatline>
+      <Offset>136C2F1</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-45-00-FF-E0-F5-05-49-8B-45-00-4C-89-F9-E9-56-AA-21-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>586D54</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-98-55-DE-00-90-90</ValueOn>
+      <ValueOff>49-8B-45-00-4C-89-F9</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

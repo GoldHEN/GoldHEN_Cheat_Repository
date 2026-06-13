@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Matterfall" Moder="Vampirexx" Cusa="CUSA02475" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Arcade" />
+  <Genres Name="Platformer" />
+  <Items />
+  <Cheat Text="Max Score after 1 Kill (Do not use with other cheats)">
+    <Cheatline>
+      <Offset>461F800</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-FF-E0-F5-05-89-07-E9-F1-4C-B3-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>31544F7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-04-B3-4C-01-90</ValueOn>
+      <ValueOff>74-0A-8B-06-89-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>9A3D0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-8D-00-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Overcharge on Pickup">
+    <Cheatline>
+      <Offset>8AEE2</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-93-FC-00-00-00</ValueOn>
+      <ValueOff>C5-FA-11-8B-FC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Overcharge Keep Pressin UP to deplete">
+    <Cheatline>
+      <Offset>461F800</Offset>
+      <Section>0</Section>
+      <ValueOn>51-48-B9-88-83-40-00-08-00-00-00-48-8B-09-48-83-E1-10-75-12-C5-F2-5D-CA-C5-FA-11-93-FC-00-00-00-59-E9-87-E3-A8-FB-C5-F2-5D-CA-C5-FA-11-8B-FC-00-00-00-59-E9-75-E3-A8-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>ADBA5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-56-1C-57-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-FC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Special Weapons">
+    <Cheatline>
+      <Offset>8ADC0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-58-C9</ValueOn>
+      <ValueOff>C5-FA-5C-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

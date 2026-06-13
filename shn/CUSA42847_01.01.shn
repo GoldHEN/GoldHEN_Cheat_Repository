@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Bud Spencer &amp; Terence Hill: Slaps and Beans 2" Moder="Reddevil82 - FW 9.00" Cusa="CUSA42847" Version="01.01" Process="eboot.bin">
+  <Genres Name="Arcade" />
+  <Items />
+  <Cheat Text="Infinite Health" Description="Infinite Health">
+    <Cheatline>
+      <Offset>1A7BDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>81-78-3C-00-00-A0-40-75-0A-C5-FA-10-40-44-C5-FA-11-40-40-C5-FA-10-40-40-E9-6D-B1-8D-7F-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81356F35</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-76-4E-72-80</ValueOn>
+      <ValueOff>C5-FA-10-40-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina" Description="Infinite Stamina">
+    <Cheatline>
+      <Offset>1A7BDE1</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-64-00-00-7A-44-C5-FA-10-40-64-E9-59-C6-8D-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81358446</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-96-39-72-80</ValueOn>
+      <ValueOff>C5-FA-10-40-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill" Description="One Hit Kill">
+    <Cheatline>
+      <Offset>1A7BE28</Offset>
+      <Section>0</Section>
+      <ValueOn>41-81-7E-3C-00-00-A0-40-74-0B-41-C7-86-AC-00-00-00-00-3C-1C-46-C4-C1-7A-59-86-AC-00-00-00-E9-68-02-5A-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8101C0AA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-79-FD-A5-80-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-59-86-AC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Score" Description="Max Score">
+    <Cheatline>
+      <Offset>1A7BE15</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-46-64-7F-96-18-4B-C4-C1-7A-10-46-64-E9-F8-C8-8D-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8135871A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F6-36-72-80-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-46-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Boat Health" Description="Infinite Boat Health">
+    <Cheatline>
+      <Offset>13C285B</Offset>
+      <Section>14</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mastercode Timer Settings ( must be activated for [ MC ] Cheats )" Description="Mastercode Timer Settings ( must be activated for [ MC ] Cheats )">
+    <Cheatline>
+      <Offset>1A7BE50</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-4D-90-80-3D-C4-41-38-00-01-74-0C-C5-F2-5C-C0-C5-FA-11-83-68-01-00-00-80-3D-B0-41-38-00-01-75-0A-C7-83-68-01-00-00-00-00-96-43-E9-47-F7-7C-7F-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8124B5B8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-93-08-83-80-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-4D-90-C5-F2-5C-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Timer Pelota [ MC ]" Description="Freeze Timer Pelota [ MC ]">
+    <Cheatline>
+      <Offset>1E00020</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Timer to 5 Minutes Pelota [ MC ]" Description="Set Timer to 5 Minutes Pelota [ MC ]">
+    <Cheatline>
+      <Offset>1E00021</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Remoteness" Moder="Reddevil82 - FW 9.00" Cusa="CUSA33686" Version="01.00" Process="eboot.bin">
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Mastercode Save - Load Position ( must be activate )" Description="Mastercode Save - Load Position ( must be activate )">
+    <Cheatline>
+      <Offset>1A0B96E</Offset>
+      <Section>0</Section>
+      <ValueOn>80-3D-F7-46-3F-00-01-74-0B-80-3D-EF-46-3F-00-01-74-28-EB-53-C6-05-E3-46-3F-00-00-53-8B-58-20-89-1D-CD-46-3F-00-8B-58-24-89-1D-CC-46-3F-00-8B-58-28-89-1D-BF-46-3F-00-5B-EB-2D-C6-05-BE-46-3F-00-00-83-3D-AA-46-3F-00-00-74-1D-52-8B-15-A1-46-3F-00-89-50-20-8B-15-A0-46-3F-00-89-50-24-8B-15-93-46-3F-00-89-50-28-5A-C5-68-54-40-20-E9-C1-82-73-FE-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>143C9B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CE-7C-8C-01</ValueOn>
+      <ValueOff>C5-68-54-40-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health" Description="Infinite Health">
+    <Cheatline>
+      <Offset>1A0BD40</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-50-00-00-80-3F-C5-F8-2E-40-50-E9-36-97-F0-7F-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81915482</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B9-68-0F-80</ValueOn>
+      <ValueOff>C5-F8-2E-40-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Asthma" Description="Infinite Asthma">
+    <Cheatline>
+      <Offset>1A0BD65</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-54-00-00-80-3F-E9-42-62-F8-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81991FAE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B2-9D-07-80</ValueOn>
+      <ValueOff>C5-FA-11-40-54</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina" Description="Infinite Stamina">
+    <Cheatline>
+      <Offset>1A0BD71</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-5C-00-00-80-3F-C5-F8-2E-40-5C-E9-D6-5F-F8-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81991D53</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-19-A0-07-80</ValueOn>
+      <ValueOff>C5-F8-2E-40-5C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Electro Energy" Description="Infinite Electro Energy">
+    <Cheatline>
+      <Offset>1A0BD82</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-41-58-00-00-80-3F-C5-F8-2E-41-58-E9-67-E1-D4-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81759EF5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-88-1E-2B-80</ValueOn>
+      <ValueOff>C5-F8-2E-41-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Medipacks ( on use )" Description="Max Medipacks ( on use )">
+    <Cheatline>
+      <Offset>1A0BD93</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-C4-00-00-00-64-00-00-00-83-B8-C4-00-00-00-00-E9-75-3C-F8-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8198FA17</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-77-C3-07-80-90-90</ValueOn>
+      <ValueOff>83-B8-C4-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Asthma Injections ( on use )" Description="Max Asthma Injections ( on use )">
+    <Cheatline>
+      <Offset>1A0BDA9</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-C8-00-00-00-63-00-00-00-83-B8-C8-00-00-00-00-E9-B2-3D-F8-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8198FB6A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3A-C2-07-80-90-90</ValueOn>
+      <ValueOff>83-B8-C8-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ammo" Description="Max Ammo">
+    <Cheatline>
+      <Offset>1A0BDC0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-A8-00-00-00-63-00-00-00-8B-9B-A8-00-00-00-E9-CF-7A-F8-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8199389E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1D-85-07-80-90</ValueOn>
+      <ValueOff>8B-9B-A8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ammo Clip" Description="Max Ammo Clip">
+    <Cheatline>
+      <Offset>1A0BDD5</Offset>
+      <Section>0</Section>
+      <ValueOn>44-8B-63-28-41-BF-E7-03-00-00-44-89-7B-4C-E9-B6-7A-F8-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81993896</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3A-85-07-80-90-90-90</ValueOn>
+      <ValueOff>44-8B-63-28-44-8B-7B-4C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Grenades" Description="Max Grenades">
+    <Cheatline>
+      <Offset>1A0BDE8</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BC-63-00-00-00-44-89-A0-C0-00-00-00-E9-DD-DE-D3-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81749CD0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-13-21-2C-80-90-90</ValueOn>
+      <ValueOff>44-8B-A0-C0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health [ Hanna ]" Description="Infinite Health [ Hanna ]">
+    <Cheatline>
+      <Offset>1A0BDFA</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-42-1C-C5-FA-11-42-18-C5-FA-10-42-18-E9-1C-A9-D4-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81756725</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D0-56-2B-80</ValueOn>
+      <ValueOff>C5-FA-10-42-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo [ Hanna ]" Description="Infinite Ammo [ Hanna ]">
+    <Cheatline>
+      <Offset>17CBE04</Offset>
+      <Section>14</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-FF-8E-94-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Save Location [ MC ]" Description="Save Location [ MC ]">
+    <Cheatline>
+      <Offset>1E0006C</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Load Location [ MC ]" Description="Load Location [ MC ]">
+    <Cheatline>
+      <Offset>1E0006D</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Jump Height x 2 Multiplier [ Player ]" Description="Jump Height x 2 Multiplier [ Player ]">
+    <Cheatline>
+      <Offset>1A0B9E3</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-05-83-46-3F-00-00-00-00-40-C5-DA-59-25-7B-46-3F-00-C5-FA-11-60-54-E9-15-86-74-FE-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15400F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CF-79-8B-01</ValueOn>
+      <ValueOff>C5-FA-11-60-54</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Speed x 2 Multiplier [ Player ]" Description="Speed x 2 Multiplier [ Player ]">
+    <Cheatline>
+      <Offset>1A0BA03</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-05-67-46-3F-00-00-00-00-40-C5-D2-59-2D-5F-46-3F-00-C5-FA-11-69-50-C5-DA-58-61-54-C5-FA-11-61-54-C5-E2-59-1D-48-46-3F-00-C5-FA-11-59-58-E9-00-85-74-FE-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>153F1D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E1-7A-8B-01</ValueOn>
+      <ValueOff>C5-FA-11-69-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

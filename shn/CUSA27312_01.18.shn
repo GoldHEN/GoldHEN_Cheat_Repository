@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Baldo: The Guardian Owls" Moder="Saso_9.00" Cusa="CUSA27312" Version="01.18" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf Health">
+    <Cheatline>
+      <Offset>81BE2F69</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-F1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Stamina">
+    <Cheatline>
+      <Offset>81ACDA0F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-5C-80-18-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Dindi (999)">
+    <Cheatline>
+      <Offset>81BC3B32</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-E7-03-00-00</ValueOn>
+      <ValueOff>C4-E2-78-F2-C2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freez Timer">
+    <Cheatline>
+      <Offset>81B2F533</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-5C-80-18-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Consumables">
+    <Cheatline>
+      <Offset>823AB800</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-0A-00-00-00-66-89-74-51-20-E9-FB-74-83-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81BE2D02</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F9-8A-7C-00-90-90-90</ValueOn>
+      <ValueOff>44-29-F6-66-89-74-51-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

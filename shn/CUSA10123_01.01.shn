@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassin's Creed: Rogue Remastered" Moder="TLH" Cusa="CUSA10123" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Fighting" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>34DF80C</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-00-00-00-00-41-BE-64-00-00-00-E9-7D-AF-94-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1E2A794</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-73-50-6B-01</ValueOn>
+      <ValueOff>BE-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health Ship">
+    <Cheatline>
+      <Offset>21ED02C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-80-48-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money on Pick">
+    <Cheatline>
+      <Offset>2549CE0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-44-24-10</ValueOn>
+      <ValueOff>41-89-4C-24-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money/Items">
+    <Cheatline>
+      <Offset>2549FF8</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-44-24-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Resources on Pick">
+    <Cheatline>
+      <Offset>34DF800</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-0F-27-00-00-39-C1-E9-D1-A4-06-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2549CD8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-23-5B-F9-00</ValueOn>
+      <ValueOff>44-01-F1-39-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

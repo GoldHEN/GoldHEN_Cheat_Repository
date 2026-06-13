@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Disney Classic Games: Aladdin and the Lion King" Moder="Saso_9.00" Cusa="CUSA16975" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="HP/ Lives / Fruit / (Aladdin) - (The Jungle Book)">
+    <Cheatline>
+      <Offset>487800</Offset>
+      <Section>0</Section>
+      <ValueOn>66-81-3C-24-3B-D4-74-12-66-81-3C-24-82-D8-74-1E-66-81-3C-24-5F-35-74-34-EB-48-49-81-FF-67-00-80-00-74-3D-49-81-FF-64-00-80-00-74-34-EB-34-49-81-FF-0C-01-81-00-74-29-49-81-FF-0C-01-80-00-74-20-49-81-FF-05-01-80-00-74-17-EB-17-90-49-81-FF-69-00-80-00-74-0B-49-81-F9-00-01-00-00-74-02-EB-02-FE-C2-88-94-37-98-00-00-00-E9-76-9D-D0-FF-B2-09-EB-F0</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1915DD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1E-62-2F-00-90-90</ValueOn>
+      <ValueOff>88-94-37-98-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="HP / Lives / Roar (Lion King)">
+    <Cheatline>
+      <Offset>487880</Offset>
+      <Section>0</Section>
+      <ValueOn>49-81-FF-05-20-7E-00-75-16-66-81-3C-24-82-D8-75-02-B2-20-88-94-37-98-00-00-00-E9-05-9D-D0-FF-49-81-FF-03-20-7E-00-75-0C-66-81-3C-24-15-55-75-0D-B2-80-EB-DF-49-81-FE-AA-FF-7F-00-75-D6-66-81-3C-24-69-F6-75-CE-B2-09-EB-CA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>19159D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DE-62-2F-00-90-90</ValueOn>
+      <ValueOff>88-94-37-98-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

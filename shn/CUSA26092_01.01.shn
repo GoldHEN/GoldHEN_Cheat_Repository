@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wallachia: Reign of Dracula" Moder="Ali-mk" Cusa="CUSA26092" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invincible + Inf-Jumps-Inf-HP-Arrows">
+    <Cheatline>
+      <Offset>11AF2D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>29-44-11-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

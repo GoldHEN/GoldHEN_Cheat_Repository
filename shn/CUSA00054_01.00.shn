@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mad Max" Moder="GoldZ" Cusa="CUSA00054" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>5C88A9</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-57-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>579C27</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-89-4F-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Scraps And Canteen">
+    <Cheatline>
+      <Offset>133FC01</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-44-8F-08-66-9C-48-81-FE-CD-11-00-00-75-10-41-C7-44-F0-0C-00-24-74-49-66-9D-E9-A7-06-0B-FF-48-81-FE-D0-11-00-00-75-09-41-C7-44-F0-0C-00-40-1C-46-66-9D-E9-8E-06-0B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3F02C3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-39-F9-F4-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-8F-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

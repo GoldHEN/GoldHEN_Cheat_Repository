@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Chorus" Moder="Reddevil82 - FW 9.00" Cusa="CUSA20221" Version="01.03" Process="eboot.bin">
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Mastercode Health / Shield ( must be activated )">
+    <Cheatline>
+      <Offset>5907E0A</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7B-48-01-75-0D-C5-FA-11-83-E0-02-00-00-E9-BC-02-98-FE-83-7B-48-00-75-08-C5-FA-11-83-E0-02-00-00-C5-FA-11-83-E0-02-00-00-E9-A1-02-98-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>42880D1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-34-FD-67-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-E0-02-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5907E38</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-BC-24-8C-00-00-00-00-75-0A-C4-C1-7A-11-84-24-18-01-00-00-41-83-BC-24-8C-00-00-00-01-75-0A-C4-C1-7A-11-84-24-18-01-00-00-C4-C1-7A-11-84-24-18-01-00-00-E9-61-82-88-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>41900C8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6B-7D-77-01-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-18-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health [ MC ]">
+    <Cheatline>
+      <Offset>5907E43</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-84-24-D8-00-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-18-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill [ MC ]">
+    <Cheatline>
+      <Offset>5907E58</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C0-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-18-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Shield [ MC ]">
+    <Cheatline>
+      <Offset>5907E10</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-8B-E0-02-00-00</ValueOn>
+      <ValueOff>C5-FA-11-83-E0-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Shield Enemy [ MC ]">
+    <Cheatline>
+      <Offset>5907E23</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C0-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-E0-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Gatling Gun Overheat">
+    <Cheatline>
+      <Offset>5907DF0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-8B-4C-08-00-00-E9-65-91-AD-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>43E0F5A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-91-6E-52-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-4C-08-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5907DFD</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-93-A4-06-00-00-E9-DD-90-AD-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>43E0EDF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-19-6F-52-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-A4-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Laser Cooldown">
+    <Cheatline>
+      <Offset>5907DD9</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-83-00-08-00-00-C5-FA-11-83-FC-07-00-00-E9-F3-D9-AC-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>43D57D9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FB-25-53-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-FC-07-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Credits">
+    <Cheatline>
+      <Offset>5907DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-18-05-00-00-3F-42-0F-00-8B-87-18-05-00-00-E9-E5-BC-C0-FE-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4513AA4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-07-43-3F-01-90</ValueOn>
+      <ValueOff>8B-87-18-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Star Ocean: The Divine Force" Moder="Wander FW9.00" Cusa="CUSA31855" Version="01.02" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health (Main Player)">
+    <Cheatline>
+      <Offset>235BEC0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-49-D1-66-41-81-FF-C0-5D-75-0A-41-C7-47-10-0F-27-00-00-EB-04-41-89-57-10-E9-CF-89-05-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3B48A6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-15-76-FA-01-90-90</ValueOn>
+      <ValueOff>0F-49-D1-41-89-57-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite AP (5 bars)">
+    <Cheatline>
+      <Offset>235A4B0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-46-1C-00-00-A0-40-E9-D6-0A-06-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3BAF8D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1E-F5-F9-01-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-46-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Coins (on gain)">
+    <Cheatline>
+      <Offset>235A4F0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-82-EA-E8-34-FE-C7-42-28-3F-42-0F-00-E9-47-E8-34-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6A8D3F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AC-17-CB-01-90-90-90-90-90</ValueOn>
+      <ValueOff>0F-82-A1-00-00-00-44-89-7A-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max skill Points (on level up)">
+    <Cheatline>
+      <Offset>235A560</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-85-00-02-00-00-9F-86-01-00-E9-B2-78-F8-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2E1E1B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-40-87-07-02-90-90</ValueOn>
+      <ValueOff>41-01-85-00-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items (on pick up)">
+    <Cheatline>
+      <Offset>235A5C0</Offset>
+      <Section>0</Section>
+      <ValueOn>44-03-77-30-C6-47-30-63-E9-BC-87-36-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6C2D81</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3A-78-C9-01-90-90-90</ValueOn>
+      <ValueOff>44-03-77-30-44-89-77-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max DUMA points (on gain)">
+    <Cheatline>
+      <Offset>235A630</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-F0-53-07-00-9F-86-01-00-E9-CB-1F-0A-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3FC604</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-27-E0-F5-01-90</ValueOn>
+      <ValueOff>89-8B-F0-53-07-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite DUMA charge Bar (in Battle)">
+    <Cheatline>
+      <Offset>235A670</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-48-14-00-00-00-00-C8-42-E9-5E-B5-32-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>685BD5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-96-4A-CD-01-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-87-48-14-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

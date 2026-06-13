@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Far Cry 6" Moder="JustGotenks" Cusa="CUSA15717" Version="01.10" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="No Damage">
+    <Cheatline>
+      <Offset>7DE78B4</Offset>
+      <Section>0</Section>
+      <ValueOn>4C-89-E6-48-81-F9-20-3A-C9-03-74-02-FF-D1-E9-0D-4A-31-F8-90</ValueOn>
+      <ValueOff>4C-89-E6-48-81-F9-20-3A-C9-03-74-02-FF-D1-E9-0D-4A-31-F8-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FC349</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-66-B5-CE-07</ValueOn>
+      <ValueOff>4C-89-E6-FF-D1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Sprint/Swim">
+    <Cheatline>
+      <Offset>38AC763</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-88-AD-FE-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo/Throwables">
+    <Cheatline>
+      <Offset>134A073</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Resource (on get)">
+    <Cheatline>
+      <Offset>1349FF6</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C1-90</ValueOn>
+      <ValueOff>0F-43-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One-hit Kill">
+    <Cheatline>
+      <Offset>7DE77C4</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-85-E0-FE-FF-FF-00-00-7A-C4-C5-FA-10-85-E0-FE-FF-FF-E9-DD-E9-A9-FB-90</ValueOn>
+      <ValueOff>C7-85-E0-FE-FF-FF-00-00-7A-C4-C5-FA-10-85-E0-FE-FF-FF-E9-DD-E9-A9-FB-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>38861B0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0F-16-56-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-85-E0-FE-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One-hit Kill Animals">
+    <Cheatline>
+      <Offset>7DE7814</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-85-24-FF-FF-FF-00-00-00-00-C5-FA-10-85-24-FF-FF-FF-E9-C0-6B-AA-FB-90</ValueOn>
+      <ValueOff>C7-85-24-FF-FF-FF-00-00-00-00-C5-FA-10-85-24-FF-FF-FF-E9-C0-6B-AA-FB-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>388E3E3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2C-94-55-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-85-24-FF-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>4D652CC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-FE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Overheat">
+    <Cheatline>
+      <Offset>7DE7724</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-57-C0-C5-F0-57-C9-C5-FA-11-45-DC-E9-B8-20-05-FD-90-90</ValueOn>
+      <ValueOff>C5-F8-57-C0-C5-F0-57-C9-C5-FA-11-45-DC-E9-B8-20-05-FD-90-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4E397E9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-36-DF-FA-02</ValueOn>
+      <ValueOff>C5-FA-11-45-DC</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Recoil">
+    <Cheatline>
+      <Offset>4D61C9A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-41-78-11-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Super Accuracy">
+    <Cheatline>
+      <Offset>7DE7694</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-E0-0A-00-00-00-00-00-00-E9-C9-A4-FA-FC-90</ValueOn>
+      <ValueOff>C7-80-E0-0A-00-00-00-00-00-00-E9-C9-A4-FA-FC-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4D91B64</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2B-5B-05-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-88-E0-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Super Jump">
+    <Cheatline>
+      <Offset>7DE7774</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-05-18-04-00-00-C5-FA-11-80-30-12-00-00-C5-FA-10-80-30-12-00-00-E9-55-4C-AA-FC-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-05-18-04-00-00-C5-FA-11-80-30-12-00-00-C5-FA-10-80-30-12-00-00-E9-55-4C-AA-FC-90-90-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7DE7B94</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-00-41</ValueOn>
+      <ValueOff>00-00-A0-3F</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>488C3DE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-91-B3-55-03-90-90-90</ValueOn>
+      <ValueOff>E9-91-B3-55-03-90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Teleport to sky">
+    <Cheatline>
+      <Offset>7DE76D4</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-8D-28-FF-FF-FF-50-B8-00-00-7A-44-89-46-08-89-86-D8-00-00-00-58-E9-29-40-4A-FD</ValueOn>
+      <ValueOff>48-89-8D-28-FF-FF-FF-50-B8-00-00-7A-44-89-46-08-89-86-D8-00-00-00-58-E9-29-40-4A-FD</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>528B712</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BD-BF-B5-02-90-90</ValueOn>
+      <ValueOff>48-89-8D-28-FF-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Always Wanted">
+    <Cheatline>
+      <Offset>7DE7864</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-05-38-03-00-00-C5-FA-11-47-40-E9-8A-DA-A4-F8-90-90</ValueOn>
+      <ValueOff>C5-FA-10-05-38-03-00-00-C5-FA-11-47-40-E9-8A-DA-A4-F8-90-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7DE7BA4</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-F0-42</ValueOn>
+      <ValueOff>00-00-F0-42</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8352FB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-64-25-5B-07</ValueOn>
+      <ValueOff>C5-FA-11-47-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

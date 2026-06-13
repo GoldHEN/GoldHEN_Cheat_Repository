@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Terraria" Moder="Molly+hejran7" Cusa="CUSA00737" Version="01.04" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Inf HP">
+    <Cheatline>
+      <Offset>26BD1D</Offset>
+      <Section>0</Section>
+      <ValueOn>66-44-01-A3-5E-2A-00-00</ValueOn>
+      <ValueOff>66-44-29-A3-5E-2A-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25D35F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>66-41-83-86-5E-2A-00-00-FB</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25D290</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>66-41-89-86-5E-2A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Mana">
+    <Cheatline>
+      <Offset>270512</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>66-41-89-84-24-60-2A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Oxygen">
+    <Cheatline>
+      <Offset>267ADF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>66-41-89-86-6C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items On Take">
+    <Cheatline>
+      <Offset>1E470</Offset>
+      <Section>0</Section>
+      <ValueOn>41-0F-B7-84-1E-AE-03-00-00</ValueOn>
+      <ValueOff>41-0F-B7-84-1E-AC-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill">
+    <Cheatline>
+      <Offset>67F800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-85-DC-01-00-00-00-00-00-00-E9-6B-E0-B6-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1ED874</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-87-1F-49-00-90-90</ValueOn>
+      <ValueOff>41-89-8D-DC-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>67F810</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-84-0F-DC-01-00-00-00-00-00-00-E9-21-E0-B6-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1ED83A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D1-1F-49-00-90-90</ValueOn>
+      <ValueOff>29-B4-0F-DC-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Timer">
+    <Cheatline>
+      <Offset>E815B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Switch to Day Time">
+    <Cheatline>
+      <Offset>67F820</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-05-00-00-46-01-E9-34-89-A6-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E815B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C0-76-59-00</ValueOn>
+      <ValueOff>C5-FA-11-43-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Switch to Night Time">
+    <Cheatline>
+      <Offset>67F82C</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-05-00-50-47-01-E9-28-89-A6-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E815B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CC-76-59-00</ValueOn>
+      <ValueOff>C5-FA-11-43-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Hide Background">
+    <Cheatline>
+      <Offset>235F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>48-8B-51-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze The Sun">
+    <Cheatline>
+      <Offset>2358</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>4C-89-80-C0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

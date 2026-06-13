@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="XIII" Moder="GamerX2" Cusa="CUSA19096" Version="01.01" Process="eboot.bin">
+  <Genres Name="FPS" />
+  <Items />
+  <Cheat Text="Inf Ammo/Grenades/Knives">
+    <Cheatline>
+      <Offset>320A49</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>49-89-85-80-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Body Armor">
+    <Cheatline>
+      <Offset>6047E0</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-4C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite HP">
+    <Cheatline>
+      <Offset>186C700</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-44-C5-FA-11-43-44-E9-22-C1-04-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>808B882C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CF-3E-FB-80</ValueOn>
+      <ValueOff>C5-FA-11-43-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max+ Inf Items On Use">
+    <Cheatline>
+      <Offset>186C711</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-C7-47-60-63-00-00-00-E9-44-7B-09-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8090425E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AE-84-F6-80</ValueOn>
+      <ValueOff>90-90-FF-4F-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

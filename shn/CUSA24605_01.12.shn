@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Two Point Campus" Moder="Reddevil82 - FW 9.00" Cusa="CUSA24605" Version="01.12" Process="eboot.bin">
+  <Genres Name="Simulation" />
+  <Items />
+  <Cheat Text="Max Money ( on gain )">
+    <Cheatline>
+      <Offset>197FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>4D-01-67-18-44-89-F6-49-C7-47-18-FF-C9-9A-3B-E9-FD-62-02-7F-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>809A60BA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F1-9C-FD-80-90-90</ValueOn>
+      <ValueOff>4D-01-67-18-44-89-F6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Kudosh ( on gain )">
+    <Cheatline>
+      <Offset>197FE06</Offset>
+      <Section>0</Section>
+      <ValueOn>45-29-A5-40-01-00-00-4C-89-FE-41-C7-85-40-01-00-00-3F-42-0F-00-E9-58-1F-2C-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80C41D6E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-93-E0-D3-80-90-90-90-90-90</ValueOn>
+      <ValueOff>45-29-A5-40-01-00-00-4C-89-FE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Career Points">
+    <Cheatline>
+      <Offset>197FDED</Offset>
+      <Section>0</Section>
+      <ValueOn>49-8B-85-10-01-00-00-4C-89-EF-C7-80-48-01-00-00-3F-42-0F-00-E9-07-A3-58-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80F0A103</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E5-5C-A7-80-90-90-90-90-90</ValueOn>
+      <ValueOff>49-8B-85-10-01-00-00-4C-89-EF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Room Prestige">
+    <Cheatline>
+      <Offset>197FE20</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-81-90-01-00-00-00-00-80-3F-C5-FA-10-81-90-01-00-00-C7-81-88-01-00-00-05-00-00-00-8B-B1-88-01-00-00-E9-D2-EC-CD-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8065EB0B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-10-13-32-81-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-81-90-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

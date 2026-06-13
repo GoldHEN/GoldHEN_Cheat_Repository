@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tiny Tina's Wonderlands" Moder="2B" Cusa="CUSA23766" Version="01.10" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf HP">
+    <Cheatline>
+      <Offset>A697800</Offset>
+      <Section>0</Section>
+      <ValueOn>83-B9-7C-01-00-00-16-75-17-C7-87-A0-00-00-00-00-80-BB-45-C5-FA-10-8F-A0-00-00-00-E9-5F-B7-09-FB-C5-FA-11-8F-A0-00-00-00-E9-52-B7-09-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5732F77</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-84-48-F6-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8F-A0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf XP">
+    <Cheatline>
+      <Offset>A69782F</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-7F-96-98-00-41-89-85-C4-01-00-00-E9-8B-3F-0C-F7</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>175B7C4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-66-C0-F3-08-90-90</ValueOn>
+      <ValueOff>41-89-85-C4-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Skill Point use it once After max XP cheat">
+    <Cheatline>
+      <Offset>A697842</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-80-8B-7F-F6</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E903C1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7C-74-80-09-90-90</ValueOn>
+      <ValueOff>41-89-86-58-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Money on gain">
+    <Cheatline>
+      <Offset>A69784A</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-7F-96-98-00-42-89-4C-38-18-E9-D6-A9-70-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5DA222A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1B-56-8F-04</ValueOn>
+      <ValueOff>42-89-4C-38-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Money on spend ">
+    <Cheatline>
+      <Offset>A69785B</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-7F-96-98-00-89-08-E9-8D-B4-70-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5DA2CED</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-69-4B-8F-04-90-90</ValueOn>
+      <ValueOff>89-08-42-8B-44-36-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo use it with No Reload">
+    <Cheatline>
+      <Offset>A697869</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-43-CD-09-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>57345AA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BA-32-F6-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8F-A0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>A697871</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-4D-C8-7C-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5E640BD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AF-37-83-04-90-90</ValueOn>
+      <ValueOff>41-89-87-B0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Myth Points use it once After max XP cheat">
+    <Cheatline>
+      <Offset>A697879</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-C5-C7-0C-F7</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>176403D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-37-38-F3-08-90-90</ValueOn>
+      <ValueOff>41-89-B7-78-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Hero Points use it once After max XP cheat">
+    <Cheatline>
+      <Offset>A697881</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-FD-69-37-F7</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1A0E27D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FF-95-C8-08-90-90</ValueOn>
+      <ValueOff>45-89-A6-90-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Cooldown">
+    <Cheatline>
+      <Offset>A697889</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-FB-01-75-05-E9-45-04-0A-FB-C7-80-A0-00-00-00-00-00-80-3F-C5-FA-10-80-A0-00-00-00-E9-2E-04-0A-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5737CD1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B3-FB-F5-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-80-A0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

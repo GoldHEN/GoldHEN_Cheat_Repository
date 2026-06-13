@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call of Duty: Advanced Warfare" Moder="Celogamez" Cusa="CUSA00803" Version="01.24" Process="default.elf">
+  <Genres Name="Action" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Health/1 Hit Kill (Master Code/Must Be On)">
+    <Cheatline>
+      <Offset>793FA0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-80-FD-64-75-0E-41-89-87-84-01-00-00-E9-3C-73-AA-FF-31-C0-41-89-87-84-01-00-00-E9-2E-73-AA-FF-43-65-6C-6F-67-61-6D-65-7A-5F-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>23B2E7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B4-8C-55-00-90-90</ValueOn>
+      <ValueOff>41-89-87-84-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health (Enable MC)">
+    <Cheatline>
+      <Offset>793FA6</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8B-87-84-01-00-00</ValueOn>
+      <ValueOff>41-89-87-84-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill (Enable MC)">
+    <Cheatline>
+      <Offset>793FA4</Offset>
+      <Section>0</Section>
+      <ValueOn>75-0C</ValueOn>
+      <ValueOff>75-0E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>7FC49E90</Offset>
+      <Section>0</Section>
+      <ValueOn>01-D1-8B-48-08-E9-8C-40-7D-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>41DF21</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6A-BF-82-7F</ValueOn>
+      <ValueOff>01-D1-89-48-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload/Grenades">
+    <Cheatline>
+      <Offset>7FC49410</Offset>
+      <Section>0</Section>
+      <ValueOn>44-2B-7C-81-08-E9-9A-D7-7C-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>416BAF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5C-28-83-7F</ValueOn>
+      <ValueOff>44-29-7C-81-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Upgrade Points">
+    <Cheatline>
+      <Offset>7FC4A6D0</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-4C-CA-08-41-C7-04-0F-63-00-00-00-E9-47-D5-50-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>157C20</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AB-2A-AF-7F-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-4C-CA-08-41-89-04-0F</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

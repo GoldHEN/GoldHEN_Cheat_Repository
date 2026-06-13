@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="South Park: The Fractured But Whole" Moder="Molly" Cusa="CUSA04323" Version="01.07" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Quick Special">
+    <Cheatline>
+      <Offset>323B800</Offset>
+      <Section>0</Section>
+      <ValueOn>51-B9-00-00-C8-42-66-0F-6E-C9-59-C5-FA-11-4F-08-E9-94-C2-17-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>13B7AA4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-57-3D-E8-01</ValueOn>
+      <ValueOff>C5-FA-11-4F-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quick Level Up ">
+    <Cheatline>
+      <Offset>323B815</Offset>
+      <Section>0</Section>
+      <ValueOn>41-B9-25-44-00-00-44-89-8F-C8-00-00-00-E9-10-B2-13-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1376A30</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E0-4D-EC-01-90-90</ValueOn>
+      <ValueOff>44-89-8F-C8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money ">
+    <Cheatline>
+      <Offset>323B827</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-85-4A-9B-FD-C7-40-0C-3F-42-0F-00-8B-40-0C-E9-79-4A-9B-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BF02B0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-72-B5-64-02</ValueOn>
+      <ValueOff>74-06-8B-40-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items">
+    <Cheatline>
+      <Offset>323B83C</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-A3-4D-9B-FD-C7-40-0C-63-00-00-00-8B-40-0C-E9-CE-4A-9B-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BF0316</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-21-B5-64-02-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-CF-02-00-00-8B-40-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quickly Level Up Crafting">
+    <Cheatline>
+      <Offset>323B851</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-E7-0D-00-00-89-B3-DC-00-00-00-E9-33-7E-15-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>139368E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BE-81-EA-01-90</ValueOn>
+      <ValueOff>89-B3-DC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

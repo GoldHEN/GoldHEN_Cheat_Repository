@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Vampyr" Moder="2B" Cusa="CUSA03293" Version="01.09" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="MaX XP (use it for one kill then turn it off)">
+    <Cheatline>
+      <Offset>4DEF800</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-D0-04-00-00-7F-69-98-00-E9-40-A0-41-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1209845</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B6-5F-BE-03-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-80-D0-04-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf HP">
+    <Cheatline>
+      <Offset>4DEF819</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-46-45-3D-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11C3D5C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B8-BA-C2-03</ValueOn>
+      <ValueOff>E9-B0-BA-C2-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Money">
+    <Cheatline>
+      <Offset>4DEF85E</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-44-04-00-00-7F-96-98-00-E9-AC-0E-3C-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11B0713</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-46-F1-C3-03-90</ValueOn>
+      <ValueOff>01-B0-44-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf Stamina">
+    <Cheatline>
+      <Offset>4DEF821</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-D2-20-3D-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11C18F1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2B-DF-C2-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-FC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Blood">
+    <Cheatline>
+      <Offset>4DEF89A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-F6-05-52-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>130FE8E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-07-FA-AD-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-FC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo">
+    <Cheatline>
+      <Offset>49EF8A2</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-E7-03-00-00-41-89-85-78-08-00-00-E9-4B-52-5F-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FE4AF7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A6-AD-A0-03-90-90</ValueOn>
+      <ValueOff>41-89-85-78-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Craft Recycle (on sell)">
+    <Cheatline>
+      <Offset>4DEF8C7</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-63-00-00-00-41-89-8D-70-04-00-00-E9-E3-86-3C-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11B7FB4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0E-79-C3-03-90-90</ValueOn>
+      <ValueOff>41-89-8D-70-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Items (on get)">
+    <Cheatline>
+      <Offset>4DEF8DA</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-63-00-00-00-89-91-70-04-00-00-E9-0D-05-3C-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11AFDF1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E4-FA-C3-03-90</ValueOn>
+      <ValueOff>89-91-70-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

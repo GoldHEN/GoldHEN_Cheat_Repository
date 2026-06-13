@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="God of War: Ragnarok" Moder="Celogamez" Cusa="CUSA34386" Version="04.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="(Kratos)Infinite Health/Rage (Disable Health Atreus)">
+    <Cheatline>
+      <Offset>1777DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-FF-1F-75-0C-C4-C1-7A-10-4C-24-28-E9-05-07-29-FF-C4-C1-7A-11-4C-24-28-E9-F9-06-29-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A084C0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EB-F8-D6-00-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4C-24-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="(Atreus) Infinite Health/Arrows/Rage (Disable Health Kratos)">
+    <Cheatline>
+      <Offset>17777D0</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-FF-09-75-0C-C4-C1-7A-10-4C-24-28-E9-E5-0C-29-FF-C4-C1-7A-11-4C-24-28-E9-D9-0C-29-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A084C0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0B-F3-D6-00-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4C-24-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Infinite Rage On First Hit Kratos/Atreus (Disable Health Both)">
+    <Cheatline>
+      <Offset>1777980</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-FA-03-75-0E-41-C7-44-24-28-00-00-C8-42-E9-33-0B-29-FF-C4-C1-7A-11-4C-24-28-E9-27-0B-29-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A084C0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BB-F4-D6-00-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4C-24-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite XP/HS/Resources On Pick Up/Buy/Sell">
+    <Cheatline>
+      <Offset>1777A90</Offset>
+      <Section>0</Section>
+      <ValueOn>89-8D-40-FF-FF-FF-C7-06-3F-42-0F-00-E9-2D-C0-4B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C33AC6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C5-3F-B4-00-90-90-90</ValueOn>
+      <ValueOff>89-8D-40-FF-FF-FF-89-0E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Crystalline Fragment (100/Use Only For It)">
+    <Cheatline>
+      <Offset>1777AC0</Offset>
+      <Section>0</Section>
+      <ValueOn>89-8D-40-FF-FF-FF-C7-06-64-00-00-00-E9-FD-BF-4B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C33AC6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F5-3F-B4-00-90-90-90</ValueOn>
+      <ValueOff>89-8D-40-FF-FF-FF-89-0E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Cooldown">
+    <Cheatline>
+      <Offset>1777BB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-4D-80-E9-7F-E3-2E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A65F32</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-79-1C-D1-00-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-4C-24-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="God of War (2018)" Moder="Talixme" Cusa="CUSA07411" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>C59400</Offset>
+      <Section>0</Section>
+      <ValueOn>41-81-7D-00-08-74-B4-46-0F-85-05-00-00-00-E9-E8-E0-88-FF-C4-C1-7A-11-5D-20-E9-DD-E0-88-FF</ValueOn>
+      <ValueOff>41-81-7D-00-08-74-B4-46-0F-85-05-00-00-00-E9-E8-E0-88-FF-C4-C1-7A-11-5D-20-E9-DD-E0-88-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4E74F5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-06-1F-77-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-5D-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Rage">
+    <Cheatline>
+      <Offset>C5941E</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-5D-DC-C5-F8-2E-D9-41-81-7D-00-68-74-B4-46-0F-85-05-00-00-00-E9-C2-E0-88-FF-C4-C1-7A-11-5D-20-E9-B7-E0-88-FF</ValueOn>
+      <ValueOff>C5-FA-5D-DC-C5-F8-2E-D9-41-81-7D-00-68-74-B4-46-0F-85-05-00-00-00-E9-C2-E0-88-FF-C4-C1-7A-11-5D-20-E9-B7-E0-88-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4E74ED</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2C-1F-77-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-5D-DC-C5-F8-2E-D9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Refill Health">
+    <Cheatline>
+      <Offset>11467473C8</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-FA-43</ValueOn>
+      <ValueOff>00-00-FA-43</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Refill Rage">
+    <Cheatline>
+      <Offset>1146747428</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-FA-43</ValueOn>
+      <ValueOff>00-00-FA-43</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="9999999 Experience">
+    <Cheatline>
+      <Offset>1082DBD8E0</Offset>
+      <Section>0</Section>
+      <ValueOn>7F-96-98-00-0F</ValueOn>
+      <ValueOff>7F-96-98-00-0F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="9999999 Money">
+    <Cheatline>
+      <Offset>1082DBDAA0</Offset>
+      <Section>0</Section>
+      <ValueOn>7F-96-98-00-0F</ValueOn>
+      <ValueOff>7F-96-98-00-0F</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

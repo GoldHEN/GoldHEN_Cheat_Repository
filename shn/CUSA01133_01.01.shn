@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil: Revelations 2" Moder="Ali-mk" Cusa="CUSA01133" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>3FD4FB</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-83-38-1F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-All-Weapon-Never-Reload">
+    <Cheatline>
+      <Offset>3F46A8</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-4D-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-All-Items">
+    <Cheatline>
+      <Offset>7B6378</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-4D-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="MAX-BP+Inf-money">
+    <Cheatline>
+      <Offset>18DB822</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-FF-E0-F5-05-89-87-B0-18-00-00-E9-6D-C8-2B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B980AD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-84-37-D4-00-90</ValueOn>
+      <ValueOff>89-87-B0-18-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Raid-Mode-MAX-GOLD">
+    <Cheatline>
+      <Offset>18DB834</Offset>
+      <Section>0</Section>
+      <ValueOn>49-C7-C4-FF-E0-F5-05-4C-89-A3-C8-C4-00-00-E9-62-94-35-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C34CA2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8D-6B-CA-00-90-90</ValueOn>
+      <ValueOff>4C-89-A3-C8-C4-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Raid-Mode-Max-Skill-Points-(SP)">
+    <Cheatline>
+      <Offset>18DB849</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BF-3F-42-0F-00-44-89-B8-EC-00-00-00-E9-9E-51-35-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C309F2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-52-AE-CA-00-90-90</ValueOn>
+      <ValueOff>44-89-B8-EC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Raid-Mode-Inf-All-Items">
+    <Cheatline>
+      <Offset>3CF2BC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-43-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Raid-Mode-Inf-Keys">
+    <Cheatline>
+      <Offset>5747A2</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-91-24-0D-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wukong" Moder="Reddevil82 - FW 9.00" Cusa="CUSA25298" Version="01.01" Process="eboot.bin">
+  <Genres Name="Arcade" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>5577DFC</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7F-08-08-75-0D-C5-FA-10-87-D8-04-00-00-E9-5D-39-3F-FB-C5-FA-10-87-D4-04-00-00-E9-50-39-3F-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>96B764</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-93-C6-C0-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-87-D4-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Lives ( on gain - lose )">
+    <Cheatline>
+      <Offset>5577DCA</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-C4-01-00-00-63-00-00-00-E9-7D-F5-3B-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>93734F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-76-0A-C4-04-90-90</ValueOn>
+      <ValueOff>44-89-B3-C4-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5577DD9</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-C4-01-00-00-63-00-00-00-E9-92-F5-3B-FB-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>937374</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-60-0A-C4-04-90</ValueOn>
+      <ValueOff>89-B7-C4-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="You get 1 new Life after Coin collect">
+    <Cheatline>
+      <Offset>5577DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-C8-01-00-00-63-00-00-00-41-8B-87-C8-01-00-00-44-01-F0-E9-01-F5-3B-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9372B3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F8-0A-C4-04-90-90-90-90-90</ValueOn>
+      <ValueOff>41-8B-87-C8-01-00-00-44-01-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

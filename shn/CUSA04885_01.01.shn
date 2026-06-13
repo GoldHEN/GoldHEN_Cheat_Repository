@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 4" Moder="Celogamez" Cusa="CUSA04885" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Horror" />
+  <Items />
+  <Cheat Text="God Mode (Can Be Grabbed)">
+    <Cheatline>
+      <Offset>C634D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-0E-30-14-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2074FF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-4C-07-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1FA7BE</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-9D-EB-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FC57AB0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4E-DA-90-E9-55-0F-5B-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>208A09</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A2-F0-A4-7F</ValueOn>
+      <ValueOff>0F-4E-DA-29-DA</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FC57870</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4E-CA-90-E9-FD-11-5B-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>208A71</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FA-ED-A4-7F</ValueOn>
+      <ValueOff>0F-4E-CA-29-CA</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11FCFB</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-60-96-0E-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1FB033</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-98-EB-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill">
+    <Cheatline>
+      <Offset>91FBD0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-BA-03-00-00-00-00-00-00-E9-9D-8D-8E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>208975</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-56-72-71-00-90-90-90</ValueOn>
+      <ValueOff>66-41-89-97-BA-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite First Aid Spray/Herbs/Chiken Eggs">
+    <Cheatline>
+      <Offset>2E0326</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Clip Ammo">
+    <Cheatline>
+      <Offset>7FC57F50</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-9D-8E-68-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2E0DEE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5D-71-97-7F</ValueOn>
+      <ValueOff>66-41-89-4F-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>7FC57F40</Offset>
+      <Section>0</Section>
+      <ValueOn>09-C8-90-E9-49-A1-68-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2E208C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AF-5E-97-7F</ValueOn>
+      <ValueOff>09-C8-89-43-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Grenades On Use">
+    <Cheatline>
+      <Offset>2E1FB2</Offset>
+      <Section>0</Section>
+      <ValueOn>B0-63-90</ValueOn>
+      <ValueOff>66-FF-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Save Always 0">
+    <Cheatline>
+      <Offset>7FC57E90</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-80-00-50-00-00-00-E9-0E-C9-64-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2A47A3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E8-36-9B-7F-90-90</ValueOn>
+      <ValueOff>66-89-88-00-50-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stop Time Mercenaries">
+    <Cheatline>
+      <Offset>246E0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Score Mercenaries">
+    <Cheatline>
+      <Offset>91F1A0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-70-4C-41-C7-40-28-3F-42-0F-00-E9-6E-6B-9D-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2F5D17</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-84-94-62-00-90-90-90</ValueOn>
+      <ValueOff>41-89-70-4C-41-01-48-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Ptas On Pick">
+    <Cheatline>
+      <Offset>91F930</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-81-0C-50-00-00-FF-C9-9A-3B-E9-A0-7F-9B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2D78D9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-52-80-64-00-90</ValueOn>
+      <ValueOff>01-81-0C-50-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Attache Case XL (Activate B4 Starting The Game)">
+    <Cheatline>
+      <Offset>740806</Offset>
+      <Section>21</Section>
+      <ValueOn>7F</ValueOn>
+      <ValueOff>AD</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite R. Launcher (Put Handgun In The Center)">
+    <Cheatline>
+      <Offset>7407CE</Offset>
+      <Section>21</Section>
+      <ValueOn>6D-00</ValueOn>
+      <ValueOff>23-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Chicago Typewriter (Put Handgun In The Center)">
+    <Cheatline>
+      <Offset>7407CE</Offset>
+      <Section>21</Section>
+      <ValueOn>34-00</ValueOn>
+      <ValueOff>23-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7407D4</Offset>
+      <Section>21</Section>
+      <ValueOn>06-60</ValueOn>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

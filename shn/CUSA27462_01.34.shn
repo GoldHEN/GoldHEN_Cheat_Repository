@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Aliens: Fireteam Elite" Moder="Celogamez" Cusa="CUSA27462" Version="01.34" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Max/Infinite Health/Team">
+    <Cheatline>
+      <Offset>5F1F780</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-FA-00-75-0F-C5-FA-10-47-10-C5-FA-11-47-0C-E9-04-9B-4B-FA-C5-FA-11-47-0C-E9-FA-9A-4B-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3D9294</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E7-64-B4-05</ValueOn>
+      <ValueOff>C5-FA-11-47-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>11F0C55</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-83-D4-07-00-00</ValueOn>
+      <ValueOff>89-83-D4-07-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>11F0C9D</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-83-DC-07-00-00</ValueOn>
+      <ValueOff>89-83-DC-07-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Medkits">
+    <Cheatline>
+      <Offset>F37F82</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8B-40-0C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Consumables">
+    <Cheatline>
+      <Offset>F37FBC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>83-BB-40-0C-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Credits/Rep Scrip">
+    <Cheatline>
+      <Offset>5F1F820</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-08-7F-96-98-00-E9-B4-AC-F3-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E5A4DD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3E-53-0C-05</ValueOn>
+      <ValueOff>41-89-44-24-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

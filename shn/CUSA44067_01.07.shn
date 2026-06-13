@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sniper Elite: Resistance" Moder="Ali-mk" Cusa="CUSA44067" Version="01.07" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invincible-(MC)">
+    <Cheatline>
+      <Offset>19D38C8</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-F8-01-0F-84-9E-AD-80-FF-E8-29-03-82-FF-E9-94-AD-80-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11DE66B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-58-52-7F-00</ValueOn>
+      <ValueOff>E8-90-55-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Health-(MC)">
+    <Cheatline>
+      <Offset>19D3800</Offset>
+      <Section>0</Section>
+      <ValueOn>83-BB-94-00-00-00-00-75-0A-C5-FA-10-4B-0C-E9-C2-51-FD-FE-C5-FA-11-4B-60-E9-B8-51-FD-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9A89D0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2B-AE-02-01</ValueOn>
+      <ValueOff>C5-FA-11-4B-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Health-One-Hit-Kill">
+    <Cheatline>
+      <Offset>19D3800</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7B-0C-00-75-0E-C5-FA-10-4B-0C-E9-C5-51-FD-FE-C5-F8-57-C8-C5-FA-11-4B-60-E9-B7-51-FD-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9A89D0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2B-AE-02-01</ValueOn>
+      <ValueOff>C5-FA-11-4B-60</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>19D3820</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7B-0C-00-75-0A-C5-FA-10-4B-0C-E9-A5-51-FD-FE-C5-F8-57-C8-C5-FA-11-4B-60-E9-97-51-FD-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Weapon-Rapid-Fire">
+    <Cheatline>
+      <Offset>C77427</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>FF-50-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="MAX-Ammo">
+    <Cheatline>
+      <Offset>19D3840</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-E7-03-00-00-89-47-2C-E9-11-A3-8E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12BDB59</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E2-5C-71-00</ValueOn>
+      <ValueOff>89-47-2C-74-0B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Ammo-Never-Reload">
+    <Cheatline>
+      <Offset>E98BBD</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-77-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

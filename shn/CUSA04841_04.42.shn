@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="No Man's Sky" Moder="VitriolUsurper" Cusa="CUSA04841" Version="04.42" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite - Player Sheild">
+    <Cheatline>
+      <Offset>DAB6C1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>39-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite - Player Health">
+    <Cheatline>
+      <Offset>27A637</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>39-C3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite - StarShip Sheild">
+    <Cheatline>
+      <Offset>DAB633</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>39-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite - StarShip Health">
+    <Cheatline>
+      <Offset>27A60C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>39-C3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Units - On Gain">
+    <Cheatline>
+      <Offset>285BCE</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-43-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Nanites - On Gain">
+    <Cheatline>
+      <Offset>2722DE</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-43-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Quicksliver - On Gain">
+    <Cheatline>
+      <Offset>285C8B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-43-C6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Frozen - Units">
+    <Cheatline>
+      <Offset>285AB4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Frozen - Nanites">
+    <Cheatline>
+      <Offset>285B34</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Frozen - Quicksilver">
+    <Cheatline>
+      <Offset>285B98</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Frozen - Mining Beam">
+    <Cheatline>
+      <Offset>D5A553</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>29-41-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Frozen - Terrain Manipulator">
+    <Cheatline>
+      <Offset>EA3B4F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>4C-8D-25-AA-7F-59-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Frozen - Boltcaster Ammo">
+    <Cheatline>
+      <Offset>D694E3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-84-8D-18-27-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Frozen - Plasma Launcher Ammo">
+    <Cheatline>
+      <Offset>D68619</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-FF-4E-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Frozen - Scatter Blaster Ammo">
+    <Cheatline>
+      <Offset>D694E0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-E0</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

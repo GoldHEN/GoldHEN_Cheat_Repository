@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Prey" Moder="Talixme" Cusa="CUSA06560" Version="01.04" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>1A34B01</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>1B94599</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-B7-24-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items">
+    <Cheatline>
+      <Offset>1418970</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-5E-54</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

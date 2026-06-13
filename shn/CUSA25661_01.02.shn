@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Shadow Man Remastered" Moder="Ali-mk" Cusa="CUSA25661" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>373D33</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-98-E8-0A-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>402FC4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-47-27-02-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2D9F0B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-C0-86-14-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>43F988</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-43-2C-FE-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>381AA3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-28-0B-0A-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>29D579</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-56-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Weapon-ASSON">
+    <Cheatline>
+      <Offset>29D638</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-56-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Weapon-Shadow-Gun-Full-Power">
+    <Cheatline>
+      <Offset>29D604</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-8B-46-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="max-cadeaux">
+    <Cheatline>
+      <Offset>29D6FF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-8B-46-3C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="West of Dead" Moder="Wander FW9.00" Cusa="CUSA16084" Version="01.06" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>1859040</Offset>
+      <Section>0</Section>
+      <ValueOn>41-81-BD-80-00-00-00-00-00-F0-41-75-0A-41-C7-45-1C-00-00-F0-42-EB-06-C4-C1-7A-11-4D-1C-E9-35-06-DC-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80619691</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AA-F9-23-81-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4D-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Iron (on spend and gain)">
+    <Cheatline>
+      <Offset>1858FF0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-2C-C0-41-C7-47-18-0F-27-00-00-E9-49-A2-D7-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>805D3242</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A9-5D-28-81-90-90-90</ValueOn>
+      <ValueOff>C5-FA-2C-C0-41-01-47-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Sin (on spend and gain)">
+    <Cheatline>
+      <Offset>185B6C0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-47-1C-0F-27-00-00-49-8B-5F-20-E9-8A-7D-D7-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>805D3453</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-68-82-28-81-90-90-90</ValueOn>
+      <ValueOff>45-01-77-1C-49-8B-5F-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

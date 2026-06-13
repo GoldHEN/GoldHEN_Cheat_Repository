@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Uncharted 4: A Thief's End" Moder="DeathRGH" Cusa="CUSA00917" Version="01.18" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Enable Debug Menu">
+    <Cheatline>
+      <Offset>1F52C5</Offset>
+      <Section>0</Section>
+      <ValueOn>80-B8-88-2E-00-00-00-0F-85-D7-22-00-00-C6-80-79-2E-00-00-01-EB-04-CA-22-00-00</ValueOn>
+      <ValueOff>80-B8-88-2E-00-00-00-0F-85-D7-22-00-00-C6-80-79-2E-00-00-01-EB-04-CA-22-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

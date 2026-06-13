@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Incredible Adventures of Van Helsing: Extended Edition" Moder="Wander FW9.00" Cusa="CUSA04303" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>82E77A0</Offset>
+      <Section>0</Section>
+      <ValueOn>80-BB-C4-00-00-00-02-75-0C-C7-83-14-05-00-00-00-C0-79-44-EB-08-C5-FA-11-83-14-05-00-00-E9-86-23-5E-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>18C9B40</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5B-DC-A1-06-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-14-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Mana">
+    <Cheatline>
+      <Offset>82E7A90</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-24-44-0B-00-00-00-C0-79-44-E9-F1-3F-56-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>184BA88</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-03-C0-A9-06-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-94-24-44-0B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stats skill points (player/Companion)">
+    <Cheatline>
+      <Offset>82E77D0</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-87-7C-0A-00-00-63-E9-FA-1B-57-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>18593D0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FB-E3-A8-06-90</ValueOn>
+      <ValueOff>01-B7-7C-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Special Attacks skill Points">
+    <Cheatline>
+      <Offset>82E7A30</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-85-78-0A-00-00-63-E9-1B-32-57-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>185AC51</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DA-CD-A8-06-90-90</ValueOn>
+      <ValueOff>41-29-85-78-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Coins (on get)">
+    <Cheatline>
+      <Offset>82E7770</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-3C-16-00-00-3F-42-0F-00-E9-D4-98-DC-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>10B104D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1E-67-23-07-90-90</ValueOn>
+      <ValueOff>41-89-8E-3C-16-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Experience">
+    <Cheatline>
+      <Offset>82E7A60</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-80-0A-00-00-7F-96-98-00-E9-71-11-57-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1858BDA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-81-EE-A8-06-90-90</ValueOn>
+      <ValueOff>41-89-86-80-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

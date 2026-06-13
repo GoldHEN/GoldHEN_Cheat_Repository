@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Necromunda: Hired Gun" Moder="Celogamez" Cusa="CUSA25567" Version="01.09" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Health+Armor (Enable Only When Start A Mission)">
+    <Cheatline>
+      <Offset>68DFDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-FE-08-74-0A-C5-FA-10-47-0C-E9-99-5C-94-F9-C5-FA-11-47-0C-E9-8F-5C-94-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>225A54</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-57-A3-6B-06</ValueOn>
+      <ValueOff>C5-FA-11-47-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stimms On Use (You Don't Die)">
+    <Cheatline>
+      <Offset>68DFA20</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-82-F4-06-00-00-03-E9-BC-2E-BF-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14D28E2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-39-D1-40-05-90</ValueOn>
+      <ValueOff>FF-8A-F4-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Medkits On Use">
+    <Cheatline>
+      <Offset>68DFA40</Offset>
+      <Section>0</Section>
+      <ValueOn>83-FA-01-03-08-E9-F8-2D-BF-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14D283D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FE-D1-40-05</ValueOn>
+      <ValueOff>83-FA-01-89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>13B0CF2</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-04-B1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>13FAD73</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-48-07-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Grenades">
+    <Cheatline>
+      <Offset>14430CA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-D1-87-FB-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Wasting Time To Use Mastiff">
+    <Cheatline>
+      <Offset>68DF990</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-2C-04-00-00-00-00-00-00-E9-3D-F0-AC-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>13AE9D4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B7-0F-53-05-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-2C-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Money">
+    <Cheatline>
+      <Offset>68DFB60</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-40-03-00-00-FF-C9-9A-3B-E9-7C-70-BE-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14C6BE4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-77-8F-41-05-90-90</ValueOn>
+      <ValueOff>4C-89-80-40-03-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>68DFB90</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-40-03-00-00-FF-C9-9A-3B-E9-7C-7D-BE-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14C7914</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-77-82-41-05-90-90</ValueOn>
+      <ValueOff>4C-89-80-40-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Take down">
+    <Cheatline>
+      <Offset>68DF6B0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-E0-15-00-00-00-00-C8-42-E9-C3-E7-A2-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>130DE7A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-31-18-5D-05-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-E0-15-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

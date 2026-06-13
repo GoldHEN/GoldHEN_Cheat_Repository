@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lords of the Fallen" Moder="Rizla" Cusa="CUSA00369" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>1AB7800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-74-00-00-80-3F-C4-C1-7A-10-44-24-74-E9-88-E9-77-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>236196</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-65-16-88-01-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-44-24-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Energy">
+    <Cheatline>
+      <Offset>1AB7815</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-7C-00-00-80-3F-C5-FA-10-5B-7C-E9-80-C5-77-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>233DA1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6F-3A-88-01</ValueOn>
+      <ValueOff>C5-FA-11-5B-7C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Magic">
+    <Cheatline>
+      <Offset>1AB7826</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-78-00-00-80-3F-C5-FA-10-5B-78-E9-C4-CC-77-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2344F6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2B-33-88-01</ValueOn>
+      <ValueOff>C5-FA-11-5B-78</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP on Gain">
+    <Cheatline>
+      <Offset>1AB7837</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-B8-00-00-00-F0-23-74-49-C4-C1-7A-10-87-B8-00-00-00-E9-9A-D2-77-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>234AE1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-51-2D-88-01-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-87-B8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Potions on Use">
+    <Cheatline>
+      <Offset>1AB7850</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-63-00-00-00-89-47-40-C3-90-E9-91-A0-90-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3C18EA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-61-5F-6F-01-90</ValueOn>
+      <ValueOff>89-47-40-C3-66-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="x2 Potions on Use">
+    <Cheatline>
+      <Offset>3C18E5</Offset>
+      <Section>0</Section>
+      <ValueOn>01-F0</ValueOn>
+      <ValueOff>29-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max AP on Spend">
+    <Cheatline>
+      <Offset>1AB7865</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-63-00-00-00-89-88-E8-00-00-00-E9-66-03-C7-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>727BD5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8B-FC-38-01-90</ValueOn>
+      <ValueOff>89-88-E8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="x2 AP on Spend">
+    <Cheatline>
+      <Offset>727BD2</Offset>
+      <Section>0</Section>
+      <ValueOn>44-01-E1</ValueOn>
+      <ValueOff>44-29-E1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max SP on Spend">
+    <Cheatline>
+      <Offset>1AB7875</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-63-00-00-00-89-88-EC-00-00-00-E9-67-03-C7-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>727BE6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8A-FC-38-01-90</ValueOn>
+      <ValueOff>89-88-EC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="x2 SP on Spend">
+    <Cheatline>
+      <Offset>727BE3</Offset>
+      <Section>0</Section>
+      <ValueOn>44-01-E1</ValueOn>
+      <ValueOff>44-29-E1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Kill Enemies Quicker">
+    <Cheatline>
+      <Offset>1AB7850</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-74-00-00-00-00-C4-C1-7A-10-44-24-74-E9-00-C1-77-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>23395E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-ED-3E-88-01-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-44-24-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Strength When Changed">
+    <Cheatline>
+      <Offset>1AB7895</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-00-CA-9A-3B-89-B7-88-00-00-00-E9-B1-C7-77-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>234050</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-40-38-88-01-90</ValueOn>
+      <ValueOff>89-B7-88-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Vitality When Changed">
+    <Cheatline>
+      <Offset>1AB78E5</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-68-36-02-00-89-B7-80-00-00-00-E9-E1-C6-77-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>233FD0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-10-39-88-01-90</ValueOn>
+      <ValueOff>89-B7-80-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Faith When Changed">
+    <Cheatline>
+      <Offset>1AB78A5</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-80-93-DC-14-89-B7-94-00-00-00-E9-61-C7-77-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>234010</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-90-38-88-01-90</ValueOn>
+      <ValueOff>89-B7-94-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Endurance When Changed">
+    <Cheatline>
+      <Offset>1AB78B5</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-00-76-B0-10-89-B7-84-00-00-00-E9-D1-C7-77-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>234090</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-20-38-88-01-90</ValueOn>
+      <ValueOff>89-B7-84-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Agility When Changed">
+    <Cheatline>
+      <Offset>1AB78C5</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-00-24-F4-00-89-B7-8C-00-00-00-E9-E1-C7-77-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2340B0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-10-38-88-01-90</ValueOn>
+      <ValueOff>89-B7-8C-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Luck When Changed">
+    <Cheatline>
+      <Offset>1AB78D5</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-00-75-2B-7D-89-B7-98-00-00-00-E9-51-C7-77-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>234030</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A0-38-88-01-90</ValueOn>
+      <ValueOff>89-B7-98-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

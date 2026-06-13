@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Last of Us: Remastered" Moder="XRaze" Cusa="CUSA00556" Version="01.06" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Enable Debug Menu">
+    <Cheatline>
+      <Offset>3C75</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-81-81-2E-00-00-01-EB-04</ValueOn>
+      <ValueOff>C6-81-81-2E-00-00-01-EB-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

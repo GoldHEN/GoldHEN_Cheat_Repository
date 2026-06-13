@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hogwarts Legacy" Moder="fbin" Cusa="CUSA12824" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Family" />
+  <Items />
+  <Cheat Text="Vida Infinita">
+    <Cheatline>
+      <Offset>8443DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-BC-24-5C-01-00-00-00-75-0F-C4-C1-7A-10-84-24-A4-01-00-00-E9-CC-2E-B7-FA-C4-C1-7A-11-84-24-A4-01-00-00-E9-BD-2E-B7-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2FB6C8C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1F-D1-48-05-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-A4-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Nivel Maximo">
+    <Cheatline>
+      <Offset>8443DE0</Offset>
+      <Section>0</Section>
+      <ValueOn>44-89-EE-41-C7-46-44-28-00-00-00-E9-22-8B-72-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2B6C90B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D0-74-8D-05-90-90</ValueOn>
+      <ValueOff>44-89-EE-45-89-6E-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Magia Especial Infinita">
+    <Cheatline>
+      <Offset>8443E50</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-24-08-3D-00-00-00-00-7A-44-E9-21-14-2E-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2725278</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D3-EB-D1-05-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-08-3D-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Vassoura Infinita">
+    <Cheatline>
+      <Offset>8443660</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-40-00-00-96-43-E9-70-93-9C-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2E0C9D7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-84-6C-63-05</ValueOn>
+      <ValueOff>C5-FA-11-40-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Dinheiro Infinito">
+    <Cheatline>
+      <Offset>7B4ACD</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>48-0F-BE-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Paw Patrol: On a Roll!" Moder="Molly" Cusa="CUSA11095" Version="01.01" Process="eboot.bin">
+  <Genres Name="Platformer" />
+  <Items />
+  <Cheat Text="Max Pup Bones ~Grab One~">
+    <Cheatline>
+      <Offset>1557800</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-23-3A-CB-7E-B8-C8-00-00-00-41-89-46-10-E9-12-3A-CB-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8020B21C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DF-C5-34-81-90-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-0D-00-00-00-41-89-46-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call of Duty: WWII" Moder="DeathRGH" Cusa="CUSA05969" Version="01.11" Process="eboot.bin">
+  <Genres Name="FPS" />
+  <Items />
+  <Cheat Text="All Client Infinite Ammo">
+    <Cheatline>
+      <Offset>72B698</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>29-54-88-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Client Godmode">
+    <Cheatline>
+      <Offset>9553B9</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-01-87-DC-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Specialist (Zombies)">
+    <Cheatline>
+      <Offset>488093</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-98-1F-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C5CA258</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-80-3F</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="God Mode">
+    <Cheatline>
+      <Offset>C73800</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-0F-27-00-00-41-89-81-2C-02-00-00-E9-A1-3E-9B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6276AB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-50-C1-64-00-90-90</ValueOn>
+      <ValueOff>41-8B-81-2C-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>933902</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C0-90-90-90</ValueOn>
+      <ValueOff>41-89-44-24-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>9261D7</Offset>
+      <Section>0</Section>
+      <ValueOn>45-29-E4-90-90</ValueOn>
+      <ValueOff>44-29-64-88-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Throwables">
+    <Cheatline>
+      <Offset>8FFFFC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>FF-48-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Medkits">
+    <Cheatline>
+      <Offset>726D47</Offset>
+      <Section>0</Section>
+      <ValueOn>45-89-F6-90</ValueOn>
+      <ValueOff>45-89-77-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite AA Gun Health">
+    <Cheatline>
+      <Offset>C73800</Offset>
+      <Section>0</Section>
+      <ValueOn>45-89-AF-30-02-00-00-45-2B-AF-2C-02-00-00-E9-06-EB-9D-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>652312</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E9-14-62-00-90-90</ValueOn>
+      <ValueOff>45-29-AF-2C-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

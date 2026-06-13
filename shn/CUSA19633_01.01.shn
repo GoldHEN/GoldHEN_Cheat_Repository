@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Battle Axe" Moder="Dioniso" Cusa="CUSA19633" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Arcade" />
+  <Items />
+  <Cheat Text="[01] Immunity">
+    <Cheatline>
+      <Offset>2814C0</Offset>
+      <Section>14</Section>
+      <ValueOn>C3</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>29BD10</Offset>
+      <Section>14</Section>
+      <ValueOn>C3</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="[02] Infinite Health (Maxed)">
+    <Cheatline>
+      <Offset>18D5A30</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-BB-90-00-00-00-89-BB-8C-00-00-00-89-BB-88-00-00-00-83-BB-88-00-00-00-00-E9-4E-7A-BD-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>804AD495</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-96-85-42-81-90-90</ValueOn>
+      <ValueOff>83-BB-88-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="[03] 1 Hit Kill">
+    <Cheatline>
+      <Offset>18D5B40</Offset>
+      <Section>0</Section>
+      <ValueOn>44-8B-BB-8C-00-00-00-44-89-E8-44-29-F8-E9-C7-BD-D1-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>805F1913</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-28-42-2E-81-90</ValueOn>
+      <ValueOff>44-89-E8-44-29-F8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="[04] Speed x2">
+    <Cheatline>
+      <Offset>18D5A60</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7B-14-FF-74-3A-83-BB-D0-00-00-00-01-77-31-80-BB-F0-00-00-00-00-74-28-F2-0F-10-83-A8-01-00-00-F2-0F-58-C0-F2-0F-11-83-A8-01-00-00-F2-0F-10-83-A0-01-00-00-F2-0F-58-C0-F2-0F-11-83-A0-01-00-00-C5-F9-10-83-38-01-00-00-E9-2F-B3-D1-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>805F0DD4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-87-4C-2E-81-90-90-90</ValueOn>
+      <ValueOff>C5-F9-10-83-38-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="[05] Infinite Points">
+    <Cheatline>
+      <Offset>18D5AD0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-81-BE-8C-03-00-00-68-40-F9-03-77-16-41-C7-86-8C-03-00-00-68-40-F9-03-41-C7-86-78-03-00-00-68-40-F9-03-41-8B-96-8C-03-00-00-E9-5C-77-BD-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>804AD254</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-77-88-42-81-90-90</ValueOn>
+      <ValueOff>41-8B-96-8C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="[06] Infinite Coins">
+    <Cheatline>
+      <Offset>18D5B10</Offset>
+      <Section>0</Section>
+      <ValueOn>81-BB-6C-03-00-00-9A-02-00-00-77-0A-C7-83-6C-03-00-00-9A-02-00-00-8B-93-6C-03-00-00-E9-FF-78-BD-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>804AD42A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E1-86-42-81-90</ValueOn>
+      <ValueOff>8B-93-6C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="[07] Hit Bar Always Full">
+    <Cheatline>
+      <Offset>29DDB5</Offset>
+      <Section>14</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="[08a] Infinite Item: Bombs">
+    <Cheatline>
+      <Offset>18D5B60</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-60-03-00-00-74-00-00-00-41-83-BE-60-03-00-00-FF-E9-B5-7B-BD-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>804AD725</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-36-84-42-81-90-90-90</ValueOn>
+      <ValueOff>41-83-BE-60-03-00-00-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="[08b] Infinite Item: Spell">
+    <Cheatline>
+      <Offset>18D5BA0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-60-03-00-00-70-00-00-00-41-83-BE-60-03-00-00-FF-E9-75-7B-BD-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>804AD725</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-76-84-42-81-90-90-90</ValueOn>
+      <ValueOff>41-83-BE-60-03-00-00-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="[08c] Infinite Item: Chicken">
+    <Cheatline>
+      <Offset>18D5B80</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-60-03-00-00-6F-00-00-00-41-83-BE-60-03-00-00-FF-E9-95-7B-BD-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>804AD725</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-56-84-42-81-90-90-90</ValueOn>
+      <ValueOff>41-83-BE-60-03-00-00-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="[08d] Infinite Item: Potion">
+    <Cheatline>
+      <Offset>18D5BC0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-60-03-00-00-71-00-00-00-41-83-BE-60-03-00-00-FF-E9-55-7B-BD-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>804AD725</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-96-84-42-81-90-90-90</ValueOn>
+      <ValueOff>41-83-BE-60-03-00-00-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

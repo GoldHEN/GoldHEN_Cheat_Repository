@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dead Rising 4: Frank's Big Package" Moder="Weysincha" Cusa="CUSA08558" Version="01.01" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>2B1700A</Offset>
+      <Section>0</Section>
+      <ValueOn>39-C8-0F-4F-C1-41-83-7D-3C-01-0F-85-48-FD-25-FF-E9-47-FD-25-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1D76D5D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A8-02-DA-00</ValueOn>
+      <ValueOff>39-C8-0F-4F-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>1D1FB2B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-48-8B-85</ValueOn>
+      <ValueOff>C5-FA-11-43-28-48-8B-85</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Money to 8.999.999">
+    <Cheatline>
+      <Offset>20007962C</Offset>
+      <Section>0</Section>
+      <ValueOn>3F-54-89-00</ValueOn>
+      <ValueOff>3F-54-89-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Skillpoints to 999">
+    <Cheatline>
+      <Offset>219DEE8A8</Offset>
+      <Section>0</Section>
+      <ValueOn>E7-03-00-00</ValueOn>
+      <ValueOff>E7-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Level">
+    <Cheatline>
+      <Offset>219DECD48</Offset>
+      <Section>0</Section>
+      <ValueOn>7F-96-98-00</ValueOn>
+      <ValueOff>7F-96-98-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Kill series to 9.999.999">
+    <Cheatline>
+      <Offset>219DE9D44</Offset>
+      <Section>0</Section>
+      <ValueOn>7F-96-98-00</ValueOn>
+      <ValueOff>7F-96-98-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

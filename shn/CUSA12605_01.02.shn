@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Death Stranding" Moder="Talixme" Cusa="CUSA12605" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Horror" />
+  <Items />
+  <Cheat Text="God Mode">
+    <Cheatline>
+      <Offset>17986AE</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-08</ValueOn>
+      <ValueOff>C5-FA-11-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Resistance">
+    <Cheatline>
+      <Offset>17A1FE6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-8C-24-04-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Resistance walking wather">
+    <Cheatline>
+      <Offset>17A53FD</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-34-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Hold Air">
+    <Cheatline>
+      <Offset>17A41A4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-34-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Water">
+    <Cheatline>
+      <Offset>1849599</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-48-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Boots durability">
+    <Cheatline>
+      <Offset>17A6FE6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-8D-0C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Resin">
+    <Cheatline>
+      <Offset>2C6AB78</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-50-38</ValueOn>
+      <ValueOff>48-89-48-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Metal">
+    <Cheatline>
+      <Offset>2C6AB96</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-50-40</ValueOn>
+      <ValueOff>48-89-48-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Crystals">
+    <Cheatline>
+      <Offset>2C6AB5A</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-50-30</ValueOn>
+      <ValueOff>48-89-48-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Energy vehicules">
+    <Cheatline>
+      <Offset>28AB4B3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-40-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

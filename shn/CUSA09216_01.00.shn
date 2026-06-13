@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Sims 4" Moder="Molly" Cusa="CUSA09216" Version="01.00" Process="eboot.bin">
+  <Genres Name="Simulation" />
+  <Items />
+  <Cheat Text="Max Simoleon -Load Your House-">
+    <Cheatline>
+      <Offset>1F57800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-8E-D4-00-00-00-10-48-C7-C0-7F-96-98-00-49-89-46-30-E9-9B-92-3A-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80300AA7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-54-6D-C5-81-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-83-8E-D4-00-00-00-10-49-89-46-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Aspiration Points -Load Your House-">
+    <Cheatline>
+      <Offset>1F57818</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-9F-86-01-00-41-89-44-24-40-E9-47-AE-3F-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80352669</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AA-51-C0-81</ValueOn>
+      <ValueOff>41-89-44-24-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Deus Ex: Mankind Divided" Moder="Rizla" Cusa="CUSA01836" Version="01.14" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinite Health/Energy">
+    <Cheatline>
+      <Offset>3837800</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-44-00-3C-1C-46-C5-FA-10-4B-44-E9-54-EF-43-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C76760</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9B-10-BC-02</ValueOn>
+      <ValueOff>C5-F8-2E-4B-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health Boost">
+    <Cheatline>
+      <Offset>C7509B</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-83-34-01-00-00</ValueOn>
+      <ValueOff>C5-FA-11-93-34-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>38378B5</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-38-01-00-00-3A-43-E1-42-C5-FA-10-83-38-01-00-00-E9-D5-DB-43-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C75499</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-17-24-BC-02-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-38-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf/Max Energy Meter on Use">
+    <Cheatline>
+      <Offset>3837811</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-24-01-00-00-00-3C-1C-46-C5-FA-10-87-24-01-00-00-E9-A8-C2-43-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C73AC8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-44-3D-BC-02-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-24-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo/Items/Parts on Pickup/Use">
+    <Cheatline>
+      <Offset>3837828</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BE-FF-00-00-00-44-89-73-40-5B-E9-79-72-C6-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>149EAAC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-77-8D-39-02</ValueOn>
+      <ValueOff>44-89-73-40-5B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stealth">
+    <Cheatline>
+      <Offset>383789C</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-D8-02-00-00-00-00-00-00-C4-C1-7A-10-86-D8-02-00-00-E9-46-3C-5C-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DFB4F2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A5-C3-A3-02-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-D8-02-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>38378CC</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-D8-02-00-00-00-00-00-00-C4-C1-7A-10-86-D8-02-00-00-E9-4F-52-5C-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DFCB2B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9C-AD-A3-02-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-D8-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quick Praxis/Max XP">
+    <Cheatline>
+      <Offset>3837838</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-4C-1D-00-00-41-89-5F-18-B8-FF-C9-9A-3B-41-89-47-30-E9-2F-A3-EF-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1731B76</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BD-5C-10-02-90-90-90</ValueOn>
+      <ValueOff>41-89-5F-18-41-01-47-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Praxis">
+    <Cheatline>
+      <Offset>1731EED</Offset>
+      <Section>0</Section>
+      <ValueOn>01-D8</ValueOn>
+      <ValueOff>29-D8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Credits on Buy/Sell">
+    <Cheatline>
+      <Offset>383785C</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-FF-C9-9A-3B-89-8B-98-00-00-00-E9-03-20-CA-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14D9869</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EE-DF-35-02-90</ValueOn>
+      <ValueOff>89-8B-98-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Hacking Attempts">
+    <Cheatline>
+      <Offset>383784F</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-05-00-00-00-89-4B-34-E9-9F-28-06-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>189A087</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C3-D7-F9-01</ValueOn>
+      <ValueOff>89-4B-34-7F-6F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Multi-Tool Instant Hack (Use on Laptops)">
+    <Cheatline>
+      <Offset>3837883</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-85-A0-02-00-00-00-00-70-41-C4-C1-7A-10-8D-A0-02-00-00-E9-95-4C-AD-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>130C528</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-56-B3-52-02-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-8D-A0-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

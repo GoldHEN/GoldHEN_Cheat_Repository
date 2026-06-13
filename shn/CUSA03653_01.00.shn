@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Chikyuu Boueigun 5" Moder="Molly" Cusa="CUSA03653" Version="01.00" Process="eboot.bin">
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>E6B800</Offset>
+      <Section>0</Section>
+      <ValueOn>53-C5-FA-10-80-08-02-00-00-C5-FA-11-80-0C-02-00-00-5B-E9-24-4B-6B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>520333</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C8-B4-94-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-80-0C-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Wing Energy">
+    <Cheatline>
+      <Offset>E6B867</Offset>
+      <Section>0</Section>
+      <ValueOn>53-C5-FA-10-97-18-02-00-00-C5-FA-11-97-1C-02-00-00-5B-E9-DC-BB-46-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2D7452</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-10-44-B9-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-97-1C-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ammo + Rapid Fire">
+    <Cheatline>
+      <Offset>E6B82E</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-E7-03-00-00-41-89-84-24-18-09-00-00-B8-E7-03-00-00-41-89-84-24-D0-01-00-00-B8-01-00-00-00-41-89-84-24-0C-03-00-00-B8-00-00-00-00-41-89-84-24-18-03-00-00-E9-1E-9D-52-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>39557D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AC-62-AD-00-90-90-90</ValueOn>
+      <ValueOff>41-89-84-24-18-09-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Armor Upgrades [Have to open each classes Armor screen]">
+    <Cheatline>
+      <Offset>E6B87E</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BE-64-2E-50-09-44-89-B4-B7-0C-32-00-00-E9-47-EB-6F-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>56A3D0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A9-14-90-00-90-90-90</ValueOn>
+      <ValueOff>44-8B-B4-B7-0C-32-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max All Weapon Star Level">
+    <Cheatline>
+      <Offset>E6B891</Offset>
+      <Section>0</Section>
+      <ValueOn>49-C7-C7-0A-0A-0A-0A-49-8B-84-84-F8-AE-00-00-49-8B-84-84-FC-AE-00-00-E9-EB-C3-1F-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>67C90</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FC-3B-E0-00-90-90-90</ValueOn>
+      <ValueOff>49-8B-84-84-F8-AE-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

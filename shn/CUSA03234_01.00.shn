@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="AdVenture Capitalist" Moder="Molly" Cusa="CUSA03234" Version="01.00" Process="eboot.bin">
+  <Genres Name="Strategy" />
+  <Items />
+  <Cheat Text="Gain Money Fast">
+    <Cheatline>
+      <Offset>126B800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-81-47-14-00-7D-00-00-45-8B-77-14-4C-8B-7D-C8-E9-95-7B-23-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>804A33A2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-59-84-DC-80-90-90-90</ValueOn>
+      <ValueOff>45-8B-77-14-4C-8B-7D-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

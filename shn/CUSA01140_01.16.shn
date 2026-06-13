@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Metal Gear Solid V: The Phantom Pain" Moder="hejran7" Cusa="CUSA01140" Version="01.16" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Max GMP">
+    <Cheatline>
+      <Offset>37E78D4</Offset>
+      <Section>0</Section>
+      <ValueOn>50-00-00</ValueOn>
+      <ValueOff>50-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Fuel Resources">
+    <Cheatline>
+      <Offset>37F5D60</Offset>
+      <Section>0</Section>
+      <ValueOn>10-00-00</ValueOn>
+      <ValueOff>10-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Biological Material">
+    <Cheatline>
+      <Offset>37F5D64</Offset>
+      <Section>0</Section>
+      <ValueOn>10-00-00</ValueOn>
+      <ValueOff>10-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Common Metal">
+    <Cheatline>
+      <Offset>37F5D68</Offset>
+      <Section>0</Section>
+      <ValueOn>10-00-00</ValueOn>
+      <ValueOff>10-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Minor Metal">
+    <Cheatline>
+      <Offset>37F5D6C</Offset>
+      <Section>0</Section>
+      <ValueOn>10-00-00</ValueOn>
+      <ValueOff>10-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Precious Metal">
+    <Cheatline>
+      <Offset>37F5D70</Offset>
+      <Section>0</Section>
+      <ValueOn>10-00-00</ValueOn>
+      <ValueOff>10-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Wormwood">
+    <Cheatline>
+      <Offset>37F5D74</Offset>
+      <Section>0</Section>
+      <ValueOn>12-00</ValueOn>
+      <ValueOff>12-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Black Carrot">
+    <Cheatline>
+      <Offset>37F5D78</Offset>
+      <Section>0</Section>
+      <ValueOn>12-00</ValueOn>
+      <ValueOff>12-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Golden Crescent">
+    <Cheatline>
+      <Offset>37F5D7C</Offset>
+      <Section>0</Section>
+      <ValueOn>12-00</ValueOn>
+      <ValueOff>12-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Tarragon">
+    <Cheatline>
+      <Offset>37F5D80</Offset>
+      <Section>0</Section>
+      <ValueOn>12-00</ValueOn>
+      <ValueOff>12-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max African Peach">
+    <Cheatline>
+      <Offset>37F5D84</Offset>
+      <Section>0</Section>
+      <ValueOn>12-00</ValueOn>
+      <ValueOff>12-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Digitalis Purpurea">
+    <Cheatline>
+      <Offset>37F5D88</Offset>
+      <Section>0</Section>
+      <ValueOn>12-00</ValueOn>
+      <ValueOff>12-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Digitalis Lutea">
+    <Cheatline>
+      <Offset>37F5D8C</Offset>
+      <Section>0</Section>
+      <ValueOn>12-00</ValueOn>
+      <ValueOff>12-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Haoma">
+    <Cheatline>
+      <Offset>37F5D90</Offset>
+      <Section>0</Section>
+      <ValueOn>12-00</ValueOn>
+      <ValueOff>12-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mist Parasites">
+    <Cheatline>
+      <Offset>37F5DD8</Offset>
+      <Section>0</Section>
+      <ValueOn>60-00</ValueOn>
+      <ValueOff>60-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Camouflage Parasites">
+    <Cheatline>
+      <Offset>37F5DDC</Offset>
+      <Section>0</Section>
+      <ValueOn>60-00</ValueOn>
+      <ValueOff>60-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Armor Parasites">
+    <Cheatline>
+      <Offset>37F5DE0</Offset>
+      <Section>0</Section>
+      <ValueOn>60-00</ValueOn>
+      <ValueOff>60-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="CCCP-WG TYPE-C">
+    <Cheatline>
+      <Offset>37F5DC0</Offset>
+      <Section>0</Section>
+      <ValueOn>60-00</ValueOn>
+      <ValueOff>60-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="CCCP-WG TYPE-A">
+    <Cheatline>
+      <Offset>37F5DC4</Offset>
+      <Section>0</Section>
+      <ValueOn>60-00</ValueOn>
+      <ValueOff>60-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="CFA-WG TYPE-C">
+    <Cheatline>
+      <Offset>37F5DC8</Offset>
+      <Section>0</Section>
+      <ValueOn>60-00</ValueOn>
+      <ValueOff>60-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="CFA-WG TYPE-A">
+    <Cheatline>
+      <Offset>37F5DCC</Offset>
+      <Section>0</Section>
+      <ValueOn>60-00</ValueOn>
+      <ValueOff>60-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="WRC Generations" Moder="Reddevil82 - FW 9.00" Cusa="CUSA33609" Version="01.04" Process="eboot.bin">
+  <Genres Name="Racing" />
+  <Items />
+  <Cheat Text="Max Money">
+    <Cheatline>
+      <Offset>2207DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-18-B1-00-00-FF-C9-9A-3B-45-8B-B6-18-B1-00-00-E9-6B-9D-35-FE-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>561B2B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-80-62-CA-01-90-90</ValueOn>
+      <ValueOff>45-8B-B6-18-B1-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max F&amp;E Skills Points">
+    <Cheatline>
+      <Offset>2207DDB</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-28-B1-00-00-9F-86-01-00-44-8B-B0-28-B1-00-00-E9-FC-5F-38-0A</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>58DDE6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F0-9F-C7-01-90-90</ValueOn>
+      <ValueOff>44-8B-B0-28-B1-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Reputation Level">
+    <Cheatline>
+      <Offset>2207DF1</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-04-98-00-00-C8-42-C5-FA-10-04-98-E9-97-9B-0F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>301994</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-58-64-F0-01</ValueOn>
+      <ValueOff>C5-FA-10-04-98</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Moral">
+    <Cheatline>
+      <Offset>2207E02</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-1C-B1-00-00-00-00-C8-42-C5-FA-10-87-1C-B1-00-00-E9-EF-70-0F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2FEF00</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FD-8E-F0-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-87-1C-B1-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP ( on gain )">
+    <Cheatline>
+      <Offset>2207E19</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-20-B1-00-00-3F-42-0F-00-8B-90-20-B1-00-00-E9-24-A9-0D-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2E274C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C8-56-F2-01-90</ValueOn>
+      <ValueOff>8B-90-20-B1-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

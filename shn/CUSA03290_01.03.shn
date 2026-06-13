@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dead Island: Riptide: Definitive Edition" Moder="Celogamez" Cusa="CUSA03290" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Horror" />
+  <Items />
+  <Cheat Text="Max/Infinite Health">
+    <Cheatline>
+      <Offset>1823DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-14-0D-00-00-00-00-FA-43-E9-75-F9-F3-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>76372C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7F-06-0C-01-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-87-14-0D-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill">
+    <Cheatline>
+      <Offset>1823B50</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-F8-18-75-10-41-C7-86-34-07-00-00-00-00-80-3F-E9-17-5A-B0-FE-C4-C1-7A-11-86-34-07-00-00-E9-09-5A-B0-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>329574</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D7-A5-4F-01-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-34-07-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>1823A80</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-8D-E1-F2-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>751C0A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-71-1E-0D-01-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-85-A4-0D-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>74B498</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-29-84-9D-64-11-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>87C71D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>FF-48-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items On Use/Buy/sell (2 To Work)">
+    <Cheatline>
+      <Offset>76EED1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-FF-4E-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Weapons Durability">
+    <Cheatline>
+      <Offset>3CEA74</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-46-54</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Flashlight">
+    <Cheatline>
+      <Offset>18238B0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-5C-C5-FA-11-43-60-E9-51-3A-00-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>82730B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A0-C5-FF-00</ValueOn>
+      <ValueOff>C5-FA-11-43-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Max Fury On Kill">
+    <Cheatline>
+      <Offset>1823620</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-83-D0-1B-00-00-C5-FA-11-83-A0-1C-00-00-E9-F3-27-F4-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>765E20</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FB-D7-0B-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-A0-1C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Fury On Use">
+    <Cheatline>
+      <Offset>1823920</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-83-D0-1B-00-00-C5-FA-11-83-A0-1C-00-00-E9-12-B9-F5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>77F23F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DC-46-0A-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-A0-1C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP/Levels">
+    <Cheatline>
+      <Offset>7C5E47</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-87-80-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Money On Pick">
+    <Cheatline>
+      <Offset>1823DC0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-B8-0B-00-00-7F-96-98-00-E9-05-7B-F1-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>73B8CD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EE-84-0E-01-90-90</ValueOn>
+      <ValueOff>44-01-BB-B8-0B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

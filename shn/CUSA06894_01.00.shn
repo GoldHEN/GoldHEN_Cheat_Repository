@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Superbeat: Xonic" Moder="Fullcodes" Cusa="CUSA06894" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Auto play with Superbeat">
+    <Cheatline>
+      <Offset>80216BA1</Offset>
+      <Section>0</Section>
+      <ValueOn>48-31-C9-41-89-4F-40-90-90</ValueOn>
+      <ValueOff>39-48-18-0F-86-E2-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

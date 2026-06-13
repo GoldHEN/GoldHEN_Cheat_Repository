@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call of Duty: Ghosts" Moder="GamerX2" Cusa="CUSA00018" Version="01.20" Process="eboot.bin">
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Ammo And Grenades| Story Mode">
+    <Cheatline>
+      <Offset>3E7D33</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>44-29-7C-81-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Invincible|Story Mode">
+    <Cheatline>
+      <Offset>8BB800</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-81-FD-60-20-75-13-41-8B-85-7C-01-00-00-41-89-85-7C-01-00-00-E9-D1-72-98-FF-41-89-85-7C-01-00-00-E9-C5-72-98-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>242AE5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-16-8D-67-00-90-90</ValueOn>
+      <ValueOff>41-89-85-7C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

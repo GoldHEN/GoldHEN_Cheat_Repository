@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Metal: Hellsinger" Moder="Ali-mk" Cusa="CUSA25651" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>82939BC3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-28-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>82938BE7</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4D-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Ammo-Never-Reload">
+    <Cheatline>
+      <Offset>81FE07D7</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-86-8C-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Jumps">
+    <Cheatline>
+      <Offset>8247A8F9</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>44-88-70-19</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Rapid-Fire">
+    <Cheatline>
+      <Offset>8292680E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-1D-E6-6B-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tropico 6" Moder="Celogamez" Cusa="CUSA08154" Version="19.02" Process="eboot.bin">
+  <Genres Name="Simulation" />
+  <Genres Name="Strategy" />
+  <Items />
+  <Cheat Text="1 Bilion (On Spend)">
+    <Cheatline>
+      <Offset>6ABBDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-38-09-00-00-28-6B-6E-4E-E9-02-E5-0A-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B6A2B9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F2-1A-F5-05-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-38-09-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

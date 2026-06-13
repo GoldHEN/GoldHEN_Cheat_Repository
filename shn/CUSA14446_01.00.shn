@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lost Artifacts" Moder="fbin" Cusa="CUSA14446" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Family" />
+  <Items />
+  <Cheat Text="Recursos Infinitos">
+    <Cheatline>
+      <Offset>1817070</Offset>
+      <Section>0</Section>
+      <ValueOn>2B-74-8A-20-C7-44-88-20-E7-03-00-00-E9-46-6A-2C-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80ADDABF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AC-95-D3-80-90-90-90</ValueOn>
+      <ValueOff>2B-74-8A-20-89-74-88-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

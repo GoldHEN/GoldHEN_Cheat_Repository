@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mega Man Battle Network Legacy Collection" Moder="Wander FW9.00" Cusa="CUSA31429" Version="01.20" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health (battle network 4 Red Sun)">
+    <Cheatline>
+      <Offset>6E97720</Offset>
+      <Section>0</Section>
+      <ValueOn>83-C0-24-66-8B-0C-02-E9-DA-C4-54-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3E3BFF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1C-3B-AB-06-90-90</ValueOn>
+      <ValueOff>83-C0-24-66-89-0C-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health (battle network 4 Blue moon)">
+    <Cheatline>
+      <Offset>6E97920</Offset>
+      <Section>0</Section>
+      <ValueOn>83-C0-24-66-8B-0C-02-E9-0A-AB-F2-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DC242F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EC-54-0D-06-90-90</ValueOn>
+      <ValueOff>83-C0-24-66-89-0C-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health (Battle Network 5 Team Protoman)">
+    <Cheatline>
+      <Offset>6E97820</Offset>
+      <Section>0</Section>
+      <ValueOn>83-C1-24-80-7C-0A-40-00-75-06-66-8B-04-0A-EB-04-66-89-04-0A-E9-39-92-97-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1810A6B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B0-6D-68-05-90-90</ValueOn>
+      <ValueOff>83-C1-24-66-89-04-0A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health (battle network 5 Team Colonel)">
+    <Cheatline>
+      <Offset>6E978D0</Offset>
+      <Section>0</Section>
+      <ValueOn>83-C1-24-80-7C-0A-40-00-75-06-66-8B-04-0A-EB-04-66-89-04-0A-E9-E9-28-5B-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>244A1CB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-00-D7-A4-04-90-90</ValueOn>
+      <ValueOff>83-C1-24-66-89-04-0A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health (battle Network 6 Cybeast falzar)">
+    <Cheatline>
+      <Offset>6E979E0</Offset>
+      <Section>0</Section>
+      <ValueOn>83-C0-24-80-7C-02-40-00-75-06-66-8B-0C-02-EB-04-66-89-0C-02-E9-67-C4-F9-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3E33E59</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-82-3B-06-03-90-90</ValueOn>
+      <ValueOff>83-C0-24-66-89-0C-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health (battle Network 6 Cybeast Gregar)">
+    <Cheatline>
+      <Offset>6E97A60</Offset>
+      <Section>0</Section>
+      <ValueOn>83-C0-24-80-7C-02-40-00-75-06-66-8B-0C-02-EB-04-66-89-0C-02-E9-47-46-2A-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>313C0B9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A2-B9-D5-03-90-90</ValueOn>
+      <ValueOff>83-C0-24-66-89-0C-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

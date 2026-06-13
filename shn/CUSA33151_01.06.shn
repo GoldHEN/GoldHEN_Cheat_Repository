@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassin's Creed Mirage" Moder="Celogamez" Cusa="CUSA33151" Version="01.06" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>669BDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-97-6C-01-00-00-89-97-68-01-00-00-E9-C5-99-30-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>29A5780</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2B-66-CF-03-90</ValueOn>
+      <ValueOff>89-97-68-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kil">
+    <Cheatline>
+      <Offset>669BD70</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-68-01-00-00-00-00-00-00-E9-B9-53-2C-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2961132</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-39-AC-D3-03-90</ValueOn>
+      <ValueOff>89-B7-68-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>2E35667</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-53-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Focus">
+    <Cheatline>
+      <Offset>669BD30</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-78-02-00-00-00-00-FA-43-E9-8C-28-41-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2AAE5C3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-68-D7-BE-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-78-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Breath">
+    <Cheatline>
+      <Offset>669BCE0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-80-D8-06-00-00-C5-FA-11-80-DC-06-00-00-E9-85-37-4B-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1B4F472</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-69-C8-B4-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-80-DC-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Consumables On Use/Dirham On Buy">
+    <Cheatline>
+      <Offset>29623A5</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-2A-92-60-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina For Mount">
+    <Cheatline>
+      <Offset>2E36407</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-45-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Resources/Consumables/Upgrade Materials/Trade Goods (On Get)">
+    <Cheatline>
+      <Offset>669B800</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-43-C8-49-83-F8-00-75-0B-C7-03-9F-86-01-00-E9-15-D1-8B-FC-89-0B-E9-0E-D1-8B-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2F58924</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D7-2E-74-03</ValueOn>
+      <ValueOff>0F-43-C8-89-0B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Skill Points On Gain">
+    <Cheatline>
+      <Offset>669B7A0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-0F-43-DD-C7-42-10-63-00-00-00-89-98-48-01-00-00-E9-12-DC-75-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2DF93C1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DA-23-8A-03-90-90</ValueOn>
+      <ValueOff>41-0F-43-DD-89-5A-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

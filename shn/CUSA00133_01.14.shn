@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Batman: Arkham Knight" Moder="Rizla, Weysincha, Talixme, TLH" Cusa="CUSA00133" Version="01.14" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>274F800</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-82-5C-04-00-00-64-00-00-00-E9-A9-B3-E6-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15BABB1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4A-4C-19-01-90-90</ValueOn>
+      <ValueOff>83-BA-5C-04-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill (Disable Inf Skillpoints)">
+    <Cheatline>
+      <Offset>7507DF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1D-F4-FF-01-90-90</ValueOn>
+      <ValueOff>E9-1D-F4-FF-01-90-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>274FC01</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-81-7F-64-2B-02-0F-85-09-00-00-00-48-8B-4D-C0-E9-CF-0B-00-FE-41-C6-07-00-48-8B-4D-C0-E9-C2-0B-00-FE</ValueOn>
+      <ValueOff>66-41-81-7F-64-2B-02-0F-85-09-00-00-00-48-8B-4D-C0-E9-CF-0B-00-FE-41-89-07-90-48-8B-4D-C0-E9-C2-0B-00-FE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Skillpoints (Disable 1 Hit Before Using)">
+    <Cheatline>
+      <Offset>7507DD</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Hit for Max Special Combo">
+    <Cheatline>
+      <Offset>274FC53</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-06-00-00-00-41-C4-C1-7A-10-06-E9-59-C4-FF-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>74C0B8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-96-3B-00-02</ValueOn>
+      <ValueOff>C4-C1-7A-11-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite BatMobile Health/Armour">
+    <Cheatline>
+      <Offset>274FC35</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-60-04-00-00-60-09-00-00-45-8B-97-60-04-00-00-45-89-97-5C-04-00-00-E9-7A-B4-39-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1AEB0C6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6A-4B-C6-00-90-90</ValueOn>
+      <ValueOff>45-8B-97-5C-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easily Destory Enemy Tanks">
+    <Cheatline>
+      <Offset>274F863</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-85-5C-04-00-00-01-00-00-00-E9-2F-40-3A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1AF389A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C4-BF-C5-00-90-90-90</ValueOn>
+      <ValueOff>41-83-BD-5C-04-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Missile Barrage">
+    <Cheatline>
+      <Offset>274F820</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-85-D4-1F-00-00-C4-C1-7A-11-85-D0-1F-00-00-E9-37-80-3D-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1B27865</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B6-7F-C2-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-85-D0-1F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Afterburner">
+    <Cheatline>
+      <Offset>274F837</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-85-68-03-00-00-00-00-80-3F-C4-C1-7A-10-85-68-03-00-00-E9-79-2C-3E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1B324C0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-72-D3-C1-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-85-68-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Countdown Timer">
+    <Cheatline>
+      <Offset>14635E1</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-8E-28-01-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-11-8E-28-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Elapse Timer">
+    <Cheatline>
+      <Offset>F61594</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

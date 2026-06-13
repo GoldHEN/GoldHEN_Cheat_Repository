@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 2" Moder="Celogamez" Cusa="CUSA09193" Version="01.06" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Horror" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>62C7DF0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-EA-6F-35-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>161EDDB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-10-90-CA-04</ValueOn>
+      <ValueOff>E8-90-D4-3D-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>62C7DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4E-D0-C6-41-20-63-E9-06-63-D1-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1FDE0BC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EF-9C-2E-04-90</ValueOn>
+      <ValueOff>0F-4E-D0-89-51-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="20 Inventory Slot">
+    <Cheatline>
+      <Offset>62C7C50</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BC-14-00-00-00-44-89-A0-90-00-00-00-E9-85-2B-9F-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>CBA7E0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6B-D4-60-05-90-90</ValueOn>
+      <ValueOff>44-8B-A0-90-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items (Don't Decrease)">
+    <Cheatline>
+      <Offset>1FDCD95</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-C6-90</ValueOn>
+      <ValueOff>44-0F-4E-F0</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1FDE0BC</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C2-90</ValueOn>
+      <ValueOff>0F-4E-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Dup Ammo When Store On Storage">
+    <Cheatline>
+      <Offset>CD1086</Offset>
+      <Section>0</Section>
+      <ValueOn>89-48-20</ValueOn>
+      <ValueOff>29-48-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Save Always 0">
+    <Cheatline>
+      <Offset>62C7A10</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-F3-8A-93-FB-C6-41-24-00-E9-69-8A-93-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1C0047F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8C-75-6C-04-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-8A-00-00-00-89-41-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>161EDDB</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-90-D4-3D-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One-hit Kill">
+    <Cheatline>
+      <Offset>62C7000</Offset>
+      <Section>0</Section>
+      <ValueOn>66-9C-85-C9-74-14-48-39-C2-74-0F-81-3E-80-9E-08-0F-74-07-B9-10-27-00-00-EB-03-0F-4C-CA-29-C8-66-9D-E9-69-AC-02-FA-90-90</ValueOn>
+      <ValueOff>66-9C-85-C9-74-14-48-39-C2-74-0F-81-3E-80-9E-08-0F-74-07-B9-10-27-00-00-EB-03-0F-4C-CA-29-C8-66-9D-E9-69-AC-02-FA-90-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2F1C8A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-71-53-FD-05</ValueOn>
+      <ValueOff>0F-4C-CA-29-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>1FDE0BF</Offset>
+      <Section>0</Section>
+      <ValueOn>89-41-20</ValueOn>
+      <ValueOff>89-51-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Item Count (on use/combine/reload)">
+    <Cheatline>
+      <Offset>1FDCD95</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-C6-90</ValueOn>
+      <ValueOff>44-0F-4E-F0</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1FDE02F</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C2-90</ValueOn>
+      <ValueOff>0F-4E-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

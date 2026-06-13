@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call of Duty: Modern Warfare II" Moder="JustGotenks" Cusa="CUSA34029" Version="01.08" Process="sp22-cod.elf">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>2ED3080</Offset>
+      <Section>0</Section>
+      <ValueOn>66-9C-41-83-3E-00-74-0C-66-9D-4C-89-4C-24-28-E9-9B-3E-A1-FE-49-C7-C1-00-00-00-00-EB-EB-90-90-90</ValueOn>
+      <ValueOff>66-9C-41-83-3E-00-74-0C-66-9D-4C-89-4C-24-28-E9-9B-3E-A1-FE-49-C7-C1-00-00-00-00-EB-EB-90-90-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>18E6F2A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-51-C1-5E-01</ValueOn>
+      <ValueOff>4C-89-4C-24-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Bullets/Grenades">
+    <Cheatline>
+      <Offset>2ED3000</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-49-DF-0F-48-DA-0F-48-FA-89-5C-88-60-E9-15-44-70-FF-90-90</ValueOn>
+      <ValueOff>0F-49-DF-0F-48-DA-0F-48-FA-89-5C-88-60-E9-15-44-70-FF-90-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25D7420</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DB-BB-8F-00-90-90</ValueOn>
+      <ValueOff>0F-49-DF-89-5C-88-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One-hit Kill">
+    <Cheatline>
+      <Offset>2ED3190</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-3E-00-74-07-41-83-7E-14-01-74-0C-80-BF-0C-AC-00-00-00-E9-81-3D-A1-FE-49-C7-C1-A0-86-01-00-EB-EB-90-90</ValueOn>
+      <ValueOff>41-83-3E-00-74-07-41-83-7E-14-01-74-0C-80-BF-0C-AC-00-00-00-E9-81-3D-A1-FE-49-C7-C1-A0-86-01-00-EB-EB-90-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>18E6F23</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-68-C2-5E-01-90-90</ValueOn>
+      <ValueOff>80-BF-0C-AC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Better Accuracy">
+    <Cheatline>
+      <Offset>220BD5D</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-57-C0</ValueOn>
+      <ValueOff>C5-F2-5F-C0</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25F900B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-28-0C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Magazine">
+    <Cheatline>
+      <Offset>25E49EB</Offset>
+      <Section>0</Section>
+      <ValueOn>83-E9-00</ValueOn>
+      <ValueOff>44-29-F9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Godmode for all">
+    <Cheatline>
+      <Offset>2ED3150</Offset>
+      <Section>0</Section>
+      <ValueOn>49-C7-C1-00-00-00-00-4C-89-4C-24-28-E9-CE-3D-A1-FE-90-90-90</ValueOn>
+      <ValueOff>49-C7-C1-00-00-00-00-4C-89-4C-24-28-E9-CE-3D-A1-FE-90-90-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>18E6F2A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-21-C2-5E-01</ValueOn>
+      <ValueOff>4C-89-4C-24-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Marvel's Spider-Man" Moder="Reddevil82 - FW 9.00" Cusa="CUSA11993" Version="01.19" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Mastercode ( must be activate for [ MC ] Cheats )" Description="Mastercode ( must be activate for [ MC ] Cheats )">
+    <Cheatline>
+      <Offset>3BEBC9C</Offset>
+      <Section>0</Section>
+      <ValueOn>81-B8-A0-00-00-00-00-00-80-3F-75-23-80-3D-71-43-3D-00-01-75-07-C7-40-68-00-00-FA-43-80-3D-62-43-3D-00-01-75-0A-F3-0F-10-40-68-F3-0F-11-40-70-C5-F8-57-C0-C5-F8-2E-40-70-E9-47-24-DE-FD-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>19CE11B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7C-DB-21-02</ValueOn>
+      <ValueOff>C5-F8-2E-40-70</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3BEBCDB</Offset>
+      <Section>0</Section>
+      <ValueOn>80-3D-40-43-3D-00-01-74-0B-80-3D-38-43-3D-00-01-74-30-EB-5A-C6-05-2C-43-3D-00-00-50-8B-03-A3-80-00-3C-04-00-00-00-00-8B-43-04-A3-84-00-3C-04-00-00-00-00-8B-43-08-A3-88-00-3C-04-00-00-00-00-58-EB-2C-C6-05-FF-42-3D-00-00-83-3D-55-43-3D-00-00-74-1C-52-8B-15-4C-43-3D-00-89-13-8B-15-48-43-3D-00-89-53-04-8B-15-43-43-3D-00-89-53-08-5A-C5-FA-10-03-C5-FA-10-4B-04-E9-2F-1E-E1-FD-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>19FDB81</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-55-E1-1E-02</ValueOn>
+      <ValueOff>C5-FA-10-4B-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health [ MC ]" Description="Infinite Health [ MC ]">
+    <Cheatline>
+      <Offset>3FC0021</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Health [ MC ]" Description="Max Health [ MC ]">
+    <Cheatline>
+      <Offset>3FC0020</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Focus" Description="Infinite Focus">
+    <Cheatline>
+      <Offset>3BEBBD0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-84-C7-14-01-00-00-C5-FA-11-84-C7-10-01-00-00-C5-FA-10-84-C7-10-01-00-00-E9-E7-10-93-FC-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>51CCCE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FD-EE-6C-03-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-84-C7-10-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stealth Mode" Description="Stealth Mode">
+    <Cheatline>
+      <Offset>3BEBC04</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C0-C4-C1-7A-11-44-24-2C-E9-F2-0E-C0-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7ECAFE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-01-F1-3F-03-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-44-24-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP ( on gain )" Description="Max XP ( on gain )">
+    <Cheatline>
+      <Offset>3BEBC13</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-85-48-B8-00-00-40-0D-03-00-E9-31-23-58-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>16DF4D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C1-DC-A7-03-90-90</ValueOn>
+      <ValueOff>41-89-9D-48-B8-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Skillpoints" Description="Max Skillpoints">
+    <Cheatline>
+      <Offset>3BEBC23</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-50-B8-00-00-32-00-00-00-83-BB-50-B8-00-00-00-E9-83-25-58-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>16E1B5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-69-DA-A7-03-90-90</ValueOn>
+      <ValueOff>83-BB-50-B8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Combo" Description="Max Combo">
+    <Cheatline>
+      <Offset>3BEBC39</Offset>
+      <Section>0</Section>
+      <ValueOn>83-F8-22-41-C7-46-58-E7-03-00-00-E9-1F-1C-8F-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4DD861</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D3-E3-70-03-90-90</ValueOn>
+      <ValueOff>83-F8-22-41-89-4E-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ressources + Shoots" Description="Max Ressources + Shoots">
+    <Cheatline>
+      <Offset>3BEBC49</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-18-E7-03-00-00-E8-7B-32-C6-FD-E9-5B-F1-C5-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>184ADB0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-94-0E-3A-02</ValueOn>
+      <ValueOff>E8-1B-41-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Save Position [ MC ]" Description="Save Position [ MC ]">
+    <Cheatline>
+      <Offset>3FC0022</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Load Position [ MC ]" Description="Load Position [ MC ]">
+    <Cheatline>
+      <Offset>3FC0023</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Benchmarks" Description="Max Benchmarks">
+    <Cheatline>
+      <Offset>3BEBC5A</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-0C-00-50-C3-47-C5-FA-10-40-0C-E9-C5-D1-F1-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B08E2B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2A-2E-0E-03</ValueOn>
+      <ValueOff>C5-FA-10-40-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Score ( on gain )" Description="Max Score ( on gain )">
+    <Cheatline>
+      <Offset>3BEBC6B</Offset>
+      <Section>0</Section>
+      <ValueOn>44-89-57-54-C5-FA-58-87-4C-01-00-00-44-89-97-4C-01-00-00-E9-09-B8-C3-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>827477</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EF-47-3C-03</ValueOn>
+      <ValueOff>C5-FA-11-4F-54</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Timer" Description="Max Timer">
+    <Cheatline>
+      <Offset>3BEBC83</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-47-64-00-C0-15-44-E9-48-1B-C3-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81D7D2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AC-E4-3C-03-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-64</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3BEBC90</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-64-00-C0-15-44-E9-2E-EF-AE-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6DABC5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C6-10-51-03</ValueOn>
+      <ValueOff>C5-FA-11-43-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

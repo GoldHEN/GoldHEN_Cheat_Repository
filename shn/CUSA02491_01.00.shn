@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mass Effect: Andromeda" Moder="Weysincha" Cusa="CUSA02491" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="RPG" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Inf Ammo">
+    <Cheatline>
+      <Offset>11FFE53</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>66-89-88-F4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf HP">
+    <Cheatline>
+      <Offset>3B8F800</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-F9-13-75-19-49-83-FA-0D-75-13-C4-C1-7A-10-44-24-20-C4-C1-7A-11-44-24-1C-E9-E9-B6-95-FD-C4-C1-7A-11-44-24-1C-E9-DD-B6-95-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14EAF01</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FA-48-6A-02-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-44-24-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Credits / Money (On buy)">
+    <Cheatline>
+      <Offset>3B8F82B</Offset>
+      <Section>0</Section>
+      <ValueOn>85-C9-0F-84-E5-D0-30-FD-29-C8-B8-7F-96-98-00-E9-BF-D0-30-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E9C8F8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2E-2F-CF-02-90</ValueOn>
+      <ValueOff>85-C9-74-1C-29-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Skillpoints">
+    <Cheatline>
+      <Offset>3B8F83F</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-82-F3-13-46-FD-BA-E7-03-00-00-89-16-E9-6B-0A-46-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FF02B4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-86-F5-B9-02-90-90-90</ValueOn>
+      <ValueOff>0F-82-84-09-00-00-89-16</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

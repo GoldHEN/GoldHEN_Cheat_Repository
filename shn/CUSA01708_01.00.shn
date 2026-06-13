@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Devil May Cry 4: Special Edition" Moder="Weysincha" Cusa="CUSA01708" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf HP">
+    <Cheatline>
+      <Offset>EE7232</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-40-C5-FA-5C-D9-83-BB-9C-00-00-00-03-0F-85-A4-EA-3A-FF-E9-A4-EA-3A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>295CE3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4A-15-C5-00</ValueOn>
+      <ValueOff>C5-FA-10-43-40-C5-FA-5C-D9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Nero Inf Max Act">
+    <Cheatline>
+      <Offset>5E050A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-83-10-0D-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Nero Instant Charge Shot">
+    <Cheatline>
+      <Offset>60C9B4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>0F-B7-42-0A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Dante Inf Round Trip">
+    <Cheatline>
+      <Offset>5AE92E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-20-99-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Dante Inf Disaster Gauge">
+    <Cheatline>
+      <Offset>C0909</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-83-D4-9E-01-00</ValueOn>
+      <ValueOff>C5-FA-10-83-D4-9E-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Dante Inf Royal Guard">
+    <Cheatline>
+      <Offset>C07BE</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-83-40-99-01-00</ValueOn>
+      <ValueOff>C5-FA-10-83-40-99-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Vergil Inf Concentration Gauge">
+    <Cheatline>
+      <Offset>1140F3</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-83-60-91-00-00</ValueOn>
+      <ValueOff>C5-F8-2E-83-60-91-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Vergil Inf Round Trip">
+    <Cheatline>
+      <Offset>11FCA4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-8C-91-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Vergil Instant Charge Round Trip">
+    <Cheatline>
+      <Offset>EE7817</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-10-00-00-48-42-E9-A9-50-72-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>60C8C5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4D-AF-8D-00-90-90</ValueOn>
+      <ValueOff>C7-43-10-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Lady Instant Charge Shot">
+    <Cheatline>
+      <Offset>60C9AF</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-4E-10</ValueOn>
+      <ValueOff>C5-FA-11-46-10</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DCACF</Offset>
+      <Section>0</Section>
+      <ValueOn>4C-89-B3-B4-20-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-A3-B4-20-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Trish Inf Round Trip">
+    <Cheatline>
+      <Offset>106B90</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-8B-FC-B4-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-83-FC-B4-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy SSS Style">
+    <Cheatline>
+      <Offset>22428A</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-11-8E-84-01-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-84-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Mission Time">
+    <Cheatline>
+      <Offset>1AC83D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Devil Trigger">
+    <Cheatline>
+      <Offset>5977D4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-83-68-2A-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5976DD</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-64-2A-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5984BF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-64-2A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Red Orbs">
+    <Cheatline>
+      <Offset>203BE4</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-00-0F-24-3F-90</ValueOn>
+      <ValueOff>8B-83-84-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Proud Souls">
+    <Cheatline>
+      <Offset>22004C</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-00-0F-24-3F</ValueOn>
+      <ValueOff>3D-3F-42-0F-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>220078</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-00-0F-24-3F</ValueOn>
+      <ValueOff>3D-3F-42-0F-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>22001C</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-00-0F-24-3F</ValueOn>
+      <ValueOff>3D-3F-42-0F-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2200CA</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-00-0F-24-3F</ValueOn>
+      <ValueOff>3D-3F-42-0F-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2200A1</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-00-0F-24-3F</ValueOn>
+      <ValueOff>3D-3F-42-0F-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Devilstar L in Inventory">
+    <Cheatline>
+      <Offset>21FC55</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-0A-00-00-00-90</ValueOn>
+      <ValueOff>83-FB-0A-0F-4E-D3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Gold Orbs Hell and Hell">
+    <Cheatline>
+      <Offset>167B76</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-88-BC-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Gold Orbs in Inventory">
+    <Cheatline>
+      <Offset>21F98B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-57-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Health Enemy and Player for Practice">
+    <Cheatline>
+      <Offset>295CEC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-5B-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Mission Red Orbs Pick One at Least">
+    <Cheatline>
+      <Offset>EE7800</Offset>
+      <Section>0</Section>
+      <ValueOn>44-8B-B3-8A-01-00-00-41-8A-04-24-44-89-B3-8C-01-00-00-E9-A1-C4-31-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>203CAD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4E-3B-CE-00-90-90-90-90-90-90</ValueOn>
+      <ValueOff>44-01-B3-8C-01-00-00-41-8A-04-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mission Red Orbsx99">
+    <Cheatline>
+      <Offset>203CAD</Offset>
+      <Section>0</Section>
+      <ValueOn>80-83-8C-01-00-00-99</ValueOn>
+      <ValueOff>44-01-B3-8C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
+
+
+
+
+
+
+
+
+

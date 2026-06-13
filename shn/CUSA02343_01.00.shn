@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Uncharted: The Nathan Drake Collection" Moder="DeathRGH" Cusa="CUSA02343" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Enable Debug Menu">
+    <Cheatline>
+      <Offset>14C4FD</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-81-21-48-00-00-00-EB-04-C1-0B-00-00-C6-81-8C-48-00-00-01-EB-05-84-B3-0B-00-00</ValueOn>
+      <ValueOff>C6-81-21-48-00-00-00-EB-04-C1-0B-00-00-C6-81-8C-48-00-00-01-EB-05-84-B3-0B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Enable Debug Menu">
+    <Cheatline>
+      <Offset>16218D</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-81-01-4C-00-00-00-EB-04-C1-0B-00-00-C6-81-FC-4B-00-00-01-EB-05-84-B3-0B-00-00</ValueOn>
+      <ValueOff>C6-81-01-4C-00-00-00-EB-04-C1-0B-00-00-C6-81-FC-4B-00-00-01-EB-05-84-B3-0B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Enable Debug Menu">
+    <Cheatline>
+      <Offset>2CF8B0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-87-E8-47-00-00-00-EB-04-AC-0E-00-00-41-C6-87-44-48-00-00-01-EB-05-84-9D-0E-00-00</ValueOn>
+      <ValueOff>41-C6-87-E8-47-00-00-00-EB-04-AC-0E-00-00-41-C6-87-44-48-00-00-01-EB-05-84-9D-0E-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

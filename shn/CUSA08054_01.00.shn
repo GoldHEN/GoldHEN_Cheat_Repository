@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Seven Deadly Sins: Knights of Britannia" Moder="Weysincha" Cusa="CUSA08054" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Arcade" />
+  <Genres Name="Fighting" />
+  <Items />
+  <Cheat Text="Inf Health">
+    <Cheatline>
+      <Offset>1297800</Offset>
+      <Section>0</Section>
+      <ValueOn>F2-44-0F-5A-F8-41-83-7F-1C-02-0F-85-22-74-68-7F-90-90-90-90-90-E9-1D-74-68-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8091EC2D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CE-8B-97-80</ValueOn>
+      <ValueOff>F2-44-0F-5A-F8</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

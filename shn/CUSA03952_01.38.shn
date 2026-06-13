@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="No Man's Sky" Moder="DreamRunner" Cusa="CUSA03952" Version="01.38" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="set 99999 resources (craft)">
+    <Cheatline>
+      <Offset>1603800</Offset>
+      <Section>0</Section>
+      <ValueOn>85-DB-C7-40-18-9F-86-01-00-E9-08-58-1E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7E9011</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EA-A7-E1-00</ValueOn>
+      <ValueOff>85-DB-89-48-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="set 99999 res (tools) ">
+    <Cheatline>
+      <Offset>160380E</Offset>
+      <Section>0</Section>
+      <ValueOn>29-D0-C7-46-18-9F-86-01-00-E9-D4-C3-1E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7EFBEB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1E-3C-E1-00</ValueOn>
+      <ValueOff>29-D0-89-46-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

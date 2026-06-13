@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sniper Elite 5" Moder="Celogamez" Cusa="CUSA16164" Version="01.24" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Max/Infinite Health/1 Shot Kills (Master Code)">
+    <Cheatline>
+      <Offset>127BDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>80-BB-84-00-00-00-01-75-12-C5-FA-11-4B-60-C5-FA-11-4B-60-E9-E1-5B-09-FF-0F-57-C9-C5-FA-11-4B-60-E9-D4-5B-09-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3119A4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-07-A4-F6-00</ValueOn>
+      <ValueOff>C5-FA-11-4B-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Health (Enable MC)">
+    <Cheatline>
+      <Offset>127BDB9</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-4B-64</ValueOn>
+      <ValueOff>C5-FA-11-4B-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Shot Kills (Enable MC)">
+    <Cheatline>
+      <Offset>127BDB7</Offset>
+      <Section>0</Section>
+      <ValueOn>75-0F</ValueOn>
+      <ValueOff>75-12</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina (For Running)">
+    <Cheatline>
+      <Offset>E0DB1E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4F-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Focus">
+    <Cheatline>
+      <Offset>127BC20</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-FA-17-75-11-C4-C1-7A-10-47-14-C4-C1-7A-11-47-10-E9-AD-10-B9-FF-C4-C1-7A-11-47-10-E9-A2-10-B9-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E0CCDE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3D-EF-46-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Ammo/Items">
+    <Cheatline>
+      <Offset>1279D80</Offset>
+      <Section>0</Section>
+      <ValueOn>85-F6-C7-43-2C-FA-00-00-00-E9-9A-77-9C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C41523</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-58-88-63-00</ValueOn>
+      <ValueOff>85-F6-89-43-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>1279D30</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-46-FE-8B-79-40-E9-60-10-9A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C1AD95</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-96-EF-65-00-90</ValueOn>
+      <ValueOff>0F-46-FE-89-79-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP/Levels/Skill Points On Gain (Disable/Restart The Game)">
+    <Cheatline>
+      <Offset>127B6D0</Offset>
+      <Section>0</Section>
+      <ValueOn>53-50-C7-47-38-3F-42-0F-00-E9-83-8E-A3-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>CB455C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6F-71-5C-00</ValueOn>
+      <ValueOff>53-50-89-77-38</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>127BBF0</Offset>
+      <Section>0</Section>
+      <ValueOn>49-8B-46-08-41-C7-45-08-3F-42-0F-00-E9-ED-DE-46-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6E9AE6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-05-21-B9-00-90-90-90</ValueOn>
+      <ValueOff>49-8B-46-08-49-89-45-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

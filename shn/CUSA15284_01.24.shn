@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Power Rangers: Battle for the Grid" Moder="Saso_900" Cusa="CUSA15284" Version="01.24" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf HP / Easy Win (Master Code)">
+    <Cheatline>
+      <Offset>1CECC00</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-40-08-66-81-FD-F0-5D-75-14-52-48-8B-55-38-83-BA-EC-05-00-00-01-5A-75-05-BB-28-23-00-00-89-5C-88-20-E9-16-DA-DA-7F-90-52-48-8B-55-38-83-BA-EC-05-00-00-00-5A-75-E7-83-FB-01-7E-E2-BB-01-00-00-00-EB-DB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81A9A636</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C5-25-25-80-90-90-90</ValueOn>
+      <ValueOff>48-8B-40-08-89-5C-88-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Win (MC)">
+    <Cheatline>
+      <Offset>1CECC18</Offset>
+      <Section>0</Section>
+      <ValueOn>75-0F</ValueOn>
+      <ValueOff>75-05</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Ultra/ Super Instant Refill  (Master Code)">
+    <Cheatline>
+      <Offset>1CECCA0</Offset>
+      <Section>0</Section>
+      <ValueOn>49-81-FA-1E-01-00-00-75-30-66-81-FD-30-5E-75-3A-41-53-52-48-BA-F0-FF-FF-FF-0F-00-00-00-4C-8D-5C-88-20-49-09-D3-66-41-83-FB-F0-5A-41-5B-75-0A-44-89-64-88-20-E9-44-DA-DA-7F-44-89-7C-88-20-E9-3A-DA-DA-7F-90-45-31-FF-EB-F0-90-66-81-FD-D0-5D-75-E8-41-53-52-48-BA-F0-FF-FF-FF-0F-00-00-00-4C-8D-5C-88-20-49-09-D3-66-41-83-FB-F4-5A-41-5B-74-BF-EB-C7</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81A9A718</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-83-25-25-80</ValueOn>
+      <ValueOff>44-89-7C-88-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Enemy Super 0 (MC)">
+    <Cheatline>
+      <Offset>1CECCCD</Offset>
+      <Section>0</Section>
+      <ValueOn>75-15</ValueOn>
+      <ValueOff>75-0A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Enemy Ultra 0 (MC)">
+    <Cheatline>
+      <Offset>1CECD10</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-D2</ValueOn>
+      <ValueOff>EB-C7</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Metal Gear Solid V: The Definitive Experience" Moder="cjwine" Cusa="CUSA05662" Version="01.05" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="INF AMMO">
+    <Cheatline>
+      <Offset>D22DA2</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-87-90-03-00-00</ValueOn>
+      <ValueOff>03-87-8C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="grand inf">
+    <Cheatline>
+      <Offset>25D3800</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-65-83-53-FE-8B-50-04-E9-6A-71-53-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B0A970</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8B-8E-AC-01-90-90</ValueOn>
+      <ValueOff>E8-FB-11-00-00-8B-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="GOD MODE">
+    <Cheatline>
+      <Offset>C34950</Offset>
+      <Section>0</Section>
+      <ValueOn>C3</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="reload inf">
+    <Cheatline>
+      <Offset>25D380D</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-78-04-89-38-E9-BC-05-53-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B03DCE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3A-FA-AC-01</ValueOn>
+      <ValueOff>0F-42-F9-89-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="enemy you can not reach">
+    <Cheatline>
+      <Offset>136EE20</Offset>
+      <Section>0</Section>
+      <ValueOn>C3</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="frezz enemy">
+    <Cheatline>
+      <Offset>40CC00</Offset>
+      <Section>0</Section>
+      <ValueOn>C3</ValueOn>
+      <ValueOff>55</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

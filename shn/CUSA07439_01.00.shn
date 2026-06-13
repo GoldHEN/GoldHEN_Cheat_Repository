@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dark Souls III: The Fire Fades Edition" Moder="Shiningami/Rizla" Cusa="CUSA07439" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Master code">
+    <Cheatline>
+      <Offset>473F800</Offset>
+      <Section>0</Section>
+      <ValueOn>53-48-89-C3-48-89-1D-F5-47-4C-FB-5B-8B-88-E4-00-00-00-89-88-E4-00-00-00-8B-88-F0-00-00-00-89-88-F0-00-00-00-8B-88-D8-00-00-00-89-88-D8-00-00-00-48-8B-88-D8-00-00-00-E9-B7-CD-57-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>CBC5EC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0F-32-A8-03-90-90</ValueOn>
+      <ValueOff>48-8B-88-D8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>473F824</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-88-DC-00-00-00</ValueOn>
+      <ValueOff>8B-88-D8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Magic">
+    <Cheatline>
+      <Offset>473F80C</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-88-E8-00-00-00</ValueOn>
+      <ValueOff>8B-88-E4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>473F818</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-88-F4-00-00-00</ValueOn>
+      <ValueOff>8B-88-F0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill">
+    <Cheatline>
+      <Offset>473F83C</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-80-C0-18-00-00-48-8B-40-18-48-3B-05-B2-47-4C-FB-0F-84-8E-95-AA-FC-C7-80-D8-00-00-00-02-00-00-00-E9-7F-95-AA-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11E8DD7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-60-6A-55-03-90-90-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-80-C0-18-00-00-48-8B-40-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Souls">
+    <Cheatline>
+      <Offset>473F863</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-FF-C9-9A-3B-89-50-74-29-CA-E9-86-77-91-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1056FF3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6B-88-6E-03</ValueOn>
+      <ValueOff>89-50-74-29-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Weapon Durability">
+    <Cheatline>
+      <Offset>473F884</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-00-00-00-00-89-77-14-C3-90-E9-62-75-B6-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12A6DF0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8F-8A-49-03</ValueOn>
+      <ValueOff>89-77-14-C3-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Armour Durability">
+    <Cheatline>
+      <Offset>473F8E6</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-00-00-00-00-89-77-14-C3-90-E9-30-6D-B6-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12A6620</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C1-92-49-03</ValueOn>
+      <ValueOff>89-77-14-C3-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items on Use">
+    <Cheatline>
+      <Offset>473F872</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BD-63-00-00-00-44-89-6B-08-45-85-ED-E9-D8-7B-50-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C47455</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-18-84-AF-03-90-90</ValueOn>
+      <ValueOff>44-89-6B-08-45-85-ED</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Effects">
+    <Cheatline>
+      <Offset>473F893</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-DF-B9-E7-03-00-00-89-4B-10-E9-6F-AF-8C-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>100A80C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-82-50-73-03-90</ValueOn>
+      <ValueOff>48-89-DF-89-4B-10</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>473F8A3</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-DF-41-BC-E7-03-00-00-44-89-63-14-E9-9A-AF-8C-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>100A848</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-56-50-73-03-90-90</ValueOn>
+      <ValueOff>48-89-DF-44-89-63-14</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>473F8B5</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-DF-B9-E7-03-00-00-89-4B-18-E9-CD-AF-8C-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>100A88C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-24-50-73-03-90</ValueOn>
+      <ValueOff>48-89-DF-89-4B-18</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>473F8C5</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-DF-41-BC-E7-03-00-00-44-89-63-1C-E9-F8-AF-8C-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>100A8C8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F8-4F-73-03-90-90</ValueOn>
+      <ValueOff>48-89-DF-44-89-63-1C</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>473F8D7</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C1-B9-E7-03-00-00-89-4B-20-E9-1E-B0-8C-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>100A8FF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D3-4F-73-03</ValueOn>
+      <ValueOff>89-C1-89-4B-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Crash Bandicoot: N. Sane Trilogy" Moder="Weysincha/Talixme" Cusa="CUSA07399" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>2583CC1A0</Offset>
+      <Section>0</Section>
+      <ValueOn>E7-03-00-00</ValueOn>
+      <ValueOff>E7-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Apples to 99">
+    <Cheatline>
+      <Offset>2583CD8E0</Offset>
+      <Section>0</Section>
+      <ValueOn>63-00-00-00</ValueOn>
+      <ValueOff>63-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Lives to 999">
+    <Cheatline>
+      <Offset>24F5EA114</Offset>
+      <Section>0</Section>
+      <ValueOn>E7-03-00-00</ValueOn>
+      <ValueOff>E7-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Boxes to 999">
+    <Cheatline>
+      <Offset>2583CC0E0</Offset>
+      <Section>0</Section>
+      <ValueOn>E7-03-00-00</ValueOn>
+      <ValueOff>E7-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Diamonds to 99">
+    <Cheatline>
+      <Offset>24F5EA11C</Offset>
+      <Section>0</Section>
+      <ValueOn>63-00-00-00</ValueOn>
+      <ValueOff>63-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Platin to 99">
+    <Cheatline>
+      <Offset>24F5EA128</Offset>
+      <Section>0</Section>
+      <ValueOn>63-00-00-00</ValueOn>
+      <ValueOff>63-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Gold to 99">
+    <Cheatline>
+      <Offset>24F5EA124</Offset>
+      <Section>0</Section>
+      <ValueOn>63-00-00-00</ValueOn>
+      <ValueOff>63-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Saphir to 99">
+    <Cheatline>
+      <Offset>24F5EA120</Offset>
+      <Section>0</Section>
+      <ValueOn>63-00-00-00</ValueOn>
+      <ValueOff>63-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Keys to 99">
+    <Cheatline>
+      <Offset>24F5EA118</Offset>
+      <Section>0</Section>
+      <ValueOn>63-00-00-00</ValueOn>
+      <ValueOff>63-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Crystals to 99">
+    <Cheatline>
+      <Offset>24F5EA12C</Offset>
+      <Section>0</Section>
+      <ValueOn>63-00-00-00</ValueOn>
+      <ValueOff>63-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

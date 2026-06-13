@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Bite the Bullet" Moder="Reddevil82 - FW 9.00" Cusa="CUSA20549" Version="01.01" Process="eboot.bin">
+  <Genres Name="Arcade" />
+  <Items />
+  <Cheat Text="Infinite Health" Description="Infinite Health">
+    <Cheatline>
+      <Offset>183FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-46-4C-C4-C1-7A-11-46-40-E9-D7-21-B6-7E-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>803A1F92</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-19-DE-49-81-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-46-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Health" Description="Max Health">
+    <Cheatline>
+      <Offset>183FDD5</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-47-4C-00-00-48-43-C4-C1-7A-10-47-4C-E9-41-0D-E7-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>806B0B23</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AD-F2-18-81-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-47-4C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Special" Description="Infinite Special">
+    <Cheatline>
+      <Offset>183FDE8</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-50-C5-FA-11-43-44-E9-61-23-B6-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>803A2153</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-90-DC-49-81</ValueOn>
+      <ValueOff>C5-FA-11-43-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Special" Description="Max Special">
+    <Cheatline>
+      <Offset>183FDF7</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-50-00-00-48-43-C5-FA-10-48-50-E9-87-23-B6-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>803A218A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-68-DC-49-81</ValueOn>
+      <ValueOff>C5-FA-10-48-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Lives ( after Die )" Description="Max Lives ( after Die )">
+    <Cheatline>
+      <Offset>183FE08</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-2C-C0-C7-43-48-09-00-00-00-E9-DB-25-B6-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>803A23EC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-17-DA-49-81-90-90</ValueOn>
+      <ValueOff>C5-FA-2C-C0-89-43-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo - Grenades" Description="Infinite Ammo - Grenades">
+    <Cheatline>
+      <Offset>183FE18</Offset>
+      <Section>0</Section>
+      <ValueOn>85-C0-0F-8E-6C-B5-CE-7E-FF-C8-41-8B-47-24-E9-5D-B5-CE-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8052B382</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-91-4A-31-81-90</ValueOn>
+      <ValueOff>85-C0-7E-06-FF-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ammo" Description="Max Ammo">
+    <Cheatline>
+      <Offset>183FE2B</Offset>
+      <Section>0</Section>
+      <ValueOn>49-8B-9F-50-06-00-00-41-C7-45-24-E7-03-00-00-E9-93-EB-B6-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>803AE9CB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5B-14-49-81-90-90</ValueOn>
+      <ValueOff>49-8B-9F-50-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Grenades" Description="Max Grenades">
+    <Cheatline>
+      <Offset>183FE40</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-24-E7-03-00-00-45-8B-64-24-24-E9-65-ED-B6-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>803AEBB3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-88-12-49-81</ValueOn>
+      <ValueOff>45-8B-64-24-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Protein" Description="Max Protein">
+    <Cheatline>
+      <Offset>183FE53</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-58-43-64-C7-43-64-00-00-7A-44-E9-A9-E8-BA-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>803EE708</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-46-17-45-81</ValueOn>
+      <ValueOff>C5-FA-58-43-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Zero Fat" Description="Zero Fat">
+    <Cheatline>
+      <Offset>183FE64</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-60-00-00-00-00-C5-FA-58-43-60-E9-E8-E6-BA-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>803EE558</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-07-19-45-81</ValueOn>
+      <ValueOff>C5-FA-58-43-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP ( on gain )" Description="Max XP ( on gain )">
+    <Cheatline>
+      <Offset>183FE75</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-24-80-4F-C3-47-E9-26-9D-E7-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>806B9BA2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CE-62-18-81-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-44-24-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Level ( on gain )" Description="Max Level ( on gain )">
+    <Cheatline>
+      <Offset>183FE83</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-20-63-00-00-00-45-8B-74-24-20-E9-B4-9C-E7-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>806B9B45</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-39-63-18-81</ValueOn>
+      <ValueOff>45-8B-74-24-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Skillpoints" Description="Max Skillpoints">
+    <Cheatline>
+      <Offset>183FE96</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-28-0F-27-00-00-8B-43-28-4C-89-7D-B8-E9-DD-C5-F4-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8078C47F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-12-3A-0B-81-90-90</ValueOn>
+      <ValueOff>8B-43-28-4C-89-7D-B8</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

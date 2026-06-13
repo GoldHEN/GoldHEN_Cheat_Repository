@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="NBA 2K17" Moder="nolberto82" Cusa="CUSA05040" Version="01.12" Process="eboot.bin">
+  <Genres Name="Sports" />
+  <Items />
+  <Cheat Text="Make Most Shots Hold Left Dpad">
+    <Cheatline>
+      <Offset>3343800</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-00-00-00-00-48-B9-88-83-40-00-08-00-00-00-48-8B-09-48-81-E1-80-00-00-00-0F-85-EB-F6-2E-FE-E9-FD-F5-2E-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1632E1C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DF-09-D1-01</ValueOn>
+      <ValueOff>BA-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1.25x Game Clock And Shot Clock">
+    <Cheatline>
+      <Offset>18D3284</Offset>
+      <Section>0</Section>
+      <ValueOn>48-B8-00-00-A0-3F-09-00-00-00</ValueOn>
+      <ValueOff>48-B8-00-00-80-3F-09-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

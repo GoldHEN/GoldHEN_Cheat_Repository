@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Raiden V: Director's Cut" Moder="Molly" Cusa="CUSA07673" Version="01.02" Process="eboot.bin">
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite bombs">
+    <Cheatline>
+      <Offset>293806</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-D8-E0-EB-FF-B0-03-88-07-E9-D5-E0-EB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1518E4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1D-1F-14-00-90</ValueOn>
+      <ValueOff>74-04-FE-C8-88-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Player Score">
+    <Cheatline>
+      <Offset>293815</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-47-C1-B8-F6-C9-9A-3B-89-47-14-E9-50-82-E4-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DBA6F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A1-7D-1B-00-90</ValueOn>
+      <ValueOff>0F-47-C1-89-47-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Stage Score">
+    <Cheatline>
+      <Offset>293825</Offset>
+      <Section>0</Section>
+      <ValueOn>45-89-6F-0C-BF-F6-C9-9A-3B-41-89-7F-08-E9-D7-54-EA-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>138D06</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1A-AB-15-00-90-90-90</ValueOn>
+      <ValueOff>45-89-6F-0C-41-89-7F-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Cheer Call Gauge">
+    <Cheatline>
+      <Offset>293837</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-46-C8-B9-20-AA-44-00-89-0F-E9-7A-F5-EB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>152DBB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-77-0A-14-00</ValueOn>
+      <ValueOff>0F-46-C8-89-0F</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>293846</Offset>
+      <Section>0</Section>
+      <ValueOn>05-73-DF-FF-FF-B8-20-AA-44-00-89-07-E9-54-F5-EB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>152DA4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9D-0A-14-00-90-90</ValueOn>
+      <ValueOff>05-73-DF-FF-FF-89-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>293857</Offset>
+      <Section>0</Section>
+      <ValueOn>BF-9A-99-07-00-41-89-B8-BC-46-00-00-E9-AC-9D-EE-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>17D60D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-45-62-11-00-90-90</ValueOn>
+      <ValueOff>41-89-B8-BC-46-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

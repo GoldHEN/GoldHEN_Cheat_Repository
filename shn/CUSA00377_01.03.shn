@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lords of the Fallen" Moder="Wander FW9.00" Cusa="CUSA00377" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Max/Infinite Health">
+    <Cheatline>
+      <Offset>7FC4BF00</Offset>
+      <Section>0</Section>
+      <ValueOn>41-80-BC-24-CC-00-00-00-01-74-13-C4-C1-7A-10-54-24-78-C4-C1-7A-11-54-24-74-E9-45-78-5E-80-C4-C1-7A-11-54-24-74-E9-39-78-5E-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>23375C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9F-87-A1-7F-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-54-24-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health+1 Hit Kill">
+    <Cheatline>
+      <Offset>7FC4AD50</Offset>
+      <Section>0</Section>
+      <ValueOn>41-80-BC-24-CC-00-00-00-01-74-13-C4-C1-7A-10-54-24-78-C4-C1-7A-11-54-24-74-E9-F5-89-5E-80-41-C7-44-24-74-00-00-00-00-E9-E7-89-5E-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>23375C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EF-75-A1-7F-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-54-24-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>7FC4A4F0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-7C-00-00-80-3F-E9-AA-98-5E-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>233DA1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4A-67-A1-7F</ValueOn>
+      <ValueOff>C5-FA-11-5B-7C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Magic ">
+    <Cheatline>
+      <Offset>2344F6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-5B-78</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Attribute Points (on spend)">
+    <Cheatline>
+      <Offset>7FC4A440</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-80-E8-00-00-00-63-E9-8F-D7-AD-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>727BD5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-66-28-52-7F-90</ValueOn>
+      <ValueOff>89-88-E8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Potions/Runes (on use)">
+    <Cheatline>
+      <Offset>7FC4A510</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4E-C1-C6-47-40-63-E9-D1-73-77-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3C18E7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-24-8C-88-7F-90</ValueOn>
+      <ValueOff>0F-4E-C1-89-47-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Spell points (on spend)">
+    <Cheatline>
+      <Offset>7FC4B9C0</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-80-EC-00-00-00-63-E9-20-C2-AD-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>727BE6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D5-3D-52-7F-90</ValueOn>
+      <ValueOff>89-88-EC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Alot of Experience (on spend)">
+    <Cheatline>
+      <Offset>7FE1B3F0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-B8-00-00-00-80-4F-C3-47-E9-EA-96-41-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>234AE1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0A-69-BE-7F-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-87-B8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

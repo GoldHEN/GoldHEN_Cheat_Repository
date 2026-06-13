@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Cyber Shadow" Moder="Ali-mk" Cusa="CUSA24216" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="invisible to all things (MC)">
+    <Cheatline>
+      <Offset>9B87DD</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-3E-D9-FF-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9B70B3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-58-B7-FF-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F617AD</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-5E-EA-FF-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F67A3E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-8D-BF-FF-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>97E9D9</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-C2-18-67-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max-Coins">
+    <Cheatline>
+      <Offset>15AE44</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7B-11-96-38-27-0B-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-All-Weapon-SP">
+    <Cheatline>
+      <Offset>1168213</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7B-11-85-58-27-0B-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12BFEE0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7B-11-85-58-27-0B-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1212BB5</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7B-11-85-58-27-0B-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Health to all things (MC)">
+    <Cheatline>
+      <Offset>9B274B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7B-11-84-24-20-27-0B-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9B1289</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7B-11-87-20-27-0B-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F60139</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7B-11-87-20-27-0B-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F5E32C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7B-11-85-20-27-0B-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F62ACA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7B-11-85-20-27-0B-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

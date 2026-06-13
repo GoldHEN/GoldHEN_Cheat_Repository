@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="RetroRealms" Moder="Ali-mk" Cusa="CUSA50463" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>8069282A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-47-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Fire">
+    <Cheatline>
+      <Offset>806B6C6F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-81-88-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-GOLD">
+    <Cheatline>
+      <Offset>8079914A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>29-48-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

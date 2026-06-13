@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wasteland 2: Director's Cut" Moder="wander fw9.00" Cusa="CUSA02431" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Items x20 (on use)">
+    <Cheatline>
+      <Offset>831ABD80</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-44-24-30-14-E9-DB-3F-98-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80B2FD61</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1A-C0-67-02</ValueOn>
+      <ValueOff>41-89-44-24-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite AP While Moving">
+    <Cheatline>
+      <Offset>831ABDD0</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-80-5C-01-00-00-0A-E9-AA-39-27-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8041F780</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4B-C6-D8-02-90</ValueOn>
+      <ValueOff>89-88-5C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>831ABE20</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-40-30-0F-4C-8B-34-24-E9-1D-0B-99-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80B3C943</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D8-F4-66-02-90-90</ValueOn>
+      <ValueOff>89-48-30-4C-8B-34-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite AP While Shooting">
+    <Cheatline>
+      <Offset>831ABE60</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-80-5C-01-00-00-0A-E9-3E-67-26-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>804125A4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B7-98-D9-02-90</ValueOn>
+      <ValueOff>89-88-5C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite AP While Loading">
+    <Cheatline>
+      <Offset>831ABEA0</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-80-5C-01-00-00-0A-E9-25-B0-27-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80426ECB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D0-4F-D8-02-90</ValueOn>
+      <ValueOff>89-88-5C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite AP while using items">
+    <Cheatline>
+      <Offset>831ABF00</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-80-5C-01-00-00-0A-E9-D8-81-27-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>804240DE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1D-7E-D8-02-90</ValueOn>
+      <ValueOff>89-88-5C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Water on the Map (turn off scrap cheat)">
+    <Cheatline>
+      <Offset>831ABF80</Offset>
+      <Section>0</Section>
+      <ValueOn>48-63-4C-24-08-C6-00-3C-E9-A2-48-AD-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80C80828</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-53-B7-52-02-90-90</ValueOn>
+      <ValueOff>48-63-4C-24-08-89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Experience (at the end of battle)">
+    <Cheatline>
+      <Offset>831ABB00</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-24-4C-02-00-00-7F-96-98-00-E9-2A-EA-A0-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80BBA533</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C8-15-5F-02-90-90-90</ValueOn>
+      <ValueOff>41-89-84-24-4C-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Skill points after Commiting points">
+    <Cheatline>
+      <Offset>831ABB60</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-86-38-01-00-00-94-E9-03-BF-78-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80937A69</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F2-40-87-02-90-90</ValueOn>
+      <ValueOff>45-89-BE-38-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Perk points">
+    <Cheatline>
+      <Offset>831ABBC0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-86-B4-00-00-00-14-E9-46-BD-79-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8094790C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AF-42-86-02-90-90</ValueOn>
+      <ValueOff>45-89-BE-B4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Attribute points after Commiting points">
+    <Cheatline>
+      <Offset>831ABC20</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-86-DC-00-00-00-32-E9-C6-AC-75-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>809068EC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2F-53-8A-02-90-90</ValueOn>
+      <ValueOff>45-89-BE-DC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Scrap on buy (turn off water cheat)">
+    <Cheatline>
+      <Offset>831AB520</Offset>
+      <Section>0</Section>
+      <ValueOn>48-63-4C-24-08-C7-00-FF-E0-F5-05-E9-FF-52-AD-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80C80828</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F3-AC-52-02-90-90</ValueOn>
+      <ValueOff>48-63-4C-24-08-89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
+
+
+
+
+
+
+
+
+

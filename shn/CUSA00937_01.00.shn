@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Final Fantasy Type-0 HD" Moder="Weysincha" Cusa="CUSA00937" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>77B800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8B-8E-7C-08-00-00-41-89-8E-78-08-00-00-E9-C7-C7-9E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>167FD3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-28-38-61-00-90-90</ValueOn>
+      <ValueOff>41-8B-8E-78-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite MP">
+    <Cheatline>
+      <Offset>77B813</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-88-88-08-00-00-89-88-84-08-00-00-E9-0C-28-9E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15E02A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E4-D7-61-00-90</ValueOn>
+      <ValueOff>8B-88-84-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite AP">
+    <Cheatline>
+      <Offset>77B824</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-E7-03-00-00-89-88-FC-00-00-00-E9-03-E4-9C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>149C31</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EE-1B-63-00-90</ValueOn>
+      <ValueOff>89-88-FC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money/ Gil/ VP">
+    <Cheatline>
+      <Offset>77B834</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-7F-96-98-00-41-89-5C-84-1C-E9-93-92-9C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>144AD1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5E-6D-63-00</ValueOn>
+      <ValueOff>41-89-5C-84-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

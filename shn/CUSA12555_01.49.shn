@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dying Light 2: Stay Human" Moder="Celogamez" Cusa="CUSA12555" Version="01.49" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health/1 Hit Kill (MASTERCODE/MUST BE ON)">
+    <Cheatline>
+      <Offset>6B33DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>80-BF-78-01-00-00-30-75-19-C5-FA-11-47-04-C5-FA-11-47-04-E9-37-4E-6B-FB-C5-FA-11-47-04-E9-2D-4E-6B-FB-41-80-FD-40-75-F0-C5-FA-11-47-04-E9-1D-4E-6B-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>21E8BFA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B1-B1-94-04</ValueOn>
+      <ValueOff>C5-FA-11-47-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>6B33DB9</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-47-14</ValueOn>
+      <ValueOff>C5-FA-11-47-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill">
+    <Cheatline>
+      <Offset>6B33DD8</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-57-04</ValueOn>
+      <ValueOff>C5-FA-11-47-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina/Breath">
+    <Cheatline>
+      <Offset>340B73A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-44-24-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items/Throwables (Need 2 To Work)">
+    <Cheatline>
+      <Offset>337F750</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-0B-D9-AD-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Arrows/Craft On Use">
+    <Cheatline>
+      <Offset>337F448</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-13-DC-AD-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload Crossbow/Boomstick">
+    <Cheatline>
+      <Offset>35BF9E9</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-72-D6-89-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Weapons Durability">
+    <Cheatline>
+      <Offset>6B33940</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-A8-00-00-00-00-80-3B-45-E9-DE-4C-4F-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3028625</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-16-B3-B0-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-A8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Immunity/Chemical Area">
+    <Cheatline>
+      <Offset>6B33460</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-47-20-C4-C1-7A-11-47-2C-E9-4B-FD-8A-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>33E31B6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A5-02-75-03-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite UV Flashlight">
+    <Cheatline>
+      <Offset>6B33A50</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-24-A0-01-00-00-00-00-60-41-E9-A5-82-D0-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>283BCFC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4F-7D-2F-04-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-A0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Money">
+    <Cheatline>
+      <Offset>6B33150</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4C-D1-C7-47-34-FF-C9-9A-3B-E9-0F-99-84-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>337CA68</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E3-66-7B-03-90</ValueOn>
+      <ValueOff>0F-4C-D1-89-57-34</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6B33190</Offset>
+      <Section>0</Section>
+      <ValueOn>29-D8-C7-47-34-FF-C9-9A-3B-E9-DF-9A-84-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>337CC78</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-13-65-7B-03</ValueOn>
+      <ValueOff>29-D8-89-47-34</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stop Time Missions (Disable B4 Finishing)">
+    <Cheatline>
+      <Offset>3905168</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-78</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP/Level/Inhibitors (Use After Escaping Waltz)">
+    <Cheatline>
+      <Offset>35EDC9F</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-7C-24-18</ValueOn>
+      <ValueOff>49-89-44-24-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stop Time For Parkour And Fighting Challenge">
+    <Cheatline>
+      <Offset>6B33E30</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-9B-2E-D6-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2896CC8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-63-D1-29-04-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-48-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="High Jump (Hold R1)">
+    <Cheatline>
+      <Offset>6B332F0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-59-80-AC-2E-00-00-C5-FA-59-80-A8-2E-00-00-E9-9B-B6-8C-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>33FE998</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-53-49-73-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-59-80-A8-2E-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Super Jump (Hold R1)">
+    <Cheatline>
+      <Offset>6B337E0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-59-80-30-2E-00-00-C5-FA-59-80-A8-2E-00-00-E9-AB-B1-8C-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>33FE998</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-43-4E-73-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-59-80-A8-2E-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mega Jump (Hold R1)">
+    <Cheatline>
+      <Offset>6B33710</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-59-80-78-2C-00-00-C5-FA-59-80-A8-2E-00-00-E9-7B-B2-8C-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>33FE998</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-73-4D-73-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-59-80-A8-2E-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

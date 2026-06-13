@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Fallout 4" Moder="cjwine" Cusa="CUSA03701" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="skill inf">
+    <Cheatline>
+      <Offset>21F7800</Offset>
+      <Section>0</Section>
+      <ValueOn>40-B6-58-40-88-B7-49-0B-00-00-40-88-75-E0-E9-32-4C-6F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8EC43A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C1-B3-90-01-90-90-90-90-90-90</ValueOn>
+      <ValueOff>40-88-B7-49-0B-00-00-40-88-75-E0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="max level(god mode)when u get xp">
+    <Cheatline>
+      <Offset>21F7813</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-9C-0C-41-00-67-C5-FA-10-00-C5-FA-11-41-04-E9-6A-32-67-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>86AA8C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-82-CD-98-01</ValueOn>
+      <ValueOff>C5-FA-11-41-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf ammo">
+    <Cheatline>
+      <Offset>8B32C9</Offset>
+      <Section>0</Section>
+      <ValueOn>01-D3</ValueOn>
+      <ValueOff>89-D3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="x999999 item each use and deactivate">
+    <Cheatline>
+      <Offset>21F7827</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-42-20-B9-A4-C6-AE-00-E9-72-FB-EE-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E73A0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-82-04-11-02-90</ValueOn>
+      <ValueOff>8B-42-20-8B-4F-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="x2 Item Each use (Use and deactivate)">
+    <Cheatline>
+      <Offset>E73B1</Offset>
+      <Section>0</Section>
+      <ValueOn>01-4A-20</ValueOn>
+      <ValueOff>89-4A-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="no height">
+    <Cheatline>
+      <Offset>21F7834</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-47-58-00-00-00-00-C5-FA-10-47-58-E9-3E-DE-04-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>24567E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B1-21-FB-01</ValueOn>
+      <ValueOff>C5-FA-10-47-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="speed run x3">
+    <Cheatline>
+      <Offset>21F7845</Offset>
+      <Section>0</Section>
+      <ValueOn>81-B9-E0-00-00-00-33-33-B3-3E-75-0D-48-83-F8-27-75-07-C7-04-C1-00-00-96-43-C5-FA-10-04-C1-E9-27-5C-6D-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8CD48A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B6-A3-92-01</ValueOn>
+      <ValueOff>C5-FA-10-04-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="all item money 99999">
+    <Cheatline>
+      <Offset>21F7868</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-00-00-00-00-B9-9F-86-01-00-E9-2F-FB-EE-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E73A0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C3-04-11-02-90</ValueOn>
+      <ValueOff>8B-42-20-8B-4F-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

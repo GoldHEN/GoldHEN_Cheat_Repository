@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Achilles: Legends Untold" Moder="wander fw 90" Cusa="CUSA43394" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite usables" Description="on use pick up 2">
+    <Cheatline>
+      <Offset>5C93CF6</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-F4-63-00-00-00-89-50-F8-E9-B7-58-0F-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D895B5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3C-A7-F0-04-90-90</ValueOn>
+      <ValueOff>44-89-40-F4-89-50-F8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Level,Gold,Skill points, upgrade items" Description="pick up 2 items to get max">
+    <Cheatline>
+      <PS5Offset>30A-executable[0]-5</PS5Offset>
+      <Offset>5C93CF6</Offset>
+      <Section>0</Section>
+      <ValueOn>48-C7-40-F8-FF-E0-F5-05-44-89-28-E9-96-43-0F-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>4F0BF6B-executable[0]-5</PS5Offset>
+      <Offset>D88095</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5C-BC-F0-04-90-90</ValueOn>
+      <ValueOff>48-89-50-F8-44-89-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

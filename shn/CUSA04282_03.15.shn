@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Don't Starve Together: Console Edition" Moder="jaywhy" Cusa="CUSA04282" Version="03.15" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Enable_debugmenu" Description="L3 activates debugmenu">
+    <Cheatline>
+      <PS5Offset>69A7F9-executable[0]-5</PS5Offset>
+      <Offset>185807</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-1A-90</ValueOn>
+      <ValueOff>48-85-D2</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

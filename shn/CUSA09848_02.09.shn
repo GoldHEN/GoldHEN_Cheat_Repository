@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Biomutant" Moder="Celogamez" Cusa="CUSA09848" Version="02.09" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health/1 Hit Kill (Master Code/Must Be On)">
+    <Cheatline>
+      <Offset>449FA00</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-F8-01-75-10-C5-FA-11-83-84-18-00-00-E9-91-EE-E2-FB-0F-57-C0-C5-FA-11-83-84-18-00-00-E9-81-EE-E2-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2CE89C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5F-11-1D-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-84-18-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>449FA06</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-83-84-18-00-00</ValueOn>
+      <ValueOff>C5-FA-11-83-84-18-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill">
+    <Cheatline>
+      <Offset>449FA04</Offset>
+      <Section>0</Section>
+      <ValueOn>75-0D</ValueOn>
+      <ValueOff>75-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo/No Reload">
+    <Cheatline>
+      <Offset>449F920</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-87-18-01-00-00-E9-8F-8A-4D-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9783B4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-67-75-B2-03-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-87-18-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Special Attack">
+    <Cheatline>
+      <Offset>449F9A0</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-8D-88-18-00-00-E9-3F-97-E0-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2A90E4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B7-68-1F-04-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-8D-88-18-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Breath/Jump (Water)">
+    <Cheatline>
+      <Offset>449F5A0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-83-88-18-00-00-E9-5C-F5-E4-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2EEB01</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9A-0A-1B-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-88-18-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>449F650</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-8B-88-18-00-00-E9-C7-4A-E2-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2C411C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2F-B5-1D-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-88-18-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Consumables">
+    <Cheatline>
+      <Offset>449F880</Offset>
+      <Section>0</Section>
+      <ValueOn>49-8D-75-20-41-C6-45-78-63-E9-2E-EC-14-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5EE4B4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C7-13-EB-03-90-90-90</ValueOn>
+      <ValueOff>49-8D-75-20-41-89-5D-78</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Avaliable Points">
+    <Cheatline>
+      <Offset>449F6C0</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-86-E8-0C-00-00-63-E9-AC-AA-EA-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>34A172</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-49-55-15-04-90</ValueOn>
+      <ValueOff>FF-8E-E8-0C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Upgrade Points">
+    <Cheatline>
+      <Offset>449E0A0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-85-E0-0C-00-00-63-E9-DD-D4-28-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>72B583</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-18-2B-D7-03-90-90</ValueOn>
+      <ValueOff>41-89-85-E0-0C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Bio Points">
+    <Cheatline>
+      <Offset>449F9E0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-85-C4-0C-00-00-63-E9-51-B5-28-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>72AF37</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A4-4A-D7-03-90-90</ValueOn>
+      <ValueOff>41-89-85-C4-0C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Psi-Points">
+    <Cheatline>
+      <Offset>449F1D0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-85-EC-0C-00-00-63-E9-98-C4-28-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>72B66E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5D-3B-D7-03-90-90</ValueOn>
+      <ValueOff>45-89-B5-EC-0C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP On Gain">
+    <Cheatline>
+      <Offset>449FDF0</Offset>
+      <Section>0</Section>
+      <ValueOn>89-83-B8-1D-00-00-E9-E2-44-DF-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2942D7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-14-BB-20-04-90</ValueOn>
+      <ValueOff>01-B3-B8-1D-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

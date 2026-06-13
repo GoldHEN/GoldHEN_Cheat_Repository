@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="World War Z" Moder="Saso_9.00" Cusa="CUSA14046" Version="01.41" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Health / Stamin / 1 Hit Kill (Master Code)">
+    <Cheatline>
+      <Offset>1F93800</Offset>
+      <Section>22</Section>
+      <ValueOn>48-83-F9-07-75-45-83-7B-B0-73-75-3F-41-54-41-53-4C-8B-63-E0-49-BB-FF-FF-FF-FF-FF-FF-00-FF-4D-21-DC-74-24-4D-8B-1C-24-41-81-7B-28-48-65-61-6C-75-16-66-41-81-7B-18-3D-0C-74-09-66-41-81-7B-18-4C-01-75-04-48-8B-43-10-41-5B-41-5C-48-89-03-41-8A-4F-06-E9-33-AF-8F-FE-90-81-3B-00-00-80-3F-7E-E7-C7-03-00-00-80-3F-48-8B-03-EB-DC-48-83-F9-0E-75-DA-49-83-FE-0A-75-D4-81-7B-10-00-00-C8-42-75-CB-81-7B-14-00-00-03-00-75-C2-66-81-7B-AD-00-01-75-BA-41-54-41-53-4C-8B-63-A8-49-BB-FF-FF-FF-FF-FF-FF-00-FF-4D-21-DC-74-9F-4D-8B-1C-24-41-81-7B-28-53-74-61-6D-75-91-41-5B-41-5C-48-8B-43-10-48-89-03-41-8A-4F-06-E9-C0-AE-8F-FE-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>88E783</Offset>
+      <Section>22</Section>
+      <ValueOn>E9-78-50-70-01-90-90</ValueOn>
+      <ValueOff>48-89-03-41-8A-4F-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stamina (MC)">
+    <Cheatline>
+      <Offset>1F93804</Offset>
+      <Section>22</Section>
+      <ValueOn>75-65</ValueOn>
+      <ValueOff>75-45</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill (MC)">
+    <Cheatline>
+      <Offset>1F93841</Offset>
+      <Section>22</Section>
+      <ValueOn>75-15</ValueOn>
+      <ValueOff>75-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo / No Reload (Primary/ Secondary)">
+    <Cheatline>
+      <Offset>27B3800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-F9-0D-75-3E-48-83-FE-08-75-38-81-7B-0C-00-00-01-00-75-2F-66-81-7B-BD-00-01-75-27-41-54-49-BC-FF-FF-FF-FF-FF-FF-00-FF-4C-23-63-B8-74-21-4D-8B-24-24-41-81-7C-24-28-43-6C-69-70-41-5C-75-04-48-8B-43-08-48-89-03-41-8A-4F-06-E9-6A-BF-2E-FE-41-5C-EB-F0</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A9F7B3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-48-40-D1-01-90-90</ValueOn>
+      <ValueOff>48-89-03-41-8A-4F-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Coins (99999) Disable To Earn More">
+    <Cheatline>
+      <Offset>27B3856</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-F9-07-75-3A-48-83-FE-04-75-34-83-7B-10-07-75-2E-41-57-49-BF-FF-FF-FF-FF-FF-FF-00-00-4C-23-7B-C8-74-27-41-81-BF-60-06-00-00-63-6F-69-6E-41-5F-75-0D-C7-03-9F-86-01-00-48-8B-03-48-89-43-08-49-89-06-8A-4B-06-E9-8F-0B-1E-FE-41-5F-EB-F1</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>99442A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-27-F4-E1-01-90</ValueOn>
+      <ValueOff>49-89-06-8A-4B-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

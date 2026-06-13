@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lost Artifacts: Time Machine" Moder="fbin" Cusa="CUSA14425" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Family" />
+  <Items />
+  <Cheat Text="Recursos Infinitos">
+    <Cheatline>
+      <Offset>18C3E60</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-74-91-20-C7-44-90-20-E7-03-00-00-E9-2A-4A-B4-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80408893</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C8-B5-4B-81-90-90-90</ValueOn>
+      <ValueOff>8B-74-91-20-29-74-90-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call of Duty: WWII" Moder="DeathRGH" Cusa="CUSA05969" Version="01.11" Process="default_mp.elf">
+  <Items />
+  <Cheat Text="All Client Infinite Ammo">
+    <Cheatline>
+      <Offset>72B698</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>29-54-88-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Client Godmode">
+    <Cheatline>
+      <Offset>9553B9</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-01-87-DC-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Specialist (Zombies)">
+    <Cheatline>
+      <Offset>488093</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-98-1F-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C5CA258</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-80-3F</ValueOn>
+      <ValueOff>00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

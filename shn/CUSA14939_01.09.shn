@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Maid of Sker" Moder="Reddevil82 - FW 9.00" Cusa="CUSA14939" Version="01.09" Process="eboot.bin">
+  <Genres Name="Horror" />
+  <Items />
+  <Cheat Text="Location Save - Load Mastercode ( must be activate )" Description="Location Mastercode">
+    <Cheatline>
+      <Offset>18B3800</Offset>
+      <Section>0</Section>
+      <ValueOn>50-41-8B-46-18-A3-61-00-00-02-00-00-00-00-41-8B-46-1C-A3-65-00-00-02-00-00-00-00-41-8B-46-20-A3-69-00-00-02-00-00-00-00-58-80-3D-7A-00-00-00-01-74-0B-80-3D-72-00-00-00-01-74-34-EB-62-C6-05-66-00-00-00-00-50-41-8B-46-18-A3-71-00-00-02-00-00-00-00-41-8B-46-1C-A3-75-00-00-02-00-00-00-00-41-8B-46-20-A3-79-00-00-02-00-00-00-00-58-EB-30-C6-05-35-00-00-00-00-83-3D-F4-C7-34-00-00-74-20-52-8B-15-EB-C7-34-00-41-89-56-18-8B-15-E5-C7-34-00-41-89-56-1C-8B-15-DF-C7-34-00-41-89-56-20-5A-C4-C1-7B-10-46-18-E9-AA-F0-3F-7F-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9FE94E</Offset>
+      <Section>14</Section>
+      <ValueOn>E9-AD-0E-C0-80-90</ValueOn>
+      <ValueOff>C4-C1-7B-10-46-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>4E3EC6</Offset>
+      <Section>14</Section>
+      <ValueOn>0F-85-7F-04-00-00</ValueOn>
+      <ValueOff>0F-84-7F-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health" Description="Infinite Health">
+    <Cheatline>
+      <Offset>18B3DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-50-24-C5-FA-11-50-28-C5-FA-10-50-28-E9-1F-4A-F7-7E-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>808287DE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CD-B5-08-81</ValueOn>
+      <ValueOff>C5-FA-10-50-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Health" Description="Max Health">
+    <Cheatline>
+      <Offset>18B3DD8</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-48-20-C7-40-24-00-00-7A-44-E9-F0-49-F7-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>808287D4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FF-B5-08-81</ValueOn>
+      <ValueOff>C5-FA-10-48-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Breath" Description="Infinite Breath">
+    <Cheatline>
+      <Offset>18B3DE9</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-50-24-C5-FA-11-50-28-C5-FA-10-50-28-E9-36-4E-F7-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80828C2E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B6-B1-08-81</ValueOn>
+      <ValueOff>C5-FA-10-50-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Breath" Description="Max Breath">
+    <Cheatline>
+      <Offset>18B3DFD</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-48-20-C7-40-24-00-00-7A-44-E9-1B-4E-F7-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80828C24</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D4-B1-08-81</ValueOn>
+      <ValueOff>C5-FA-10-48-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Cough" Description="No Cough">
+    <Cheatline>
+      <Offset>39F71F</Offset>
+      <Section>15</Section>
+      <ValueOn>C6-83-3B-01-00-00-00</ValueOn>
+      <ValueOff>C6-83-3B-01-00-00-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items / Ammo" Description="Max Items / Ammo">
+    <Cheatline>
+      <Offset>18B3E0E</Offset>
+      <Section>0</Section>
+      <ValueOn>41-80-FE-0A-74-20-41-80-FE-07-74-1A-41-80-FE-18-74-14-41-80-FE-02-74-0E-41-80-FE-04-74-08-41-80-FE-06-74-02-EB-07-C7-40-18-63-00-00-00-8B-48-18-E9-68-66-D7-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8062A4BC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4D-99-28-81</ValueOn>
+      <ValueOff>8B-48-18-EB-EA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload" Description="No Reload">
+    <Cheatline>
+      <Offset>3263CE</Offset>
+      <Section>14</Section>
+      <ValueOn>41-89-9F-78-02-00-00</ValueOn>
+      <ValueOff>41-89-87-78-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Save Location [ MC ]" Description="Save Location [ MC ]">
+    <Cheatline>
+      <Offset>1C00080</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Load Location [ MC ]" Description="Load Location [ MC ]">
+    <Cheatline>
+      <Offset>1C00081</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Timer" Description="Freeze Timer">
+    <Cheatline>
+      <Offset>62EC2B</Offset>
+      <Section>14</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-40-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Reset Timer" Description="Reset Timer">
+    <Cheatline>
+      <Offset>62EC26</Offset>
+      <Section>14</Section>
+      <ValueOn>0F-57-C0-90-90</ValueOn>
+      <ValueOff>C5-FA-10-45-E4</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Final Fantasy XV" Moder="Weysincha" Cusa="CUSA01615" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>6DE4EA</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-0F-27-00-00-90</ValueOn>
+      <ValueOff>85-FF-41-0F-49-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite MP">
+    <Cheatline>
+      <Offset>413F000</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-5C-C1-0F-4D-D0-BA-F3-00-00-00-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6DE5B0</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-4B-0A-A6-03-90-90</ValueOn>
+      <ValueOff>C5-FA-5C-C1-0F-4D-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite FP/AP">
+    <Cheatline>
+      <Offset>413F4EC</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-EC-F2-03-01-BA-9F-86-01-00-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BFB099</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-4E-44-54-03</ValueOn>
+      <ValueOff>BE-EC-F2-03-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money/Gil">
+    <Cheatline>
+      <Offset>413F12C</Offset>
+      <Section>0</Section>
+      <ValueOn>85-C9-0F-49-DA-BB-7F-96-98-00-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BD13FE</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-29-DD-56-03</ValueOn>
+      <ValueOff>85-C9-0F-49-DA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Exp ">
+    <Cheatline>
+      <Offset>BB4274</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-7F-96-98-00-90</ValueOn>
+      <ValueOff>44-0F-4E-F0-85-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

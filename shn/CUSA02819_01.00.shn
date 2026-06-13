@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tom Clancy's Ghost Recon: Wildlands" Moder="GoldZ" Cusa="CUSA02819" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>2CCC867</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

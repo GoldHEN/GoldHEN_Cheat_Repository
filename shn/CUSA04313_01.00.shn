@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dead Rising 2" Moder="Molly" Cusa="CUSA04313" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>1AEB800</Offset>
+      <Section>0</Section>
+      <ValueOn>51-B9-00-40-1C-46-66-0F-6E-C1-59-C5-FA-11-47-34-E9-8C-FC-A5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>54B49C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5F-03-5A-01</ValueOn>
+      <ValueOff>C5-FA-11-47-34</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ammo">
+    <Cheatline>
+      <Offset>1AEB815</Offset>
+      <Section>0</Section>
+      <ValueOn>51-B9-00-C0-79-44-66-0F-6E-C1-59-C5-FA-11-87-28-01-00-00-E9-EB-12-67-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15CB10</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-00-ED-98-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-28-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1AEB850</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-E7-03-00-00-41-89-56-28-40-08-CF-E9-14-50-63-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12086E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DD-AF-9C-01-90-90</ValueOn>
+      <ValueOff>41-89-56-28-40-08-CF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1AEB861</Offset>
+      <Section>0</Section>
+      <ValueOn>51-B9-00-00-82-42-66-0F-6E-C1-59-C5-FA-11-87-B8-01-00-00-E9-2F-39-7F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2DF1A0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BC-C6-80-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-B8-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money">
+    <Cheatline>
+      <Offset>1AEB82D</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-FF-C9-9A-3B-41-89-5F-78-85-DB-E9-2E-AB-A5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>546365</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C3-54-5A-01-90</ValueOn>
+      <ValueOff>41-01-5F-78-85-DB</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quick Level Up">
+    <Cheatline>
+      <Offset>1AEB83D</Offset>
+      <Section>0</Section>
+      <ValueOn>41-81-C7-F0-7E-0E-00-45-01-7D-2C-4C-89-E7-E9-40-92-A5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>544A89</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AF-6D-5A-01-90-90</ValueOn>
+      <ValueOff>45-01-7D-2C-4C-89-E7</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Attack And 3x Throw &quot;After Level Up&quot;">
+    <Cheatline>
+      <Offset>1AEB879</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-C0-B8-FF-C9-9A-3B-89-47-5C-E9-C5-98-A5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>545148</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2C-67-5A-01</ValueOn>
+      <ValueOff>FF-C0-89-47-5C</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1AEB888</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-C0-B8-0F-00-00-00-89-47-6C-E9-76-99-A5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>545208</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7B-66-5A-01</ValueOn>
+      <ValueOff>FF-C0-89-47-6C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Fast Zombie Kills">
+    <Cheatline>
+      <Offset>1AEB897</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-F4-41-81-47-40-D0-07-00-00-E9-48-8E-A5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5446E8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AA-71-5A-01-90-90</ValueOn>
+      <ValueOff>41-89-F4-41-FF-47-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ammo">
+    <Cheatline>
+      <Offset>1AEB815</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-28-01-00-00-00-C0-79-44-C5-FA-10-83-28-01-00-00-E9-00-C9-7A-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>298124</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EC-36-85-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-83-28-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1AEB82C</Offset>
+      <Section>0</Section>
+      <ValueOn>51-B9-00-00-82-42-66-0F-6E-C1-59-C5-FA-11-87-B8-01-00-00-E9-64-39-7F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2DF1A0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-87-C6-80-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-B8-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1AEB844</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-E7-03-00-00-41-89-56-28-40-08-CF-E9-20-50-63-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12086E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D1-AF-9C-01-90-90</ValueOn>
+      <ValueOff>41-89-56-28-40-08-CF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money">
+    <Cheatline>
+      <Offset>1AEB855</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-FF-C9-9A-3B-41-01-5F-78-85-DB-E9-06-AB-A5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>546365</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EB-54-5A-01-90</ValueOn>
+      <ValueOff>41-01-5F-78-85-DB</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quick Level Up~Don't Enable With Other Cheats~">
+    <Cheatline>
+      <Offset>1AEB865</Offset>
+      <Section>0</Section>
+      <ValueOn>41-81-C7-F0-7E-0E-00-45-01-7D-2C-4C-89-E7-E9-18-92-A5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>544A89</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D7-6D-5A-01-90-90</ValueOn>
+      <ValueOff>45-01-7D-2C-4C-89-E7</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1AEB878</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-C0-B8-FF-C9-9A-3B-89-47-5C-E9-C6-98-A5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>545148</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2B-67-5A-01</ValueOn>
+      <ValueOff>FF-C0-89-47-5C</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1AEB8B4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-B8-0F-00-00-00-89-47-6C-E9-4B-99-A5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>545208</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A7-66-5A-01</ValueOn>
+      <ValueOff>FF-C0-89-47-6C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Super Speed ~On Load~">
+    <Cheatline>
+      <Offset>1AEB8C2</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-43-3E-74-42-E9-88-A4-A5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>545D4E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6F-5B-5A-01-90-90</ValueOn>
+      <ValueOff>C7-43-3C-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Fast Zombie Kills~2000 Kill Per Kill~">
+    <Cheatline>
+      <Offset>1AEB8CD</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-F4-41-81-47-40-D0-07-00-00-E9-12-8E-A5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5446E8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E0-71-5A-01-90-90</ValueOn>
+      <ValueOff>41-89-F4-41-FF-47-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlock All Combo Cards ~Go To Combo Menu~">
+    <Cheatline>
+      <Offset>1AEB8DD</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-84-07-C8-02-00-00-01-8A-84-07-C8-02-00-00-E9-9D-E8-67-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>16A187</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-51-17-98-01-90-90</ValueOn>
+      <ValueOff>8A-84-07-C8-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlock All Katey's Gifts~Enter Safe House~">
+    <Cheatline>
+      <Offset>1AEB8F1</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-84-07-98-0F-00-00-01-8A-84-07-98-0F-00-00-E9-A5-E2-A5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>549BA3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-49-1D-5A-01-90-90</ValueOn>
+      <ValueOff>8A-84-07-98-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlock All Outfits~Go To The Locker~">
+    <Cheatline>
+      <Offset>1AEB905</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-44-07-10-01-80-7C-07-10-00-E9-E9-EB-A5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>54A4F8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-08-14-5A-01</ValueOn>
+      <ValueOff>80-7C-07-10-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Have All Key Items ~Earn A Key Item~">
+    <Cheatline>
+      <Offset>1AEB914</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-48-C7-C3-14-4C-01-00-48-89-18-48-C7-C3-08-4C-01-00-48-89-58-08-48-C7-C3-1B-4C-01-00-48-89-58-10-48-C7-C3-10-4C-01-00-48-89-58-18-48-C7-C3-09-4C-01-00-48-89-58-20-48-C7-C3-1E-4C-01-00-48-89-58-28-48-BB-1F-4C-01-00-01-00-00-00-48-89-58-30-48-BB-11-4C-01-00-01-00-00-00-48-89-58-38-48-C7-C3-11-4C-01-00-48-89-58-40-48-C7-C3-19-4C-01-00-48-89-58-48-48-C7-C3-20-4C-01-00-48-89-58-50-48-C7-C3-20-4C-01-00-48-89-58-58-48-C7-C3-20-4C-01-00-48-89-58-60-48-C7-C3-09-4C-01-00-48-89-58-68-48-C7-C3-0C-4C-01-00-48-89-58-70-48-C7-C3-12-4C-01-00-48-89-58-78-48-C7-C3-13-4C-01-00-48-89-98-80-00-00-00-48-C7-C3-0D-4C-01-00-48-89-98-88-00-00-00-48-C7-C3-0E-4C-01-00-48-89-98-90-00-00-00-48-C7-C3-0B-4C-01-00-48-89-98-98-00-00-00-48-C7-C3-0F-4C-01-00-48-89-98-A0-00-00-00-E9-E0-CE-A5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5488F0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1F-30-5A-01-90</ValueOn>
+      <ValueOff>7E-EE-EB-0B-89-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Bullet Spread">
+    <Cheatline>
+      <Offset>1AEBA16</Offset>
+      <Section>0</Section>
+      <ValueOn>51-B9-00-00-80-3F-66-0F-6E-C9-59-C5-FA-11-4F-18-E9-B4-D0-5D-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C8ADA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-37-2F-A2-01</ValueOn>
+      <ValueOff>C5-FA-11-4F-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

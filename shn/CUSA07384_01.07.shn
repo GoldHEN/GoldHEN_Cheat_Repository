@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wolfenstein II: The New Colossus" Moder="Dioniso" Cusa="CUSA07384" Version="01.07" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="FPS" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>2FFB800</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-43-10-8B-43-1C-89-43-10-89-43-18-31-C0-E9-1A-72-E8-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E82A2A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D1-8D-17-02</ValueOn>
+      <ValueOff>C5-FA-11-43-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Shield">
+    <Cheatline>
+      <Offset>2FFB815</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-11-44-DE-10-41-8B-44-DE-1C-41-89-44-DE-10-E9-08-73-E8-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E82B2C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E4-8C-17-02-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-44-DE-10</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2FFB82B</Offset>
+      <Section>0</Section>
+      <ValueOn>50-C5-FA-11-4B-28-8B-43-34-89-43-28-58-E9-AD-71-E8-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E829E5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-41-8E-17-02</ValueOn>
+      <ValueOff>C5-FA-11-4B-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Bullets">
+    <Cheatline>
+      <Offset>2FFB83D</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-43-70-3D-FE-FF-FF-01-74-2C-8B-83-E0-00-00-00-83-F8-FF-75-17-8B-83-C4-00-00-00-83-F8-00-75-06-8B-83-A4-00-00-00-89-83-C0-00-00-00-39-D6-0F-4E-D6-E9-5A-44-19-FE-39-D6-0F-4E-D6-31-C0-85-F6-E9-47-44-19-FE-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>118FCBF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-79-BB-E6-01</ValueOn>
+      <ValueOff>39-D6-0F-4E-D6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Laser + Granades + Hatchets (100)">
+    <Cheatline>
+      <Offset>2FFB7F3</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-64-00-00-00-89-43-30-E9-8B-44-19-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>118FC85</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-69-BB-E6-01-90</ValueOn>
+      <ValueOff>0F-49-C1-89-43-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Upgrade Kits + Enigma Codes (99)">
+    <Cheatline>
+      <Offset>2FFB7E5</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-63-00-00-00-89-44-01-0C-E9-FA-2F-88-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>87E7E5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FB-CF-77-02-90-90-90</ValueOn>
+      <ValueOff>48-C1-E0-04-8B-44-01-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Enemy Doesn't Shoot (except Uebersoldaten)">
+    <Cheatline>
+      <Offset>2FFB882</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-43-70-3D-FE-FF-FF-01-74-0B-8B-93-A4-00-00-00-E9-26-44-19-FE-31-C0-E9-2F-44-19-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>118FCB7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C6-BB-E6-01-90</ValueOn>
+      <ValueOff>8B-93-A4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="We Happy Few" Moder="DJFlameDat" Cusa="CUSA09406" Version="01.09" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Unlimited HP">
+    <Cheatline>
+      <Offset>55F7060</Offset>
+      <Section>0</Section>
+      <ValueOn>80-BB-6C-09-00-00-00-75-08-C7-03-00-00-80-3F-EB-0A-C5-FA-11-0B-0F-84-74-AA-E7-FA-E9-D4-A9-E7-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>471A4A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-11-56-18-05-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-0B-0F-84-9B-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlimited Weight">
+    <Cheatline>
+      <Offset>20E5BD</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-45-BC</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlimted Items (on consume)">
+    <Cheatline>
+      <Offset>48689E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8B-A0-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlimited Items (on drop need 2)">
+    <Cheatline>
+      <Offset>2BB6A5</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-B7-A0-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlimited Money (on buy)">
+    <Cheatline>
+      <Offset>1C3058</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>8B-83-50-0B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlimited Weapon Durability">
+    <Cheatline>
+      <Offset>485D8D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-5C-85-FC-FD-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlimited Stam, Joy, Fatigue, Hunger and Thirst">
+    <Cheatline>
+      <Offset>471C21</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-E2-5D-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

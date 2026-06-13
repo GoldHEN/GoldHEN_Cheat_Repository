@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Titan Quest" Moder="Wander FW9.00" Cusa="CUSA08366" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>C67DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>80-BF-10-04-00-00-01-75-0C-C7-47-20-00-3C-1C-46-E9-33-E0-87-FF-C5-FA-11-4F-20-E9-29-E0-87-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4E5DF3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B8-1F-78-00</ValueOn>
+      <ValueOff>C5-FA-11-4F-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Magic">
+    <Cheatline>
+      <Offset>C58400</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-34-00-3C-1C-46-E9-28-E0-88-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4E642F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CC-1F-77-00</ValueOn>
+      <ValueOff>C5-FA-11-43-34</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="MAX EXPERIENCE">
+    <Cheatline>
+      <Offset>C67D10</Offset>
+      <Section>0</Section>
+      <ValueOn>44-03-63-40-C7-43-40-FF-C9-9A-3B-E9-91-9B-94-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5B18A9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-62-64-6B-00-90-90-90</ValueOn>
+      <ValueOff>44-03-63-40-44-89-63-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="MAX Gold (on buy)">
+    <Cheatline>
+      <Offset>C58460</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-54-10-00-00-FF-E0-F5-05-E9-14-8B-87-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4D0F7D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DE-74-78-00-90</ValueOn>
+      <ValueOff>89-87-54-10-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Character Skill Points">
+    <Cheatline>
+      <Offset>C584B0</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-C8-66-C7-47-44-E7-03-E9-6F-93-95-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5B1827</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-84-6C-6A-00</ValueOn>
+      <ValueOff>FF-C8-89-47-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Mastery Skill points">
+    <Cheatline>
+      <Offset>C58180</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-C8-66-C7-47-48-E7-03-E9-DF-99-95-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5B1B67</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-14-66-6A-00</ValueOn>
+      <ValueOff>FF-C8-89-47-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

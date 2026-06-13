@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Crash Bandicoot 4: It's About Time" Moder="2B, hejran7" Cusa="CUSA23470" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Death counter always 0 (modern mode)">
+    <Cheatline>
+      <Offset>700F800</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-00-00-00-00-89-B7-A8-05-00-00-E9-9A-A2-05-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1069AA4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-57-5D-FA-05-90</ValueOn>
+      <ValueOff>01-B7-A8-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Jump">
+    <Cheatline>
+      <Offset>700F812</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-38-03-00-00-00-00-00-00-E9-A5-AF-58-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>59A7C0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4D-50-A7-06-90-90</ValueOn>
+      <ValueOff>41-FF-86-38-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Boxes">
+    <Cheatline>
+      <Offset>700F832</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-B7-30-04-00-00-89-B7-38-04-00-00-E9-89-96-05-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1068EC6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-67-69-FA-05-90</ValueOn>
+      <ValueOff>01-B7-38-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Wumpa by hejran7">
+    <Cheatline>
+      <Offset>700F845</Offset>
+      <Section>0</Section>
+      <ValueOn>45-8B-8D-04-04-00-00-45-89-8D-00-04-00-00-E9-F1-C6-14-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>115BF42</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FE-38-EB-05-90-90</ValueOn>
+      <ValueOff>45-01-8D-00-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Lives in Retro + Invincible in Modern mode by hejran7">
+    <Cheatline>
+      <Offset>700F85A</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-83-70-01-00-00-01-80-BB-70-01-00-00-03-E9-01-92-FA-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FB8A67</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EE-6D-05-06-90-90</ValueOn>
+      <ValueOff>80-BB-70-01-00-00-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Trial Time by hejran 7">
+    <Cheatline>
+      <Offset>700F86F</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BC-E7-03-00-00-C4-C1-7A-2A-C4-E9-0C-09-15-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1160186</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E4-F6-EA-05</ValueOn>
+      <ValueOff>C4-C1-7A-2A-C4</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

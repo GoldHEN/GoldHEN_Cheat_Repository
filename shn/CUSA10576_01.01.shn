@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Zone of the Enders: The 2nd Runner Mars" Moder="Weysincha" Cusa="CUSA10576" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Energy">
+    <Cheatline>
+      <Offset>1123800</Offset>
+      <Section>0</Section>
+      <ValueOn>44-8B-BB-24-0C-00-00-44-89-BB-20-0C-00-00-E9-99-2E-97-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A966A5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-56-D1-68-00-90-90</ValueOn>
+      <ValueOff>44-89-BB-20-0C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Sub energy">
+    <Cheatline>
+      <Offset>1123813</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-9F-BC-18-00-00-C4-C1-7A-11-9F-B8-18-00-00-E9-D1-6A-9A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>ACA2F2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1C-95-65-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-9F-B8-18-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Fast leveling">
+    <Cheatline>
+      <Offset>112382A</Offset>
+      <Section>0</Section>
+      <ValueOn>66-9C-53-8B-99-48-65-00-00-FF-CB-89-D8-5B-89-81-3C-65-00-00-66-9D-E9-5D-DB-97-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>AA139C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-89-24-68-00-90</ValueOn>
+      <ValueOff>01-81-3C-65-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

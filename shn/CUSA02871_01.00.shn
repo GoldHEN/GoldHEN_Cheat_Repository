@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Shadow of the Beast" Moder="Togaman Rizla" Cusa="CUSA02871" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Inf Health">
+    <Cheatline>
+      <Offset>ED183</Offset>
+      <Section>0</Section>
+      <ValueOn>45-01-A8-E4-0A-00-00</ValueOn>
+      <ValueOff>45-29-A8-E4-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Blood">
+    <Cheatline>
+      <Offset>3BEB800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-E8-0A-00-00-00-00-C8-42-C4-C1-7A-10-87-E8-0A-00-00-E9-F4-73-4E-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D2C04</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F7-8B-B1-03-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-87-E8-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Wrath of Aarbron">
+    <Cheatline>
+      <Offset>E5E9D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-FF-8C-24-EC-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Mana (Enable only in Wisdom of Shadows)">
+    <Cheatline>
+      <Offset>3BEB800</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-80-84-1E-00-89-87-50-01-00-00-E9-B6-3E-75-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>33F6C0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3B-C1-8A-03-90</ValueOn>
+      <ValueOff>8B-87-50-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Elixir">
+    <Cheatline>
+      <Offset>3BEB819</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-E7-03-00-00-89-B0-C4-00-00-00-E9-EC-9E-5F-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1E570F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-05-61-A0-03-90</ValueOn>
+      <ValueOff>8B-B0-C4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Shadow Stone">
+    <Cheatline>
+      <Offset>E92EE</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-88-C8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

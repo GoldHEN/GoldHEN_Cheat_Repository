@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Prototype Biohazard Bundle" Moder="Celogamez" Cusa="CUSA06545" Version="01.00" Process="prototype2_ps4.elf">
+  <Genres Name="Action" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>140FEF0</Offset>
+      <Section>0</Section>
+      <ValueOn>66-81-FB-F0-02-75-0A-C5-FA-10-4B-14-E9-02-94-D7-FE-C5-FA-11-4B-14-E9-F8-93-D7-FE-43-65-6C-6F-67-61-6D-65-7A-5F-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1892FE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-ED-6B-28-01</ValueOn>
+      <ValueOff>C5-FA-11-4B-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Ammo/No Reload">
+    <Cheatline>
+      <Offset>82400A</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-5E-24</ValueOn>
+      <ValueOff>41-89-46-24</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>82EAC6</Offset>
+      <Section>0</Section>
+      <ValueOn>89-7B-24</ValueOn>
+      <ValueOff>89-43-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

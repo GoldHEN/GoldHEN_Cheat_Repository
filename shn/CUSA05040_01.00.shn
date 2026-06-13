@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="NBA 2K17" Moder="Weysincha" Cusa="CUSA05040" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Max Attributes">
+    <Cheatline>
+      <Offset>3C739542</Offset>
+      <Section>0</Section>
+      <ValueOn>19-19-19-19-19-19-19-19-19-19</ValueOn>
+      <ValueOff>19-19-19-19-19-19-19-19-19-19</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money">
+    <Cheatline>
+      <Offset>3C4F0274</Offset>
+      <Section>0</Section>
+      <ValueOn>7F-96-98-00</ValueOn>
+      <ValueOff>7F-96-98-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

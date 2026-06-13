@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sniper Elite 4" Moder="Celogamez" Cusa="CUSA04099" Version="01.20" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Max/Infinite Health">
+    <Cheatline>
+      <Offset>C5BC90</Offset>
+      <Section>0</Section>
+      <ValueOn>66-81-FB-C0-6E-75-0D-41-C7-46-48-00-00-C8-42-E9-39-0C-53-FF-C4-C1-7A-11-46-48-E9-2E-0C-53-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>18C8D7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B4-F3-AC-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-46-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>C5BEA0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-47-10-00-00-70-42-E9-B9-E4-D4-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9AA360</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3B-1B-2B-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-57-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Focus">
+    <Cheatline>
+      <Offset>C5BCE0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-47-10-00-00-70-42-E9-3B-E3-D4-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9AA022</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B9-1C-2B-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Ammo/Items">
+    <Cheatline>
+      <Offset>C5BBF0</Offset>
+      <Section>0</Section>
+      <ValueOn>44-89-AD-74-FF-FF-FF-C7-40-20-E7-03-00-00-E9-32-AA-C1-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>87662A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C1-55-3E-00-90-90-90-90-90-90</ValueOn>
+      <ValueOff>44-89-AD-74-FF-FF-FF-44-89-40-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>C5BC10</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-CE-C6-44-9F-20-63-E9-76-3A-C4-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>89F68C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7F-C5-3B-00-90</ValueOn>
+      <ValueOff>FF-CE-89-74-9F-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Game Time">
+    <Cheatline>
+      <Offset>C5BDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8B-44-24-08-E9-9B-E6-86-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4CA450</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5B-19-79-00</ValueOn>
+      <ValueOff>41-89-44-24-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP On Gain">
+    <Cheatline>
+      <Offset>C5BF00</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-08-FF-C9-9A-3B-E9-08-E5-86-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4CA411</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EA-1A-79-00</ValueOn>
+      <ValueOff>41-89-44-24-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

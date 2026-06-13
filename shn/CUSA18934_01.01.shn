@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Everreach: Project Eden" Moder="Reddevil82" Cusa="CUSA18934" Version="01.01" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health" Description="Infinite Health">
+    <Cheatline>
+      <Offset>7FC5F000</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-4B-18-C5-FA-11-4B-44-E9-08-B3-AB-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8071A312</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E9-4C-54-FF</ValueOn>
+      <ValueOff>C5-FA-11-4B-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Shield" Description="Infinite Shield">
+    <Cheatline>
+      <Offset>7FC5F02F</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-5B-24-C5-FA-11-5B-40-E9-6C-B3-AB-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8071A3A5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-85-4C-54-FF</ValueOn>
+      <ValueOff>C5-FA-11-5B-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina" Description="Infinite Stamina">
+    <Cheatline>
+      <Offset>7FC5F05E</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-2C-C5-FA-11-43-3C-E9-B2-74-AB-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8071651A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3F-8B-54-FF</ValueOn>
+      <ValueOff>C5-FA-11-43-3C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ammo Riffle" Description="Max Ammo Riffle">
+    <Cheatline>
+      <Offset>7FC6FF00</Offset>
+      <Section>0</Section>
+      <ValueOn>E7-03-00-00</ValueOn>
+      <ValueOff>E7-03-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FC5F08D</Offset>
+      <Section>0</Section>
+      <ValueOn>41-50-44-8B-05-6A-0E-01-00-44-89-80-F4-03-00-00-41-58-C5-F2-2A-80-F4-03-00-00-E9-67-A5-9D-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8063960B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7D-5A-62-FF-90-90-90</ValueOn>
+      <ValueOff>C5-F2-2A-80-F4-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ammo Clip Riffle" Description="Max Ammo Clip Riffle">
+    <Cheatline>
+      <Offset>7FC6FF04</Offset>
+      <Section>0</Section>
+      <ValueOn>E7-03-00-00</ValueOn>
+      <ValueOff>E7-03-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FC5F0CC</Offset>
+      <Section>0</Section>
+      <ValueOn>41-50-44-8B-05-2F-0E-01-00-44-89-80-EC-03-00-00-41-58-C5-FA-2A-80-EC-03-00-00-E9-19-A5-9D-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>806395FC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CB-5A-62-FF-90-90-90</ValueOn>
+      <ValueOff>C5-FA-2A-80-EC-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ammo Pistol" Description="Max Ammo Pistol">
+    <Cheatline>
+      <Offset>7FC6FF08</Offset>
+      <Section>0</Section>
+      <ValueOn>E7-03-00-00</ValueOn>
+      <ValueOff>E7-03-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FC5F10B</Offset>
+      <Section>0</Section>
+      <ValueOn>41-50-44-8B-05-F4-0D-01-00-44-89-80-F0-03-00-00-41-58-C5-FA-2A-88-F0-03-00-00-E9-52-A5-9D-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80639674</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-92-5A-62-FF-90-90-90</ValueOn>
+      <ValueOff>C5-FA-2A-88-F0-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ammo Pistol Clip" Description="Max Ammo Pistol Clip">
+    <Cheatline>
+      <Offset>7FC6FF0C</Offset>
+      <Section>0</Section>
+      <ValueOn>E7-03-00-00</ValueOn>
+      <ValueOff>E7-03-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FC5F14A</Offset>
+      <Section>0</Section>
+      <ValueOn>41-50-44-8B-05-B9-0D-01-00-44-89-80-E8-03-00-00-41-58-C5-FA-2A-90-E8-03-00-00-E9-FF-A4-9D-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80639660</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E5-5A-62-FF-90-90-90</ValueOn>
+      <ValueOff>C5-FA-2A-90-E8-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Liquid Nitrogen" Description="Max Liquid Nitrogen">
+    <Cheatline>
+      <Offset>7FC6FF10</Offset>
+      <Section>0</Section>
+      <ValueOn>E7-03-00-00</ValueOn>
+      <ValueOff>E7-03-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FC5F189</Offset>
+      <Section>0</Section>
+      <ValueOn>51-8B-0D-80-0D-01-00-41-89-88-E8-01-00-00-59-41-39-98-E8-01-00-00-E9-EB-7C-95-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>805B6E88</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FC-82-6A-FF-90-90</ValueOn>
+      <ValueOff>41-39-98-E8-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max EM Coil" Description="Max EM Coil">
+    <Cheatline>
+      <Offset>7FC6FF14</Offset>
+      <Section>0</Section>
+      <ValueOn>E7-03-00-00</ValueOn>
+      <ValueOff>E7-03-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FC5F1C4</Offset>
+      <Section>0</Section>
+      <ValueOn>51-8B-0D-49-0D-01-00-41-89-88-EC-01-00-00-59-45-39-88-EC-01-00-00-E9-B9-7C-95-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>805B6E91</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2E-83-6A-FF-90-90</ValueOn>
+      <ValueOff>45-39-88-EC-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Energy Cell" Description="Max Energy Cell">
+    <Cheatline>
+      <Offset>7FC6FF18</Offset>
+      <Section>0</Section>
+      <ValueOn>E7-03-00-00</ValueOn>
+      <ValueOff>E7-03-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FC5F1FF</Offset>
+      <Section>0</Section>
+      <ValueOn>51-8B-0D-12-0D-01-00-41-89-88-F0-01-00-00-59-45-39-90-F0-01-00-00-E9-87-7C-95-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>805B6E9A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-60-83-6A-FF-90-90</ValueOn>
+      <ValueOff>45-39-90-F0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Skillpoints" Description="Max Skillpoints">
+    <Cheatline>
+      <Offset>7FC6FF1C</Offset>
+      <Section>0</Section>
+      <ValueOn>E7-03-00-00</ValueOn>
+      <ValueOff>E7-03-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FC5F23A</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-35-DC-0C-01-00-E9-23-76-9D-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80636861</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D4-89-62-FF-90-90</ValueOn>
+      <ValueOff>41-8B-B7-54-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Level" Description="Max Level">
+    <Cheatline>
+      <Offset>7FC6FF20</Offset>
+      <Section>0</Section>
+      <ValueOn>63-00-00-00</ValueOn>
+      <ValueOff>63-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FC5F265</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-35-B5-0C-01-00-41-89-B7-50-01-00-00-41-8B-B7-50-01-00-00-E9-6C-73-9D-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>806365E3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7D-8C-62-FF-90-90</ValueOn>
+      <ValueOff>41-8B-B7-50-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Walk Speed Multiplier Mastercode" Description="Walk Speed Multiplier Mastercode">
+    <Cheatline>
+      <Offset>7FC5F29E</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-83-C4-00-00-00-F3-0F-59-05-76-0C-01-00-E9-E4-42-A2-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8068358F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0A-BD-5D-FF-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-83-C4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Walk Multiplier x 1 [ MC ]" Description="Walk Multiplier x 1 [ MC ]">
+    <Cheatline>
+      <Offset>7FC6FF24</Offset>
+      <Section>0</Section>
+      <ValueOn>00-00-80-3F</ValueOn>
+      <ValueOff>00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

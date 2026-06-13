@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Gundam Breaker 3: Break Edition" Moder="Weysincha" Cusa="CUSA07651" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Fighting" />
+  <Genres Name="Shooter" />
+  <Genres Name="Arcade" />
+  <Items />
+  <Cheat Text="Inf Boost">
+    <Cheatline>
+      <Offset>A6CE5C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-04-48-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A6CF71</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-04-48-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Health">
+    <Cheatline>
+      <Offset>2E57800</Offset>
+      <Section>0</Section>
+      <ValueOn>66-9C-49-83-F8-03-74-10-66-9D-90-90-90-90-90-90-90-90-90-E9-94-75-BA-FD-66-9D-C4-C1-7A-11-87-94-07-00-00-E9-84-75-BA-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9FEDA3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-58-8A-45-02-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-87-94-07-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Max Ace points">
+    <Cheatline>
+      <Offset>BE7559</Offset>
+      <Section>0</Section>
+      <ValueOn>89-D1-90</ValueOn>
+      <ValueOff>0F-4C-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>A5F892</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-79-CF-F9-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Kill all Enemies in Stage ( Reboot Ally after use !!! )">
+    <Cheatline>
+      <Offset>2E578E4</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-FA-01-75-09-C4-C1-7A-10-87-94-07-00-00-E9-BF-74-BA-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9FEDAE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-31-8B-45-02-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-87-94-07-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Boost">
+    <Cheatline>
+      <Offset>2E57870</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-04-48-00-00-00-60-EA-46-C5-FA-10-80-04-48-00-00-E9-AA-FA-61-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>477329</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-42-05-9E-02-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-80-04-48-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Repair Kits ( Armor )">
+    <Cheatline>
+      <Offset>2E5783F</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-8C-0F-F8-48-00-00-E9-38-F7-C0-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A66F7C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BE-08-3F-02-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-8C-0F-F4-48-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Special Attacks">
+    <Cheatline>
+      <Offset>A67526</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-11-11</ValueOn>
+      <ValueOff>C4-C1-7A-11-09</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Energy ( Quick Menu )">
+    <Cheatline>
+      <Offset>2E5784E</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-8C-0F-F8-48-00-00-E9-A2-F7-C0-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A66FF5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-54-08-3F-02-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-8C-0F-F4-48-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Energy ( Rocket Launcher )">
+    <Cheatline>
+      <Offset>2E578C0</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-94-11-F8-48-00-00-E9-63-03-C1-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A67C28</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-93-FC-3E-02-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-94-11-F4-48-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Burst ( Special Attack L3 + R3 )">
+    <Cheatline>
+      <Offset>2E578A0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-68-01-00-00-00-40-1C-45-C5-FA-10-83-68-01-00-00-C5-FA-11-83-68-01-00-00-E9-9C-C5-B9-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9F3E53</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-48-3A-46-02-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-68-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max GP">
+    <Cheatline>
+      <Offset>2E57887</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-94-F2-02-00-FF-E0-F5-05-44-8B-B0-94-F2-02-00-E9-37-27-B1-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>969FCD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B5-D8-4E-02-90-90</ValueOn>
+      <ValueOff>44-8B-B0-94-F2-02-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ace Points ( on gain )">
+    <Cheatline>
+      <Offset>BE755C</Offset>
+      <Section>0</Section>
+      <ValueOn>89-54-83-08</ValueOn>
+      <ValueOff>89-4C-83-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Tickets">
+    <Cheatline>
+      <Offset>2E578D0</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-B5-CB-D7-FD-FF-4B-1C-C7-43-1C-04-00-00-00-E9-5F-59-D3-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B8D23B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-90-A6-2C-02-90-90-90</ValueOn>
+      <ValueOff>E8-50-72-04-00-FF-4B-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

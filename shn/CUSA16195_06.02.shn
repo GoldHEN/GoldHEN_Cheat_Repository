@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dirt 5" Moder="Reddevil82 - FW 9.00" Cusa="CUSA16195" Version="06.02" Process="eboot.bin">
+  <Genres Name="Racing" />
+  <Items />
+  <Cheat Text="Max Money">
+    <Cheatline>
+      <Offset>1023DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-57-41-BF-00-CA-9A-3B-44-89-B8-40-19-01-00-41-5F-8B-80-40-19-01-00-E9-6E-6A-BF-FF-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C1A834</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-77-95-40-00-90</ValueOn>
+      <ValueOff>8B-80-40-19-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP ( on gain )">
+    <Cheatline>
+      <Offset>1023DE0</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-3F-42-0F-00-89-15-E5-6F-DD-00-E9-0D-83-B8-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BAC0F7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E4-7C-47-00-90</ValueOn>
+      <ValueOff>89-15-D3-EC-24-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

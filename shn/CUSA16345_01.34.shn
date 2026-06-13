@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Immortals Fenyx Rising" Moder="Reddevil82 - FW 9.00" Cusa="CUSA16345" Version="01.34" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>6FCBDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-87-34-FE-FF-FF-89-87-30-FE-FF-FF-8B-87-30-FE-FF-FF-E9-EF-E0-24-FC-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3219EB0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FB-1E-DB-03-90</ValueOn>
+      <ValueOff>8B-87-30-FE-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>6FCBDDB</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-85-5C-01-00-00-C4-C1-7A-11-85-D0-01-00-00-E9-9D-48-25-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3220686</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-50-B7-DA-03-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-85-D0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items ( on gain )">
+    <Cheatline>
+      <Offset>6FCBDF2</Offset>
+      <Section>0</Section>
+      <ValueOn>48-85-DB-C7-00-63-00-00-00-E9-73-6F-7E-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>37B2D6E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7F-90-81-03</ValueOn>
+      <ValueOff>48-85-DB-89-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items ( on use )">
+    <Cheatline>
+      <Offset>6FCBE01</Offset>
+      <Section>0</Section>
+      <ValueOn>29-C8-41-C7-46-F8-63-00-00-00-E9-01-77-7E-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>37B350B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F1-88-81-03-90</ValueOn>
+      <ValueOff>29-C8-41-89-46-F8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Jumps ( with Wings )">
+    <Cheatline>
+      <Offset>6FCBE10</Offset>
+      <Section>0</Section>
+      <ValueOn>31-C0-89-83-B4-06-00-00-E9-B6-CF-28-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5258DCD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3E-30-D7-01-90</ValueOn>
+      <ValueOff>89-83-B4-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Sword">
+    <Cheatline>
+      <Offset>6FCBE1D</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-A4-02-00-00-06-00-00-00-8B-80-A4-02-00-00-E9-3B-F2-F1-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3EEB067</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B1-0D-0E-03-90</ValueOn>
+      <ValueOff>8B-80-A4-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Axe">
+    <Cheatline>
+      <Offset>6FCBE32</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-A8-02-00-00-06-00-00-00-8B-80-A8-02-00-00-E9-48-F2-F1-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3EEB089</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A4-0D-0E-03-90</ValueOn>
+      <ValueOff>8B-80-A8-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Helmet">
+    <Cheatline>
+      <Offset>6FCBE47</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-B0-02-00-00-06-00-00-00-8B-80-B0-02-00-00-E9-1E-53-F2-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3EF1174</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CE-AC-0D-03-90</ValueOn>
+      <ValueOff>8B-80-B0-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Armor">
+    <Cheatline>
+      <Offset>6FCBE5C</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-B4-02-00-00-06-00-00-00-8B-80-B4-02-00-00-E9-11-53-F2-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3EF117C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DB-AC-0D-03-90</ValueOn>
+      <ValueOff>8B-80-B4-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Bow">
+    <Cheatline>
+      <Offset>6FCBE71</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-AC-02-00-00-06-00-00-00-8B-80-AC-02-00-00-E9-01-F2-F1-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3EEB081</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EB-0D-0E-03-90</ValueOn>
+      <ValueOff>8B-80-AC-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

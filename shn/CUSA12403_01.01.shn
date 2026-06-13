@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Fall of Light: Darkest Edition" Moder="Reddevil82 - FW 9.00" Cusa="CUSA12403" Version="01.01" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Invulnerable">
+    <Cheatline>
+      <Offset>184DAA</Offset>
+      <Section>14</Section>
+      <ValueOn>B0-01-90-90</ValueOn>
+      <ValueOff>41-8A-47-3C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>1567DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>44-8B-68-18-44-89-68-1C-44-8B-60-1C-E9-85-1C-BA-7E-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80109A3E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6D-E3-45-81-90-90-90</ValueOn>
+      <ValueOff>44-8B-68-18-44-8B-60-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>1567DD5</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-40-28-C5-FA-11-40-2C-C5-FA-10-40-2C-E9-14-5F-A6-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FFCDCF8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D8-A0-59-81</ValueOn>
+      <ValueOff>C5-FA-10-40-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill">
+    <Cheatline>
+      <Offset>1567E24</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-85-54-A0-B0-7E-41-8B-45-1C-41-BF-E8-03-00-00-E9-3A-A0-B0-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80071E6D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B2-5F-4F-81-90</ValueOn>
+      <ValueOff>75-15-41-8B-45-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Black Medallion Heal">
+    <Cheatline>
+      <Offset>1567DE9</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-8E-78-CF-B9-7E-C7-40-60-08-00-00-00-48-63-40-60-E9-1F-CD-B9-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80104B14</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D0-32-46-81-90-90-90-90-90</ValueOn>
+      <ValueOff>0F-8E-53-02-00-00-48-63-40-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Latern">
+    <Cheatline>
+      <Offset>1567DFF</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-40-78-C5-FA-11-40-7C-C5-FA-10-40-7C-E9-5F-65-A6-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FFCE36D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8D-9A-59-81</ValueOn>
+      <ValueOff>C5-FA-10-40-7C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Shrine Bar">
+    <Cheatline>
+      <Offset>1567E13</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-14-9F-86-01-00-C5-F2-2A-40-14-E9-76-D1-B9-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80104F95</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-79-2E-46-81</ValueOn>
+      <ValueOff>C5-F2-2A-40-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

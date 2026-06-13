@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ys VIII: Lacrimosa of Dana" Moder="Weysincha" Cusa="CUSA08570" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Inf Health">
+    <Cheatline>
+      <Offset>5F3800</Offset>
+      <Section>0</Section>
+      <ValueOn>66-9C-83-F8-04-74-15-66-9D-41-54-C4-C1-7A-11-AC-24-60-10-00-00-41-5C-E9-23-C2-C6-FF-66-9D-C4-C1-7A-11-8C-24-60-10-00-00-E9-12-C2-C6-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25FA35</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C6-3D-39-00-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-8C-24-60-10-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

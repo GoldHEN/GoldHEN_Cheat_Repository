@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Golden Force" Moder="Reddevil82 - FW 9.00" Cusa="CUSA25791" Version="01.06" Process="eboot.bin">
+  <Genres Name="Arcade" />
+  <Items />
+  <Cheat Text="Max Lives">
+    <Cheatline>
+      <Offset>18B7DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-65-3C-F7-7E-C7-40-18-63-00-00-00-E9-6C-3B-F7-7E-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8082B928</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-83-C4-08-81-90</ValueOn>
+      <ValueOff>0F-84-F3-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill ( dont use on boss )">
+    <Cheatline>
+      <Offset>18B7DD6</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-46-28-41-83-7E-64-01-75-07-29-D8-E9-D8-34-C8-7E-83-E8-63-E9-D0-34-C8-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8053B2BA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-17-CB-37-81-90</ValueOn>
+      <ValueOff>41-89-46-28-29-D8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Coins ( on gain )">
+    <Cheatline>
+      <Offset>18B7DF0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-01-5C-24-1C-41-C7-44-24-1C-3F-42-0F-00-E9-FC-15-3B-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80C693FA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F1-E9-C4-80</ValueOn>
+      <ValueOff>41-01-5C-24-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Combo">
+    <Cheatline>
+      <Offset>18B7E03</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-74-0F-27-00-00-41-8B-5C-24-74-E9-11-F0-F0-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807C6E22</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DC-0F-0F-81</ValueOn>
+      <ValueOff>41-8B-5C-24-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Medailles">
+    <Cheatline>
+      <Offset>18B7E16</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-95-08-D6-7E-C7-40-2C-0F-27-00-00-44-8B-78-2C-E9-FE-07-D6-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80618620</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F1-F7-29-81-90-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-91-00-00-00-44-8B-78-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Cokiajs">
+    <Cheatline>
+      <Offset>18B7E2C</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-00-06-D6-7E-C7-40-34-0F-27-00-00-44-8B-78-34-E9-5E-05-D6-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80618396</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-91-FA-29-81-90-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-9C-00-00-00-44-8B-78-34</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Combo Time">
+    <Cheatline>
+      <Offset>18B7E42</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-70-00-00-40-41-E9-E5-F0-F0-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807C6F2E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0F-0F-0F-81-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4C-24-70</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mastercode: Infinite Items Time ( after use )">
+    <Cheatline>
+      <Offset>18B7E63</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7B-10-00-75-0A-C5-FA-11-43-14-E9-82-3D-F7-7E-83-7B-10-01-75-0A-C5-FA-11-43-14-E9-72-3D-F7-7E-83-7B-10-03-75-0A-C5-FA-11-43-14-E9-62-3D-F7-7E-83-7B-10-04-75-0A-C5-FA-11-43-14-E9-52-3D-F7-7E-C5-FA-11-43-14-E9-48-3D-F7-7E-C7-43-14-00-00-C8-42-F3-0F-10-43-14-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8082BBF0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6E-C2-08-81</ValueOn>
+      <ValueOff>C5-FA-11-43-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Fire Boost Time [MC] ( after use  )">
+    <Cheatline>
+      <Offset>18B7E69</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-3F-00-00-00</ValueOn>
+      <ValueOff>C5-FA-11-43-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ice Boost Time [MC] ( after use  )">
+    <Cheatline>
+      <Offset>18B7E79</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-2F-00-00-00</ValueOn>
+      <ValueOff>C5-FA-11-43-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Invincible Time [MC] ( after use  )">
+    <Cheatline>
+      <Offset>18B7E89</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-1F-00-00-00</ValueOn>
+      <ValueOff>C5-FA-11-43-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Attack Boost Time [MC] ( after use  )">
+    <Cheatline>
+      <Offset>18B7E99</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-0F-00-00-00</ValueOn>
+      <ValueOff>C5-FA-11-43-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Super Jump">
+    <Cheatline>
+      <Offset>18B7E50</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-45-60-CD-CC-CC-3D-C4-C1-7A-10-4D-60-E9-1A-90-D2-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>805E0E77</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D4-6F-2D-81-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-4D-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

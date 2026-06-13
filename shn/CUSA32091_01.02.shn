@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Pyramid Quest" Moder="Saso_9.00" Cusa="CUSA32091" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Untouchable">
+    <Cheatline>
+      <Offset>42C216</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-05-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Lives">
+    <Cheatline>
+      <Offset>40F548</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-87-14-02-00-00</ValueOn>
+      <ValueOff>8B-87-18-02-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>40F552</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-C0</ValueOn>
+      <ValueOff>FF-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Knives">
+    <Cheatline>
+      <Offset>40F430</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-87-18-02-00-00</ValueOn>
+      <ValueOff>8B-87-14-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

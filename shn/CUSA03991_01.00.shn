@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dying Light: The Following: Enhanced Edition" Moder="DeathRGH" Cusa="CUSA03991" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>A659DE</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-93-F4-11-00-00</ValueOn>
+      <ValueOff>C5-FA-11-83-F4-11-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>B87602</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>44-89-7C-08-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>5FCB31</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-7A-D2-EB-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Weapon Durability">
+    <Cheatline>
+      <Offset>5FCF76</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Grappling Hook Stamina">
+    <Cheatline>
+      <Offset>C36FD8</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Part / Item Count">
+    <Cheatline>
+      <Offset>5FCB3B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>45-89-37</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money">
+    <Cheatline>
+      <Offset>B86B8F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP">
+    <Cheatline>
+      <Offset>AE36BA</Offset>
+      <Section>0</Section>
+      <ValueOn>4C-01-F9</ValueOn>
+      <ValueOff>4C-01-F9</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

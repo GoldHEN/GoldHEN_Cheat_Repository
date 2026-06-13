@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Croc's World" Moder="Reddevil82 - FW 9.00" Cusa="CUSA14158" Version="01.01" Process="eboot.bin">
+  <Genres Name="Arcade" />
+  <Items />
+  <Cheat Text="Max Lives" Description="Max Lives">
+    <Cheatline>
+      <Offset>26CFDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-63-00-00-00-41-89-87-04-04-00-00-E9-A8-7A-AC-FD-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>197862</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-49-85-53-02-90-90</ValueOn>
+      <ValueOff>49-63-87-04-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Timer" Description="Max Timer">
+    <Cheatline>
+      <Offset>26CFDD5</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-14-04-00-00-00-C0-79-44-E9-0A-4B-AB-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1848E6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EA-B4-54-02-90-90-90-90</ValueOn>
+      <ValueOff>F3-41-0F-11-86-14-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Gems" Description="Max Gems">
+    <Cheatline>
+      <Offset>26CFDE5</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-00-04-00-00-63-00-00-00-E9-A7-A8-AD-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1AA695</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4B-57-52-02-90-90</ValueOn>
+      <ValueOff>41-89-87-00-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Stones - [ Infinite Health ]" Description="Max Stones - [ Infinite Health ]">
+    <Cheatline>
+      <Offset>26CFDF5</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-E7-03-00-00-41-89-87-10-04-00-00-E9-D5-7C-AC-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>197AD4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1C-83-53-02-90-90</ValueOn>
+      <ValueOff>49-63-87-10-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Score" Description="Max Score">
+    <Cheatline>
+      <Offset>26CFE06</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-7F-96-98-00-41-89-87-F0-03-00-00-E9-1C-79-AC-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>19772C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D5-86-53-02-90-90</ValueOn>
+      <ValueOff>49-8B-87-F0-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Moon Jump" Description="Moon Jump">
+    <Cheatline>
+      <Offset>1A8467</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-40-30-00</ValueOn>
+      <ValueOff>C6-40-30-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlock All Stages [ World 1 ]" Description="Unlock All Stages [ World 1 ]">
+    <Cheatline>
+      <Offset>26CFE17</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-24-1E-00-00-00-48-63-40-24-4D-85-F6-E9-25-FB-AE-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1BF948</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CA-04-51-02-90-90</ValueOn>
+      <ValueOff>48-63-40-24-4D-85-F6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlock All Stages [ World 2 ]" Description="Unlock All Stages [ World 2 ]">
+    <Cheatline>
+      <Offset>26CFE2A</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-28-1E-00-00-00-48-63-40-28-4D-85-F6-E9-46-FB-AE-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1BF97C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A9-04-51-02-90-90</ValueOn>
+      <ValueOff>48-63-40-28-4D-85-F6</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

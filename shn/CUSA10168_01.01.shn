@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sword Art Online: Fatal Bullet" Moder="TLH" Cusa="CUSA10168" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Fighting" />
+  <Genres Name="RPG" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="PlayerBase">
+    <Cheatline>
+      <Offset>5E7B800</Offset>
+      <Section>0</Section>
+      <ValueOn>50-48-C7-C0-F0-FF-DF-06-48-89-18-58-C5-FA-10-83-3C-13-00-00-E9-6C-8A-26-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E427D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7E-75-D9-05-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-83-3C-13-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Health / 1 Hit Kills">
+    <Cheatline>
+      <Offset>5E7B81B</Offset>
+      <Section>0</Section>
+      <ValueOn>50-48-C7-C0-F0-FF-DF-06-48-8B-00-49-39-C6-58-74-0E-80-3D-E7-FF-FF-FF-01-75-0E-0F-57-C0-EB-0E-80-3D-D8-FF-FF-FF-01-74-05-C5-FA-5C-45-80-E9-E6-A9-31-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>19622E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E8-55-CE-05</ValueOn>
+      <ValueOff>C5-FA-5C-45-80</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>5E7B819</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kills">
+    <Cheatline>
+      <Offset>5E7B81A</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bottomless Clip">
+    <Cheatline>
+      <Offset>248DFC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>3BBC94</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-D8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ammo on Pick">
+    <Cheatline>
+      <Offset>3BBC06</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-4F-D6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money on Spend">
+    <Cheatline>
+      <Offset>2A45F2</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-4C-C6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money">
+    <Cheatline>
+      <Offset>2A45E4</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-77-70</ValueOn>
+      <ValueOff>03-77-70</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Ignore Money on Buy">
+    <Cheatline>
+      <Offset>6607CE</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>0F-8F-8F-06-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>77926C</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-33</ValueOn>
+      <ValueOff>7D-33</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>78A36F</Offset>
+      <Section>0</Section>
+      <ValueOn>31-DB-90-90-90-90</ValueOn>
+      <ValueOff>81-C3-F4-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>786280</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>7F-11</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Max Weapon Gauge">
+    <Cheatline>
+      <Offset>18B2E2</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-5C-C1</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>18F20B</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-5F-80-04-04-00-00</ValueOn>
+      <ValueOff>C5-FA-5D-80-04-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Level on LevelUp">
+    <Cheatline>
+      <Offset>2A3CB8</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-4C-C6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max CP on LevelUp">
+    <Cheatline>
+      <Offset>2A3D13</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-4C-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite CP">
+    <Cheatline>
+      <Offset>7CBAE2</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-C8</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2A4467</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>2B-47-38-2B-47-3C-2B-47-40-2B-47-44-2B-47-48-2B-47-4C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Raise CP-Cap from 24520 to 65535">
+    <Cheatline>
+      <Offset>2A3D08</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-FF-FF-00-00-81-F9-00-00-01-00</ValueOn>
+      <ValueOff>B8-C8-5F-00-00-81-F9-C9-5F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy Quests">
+    <Cheatline>
+      <Offset>303933</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-4E-C7</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items">
+    <Cheatline>
+      <Offset>668628</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-D8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="20k XP each Kill">
+    <Cheatline>
+      <Offset>1DF03D</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-20-4E-00-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-59-C1-C5-FA-2C-D8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Medals on Get">
+    <Cheatline>
+      <Offset>2F84F0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-0F-4C-D4</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Medals on Use">
+    <Cheatline>
+      <Offset>2F3339</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>0F-4C-FE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Medals">
+    <Cheatline>
+      <Offset>2F3331</Offset>
+      <Section>0</Section>
+      <ValueOn>89-CE</ValueOn>
+      <ValueOff>01-CE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Chest-Loot">
+    <Cheatline>
+      <Offset>278CFA</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-46-58-01</ValueOn>
+      <ValueOff>41-C6-46-58-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Box Items">
+    <Cheatline>
+      <Offset>3BBC02</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Stats 255">
+    <Cheatline>
+      <Offset>5E7B84D</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-50-FF-00-00-00-C7-43-54-FF-00-00-00-C7-43-58-FF-00-00-00-C7-43-5C-FF-00-00-00-C7-43-60-FF-00-00-00-C7-43-64-FF-00-00-00-C5-F8-10-43-50-E9-B5-33-92-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>79EC31</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-17-CC-6D-05</ValueOn>
+      <ValueOff>C5-F8-10-43-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

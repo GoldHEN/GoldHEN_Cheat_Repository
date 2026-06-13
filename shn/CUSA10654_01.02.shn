@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Yoku's Island Express" Moder="fbin" Cusa="CUSA10654" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Arcade" />
+  <Genres Name="Family" />
+  <Items />
+  <Cheat Text="Frutas Infinitas 999">
+    <Cheatline>
+      <Offset>593E80</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8D-04-1C-41-C7-07-E7-03-00-00-E9-8B-E3-C9-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>232214</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-67-1C-36-00-90-90</ValueOn>
+      <ValueOff>41-8D-04-1C-41-89-07</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>593DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4F-C1-41-C7-07-E7-03-00-00-E9-9F-E4-C9-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>232258</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-53-1B-36-00-90</ValueOn>
+      <ValueOff>0F-4F-C1-41-89-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Itens Infinito">
+    <Cheatline>
+      <Offset>593F20</Offset>
+      <Section>0</Section>
+      <ValueOn>48-6B-C0-78-C7-44-01-48-E7-03-00-00-E9-2B-AB-CD-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>26EA54</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C7-54-32-00-90-90-90</ValueOn>
+      <ValueOff>48-6B-C0-78-FF-44-01-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

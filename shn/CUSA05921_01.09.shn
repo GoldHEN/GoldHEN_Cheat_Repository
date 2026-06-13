@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ride 2" Moder="Ceogamez" Cusa="CUSA05921" Version="01.09" Process="eboot.bin">
+  <Genres Name="Racing" />
+  <Items />
+  <Cheat Text="Max Money/Tokens">
+    <Cheatline>
+      <Offset>1822348</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>41-8B-0F</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1821D80</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-46-04</ValueOn>
+      <ValueOff>41-89-5E-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

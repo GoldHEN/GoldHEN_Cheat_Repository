@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Pang Adventures" Moder="Molly " Cusa="CUSA05906" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="High Score">
+    <Cheatline>
+      <Offset>60FC11</Offset>
+      <Section>0</Section>
+      <ValueOn>05-9F-86-01-00-01-83-80-00-00-00-E9-04-24-A0-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1201F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-ED-DB-5F-00-90</ValueOn>
+      <ValueOff>01-83-80-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>60FC29</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-FF-FF-FF-FF-89-73-08-E9-5F-D0-A6-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7CC90</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-94-2F-59-00</ValueOn>
+      <ValueOff>FF-CE-89-73-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

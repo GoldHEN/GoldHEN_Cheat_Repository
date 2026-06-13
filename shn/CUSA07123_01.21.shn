@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Nioh" Moder="gokusuper" Cusa="CUSA07123" Version="01.21" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Inf lightning water ninjutsu power">
+    <Cheatline>
+      <Offset>194F0B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="sup">
+    <Cheatline>
+      <Offset>13F7800</Offset>
+      <Section>0</Section>
+      <ValueOn>49-8B-46-20-49-89-46-20-89-C1-53-48-C7-C3-00-40-00-00-4C-89-33-5B-E9-F4-C1-2B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6B3A09</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F2-3D-D4-00-90</ValueOn>
+      <ValueOff>49-8B-46-20-89-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="God Mode">
+    <Cheatline>
+      <Offset>13F7800</Offset>
+      <Section>0</Section>
+      <ValueOn>49-8B-46-18</ValueOn>
+      <ValueOff>49-8B-46-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinit stamina">
+    <Cheatline>
+      <Offset>13F781B</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-47-04-C5-FA-11-07-C5-FA-58-47-10-E9-FB-42-DB-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1ABB24</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F2-BC-24-01</ValueOn>
+      <ValueOff>C5-FA-58-47-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="2 hit kill">
+    <Cheatline>
+      <Offset>13F782E</Offset>
+      <Section>0</Section>
+      <ValueOn>57-48-89-DF-48-83-EF-10-48-3B-3D-C3-C7-80-FE-74-0B-48-C7-C1-00-00-00-00-48-89-4B-08-48-89-4B-10-5F-48-39-C8-0F-84-63-24-DB-FE-E9-2C-24-DB-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1A9C80</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A9-DB-24-01-90-90</ValueOn>
+      <ValueOff>48-89-4B-10-48-39-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinit Amirta">
+    <Cheatline>
+      <Offset>13F785D</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-08-FF-E0-F5-05-4C-8B-78-08-4C-8B-63-70-E9-15-15-0F-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4E8D7E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DA-EA-F0-00-90-90-90</ValueOn>
+      <ValueOff>4C-8B-78-08-4C-8B-63-70</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="infinit Gold">
+    <Cheatline>
+      <Offset>13F7871</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-10-FF-E0-F5-05-4C-8B-78-10-4C-8B-63-78-E9-01-17-0F-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4E8F7E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EE-E8-F0-00-90-90-90</ValueOn>
+      <ValueOff>4C-8B-78-10-4C-8B-63-78</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

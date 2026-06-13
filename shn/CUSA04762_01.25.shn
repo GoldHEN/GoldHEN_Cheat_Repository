@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call of Duty: Infinite Warfare" Moder="Celogamez" Cusa="CUSA04762" Version="01.25" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Health/1 Hit Kill (Master Code/Must Be On)">
+    <Cheatline>
+      <Offset>14BBE80</Offset>
+      <Section>0</Section>
+      <ValueOn>66-81-FB-A0-43-75-0E-41-89-B5-E0-01-00-00-E9-50-1F-14-FF-31-F6-41-89-B5-E0-01-00-00-E9-42-1F-14-FF-43-65-6C-6F-67-61-6D-65-7A-5F-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5FDDDC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9F-E0-EB-00-90-90</ValueOn>
+      <ValueOff>41-89-B5-E0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health (Enable MC)">
+    <Cheatline>
+      <Offset>14BBE87</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8B-B5-E0-01-00-00</ValueOn>
+      <ValueOff>41-89-B5-E0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill (Enable MC)">
+    <Cheatline>
+      <Offset>14BBE85</Offset>
+      <Section>0</Section>
+      <ValueOn>75-0C</ValueOn>
+      <ValueOff>75-0E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>7FC5BF60</Offset>
+      <Section>0</Section>
+      <ValueOn>4C-89-E9-8B-58-14-E9-E6-2D-C7-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8CED4B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-10-D2-38-7F-90</ValueOn>
+      <ValueOff>4C-89-E9-89-58-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>7FC5BE80</Offset>
+      <Section>0</Section>
+      <ValueOn>44-8B-6C-88-14-E9-80-29-C7-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8CE805</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-76-D6-38-7F</ValueOn>
+      <ValueOff>44-89-6C-88-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Throwables">
+    <Cheatline>
+      <Offset>7FC59A60</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4E-D1-8B-50-14-E9-E8-5B-C6-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8BF64D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0E-A4-39-7F-90</ValueOn>
+      <ValueOff>0F-4E-D1-89-50-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Jetpack">
+    <Cheatline>
+      <Offset>7FC5B660</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-04-24-E9-DC-9B-6B-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>315241</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1A-64-94-7F-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-04-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

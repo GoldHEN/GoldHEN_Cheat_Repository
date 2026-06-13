@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Blue Reflection: Second Light" Moder="Wander FW9.00" Cusa="CUSA25335" Version="01.05" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>141B5C0</Offset>
+      <Section>0</Section>
+      <ValueOn>80-BB-34-01-00-00-01-75-0F-C7-83-14-01-00-00-E7-03-00-00-E9-ED-62-F8-FE-89-83-14-01-00-00-E9-E2-62-F8-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3A18BF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FC-9C-07-01-90</ValueOn>
+      <ValueOff>89-83-14-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite EP (turn off at the tutorial)">
+    <Cheatline>
+      <Offset>141B9B0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-50-08-00-00-80-4F-C3-47-E9-EF-22-F8-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>39DCA6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-05-DD-07-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-50-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Experience Multiplier by 500">
+    <Cheatline>
+      <Offset>141B950</Offset>
+      <Section>0</Section>
+      <ValueOn>69-F6-F4-01-00-00-01-77-08-48-89-FB-E9-5B-8C-18-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5A45B6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-95-73-E7-00-90</ValueOn>
+      <ValueOff>01-77-08-48-89-FB</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="80 items (on pickup and Craft)">
+    <Cheatline>
+      <Offset>141BBD0</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-47-06-50-00-C3-E9-49-B1-F0-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>326D20</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AB-4E-0F-01</ValueOn>
+      <ValueOff>66-89-77-06-C3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="90 TP (on spend )">
+    <Cheatline>
+      <Offset>141BC10</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-47-02-5A-00-C3-E9-69-3A-DE-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1FF680</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8B-C5-21-01</ValueOn>
+      <ValueOff>66-89-47-02-C3</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

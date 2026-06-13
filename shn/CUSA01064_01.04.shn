@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="inFamous: First Light" Moder="Fullcodes������ԭ����" Cusa="CUSA01064" Version="01.04" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Skill Point 999">
+    <Cheatline>
+      <Offset>0022419D</Offset>
+      <Section>0</Section>
+      <ValueOn>49-89-D6-BB-E7-03-00-00</ValueOn>
+      <ValueOff>85-F6-49-89-D6-0F-49-DE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Player Health">
+    <Cheatline>
+      <Offset>00261AFB</Offset>
+      <Section>0</Section>
+      <ValueOn>5F</ValueOn>
+      <ValueOff>5C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Neon Energy Usage">
+    <Cheatline>
+      <Offset>00257D96</Offset>
+      <Section>0</Section>
+      <ValueOn>5F</ValueOn>
+      <ValueOff>5C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Neon Singularity Usage">
+    <Cheatline>
+      <Offset>002C3248</Offset>
+      <Section>0</Section>
+      <ValueOn>95</ValueOn>
+      <ValueOff>94</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Melee Finisher Ammo Usage">
+    <Cheatline>
+      <Offset>002254C9</Offset>
+      <Section>0</Section>
+      <ValueOn>97</ValueOn>
+      <ValueOff>B7</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Easy to Complete Challenges">
+    <Cheatline>
+      <Offset>00225EEA</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-F0-A2-9A-3B-90-90</ValueOn>
+      <ValueOff>03-94-C7-4C-09-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlock All Abilities">
+    <Cheatline>
+      <Offset>00221903</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-E9-16-19-B9-00</ValueOn>
+      <ValueOff>8B-84-87-0C-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>00DB3220</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-84-87-0C-01-00-00-07-00-00-00-B8-07-00-00-00-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

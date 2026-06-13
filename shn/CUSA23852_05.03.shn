@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Anno: Mutationem" Moder="Wander FW9.00" Cusa="CUSA23852" Version="05.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>18B7330</Offset>
+      <Section>0</Section>
+      <ValueOn>80-B8-BC-00-00-00-00-75-09-C7-40-28-00-00-FA-43-EB-05-C5-FA-11-40-28-E9-27-C4-56-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80E2376E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BD-3B-A9-80</ValueOn>
+      <ValueOff>C5-FA-11-40-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo (Pistols)">
+    <Cheatline>
+      <Offset>7FC5F8D0</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-D5-F6-20-03-66-81-FC-70-59-75-0C-41-BE-0C-00-00-00-44-89-73-10-EB-04-44-89-73-10-E9-0D-76-F9-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80BF6EF5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D6-89-06-FF-90-90-90-90</ValueOn>
+      <ValueOff>E8-B6-80-27-02-44-89-73-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items/Talent/Attribute points">
+    <Cheatline>
+      <Offset>7FC5F880</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-25-F7-20-03-C7-43-14-0F-27-00-00-E9-ED-74-F9-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80BF6D75</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-06-8B-06-FF-90-90-90-90</ValueOn>
+      <ValueOff>E8-36-82-27-02-44-89-73-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Transformation (on hit)">
+    <Cheatline>
+      <Offset>18B7C10</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-10-00-00-C8-42-E9-27-DB-11-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>809D573E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CD-24-EE-80</ValueOn>
+      <ValueOff>C5-FA-11-4B-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Salt and Sanctuary" Moder="Vampirexx" Cusa="CUSA02353" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Arcade" />
+  <Genres Name="Platformer" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Inf Stamina" Description="Inf Stamina">
+    <Cheatline>
+      <Offset>2C2242</Offset>
+      <Section>0</Section>
+      <ValueOn>F3-44-0F-10-B8-F8-00-00-00</ValueOn>
+      <ValueOff>F3-44-0F-11-B8-F8-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2969BA</Offset>
+      <Section>0</Section>
+      <ValueOn>F3-44-0F-10-B8-F8-00-00-00</ValueOn>
+      <ValueOff>F3-44-0F-11-B8-F8-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>296A90</Offset>
+      <Section>0</Section>
+      <ValueOn>F3-44-0F-10-B8-F8-00-00-00</ValueOn>
+      <ValueOff>F3-44-0F-11-B8-F8-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>296947</Offset>
+      <Section>0</Section>
+      <ValueOn>F3-44-0F-10-B8-F8-00-00-00</ValueOn>
+      <ValueOff>F3-44-0F-11-B8-F8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Focus" Description="Inf Focus">
+    <Cheatline>
+      <Offset>2C2425</Offset>
+      <Section>0</Section>
+      <ValueOn>F3-44-0F-10-B8-3C-01-00-00</ValueOn>
+      <ValueOff>F3-44-0F-11-B8-3C-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>279329</Offset>
+      <Section>0</Section>
+      <ValueOn>F3-45-0F-10-BD-3C-01-00-00</ValueOn>
+      <ValueOff>F3-45-0F-11-BD-3C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Salt on Pickup" Description="Max Salt on Pickup">
+    <Cheatline>
+      <Offset>2D37DFC</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-FF-C9-9A-3B-41-89-87-3C-01-00-00-E9-B6-EE-8C-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>606CBD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3A-11-73-02-90</ValueOn>
+      <ValueOff>0F-84-E3-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money on Pickup" Description="Max Money on Pickup">
+    <Cheatline>
+      <Offset>2D37E0D</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-FF-C9-9A-3B-41-89-85-2C-01-00-00-E9-53-24-7C-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4FA26B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9D-DB-83-02-90</ValueOn>
+      <ValueOff>0F-84-51-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Items and Weapons (L3 Pressed while save to avoid freeze)" Description="Inf Items and Weapons (L3 Pressed while save to avoid freeze)">
+    <Cheatline>
+      <Offset>2D37E1E</Offset>
+      <Section>0</Section>
+      <ValueOn>53-48-BB-88-83-40-00-08-00-00-00-48-8B-1B-48-83-E3-02-75-04-48-63-48-28-5B-E9-2D-3D-91-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>64BB63</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B6-C2-6E-02-90</ValueOn>
+      <ValueOff>0F-84-FA-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Upgrade Points" Description="Inf Upgrade Points">
+    <Cheatline>
+      <Offset>64AEC4</Offset>
+      <Section>0</Section>
+      <ValueOn>44-01-F9</ValueOn>
+      <ValueOff>41-2B-CF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="God Mode" Description="God Mode">
+    <Cheatline>
+      <Offset>2D37E3C</Offset>
+      <Section>0</Section>
+      <ValueOn>81-B8-C4-00-00-00-AC-A9-6B-0E-75-09-F3-44-0F-10-B8-C4-00-00-00-E9-8E-AB-58-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2C29DF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-58-54-A7-02</ValueOn>
+      <ValueOff>F2-44-0F-5A-F8</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

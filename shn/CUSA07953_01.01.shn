@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Bloodstained: Ritual of the Night" Moder="GamerX2" Cusa="CUSA07953" Version="01.01" Process="eboot.bin">
+  <Genres Name="Platformer" />
+  <Items />
+  <Cheat Text="Infinite MP">
+    <Cheatline>
+      <Offset>701A000</Offset>
+      <Section>0</Section>
+      <ValueOn>45-85-F6-B9-E8-03-00-00-89-4B-3C-E9-4A-7A-28-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2A1A54</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A7-85-D7-06-90</ValueOn>
+      <ValueOff>45-85-F6-89-4B-3C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Gold On Gain">
+    <Cheatline>
+      <Offset>701A09C</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-7F-96-98-00-41-89-8F-54-02-00-00-E9-B6-EC-2B-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2D8D5C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3B-13-D4-06-90-90</ValueOn>
+      <ValueOff>41-89-8F-54-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Gold On Spend">
+    <Cheatline>
+      <Offset>701A104</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-08-01-CE-BE-7F-96-98-00-89-30-E9-45-F0-2B-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2D9153</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AC-0F-D4-06-90</ValueOn>
+      <ValueOff>8B-08-01-CE-89-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items On Buy/Gain">
+    <Cheatline>
+      <Offset>253F30</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-53-48</ValueOn>
+      <ValueOff>44-89-73-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items And Materials">
+    <Cheatline>
+      <Offset>25799D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-47-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items And Materials On Use/Sell">
+    <Cheatline>
+      <Offset>701A0AF</Offset>
+      <Section>0</Section>
+      <ValueOn>44-29-E8-B8-63-00-00-00-41-89-47-F0-E9-E1-D8-23-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25799A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-10-27-DC-06-90-90</ValueOn>
+      <ValueOff>44-29-E8-41-89-47-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze PlayTime">
+    <Cheatline>
+      <Offset>701A0D0</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-8F-68-02-00-00-C4-C1-7A-11-8F-68-02-00-00-E9-6B-03-2D-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2EA449</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-82-FC-D2-06-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-8F-68-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Rest PlayTime">
+    <Cheatline>
+      <Offset>701A0E9</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-11-8F-68-02-00-00-41-C7-87-68-02-00-00-00-00-00-00-E9-50-03-2D-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2EA449</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9B-FC-D2-06-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-8F-68-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Boost EXP">
+    <Cheatline>
+      <Offset>701A037</Offset>
+      <Section>0</Section>
+      <ValueOn>83-C1-19-41-89-4C-24-40-E9-16-6A-28-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2A0A55</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DD-95-D7-06</ValueOn>
+      <ValueOff>41-89-4C-24-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Extra EXP">
+    <Cheatline>
+      <Offset>701A046</Offset>
+      <Section>0</Section>
+      <ValueOn>83-C1-4B-41-89-4C-24-40-E9-07-6A-28-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2A0A55</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EC-95-D7-06</ValueOn>
+      <ValueOff>41-89-4C-24-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Even More EXP">
+    <Cheatline>
+      <Offset>701A055</Offset>
+      <Section>0</Section>
+      <ValueOn>81-C1-AF-00-00-00-41-89-4C-24-40-E9-F5-69-28-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2A0A55</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FB-95-D7-06</ValueOn>
+      <ValueOff>41-89-4C-24-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Lots Of EXP">
+    <Cheatline>
+      <Offset>701A067</Offset>
+      <Section>0</Section>
+      <ValueOn>81-C1-90-01-00-00-41-89-4C-24-40-E9-E3-69-28-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2A0A55</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0D-96-D7-06</ValueOn>
+      <ValueOff>41-89-4C-24-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Hella EXP">
+    <Cheatline>
+      <Offset>701A079</Offset>
+      <Section>0</Section>
+      <ValueOn>81-C1-E8-03-00-00-41-89-4C-24-40-E9-D1-69-28-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2A0A55</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1F-96-D7-06</ValueOn>
+      <ValueOff>41-89-4C-24-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="EXP OVERLORD | MAX LEVEL">
+    <Cheatline>
+      <Offset>701A08B</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-FF-E0-F5-05-41-89-4C-24-40-E9-C0-69-28-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2A0A55</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-31-96-D7-06</ValueOn>
+      <ValueOff>41-89-4C-24-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
+
+
+
+
+
+
+
+
+

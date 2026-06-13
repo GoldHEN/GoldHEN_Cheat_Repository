@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Binding of Isaac: Afterbirth+" Moder="Weysincha" Cusa="CUSA10195" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>17EC3C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-8A-98-27-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Bombs/ Coins/ Keys">
+    <Cheatline>
+      <Offset>527000</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-85-B8-27-00-00-63-00-00-00-41-C7-85-B0-27-00-00-63-00-00-00-41-C7-85-BC-27-00-00-63-00-00-00-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>19479B</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-60-28-39-00-90-90</ValueOn>
+      <ValueOff>41-FF-8D-B8-27-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

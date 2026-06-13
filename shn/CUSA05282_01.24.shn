@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call of Duty: Infinite Warfare" Moder="Rizla" Cusa="CUSA05282" Version="01.24" Process="eboot.bin">
+  <Genres Name="FPS" />
+  <Items />
+  <Cheat Text="God Mode">
+    <Cheatline>
+      <Offset>14BB800</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-7F-96-98-00-41-89-86-E0-01-00-00-E9-B9-9E-70-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BC56C3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-38-61-8F-00-90-90</ValueOn>
+      <ValueOff>41-8B-86-E0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>8CEBD1</Offset>
+      <Section>0</Section>
+      <ValueOn>83-EB-00</ValueOn>
+      <ValueOff>44-29-E3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>8CE687</Offset>
+      <Section>0</Section>
+      <ValueOn>83-EA-00</ValueOn>
+      <ValueOff>44-29-E2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill">
+    <Cheatline>
+      <Offset>14BB811</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BD-00-00-00-00-45-89-AC-24-E0-01-00-00-E9-E2-E6-8E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DA9EFE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0E-19-71-00-90-90-90</ValueOn>
+      <ValueOff>45-29-AC-24-E0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="God Mode">
+    <Cheatline>
+      <Offset>14BB800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-E4-01-00-00-7F-96-98-00-41-8B-86-E4-01-00-00-41-89-86-E0-01-00-00-E9-38-29-13-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5EE14F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AC-D6-EC-00-90-90</ValueOn>
+      <ValueOff>41-8B-86-E0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Exo Jump">
+    <Cheatline>
+      <Offset>315239</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-F8-2E-05-F7-75-FB-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Equipment">
+    <Cheatline>
+      <Offset>8BF4E0</Offset>
+      <Section>0</Section>
+      <ValueOn>89-D2-90</ValueOn>
+      <ValueOff>89-50-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Tactical Equipment">
+    <Cheatline>
+      <Offset>BD5601</Offset>
+      <Section>0</Section>
+      <ValueOn>45-89-F6-90-90</ValueOn>
+      <ValueOff>46-89-74-B8-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

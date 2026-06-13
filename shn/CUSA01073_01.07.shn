@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ratchet &amp; Clank" Moder="George and TLH" Cusa="CUSA01073" Version="01.07" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="max ammo">
+    <Cheatline>
+      <Offset>4BB1B8</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-5F-C1</ValueOn>
+      <ValueOff>C5-FA-5D-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
+
+
+
+
+
+
+
+
+

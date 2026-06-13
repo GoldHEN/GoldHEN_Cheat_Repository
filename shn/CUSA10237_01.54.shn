@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Horizon Zero Dawn: Complete Edition" Moder="Celogamez" Cusa="CUSA10237" Version="01.54" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Max/Infinite Health/1 Hit Kill (Master Code)">
+    <Cheatline>
+      <Offset>1F27800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-F9-13-75-12-C5-FA-11-43-64-C5-FA-11-43-64-E9-82-24-B1-FE-0F-57-C0-C5-FA-11-43-64-E9-75-24-B1-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A39C92</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-69-DB-4E-01</ValueOn>
+      <ValueOff>C5-FA-11-43-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Health (Enable MC)">
+    <Cheatline>
+      <Offset>1F27806</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-68</ValueOn>
+      <ValueOff>C5-FA-11-43-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill (Enable MC">
+    <Cheatline>
+      <Offset>1F27804</Offset>
+      <Section>0</Section>
+      <ValueOn>75-0F</ValueOn>
+      <ValueOff>75-12</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Health Regeneration">
+    <Cheatline>
+      <Offset>1F27910</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-4C-24-58-C4-C1-7A-11-4C-24-54-E9-64-A5-07-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FA1E80</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8B-5A-F8-00-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4C-24-54</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Aim Focus">
+    <Cheatline>
+      <Offset>7FC5BAB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-58-E9-77-5B-A4-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>16A162C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7F-A4-5B-7E</ValueOn>
+      <ValueOff>C5-FA-11-43-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Breath (Underwater)">
+    <Cheatline>
+      <Offset>7FC5BA40</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-46-54-E9-49-C4-84-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14A7E8E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AD-3B-7B-7E-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-46-54</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Weaver Armour">
+    <Cheatline>
+      <Offset>7FC5B810</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-47-58-00-00-FA-43-E9-1C-E6-A0-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1669E33</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D8-19-5F-7E-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items/Shards/Resources On Use/Buy">
+    <Cheatline>
+      <Offset>7FC5BFD0</Offset>
+      <Section>0</Section>
+      <ValueOn>44-29-F0-41-8B-45-54-E9-CB-50-2D-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F310A0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2B-AF-D2-7E-90-90</ValueOn>
+      <ValueOff>44-29-F0-41-89-45-54</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Shards On Gain/Sell">
+    <Cheatline>
+      <Offset>1F27950</Offset>
+      <Section>0</Section>
+      <ValueOn>41-80-FC-C0-75-0E-41-C7-44-24-54-0F-27-00-00-E9-BB-AD-00-FF-45-01-74-24-54-E9-B1-AD-00-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F3271A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-31-52-FF-00</ValueOn>
+      <ValueOff>45-01-74-24-54</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Skill Points On Use">
+    <Cheatline>
+      <Offset>7FC5BF60</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-64-63-00-00-00-E9-1B-D4-97-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15D9384</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D7-2B-68-7E</ValueOn>
+      <ValueOff>41-29-44-24-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stop Time Trial">
+    <Cheatline>
+      <Offset>7FC5B890</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-51-1C-E9-F3-1F-56-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11BD888</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-03-E0-A9-7E</ValueOn>
+      <ValueOff>C5-FA-11-51-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

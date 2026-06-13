@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Yu-Gi-Oh! Legacy of the Duelist" Moder="Molly" Cusa="CUSA01618" Version="01.00" Process="eboot.bin">
+  <Genres Name="Strategy" />
+  <Items />
+  <Cheat Text="Max Money &quot;After Battle&quot;">
+    <Cheatline>
+      <Offset>E47800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-C7-C0-FF-C9-9A-3B-48-89-47-10-E9-27-E4-20-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>55C30</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CB-1B-DF-00-90-90</ValueOn>
+      <ValueOff>48-63-C6-48-01-47-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Kena: Bridge of Spirits" Moder="Celogamez" Cusa="CUSA24853" Version="02.07" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health/1 Hit Kill (Master Code/Must Be On)">
+    <Cheatline>
+      <Offset>7BE3E60</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-EA-5C-C0-80-7F-24-02-75-0C-C5-FA-11-07-E9-7E-E4-2B-FA-0F-57-C0-C5-FA-11-07-E9-72-E4-2B-FA-43-65-6C-6F-67-61-6D-65-7A-5F-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1EA22E9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-72-1B-D4-05-90-90-90</ValueOn>
+      <ValueOff>C5-EA-5C-C0-C5-FA-11-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health (Enable MC)">
+    <Cheatline>
+      <Offset>7BE3E6A</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-07</ValueOn>
+      <ValueOff>C5-FA-11-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill (Enable MC)">
+    <Cheatline>
+      <Offset>7BE3E68</Offset>
+      <Section>0</Section>
+      <ValueOn>75-09</ValueOn>
+      <ValueOff>75-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Invincibility">
+    <Cheatline>
+      <Offset>7BE3AA0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-E7-F2-32-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1F12D87</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-14-0D-CD-05-90</ValueOn>
+      <ValueOff>FF-90-C0-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Shield">
+    <Cheatline>
+      <Offset>7BE3B60</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-20-08-46-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2044380</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DB-F7-B9-05-90</ValueOn>
+      <ValueOff>FF-90-40-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Infinite Rots/Level On Gain">
+    <Cheatline>
+      <Offset>7BE3830</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-2C-02-00-00-64-00-00-00-E9-A8-72-32-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1F0AAE1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4A-8D-CD-05-90</ValueOn>
+      <ValueOff>89-87-2C-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Rots On Use (Disable Master Code)">
+    <Cheatline>
+      <Offset>7FC5CEE0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-EA-5C-C0-80-7F-24-00-75-0B-C7-07-00-00-96-43-E9-FC-53-24-82-C5-FA-11-07-E9-F3-53-24-82</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1EA22E9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F2-AB-DB-7D-90-90-90</ValueOn>
+      <ValueOff>C5-EA-5C-C0-C5-FA-11-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Wasting Time To Use Rots">
+    <Cheatline>
+      <Offset>7FC5F6C0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-2E-C1-C7-00-00-00-A0-40-E9-D9-27-24-82</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1EA1EA0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1B-D8-DB-7D-90-90-90</ValueOn>
+      <ValueOff>C5-F8-2E-C1-C5-FA-11-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Skill Points On Gain/Use">
+    <Cheatline>
+      <Offset>7BE39C0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-2E-C1-C7-00-00-3C-1C-46-E9-D9-E4-2B-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1EA1EA0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1B-1B-D4-05-90-90-90</ValueOn>
+      <ValueOff>C5-F8-2E-C1-C5-FA-11-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7BE3AF0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-EA-5C-C0-C7-07-00-3C-1C-46-E9-F2-E7-2B-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1EA22E9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-02-18-D4-05-90-90-90</ValueOn>
+      <ValueOff>C5-EA-5C-C0-C5-FA-11-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Cristals On Gain/Buy">
+    <Cheatline>
+      <Offset>7FC5FFA0</Offset>
+      <Section>0</Section>
+      <ValueOn>44-89-F8-C7-03-3F-42-0F-00-E9-33-B0-21-82</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1E7AFDB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C0-4F-DE-7D-90</ValueOn>
+      <ValueOff>44-89-F8-44-89-3B</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7BE37D0</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8D-44-DF-08-C7-00-3F-42-0F-00-E9-50-F1-69-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2282929</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A2-0E-96-05-90-90</ValueOn>
+      <ValueOff>48-8D-44-DF-08-89-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

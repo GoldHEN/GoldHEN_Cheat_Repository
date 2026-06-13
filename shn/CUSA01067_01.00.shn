@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil HD Remaster" Moder="Celogamez/d01v" Cusa="CUSA01067" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Horror" />
+  <Items />
+  <Cheat Text="Max/Infinite Health">
+    <Cheatline>
+      <Offset>7FC48710</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-4C-17-00-00-B0-04-00-00-E9-DA-22-54-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>18A9F3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-18-DD-AB-7F-90-90</ValueOn>
+      <ValueOff>41-89-86-4C-17-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ink Ribbons">
+    <Cheatline>
+      <Offset>7FC4A450</Offset>
+      <Section>0</Section>
+      <ValueOn>4C-8D-6C-C3-2C-45-8B-75-04-E9-56-4C-48-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>CF0AB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A0-B3-B7-7F-90-90-90-90</ValueOn>
+      <ValueOff>4C-8D-6C-C3-2C-45-89-75-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Ammo/Clip/Items (99)">
+    <Cheatline>
+      <Offset>7FC481C0</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-83-24-13-00-00-63-E9-E0-1D-70-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>349FA6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-15-E2-8F-7F-90</ValueOn>
+      <ValueOff>89-8B-24-13-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FC48100</Offset>
+      <Section>0</Section>
+      <ValueOn>44-89-30-C6-40-04-63-E9-39-6D-48-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>CEE3E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BD-92-B7-7F-90-90</ValueOn>
+      <ValueOff>44-89-30-44-89-60-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Dagger (Need 2 To Work/99)">
+    <Cheatline>
+      <Offset>7FC48E00</Offset>
+      <Section>0</Section>
+      <ValueOn>42-C6-84-AB-7C-50-00-00-63-E9-7C-2E-6F-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>33BC82</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-79-D1-90-7F-90-90-90</ValueOn>
+      <ValueOff>46-89-BC-AB-7C-50-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Handgun (Activate/Enter/Deactivate)">
+    <Cheatline>
+      <Offset>7FC48D60</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8D-44-C3-2C-C6-00-03-E9-D4-60-48-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>CEE39</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-22-9F-B7-7F-90-90-90</ValueOn>
+      <ValueOff>48-8D-44-C3-2C-44-89-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Samurai Edge (Activate/Enter/Deactivate)">
+    <Cheatline>
+      <Offset>7FC493B0</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8D-44-C3-2C-C6-00-05-E9-84-5A-48-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>CEE39</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-72-A5-B7-7F-90-90-90</ValueOn>
+      <ValueOff>48-8D-44-C3-2C-44-89-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Save Aways 0">
+    <Cheatline>
+      <Offset>7FC48720</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-87-5C-47-0E-00-41-C6-40-0C-00-E9-4B-22-3F-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3A971</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AA-DD-C0-7F-90-90-90-90-90</ValueOn>
+      <ValueOff>8B-87-5C-47-0E-00-41-89-40-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Weapons/Items In The Chest (Tranfer The Knife)">
+    <Cheatline>
+      <Offset>AA6038</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BD-01-00-00-00-56-40-B6-00-40-89-0C-F0-40-C6-44-F0-04-63-40-FE-C6-66-FF-C1-40-80-FE-84-75-EA-5E-E9-FC-80-6A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14E154</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DF-7E-95-00-90</ValueOn>
+      <ValueOff>89-08-44-89-68-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

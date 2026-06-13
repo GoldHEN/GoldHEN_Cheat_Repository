@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Atelier Sophie: The Alchemist of the Mysterious Book" Moder="Molly" Cusa="CUSA05034" Version="01.00" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Alchemy Quick Level Up">
+    <Cheatline>
+      <Offset>BBF800</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-C1-B9-3F-42-0F-00-89-08-8B-03-E9-0A-AB-5F-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1BA314</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E7-54-A0-00-90</ValueOn>
+      <ValueOff>FF-C1-89-08-8B-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money ~After Buy~">
+    <Cheatline>
+      <Offset>BBF810</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-3F-42-0F-00-41-89-44-9D-00-E9-8E-C0-77-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>33B8A8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-63-3F-88-00</ValueOn>
+      <ValueOff>41-89-44-9D-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BBF81F</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-8C-B8-73-00-41-89-74-9D-00-E9-5E-C0-77-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>33B887</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-93-3F-88-00</ValueOn>
+      <ValueOff>41-89-74-9D-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quick Level Up ~Go Into To 2-3 Fights~">
+    <Cheatline>
+      <Offset>BBF82E</Offset>
+      <Section>0</Section>
+      <ValueOn>49-89-FE-48-C7-C6-3F-42-0F-00-49-89-76-08-66-BE-E7-03-66-41-89-76-14-66-BE-E7-03-66-41-89-76-18-66-BE-E7-03-66-41-89-76-1C-66-BE-E7-03-66-41-89-76-20-66-BE-E7-03-66-41-89-76-24-66-BE-E7-03-66-41-89-76-28-66-BE-E7-03-66-41-89-76-2C-66-BE-E7-03-66-41-89-76-30-66-BE-E7-03-66-41-89-76-34-66-BE-E7-03-66-41-89-76-38-66-BE-E7-03-66-41-89-76-3C-66-BE-E7-03-66-41-89-76-40-66-BE-E7-03-66-41-89-76-40-66-BE-E7-03-66-41-89-B6-30-01-00-00-66-BE-E7-03-66-41-89-B6-34-01-00-00-66-BE-E7-03-66-41-89-B6-38-01-00-00-66-BE-E7-03-66-41-89-B6-3C-01-00-00-66-BE-E7-03-66-41-89-B6-40-01-00-00-66-BE-E7-03-66-41-89-B6-44-01-00-00-66-BE-E7-03-66-41-89-B6-48-01-00-00-66-BE-E7-03-66-41-89-B6-4C-01-00-00-66-BE-E7-03-66-41-89-B6-50-01-00-00-66-BE-E7-03-66-41-89-B6-54-01-00-00-66-BE-E7-03-66-41-89-B6-58-01-00-00-E9-04-74-60-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1C6D37</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F2-8A-9F-00-90-90</ValueOn>
+      <ValueOff>49-89-FE-41-01-76-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Stock In Store ~Buy One Item To Have Max~">
+    <Cheatline>
+      <Offset>BBF93A</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-E7-03-00-00-89-54-08-04-E9-2F-F8-77-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>33F172</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C3-07-88-00</ValueOn>
+      <ValueOff>29-54-08-04-C3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quickly Gain Memory">
+    <Cheatline>
+      <Offset>BBF948</Offset>
+      <Section>0</Section>
+      <ValueOn>48-03-0D-63-0D-8E-00-BA-E7-03-00-00-89-14-81-E9-1C-31-78-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>342A6E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D5-CE-87-00-90-90-90-90-90</ValueOn>
+      <ValueOff>48-03-0D-63-0D-8E-00-89-14-81</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Have Leon ~Swap Characters~">
+    <Cheatline>
+      <Offset>BBF948</Offset>
+      <Section>0</Section>
+      <ValueOn>89-3C-81-BA-08-00-00-00-89-14-B1-E9-AA-57-66-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2250FC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-47-A8-99-00-90</ValueOn>
+      <ValueOff>89-3C-81-89-14-B1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Have Harol ~Swap Characters~">
+    <Cheatline>
+      <Offset>BBF958</Offset>
+      <Section>0</Section>
+      <ValueOn>89-3C-81-BA-07-00-00-00-89-14-B1-E9-9A-57-66-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2250FC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-57-A8-99-00-90</ValueOn>
+      <ValueOff>89-3C-81-89-14-B1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Have Corneria ~Swap Characters~">
+    <Cheatline>
+      <Offset>BBF968</Offset>
+      <Section>0</Section>
+      <ValueOn>89-3C-81-BA-06-00-00-00-89-14-B1-E9-8A-57-66-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2250FC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-67-A8-99-00-90</ValueOn>
+      <ValueOff>89-3C-81-89-14-B1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Have Fritz ~Swap Characters~">
+    <Cheatline>
+      <Offset>BBF978</Offset>
+      <Section>0</Section>
+      <ValueOn>89-3C-81-BA-05-00-00-00-89-14-B1-E9-7A-57-66-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2250FC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-77-A8-99-00-90</ValueOn>
+      <ValueOff>89-3C-81-89-14-B1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Have Julio ~Swap Characters~">
+    <Cheatline>
+      <Offset>BBF988</Offset>
+      <Section>0</Section>
+      <ValueOn>89-3C-81-BA-04-00-00-00-89-14-B1-E9-6A-57-66-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2250FC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-87-A8-99-00-90</ValueOn>
+      <ValueOff>89-3C-81-89-14-B1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quickly Gain Chainlink">
+    <Cheatline>
+      <Offset>BBF998</Offset>
+      <Section>0</Section>
+      <ValueOn>01-C8-B8-EE-03-00-00-89-47-38-E9-82-85-6D-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>297F24</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6F-7A-92-00</ValueOn>
+      <ValueOff>01-C8-89-47-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Marvel's Spider-Man: Miles Morales" Moder="2B" Cusa="CUSA17722" Version="01.09" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Max XP (use once)">
+    <Cheatline>
+      <Offset>4F83800</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-3C-6D-01-00-41-89-9E-F0-B9-00-00-E9-8F-49-02-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FA8199</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-62-B6-FD-03-90-90</ValueOn>
+      <ValueOff>41-89-9E-F0-B9-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Health">
+    <Cheatline>
+      <Offset>4F83813</Offset>
+      <Section>0</Section>
+      <ValueOn>81-BB-D0-00-00-00-00-00-80-3F-75-1B-49-83-FC-08-75-15-C5-FA-10-93-80-00-00-00-C5-FA-11-93-88-00-00-00-E9-0E-C9-34-FD-C5-FA-11-93-88-00-00-00-E9-01-C9-34-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>22D0140</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CE-36-CB-02-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-93-88-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max skill points">
+    <Cheatline>
+      <Offset>4F83849</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-63-00-00-00-89-81-F8-B9-00-00-E9-45-24-02-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FA5C98</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AC-DB-FD-03-90</ValueOn>
+      <ValueOff>29-81-F8-B9-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Web-shooters">
+    <Cheatline>
+      <Offset>4F8385B</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-10-00-00-00-41-89-47-38-E9-D9-03-38-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2303C39</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1D-FC-C7-02-90-90-90-90</ValueOn>
+      <ValueOff>41-89-47-38-41-80-4F-08-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Finisher">
+    <Cheatline>
+      <Offset>4F8387A</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-01-00-00-00-41-89-47-60-E9-6A-FD-C0-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B935EA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8B-02-3F-04-90-90-90</ValueOn>
+      <ValueOff>45-89-66-78-41-8B-47-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Invincible ON">
+    <Cheatline>
+      <Offset>4F8388A</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-45-51-01-C4-C1-78-2E-45-51-E9-F6-90-C8-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C0C987</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FE-6E-37-04-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-78-2E-85-88-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf resources">
+    <Cheatline>
+      <Offset>4F8389C</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-38-E7-03-00-00-E9-22-ED-38-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>23125C2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D5-12-C7-02-90-90-90</ValueOn>
+      <ValueOff>44-89-68-38-80-48-08-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Venom Power">
+    <Cheatline>
+      <Offset>4F838AA</Offset>
+      <Section>0</Section>
+      <ValueOn>51-B9-00-00-C8-42-66-0F-6E-E1-59-C4-C1-7A-11-A4-C5-0C-01-00-00-E9-DC-3F-C6-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BE7896</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0F-C0-39-04-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-A4-C5-0C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="travesal challenge time set to 20 sec">
+    <Cheatline>
+      <Offset>4F838C6</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-01-00-00-A0-41-C4-C1-7A-10-01-E9-03-3E-EC-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1E476D5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EC-C1-13-03</ValueOn>
+      <ValueOff>C4-C1-7A-11-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Combat Challenge Time">
+    <Cheatline>
+      <Offset>4F838D9</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-64-00-00-6C-42-C5-FA-10-4B-64-E9-02-17-A4-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9C4FE7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-ED-E8-5B-04</ValueOn>
+      <ValueOff>C5-FA-10-4B-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Camouflage">
+    <Cheatline>
+      <Offset>4F838EC</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-88-01-00-00-00-00-A0-41-C4-C1-7A-10-8E-88-01-00-00-E9-18-B3-C3-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BBEC14</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D3-4C-3C-04-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-8E-88-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant camouflage refill ">
+    <Cheatline>
+      <Offset>4F83907</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-87-A8-01-00-00-C4-C1-7A-11-87-A0-01-00-00-E9-E0-C6-C3-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BBFFF5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0D-39-3C-04-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-87-A0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Atomic Heart" Moder="Celogamez" Cusa="CUSA37321" Version="01.16" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health/Energy/Dash/Shock">
+    <Cheatline>
+      <Offset>720BDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-FA-1E-74-06-90-E9-BD-1D-EC-F8-E8-CF-16-EC-F8-E9-B3-1D-EC-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>CDB74</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-37-E2-13-07</ValueOn>
+      <ValueOff>E8-17-F9-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>49D7213</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8B-50-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Neuropolymer/Resources (On Pick Up)">
+    <Cheatline>
+      <Offset>720B780</Offset>
+      <Section>0</Section>
+      <ValueOn>45-84-C9-B8-E7-03-00-00-41-89-00-E9-C3-EF-35-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>156A74D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2E-10-CA-05-90</ValueOn>
+      <ValueOff>45-84-C9-41-89-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Neuropolymer/Resources (On Use)">
+    <Cheatline>
+      <Offset>720B840</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-85-B0-DB-39-FA-C7-43-30-E7-03-00-00-8B-4B-30-85-C9-E9-3B-DB-39-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15A938D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AE-24-C6-05</ValueOn>
+      <ValueOff>75-6D-8B-4B-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

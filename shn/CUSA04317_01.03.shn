@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Elex" Moder="GamerX2" Cusa="CUSA04317" Version="01.03" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinite Items">
+    <Cheatline>
+      <Offset>4BC8CA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-4C-24-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Use Attribute/Learning Point for Max Skill and Ability">
+    <Cheatline>
+      <Offset>1867800</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-64-00-00-00-43-89-5C-AE-1C-E9-92-40-D2-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>58B89C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5F-BF-2D-01</ValueOn>
+      <ValueOff>43-89-5C-AE-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items and Money On Use/Sell/Buy">
+    <Cheatline>
+      <Offset>1867800</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-9F-86-01-00-41-89-4C-24-44-E9-C0-50-C5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4BC8CA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-31-AF-3A-01</ValueOn>
+      <ValueOff>41-89-4C-24-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Terminator 2D: NO FATE" Moder="Ali-mk" Cusa="CUSA51101" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>809FC299</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-F8-02-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80A7DD3A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-F8-02-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80AB966C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-F8-02-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>809FB90A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-F8-02-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80A93105</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-F8-02-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80AA9DE7</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-F8-02-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>809EEEE8</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-F8-02-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80AB9C89</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-F8-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>80A17ACE</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8B-94-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80A296F6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-83-94-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="one-Hit-Kill">
+    <Cheatline>
+      <Offset>809E6433</Offset>
+      <Section>0</Section>
+      <ValueOn>45-29-FF</ValueOn>
+      <ValueOff>45-29-E7</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80AD7318</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>8B-83-94-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Grenades">
+    <Cheatline>
+      <Offset>80A18A42</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-83-C8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-All-Weapon">
+    <Cheatline>
+      <Offset>80A10265</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-83-88-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Time">
+    <Cheatline>
+      <Offset>80B176B6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FB-11-41-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Untouchables">
+    <Cheatline>
+      <Offset>819CB800</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-83-2A-01-00-00-01-E9-86-B1-41-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80DE6989</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-72-4E-BE-00-90-90</ValueOn>
+      <ValueOff>0F-94-83-2A-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Health">
+    <Cheatline>
+      <Offset>80E17ACE</Offset>
+      <Section>0</Section>
+      <ValueOn>42-0F-18-24-33-90</ValueOn>
+      <ValueOff>FF-8B-94-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Grenades">
+    <Cheatline>
+      <Offset>80E18A40</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill">
+    <Cheatline>
+      <Offset>80DE6433</Offset>
+      <Section>0</Section>
+      <ValueOn>45-29-FF</ValueOn>
+      <ValueOff>45-29-E7</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80ED7324</Offset>
+      <Section>0</Section>
+      <ValueOn>31-C0</ValueOn>
+      <ValueOff>FF-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Special Weapons">
+    <Cheatline>
+      <Offset>80E10263</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Continues">
+    <Cheatline>
+      <Offset>80FD5B7D</Offset>
+      <Section>0</Section>
+      <ValueOn>42-0F-18-24-18-90</ValueOn>
+      <ValueOff>FF-88-A0-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf  Mission Time">
+    <Cheatline>
+      <Offset>80F1764C</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FB-10-41-20</ValueOn>
+      <ValueOff>C5-FB-10-49-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Vehicle HP">
+    <Cheatline>
+      <Offset>80E296EC</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-18-A0-68-03-00-00</ValueOn>
+      <ValueOff>41-2B-86-68-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

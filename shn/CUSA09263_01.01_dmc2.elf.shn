@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Devil May Cry: HD Collection" Moder="Celogamez" Cusa="CUSA09263" Version="01.01" Process="dmc2.elf">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health/1 Hit Kill (MASTERCODE/MUST BE ON) (DMC2)">
+    <Cheatline>
+      <Offset>3B3DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-F9-00-75-15-66-41-89-96-40-01-00-00-66-41-89-96-40-01-00-00-E9-A6-53-C8-FF-66-41-81-F9-C0-DE-75-EB-66-41-89-96-40-01-00-00-66-41-89-96-40-01-00-00-E9-89-53-C8-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>39169</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-42-AC-37-00-90-90-90</ValueOn>
+      <ValueOff>66-41-89-96-40-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>3B3DB6</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-8B-96-44-01-00-00</ValueOn>
+      <ValueOff>66-41-89-96-40-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill">
+    <Cheatline>
+      <Offset>3B3DD3</Offset>
+      <Section>0</Section>
+      <ValueOn>66-BA-00-00-90-90-90-90</ValueOn>
+      <ValueOff>66-41-89-96-40-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Items On Use (DMC2)">
+    <Cheatline>
+      <Offset>3B3910</Offset>
+      <Section>0</Section>
+      <ValueOn>B2-63-42-88-94-08-80-00-00-00-E9-A3-CC-DD-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1905BA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-51-33-22-00-90-90-90</ValueOn>
+      <ValueOff>42-88-94-08-80-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Devil Trigger (DMC2)">
+    <Cheatline>
+      <Offset>3B39F0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-1E-05-00-00-10-27-00-00-E9-A4-2F-E4-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1F699C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4F-D0-1B-00-90-90</ValueOn>
+      <ValueOff>66-89-83-1E-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Red Orbs (DMC2)">
+    <Cheatline>
+      <Offset>3B37F0</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-00-C7-40-78-3F-42-0F-00-8B-40-78-E9-35-CE-DD-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>190631</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BA-31-22-00-90</ValueOn>
+      <ValueOff>48-8B-00-8B-40-78</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3B3340</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-C8-00-00-00-3F-42-0F-00-E9-BE-D2-DD-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>190606</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-35-2D-22-00-90-90</ValueOn>
+      <ValueOff>44-01-80-C8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Knack" Moder="Saso_9.00" Cusa="CUSA00006" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Untouchable ( Press Circle To Active After Supermove)">
+    <Cheatline>
+      <Offset>B87800</Offset>
+      <Section>0</Section>
+      <ValueOn>66-81-FF-6C-DE-75-07-C7-47-08-00-00-40-40-C5-FA-10-47-08-E9-BD-1E-BF-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7796D0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2B-E1-40-00</ValueOn>
+      <ValueOff>C5-FA-10-47-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Energy / Combo (Master Code)">
+    <Cheatline>
+      <Offset>B8781A</Offset>
+      <Section>0</Section>
+      <ValueOn>41-81-7F-F8-19-00-FF-FF-74-0A-41-81-7F-F8-15-00-FF-FF-74-00-8B-45-D4-41-89-07-E9-95-87-A8-FF-B8-90-01-00-00-EB-F1-83-F8-32-74-EC-FF-C0-EB-E8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>60FFC8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4D-78-57-00-90</ValueOn>
+      <ValueOff>8B-45-D4-41-89-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Energy (MC)">
+    <Cheatline>
+      <Offset>B87822</Offset>
+      <Section>0</Section>
+      <ValueOn>74-15</ValueOn>
+      <ValueOff>74-0A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Combo (MC)">
+    <Cheatline>
+      <Offset>B8782C</Offset>
+      <Section>0</Section>
+      <ValueOn>74-12</ValueOn>
+      <ValueOff>74-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

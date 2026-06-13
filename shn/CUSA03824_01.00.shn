@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Technomancer" Moder="Vampirexx" Cusa="CUSA03824" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="God Mode">
+    <Cheatline>
+      <Offset>CF3800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8D-BB-38-01-00-00-51-B9-00-00-C8-42-81-BB-48-01-00-00-00-00-C8-42-75-04-66-0F-6E-C1-59-E9-83-18-7C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4B509F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5C-E7-83-00-90-90</ValueOn>
+      <ValueOff>48-8D-BB-38-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Powers">
+    <Cheatline>
+      <Offset>4B517C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-60-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Gain Money after Shop / Gain Items after Usage">
+    <Cheatline>
+      <Offset>536891</Offset>
+      <Section>0</Section>
+      <ValueOn>01-CA</ValueOn>
+      <ValueOff>29-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Weight Items">
+    <Cheatline>
+      <Offset>53555E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4E-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

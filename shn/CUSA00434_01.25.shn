@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Diablo III: Reaper of Souls: Ultimate Evil Edition" Moder="Cosmaty" Cusa="CUSA00434" Version="01.25" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Code">
+    <Cheatline>
+      <Offset>12D7800</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-E9-82-FB-45-FF-C7-40-0C-00-A0-0C-46-E9-76-FB-45-FF-C7-40-0C-00-A0-0C-46-E9-6A-FB-45-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>73726D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8E-05-BA-00</ValueOn>
+      <ValueOff>E9-27-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="God Mode">
+    <Cheatline>
+      <Offset>12D7800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-81-FF-73-F0-FF-FF-74-0E</ValueOn>
+      <ValueOff>90-90-90-90-90-90-90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Mana">
+    <Cheatline>
+      <Offset>12D7809</Offset>
+      <Section>0</Section>
+      <ValueOn>41-81-F9-10-01-00-00-74-11</ValueOn>
+      <ValueOff>90-90-90-90-90-90-90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Money">
+    <Cheatline>
+      <Offset>12D782F</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-FE-00-74-0A-4C-89-44-F7-08-E9-D5-C0-2A-FF-C7-44-F7-08-3F-42-0F-00-E9-C8-C0-2A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>58390F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1B-3F-D5-00</ValueOn>
+      <ValueOff>4C-89-44-F7-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ghoulboy: Dark Sword of Goblin" Moder="Reddevil82 - FW 9.00" Cusa="CUSA14000" Version="01.00" Process="eboot.bin">
+  <Genres Name="Arcade" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>153FDD0</Offset>
+      <Section>0</Section>
+      <ValueOn>53-49-8B-9F-94-00-00-00-49-89-9F-A8-00-00-00-49-63-87-A8-00-00-00-5B-E9-4F-53-03-7F-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80575134</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-97-AC-FC-80-90-90</ValueOn>
+      <ValueOff>49-63-87-A8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Lives">
+    <Cheatline>
+      <Offset>153FE00</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-86-AC-00-00-00-64-E9-FD-61-03-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80576003</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F8-9D-FC-80-90-90</ValueOn>
+      <ValueOff>41-89-86-AC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items">
+    <Cheatline>
+      <Offset>153FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>48-63-4C-24-10-C6-00-63-E9-75-FD-4A-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>809EFB2D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7E-02-B5-80-90-90</ValueOn>
+      <ValueOff>48-63-4C-24-10-89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money">
+    <Cheatline>
+      <Offset>153FDBD</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-8D-40-3B-7F-C7-40-28-FF-C9-9A-3B-E9-DE-2C-3B-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>808F2AA4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-14-D3-C4-80-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-AC-13-00-00-89-48-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill ( Deactivate before open chests )">
+    <Cheatline>
+      <Offset>153FE0D</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-00-00-00-00-41-89-86-C8-00-00-00-E9-79-7D-00-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80547B90</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-78-82-FF-80-90-90</ValueOn>
+      <ValueOff>41-89-86-C8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

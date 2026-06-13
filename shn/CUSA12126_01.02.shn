@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Little Dragons Cafe" Moder="Molly" Cusa="CUSA12126" Version="01.02" Process="eboot.bin">
+  <Genres Name="Simulation" />
+  <Items />
+  <Cheat Text="Unlock All Ingredients">
+    <Cheatline>
+      <Offset>12CB811</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-70-FA-FF-7E-C7-46-10-63-00-00-00-83-7E-10-00-E9-62-FA-FF-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>802CB283</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-89-05-00-81-90</ValueOn>
+      <ValueOff>74-08-83-7E-10-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12CB800</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-40-10-63-44-8B-60-10-48-8B-5A-18-E9-D2-C5-02-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>802F7DDB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-20-3A-FD-80-90-90-90</ValueOn>
+      <ValueOff>44-8B-60-10-48-8B-5A-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Dragons Hp">
+    <Cheatline>
+      <Offset>12CB827</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-85-B1-39-F6-7E-41-C7-47-20-64-00-00-00-45-8B-77-20-E9-5E-39-F6-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8022F196</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8C-C6-09-81-90</ValueOn>
+      <ValueOff>75-4C-45-8B-77-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Char Walk Speed x2">
+    <Cheatline>
+      <Offset>12CB83E</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-47-18-00-00-00-40-C4-C1-7A-10-47-18-E9-37-6C-0A-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80372482</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B7-93-F5-80-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-47-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="High Jump">
+    <Cheatline>
+      <Offset>12CB851</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-47-24-00-00-20-41-C4-C1-7A-10-47-24-E9-38-71-0A-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80372996</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B6-8E-F5-80-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-47-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Dragon Walk Speed X2">
+    <Cheatline>
+      <Offset>12CB864</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-47-18-00-00-00-40-C4-C1-7A-10-47-18-E9-94-FF-F4-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8021B805</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5A-00-0B-81-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-47-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Dragon Manure">
+    <Cheatline>
+      <Offset>12CB877</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-5D-05-F8-7E-C7-40-10-63-00-00-00-83-78-10-00-E9-ED-04-F8-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8024BD74</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FE-FA-07-81-90</ValueOn>
+      <ValueOff>74-6A-83-78-10-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

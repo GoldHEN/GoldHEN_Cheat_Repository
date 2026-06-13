@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Lord of the Rings: Gollum" Moder="Celogamez" Cusa="CUSA33616" Version="01.03" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Max/Infinite Health">
+    <Cheatline>
+      <Offset>686BF90</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-86-B8-00-00-00-C4-C1-7A-11-86-BC-00-00-00-E9-F9-A3-99-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1206397</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F4-5B-66-05-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-BC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>121486F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-FC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Food (On Use)">
+    <Cheatline>
+      <Offset>12A27E7</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-FF-8C-24-00-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stones">
+    <Cheatline>
+      <Offset>686BF50</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-DF-49-83-FE-30-75-06-90-E9-69-63-02-FB-89-73-08-E9-61-63-02-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>18922C2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-89-9C-FD-04-90</ValueOn>
+      <ValueOff>48-89-DF-89-73-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Master Code">
+    <Cheatline>
+      <Offset>686BEA0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-80-BE-E0-00-00-00-0F-75-0D-41-83-BE-00-01-00-00-FF-74-03-EB-01-90-C4-C1-7A-11-86-BC-00-00-00-E9-DB-A4-99-FA-90-C4-C1-7A-10-86-B8-00-00-00-C4-C1-7A-11-86-BC-00-00-00-E9-C3-A4-99-FA-90-41-C7-86-B8-00-00-00-00-3C-1C-46-C4-C1-7A-11-86-BC-00-00-00-E9-A9-A4-99-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1206397</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-04-5B-66-05-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-BC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health (MC)">
+    <Cheatline>
+      <Offset>686BEB2</Offset>
+      <Section>0</Section>
+      <ValueOn>74-12</ValueOn>
+      <ValueOff>74-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Health 9999 (MC)">
+    <Cheatline>
+      <Offset>686BED8</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-04-90-90-90</ValueOn>
+      <ValueOff>E9-C3-A4-99-FA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Dash">
+    <Cheatline>
+      <Offset>12149E4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-93-0C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Doesnt Detect / Invincible">
+    <Cheatline>
+      <Offset>7FEA5791</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-24-40-01-00-00-00-00-00-00-C4-C1-7A-10-84-24-40-01-00-00-C4-C1-7A-11-84-24-40-01-00-00-E9-B9-9F-1A-81-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>104F765</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-27-60-E5-7E-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-40-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Drone View x1000">
+    <Cheatline>
+      <Offset>7FEA57D1</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-F8-01-00-00-00-00-7A-44-C5-FA-10-8B-F8-01-00-00-E9-8D-43-2C-81-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1169B6D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5F-BC-D3-7E-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-8B-F8-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Monster Energy Supercross 5: The Official Videogame" Moder="Reddevil82 - FW 9.00" Cusa="CUSA28535" Version="01.13" Process="eboot.bin">
+  <Genres Name="Sports" />
+  <Items />
+  <Cheat Text="Max Credits">
+    <Cheatline>
+      <Offset>7DE7DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-A0-00-00-00-FF-C9-9A-3B-8B-87-A0-00-00-00-E9-75-C0-2B-FA-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>20A3E34</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-77-3F-D4-05-90</ValueOn>
+      <ValueOff>8B-87-A0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Skill Points ( on gain )">
+    <Cheatline>
+      <Offset>7DE7DD9</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-E0-00-00-00-E7-03-00-00-41-8B-87-E0-00-00-00-E9-5D-DB-0C-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1EB5946</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8E-24-F3-05-90-90</ValueOn>
+      <ValueOff>41-8B-87-E0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP">
+    <Cheatline>
+      <Offset>7DE7E26</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-C8-00-00-00-FF-E0-F5-05-8B-B7-C8-00-00-00-E9-FF-B4-2B-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>20A3334</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-ED-4A-D4-05-90</ValueOn>
+      <ValueOff>8B-B7-C8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Rewinds">
+    <Cheatline>
+      <Offset>7DE7DF0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-58-03-00-00-00-00-40-40-C5-FA-10-80-58-03-00-00-E9-5E-85-50-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>22F035D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8E-7A-AF-05-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-80-58-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Gear AI">
+    <Cheatline>
+      <Offset>7DE7E07</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-80-E8-0D-00-00-83-BF-C4-03-00-00-00-74-07-C7-40-2C-00-00-00-00-8B-40-2C-E9-0F-7C-0E-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>ECFA2B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D7-83-F1-06-90-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-80-E8-0D-00-00-8B-40-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="South Park: The Fractured But Whole" Moder="Molly" Cusa="CUSA04311" Version="01.00" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Quick Special">
+    <Cheatline>
+      <Offset>326F800</Offset>
+      <Section>0</Section>
+      <ValueOn>51-B9-00-00-C8-42-66-0F-6E-C9-59-C5-FA-11-4F-08-E9-34-C8-18-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>13FC044</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B7-37-E7-01</ValueOn>
+      <ValueOff>C5-FA-11-4F-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money">
+    <Cheatline>
+      <Offset>326F815</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-4D-A0-C7-42-0C-76-96-98-00-8B-42-0C-E9-4D-73-A0-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C76B6E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A2-8C-5F-02-90-90</ValueOn>
+      <ValueOff>48-8B-4D-A0-8B-42-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items">
+    <Cheatline>
+      <Offset>326F828</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-0C-63-00-00-00-8B-40-0C-8B-4D-AC-E9-1F-70-A0-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C76853</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D0-8F-5F-02-90</ValueOn>
+      <ValueOff>8B-40-0C-8B-4D-AC</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quicky Level Up Crafting ">
+    <Cheatline>
+      <Offset>326F83A</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-E7-0D-00-00-89-B3-DC-00-00-00-E9-EA-8D-16-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>13D862E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-07-72-E9-01-90</ValueOn>
+      <ValueOff>89-B3-DC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

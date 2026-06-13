@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sniper Elite 4" Moder="Rizla" Cusa="CUSA04099" Version="01.15" Process="eboot.bin">
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>C57800</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-44-08-4C-00-00-7A-44-C5-FA-10-44-08-4C-C5-FA-11-44-08-48-E9-47-F3-98-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5E6B5A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A1-0C-67-00-90</ValueOn>
+      <ValueOff>C5-F8-2E-44-08-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>C57819</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-47-10-00-00-70-42-C4-C1-7A-10-57-10-E9-3A-E1-D4-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9A5960</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B4-1E-2B-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-57-10</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C5783F</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-47-10-00-00-70-42-C4-C1-7A-10-4F-10-E9-6E-D9-D4-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9A51BA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-80-26-2B-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4F-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Focus">
+    <Cheatline>
+      <Offset>C5782C</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-47-10-00-00-70-42-C4-C1-7A-10-47-10-E9-E9-DD-D4-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9A5622</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-05-22-2B-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo/Items/Medkits">
+    <Cheatline>
+      <Offset>871C27</Offset>
+      <Section>0</Section>
+      <ValueOn>45-01-E8</ValueOn>
+      <ValueOff>45-29-E8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>89AC8C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-CE</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

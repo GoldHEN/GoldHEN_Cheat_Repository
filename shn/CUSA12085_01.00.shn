@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Spyro: Reignited Trilogy" Moder="Wander FW9.00" Cusa="CUSA12085" Version="01.00" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>4E55A00</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-FC-00-00-00-00-00-80-40-E9-DE-06-78-FB-57-61-6E-64-65-72-20-46-57-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5D60E7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-14-F9-87-04-90</ValueOn>
+      <ValueOff>89-8F-FC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

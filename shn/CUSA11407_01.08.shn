@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Metro Exodus" Moder="Dioniso" Cusa="CUSA11407" Version="01.08" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="FPS" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>171EF60</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F2-5C-46-14-C5-FA-11-02-50-8B-42-F8-3D-B8-73-C9-01-75-0E-8B-42-04-83-F8-00-75-06-C7-02-00-00-80-3F-58-E9-E5-E6-EA-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5CD664</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F7-18-15-01-90-90-90-90</ValueOn>
+      <ValueOff>C5-F2-5C-46-14-C5-FA-11-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill (-Bosses)">
+    <Cheatline>
+      <Offset>171EFE0</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-87-90-03-00-00-EB-16-C7-87-98-03-00-00-00-00-80-BF-48-8B-87-90-03-00-00-E9-48-E6-EA-FE-3D-B8-73-C9-01-74-ED-3D-C0-FA-CA-01-74-E6-3D-08-E8-CC-01-74-DF-3D-D0-09-C6-01-74-D8-48-8B-87-9C-03-00-00-83-F8-00-75-CC-EB-C0</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5CD640</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9B-19-15-01-90-90</ValueOn>
+      <ValueOff>48-8B-87-90-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Mask Filter">
+    <Cheatline>
+      <Offset>171EEA0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-83-E8-0A-00-00-50-8B-83-EC-0A-00-00-89-83-E8-0A-00-00-58-E9-60-76-EC-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5E6513</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-88-89-13-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-E8-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>171EF90</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-0A-39-D8-0F-47-C3-E9-3A-7C-E4-FE-49-83-F9-04-75-F0-E9-46-7C-E4-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>566BD1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BA-83-1B-01</ValueOn>
+      <ValueOff>39-D8-0F-47-C3</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>171EF10</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-0A-39-C3-0F-42-C3-E9-EA-7C-E4-FE-83-F8-00-74-F1-49-83-F9-04-0F-84-DB-7C-E4-FE-49-83-F9-02-0F-84-D1-7C-E4-FE-EB-DB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>566C01</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0A-83-1B-01</ValueOn>
+      <ValueOff>39-C3-0F-42-C3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Pressure (Air Gun / Flamethrower)">
+    <Cheatline>
+      <Offset>171F040</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-83-D0-1A-00-00-49-83-F8-00-0F-85-DE-B4-E7-FE-49-83-FB-03-0F-85-D4-B4-E7-FE-C7-83-D0-1A-00-00-00-00-80-3F-C7-83-D4-1A-00-00-00-00-80-3F-E9-BB-B4-E7-FE-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>59A528</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-13-4B-18-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-D0-1A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Weapon Jam">
+    <Cheatline>
+      <Offset>578AF3</Offset>
+      <Section>0</Section>
+      <ValueOn>41-0F-94-86-30-19-00-00</ValueOn>
+      <ValueOff>41-0F-92-86-30-19-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Bombs">
+    <Cheatline>
+      <Offset>171F080</Offset>
+      <Section>0</Section>
+      <ValueOn>42-89-5C-28-18-48-83-FE-03-0F-85-D1-56-03-FF-C7-87-40-05-00-00-63-00-00-00-42-C7-44-28-18-63-00-00-00-E9-B9-56-03-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>75475B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-20-A9-FC-00</ValueOn>
+      <ValueOff>42-89-5C-28-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Molotovs">
+    <Cheatline>
+      <Offset>171F0B0</Offset>
+      <Section>0</Section>
+      <ValueOn>42-89-5C-28-18-48-83-FE-0D-0F-85-3C-57-03-FF-C7-87-40-05-00-00-63-00-00-00-42-C7-44-28-18-63-00-00-00-E9-24-57-03-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7547F6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B5-A8-FC-00</ValueOn>
+      <ValueOff>42-89-5C-28-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Knives">
+    <Cheatline>
+      <Offset>171F110</Offset>
+      <Section>0</Section>
+      <ValueOn>42-89-5C-28-18-48-83-FE-00-0F-85-0C-55-03-FF-C7-87-40-05-00-00-63-00-00-00-42-C7-44-28-18-63-00-00-00-E9-F4-54-03-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>754626</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E5-AA-FC-00</ValueOn>
+      <ValueOff>42-89-5C-28-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Cans">
+    <Cheatline>
+      <Offset>171F0E0</Offset>
+      <Section>0</Section>
+      <ValueOn>42-89-5C-28-18-48-83-FE-19-0F-85-D6-55-03-FF-C7-87-40-05-00-00-63-00-00-00-42-C7-44-28-18-63-00-00-00-E9-BE-55-03-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7546C0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1B-AA-FC-00</ValueOn>
+      <ValueOff>42-89-5C-28-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Resources (Pick Up)">
+    <Cheatline>
+      <Offset>171EEC0</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-0C-66-89-B3-02-06-00-00-E9-59-35-E0-FE-49-83-F9-01-75-EE-49-83-FA-01-75-E8-C7-83-02-06-00-00-35-82-00-00-E9-3E-35-E0-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>522420</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9B-CA-1F-01-90-90</ValueOn>
+      <ValueOff>66-89-B3-02-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Decrease: Medkits">
+    <Cheatline>
+      <Offset>5ED8EF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8B-5C-09-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Batteries x1 (Goggles, Torch)">
+    <Cheatline>
+      <Offset>171EFB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-83-F4-0A-00-00-C7-83-F4-0A-00-00-00-00-80-3F-C7-83-F0-0A-00-00-00-00-80-3F-E9-5F-B2-EB-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5DA228</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-83-4D-14-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-F4-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Forgotten City" Moder="Reddevil82 - FW 9.00" Cusa="CUSA26944" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Mastercode ( must be activated for [ MC ] Cheats )" Description="Mastercode ( must be activated for [ MC ] Cheats )">
+    <Cheatline>
+      <Offset>56FFD00</Offset>
+      <Section>0</Section>
+      <ValueOn>80-3D-4A-03-90-00-01-75-0A-C7-87-2C-05-00-00-00-00-7A-44-80-3D-36-03-90-00-01-75-10-C5-FA-10-87-2C-05-00-00-C5-FA-11-87-28-05-00-00-C5-FA-10-87-28-05-00-00-E9-23-15-25-FB-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>951254</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A7-EA-DA-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-87-28-05-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>56FFD4D</Offset>
+      <Section>0</Section>
+      <ValueOn>45-01-2F-49-83-FA-20-75-12-80-3D-F5-02-90-00-01-75-09-41-C7-07-3F-42-0F-00-EB-10-80-3D-E4-02-90-00-01-75-07-41-C7-07-0F-27-00-00-48-8B-5D-B8-E9-F9-7A-2A-FB-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9A7873</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D5-84-D5-04-90-90</ValueOn>
+      <ValueOff>45-01-2F-48-8B-5D-B8</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>56FFD83</Offset>
+      <Section>0</Section>
+      <ValueOn>80-3D-CB-02-90-00-01-75-0C-41-C7-84-24-0C-05-00-00-00-00-7A-44-80-3D-B5-02-90-00-01-75-0A-C4-C1-7A-10-8C-24-0C-05-00-00-C4-C1-7A-11-8C-24-18-05-00-00-E9-C2-1C-25-FB-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>951A72</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0C-E3-DA-04-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-8C-24-18-05-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>56FFDF0</Offset>
+      <Section>0</Section>
+      <ValueOn>80-3D-5F-02-90-00-01-74-0B-80-3D-57-02-90-00-01-74-31-EB-65-C6-05-4B-02-90-00-00-53-8B-98-D0-01-00-00-89-1D-40-02-90-00-8B-98-D4-01-00-00-89-1D-38-02-90-00-8B-98-D8-01-00-00-89-1D-30-02-90-00-5B-EB-36-C6-05-1D-02-90-00-00-83-3D-17-02-90-00-00-74-26-52-8B-15-0E-02-90-00-89-90-D0-01-00-00-8B-15-06-02-90-00-89-90-D4-01-00-00-8B-15-FE-01-90-00-89-90-D8-01-00-00-5A-C5-F9-10-80-D0-01-00-00-E9-77-DB-0C-FD-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>27CD9E5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-06-24-F3-02-90-90-90</ValueOn>
+      <ValueOff>C5-F9-10-80-D0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health [ MC ]" Description="Infinite Health [ MC ]">
+    <Cheatline>
+      <Offset>6000050</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Health [ MC ]" Description="Max Health [ MC ]">
+    <Cheatline>
+      <Offset>6000051</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Denar [ MC ]" Description="Max Denar [ MC ]">
+    <Cheatline>
+      <Offset>6000052</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items [ MC ]" Description="Max Items [ MC ]">
+    <Cheatline>
+      <Offset>6000053</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Oxygen [ MC ]" Description="Infinite Oxygen [ MC ]">
+    <Cheatline>
+      <Offset>6000054</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Oxygen [ MC ]" Description="Max Oxygen [ MC ]">
+    <Cheatline>
+      <Offset>6000055</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Save Location [ MC ]" Description="Save Location [ MC ]">
+    <Cheatline>
+      <Offset>6000056</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Load Location [ MC ]" Description="Load Location [ MC ]">
+    <Cheatline>
+      <Offset>6000057</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Player Speed [ x 2 ]" Description="Player Speed [ x 2 ]">
+    <Cheatline>
+      <Offset>56FFDBC</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BA-00-00-00-40-66-41-0F-6E-C2-E9-3E-CC-29-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>299CA02</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B5-33-D6-02-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-83-98-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Player Speed [ x 3 ]" Description="Player Speed [ x 3 ]">
+    <Cheatline>
+      <Offset>56FFDCC</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BA-00-00-40-40-66-41-0F-6E-C2-E9-2E-CC-29-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>299CA02</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C5-33-D6-02-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-83-98-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Player Speed [ x 4 ]" Description="Player Speed [ x 4 ]">
+    <Cheatline>
+      <Offset>56FFDDC</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BA-00-00-80-40-66-41-0F-6E-C2-E9-1E-CC-29-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>299CA02</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D5-33-D6-02-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-83-98-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

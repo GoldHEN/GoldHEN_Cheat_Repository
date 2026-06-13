@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dying Light 2: Stay Human" Moder="Celogamez" Cusa="CUSA12555" Version="01.32" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Horror" />
+  <Items />
+  <Cheat Text="Infinite Health (Not Against Fire)">
+    <Cheatline>
+      <Offset>2F5FE36</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-85-B5-4A-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina/Breath">
+    <Cheatline>
+      <Offset>614F3F0</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-44-24-08-C4-C1-7A-11-44-24-10-E9-69-34-E4-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2F92865</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-86-CB-1B-03-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-44-24-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items/Arrows/Craft On Use (Need 2 To work)">
+    <Cheatline>
+      <Offset>2F09748</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-63-B8-D3-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Throwables">
+    <Cheatline>
+      <Offset>2F09A50</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-5B-B5-D3-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Weapon Durability">
+    <Cheatline>
+      <Offset>2C3BA60</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-AB-B1-F7-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Immunity/Chemical Area">
+    <Cheatline>
+      <Offset>2F6835D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite UV Flashlight">
+    <Cheatline>
+      <Offset>614F120</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-24-80-01-00-00-00-00-60-41-E9-3D-D5-38-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>24DC664</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B7-2A-C7-03-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-80-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Money">
+    <Cheatline>
+      <Offset>614F160</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4C-D1-C7-47-34-FF-C9-9A-3B-E9-4B-81-DB-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2F072B4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A7-7E-24-03-90</ValueOn>
+      <ValueOff>0F-4C-D1-89-57-34</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>614F190</Offset>
+      <Section>0</Section>
+      <ValueOn>29-D8-C7-47-34-FF-C9-9A-3B-E9-2F-83-DB-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2F074C8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C3-7C-24-03</ValueOn>
+      <ValueOff>29-D8-89-47-34</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Time challenge (Disable B4 Finishing)">
+    <Cheatline>
+      <Offset>3575068</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-70</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP (Use After Escaping Waltz)">
+    <Cheatline>
+      <Offset>3161DDD</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-7E-18</ValueOn>
+      <ValueOff>49-89-46-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

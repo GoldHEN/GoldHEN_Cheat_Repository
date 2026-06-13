@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sniper Elite III: Ultimate Edition" Moder="Celogamez" Cusa="CUSA01796" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Max/Infinite Health">
+    <Cheatline>
+      <Offset>A0F5D0</Offset>
+      <Section>0</Section>
+      <ValueOn>80-BB-84-00-00-00-00-75-0C-C7-43-48-00-00-48-43-E9-E1-F8-6D-FF-C5-FA-11-43-48-E9-D7-F8-6D-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>EEEC1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0A-07-92-00</ValueOn>
+      <ValueOff>C5-FA-11-43-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Focus">
+    <Cheatline>
+      <Offset>A0FB20</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-B9-69-AF-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5064DA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-41-96-50-00</ValueOn>
+      <ValueOff>C5-FA-58-43-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Ammo">
+    <Cheatline>
+      <Offset>A0FB10</Offset>
+      <Section>0</Section>
+      <ValueOn>41-0F-4F-DC-C7-40-0C-E7-03-00-00-E9-ED-C0-B7-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>58BC06</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-05-3F-48-00-90-90</ValueOn>
+      <ValueOff>41-0F-4F-DC-89-58-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Items/No Reload">
+    <Cheatline>
+      <Offset>A0FA10</Offset>
+      <Section>0</Section>
+      <ValueOn>41-0F-4F-CC-C6-40-08-63-E9-40-C0-B7-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>58BA56</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B5-3F-48-00-90-90</ValueOn>
+      <ValueOff>41-0F-4F-CC-89-48-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Xp/level On Gain">
+    <Cheatline>
+      <Offset>A0FB40</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4D-D0-C7-47-04-C0-27-09-00-E9-97-38-AB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4C33E0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5B-C7-54-00-90</ValueOn>
+      <ValueOff>0F-4D-D0-89-57-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

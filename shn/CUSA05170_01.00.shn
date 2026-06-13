@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dragon Quest Builders" Moder="Molly" Cusa="CUSA05170" Version="01.00" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Max Items">
+    <Cheatline>
+      <Offset>9EB800</Offset>
+      <Section>0</Section>
+      <ValueOn>44-89-E6-66-B8-63-00-66-89-43-02-E9-EA-71-6E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D29F3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-08-8E-91-00-90-90</ValueOn>
+      <ValueOff>44-89-E6-66-89-43-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>9EB810</Offset>
+      <Section>0</Section>
+      <ValueOn>66-52-66-8B-90-86-D3-01-00-66-89-90-88-D3-01-00-66-5A-E9-DD-3D-69-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7F5FD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0E-C2-96-00-90-90</ValueOn>
+      <ValueOff>66-89-90-88-D3-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

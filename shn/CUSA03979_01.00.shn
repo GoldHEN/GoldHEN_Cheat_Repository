@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="BioShock: The Collection" Moder="Talixme" Cusa="CUSA03979" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>B0FAD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3E-94-D4-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-D0-06-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1DFA3F0</Offset>
+      <Section>0</Section>
+      <ValueOn>81-3B-48-C5-44-02-0F-85-05-00-00-00-E9-B4-6B-2B-FE-C5-FA-11-8B-D0-06-00-00-E9-A7-6B-2B-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Eve">
+    <Cheatline>
+      <Offset>C3CB8</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-68-0D-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>184200</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-B0-80-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>F0D1D6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>41-89-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="2x Money After Spend">
+    <Cheatline>
+      <Offset>C408A</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>89</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="2x Adam After Spend">
+    <Cheatline>
+      <Offset>C4442</Offset>
+      <Section>0</Section>
+      <ValueOn>41-01</ValueOn>
+      <ValueOff>41-89</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>424D61</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2A-58-14-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-30-07-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>156A590</Offset>
+      <Section>0</Section>
+      <ValueOn>81-3B-F8-76-CE-01-0F-85-05-00-00-00-E9-C8-A7-EB-FE-C5-FA-11-8B-30-07-00-00-E9-BB-A7-EB-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Eve">
+    <Cheatline>
+      <Offset>43E4B3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-90-0F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>49E7B0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-B0-80-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>7543A6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>41-89-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="2x Money After Spend">
+    <Cheatline>
+      <Offset>43E97A</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>89</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="2x Adam After Spend">
+    <Cheatline>
+      <Offset>43ED32</Offset>
+      <Section>0</Section>
+      <ValueOn>41-01</ValueOn>
+      <ValueOff>41-89</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

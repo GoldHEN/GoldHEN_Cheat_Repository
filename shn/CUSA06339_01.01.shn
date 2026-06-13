@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Twin Robots" Moder="Reddevil82 - FW 9.00" Cusa="CUSA06339" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Level Unlocker">
+    <Cheatline>
+      <Offset>139F800</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-47-2C-1C-48-8B-47-28-83-F8-01-E9-EF-D9-BA-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F4D1F8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-03-26-45-00-90-90</ValueOn>
+      <ValueOff>48-8B-47-28-83-F8-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Energy">
+    <Cheatline>
+      <Offset>139FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-DC-00-00-00-00-00-7A-44-C4-C1-7A-10-87-DC-00-00-00-E9-60-64-F4-7E-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>802E6220</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8B-9B-0B-81-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-87-DC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Timer">
+    <Cheatline>
+      <Offset>42F934</Offset>
+      <Section>14</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Reset Timer">
+    <Cheatline>
+      <Offset>139FDDD</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-85-9C-01-00-00-00-00-00-00-E9-50-FB-F1-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>802BF936</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A2-04-0E-81-90-90</ValueOn>
+      <ValueOff>41-89-85-9C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

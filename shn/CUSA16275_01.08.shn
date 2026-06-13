@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Blasphemous" Moder="Celogamez" Cusa="CUSA16275" Version="01.08" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>157FEA0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-F4-B2-7F-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80D7B195</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-06-4D-80-80</ValueOn>
+      <ValueOff>E8-56-AF-29-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Invincibility">
+    <Cheatline>
+      <Offset>157FF40</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-73-36-80-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80D835B3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-88-C9-7F-80-90</ValueOn>
+      <ValueOff>FF-90-80-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Fervor">
+    <Cheatline>
+      <Offset>157FE00</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-53-FC-82-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80DAFA54</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A7-03-7D-80</ValueOn>
+      <ValueOff>E8-C7-94-E4-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Health/Fervor/Blood Penitence On Use">
+    <Cheatline>
+      <Offset>157FF50</Offset>
+      <Section>0</Section>
+      <ValueOn>66-81-F9-90-4D-75-0C-C7-47-48-00-3C-1C-46-E9-CD-8F-67-7F-C5-FA-11-47-48-E9-C3-8F-67-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80BF8F2B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-20-70-98-80</ValueOn>
+      <ValueOff>C5-FA-11-47-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Blood Penitence">
+    <Cheatline>
+      <Offset>157F960</Offset>
+      <Section>0</Section>
+      <ValueOn>81-7F-4C-FF-FF-7F-7F-75-0C-C7-47-48-80-4F-C3-47-E9-BB-95-67-7F-C5-FA-11-47-48-E9-B1-95-67-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80BF8F2B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-30-6A-98-80</ValueOn>
+      <ValueOff>C5-FA-11-47-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

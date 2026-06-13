@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Gene Rain" Moder="fbin" Cusa="CUSA12092" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Strategy" />
+  <Items />
+  <Cheat Text="Vida Infinita">
+    <Cheatline>
+      <Offset>4AE6F2</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>F3-45-0F-11-7F-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Velocidade Infinita ">
+    <Cheatline>
+      <Offset>4AE572</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>F3-45-0F-11-7F-3C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Armas Infinita">
+    <Cheatline>
+      <Offset>43A638</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-86-9C-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Engrenagem Infinita">
+    <Cheatline>
+      <Offset>13D7DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-CE-4F-44-7F-C7-40-38-E7-03-00-00-E9-76-4D-44-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8081CB2F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7C-B2-BB-80-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-55-02-00-00-89-48-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Nucleo Infinito">
+    <Cheatline>
+      <Offset>13D7EC0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-04-8F-44-7F-C7-40-14-E7-03-00-00-E9-01-8E-44-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80820CCA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F1-71-BB-80-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-00-01-00-00-89-48-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

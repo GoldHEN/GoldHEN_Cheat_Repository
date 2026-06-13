@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="God of War III Remastered" Moder="Rizla" Cusa="CUSA01623" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>3BF800</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-A0-D0-01-00-00-C5-FA-11-A0-CC-01-00-00-E9-B9-0A-CB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>702C6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-35-F5-34-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-A0-CC-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Magic">
+    <Cheatline>
+      <Offset>3BF843</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-D0-01-00-00-00-00-48-43-C5-FA-10-83-D0-01-00-00-E9-7A-34-CB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>72CCC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-72-CB-34-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-D0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Item Meter">
+    <Cheatline>
+      <Offset>3BF85A</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-D4-01-00-00-00-00-48-43-C5-FA-10-87-D4-01-00-00-E9-1E-35-CB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>72D87</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CE-CA-34-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-D4-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Rage of Sparta">
+    <Cheatline>
+      <Offset>3BF871</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-D8-01-00-00-00-00-C8-42-C5-FA-10-83-D8-01-00-00-E9-80-FD-CA-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6F600</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6C-02-35-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-D8-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Orbs on Spend">
+    <Cheatline>
+      <Offset>3BF82C</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-E8-01-00-00-F0-23-74-49-C5-FA-10-87-E8-01-00-00-E9-B1-B1-CA-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6A9EC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3B-4E-35-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-E8-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Darksiders II: Deathinitive Edition" Moder="Talixme" Cusa="CUSA02419" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>2AAB5D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Rage">
+    <Cheatline>
+      <Offset>24D597</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Skill Points">
+    <Cheatline>
+      <Offset>2BACB3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>44-89-73-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

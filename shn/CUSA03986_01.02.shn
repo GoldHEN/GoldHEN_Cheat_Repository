@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="BioShock: The Collection" Moder="Celogamez" Cusa="CUSA03986" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Shield">
+    <Cheatline>
+      <Offset>8F5A1A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-8B-C8-35-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health/1 Hit Kill (MASTERCODE/MUST BE ON)">
+    <Cheatline>
+      <Offset>1EFFDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7B-48-06-EB-1C-C7-83-C0-35-00-00-00-3C-1C-46-E9-18-DA-9C-FE-C5-FA-11-83-C0-35-00-00-E9-0B-DA-9C-FE-83-7B-48-05-EB-ED-C7-83-C0-35-00-00-00-00-00-00-E9-F6-D9-9C-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8CD7D5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D6-25-63-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-C0-35-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>1EFFDB4</Offset>
+      <Section>0</Section>
+      <ValueOn>75-1C</ValueOn>
+      <ValueOff>EB-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill">
+    <Cheatline>
+      <Offset>1EFFDD6</Offset>
+      <Section>0</Section>
+      <ValueOn>75-ED</ValueOn>
+      <ValueOff>EB-ED</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>1EFF8E0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-50-0A-00-00-E7-03-00-00-E9-14-CE-C3-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B3C6FD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DE-31-3C-01-90-90</ValueOn>
+      <ValueOff>45-89-AF-50-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>7FC5B340</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-87-1C-0A-00-00-63-E9-5A-0A-EE-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B3BDA0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9B-F5-11-7F-90-90</ValueOn>
+      <ValueOff>45-89-B7-1C-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Salt">
+    <Cheatline>
+      <Offset>7FC5B9F0</Offset>
+      <Section>0</Section>
+      <ValueOn>29-D8-41-8B-47-68-E9-A3-A0-1B-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E15A98</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-53-5F-E4-7E-90</ValueOn>
+      <ValueOff>29-D8-41-89-47-68</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Money On Buy (Don't Take More Money)">
+    <Cheatline>
+      <Offset>7FC5B9D0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-64-9F-86-01-00-E9-06-9F-1B-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E158DF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EC-60-E4-7E</ValueOn>
+      <ValueOff>45-29-74-24-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Lockpicks On Use">
+    <Cheatline>
+      <Offset>7FC5B910</Offset>
+      <Section>0</Section>
+      <ValueOn>4C-89-FF-C7-43-74-E7-03-00-00-E9-ED-B4-1B-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E16E06</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-05-4B-E4-7E-90</ValueOn>
+      <ValueOff>4C-89-FF-89-43-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

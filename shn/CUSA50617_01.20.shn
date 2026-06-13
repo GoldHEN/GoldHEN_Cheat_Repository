@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Elden Ring Nightreign" Moder="Celogamez" Cusa="CUSA50617" Version="01.20" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>3BA7DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7F-70-FF-75-07-44-8B-87-54-01-00-00-44-89-87-50-01-00-00-E9-CD-39-F9-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1B3B78F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1C-C6-06-02-90-90</ValueOn>
+      <ValueOff>44-89-87-50-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill">
+    <Cheatline>
+      <Offset>3BA7E00</Offset>
+      <Section>0</Section>
+      <ValueOn>83-BB-80-00-00-00-FF-75-0B-89-83-50-01-00-00-E9-85-4E-F9-FD-B8-01-00-00-00-89-83-50-01-00-00-E9-75-4E-F9-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1B3CC93</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-68-B1-06-02-90</ValueOn>
+      <ValueOff>89-83-50-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite FP">
+    <Cheatline>
+      <Offset>1B3D049</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>8B-8B-60-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>1B3D2BE</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>8B-8B-6C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items On Use">
+    <Cheatline>
+      <Offset>3BA6E40</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-44-45-CE-FD-C7-44-B1-08-63-00-00-00-03-54-B1-08-E9-10-45-CE-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>188B361</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DA-BA-31-02-90</ValueOn>
+      <ValueOff>74-2D-03-54-B1-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Skill Cooldown">
+    <Cheatline>
+      <Offset>3BA6C00</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-4F-28-C4-C1-7A-11-4F-24-E9-E0-71-24-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1DEDDEB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-10-8E-DB-01-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4F-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ultimate Art">
+    <Cheatline>
+      <Offset>3BA7790</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-47-18-C5-FA-11-47-14-E9-76-07-25-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1DF7F10</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7B-F8-DA-01</ValueOn>
+      <ValueOff>C5-FA-11-47-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Murks">
+    <Cheatline>
+      <Offset>3BA7690</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-FF-C9-9A-3B-89-88-D0-00-00-00-E9-90-B6-40-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1FB2D2A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-61-49-BF-01-90</ValueOn>
+      <ValueOff>89-88-D0-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3BA76E0</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-FF-C9-9A-3B-89-88-D0-00-00-00-E9-D0-03-42-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1FC7ABA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-21-FC-BD-01-90</ValueOn>
+      <ValueOff>89-88-D0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Runes">
+    <Cheatline>
+      <Offset>3BA7200</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-2C-F0-C7-41-6C-FF-C9-9A-3B-8B-51-6C-E9-30-95-25-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1E0073C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BF-6A-DA-01-90-90</ValueOn>
+      <ValueOff>C5-FA-2C-F0-8B-51-6C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

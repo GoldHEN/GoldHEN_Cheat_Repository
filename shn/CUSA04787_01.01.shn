@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Marvel: Ultimate Alliance" Moder="Reddevil82 - FW 9.00" Cusa="CUSA04787" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>A0BDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-83-CC-02-00-00-C5-FA-11-83-C4-02-00-00-C5-FA-10-83-C4-02-00-00-E9-AA-E4-79-FF-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1AA26F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3C-1B-86-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-83-C4-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Energy">
+    <Cheatline>
+      <Offset>A0BDE1</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-83-E8-02-00-00-C5-FA-11-83-D0-02-00-00-C5-FA-10-83-D0-02-00-00-E9-E0-79-71-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1237D6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-06-86-8E-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-83-D0-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Coins">
+    <Cheatline>
+      <Offset>A0BDFE</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-84-87-00-8C-00-00-FF-C9-9A-3B-8B-84-87-00-8C-00-00-E9-CC-2A-6D-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DE8DA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1F-D5-92-00-90-90</ValueOn>
+      <ValueOff>8B-84-87-00-8C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

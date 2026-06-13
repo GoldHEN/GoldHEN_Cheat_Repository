@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Earth Defense Force 4.1: The Shadow of New Despair" Moder="Molly" Cusa="CUSA03467" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>A47835</Offset>
+      <Section>0</Section>
+      <ValueOn>53-C5-FA-10-80-88-01-00-00-C5-FA-11-80-8C-01-00-00-5B-E9-41-75-8B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2FED85</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AB-8A-74-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-80-8C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Wingdiver-Engery">
+    <Cheatline>
+      <Offset>A47885</Offset>
+      <Section>0</Section>
+      <ValueOn>53-C5-FA-10-97-94-01-00-00-C5-FA-11-97-98-01-00-00-5B-E9-4E-90-76-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1B08E2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9E-6F-89-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-97-98-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="2x armor pick up">
+    <Cheatline>
+      <Offset>A478A2</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-84-86-E8-0A-00-00-02-41-FF-84-86-E8-0A-00-00-E9-00-99-6A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F11B0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-ED-66-95-00-90-90-90</ValueOn>
+      <ValueOff>41-FF-84-86-E8-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="INF Ammo + Rapidfire">
+    <Cheatline>
+      <Offset>A478B8</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-E7-03-00-00-41-89-87-B0-08-00-00-B8-E7-03-00-00-41-89-87-D0-01-00-00-B8-05-00-00-00-41-89-87-0C-03-00-00-B8-00-00-00-00-41-89-87-18-03-00-00-E9-54-38-7E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>22B13A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-79-C7-81-00-90-90</ValueOn>
+      <ValueOff>41-89-87-B0-08-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A478ED</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-9C-38-7E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>22B184</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-64-C7-81-00-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-C7-87-B0-08-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlock Every Weapon">
+    <Cheatline>
+      <Offset>A478F3</Offset>
+      <Section>0</Section>
+      <ValueOn>42-C6-84-A0-DC-45-00-00-01-42-F6-84-A0-DC-45-00-00-01-E9-E6-12-8F-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>338BE7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-07-ED-70-00-90-90-90-90</ValueOn>
+      <ValueOff>42-F6-84-A0-DC-45-00-00-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

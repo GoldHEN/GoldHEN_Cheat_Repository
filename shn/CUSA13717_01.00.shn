@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lost Artifacts: Soulstone" Moder="fbin" Cusa="CUSA13717" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Family" />
+  <Items />
+  <Cheat Text="Recursos Infinitos">
+    <Cheatline>
+      <Offset>13B7DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-7C-91-20-C7-44-90-20-E7-03-00-00-E9-6A-69-0F-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>804AE723</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-88-96-F0-80-90-90-90</ValueOn>
+      <ValueOff>8B-7C-91-20-01-7C-90-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

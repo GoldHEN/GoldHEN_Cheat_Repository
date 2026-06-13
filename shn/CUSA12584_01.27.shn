@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dying Light 2: Stay Human" Moder="Celogamez" Cusa="CUSA12584" Version="01.27" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Horror" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health (Not Against Your Own Molotov)">
+    <Cheatline>
+      <Offset>6007460</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-85-86-EE-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2EEFAE6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-75-79-11-03</ValueOn>
+      <ValueOff>E8-55-CE-49-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina/Breath">
+    <Cheatline>
+      <Offset>2F21885</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-44-24-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items/Arrows/Craft On Use (Need 2 To work)">
+    <Cheatline>
+      <Offset>600CC30</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-37-DD-E8-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2E9A968</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C3-22-17-03</ValueOn>
+      <ValueOff>E8-C3-5A-D4-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Throwables">
+    <Cheatline>
+      <Offset>6026740</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-2F-45-E7-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2E9AC70</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CB-BA-18-03</ValueOn>
+      <ValueOff>E8-BB-57-D4-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Weapons Durability">
+    <Cheatline>
+      <Offset>2BA0F73</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-83-A8-00-00-00</ValueOn>
+      <ValueOff>C5-FA-11-83-A8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Immunity/Chemical Area">
+    <Cheatline>
+      <Offset>2EF7C3D</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-47-2C</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite UV Flashlight">
+    <Cheatline>
+      <Offset>601D000</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-24-80-01-00-00-00-00-60-41-E9-CD-F5-49-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>24BC5D4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-27-0A-B6-03-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-80-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Money">
+    <Cheatline>
+      <Offset>601D140</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4C-D1-C7-47-34-FF-C9-9A-3B-E9-8B-B3-E7-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2E984D4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-67-4C-18-03-90</ValueOn>
+      <ValueOff>0F-4C-D1-89-57-34</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>601CB90</Offset>
+      <Section>0</Section>
+      <ValueOn>29-D8-C7-47-34-FF-C9-9A-3B-E9-4F-BB-E7-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2E986E8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A3-44-18-03</ValueOn>
+      <ValueOff>29-D8-89-47-34</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Time challenge (Disable B4 Finishing)">
+    <Cheatline>
+      <Offset>3501DD8</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-70</ValueOn>
+      <ValueOff>C5-FA-11-43-70</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP (Use After Escaping Waltz)">
+    <Cheatline>
+      <Offset>30F1EED</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-7E-18</ValueOn>
+      <ValueOff>49-89-46-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>6077000</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-7E-34-00-74-05-E8-34-9A-CF-FB-E9-1A-5B-31-FC-90-90-90</ValueOn>
+      <ValueOff>41-83-7E-34-00-74-05-E8-34-9A-CF-FB-E9-1A-5B-31-FC-90-90-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>238CB26</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D5-A4-CE-03</ValueOn>
+      <ValueOff>E8-15-3F-9E-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One-hit Kill">
+    <Cheatline>
+      <Offset>6077050</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-7E-34-00-74-0E-C7-45-D4-00-40-1C-46-C5-FA-10-45-D4-EB-05-C5-FA-11-4D-D4-E9-95-5A-31-FC-90</ValueOn>
+      <ValueOff>41-83-7E-34-00-74-0E-C7-45-D4-00-40-1C-46-C5-FA-10-45-D4-EB-05-C5-FA-11-4D-D4-E9-95-5A-31-FC-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>238CAFF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4C-A5-CE-03</ValueOn>
+      <ValueOff>C5-FA-11-4D-D4</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>2F21869</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-45-B0</ValueOn>
+      <ValueOff>C5-FA-10-45-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Weapon Durability">
+    <Cheatline>
+      <Offset>2BA0F62</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-5F-C1</ValueOn>
+      <ValueOff>C5-FA-5D-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Keep Items (on use|craft)">
+    <Cheatline>
+      <Offset>2E9A95C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-E6</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2E9AC68</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Item (on get|buy|craft)">
+    <Cheatline>
+      <Offset>2E9C30A</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C6</ValueOn>
+      <ValueOff>03-31</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="25x Money Multiplier">
+    <Cheatline>
+      <Offset>60770A0</Offset>
+      <Section>0</Section>
+      <ValueOn>85-F6-74-0C-4D-85-C9-75-07-6B-F6-19-41-89-75-00-41-89-F4-49-89-FF-E9-2E-1D-E3-FC-90</ValueOn>
+      <ValueOff>85-F6-74-0C-4D-85-C9-75-07-6B-F6-19-41-89-75-00-41-89-F4-49-89-FF-E9-2E-1D-E3-FC-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2EA8DE3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B8-E2-1C-03-90</ValueOn>
+      <ValueOff>41-89-F4-49-89-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="25x Skill/Legend Points Multiplier">
+    <Cheatline>
+      <Offset>60770F0</Offset>
+      <Section>0</Section>
+      <ValueOn>6B-F6-19-4D-8B-6E-18-48-89-F1-E9-CF-AD-07-FD-90</ValueOn>
+      <ValueOff>6B-F6-19-4D-8B-6E-18-48-89-F1-E9-CF-AD-07-FD-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>30F1EC7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-24-52-F8-02-90-90</ValueOn>
+      <ValueOff>4D-8B-6E-18-48-89-F1</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

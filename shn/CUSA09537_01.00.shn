@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Secret of Mana" Moder="Weysincha" Cusa="CUSA09537" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>1426D1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>44-29-BB-28-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>125E62</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-84-01-30-01-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Exp/Level">
+    <Cheatline>
+      <Offset>34C656</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-7F-96-98-00</ValueOn>
+      <ValueOff>3D-7F-96-98-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set GM (Money) to 9.999.999">
+    <Cheatline>
+      <Offset>BCD65C</Offset>
+      <Section>0</Section>
+      <ValueOn>7F-96-98-00</ValueOn>
+      <ValueOff>7F-96-98-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Titanfall 2" Moder="TLH" Cusa="CUSA04013" Version="01.13" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Fighting" />
+  <Genres Name="FPS" />
+  <Genres Name="RPG" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>53C6D7</Offset>
+      <Section>61</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-FB</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Bottomless Clip / Infinite Grenades">
+    <Cheatline>
+      <Offset>537B42</Offset>
+      <Section>61</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-9C-24-F0-0E-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

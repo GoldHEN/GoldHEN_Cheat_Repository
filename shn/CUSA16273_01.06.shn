@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Survivalists" Moder="JustGotenks" Cusa="CUSA16273" Version="01.06" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>80BDC526</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-35-EB-D0-80-90-90-90-90</ValueOn>
+      <ValueOff>89-F3-31-F6-E8-01-1B-A2-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>18EB060</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-81-FC-50-C3-77-03-44-89-E6-89-F3-31-F6-E8-BC-2F-D1-7E-E9-B6-14-2F-7F-90-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>80A0F601</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-F2-5C-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One-hit Kill">
+    <Cheatline>
+      <Offset>809D553F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EC-5A-F1-80-90-90</ValueOn>
+      <ValueOff>89-58-20-48-83-C4-08</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>18EB030</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-00-00-00-00-89-58-20-48-83-C4-08-E9-05-A5-0E-7F-90-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One-hit Destroy (trees, rocks, etc)">
+    <Cheatline>
+      <Offset>80BDC52F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CC-EA-D0-80-90-90</ValueOn>
+      <ValueOff>89-58-20-48-83-C4-08</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>18EB000</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-81-FC-50-C3-76-05-BB-00-00-00-00-89-58-20-48-83-C4-08-E9-1D-15-2F-7F-90-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Hunger">
+    <Cheatline>
+      <Offset>80E0626E</Offset>
+      <Section>0</Section>
+      <ValueOn>83-EA-00</ValueOn>
+      <ValueOff>2B-51-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Item Damage">
+    <Cheatline>
+      <Offset>80E0F856</Offset>
+      <Section>0</Section>
+      <ValueOn>83-6C-C8-2C-00</ValueOn>
+      <ValueOff>44-29-7C-C8-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Coins (on get)">
+    <Cheatline>
+      <Offset>8074E5A3</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-30-3F-42-0F-00</ValueOn>
+      <ValueOff>41-03-76-20-89-73-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Lock Item (buggy)">
+    <Cheatline>
+      <Offset>80E0C47D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7E-EB-AD-80-90-90-90-90-90-90</ValueOn>
+      <ValueOff>29-D8-41-89-07-0F-84-97-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>18EB000</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-7F-04-00-74-05-29-D8-41-89-07-E9-77-14-52-7F-90-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

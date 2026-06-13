@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Heart &amp; Slash" Moder="cjwine" Cusa="CUSA04531" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="god mode">
+    <Cheatline>
+      <Offset>508A7F</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>45-89-BE-44-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="max screw on pick">
+    <Cheatline>
+      <Offset>110F800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-63-44-24-08-B8-64-00-00-00-41-89-46-14-E9-BF-A3-4D-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>805E9BC9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-32-5C-B2-80-90-90-90-90</ValueOn>
+      <ValueOff>48-63-44-24-08-41-89-46-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="bullet inf">
+    <Cheatline>
+      <Offset>4B0036</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-87-FC-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

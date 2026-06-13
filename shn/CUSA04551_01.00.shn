@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Nier: Automata" Moder="Weysincha" Cusa="CUSA04551" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>2DA35E</Offset>
+      <Section>0</Section>
+      <ValueOn>01-83-10-06-01-00</ValueOn>
+      <ValueOff>89-83-10-06-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Level">
+    <Cheatline>
+      <Offset>696B16</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-7F-96-98-00-89-C1-90</ValueOn>
+      <ValueOff>B8-7F-96-98-00-89-C1-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

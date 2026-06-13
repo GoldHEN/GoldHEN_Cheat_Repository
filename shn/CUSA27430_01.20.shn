@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Skul: The Hero Slayer" Moder="Celogamez" Cusa="CUSA27430" Version="01.20" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>199BDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7F-4C-00-74-06-90-E9-84-4C-E9-7E-E8-EF-4C-E9-7E-E9-7A-4C-E9-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80830A3B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-70-B3-16-81</ValueOn>
+      <ValueOff>E8-70-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Cooldown">
+    <Cheatline>
+      <Offset>6EDB1F</Offset>
+      <Section>14</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-47-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Jumps">
+    <Cheatline>
+      <Offset>52E4F2</Offset>
+      <Section>14</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>FF-40-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Coins/Crystals/Bones (Disable After Gain)">
+    <Cheatline>
+      <Offset>199BBC0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-1C-9F-86-01-00-E9-CE-FA-A0-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>813AB697</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-24-05-5F-80</ValueOn>
+      <ValueOff>45-89-74-24-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

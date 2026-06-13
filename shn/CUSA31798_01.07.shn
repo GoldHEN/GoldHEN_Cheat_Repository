@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Souldiers" Moder="JustGotenks" Cusa="CUSA31798" Version="01.07" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>18A3B6C</Offset>
+      <Section>0</Section>
+      <ValueOn>66-9C-49-83-FC-05-74-0C-C5-FA-10-4B-18-66-9D-E9-72-B2-BD-7E-C5-FA-10-4B-1C-C5-FA-11-4B-18-48-31-C0-EB-EA-90</ValueOn>
+      <ValueOff>66-9C-49-83-FC-05-74-0C-C5-FA-10-4B-18-66-9D-E9-72-B2-BD-7E-C5-FA-10-4B-1C-C5-FA-11-4B-18-48-31-C0-EB-EA-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8047EDED</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7A-4D-42-81</ValueOn>
+      <ValueOff>C5-FA-10-4B-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>804004C5</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-5C-45-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Arrows">
+    <Cheatline>
+      <Offset>8052B9C2</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8F-9C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Energy (Caster)">
+    <Cheatline>
+      <Offset>18A3C6C</Offset>
+      <Section>0</Section>
+      <ValueOn>49-8B-86-68-03-00-00-C5-FA-10-48-18-C4-C1-7A-11-8E-70-03-00-00-E9-DB-9E-DE-7E-90-90</ValueOn>
+      <ValueOff>49-8B-86-68-03-00-00-C5-FA-10-48-18-C4-C1-7A-11-8E-70-03-00-00-E9-DB-9E-DE-7E-90-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8068DB58</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0F-61-21-81-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-8E-70-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One-hit Kill">
+    <Cheatline>
+      <Offset>18A3BBC</Offset>
+      <Section>0</Section>
+      <ValueOn>66-9C-49-83-FC-05-74-09-C5-EA-2A-C8-C5-FA-11-4B-18-C5-EA-2A-C0-31-FF-66-9D-E9-1E-B2-BD-7E-90-90</ValueOn>
+      <ValueOff>66-9C-49-83-FC-05-74-09-C5-EA-2A-C8-C5-FA-11-4B-18-C5-EA-2A-C0-31-FF-66-9D-E9-1E-B2-BD-7E-90-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8047EDF2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C5-4D-42-81-90</ValueOn>
+      <ValueOff>C5-EA-2A-C0-31-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max ammo/potions (on use)">
+    <Cheatline>
+      <Offset>18A3BFC</Offset>
+      <Section>0</Section>
+      <ValueOn>50-8B-83-D8-00-00-00-89-83-D4-00-00-00-48-C7-C2-00-00-00-00-41-BE-00-00-00-00-58-E9-39-6C-B5-7E</ValueOn>
+      <ValueOff>50-8B-83-D8-00-00-00-89-83-D4-00-00-00-48-C7-C2-00-00-00-00-41-BE-00-00-00-00-58-E9-39-6C-B5-7E</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>803FA84E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A9-93-4A-81-90-90</ValueOn>
+      <ValueOff>44-29-B3-D4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Gold (on get)">
+    <Cheatline>
+      <Offset>18A3C3C</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-3F-42-0F-00-BA-FF-FF-FF-7F-E9-48-0E-B5-7E-90</ValueOn>
+      <ValueOff>BB-3F-42-0F-00-BA-FF-FF-FF-7F-E9-48-0E-B5-7E-90</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>803F4A8E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A9-F1-4A-81</ValueOn>
+      <ValueOff>BA-FF-FF-FF-7F</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

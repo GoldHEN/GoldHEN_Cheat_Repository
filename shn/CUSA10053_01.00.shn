@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hokuto Ga Gotoku" Moder="Vampirexx" Cusa="CUSA10053" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Arcade" />
+  <Genres Name="Fighting" />
+  <Genres Name="Racing" />
+  <Items />
+  <Cheat Text="God Mode" Description="God Mode">
+    <Cheatline>
+      <Offset>1E37DB2</Offset>
+      <Section>0</Section>
+      <ValueOn>48-BB-D0-26-0B-00-02-00-00-00-48-39-C3-0F-85-44-08-5A-FE-89-D7-E9-3D-08-5A-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3D8604</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A9-F7-A5-01</ValueOn>
+      <ValueOff>0F-4F-F9-39-D7</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 hit Max Aura" Description="1 hit Max Aura">
+    <Cheatline>
+      <Offset>1E37DA4</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-00-C0-DA-45-66-0F-6E-C2-E9-12-35-56-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>39B2BF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E0-CA-A9-01</ValueOn>
+      <ValueOff>C5-FA-5D-45-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Aura" Description="Inf Aura">
+    <Cheatline>
+      <Offset>39BA82</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-40-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Hokuto Mode" Description="Inf Hokuto Mode">
+    <Cheatline>
+      <Offset>440724</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8B-0C-39-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Skills Points after spent" Description="Max Skills Points after spent">
+    <Cheatline>
+      <Offset>995183</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-E7-03-00-00-90</ValueOn>
+      <ValueOff>81-F9-E7-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Fiches and Money after spent" Description="Max Fiches and Money after spent">
+    <Cheatline>
+      <Offset>999C7B</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-F1</ValueOn>
+      <ValueOff>48-39-F1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf items" Description="Inf items">
+    <Cheatline>
+      <Offset>995F80</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-89-77-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Car Boost" Description="Inf Car Boost">
+    <Cheatline>
+      <Offset>C453EE</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-9B-0C-0B-00-00</ValueOn>
+      <ValueOff>C5-FA-11-83-0C-0B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Car Durability" Description="Inf Car Durability">
+    <Cheatline>
+      <Offset>C4A5FE</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-87-0C-0B-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-11-87-0C-0B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Car Fuel" Description="Inf Car Fuel">
+    <Cheatline>
+      <Offset>99C620</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-A4-D3-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Talismans Time" Description="Inf Talismans Time">
+    <Cheatline>
+      <Offset>99CA41</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-4C-C7-04</ValueOn>
+      <ValueOff>C5-FA-11-44-C7-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

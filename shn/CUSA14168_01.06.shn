@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 3" Moder="Celogamez" Cusa="CUSA14168" Version="01.06" Process="eboot.bin">
+  <Genres Name="Horror" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>17A863C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-5F-86-AD-FE</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>17A7E27</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-54-05-AE-FE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill">
+    <Cheatline>
+      <Offset>7153B80</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-81-88-01-00-00-C7-42-58-00-00-00-00-E9-CD-4E-A8-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1BD8A56</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-25-B1-57-05-90-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-81-88-01-00-00-8B-5A-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>1F02BB3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-51-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload/Infinite Granades">
+    <Cheatline>
+      <Offset>1E9599A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-51-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items on move from Storage">
+    <Cheatline>
+      <Offset>1E96211</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-C5-90</ValueOn>
+      <ValueOff>44-0F-4E-E8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="20 Inventory Slot">
+    <Cheatline>
+      <Offset>7153B00</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BC-14-00-00-00-44-89-A0-90-00-00-00-E9-D2-60-4C-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>619BDD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1E-9F-B3-06-90-90</ValueOn>
+      <ValueOff>44-8B-A0-90-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Save Always At 0">
+    <Cheatline>
+      <Offset>7153AE0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-83-2F-4C-FA-C6-41-24-00-E9-F9-2E-4C-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>16169DF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FC-D0-B3-05-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-8A-00-00-00-89-41-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Reset Time (Enable/Disable)">
+    <Cheatline>
+      <Offset>7153BD0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-2C-C6-BD-FA-48-31-DB-48-89-58-18-E9-79-C5-BD-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1D30151</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7A-3A-42-05-90-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-B1-00-00-00-48-8B-58-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

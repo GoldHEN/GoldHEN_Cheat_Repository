@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Devil May Cry 5" Moder="gokusuper" Cusa="CUSA08161" Version="01.08" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="inf devil trager">
+    <Cheatline>
+      <Offset>858B800</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-10-11-00-00-04-79-86-67-E9-88-74-EA-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3432C8F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6C-8B-15-05-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-10-11-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf ammo pwoer">
+    <Cheatline>
+      <Offset>13702F4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-87-20-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="max exceed">
+    <Cheatline>
+      <Offset>2FC14A3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>0F-87-83-FE-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf exceed">
+    <Cheatline>
+      <Offset>A1D2CA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>48-01-FB</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf fired up">
+    <Cheatline>
+      <Offset>10ED61C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>48-85-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf gaurde">
+    <Cheatline>
+      <Offset>38E21FB</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-40-28-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="maxgaurde">
+    <Cheatline>
+      <Offset>858B800</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-28-00-60-EA-46-E9-2B-79-35-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>38E3132</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C9-86-CA-04</ValueOn>
+      <ValueOff>C5-FA-11-40-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="inf red orbe">
+    <Cheatline>
+      <Offset>36A9179</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-4D-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

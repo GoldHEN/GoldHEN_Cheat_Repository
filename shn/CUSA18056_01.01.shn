@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ys: Memories of Celceta" Moder="GamerX2" Cusa="CUSA18056" Version="01.01" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinite HP">
+    <Cheatline>
+      <Offset>43F800</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-81-FD-C0-FC-75-19-41-C7-85-58-0B-00-00-00-3C-1C-46-C4-C1-7A-10-9D-58-0B-00-00-E9-D9-6A-CA-FF-C4-C1-7A-11-9D-58-0B-00-00-E9-CB-6A-CA-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E62F1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0A-95-35-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-9D-58-0B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Gold On Gain| Battle">
+    <Cheatline>
+      <Offset>43CC42</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-7F-96-18-4B-41-89-85-B4-56-01-00-E9-CA-DC-F0-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>34A916</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-27-23-0F-00-90-90</ValueOn>
+      <ValueOff>41-89-85-B4-56-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max+ Inf Gold On Buy">
+    <Cheatline>
+      <Offset>43CCC0</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-7F-96-98-00-89-91-B4-56-01-00-E9-7C-16-DD-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>20E346</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-75-E9-22-00-90</ValueOn>
+      <ValueOff>89-91-B4-56-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Level | Kill  Few Monsters">
+    <Cheatline>
+      <Offset>43CC00</Offset>
+      <Section>0</Section>
+      <ValueOn>81-83-64-0B-00-00-7F-96-18-4B-C5-FA-10-83-64-0B-00-00-E9-EE-15-CC-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FE1FD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FE-E9-33-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-64-0B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max SP Slots On Hit ">
+    <Cheatline>
+      <Offset>43CC19</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-10-27-00-00-41-89-85-B8-56-01-00-E9-2A-7F-CA-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E4B4D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C7-80-35-00-90-90</ValueOn>
+      <ValueOff>41-89-85-B8-56-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant EXTRA Skill Gauge">
+    <Cheatline>
+      <Offset>43CCAD</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-00-3C-1C-46-89-94-88-FC-AB-1D-00-E9-6B-65-D2-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>163222</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-86-9A-2D-00-90-90</ValueOn>
+      <ValueOff>89-94-88-FC-AB-1D-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Skill Level Up| Use Skill Once">
+    <Cheatline>
+      <Offset>43CC55</Offset>
+      <Section>0</Section>
+      <ValueOn>81-C1-E7-03-00-00-41-89-4C-B7-08-E9-30-EE-CC-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>10BA90</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C0-11-33-00</ValueOn>
+      <ValueOff>41-89-4C-B7-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze GamePlay Timer">
+    <Cheatline>
+      <Offset>57C26</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-8F-BC-56-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Rest GamePlay Timer">
+    <Cheatline>
+      <Offset>43CC30</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-00-00-00-00-89-8F-BC-56-01-00-E9-EC-AF-C1-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>57C26</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-05-50-3E-00-90</ValueOn>
+      <ValueOff>89-8F-BC-56-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max+ Inf  Items On Use">
+    <Cheatline>
+      <Offset>43CC67</Offset>
+      <Section>0</Section>
+      <ValueOn>66-B8-63-00-66-41-89-84-4E-C8-56-01-00-E9-1D-4A-D0-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14168D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D5-B5-2F-00-90-90-90-90</ValueOn>
+      <ValueOff>66-41-89-84-4E-C8-56-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlock All Weapons/Armour/Usable Items">
+    <Cheatline>
+      <Offset>43CC7B</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-84-47-C8-56-01-00-63-00-0F-B7-84-47-C8-56-01-00-E9-A3-81-D3-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>174E2D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-49-7E-2C-00-90-90-90</ValueOn>
+      <ValueOff>0F-B7-84-47-C8-56-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Consumables/Weapons/Minerals/Materials">
+    <Cheatline>
+      <Offset>43CC94</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-84-77-C8-56-01-00-63-00-0F-BF-84-77-C8-56-01-00-E9-1D-82-D3-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>174EC0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CF-7D-2C-00-90-90-90</ValueOn>
+      <ValueOff>0F-BF-84-77-C8-56-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max+ Inf Minerals and Materials | Blacksmith Shop">
+    <Cheatline>
+      <Offset>43CCD6</Offset>
+      <Section>0</Section>
+      <ValueOn>66-B8-E7-03-66-43-89-84-66-C8-56-01-00-E9-54-80-D3-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>174D33</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9E-7F-2C-00-90-90-90-90</ValueOn>
+      <ValueOff>66-43-89-84-66-C8-56-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

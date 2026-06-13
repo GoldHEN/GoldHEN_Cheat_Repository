@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Aegis of Earth: Protonovus Assault" Moder="DeathRGH" Cusa="CUSA04250" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Get Money For Spending it">
+    <Cheatline>
+      <Offset>99F352</Offset>
+      <Section>0</Section>
+      <ValueOn>44-01-78-18</ValueOn>
+      <ValueOff>44-89-78-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

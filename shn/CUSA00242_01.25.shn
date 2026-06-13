@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Diablo III: Reaper of Souls: Ultimate Evil Edition" Moder="Vampirexx" Cusa="CUSA00242" Version="01.25" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Arcade" />
+  <Items />
+  <Cheat Text="Max Gold after Shop and Max Items after Smith" Description="Max Gold after Shop and Max Items after Smith">
+    <Cheatline>
+      <Offset>12D7800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-C7-C1-FF-C9-9A-3B-4A-89-8C-F8-28-9D-00-00-E9-D8-5A-28-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>55D2E0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1B-A5-D7-00-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>4A-8B-B4-F8-28-9D-00-00-4A-8D-0C-36</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
+
+
+
+
+
+
+
+
+

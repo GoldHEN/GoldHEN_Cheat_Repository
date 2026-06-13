@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Gungrave G.O.R.E" Moder="fbin" Cusa="CUSA27913" Version="01.05" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Escudo+Vida Infinita">
+    <Cheatline>
+      <Offset>D39D70</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-04-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Ataque Demolidor Infinito">
+    <Cheatline>
+      <Offset>5D53DD0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-A0-05-00-00-00-E1-0B-49-E9-A5-4E-F3-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C88C7C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4F-B1-0C-05-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-A0-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Modo Furia Infinita">
+    <Cheatline>
+      <Offset>5D53E20</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-24-84-0A-00-00-8F-AA-1A-41-E9-B8-50-F5-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>CA8EDF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3C-AF-0A-05-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-84-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Pontos de Evolucao Infinitos">
+    <Cheatline>
+      <Offset>5D53F20</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-64-FF-C9-9A-3B-E9-66-EF-0F-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E52E8F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8C-10-F0-04</ValueOn>
+      <ValueOff>41-29-44-24-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Hit Beats 9999 (quando ativado)">
+    <Cheatline>
+      <Offset>5D53EB0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-24-38-0F-27-00-00-E9-9D-8C-0B-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E0CB56</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-55-73-F4-04</ValueOn>
+      <ValueOff>41-89-44-24-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

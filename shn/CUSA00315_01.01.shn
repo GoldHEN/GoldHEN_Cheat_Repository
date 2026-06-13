@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Swapper" Moder="DeathRGH" Cusa="CUSA00315" Version="01.01" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Infinite Clones">
+    <Cheatline>
+      <Offset>733B1</Offset>
+      <Section>0</Section>
+      <ValueOn>41-FF-87-B8-03-00-00</ValueOn>
+      <ValueOff>41-FF-8F-B8-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

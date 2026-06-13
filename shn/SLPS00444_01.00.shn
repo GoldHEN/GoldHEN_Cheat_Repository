@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mortal Kombat II" Moder="Ali-mk" Cusa="SLPS00444" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>1308DC</Offset>
+      <Section>11</Section>
+      <ValueOn>A1</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1308DD</Offset>
+      <Section>11</Section>
+      <ValueOn>FF</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Health+1-Hit">
+    <Cheatline>
+      <Offset>1308C0</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>1C</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1308C1</Offset>
+      <Section>11</Section>
+      <ValueOn>1A</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Fatality Time">
+    <Cheatline>
+      <Offset>117F8A</Offset>
+      <Section>11</Section>
+      <ValueOn>00</ValueOn>
+      <ValueOff>22</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>117F8B</Offset>
+      <Section>11</Section>
+      <ValueOn>25</ValueOn>
+      <ValueOff>AC</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Time">
+    <Cheatline>
+      <Offset>1183BE</Offset>
+      <Section>11</Section>
+      <ValueOn>40</ValueOn>
+      <ValueOff>42</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1183BF</Offset>
+      <Section>11</Section>
+      <ValueOn>10</ValueOn>
+      <ValueOff>24</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

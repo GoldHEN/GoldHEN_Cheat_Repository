@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dead Island 2" Moder="Wander FW9.00" Cusa="CUSA27043" Version="01.03" Process="eboot.bin">
+  <Genres Name="Terror" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>900D590</Offset>
+      <Section>0</Section>
+      <ValueOn>41-80-BF-70-01-00-00-02-75-0D-41-C7-87-78-01-00-00-00-80-3B-45-EB-09-C4-C1-7A-11-87-78-01-00-00-E9-5F-EC-71-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>272C20B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-80-13-8E-06-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-87-78-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite weapon Durability">
+    <Cheatline>
+      <Offset>900D510</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-78-0B-00-00-00-00-C8-42-E9-EB-BE-D5-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2D69402</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-09-41-2A-06-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-78-0B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>9008810</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-14-01-00-00-00-00-C8-42-E9-8D-A0-C0-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2C128A4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-67-5F-3F-06-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-14-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>9015450</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-87-04-01-00-00-1E-E9-9A-3A-BB-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2BC8EF0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5B-C5-44-06-90</ValueOn>
+      <ValueOff>89-87-04-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Cash (on get turn off items cheat first)">
+    <Cheatline>
+      <Offset>900C260</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-DC-20-FF-E0-F5-05-E9-5D-CC-B9-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6BA8EC6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-95-33-46-02</ValueOn>
+      <ValueOff>41-89-4C-DC-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Experience (on 2nd kill)">
+    <Cheatline>
+      <Offset>900D1E0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-78-FF-C9-9A-3B-44-03-70-78-49-8B-04-24-E9-08-29-E9-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2E9FAF4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E7-D6-16-06-90-90-90</ValueOn>
+      <ValueOff>44-03-70-78-49-8B-04-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="sell 999 items (on the store if items cheat bugged out)">
+    <Cheatline>
+      <Offset>900D400</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-83-E0-09-00-00-E7-03-E9-EC-C4-07-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>30898F4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-07-3B-F8-05-90</ValueOn>
+      <ValueOff>89-8B-E0-09-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="x60 Items (on get turn off the cash cheat and have 2 items)">
+    <Cheatline>
+      <Offset>900D4A0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-44-DC-20-3C-E9-20-BA-B9-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6BA8EC6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D5-45-46-02</ValueOn>
+      <ValueOff>41-89-4C-DC-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

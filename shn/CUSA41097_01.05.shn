@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Afterimage" Moder="Reddevil82 - FW 9.00" Cusa="CUSA41097" Version="01.05" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Mastercode ( must be activated )">
+    <Cheatline>
+      <Offset>527781F</Offset>
+      <Section>0</Section>
+      <ValueOn>41-80-FD-02-75-0C-C5-FA-10-44-C8-30-C5-FA-10-44-C8-30-41-80-FD-01-75-12-83-78-10-00-74-0C-C5-FA-10-44-C8-30-C5-FA-10-44-C8-30-41-80-FD-03-75-12-83-78-10-00-74-0C-C5-FA-10-44-C8-30-C5-FA-10-44-C8-30-41-80-FD-04-75-12-83-78-10-00-74-0C-C5-FA-10-44-C8-30-C5-FA-10-44-C8-30-41-80-FD-05-75-12-83-78-10-00-74-0C-C5-FA-10-44-C8-30-C5-FA-10-44-C8-30-41-80-FD-06-75-12-83-78-10-00-74-0C-C5-FA-10-44-C8-30-C5-FA-10-44-C8-30-41-80-FD-14-75-0C-C5-FA-10-44-C8-30-C5-FA-10-44-C8-30-41-80-FD-B6-75-0C-C5-FA-10-44-C8-30-C5-FA-10-44-C8-30-41-80-FD-B7-75-0C-C5-FA-10-44-C8-30-C5-FA-10-44-C8-30-41-80-FD-3C-75-0C-C5-FA-10-44-C8-30-C5-FA-10-44-C8-30-41-80-FD-60-75-0C-C5-FA-10-44-C8-30-C5-FA-10-44-C8-30-41-80-FD-76-75-0C-C5-FA-10-44-C8-30-C5-FA-10-44-C8-30-41-80-FD-17-75-0C-C5-FA-10-44-C8-30-C5-FA-10-44-C8-30-41-80-FD-17-75-0C-C5-FA-10-44-C8-30-C5-FA-10-44-C8-30-41-80-FD-01-75-12-83-78-10-00-75-0C-C5-FA-10-44-C8-30-C5-FA-10-44-C8-30-41-80-FD-30-75-0C-C5-FA-10-44-C8-30-C5-FA-10-44-C8-30-41-80-FD-30-75-0C-C5-FA-10-44-C8-30-C5-FA-10-44-C8-30-41-80-FD-26-75-0C-C5-FA-10-44-C8-30-C5-FA-10-44-C8-30-41-80-FD-26-75-06-C5-FA-10-44-C8-30-C5-FA-10-44-C8-30-E9-47-C3-20-FB-C7-44-C8-30-00-00-4E-43-C3-C5-FA-10-80-C0-00-00-00-C5-FA-11-44-C8-30-C3-C5-FA-10-80-50-01-00-00-C5-FA-11-44-C8-30-C3-C7-44-C8-30-00-00-10-42-C3-C7-44-C8-30-00-00-48-42-C3-C7-44-C8-30-7F-96-18-4B-C3-C7-44-C8-30-00-C0-79-44-C3-C7-44-C8-30-00-00-00-00-C3-C7-44-C8-30-00-00-C6-42-C3-C7-44-C8-30-F0-23-74-49-C3-C7-44-C8-30-00-00-C6-42-C3-C7-44-C8-30-00-00-00-3F-C3-C7-44-C8-30-33-33-23-40-C3-C7-44-C8-30-00-00-80-3F-C3-C7-44-C8-30-00-00-80-3F-C7-44-C8-18-00-00-80-3F-C3-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>483CDF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3B-3B-DF-04-90</ValueOn>
+      <ValueOff>C5-FA-10-44-C8-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Health [ MC ]">
+    <Cheatline>
+      <Offset>5277825</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-74-01-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-C8-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health [ MC ]">
+    <Cheatline>
+      <Offset>527783D</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-65-01-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-C8-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite MP [ MC ]">
+    <Cheatline>
+      <Offset>5277855</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-5C-01-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-C8-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max MP [ MC ]">
+    <Cheatline>
+      <Offset>527786D</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-53-01-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-C8-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Attack [ MC ]">
+    <Cheatline>
+      <Offset>5277885</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-44-01-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-C8-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Defense [ MC ]">
+    <Cheatline>
+      <Offset>527789D</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-2C-01-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-C8-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items ( on gain - use )">
+    <Cheatline>
+      <Offset>5277800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8A-47-08-41-88-45-08-41-83-7D-04-00-0F-85-A3-FC-1B-FB-41-C6-45-00-63-E9-99-FC-1B-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4374AE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4D-03-E4-04-90-90-90</ValueOn>
+      <ValueOff>41-8A-47-08-41-88-45-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Dew Currency [ MC ]">
+    <Cheatline>
+      <Offset>52778AF</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-23-01-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-C8-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Talent Points ( You need 1 ) [ MC ]">
+    <Cheatline>
+      <Offset>52778C1</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-1A-01-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-C8-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set used Talent Points to 0 [ MC ]">
+    <Cheatline>
+      <Offset>52778D3</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-11-01-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-C8-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Player Level [ MC ]">
+    <Cheatline>
+      <Offset>52778E5</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-08-01-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-C8-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP ( after fisnish Level Stage )">
+    <Cheatline>
+      <Offset>52778F7</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-FF-00-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-C8-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Divine Seed [ MC ]">
+    <Cheatline>
+      <Offset>5277909</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-F6-00-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-C8-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Activate Gravity Jump [ MC ]">
+    <Cheatline>
+      <Offset>527791B</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-ED-00-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-C8-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Deactivate Gravity Jump [ MC ]">
+    <Cheatline>
+      <Offset>527792D</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-E4-00-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-C8-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Kill all Enemies [ MC ]">
+    <Cheatline>
+      <Offset>5277945</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-9F-00-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-C8-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Activate Invincible Mode [ MC ]">
+    <Cheatline>
+      <Offset>5277957</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-C3-00-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-C8-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Deactivate Invincible Mode [ MC ]">
+    <Cheatline>
+      <Offset>5277969</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-7B-00-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-C8-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Dash [ MC ]">
+    <Cheatline>
+      <Offset>527798D</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-96-00-00-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-C8-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

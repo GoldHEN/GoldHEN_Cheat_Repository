@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="theHunter: Call of the Wild" Moder="Rizla" Cusa="CUSA08368" Version="01.00" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>1C1F8DD</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8B-86-C8-01-00-00-41-89-86-2C-02-00-00-E9-0E-CC-AC-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>16EC4F6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E2-33-53-00-90-90-90</ValueOn>
+      <ValueOff>41-0F-BF-86-C8-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>1310CD6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-94-99-C4-10-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>1C1F800</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-B7-28-02-00-00-89-B7-2C-02-00-00-E9-65-0C-6F-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1310470</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8B-F3-90-00-90</ValueOn>
+      <ValueOff>89-B7-2C-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="HeartRate Always Calm">
+    <Cheatline>
+      <Offset>1C1F91D</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-44-90-04-00-00-80-3F-C5-FA-10-44-90-04-E9-DF-76-9A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15C7009</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0F-89-65-00-90</ValueOn>
+      <ValueOff>C5-FA-10-44-90-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Visability">
+    <Cheatline>
+      <Offset>1C1F811</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-80-10-00-00-00-00-00-00-C4-C1-7A-10-86-80-10-00-00-E9-57-70-9A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15C6878</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-94-8F-65-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-80-10-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1C1F85C</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-8C-10-00-00-00-00-00-00-C4-C1-7A-10-86-8C-10-00-00-E9-F9-73-9A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15C6C65</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F2-8B-65-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-8C-10-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1C1F875</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-8C-10-00-00-00-00-00-00-E9-38-73-9A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15C6BB2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BE-8C-65-00-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-C7-86-8C-10-00-00-00-00-80-3F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Silent Footsteps">
+    <Cheatline>
+      <Offset>1C1F82A</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-90-10-00-00-00-00-00-00-C4-C1-7A-10-86-90-10-00-00-E9-4C-74-9A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15C6C86</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9F-8B-65-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-90-10-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Background Noise">
+    <Cheatline>
+      <Offset>1C1F843</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-A0-10-00-00-00-00-00-00-C4-C1-7A-10-86-A0-10-00-00-E9-C9-71-9A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15C6A1C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-22-8E-65-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-A0-10-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP on Gain (Get XP Twice for Unlocks)">
+    <Cheatline>
+      <Offset>1C1F8A0</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C1-BA-08-7A-04-00-89-57-14-E9-BB-90-9B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15D8965</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-36-6F-64-00</ValueOn>
+      <ValueOff>89-C1-89-57-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Skill Points on Spend">
+    <Cheatline>
+      <Offset>1C1F8AF</Offset>
+      <Section>0</Section>
+      <ValueOn>29-D6-BE-63-00-00-00-89-71-18-E9-BA-D1-B1-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>173CA73</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-37-2E-4E-00</ValueOn>
+      <ValueOff>29-D6-89-71-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="x2 Skill Points on Spend">
+    <Cheatline>
+      <Offset>173CA73</Offset>
+      <Section>0</Section>
+      <ValueOn>01-D6</ValueOn>
+      <ValueOff>29-D6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max SP/PP when Reset">
+    <Cheatline>
+      <Offset>1C1F8F0</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-63-00-00-00-89-41-1C-E9-61-D0-B1-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>173C950</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9B-2F-4E-00</ValueOn>
+      <ValueOff>74-0C-01-41-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="x2 Perk Points on Spend">
+    <Cheatline>
+      <Offset>173CA55</Offset>
+      <Section>0</Section>
+      <ValueOn>01-D7</ValueOn>
+      <ValueOff>29-D7</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money on Gain">
+    <Cheatline>
+      <Offset>1C1F90D</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-FF-C9-9A-3B-89-B7-A0-00-00-00-E9-F0-A0-A2-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1649A07</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-01-5F-5D-00-90</ValueOn>
+      <ValueOff>01-B7-A0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="x2 Money on Spend">
+    <Cheatline>
+      <Offset>16DE705</Offset>
+      <Section>0</Section>
+      <ValueOn>01-C2</ValueOn>
+      <ValueOff>29-C2</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>173C87A</Offset>
+      <Section>0</Section>
+      <ValueOn>01-C1</ValueOn>
+      <ValueOff>29-C1</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>16E12F9</Offset>
+      <Section>0</Section>
+      <ValueOn>01-CA</ValueOn>
+      <ValueOff>29-CA</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15C2464</Offset>
+      <Section>0</Section>
+      <ValueOn>03-4F-10</ValueOn>
+      <ValueOff>2B-4F-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Skill Cooldown">
+    <Cheatline>
+      <Offset>1C1F994</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-8A-F4-00-00-00-C5-FA-11-8A-F8-00-00-00-E9-35-66-A2-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1645FD6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B9-99-5D-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8A-F8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Backpack Weight">
+    <Cheatline>
+      <Offset>8514FA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>4B-89-04-3E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Bow Fatigue">
+    <Cheatline>
+      <Offset>11AD124</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-28</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>126436A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-40-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Glowing Animals Once Spotted">
+    <Cheatline>
+      <Offset>149A77E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Rifle Score (Get Rifle Kill)">
+    <Cheatline>
+      <Offset>1C1F940</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-1E-15-00-00-41-89-90-B4-00-00-00-E9-04-FD-AB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>16DF64E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-ED-02-54-00-90-90</ValueOn>
+      <ValueOff>41-8B-90-B4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Handgun Score (Get Handgun Kill)">
+    <Cheatline>
+      <Offset>1C1F951</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-1E-15-00-00-41-89-90-B8-00-00-00-E9-FC-FC-AB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>16DF657</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F5-02-54-00-90-90</ValueOn>
+      <ValueOff>41-8B-90-B8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Shotgun Score (Get Shotgun Kill)">
+    <Cheatline>
+      <Offset>1C1F962</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-1E-15-00-00-41-89-90-BC-00-00-00-E9-F4-FC-AB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>16DF660</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FD-02-54-00-90-90</ValueOn>
+      <ValueOff>41-8B-90-BC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Arrow Score (Get Arrow Kill)">
+    <Cheatline>
+      <Offset>1C1F973</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-1E-15-00-00-41-89-90-C0-00-00-00-E9-EC-FC-AB-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>16DF669</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-05-03-54-00-90-90</ValueOn>
+      <ValueOff>41-8B-90-C0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
+
+
+
+
+
+
+
+
+

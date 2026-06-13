@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="God of War: Ragnarok" Moder="Celogamez-JustGotenks" Cusa="CUSA34390" Version="05.05" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>1787DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>48-81-FF-E0-5B-4E-04-75-08-C7-44-24-60-00-00-7A-C4-C5-FA-10-4C-24-60-E9-3E-62-F6-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6EE004</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A7-9D-09-01-90</ValueOn>
+      <ValueOff>C5-FA-10-4C-24-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Rage">
+    <Cheatline>
+      <Offset>17878A0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-81-FC-49-14-7C-D6-75-07-C7-43-28-00-00-74-43-C5-EA-58-43-28-E9-7A-D4-39-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B24D2F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6C-2B-C6-00</ValueOn>
+      <ValueOff>C5-EA-58-43-28</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>17878E0</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-FB-02-75-07-C7-43-28-00-00-FA-43-C5-FA-58-43-28-E9-8B-29-4E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C6A27D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5E-D6-B1-00</ValueOn>
+      <ValueOff>C5-FA-58-43-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Arrows">
+    <Cheatline>
+      <Offset>1787930</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-8D-90-DF-FF-FF-C4-C1-78-2E-8F-88-00-00-00-72-05-E9-B9-8D-0E-FF-C4-C1-7A-10-9F-88-00-00-00-EB-F0</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8706F9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-32-72-F1-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-8D-90-DF-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant R3">
+    <Cheatline>
+      <Offset>17879D0</Offset>
+      <Section>0</Section>
+      <ValueOn>56-C4-C1-7A-10-56-28-66-81-FE-8B-A7-75-09-BE-64-00-00-00-F3-0F-2A-C6-5E-E9-2E-E2-FE-FE-90-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>775C15</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B6-1D-01-01-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-56-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Cooldown">
+    <Cheatline>
+      <Offset>1787A20</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-4D-80-E9-EF-47-2E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A6C212</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-09-B8-D1-00-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-4C-24-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite HS/Resources/Fleeting Echoes/Mastery Seal/Spirit Seal/Divine Triunph">
+    <Cheatline>
+      <Offset>17876F0</Offset>
+      <Section>0</Section>
+      <ValueOn>01-D0-C7-47-08-3F-42-0F-00-E9-80-04-52-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>CA7B79</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-72-FB-AD-00</ValueOn>
+      <ValueOff>01-D0-89-47-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP">
+    <Cheatline>
+      <Offset>1787B00</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-47-08-3F-42-0F-00-E9-72-00-52-FF-48-8B-45-90-E9-60-00-52-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>CA7B6F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8C-FF-AD-00-90</ValueOn>
+      <ValueOff>F0-01-57-08-EB-09</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Crystalline Fragment (100/Use Only For It)">
+    <Cheatline>
+      <Offset>1787B60</Offset>
+      <Section>0</Section>
+      <ValueOn>89-45-8C-C7-47-08-64-00-00-00-E9-3A-00-52-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>CA7BA3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B8-FF-AD-00-90</ValueOn>
+      <ValueOff>89-45-8C-89-47-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

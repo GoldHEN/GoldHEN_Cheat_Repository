@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Horizon Zero Dawn: Complete Edition" Moder="Rizla" Cusa="CUSA10237" Version="01.52" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>1F23857</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-40-68-C5-FA-11-40-64-E9-1D-41-A0-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>92797E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D4-BE-5F-01</ValueOn>
+      <ValueOff>C5-FA-10-40-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Weaver Armour">
+    <Cheatline>
+      <Offset>1F23866</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-47-58-00-00-FA-43-C4-C1-7A-10-47-58-E9-60-45-74-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1667DD3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8E-BA-8B-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items">
+    <Cheatline>
+      <Offset>F2F020</Offset>
+      <Section>0</Section>
+      <ValueOn>83-E8-00</ValueOn>
+      <ValueOff>44-29-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Shards on Buy">
+    <Cheatline>
+      <Offset>1F238B0</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-7F-96-98-00-41-89-45-54-49-8B-75-48-E9-69-B7-00-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F2F023</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-88-48-FF-00-90-90-90</ValueOn>
+      <ValueOff>41-89-45-54-49-8B-75-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="x2 Skill Points on Spend">
+    <Cheatline>
+      <Offset>15D7324</Offset>
+      <Section>0</Section>
+      <ValueOn>41-01-44-24-64</ValueOn>
+      <ValueOff>41-29-44-24-64</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="x4 XP">
+    <Cheatline>
+      <Offset>1F23845</Offset>
+      <Section>0</Section>
+      <ValueOn>50-B0-04-41-F7-E4-41-01-46-54-31-F6-58-E9-B3-09-6B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1293F4F</Offset>
+      <Section>0</Section>
+      <ValueOn>44-0F-4D-CE</ValueOn>
+      <ValueOff>44-0F-4E-CE</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15D4204</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3C-F6-94-00-90</ValueOn>
+      <ValueOff>45-01-66-54-31-F6</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Weapon Zoom">
+    <Cheatline>
+      <Offset>1F23879</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-58-00-00-80-40-C5-FA-10-43-58-E9-37-BD-77-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>169F5BC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B8-42-88-00</ValueOn>
+      <ValueOff>C5-FA-11-43-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill">
+    <Cheatline>
+      <Offset>1F2381E</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-B0-D8-00-00-00-83-7B-50-02-75-0E-41-81-F9-10-01-00-00-7C-05-E9-15-53-B1-FE-C7-43-64-00-00-00-00-E9-09-53-B1-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A38B47</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D2-AC-4E-01-90-90</ValueOn>
+      <ValueOff>48-8B-B0-D8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Trial Timer">
+    <Cheatline>
+      <Offset>11BB878</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-51-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Underwater Breath">
+    <Cheatline>
+      <Offset>1F2388A</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-46-54-00-00-C8-42-C4-C1-7A-10-46-54-E9-97-25-58-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14A5E2E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-57-DA-A7-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-46-54</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1F2389D</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-46-54-00-00-C8-42-C4-C1-7A-10-46-54-E9-AF-25-58-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14A5E59</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3F-DA-A7-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-46-54</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Oddworld: Soulstorm" Moder="Celogamez" Cusa="CUSA08126" Version="01.20" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Max/Infinite Health">
+    <Cheatline>
+      <Offset>7FC5E340</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-85-9C-03-00-00-64-00-00-00-E9-17-DE-D6-01</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>819CC160</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DB-21-29-FE-90-90</ValueOn>
+      <ValueOff>45-29-BD-9C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Chant">
+    <Cheatline>
+      <Offset>7FC5EBD0</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-8E-9C-00-00-00-E9-C1-03-22-02</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81E7EF96</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-35-FC-DD-FD-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-9C-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Items">
+    <Cheatline>
+      <Offset>7FC5FBA0</Offset>
+      <Section>0</Section>
+      <ValueOn>42-C6-44-B0-20-32-E9-F2-08-32-02</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81F80498</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-03-F7-CD-FD</ValueOn>
+      <ValueOff>46-89-7C-B0-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Moolah">
+    <Cheatline>
+      <Offset>1DFA6E6</Offset>
+      <Section>14</Section>
+      <ValueOn>41-89-57-74</ValueOn>
+      <ValueOff>41-89-47-74</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FC5FCE0</Offset>
+      <Section>0</Section>
+      <ValueOn>B3-01-41-C7-47-74-20-4E-00-00-E9-FB-E9-44-02</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>820AE6E4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F7-15-BB-FD-90</ValueOn>
+      <ValueOff>B3-01-41-89-47-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Flamethrower">
+    <Cheatline>
+      <Offset>18A3B30</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-44-10-2C-00-00-C8-42-E9-FE-BA-AA-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8134F635</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F6-44-55-80-90</ValueOn>
+      <ValueOff>C5-FA-11-44-10-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

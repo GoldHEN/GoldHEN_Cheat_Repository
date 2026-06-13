@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="FIFA 19" Moder="Wander FW9.00" Cusa="CUSA11608" Version="01.17" Process="eboot.bin">
+  <Genres Name="Sports" />
+  <Items />
+  <Cheat Text="Max Score (at training )">
+    <Cheatline>
+      <Offset>6CEBB40</Offset>
+      <Section>0</Section>
+      <ValueOn>01-CA-C7-40-28-7F-96-98-00-E9-4C-C1-53-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4227C95</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A6-3E-AC-02</ValueOn>
+      <ValueOff>01-CA-89-50-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Budget (after buying a Player)">
+    <Cheatline>
+      <Offset>6CEBE30</Offset>
+      <Section>0</Section>
+      <ValueOn>F7-79-18-C7-07-FF-C9-9A-3B-E9-98-33-FC-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4CAF1D1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5A-CC-03-02</ValueOn>
+      <ValueOff>F7-79-18-29-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

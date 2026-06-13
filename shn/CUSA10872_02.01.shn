@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Shadow of the Tomb Raider" Moder="Celogamez" Cusa="CUSA10872" Version="02.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>183BDE0</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-FA-07-75-11-C7-40-28-00-00-96-43-C5-DA-58-48-28-E9-A8-5B-F1-FE-C5-DA-58-48-28-E9-9E-5B-F1-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>75199A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-41-A4-0E-01</ValueOn>
+      <ValueOff>C5-DA-58-48-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health+1 Hit Kill">
+    <Cheatline>
+      <Offset>183BE4E</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-FA-07-75-11-C7-40-28-00-00-96-43-C5-DA-58-48-28-E9-3A-5B-F1-FE-C7-40-28-00-00-00-00-C5-DA-58-48-28-E9-29-5B-F1-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>75199A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AF-A4-0E-01</ValueOn>
+      <ValueOff>C5-DA-58-48-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Breath">
+    <Cheatline>
+      <Offset>183BF10</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-87-98-1B-00-00-32-E9-57-D9-61-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E5986B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A0-26-9E-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-9F-98-1B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>D3FDF8</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-08</ValueOn>
+      <ValueOff>89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Ammo/Arrows/Items/Gold">
+    <Cheatline>
+      <Offset>CDED62</Offset>
+      <Section>0</Section>
+      <ValueOn>89-38-90</ValueOn>
+      <ValueOff>66-89-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP On Gain">
+    <Cheatline>
+      <Offset>183BFC0</Offset>
+      <Section>0</Section>
+      <ValueOn>89-44-24-10-41-C7-46-40-3F-42-0F-00-E9-08-B6-9B-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11F75D1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EA-49-64-00-90-90-90</ValueOn>
+      <ValueOff>89-44-24-10-45-01-6E-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Skill Points">
+    <Cheatline>
+      <Offset>183BE70</Offset>
+      <Section>0</Section>
+      <ValueOn>29-D1-C6-40-4C-63-E9-BA-4A-9E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1220930</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3B-B5-61-00</ValueOn>
+      <ValueOff>29-D1-89-48-4C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Score challenge Tombs">
+    <Cheatline>
+      <Offset>183BEB0</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-88-A8-07-00-00-C7-41-2C-FF-E0-F5-05-8B-51-2C-E9-19-5B-C1-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14519D5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D6-A4-3E-00-90-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-88-A8-07-00-00-8B-51-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health/1 Hit Kill (MASTERCODE/MUST BE ON)">
+    <Cheatline>
+      <Offset>183BDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-FA-07-EB-0D-0F-57-E4-C5-DA-58-48-28-E9-DC-5B-F1-FE-48-83-FA-04-EB-F0-C7-40-28-00-00-00-00-C5-DA-58-48-28-E9-C5-5B-F1-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>75199A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-11-A4-0E-01</ValueOn>
+      <ValueOff>C5-DA-58-48-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>183BDB4</Offset>
+      <Section>0</Section>
+      <ValueOn>75-0D</ValueOn>
+      <ValueOff>EB-0D</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill">
+    <Cheatline>
+      <Offset>183BDC7</Offset>
+      <Section>0</Section>
+      <ValueOn>75-F0</ValueOn>
+      <ValueOff>EB-F0</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

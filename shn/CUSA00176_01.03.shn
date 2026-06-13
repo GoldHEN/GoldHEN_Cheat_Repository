@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dead Nation: Apocalypse Edition" Moder="Vampirexx" Cusa="CUSA00176" Version="01.03" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Inf Health">
+    <Cheatline>
+      <Offset>FB7C01</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F2-5D-48-60-53-48-BB-00-3D-AE-06-02-00-00-00-48-39-C3-75-05-C5-FA-10-48-60-5B-E9-F0-CF-0D-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>94C0C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F0-2F-F2-00</ValueOn>
+      <ValueOff>C5-F2-5D-48-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>9009C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E9-C1-06-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>90110</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>29-C2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf. Flares/Grenades/Molotovs/Mines">
+    <Cheatline>
+      <Offset>90754</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money">
+    <Cheatline>
+      <Offset>9DD12</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-29-45-04</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9DE42</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-29-47-04</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9E17D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-29-45-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>9C7375</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-0F</ValueOn>
+      <ValueOff>C5-FA-11-17</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

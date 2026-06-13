@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Styx: Shards of Darkness" Moder="Ali-mk" Cusa="CUSA03888" Version="01.05" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>2B52FC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-DC-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Amber-energy">
+    <Cheatline>
+      <Offset>2B532C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-E0-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="MAX + All-Items + Inf-(999)">
+    <Cheatline>
+      <Offset>49E3812</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-E7-03-00-00-89-87-C0-03-00-00-E9-74-71-C0-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5EA990</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7D-8E-3F-04-90</ValueOn>
+      <ValueOff>89-87-C0-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="MAX-Skills-points">
+    <Cheatline>
+      <Offset>49E3800</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-7F-96-98-00-89-87-D8-03-00-00-E9-5C-2C-CD-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6B6466</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-95-D3-32-04-90</ValueOn>
+      <ValueOff>89-87-D8-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

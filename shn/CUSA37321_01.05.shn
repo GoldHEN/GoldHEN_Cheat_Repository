@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Atomic Heart" Moder="Wander FW9.00" Cusa="CUSA37321" Version="01.05" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>71533D0</Offset>
+      <Section>0</Section>
+      <ValueOn>66-81-BF-70-01-00-00-F5-C9-75-09-C7-47-08-00-00-96-43-EB-05-C5-FA-11-47-08-E9-AB-23-F5-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A5794</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-37-DC-0A-07</ValueOn>
+      <ValueOff>C5-FA-11-47-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Clip">
+    <Cheatline>
+      <Offset>7153B90</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-4B-30-C6-43-30-63-85-C9-E9-2A-61-40-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1559CAF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DC-9E-BF-05</ValueOn>
+      <ValueOff>8B-4B-30-85-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="999 Materials when gaining">
+    <Cheatline>
+      <Offset>7153BE0</Offset>
+      <Section>0</Section>
+      <ValueOn>45-84-DB-66-41-C7-02-E7-03-E9-A4-51-3D-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1528D8C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4F-AE-C2-05-90</ValueOn>
+      <ValueOff>45-84-DB-41-89-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

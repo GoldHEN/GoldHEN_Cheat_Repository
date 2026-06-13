@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Raid: World War II" Moder="Saso_9.00" Cusa="CUSA08490" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Stamina / No Reload / WarCay (Insta Refill)">
+    <Cheatline>
+      <Offset>115F800</Offset>
+      <Section>0</Section>
+      <ValueOn>4C-8B-1C-CA-81-78-19-73-74-61-6D-75-12-49-BB-00-00-00-00-00-00-34-40-4D-89-1A-E9-5E-A1-70-FF-81-78-19-61-6D-6D-6F-75-1E-81-78-2B-63-6C-69-70-74-09-81-78-1E-74-6F-74-61-75-DD-49-BB-00-00-00-00-00-38-8F-40-EB-D1-81-78-19-6D-65-74-65-75-C8-81-78-1F-76-61-6C-75-75-BF-49-83-F8-0A-75-B9-49-BB-00-00-00-00-00-00-F0-3F-EB-AD-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>869976</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-85-5E-8F-00-90-90</ValueOn>
+      <ValueOff>4C-8B-1C-CA-4D-89-1A</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mirror's Edge Catalyst" Moder="Talixme" Cusa="CUSA01499" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>A83149</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B2-EC-8A-01-90-90-90-90</ValueOn>
+      <ValueOff>BE-01-00-00-00-48-8D-7B-40</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2331E00</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-01-00-00-00-48-8D-7B-40-BE-40-FE-0D-03-39-33-0F-85-3C-13-75-FE-E9-3C-13-75-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

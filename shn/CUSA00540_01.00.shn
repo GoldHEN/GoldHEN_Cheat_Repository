@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tiny Troopers: Joint Ops" Moder="DeathRGH" Cusa="CUSA00540" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Get Money For Buying">
+    <Cheatline>
+      <Offset>A085E8</Offset>
+      <Section>0</Section>
+      <ValueOn>03-0C-24</ValueOn>
+      <ValueOff>2B-0C-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Get Medals For Buying">
+    <Cheatline>
+      <Offset>993D76</Offset>
+      <Section>0</Section>
+      <ValueOn>03-C8</ValueOn>
+      <ValueOff>2B-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="NBA Live 18" Moder="Weysincha" Cusa="CUSA06321" Version="01.11" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Infinite REP points (Spend REP points to take effect)">
+    <Cheatline>
+      <Offset>12D5F5</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-9C-24-B0-00-00-00</ValueOn>
+      <ValueOff>41-01-9C-24-B0-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>12D5EC</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-7F-96-98-00-90-90-90-90</ValueOn>
+      <ValueOff>48-39-01-0F-84-99-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Hype Points (Earn Hype points to take effect)">
+    <Cheatline>
+      <Offset>285880E</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-7F-96-98-00</ValueOn>
+      <ValueOff>83-F9-03-72-3D</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>285884C</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-04-BE</ValueOn>
+      <ValueOff>49-89-04-BE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Skillpoints increase by using">
+    <Cheatline>
+      <Offset>196770</Offset>
+      <Section>0</Section>
+      <ValueOn>01-B7-58-0C-00-00</ValueOn>
+      <ValueOff>89-B7-58-0C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set EXP to 9.999.999 (Earn EXP to take effect)">
+    <Cheatline>
+      <Offset>2488E19AC</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-7F-96-98-00-90</ValueOn>
+      <ValueOff>BB-7F-96-98-00-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Left Team Basket points to 200">
+    <Cheatline>
+      <Offset>24D4BC628</Offset>
+      <Section>0</Section>
+      <ValueOn>C8</ValueOn>
+      <ValueOff>C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

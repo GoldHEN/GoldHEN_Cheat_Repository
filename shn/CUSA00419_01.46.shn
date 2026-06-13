@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Grand Theft Auto V" Moder="fbin" Cusa="CUSA00419" Version="01.46" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Horror" />
+  <Items />
+  <Cheat Text="Vida Infinita">
+    <Cheatline>
+      <Offset>30EFE60</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-BE-B4-07-00-00-02-75-0E-C4-C1-7A-10-86-50-02-00-00-E9-FF-B6-98-FD-C4-C1-7A-11-86-50-02-00-00-E9-F1-B6-98-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A7B56E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-ED-48-67-02-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-86-50-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Muni??o Infinita">
+    <Cheatline>
+      <Offset>15F8C5B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>66-41-89-76-56</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1620A5D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-4F-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

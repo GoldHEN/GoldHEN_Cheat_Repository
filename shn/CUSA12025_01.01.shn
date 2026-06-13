@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Kingdom Hearts III" Moder="Weysincha" Cusa="CUSA12025" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Family" />
+  <Genres Name="Fighting" />
+  <Items />
+  <Cheat Text="Infinite HP (Sora)" Description="Inf HP Sora">
+    <Cheatline>
+      <Offset>83E3842</Offset>
+      <Section>0</Section>
+      <ValueOn>66-9C-45-85-F6-0F-49-D0-83-7B-60-02-75-0B-BA-0F-27-00-00-89-93-E4-05-00-00-66-9D-E9-83-E4-2B-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6A1CDF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5E-1B-D4-07-90</ValueOn>
+      <ValueOff>45-85-F6-0F-49-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite MP" Description="Inf Mana">
+    <Cheatline>
+      <Offset>83E3862</Offset>
+      <Section>0</Section>
+      <ValueOn>66-9C-45-85-FF-0F-49-D0-BA-E7-03-00-00-89-93-EC-05-00-00-66-9D-E9-13-E5-2B-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6A1D89</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D4-1A-D4-07-90</ValueOn>
+      <ValueOff>45-85-FF-0F-49-D0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money">
+    <Cheatline>
+      <Offset>83E3800</Offset>
+      <Section>0</Section>
+      <ValueOn>45-85-E4-0F-8E-D8-E9-BD-F8-B8-3F-42-0F-00-E9-8D-E9-BD-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FC219B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-60-16-42-07</ValueOn>
+      <ValueOff>45-85-E4-7E-41</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>83E3813</Offset>
+      <Section>0</Section>
+      <ValueOn>39-CA-0F-4F-F7-BE-3F-42-0F-00-E9-1C-E8-BD-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FC2039</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D5-17-42-07</ValueOn>
+      <ValueOff>39-CA-0F-4F-F7</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>83E3822</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-8E-5D-D6-BD-F8-BB-3F-42-0F-00-E9-6B-D5-BD-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FC0D97</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-86-2A-42-07-90</ValueOn>
+      <ValueOff>0F-8E-EE-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max LvL/EXP" Description="No Fun">
+    <Cheatline>
+      <Offset>83E3832</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-8E-67-BD-BD-F8-B9-7F-96-98-00-E9-37-BA-BD-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FBF273</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BA-45-42-07-90</ValueOn>
+      <ValueOff>0F-8E-2C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Stats V1">
+    <Cheatline>
+      <Offset>83E387C</Offset>
+      <Section>0</Section>
+      <ValueOn>66-9C-49-8B-BE-C0-04-00-00-B8-64-00-00-00-41-89-47-28-41-89-47-2C-41-89-47-30-66-9D-E9-64-FD-2B-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6A35F1</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-3A-08-FE-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6A3601</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-8A-0C-FE-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6A3611</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-1A-10-FE-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Animus: Revenant" Moder="Saso_FW(9.00)" Cusa="CUSA29677" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf Health (Master Code)">
+    <Cheatline>
+      <Offset>51A38A6</Offset>
+      <Section>14</Section>
+      <ValueOn>48-83-F9-00-75-2C-81-38-C0-02-3E-01-75-24-49-83-F8-01-75-1E-48-83-78-78-00-74-17-52-48-8B-50-78-83-7A-70-01-75-0B-83-7A-78-00-75-05-C5-FA-10-40-1C-5A-C5-FA-11-40-20-E9-69-06-15-FB-81-7C-24-F4-00-00-80-3F-7E-EC-C7-44-24-F4-00-00-80-3F-C5-FA-10-44-24-F4-EB-DC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2F3F46</Offset>
+      <Section>14</Section>
+      <ValueOn>E9-5B-F9-EA-04</ValueOn>
+      <ValueOff>C5-FA-11-40-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill (MC)">
+    <Cheatline>
+      <Offset>51A38BF</Offset>
+      <Section>14</Section>
+      <ValueOn>74-21</ValueOn>
+      <ValueOff>74-17</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill Bosses (MC)">
+    <Cheatline>
+      <Offset>51A38D0</Offset>
+      <Section>14</Section>
+      <ValueOn>75-10</ValueOn>
+      <ValueOff>75-05</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Samina">
+    <Cheatline>
+      <Offset>51A3838</Offset>
+      <Section>14</Section>
+      <ValueOn>48-83-FA-20-75-0B-49-83-F8-01-75-05-C5-FA-10-40-18-C5-FA-11-40-1C-E9-28-76-12-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2CAE76</Offset>
+      <Section>14</Section>
+      <ValueOn>E9-BD-89-ED-04</ValueOn>
+      <ValueOff>C5-FA-11-40-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Coins (9999999)">
+    <Cheatline>
+      <Offset>51A3855</Offset>
+      <Section>14</Section>
+      <ValueOn>81-F9-7F-96-98-00-7D-05-B9-7F-96-98-00-89-48-2C-E9-DB-10-2D-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>47493E</Offset>
+      <Section>14</Section>
+      <ValueOn>E9-12-EF-D2-04-90-90</ValueOn>
+      <ValueOff>8B-4C-24-F4-89-48-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Atomic Heart" Moder="Celogamez" Cusa="CUSA37321" Version="01.29" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health/Energy/Polymeric Ability/Shock/Dash (MASTERCODE/MUST BE ON)">
+    <Cheatline>
+      <Offset>7FC5FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>81-7F-28-CD-CC-4C-3E-75-0F-C5-FA-11-47-08-C5-FA-11-47-08-E9-91-AF-44-80-81-7F-28-00-00-70-42-75-0F-C5-FA-11-47-08-C5-FA-11-47-08-E9-79-AF-44-80-41-80-F8-88-75-0A-C5-FA-11-47-08-E9-69-AF-44-80-41-80-F8-48-75-0A-C5-FA-11-47-08-E9-59-AF-44-80-81-BF-C8-00-00-00-00-00-80-3F-75-0A-C5-FA-11-47-08-E9-43-AF-44-80-81-7F-38-00-00-7A-43-75-9F-C5-FA-11-47-08-E9-30-AF-44-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>AAD54</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-57-50-BB-7F</ValueOn>
+      <ValueOff>C5-FA-11-47-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>5FDB9</Offset>
+      <Section>3</Section>
+      <ValueOn>C5-FA-10-47-48</ValueOn>
+      <ValueOff>C5-FA-11-47-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Energy">
+    <Cheatline>
+      <Offset>5FDD1</Offset>
+      <Section>3</Section>
+      <ValueOn>C5-FA-10-47-1C</ValueOn>
+      <ValueOff>C5-FA-11-47-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Polymeric Ability">
+    <Cheatline>
+      <Offset>5FDE6</Offset>
+      <Section>3</Section>
+      <ValueOn>C5-FA-10-47-08</ValueOn>
+      <ValueOff>C5-FA-11-47-08</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5FDF6</Offset>
+      <Section>3</Section>
+      <ValueOn>C5-FA-10-47-08</ValueOn>
+      <ValueOff>C5-FA-11-47-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Shock">
+    <Cheatline>
+      <Offset>5FE0C</Offset>
+      <Section>3</Section>
+      <ValueOn>C5-FA-10-47-08</ValueOn>
+      <ValueOff>C5-FA-11-47-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Dash">
+    <Cheatline>
+      <Offset>5FE1F</Offset>
+      <Section>3</Section>
+      <ValueOn>C5-FA-10-47-08</ValueOn>
+      <ValueOff>C5-FA-11-47-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>4A274C7</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8B-40-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Neuropolymer/Resources (On Pick Up)">
+    <Cheatline>
+      <Offset>7FC5FE70</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-F9-00-75-0D-B8-E7-03-00-00-41-89-00-E9-B0-1B-90-81-41-89-00-E9-A8-1B-90-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1561A2D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3E-E4-6F-7E-90</ValueOn>
+      <ValueOff>45-84-C9-41-89-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FC5F9B0</Offset>
+      <Section>0</Section>
+      <ValueOn>45-84-C9-B8-E7-03-00-00-41-89-00-0F-85-DD-20-90-81-E9-6D-20-90-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Neuropolymer/Resources (On use)">
+    <Cheatline>
+      <Offset>7FC5FE30</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-85-80-F6-93-81-C7-43-30-E7-03-00-00-8B-4B-30-E9-0D-F6-93-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>159F44D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DE-09-6C-7E</ValueOn>
+      <ValueOff>75-6D-8B-4B-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="(DLC Limbo) - Infinite Health/Polymeric Ability/Dash (MASTERCODE/MUST BE ON)">
+    <Cheatline>
+      <Offset>7FC5EAC0</Offset>
+      <Section>0</Section>
+      <ValueOn>81-7F-2C-00-00-80-3F-75-0F-C5-FA-11-47-08-C5-FA-11-47-08-E9-81-C2-44-80-81-7F-28-00-00-C8-42-75-0A-C5-FA-11-47-08-E9-6E-C2-44-80-81-7F-1C-00-00-00-40-75-DA-C5-FA-11-47-08-E9-5B-C2-44-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>AAD54</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-67-3D-BB-7F</ValueOn>
+      <ValueOff>C5-FA-11-47-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>5EAC9</Offset>
+      <Section>3</Section>
+      <ValueOn>C5-FA-10-47-48</ValueOn>
+      <ValueOff>C5-FA-11-47-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Polymeric Ability">
+    <Cheatline>
+      <Offset>5EAE1</Offset>
+      <Section>3</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-47-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Dash">
+    <Cheatline>
+      <Offset>5EAF4</Offset>
+      <Section>3</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-47-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="(Dlc Limbo) Max/Infinite Apples/Gold Coins ">
+    <Cheatline>
+      <Offset>7FC5F040</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4C-D1-BA-0F-27-00-00-41-89-16-E9-35-64-82-84</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>448547F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BC-9B-7D-7B-90</ValueOn>
+      <ValueOff>0F-4C-D1-41-89-16</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="(Dlc Limbo/Goose Run) Add Lives To The Goose When Picking Up Apples ">
+    <Cheatline>
+      <Offset>7FC5F110</Offset>
+      <Section>0</Section>
+      <ValueOn>41-81-BE-90-00-00-00-01-01-00-00-75-0E-81-C2-C8-00-00-00-41-89-16-E9-5A-63-82-84-41-89-16-E9-52-63-82-84</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>448547F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8C-9C-7D-7B-90</ValueOn>
+      <ValueOff>0F-4C-D1-41-89-16</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="One Punch Man: A Hero Nobody Knows" Moder="cjwine" Cusa="CUSA16264" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="time freeze">
+    <Cheatline>
+      <Offset>4C7758</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="god mode">
+    <Cheatline>
+      <Offset>BFCF29</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-00-00-00-00-41-39-74-24-30-0F-84-25-E0-83-FF-41-89-84-24-20-05-00-00-E9-18-E0-83-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>43AF56</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CE-1F-7C-00-90-90-90</ValueOn>
+      <ValueOff>41-89-84-24-20-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="max mp after used magical skill">
+    <Cheatline>
+      <Offset>BFCF46</Offset>
+      <Section>0</Section>
+      <ValueOn>BA-A0-BB-0D-00-89-93-C8-05-00-00-E9-7C-08-84-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>43D7CC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-75-F7-7B-00-90</ValueOn>
+      <ValueOff>89-93-C8-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="one punch dead">
+    <Cheatline>
+      <Offset>43AEFA</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-55</ValueOn>
+      <ValueOff>78-55</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="strength inf">
+    <Cheatline>
+      <Offset>43D9CC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-93-6C-05-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="money max after used">
+    <Cheatline>
+      <Offset>C61D88</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-46-0C-7F-96-98-00-8B-46-0C-48-8D-4B-01-E9-2D-BB-5C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>22D8C1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C2-44-A3-00-90-90</ValueOn>
+      <ValueOff>8B-46-0C-48-8D-4B-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Growth points zero can work">
+    <Cheatline>
+      <Offset>7C3378</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9E-00-00-00-90</ValueOn>
+      <ValueOff>0F-8D-9D-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Community contribution max">
+    <Cheatline>
+      <Offset>BFCF56</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-80-00-00-00-7F-96-98-00-44-8B-80-80-00-00-00-E9-F6-53-96-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>56235B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F6-AB-69-00-90-90</ValueOn>
+      <ValueOff>44-8B-80-80-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="hero level S">
+    <Cheatline>
+      <Offset>BFCF6C</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-80-5C-01-00-00-FF-C9-9A-3B-41-8B-98-5C-01-00-00-E9-46-19-63-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>22E8C2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A5-E6-9C-00-90-90</ValueOn>
+      <ValueOff>41-8B-98-5C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="level 99 after kill one">
+    <Cheatline>
+      <Offset>BFCF83</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-41-10-FF-C9-9A-3B-8B-49-10-89-4B-0C-E9-E9-EB-C5-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>85BB78</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-06-14-3A-00-90</ValueOn>
+      <ValueOff>8B-49-10-89-4B-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="skill level max">
+    <Cheatline>
+      <Offset>BFCF95</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-80-24-01-00-00-38-3B-00-00-41-8B-80-24-01-00-00-E9-67-12-63-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>22E20C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-84-ED-9C-00-90-90</ValueOn>
+      <ValueOff>41-8B-80-24-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="green bird head money inf">
+    <Cheatline>
+      <Offset>BFCFAC</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4D-C8-BA-9F-86-01-00-89-57-20-E9-E0-13-70-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2FE396</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-11-EC-8F-00-90</ValueOn>
+      <ValueOff>0F-4D-C8-89-57-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="blue bird head money inf">
+    <Cheatline>
+      <Offset>BFCFBC</Offset>
+      <Section>0</Section>
+      <ValueOn>41-0F-4C-C0-B9-9F-86-01-00-89-4F-24-E9-E7-13-70-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2FE3AD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0A-EC-8F-00-90-90</ValueOn>
+      <ValueOff>41-0F-4C-C0-89-4F-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="gold bird head money inf">
+    <Cheatline>
+      <Offset>2FE3A6</Offset>
+      <Section>0</Section>
+      <ValueOn>41-B8-40-42-0F-00-90</ValueOn>
+      <ValueOff>41-81-F8-40-42-0F-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

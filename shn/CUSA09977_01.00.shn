@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Digimon Story Cyber Sleuth: Hacker's Memory" Moder="Molly" Cusa="CUSA09977" Version="01.00" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Max YEN &quot;After Gained Or Used&quot;">
+    <Cheatline>
+      <Offset>AAF800</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-7F-96-98-00-89-4B-48-E9-D7-5A-5C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>752DE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1D-A5-A3-00-90</ValueOn>
+      <ValueOff>0F-49-C8-89-4B-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quick Hacker Rank &quot;After Gained&quot;">
+    <Cheatline>
+      <Offset>AAF80D</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-7F-96-98-00-41-89-4E-4C-E9-5A-5B-5C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7536E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9A-A4-A3-00-90-90</ValueOn>
+      <ValueOff>4D-85-ED-41-89-4E-4C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quick Level Up">
+    <Cheatline>
+      <Offset>AAF81B</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-FF-E0-F5-05-41-89-46-70-E9-5A-DC-5A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5D47C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9A-23-A5-00-90-90</ValueOn>
+      <ValueOff>48-85-DB-41-89-46-70</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Hp &quot;After Level Up&quot;">
+    <Cheatline>
+      <Offset>AAF829</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-E8-03-00-00-41-89-86-80-00-00-00-E9-C1-DB-5A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5D3F4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-30-24-A5-00-90-90</ValueOn>
+      <ValueOff>41-89-86-80-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Sp &quot;After Level Up&quot;">
+    <Cheatline>
+      <Offset>AAF83A</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-E9-03-00-00-41-89-86-8C-00-00-00-E9-BD-DB-5A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5D401</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-34-24-A5-00-90-90</ValueOn>
+      <ValueOff>41-89-86-8C-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max ATK &quot;After Level Up&quot;">
+    <Cheatline>
+      <Offset>AAF84B</Offset>
+      <Section>0</Section>
+      <ValueOn>66-B8-E7-03-66-41-89-86-92-00-00-00-E9-BB-DB-5A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5D40F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-37-24-A5-00-90-90-90</ValueOn>
+      <ValueOff>66-41-89-86-92-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max DEF &quot;After Level Up&quot;">
+    <Cheatline>
+      <Offset>AAF85C</Offset>
+      <Section>0</Section>
+      <ValueOn>66-B8-E7-03-66-41-89-86-96-00-00-00-E9-B9-DB-5A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5D41E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-39-24-A5-00-90-90-90</ValueOn>
+      <ValueOff>66-41-89-86-96-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max INT &quot;After Level Up&quot;">
+    <Cheatline>
+      <Offset>AAF86D</Offset>
+      <Section>0</Section>
+      <ValueOn>66-B8-E7-03-66-41-89-86-9A-00-00-00-E9-B7-DB-5A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5D42D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3B-24-A5-00-90-90-90</ValueOn>
+      <ValueOff>66-41-89-86-9A-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max SPD &quot;After Level Up&quot; ">
+    <Cheatline>
+      <Offset>AAF87E</Offset>
+      <Section>0</Section>
+      <ValueOn>66-B8-E7-03-66-41-89-86-9E-00-00-00-E9-B5-DB-5A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5D43C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3D-24-A5-00-90-90-90</ValueOn>
+      <ValueOff>66-41-89-86-9E-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max ABI &quot;After Digivolve Or De-Digivolve&quot;">
+    <Cheatline>
+      <Offset>AAF88F</Offset>
+      <Section>0</Section>
+      <ValueOn>66-B9-E7-03-66-41-89-8D-A2-00-00-00-E9-E3-D7-5A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5D07B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0F-28-A5-00-90-90-90</ValueOn>
+      <ValueOff>66-41-89-8D-A2-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Cam &quot;After Battle&quot;">
+    <Cheatline>
+      <Offset>AAF8A0</Offset>
+      <Section>0</Section>
+      <ValueOn>66-B9-C8-00-66-41-89-8F-A4-00-00-00-E9-75-D6-5A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5CF1E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7D-29-A5-00-90-90-90</ValueOn>
+      <ValueOff>66-41-89-8F-A4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Item &quot;After Used&quot;">
+    <Cheatline>
+      <Offset>AAF8B1</Offset>
+      <Section>0</Section>
+      <ValueOn>B2-63-88-50-14-E9-E8-27-5C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7209E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0E-D8-A3-00</ValueOn>
+      <ValueOff>29-CA-88-50-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quick DigiConvert">
+    <Cheatline>
+      <Offset>AAF8BB</Offset>
+      <Section>0</Section>
+      <ValueOn>66-B9-C8-00-66-89-48-02-E9-5C-95-5A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>58E1D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-99-6A-A5-00-90-90</ValueOn>
+      <ValueOff>0F-BF-D1-66-89-48-02</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

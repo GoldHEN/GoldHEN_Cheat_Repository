@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Jump Force" Moder="Reddevil82 - FW 9.00" Cusa="CUSA11638" Version="03.01" Process="eboot.bin">
+  <Genres Name="Arcade" />
+  <Items />
+  <Cheat Text="Mastercode ( must be activated ) ">
+    <Cheatline>
+      <Offset>494FDEC</Offset>
+      <Section>0</Section>
+      <ValueOn>80-78-20-02-75-0F-C5-FA-11-48-28-C5-FA-11-48-28-E9-A1-1E-F1-FE-C5-FA-11-48-28-C5-FA-11-48-28-E9-92-1E-F1-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3861C9D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4A-E1-0E-01</ValueOn>
+      <ValueOff>C5-FA-11-48-28</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>494FE10</Offset>
+      <Section>0</Section>
+      <ValueOn>41-80-78-20-02-75-11-C4-C1-7A-11-48-30-C4-C1-7A-11-48-30-E9-FA-92-C6-FE-C4-C1-7A-11-48-30-C4-C1-7A-11-48-30-E9-E9-92-C6-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>35B911C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EF-6C-39-01-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-48-30</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>494FE39</Offset>
+      <Section>0</Section>
+      <ValueOn>41-80-78-20-02-75-11-C4-C1-7A-11-50-40-C4-C1-7A-11-50-40-E9-35-96-C6-FE-C4-C1-7A-11-50-40-C4-C1-7A-11-50-40-E9-24-96-C6-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>35B9480</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B4-69-39-01-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-50-40</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>494FE62</Offset>
+      <Section>0</Section>
+      <ValueOn>41-80-7C-24-20-02-75-13-C4-C1-7A-11-44-24-38-C4-C1-7A-11-44-24-38-E9-05-8B-C6-FE-C4-C1-7A-11-44-24-38-C4-C1-7A-11-44-24-38-E9-F2-8A-C6-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>35B897B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E2-74-39-01-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-44-24-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health [MC]">
+    <Cheatline>
+      <Offset>494FDF2</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-48-2C</ValueOn>
+      <ValueOff>C5-FA-11-48-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill [MC]">
+    <Cheatline>
+      <Offset>494FE01</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C9-90-90</ValueOn>
+      <ValueOff>C5-FA-11-48-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Charge [MC]">
+    <Cheatline>
+      <Offset>494FE17</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-48-34</ValueOn>
+      <ValueOff>C4-C1-7A-11-48-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Charge Enemies [MC]">
+    <Cheatline>
+      <Offset>494FE28</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C9-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-48-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Awakening [MC]">
+    <Cheatline>
+      <Offset>494FE40</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-50-44</ValueOn>
+      <ValueOff>C4-C1-7A-11-50-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Awakening Enemies [MC]">
+    <Cheatline>
+      <Offset>494FE51</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-D2-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-50-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina [MC]">
+    <Cheatline>
+      <Offset>494FE6A</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-44-24-3C</ValueOn>
+      <ValueOff>C4-C1-7A-11-44-24-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Stamina Enemies [MC]">
+    <Cheatline>
+      <Offset>494FE7D</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C0-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-44-24-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money ( on gain )">
+    <Cheatline>
+      <Offset>494FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-80-98-07-00-00-C7-40-1C-7F-96-98-00-44-8B-50-1C-E9-CB-A5-D7-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>36CA387</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-24-5A-28-01-90-90-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-80-98-07-00-00-44-8B-50-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items ( on buy )">
+    <Cheatline>
+      <Offset>494FDC7</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-44-D1-04-E7-03-0F-B7-44-D1-04-E9-15-AD-D7-FE-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>36CAAE4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DE-52-28-01</ValueOn>
+      <ValueOff>0F-B7-44-D1-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Timer">
+    <Cheatline>
+      <Offset>35BA345</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-14-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

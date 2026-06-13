@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Styx: Shards of Darkness" Moder="Weysincha" Cusa="CUSA03877" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>2B01B4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-DC-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Skillbar">
+    <Cheatline>
+      <Offset>2B01D4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-E0-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items">
+    <Cheatline>
+      <Offset>1E883B</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-E7-03-00-00</ValueOn>
+      <ValueOff>85-C9-0F-49-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Skillpoints/Quarz">
+    <Cheatline>
+      <Offset>2B1301</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-E7-03-00-00</ValueOn>
+      <ValueOff>48-89-E5-8B-06</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2B1391</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-E7-03-00-00</ValueOn>
+      <ValueOff>48-89-E5-8B-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

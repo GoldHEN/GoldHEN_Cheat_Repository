@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="7 Days to Die" Moder="Molly" Cusa="CUSA03446" Version="01.18" Process="eboot.bin">
+  <Genres Name="Horror" />
+  <Items />
+  <Cheat Text="Max Items ~When Thrown~">
+    <Cheatline>
+      <Offset>1263800</Offset>
+      <Section>0</Section>
+      <ValueOn>44-29-F9-B9-0F-27-00-00-89-48-18-E9-1F-1D-31-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80575529</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D2-E2-CE-80-90</ValueOn>
+      <ValueOff>41-2B-CF-89-48-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items ~When Picked Up~">
+    <Cheatline>
+      <Offset>1263810</Offset>
+      <Section>0</Section>
+      <ValueOn>01-D1-B9-0F-27-00-00-89-48-18-E9-1E-41-31-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80577938</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D3-BE-CE-80</ValueOn>
+      <ValueOff>03-CA-89-48-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items ~When Gathering~">
+    <Cheatline>
+      <Offset>126381F</Offset>
+      <Section>0</Section>
+      <ValueOn>01-D1-B9-0F-27-00-00-89-48-18-E9-92-F3-30-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80572BBB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5F-0C-CF-80</ValueOn>
+      <ValueOff>03-CA-89-48-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items ~When Crafting~">
+    <Cheatline>
+      <Offset>126382E</Offset>
+      <Section>0</Section>
+      <ValueOn>44-29-F9-B9-0F-27-00-00-89-48-18-E9-E3-F6-30-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80572F1B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0E-09-CF-80-90</ValueOn>
+      <ValueOff>41-2B-CF-89-48-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items ~When Placing Items Down~">
+    <Cheatline>
+      <Offset>126383E</Offset>
+      <Section>0</Section>
+      <ValueOn>48-63-4C-24-30-B9-0F-27-00-00-89-48-18-E9-58-1B-31-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>805753A0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-99-E4-CE-80-90-90-90</ValueOn>
+      <ValueOff>48-63-4C-24-30-89-48-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ammo">
+    <Cheatline>
+      <Offset>1263850</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-C9-B9-0F-27-00-00-89-48-30-E9-26-9D-32-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8058D580</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CB-62-CD-80</ValueOn>
+      <ValueOff>FF-C9-89-48-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quick Level Up Skills">
+    <Cheatline>
+      <Offset>126385F</Offset>
+      <Section>0</Section>
+      <ValueOn>2B-44-24-58-2D-0F-27-00-00-89-43-5C-E9-77-63-40-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80669BE0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7A-9C-BF-80-90-90</ValueOn>
+      <ValueOff>2B-44-24-58-89-43-5C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Skill Point ~After Use~">
+    <Cheatline>
+      <Offset>1263870</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-0F-27-00-00-41-89-86-44-08-00-00-E9-B1-E1-56-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807D1A2B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-40-1E-A9-80-90-90</ValueOn>
+      <ValueOff>41-89-86-44-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Quick Level Up">
+    <Cheatline>
+      <Offset>1263881</Offset>
+      <Section>0</Section>
+      <ValueOn>2D-FF-E0-F5-05-41-89-86-3C-08-00-00-E9-1C-F1-2B-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>805229A7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D5-0E-D4-80-90-90</ValueOn>
+      <ValueOff>41-89-86-3C-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health / Stamina">
+    <Cheatline>
+      <Offset>1263892</Offset>
+      <Section>0</Section>
+      <ValueOn>51-B9-00-00-48-43-66-44-0F-6E-F9-59-F3-45-0F-11-7F-24-E9-58-28-24-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>804A60FB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-92-D7-DB-80-90</ValueOn>
+      <ValueOff>F3-45-0F-11-7F-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

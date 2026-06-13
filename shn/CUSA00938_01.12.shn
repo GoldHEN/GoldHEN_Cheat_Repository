@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Homefront: The Revolution" Moder="Fullcodes" Cusa="CUSA00938" Version="01.12" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Infinite Player Health">
+    <Cheatline>
+      <Offset>00AC4CFD</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-9D-EF-6F-02</ValueOn>
+      <ValueOff>33-8B-A0-02-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>031C3CA0</Offset>
+      <Section>0</Section>
+      <ValueOn>33-8B-A8-02-00-00-89-8B-A0-02-00-00-33-8B-A4-02-00-00-E9-4C-10-90-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Item and Ammo">
+    <Cheatline>
+      <Offset>021CBBAE</Offset>
+      <Section>0</Section>
+      <ValueOn>4F</ValueOn>
+      <ValueOff>4E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>00CCC92E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-54-08-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Hack Time">
+    <Cheatline>
+      <Offset>00BC9997</Offset>
+      <Section>0</Section>
+      <ValueOn>C1</ValueOn>
+      <ValueOff>C2</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money and Unlock Points Usage">
+    <Cheatline>
+      <Offset>00E6B3A4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-29-E0</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

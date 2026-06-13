@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Scott Pilgrim vs. the World: The Game: Complete Edition" Moder="Ali-mk" Cusa="CUSA20085" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>AA8E11</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-6A-23-F6-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Power">
+    <Cheatline>
+      <Offset>AAAEEF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-87-2C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf-Health-Hearts-(MC)">
+    <Cheatline>
+      <Offset>AAA4C1</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-87-91-01-00-00</ValueOn>
+      <ValueOff>C5-FA-11-97-60-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="MAX-lives + Infinite">
+    <Cheatline>
+      <Offset>1D23800</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-09-00-00-00-41-89-85-70-08-00-00-E9-DB-9D-18-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>EAD5E5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-16-62-E7-00-90-90</ValueOn>
+      <ValueOff>41-89-85-70-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

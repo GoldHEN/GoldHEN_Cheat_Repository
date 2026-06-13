@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Surge" Moder="Rizla" Cusa="CUSA04849" Version="01.13" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>1E9F867</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-AC-00-00-00-00-00-80-3F-C5-FA-10-83-AC-00-00-00-E9-BB-FC-66-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>50F531</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-31-03-99-01-90-90-90</ValueOn>
+      <ValueOff>C5-F8-2E-83-AC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>1E9F8E9</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-B4-00-00-00-00-00-80-3F-C5-FA-10-87-B4-00-00-00-E9-38-CA-66-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>50C330</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B4-35-99-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-87-B4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Energy">
+    <Cheatline>
+      <Offset>1E9F87E</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-B0-00-00-00-00-00-80-3F-C5-FA-10-87-B0-00-00-00-E9-F3-D6-66-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>50CF80</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F9-28-99-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-87-B0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Scrap on Gain/Use">
+    <Cheatline>
+      <Offset>1E9F850</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-F4-00-00-00-28-6B-6E-4E-C5-FA-10-83-F4-00-00-00-E9-5A-DB-66-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>50D3B9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-92-24-99-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-F4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Vital Injections">
+    <Cheatline>
+      <Offset>1E9F82C</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-63-00-00-00-89-47-4C-C3-90-E9-8A-BC-E5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>CFB4C0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-67-43-1A-01</ValueOn>
+      <ValueOff>8B-47-4C-C3-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Consumables on Gain/Use">
+    <Cheatline>
+      <Offset>1E9F895</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-63-00-00-00-89-47-4C-C3-90-E9-1B-84-91-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7B7CBA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D6-7B-6E-01</ValueOn>
+      <ValueOff>89-47-4C-C3-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items on Gain/Use">
+    <Cheatline>
+      <Offset>1E9F8BF</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-63-00-00-00-89-77-4C-C3-90-E9-77-7B-91-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7B7440</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7A-84-6E-01</ValueOn>
+      <ValueOff>89-77-4C-C3-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Proficiency LVL on Gain">
+    <Cheatline>
+      <Offset>1E9F8CE</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-9C-5C-01-00-00-E6-FF-C7-42-C4-C1-7A-10-84-9C-5C-01-00-00-E9-56-51-67-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>514A35</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-94-AE-98-01-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-9C-5C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
+
+
+
+
+
+
+
+
+

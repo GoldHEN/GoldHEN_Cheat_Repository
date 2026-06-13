@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hellpoint" Moder="Reddevil82 - FW 9.00" Cusa="CUSA17806" Version="01.25" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>19C7A87</Offset>
+      <Section>0</Section>
+      <ValueOn>83-BB-C4-00-00-00-00-74-05-C5-FA-10-43-24-C5-FA-11-43-20-E9-63-CE-89-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>812648FD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-85-31-76-80</ValueOn>
+      <ValueOff>C5-FA-11-43-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Energy">
+    <Cheatline>
+      <Offset>19C7AA0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-5B-3C-E9-23-03-CD-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80697DC8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D3-FC-32-81</ValueOn>
+      <ValueOff>C5-FA-10-5B-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>19C7A20</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-58-C5-FA-11-43-54-E9-14-D5-89-7F-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81264F3E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DD-2A-76-80</ValueOn>
+      <ValueOff>C5-FA-11-43-54</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Axions ( on gain - use )">
+    <Cheatline>
+      <Offset>19C7A60</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-B8-00-00-00-FF-C9-9A-3B-49-8B-8F-B8-00-00-00-E9-32-78-CC-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8068F2A2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B9-87-33-81-90-90</ValueOn>
+      <ValueOff>49-8B-8F-B8-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>19C7A77</Offset>
+      <Section>0</Section>
+      <ValueOn>49-C7-86-B8-00-00-00-FF-C9-9A-3B-E9-E7-31-CD-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8069AC67</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0B-CE-32-81-90-90</ValueOn>
+      <ValueOff>49-89-8E-B8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill">
+    <Cheatline>
+      <Offset>19C7AAA</Offset>
+      <Section>0</Section>
+      <ValueOn>83-B8-D8-00-00-00-00-75-07-C7-40-20-00-00-00-00-C5-FA-10-40-20-E9-6C-C5-CC-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8069402B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7A-3A-33-81</ValueOn>
+      <ValueOff>C5-FA-10-40-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Perfect Temperature">
+    <Cheatline>
+      <Offset>19C7AC4</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-83-8C-00-00-00-C5-FA-11-83-88-00-00-00-E9-7D-D8-89-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8126534E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-71-27-76-80-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-88-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Air">
+    <Cheatline>
+      <Offset>19C7AD9</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-A3-A0-00-00-00-C5-FA-11-A3-9C-00-00-00-E9-CC-DC-89-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>812657B2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-22-23-76-80-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-A3-9C-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Radiation">
+    <Cheatline>
+      <Offset>19C7AEE</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-8C-00-00-00-00-00-00-00-E9-A6-D9-89-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8126549B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4E-26-76-80-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-A3-8C-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Sanity">
+    <Cheatline>
+      <Offset>19FF800</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-98-00-00-00-00-00-00-00-E9-59-5E-86-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81265660</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9B-A1-79-80-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-98-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Tenacity">
+    <Cheatline>
+      <Offset>19C7AFD</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-47-78-C4-C1-7A-11-47-74-E9-7F-FC-DB-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80787787</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-71-03-24-81-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No load Equipment">
+    <Cheatline>
+      <Offset>19C7B0E</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-A8-00-00-00-00-00-00-00-41-8B-86-A8-00-00-00-E9-CA-E7-89-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>812662E8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-21-18-76-80-90-90</ValueOn>
+      <ValueOff>41-8B-86-A8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Power Up ( on gain )">
+    <Cheatline>
+      <Offset>19C7B4B</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-30-C5-FA-11-43-2C-E9-02-F1-27-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80C46C57</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EF-0E-D8-80</ValueOn>
+      <ValueOff>C5-FA-11-43-2C</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>19C7B5A</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-30-C5-FA-11-43-2C-E9-4D-5B-89-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8125D6B1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A4-A4-76-80</ValueOn>
+      <ValueOff>C5-FA-11-43-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Stats">
+    <Cheatline>
+      <Offset>19C7B25</Offset>
+      <Section>0</Section>
+      <ValueOn>48-C1-FF-1E-C7-44-99-20-E7-03-00-00-8B-4C-99-20-E9-6E-79-CC-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8068F4A0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-80-86-33-81-90-90-90</ValueOn>
+      <ValueOff>48-C1-FF-1E-8B-4C-99-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items">
+    <Cheatline>
+      <Offset>19C7B3A</Offset>
+      <Section>0</Section>
+      <ValueOn>49-8B-5E-38-45-89-67-34-45-8B-67-34-E9-DE-B8-02-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>809F3421</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-14-47-FD-80-90-90-90</ValueOn>
+      <ValueOff>49-8B-5E-38-45-8B-67-34</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

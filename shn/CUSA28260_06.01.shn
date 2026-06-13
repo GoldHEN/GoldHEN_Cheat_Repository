@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Grid Legends" Moder="Reddevil82 - FW 9.00" Cusa="CUSA28260" Version="06.01" Process="eboot.bin">
+  <Genres Name="Racing" />
+  <Items />
+  <Cheat Text="Max Money" Description="Max Money">
+    <Cheatline>
+      <Offset>267FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-80-C9-00-00-FF-C9-9A-3B-8B-83-80-C9-00-00-E9-93-94-06-FE-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>6E9252</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-59-6B-F9-01-90</ValueOn>
+      <ValueOff>8B-83-80-C9-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Pac-Man World Re-Pac" Moder="Reddevil82 - FW 9.00" Cusa="CUSA32074" Version="01.02" Process="eboot.bin">
+  <Genres Name="Arcade" />
+  <Items />
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>197FDF8</Offset>
+      <Section>0</Section>
+      <ValueOn>4D-89-BE-A8-07-00-00-E9-72-4E-94-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>812C4C6A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-89-B1-6B-80-90-90</ValueOn>
+      <ValueOff>4D-89-BE-A8-07-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>197FDEC</Offset>
+      <Section>0</Section>
+      <ValueOn>44-29-F8-31-F6-89-C7-E9-C0-4A-93-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>812B48AC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3B-B5-6C-80-90-90</ValueOn>
+      <ValueOff>44-29-F8-31-F6-89-C7</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Lives ( on gain / lose )">
+    <Cheatline>
+      <Offset>197FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-81-B0-00-00-00-E7-03-00-00-E9-BA-86-92-7F-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>812A8473</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-38-79-6D-80-90</ValueOn>
+      <ValueOff>89-81-B0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items ( collect 2 )">
+    <Cheatline>
+      <Offset>197FDDE</Offset>
+      <Section>0</Section>
+      <ValueOn>48-C1-E6-04-C6-44-30-2C-63-E9-21-CF-75-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>810DCD05</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D4-30-8A-80-90-90-90</ValueOn>
+      <ValueOff>48-C1-E6-04-89-54-30-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Xuan Yuan Sword: the Gate of Firmament" Moder="GamerX2" Cusa="CUSA06423" Version="01.05" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinite HP">
+    <Cheatline>
+      <Offset>7DE643</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-4D-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite MP">
+    <Cheatline>
+      <Offset>69E843</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-48-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items |Battle">
+    <Cheatline>
+      <Offset>733338</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-45-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="EXP Boost">
+    <Cheatline>
+      <Offset>11D3800</Offset>
+      <Section>0</Section>
+      <ValueOn>81-C1-F4-01-00-00-0F-84-77-96-5D-7F-89-48-78-E9-88-94-5D-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807ACC93</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-68-6B-A2-80-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-EA-01-00-00-89-48-78</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Skill Points">
+    <Cheatline>
+      <Offset>8BE69C</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-86-B8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Skill Points On Spend">
+    <Cheatline>
+      <Offset>11D3800</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-E7-03-00-00-41-89-86-B8-00-00-00-E9-92-EE-7B-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8099269C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5F-11-84-80-90-90</ValueOn>
+      <ValueOff>41-89-86-B8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items On Sell |Shops">
+    <Cheatline>
+      <Offset>11D3800</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-0F-27-00-00-0F-84-AA-39-63-7F-89-48-24-E9-81-38-63-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8080708B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-70-C7-9C-80-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-24-01-00-00-89-48-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Items On Sell |Shops">
+    <Cheatline>
+      <Offset>733091</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-48-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money On Sell/Buy">
+    <Cheatline>
+      <Offset>11D3800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BF-7F-96-98-00-0F-84-7D-81-5D-7F-45-89-7E-74-E9-AB-80-5D-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>807AB8B6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-45-7F-A2-80-90-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-CD-00-00-00-45-89-7E-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Money">
+    <Cheatline>
+      <Offset>6D78BC</Offset>
+      <Section>15</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>45-89-7E-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

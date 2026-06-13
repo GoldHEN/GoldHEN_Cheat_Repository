@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hot Wheels Unleashed" Moder="Reddevil82 - FW 9.00" Cusa="CUSA25502" Version="01.19" Process="eboot.bin">
+  <Genres Name="Racing" />
+  <Items />
+  <Cheat Text="Max Coins ( on buy / sell )">
+    <Cheatline>
+      <Offset>7B8BDD4</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-48-C2-B9-00-CA-9A-3B-89-4B-20-E9-72-55-37-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1F01350</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7F-AA-C8-05-90</ValueOn>
+      <ValueOff>0F-48-C2-89-4B-20</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1F01360</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-00-CA-9A-3B</ValueOn>
+      <ValueOff>C4-E2-78-F2-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Gears ( on buy / dissamble )">
+    <Cheatline>
+      <Offset>7B8BDE4</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-48-C2-C7-43-24-00-CA-9A-3B-E9-53-56-37-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1F01440</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9F-A9-C8-05-90</ValueOn>
+      <ValueOff>0F-48-C2-89-4B-24</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1F01450</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-00-CA-9A-3B</ValueOn>
+      <ValueOff>C4-E2-78-F2-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Blind Boxes ( on use )">
+    <Cheatline>
+      <Offset>7B8BDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>48-85-C0-41-C7-46-14-00-CA-9A-3B-E9-8A-C3-33-FA-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1EC8143</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-68-3C-CC-05-90-90</ValueOn>
+      <ValueOff>48-85-C0-41-89-4E-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Boost">
+    <Cheatline>
+      <Offset>7B8BDF3</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-83-04-01-00-00-C5-FA-11-83-2C-01-00-00-E9-B7-F0-37-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F0AEB7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-37-0F-C8-06-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-2C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

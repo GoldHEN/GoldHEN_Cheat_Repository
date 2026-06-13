@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="LEGO 2K Drive" Moder="Reddevil82 - FW 9.00" Cusa="CUSA34255" Version="01.09" Process="eboot.bin">
+  <Genres Name="Racing" />
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Family" />
+  <Items />
+  <Cheat Text="Infinite Boost" Description="Infinite Boost">
+    <Cheatline>
+      <Offset>7DB7DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-08-0D-00-00-00-00-80-3F-C4-C1-7A-10-87-08-0D-00-00-E9-A0-CB-10-FA-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1EC4960</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4B-34-EF-05-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-87-08-0D-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money" Description="Max Money">
+    <Cheatline>
+      <Offset>7DB7DDD</Offset>
+      <Section>0</Section>
+      <ValueOn>03-4E-04-C7-46-04-FF-C9-9A-3B-03-56-08-E9-58-CD-0A-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1E64B41</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-97-32-F5-05-90</ValueOn>
+      <ValueOff>03-4E-04-03-56-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP" Description="Max XP">
+    <Cheatline>
+      <Offset>7DB7DF0</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-52-08-03-06-C7-06-9F-86-01-00-E9-41-CD-0A-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1E64B3C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AF-32-F5-05</ValueOn>
+      <ValueOff>8B-52-08-03-06</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Ignore Mission Timer" Description="Ignore Mission Timer">
+    <Cheatline>
+      <Offset>7DB7E13</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-85-64-06-00-00-00-00-00-00-E9-26-8D-D2-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1AE0B40</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CE-72-2D-06-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-8D-64-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Fast Smash Tour" Description="Fast Smash Tour">
+    <Cheatline>
+      <Offset>7DB7E23</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-2C-01-00-00-E7-03-00-00-8B-8B-2C-01-00-00-E9-05-69-47-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>222E737</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E7-96-B8-05-90</ValueOn>
+      <ValueOff>8B-8B-2C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Score" Description="Max Score">
+    <Cheatline>
+      <Offset>7DB7E38</Offset>
+      <Section>0</Section>
+      <ValueOn>44-01-BB-A4-03-00-00-C7-83-A4-03-00-00-3F-42-0F-00-E9-19-78-84-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25FF660</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D3-87-7B-05-90-90</ValueOn>
+      <ValueOff>44-01-BB-A4-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Turbo Infinito">
+    <Cheatline>
+      <Offset>7DB7DD0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-24-DC-06-00-00-00-00-80-3F-E9-92-CB-10-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1EC4969</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-62-34-EF-05-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-DC-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Grana Infinita - Ativar uma unica vez para pegar o valor e depois desative!">
+    <Cheatline>
+      <Offset>7DB7C10</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-46-04-C7-47-04-3F-42-0F-00-E9-2C-55-0A-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1E5D145</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C6-AA-F5-05-90</ValueOn>
+      <ValueOff>8B-46-04-89-47-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Nivel Maximo">
+    <Cheatline>
+      <Offset>7DB7EF0</Offset>
+      <Section>0</Section>
+      <ValueOn>48-39-F7-C7-07-3F-42-0F-00-E9-47-52-0A-FA</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1E5D140</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AB-AD-F5-05</ValueOn>
+      <ValueOff>48-39-F7-89-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

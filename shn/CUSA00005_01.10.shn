@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resogun" Moder="Weysincha" Cusa="CUSA00005" Version="01.10" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Arcade" />
+  <Items />
+  <Cheat Text="Inf Lives ">
+    <Cheatline>
+      <Offset>C43800</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-C8-0F-48-C1-B8-63-00-00-00-E9-63-22-63-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>275A6D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8E-DD-9C-00</ValueOn>
+      <ValueOff>FF-C8-0F-48-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Bombs">
+    <Cheatline>
+      <Offset>C4380F</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-00-00-00-00-0F-48-C1-B8-63-00-00-00-E9-65-28-63-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>27607E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8C-D7-9C-00-90-90-90</ValueOn>
+      <ValueOff>B9-00-00-00-00-0F-48-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Boost">
+    <Cheatline>
+      <Offset>244E9E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-46-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant laser by using">
+    <Cheatline>
+      <Offset>254063</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-4C-24-5C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Full laser bar by 1 point">
+    <Cheatline>
+      <Offset>253F28</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-11-4C-24-5C</ValueOn>
+      <ValueOff>C4-C1-7A-11-44-24-5C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

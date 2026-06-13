@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sakura Wars" Moder="Q8despair" Cusa="CUSA16429" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Max Health">
+    <Cheatline>
+      <Offset>17DF800</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-00-25-00-00-90-E9-6C-44-65-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E33C70</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8B-BB-9A-00-90-90</ValueOn>
+      <ValueOff>41-89-86-80-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Special Guage ">
+    <Cheatline>
+      <Offset>17DF800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-47-78-00-00-C8-42-E9-BE-9E-5E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>DC96C5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-36-61-A1-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-78</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

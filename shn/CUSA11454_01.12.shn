@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Control" Moder="Reddevil82 - FW 9.00" Cusa="CUSA11454" Version="01.12" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Mastercode Health ( must be activated )">
+    <Cheatline>
+      <Offset>1C7FE2C</Offset>
+      <Section>0</Section>
+      <ValueOn>83-BB-C4-00-00-00-01-75-08-C5-FA-10-8B-94-00-00-00-83-BB-C4-00-00-00-00-75-08-C5-FA-10-8B-94-00-00-00-C5-FA-10-8B-94-00-00-00-E9-7E-2F-8A-FE-C7-83-94-00-00-00-00-00-80-3F-C3-C7-83-94-00-00-00-00-00-00-00-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>522DD1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-56-D0-75-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-8B-94-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health [ MC ]">
+    <Cheatline>
+      <Offset>1C7FE35</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-21-00-00-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-8B-94-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill [ MC ]">
+    <Cheatline>
+      <Offset>1C7FE46</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-1B-00-00-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-8B-94-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Energy">
+    <Cheatline>
+      <Offset>1C7FDF1</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-38-00-00-80-3F-C5-FA-10-43-38-E9-3F-1C-47-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F1A3C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B0-E3-B8-01</ValueOn>
+      <ValueOff>C5-FA-10-43-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>1C7FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-83-A4-01-00-00-C5-FA-11-83-A0-01-00-00-E9-FA-AF-9E-FE-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>66ADB7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F4-4F-61-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-A0-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money">
+    <Cheatline>
+      <Offset>1C7FDD9</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-85-08-F5-FF-FF-49-C7-46-38-FF-E0-F5-05-4D-8B-66-38-E9-CE-21-E2-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>AA1FB4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-20-DE-1D-01-90-90-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-85-08-F5-FF-FF-4D-8B-66-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Skill Points">
+    <Cheatline>
+      <Offset>1C7F800</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-41-38-C7-41-40-FF-E0-F5-05-8B-49-40-E9-9B-2F-E2-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>AA27A7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-54-D0-1D-01-90</ValueOn>
+      <ValueOff>8B-41-38-8B-49-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items">
+    <Cheatline>
+      <Offset>1C7FE02</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-4F-B3-DF-FE-C7-40-38-E7-03-00-00-8B-48-38-E9-A6-B1-DF-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A7AFB4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-49-4E-20-01-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-A3-01-00-00-8B-48-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Jukebox Coins">
+    <Cheatline>
+      <Offset>1C7FE17</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-9B-B5-DF-FE-C7-40-38-E7-03-00-00-8B-48-38-E9-62-B2-DF-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>A7B085</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8D-4D-20-01-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-33-03-00-00-8B-48-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Hover Mode activated">
+    <Cheatline>
+      <Offset>1C7F814</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-37-2A-9D-FF-41-C6-47-7C-01-E9-6A-8A-B5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7D8288</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-87-75-4A-01</ValueOn>
+      <ValueOff>E8-C3-9F-E7-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

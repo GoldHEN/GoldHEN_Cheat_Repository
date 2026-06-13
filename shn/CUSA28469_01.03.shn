@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tails of Iron" Moder="Saso" Cusa="CUSA28469" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health (Turn Off In 2nd Battle)">
+    <Cheatline>
+      <PS5Offset>15DE5F1-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Offset>511A0F</Offset>
+      <Section>14</Section>
+      <ValueOn>C5-FA-10-40-24</ValueOn>
+      <ValueOff>C5-FA-10-45-FC</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1HK / Boss Easy Kill">
+    <Cheatline>
+      <PS5Offset>7DC-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Offset>1AEF824</Offset>
+      <Section>14</Section>
+      <ValueOn>83-7F-5C-00-74-0F-81-BF-00-01-00-00-01-00-01-00-74-0D-0F-57-C0-C5-FA-11-45-EC-E9-E6-CF-C2-FE-81-7F-5C-00-00-80-3F-7E-ED-0F-2A-87-02-01-00-00-EB-E4</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>13D37DC-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Offset>71C824</Offset>
+      <Section>14</Section>
+      <ValueOn>E9-FB-2F-3D-01</ValueOn>
+      <ValueOff>C5-FA-11-45-EC</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Weight">
+    <Cheatline>
+      <PS5Offset>14B24FC-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Offset>80CF1B04</Offset>
+      <Section>14</Section>
+      <ValueOn>C5-F8-29-45-C0</ValueOn>
+      <ValueOff>C5-F8-29-4D-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Bolts">
+    <Cheatline>
+      <PS5Offset>15DF12E-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Offset>80BC4ED2</Offset>
+      <Section>14</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>44-89-B0-1C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Arrows">
+    <Cheatline>
+      <PS5Offset>15DF292-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Offset>510D6E</Offset>
+      <Section>14</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>44-89-B0-18-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Currency">
+    <Cheatline>
+      <PS5Offset>7A9-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Offset>1AEF857</Offset>
+      <Section>14</Section>
+      <ValueOn>83-78-14-00-74-06-41-BE-40-00-00-00-44-89-70-14-5B-E9-A0-30-A2-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>15DD6F8-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Offset>512908</Offset>
+      <Section>14</Section>
+      <ValueOn>E9-4A-CF-5D-01</ValueOn>
+      <ValueOff>44-89-70-14-5B</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

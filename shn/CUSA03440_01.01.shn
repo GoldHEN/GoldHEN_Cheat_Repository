@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassin's Creed Chronicles" Moder="Saso_9.00" Cusa="CUSA03440" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf Health">
+    <Cheatline>
+      <Offset>2ABF800</Offset>
+      <Section>0</Section>
+      <ValueOn>81-3B-A0-7F-C9-02-75-11-F3-0F-10-D9-C5-FA-11-9B-64-0C-00-00-E9-87-B5-49-FE-81-3B-00-52-C6-02-75-EB-C5-E0-57-DB-EB-E5</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F5AD98</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-63-4A-B6-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-9B-64-0C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Throwables">
+    <Cheatline>
+      <Offset>2ABF980</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-F0-00-00-00-09-00-00-00-83-BF-F0-00-00-00-00-E9-E9-31-2A-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D62B78</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-03-CE-D5-01-90-90</ValueOn>
+      <ValueOff>83-BF-F0-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Helix">
+    <Cheatline>
+      <Offset>DCB9D4</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-87-F8-00-00-00</ValueOn>
+      <ValueOff>C4-C1-72-5D-87-F8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

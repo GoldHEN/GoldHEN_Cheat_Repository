@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Outlast 2" Moder="Weysincha" Cusa="CUSA06633" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Battery">
+    <Cheatline>
+      <Offset>1ABDC48</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-8F-1C-83-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health" Description="Infinite Health">
+    <Cheatline>
+      <Offset>254B800</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-28-80-00-00-00-00-C8-42-C5-FA-10-98-28-80-00-00-E9-22-F7-5D-FF-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1B2AF31</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-CA-08-A2-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-98-28-80-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina" Description="Infinite Stamina">
+    <Cheatline>
+      <Offset>254B82D</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-34-7D-00-00-00-00-C8-42-C4-C1-7A-10-97-34-7D-00-00-E9-2F-55-4F-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1A40D6C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BC-AA-B0-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-97-34-7D-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Battery Life Value" Description="Infinite Battery Life Value">
+    <Cheatline>
+      <Offset>254B848</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-1C-83-00-00-00-00-80-3F-E9-F9-23-57-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1ABDC48</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FB-DB-A8-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-8F-1C-83-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Bandage" Description="Max Bandage">
+    <Cheatline>
+      <Offset>254B85A</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-E0-0C-00-00-04-00-00-00-41-83-BF-E0-0C-00-00-00-E9-49-FD-50-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1A5B5B3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A2-02-AF-00-90-90-90</ValueOn>
+      <ValueOff>41-83-BF-E0-0C-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Battery" Description="Nax Battery">
+    <Cheatline>
+      <Offset>254B874</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-D8-0C-00-00-08-00-00-00-41-83-BF-D8-0C-00-00-00-E9-9A-FA-50-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1A5B31E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-51-05-AF-00-90-90-90</ValueOn>
+      <ValueOff>41-83-BF-D8-0C-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

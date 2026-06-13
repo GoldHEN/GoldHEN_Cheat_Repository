@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Armored Core VI: Fires of Rubicon" Moder="Celogamez" Cusa="CUSA32599" Version="01.08" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>32B37A0</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-FF-00-75-06-90-E9-5D-55-C6-FD-E8-4F-7B-C6-FD-E9-53-55-C6-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F18D04</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-97-AA-39-02</ValueOn>
+      <ValueOff>E8-F7-25-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Infinite AP/1 Hit Kill (Master Code/Must Be On)">
+    <Cheatline>
+      <Offset>32B3DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>85-C0-41-81-7D-38-78-23-00-00-75-0F-41-89-45-00-41-89-45-00-E9-F3-23-C3-FD-31-C0-41-89-45-00-E9-E8-23-C3-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>EE61B6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F5-DB-3C-02-90</ValueOn>
+      <ValueOff>85-C0-41-89-45-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite AP">
+    <Cheatline>
+      <Offset>32B3DBC</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8B-45-04</ValueOn>
+      <ValueOff>41-89-45-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill">
+    <Cheatline>
+      <Offset>32B3DBA</Offset>
+      <Section>0</Section>
+      <ValueOn>75-0D</ValueOn>
+      <ValueOff>75-0F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>32B3740</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-5C-0F-27-00-00-8B-43-5C-83-F8-FF-E9-BD-FF-D0-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FC3709</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-32-00-2F-02-90</ValueOn>
+      <ValueOff>8B-43-5C-83-F8-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>FC40AC</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-44-24-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Overheat">
+    <Cheatline>
+      <Offset>32B38F0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-A0-08-D1-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FC418D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5E-F7-2E-02-90-90-90-90</ValueOn>
+      <ValueOff>41-C6-84-24-D8-00-00-00-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Repairs">
+    <Cheatline>
+      <Offset>AC2EDA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>89-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Boost">
+    <Cheatline>
+      <Offset>32B3500</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-7F-30-00-74-11-C4-C1-7A-10-47-20-C4-C1-7A-11-47-24-E9-C2-FE-C8-FD-C4-C1-7A-11-47-24-E9-B7-FE-C8-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F433D4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-27-01-37-02-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite COAM">
+    <Cheatline>
+      <Offset>32B3820</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-3F-42-0F-00-89-4A-74-29-F9-E9-01-24-F1-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11C5C2B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F0-DB-0E-02</ValueOn>
+      <ValueOff>89-4A-74-29-F9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Stop Time Missions">
+    <Cheatline>
+      <Offset>16BFCAE</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-80-94-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Saint Seiya: Soldiers' Soul" Moder="Vampirexx" Cusa="CUSA02437" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="God Mode 1P">
+    <Cheatline>
+      <Offset>322F800</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F2-5C-C0-C5-F0-57-C9-C5-F2-5F-C0-51-B9-00-00-7A-44-83-7B-08-01-74-04-66-0F-6E-C1-59-E9-71-44-DF-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>23C8B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-70-BB-20-03-90-90-90</ValueOn>
+      <ValueOff>C5-F2-5C-C0-C5-F0-57-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Cosmo 1P">
+    <Cheatline>
+      <Offset>322F822</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F2-5C-C0-C5-F0-57-C9-C5-F2-5F-C0-51-B9-00-00-7A-44-83-7F-08-01-74-04-66-0F-6E-C1-59-E9-A9-41-DF-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>239E5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-38-BE-20-03-90-90-90</ValueOn>
+      <ValueOff>C5-F2-5C-C0-C5-F0-57-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Inf 7th Sense 1P">
+    <Cheatline>
+      <Offset>237E3</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-4F-58</ValueOn>
+      <ValueOff>C5-FA-11-57-58</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>238C6</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-11-4F-58</ValueOn>
+      <ValueOff>C5-FA-11-47-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Money">
+    <Cheatline>
+      <Offset>322F844</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-FF-C9-9A-3B-41-01-84-24-20-1F-00-00-E9-B9-F6-FD-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>20EF07</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-38-09-02-03-90-90-90</ValueOn>
+      <ValueOff>41-89-84-24-20-1F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

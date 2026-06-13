@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassin's Creed Mirage" Moder="Saso" Cusa="CUSA33151" Version="01.11" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Offset>2DD8204</Offset>
+      <Section>0</Section>
+      <ValueOn>89-8F-68-01-00-00</ValueOn>
+      <ValueOff>89-97-68-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Offset>3266B90</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-53-10</ValueOn>
+      <ValueOff>C5-FA-59-53-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Mount Stamina">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Offset>3267A67</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-11-45-0C</ValueOn>
+      <ValueOff>C4-C1-7A-11-55-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Focus">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Offset>6B4F80F</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-78-02-00-00-00-00-FA-43-E9-B3-26-39-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Offset>2EE1EC9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-41-D9-C6-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-78-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Offset>6B4F83C</Offset>
+      <Section>0</Section>
+      <ValueOn>66-9C-83-FE-00-7E-05-BE-00-00-00-00-89-B7-68-01-00-00-66-9D-E9-37-ED-25-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Offset>2DAE586</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B1-12-DA-03-90</ValueOn>
+      <ValueOff>89-B7-68-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="(99) Skill Points / Level (On Spend)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Offset>6B4F820</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-87-B8-0B-00-00-C7-40-10-63-00-00-00-C7-40-14-00-00-00-00-E9-65-DF-D1-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Offset>486D798</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-83-20-2E-02-90-90</ValueOn>
+      <ValueOff>48-8B-87-B8-0B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="(9999) Resources (On Use)">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Offset>6B4F800</Offset>
+      <Section>0</Section>
+      <ValueOn>2B-45-84-B8-0F-27-00-00-E9-C2-0D-85-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <Offset>33A05C9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-32-F2-7A-03-90</ValueOn>
+      <ValueOff>2B-45-84-0F-42-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

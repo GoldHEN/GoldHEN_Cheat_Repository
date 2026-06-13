@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Strafe" Moder="Reddevil82 - FW 9.00" Cusa="CUSA07722" Version="01.05" Process="eboot.bin">
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Health" Description="Infinite Health">
+    <Cheatline>
+      <Offset>11D3DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-81-84-00-00-00-00-00-C8-42-F3-0F-10-81-84-00-00-00-E9-F9-6B-8A-7F-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80A7A9B8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F3-93-75-80-90-90-90</ValueOn>
+      <ValueOff>F3-0F-10-81-84-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Armor" Description="Infinite Armor">
+    <Cheatline>
+      <Offset>11D3DDB</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-B0-00-00-00-00-00-C8-42-F3-0F-10-80-B0-00-00-00-E9-96-6C-8A-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80A7AA80</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-56-93-75-80-90-90-90</ValueOn>
+      <ValueOff>F3-0F-10-80-B0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ammo Clip" Description="Max Ammo Clip">
+    <Cheatline>
+      <Offset>11D3DF2</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-18-63-00-00-00-48-63-40-18-4C-8B-3C-24-E9-9D-93-DD-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80FAD19B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-52-6C-22-80-90-90-90</ValueOn>
+      <ValueOff>48-63-40-18-4C-8B-3C-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload" Description="No Reload">
+    <Cheatline>
+      <Offset>ED9073</Offset>
+      <Section>14</Section>
+      <ValueOn>4C-63-78-34</ValueOn>
+      <ValueOff>4C-63-78-30</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill" Description="One Hit Kill">
+    <Cheatline>
+      <Offset>11D3E06</Offset>
+      <Section>0</Section>
+      <ValueOn>83-B8-40-01-00-00-01-74-04-45-0F-57-FF-F3-44-0F-11-B8-84-00-00-00-E9-2E-0F-7E-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>809B4D46</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BB-F0-81-80-90-90-90-90</ValueOn>
+      <ValueOff>F3-44-0F-11-B8-84-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mastercode Timer ( must be activated for [ MC ] Cheats )" Description="Mastercode Timer ( must be activated for [ MC ] Cheats )">
+    <Cheatline>
+      <Offset>11D3E21</Offset>
+      <Section>0</Section>
+      <ValueOn>80-3D-F8-01-04-00-01-75-10-41-C7-87-04-01-00-00-00-00-80-3F-E9-B5-AE-80-7F-80-3D-E0-01-04-00-01-75-06-90-E9-A6-AE-80-7F-F3-45-0F-11-BF-04-01-00-00-E9-98-AE-80-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>809DECE6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-36-51-7F-80-90-90-90-90</ValueOn>
+      <ValueOff>F3-45-0F-11-BF-04-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Reset Timer to 1 [ MC ]" Description="Reset Timer to 1 [ MC ]">
+    <Cheatline>
+      <Offset>1214020</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Timer [ MC ]" Description="Freeze Timer [ MC ]">
+    <Cheatline>
+      <Offset>1214021</Offset>
+      <Section>0</Section>
+      <ValueOn>01</ValueOn>
+      <ValueOff>00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

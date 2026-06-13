@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Grave Danger" Moder="fbin" Cusa="CUSA12010" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Horror" />
+  <Items />
+  <Cheat Text="Vida Infinita">
+    <Cheatline>
+      <Offset>13DFDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-7F-4C-02-75-0B-C4-C1-7A-10-47-1C-E9-CF-6B-0C-7F-C4-C1-7A-11-47-1C-E9-C4-6B-0C-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>804A698B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-20-94-F3-80-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-47-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

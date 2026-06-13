@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call of Duty: Ghosts" Moder="Celogamez" Cusa="CUSA00018" Version="01.21" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health/1 Hit Kill (Master Code/Must Be On)">
+    <Cheatline>
+      <Offset>8BBEA0</Offset>
+      <Section>0</Section>
+      <ValueOn>66-81-F9-F0-E2-75-0E-41-89-85-7C-01-00-00-E9-39-6C-98-FF-31-C0-41-89-85-7C-01-00-00-E9-2B-6C-98-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>242AE5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B6-93-67-00-90-90</ValueOn>
+      <ValueOff>41-89-85-7C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health (Enable MC)">
+    <Cheatline>
+      <Offset>8BBEA7</Offset>
+      <Section>0</Section>
+      <ValueOn>41-8B-85-7C-01-00-00</ValueOn>
+      <ValueOff>41-89-85-7C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill (Enable MC)">
+    <Cheatline>
+      <Offset>8BBEA5</Offset>
+      <Section>0</Section>
+      <ValueOn>75-0C</ValueOn>
+      <ValueOff>75-0E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>7FC4BF80</Offset>
+      <Section>0</Section>
+      <ValueOn>01-D1-90-E9-19-25-7A-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3EE49C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DF-DA-85-7F</ValueOn>
+      <ValueOff>01-D1-89-48-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload/Grenades">
+    <Cheatline>
+      <Offset>7FC4BFC0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-92-BD-79-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3E7D53</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-68-42-86-7F</ValueOn>
+      <ValueOff>44-29-7C-81-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

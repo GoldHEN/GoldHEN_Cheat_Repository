@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Far Cry 5" Moder="Celogamez" Cusa="CUSA05904" Version="01.19" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>28AFC15</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-66-BB-FF-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>28AE112</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-69-D6-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Invincibility">
+    <Cheatline>
+      <Offset>28BEB14</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-77-FF-FE-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>28A3CEF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-58-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>28A7DEE</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>FF-50-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Breath">
+    <Cheatline>
+      <Offset>28A8171</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>FF-50-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>1173987</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-43-4C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>38728A7</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>44-89-BB-88-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Ammo/Money/Throwables (on get)">
+    <Cheatline>
+      <Offset>5FCFBE0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-0F-43-C5-41-C7-47-4C-3F-42-0F-00-E9-2A-3D-1A-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1173913</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C8-C2-E5-04-90-90-90</ValueOn>
+      <ValueOff>41-0F-43-C5-41-89-47-4C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Skill Points">
+    <Cheatline>
+      <Offset>5FCFB70</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-E0-00-00-00-E7-03-00-00-E9-14-47-46-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>343428C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DF-B8-B9-02-90-90</ValueOn>
+      <ValueOff>44-29-BB-E0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

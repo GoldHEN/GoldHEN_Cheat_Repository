@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tales of Zestiria" Moder="Wander FW9.00" Cusa="CUSA02510" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>114FDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4E-DA-89-DA-83-79-04-01-75-0C-66-C7-41-0C-0F-27-E9-9B-D7-26-FF-90-89-51-0C-E9-92-D7-26-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3BD559</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-52-28-D9-00</ValueOn>
+      <ValueOff>0F-4E-DA-89-DA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health/1hitkill for main Character Turn off the first one">
+    <Cheatline>
+      <Offset>114FD20</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4E-DA-89-DA-83-79-04-01-75-0B-66-C7-41-0C-0F-27-E9-2B-D8-26-FF-31-D2-89-51-0C-E9-21-D8-26-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3BD559</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C2-27-D9-00</ValueOn>
+      <ValueOff>0F-4E-DA-89-DA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite SC">
+    <Cheatline>
+      <Offset>114F170</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-10-00-00-48-43-E9-59-C5-27-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3CB6D0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9B-3A-D8-00</ValueOn>
+      <ValueOff>C5-FA-11-40-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Blast Gauge">
+    <Cheatline>
+      <Offset>114FAF0</Offset>
+      <Section>0</Section>
+      <ValueOn>44-89-D8-66-41-C7-40-18-D0-07-E9-0F-DA-33-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>48D507</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E4-25-CC-00-90-90</ValueOn>
+      <ValueOff>44-89-D8-41-89-40-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Experience/gives max Stats possible/AP">
+    <Cheatline>
+      <Offset>114FBD0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-81-80-D8-28-00-00-FF-E0-F5-05-E9-64-3B-27-FF-57-61-6E-64-65-72-20-46-57-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3C373D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8E-C4-D8-00-90-90</ValueOn>
+      <ValueOff>41-01-B0-D8-28-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="999 items (on use/get)">
+    <Cheatline>
+      <Offset>114FA50</Offset>
+      <Section>0</Section>
+      <ValueOn>42-8B-14-B1-66-42-C7-04-B1-E7-03-E9-94-C4-39-FF-57-61-6E-64-65-72-20-46-57-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4EBEEC</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5F-3B-C6-00-90-90-90</ValueOn>
+      <ValueOff>42-8B-14-B1-46-89-3C-B1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Gald (on buy)">
+    <Cheatline>
+      <Offset>114FC70</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4E-CE-C7-00-FF-E0-F5-05-E9-4C-CA-32-FF-57-61-6E-64-65-72-20-46-57-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>47C6C5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A6-35-CD-00</ValueOn>
+      <ValueOff>0F-4E-CE-89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

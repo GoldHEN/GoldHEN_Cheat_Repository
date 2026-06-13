@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Prodeus" Moder="Reddevil82 - FW 9.00" Cusa="CUSA31340" Version="01.06" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invulnerable">
+    <Cheatline>
+      <Offset>1983DB0</Offset>
+      <Section>0</Section>
+      <ValueOn>24-01-B8-01-00-00-00-E9-89-32-DF-7E-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80777040</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6B-CD-20-81</ValueOn>
+      <ValueOff>24-01-0F-B6-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Ignore me ( Enemies won?t attack you )">
+    <Cheatline>
+      <Offset>1983DD0</Offset>
+      <Section>0</Section>
+      <ValueOn>24-01-B8-01-00-00-00-E9-C9-81-CB-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8063BFA0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2B-7E-34-81</ValueOn>
+      <ValueOff>24-01-0F-B6-C0</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health ( after hit )">
+    <Cheatline>
+      <Offset>1983DDC</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-44-24-F8-C7-44-24-F4-64-00-00-00-8B-4C-24-F4-E9-10-5F-CF-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80679CF9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DE-A0-30-81-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-44-24-F8-8B-4C-24-F4</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Armor ( after hit )">
+    <Cheatline>
+      <Offset>1983DF2</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-44-24-F8-C7-44-24-F4-64-00-00-00-8B-4C-24-F4-E9-1A-32-DF-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80777019</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D4-CD-20-81-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-44-24-F8-8B-4C-24-F4</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>19B83F9</Offset>
+      <Section>14</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>1983E08</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-88-84-00-00-00-89-88-88-00-00-00-E9-7F-9D-D9-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8071DB92</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-71-62-26-81-90</ValueOn>
+      <ValueOff>89-88-88-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

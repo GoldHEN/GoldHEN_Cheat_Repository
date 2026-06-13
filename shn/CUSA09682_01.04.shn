@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Kingdom Come: Deliverance" Moder="Rizla" Cusa="CUSA09682" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>363F800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-A4-04-00-00-00-00-C8-42-C4-C1-7A-10-97-A4-04-00-00-E9-D0-60-78-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2DC58E0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-1B-9F-87-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-97-A4-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>363F819</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-A8-04-00-00-00-00-E6-42-C4-C1-7A-10-87-A8-04-00-00-E9-11-61-78-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2DC593A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DA-9E-87-00-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-87-A8-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Energy">
+    <Cheatline>
+      <Offset>363F832</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-AC-04-00-00-00-00-C8-42-C5-FA-10-83-AC-04-00-00-E9-53-42-81-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2E53A94</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-99-BD-7E-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-83-AC-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Nourishment">
+    <Cheatline>
+      <Offset>363F849</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-B0-04-00-00-00-00-C8-42-C5-FA-10-83-B0-04-00-00-E9-6C-45-81-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2E53DC4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-80-BA-7E-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-83-B0-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="0 Weight">
+    <Cheatline>
+      <Offset>2E1C8D1</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-11-46-0C</ValueOn>
+      <ValueOff>C4-C1-7A-11-46-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money On Buy/Sell">
+    <Cheatline>
+      <Offset>363F800</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-FF-C9-9A-3B-89-41-38-E9-C3-30-71-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1D528CB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-30-CF-8E-01</ValueOn>
+      <ValueOff>75-08-8B-41-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="x2 Money/Items on Spend/Drop">
+    <Cheatline>
+      <Offset>1D09F6E</Offset>
+      <Section>0</Section>
+      <ValueOn>44-01-7B-38</ValueOn>
+      <ValueOff>44-29-7B-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

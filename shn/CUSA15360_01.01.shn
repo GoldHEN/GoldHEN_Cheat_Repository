@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="YAKUZA 3" Moder="IMnoob" Cusa="CUSA15360" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Max money on Buy">
+    <Cheatline>
+      <Offset>1837800</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-84-87-28-7D-00-00-FF-E0-F5-05-E9-F0-1A-01-FF-89-84-87-28-7D-00-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8492F9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-02-E5-FE-00-90-90</ValueOn>
+      <ValueOff>8B-84-87-28-7D-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Experience ">
+    <Cheatline>
+      <Offset>8760BE</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-46-1E</ValueOn>
+      <ValueOff>41-89-46-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>65A4F</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-B7-44-01-16</ValueOn>
+      <ValueOff>0F-B7-44-01-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Heats">
+    <Cheatline>
+      <Offset>5CC42</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-47-14</ValueOn>
+      <ValueOff>C5-FA-10-40-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 HIT KILL">
+    <Cheatline>
+      <Offset>2C9D57</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-B7-40-17</ValueOn>
+      <ValueOff>0F-B7-40-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

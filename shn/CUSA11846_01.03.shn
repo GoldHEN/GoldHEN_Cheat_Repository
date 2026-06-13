@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="THE LAST REMNANT Remastered" Moder="GamerX2" Cusa="CUSA11846" Version="01.03" Process="eboot.bin">
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Instant Max Morale">
+    <Cheatline>
+      <Offset>42F6FC9</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-80-B0-2D-00-00-66-C7-40-1C-E8-03-8B-48-1C-E9-52-4F-27-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>256BF26</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9E-B0-D8-01-90-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-80-B0-2D-00-00-8B-48-1C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Chain">
+    <Cheatline>
+      <Offset>42F7069</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-0C-4A-33-FE-B8-0F-27-00-00-89-43-48-E9-5D-07-27-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25677D0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-94-F8-D8-01-90-90-90</ValueOn>
+      <ValueOff>E8-AB-42-0C-00-89-43-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite DIGS ">
+    <Cheatline>
+      <Offset>271CACA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-B7-58-0B-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Timeshift | Press R2 To Shift Back To Normal">
+    <Cheatline>
+      <Offset>42F703D</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-90-0A-00-00-00-00-7E-4E-C5-FA-10-83-90-0A-00-00-E9-6F-77-50-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>27FE7BB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7D-88-AF-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-90-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Gold">
+    <Cheatline>
+      <Offset>25F4AA5</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>89-32</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Gold On Buy">
+    <Cheatline>
+      <Offset>42F6F90</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-FF-E0-F5-05-48-89-E5-89-32-E9-08-DB-2F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25F4AA2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E9-24-D0-01</ValueOn>
+      <ValueOff>48-89-E5-89-32</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Items| On Sell Or Use">
+    <Cheatline>
+      <Offset>25CFE40</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>88-54-08-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max+ Inf Items/Components/Captured | On Sell Or Use">
+    <Cheatline>
+      <Offset>42F7056</Offset>
+      <Section>0</Section>
+      <ValueOn>B2-63-0F-87-23-8E-2D-FE-88-54-08-04-E9-DD-8D-2D-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25CFE3E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-13-72-D2-01-90</ValueOn>
+      <ValueOff>77-41-88-54-08-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Unlock All Consumables/Components/Captures/Special Items">
+    <Cheatline>
+      <Offset>42F6FB0</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-C7-46-04-64-00-66-41-83-7E-04-00-E9-7F-90-36-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>266003C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6F-6F-C9-01</ValueOn>
+      <ValueOff>41-80-7E-04-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items On Buy">
+    <Cheatline>
+      <Offset>42F6FA1</Offset>
+      <Section>0</Section>
+      <ValueOn>41-B4-64-44-88-64-3B-04-E9-0D-4A-2D-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>25CB9B6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E6-B5-D2-01</ValueOn>
+      <ValueOff>44-88-64-3B-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Boost Strength| Change Accessory">
+    <Cheatline>
+      <Offset>42F6FEE</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-45-3C-90-01-00-00-C4-C1-7A-10-45-3C-E9-72-EC-8E-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2BE5C6D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7C-13-71-01-90</ValueOn>
+      <ValueOff>C4-C1-79-6E-45-3C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Boost DEF | Change Weapon ">
+    <Cheatline>
+      <Offset>42F7003</Offset>
+      <Section>0</Section>
+      <ValueOn>41-B7-90-44-88-7C-38-18-E9-48-BA-34-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2642A53</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AB-45-CB-01</ValueOn>
+      <ValueOff>44-88-7C-38-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Boost ATK Main Hand| Change Weapon ">
+    <Cheatline>
+      <Offset>42F6FDF</Offset>
+      <Section>0</Section>
+      <ValueOn>41-B1-90-44-88-4C-38-0C-E9-62-BA-34-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2642A49</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-91-45-CB-01</ValueOn>
+      <ValueOff>44-88-4C-38-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Boost ATK 2 Main Hand| Change Weapon ">
+    <Cheatline>
+      <Offset>42F7012</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-44-38-0A-90-01-0F-B7-54-38-0A-E9-91-B9-34-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>26429AF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5E-46-CB-01</ValueOn>
+      <ValueOff>0F-BF-54-38-0A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Off Hand ATK">
+    <Cheatline>
+      <Offset>42F7025</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-C7-85-74-02-00-00-E8-03-41-8B-95-74-02-00-00-E9-1A-51-8F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2BEC14E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D2-AE-70-01-90-90</ValueOn>
+      <ValueOff>41-8B-95-74-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Wizardry Mode|First Person View| Press Down Button ">
+    <Cheatline>
+      <Offset>42F707D</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-2C-57-04-00-00-C5-FA-10-43-2C-E9-40-F0-4F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>27F60C9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AF-0F-B0-01</ValueOn>
+      <ValueOff>C5-FA-11-43-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Enhanced Field Of View | Press Down/UP Button">
+    <Cheatline>
+      <Offset>42F7090</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-2C-00-C0-98-44-C5-FA-10-43-2C-E9-2D-F0-4F-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>27F60C9</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C2-0F-B0-01</ValueOn>
+      <ValueOff>C5-FA-11-43-2C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

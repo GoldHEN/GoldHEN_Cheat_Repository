@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dying Light: The Following: Enhanced Edition" Moder="Rizla" Cusa="CUSA03991" Version="01.06" Process="eboot.bin">
+  <Genres Name="FPS" />
+  <Genres Name="Horror" />
+  <Items />
+  <Cheat Text="God Mode">
+    <Cheatline>
+      <Offset>2073898</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-08-12-00-00-00-80-89-43-C5-FA-10-87-08-12-00-00-C5-FA-11-87-04-12-00-00-E9-81-D8-93-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>19B1130</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-63-27-6C-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-87-04-12-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo">
+    <Cheatline>
+      <Offset>BCF252</Offset>
+      <Section>0</Section>
+      <ValueOn>41-83-EF-00-90</ValueOn>
+      <ValueOff>44-89-7C-08-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>616B06</Offset>
+      <Section>0</Section>
+      <ValueOn>83-E8-00</ValueOn>
+      <ValueOff>41-89-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Breath">
+    <Cheatline>
+      <Offset>20738F9</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-57-14-C4-C1-7A-11-57-10-E9-4A-85-B7-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BEBE4E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A6-7A-48-01-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-57-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Grappling Hook Stamina">
+    <Cheatline>
+      <Offset>2073817</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-46-40-00-00-20-40-C4-C1-7A-10-46-40-E9-D6-DD-C0-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C815FA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-18-22-3F-01-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-46-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf UV Light">
+    <Cheatline>
+      <Offset>207382A</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-07-00-00-80-3F-C5-FA-10-07-C5-F8-2E-C1-E9-0C-42-B1-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B87A41</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E4-BD-4E-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-07-C5-F8-2E-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Weapon Durability/No Buggy Damage">
+    <Cheatline>
+      <Offset>207383D</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-04-00-00-7A-44-C5-FA-10-43-04-E9-FD-36-5A-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>616F46</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F2-C8-A5-01</ValueOn>
+      <ValueOff>C5-FA-11-43-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Camoufladge When Used">
+    <Cheatline>
+      <Offset>207384E</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-14-00-00-B4-42-C5-FA-10-43-14-E9-26-40-B6-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BD7880</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C9-BF-49-01</ValueOn>
+      <ValueOff>C5-FA-11-43-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf/Dupe Items">
+    <Cheatline>
+      <Offset>616B0B</Offset>
+      <Section>0</Section>
+      <ValueOn>45-89-F6</ValueOn>
+      <ValueOff>45-89-37</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money on Spend">
+    <Cheatline>
+      <Offset>207385F</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-FF-FF-FF-7F-41-89-C7-41-89-46-3C-E9-B0-B1-B5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>BCEA19</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-41-4E-4A-01-90-90</ValueOn>
+      <ValueOff>44-29-F8-41-89-46-3C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Survivor Rank on Gain">
+    <Cheatline>
+      <Offset>20738B7</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-80-84-1E-00-89-88-98-00-00-00-E9-AC-1D-33-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3A566D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-45-E2-CC-01-90</ValueOn>
+      <ValueOff>8B-88-98-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Agility LVL on Gain">
+    <Cheatline>
+      <Offset>20738C7</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-D8-F6-03-00-89-48-38-41-89-4E-48-E9-78-1D-33-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3A5649</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-79-E2-CC-01-90-90</ValueOn>
+      <ValueOff>8B-48-38-41-89-4E-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Power LVL on Gain">
+    <Cheatline>
+      <Offset>20738D8</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-F2-0F-0D-00-89-48-68-41-89-4E-4C-E9-79-1D-33-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3A565B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-78-E2-CC-01-90-90</ValueOn>
+      <ValueOff>8B-48-68-41-89-4E-4C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Legend LVL on Unlock">
+    <Cheatline>
+      <Offset>20738E9</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-B0-B1-0A-2F-89-88-F8-00-00-00-E9-AA-1D-33-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3A569D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-47-E2-CC-01-90</ValueOn>
+      <ValueOff>8B-88-F8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Nitro (DLC)">
+    <Cheatline>
+      <Offset>2073870</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-47-10-00-00-48-43-C5-FA-10-47-10-E9-3C-F7-F0-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F82FB8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B3-08-0F-01</ValueOn>
+      <ValueOff>C5-FA-10-47-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Fuel (DLC)">
+    <Cheatline>
+      <Offset>2073881</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-20-03-00-00-00-00-E0-40-C5-FA-10-83-20-03-00-00-E9-51-AB-EF-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>F6E3E1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9B-54-10-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-20-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Buggy Equipment Usage (DLC)">
+    <Cheatline>
+      <Offset>F8BE44</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-53-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

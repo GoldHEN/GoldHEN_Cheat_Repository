@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mighty Morphin Power Rangers: Rita's Rewind" Moder="Ali-mk" Cusa="CUSA45165" Version="01.09" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>BC32C</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-DF-EB-FE-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Health">
+    <Cheatline>
+      <Offset>845A0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-A1-7A-11-94-30-F4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-Power">
+    <Cheatline>
+      <Offset>846D7</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-8C-08-F8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-lives">
+    <Cheatline>
+      <Offset>A57DB</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-70-E8-FD-FF</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>FDDE6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-65-62-F8-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="one-Hit-Kill">
+    <Cheatline>
+      <Offset>9D08D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-83-54-07-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite-All-Weapon">
+    <Cheatline>
+      <Offset>1017B6</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-04-98</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>101F7E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-04-98</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

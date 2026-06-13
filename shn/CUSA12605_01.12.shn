@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Death Stranding" Moder="Wander FW+5.05" Cusa="CUSA12605" Version="01.12" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>35D31F0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-2E-C8-C7-00-00-00-7A-44-E9-A3-12-1E-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>17B449A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-51-ED-E1-01-90-90-90</ValueOn>
+      <ValueOff>C5-F8-2E-C8-C5-FA-11-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Fast Running">
+    <Cheatline>
+      <Offset>35D3220</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-9C-3C-00-00-00-00-F0-41-C5-FA-10-A8-9C-3C-00-00-E9-AE-ED-2E-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>18C1FDD</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3E-12-D1-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-A8-9C-3C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>1ABED56</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>66-89-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Boot Durability">
+    <Cheatline>
+      <Offset>35D3990</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-85-0C-03-00-00-00-00-7A-44-E9-7F-F4-1E-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>17C2E16</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-75-0B-E1-01-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-8D-0C-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Spray/Ladder/Anchor/ PCC (use)">
+    <Cheatline>
+      <Offset>35D3AA0</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-84-51-0A-01-00-00-64-00-E9-CE-06-29-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1864175</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-26-F9-D6-01-90-90-90</ValueOn>
+      <ValueOff>66-89-84-51-0A-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Air holding working">
+    <Cheatline>
+      <Offset>35D3DA0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-24-34-01-00-00-00-00-7A-44-E9-3D-C2-1E-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>17BFFE4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B7-3D-E1-01-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-34-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Running Stamina">
+    <Cheatline>
+      <Offset>35D3C40</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-24-04-01-00-00-00-00-7A-44-E9-CF-A1-1E-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>17BDE16</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-25-5E-E1-01-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-8C-24-04-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite jump stamina">
+    <Cheatline>
+      <Offset>35D3DD0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-34-01-00-00-00-00-7A-44-E9-5B-5B-38-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1959932</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-99-A4-C7-01-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-80-34-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Water walking Stamina">
+    <Cheatline>
+      <Offset>35D3E20</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-24-34-01-00-00-00-00-7A-44-E9-06-D4-1E-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>17C122D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EE-2B-E1-01-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-34-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="900000 Resins">
+    <Cheatline>
+      <Offset>35D39C0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-38-A0-BB-0D-00-48-8B-50-40-E9-96-54-72-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2CF8E5E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5D-AB-8D-00-90-90-90</ValueOn>
+      <ValueOff>48-89-48-38-48-8B-50-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="900000 Metal">
+    <Cheatline>
+      <Offset>35D39F0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-40-A0-BB-0D-00-48-8B-50-48-E9-84-54-72-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2CF8E7C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6F-AB-8D-00-90-90-90</ValueOn>
+      <ValueOff>48-89-48-40-48-8B-50-48</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="900000 Ceramic">
+    <Cheatline>
+      <Offset>35D3A20</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-48-A0-BB-0D-00-48-8B-50-50-E9-72-54-72-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2CF8E9A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-81-AB-8D-00-90-90-90</ValueOn>
+      <ValueOff>48-89-48-48-48-8B-50-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="900000 Chemicals">
+    <Cheatline>
+      <Offset>35D3A50</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-50-A0-BB-0D-00-48-8B-48-58-E9-60-54-72-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2CF8EB8</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-93-AB-8D-00-90-90-90</ValueOn>
+      <ValueOff>48-89-48-50-48-8B-48-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Special Alloy do not decrease">
+    <Cheatline>
+      <Offset>2CF8ECD</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>48-89-48-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="0 Weight ">
+    <Cheatline>
+      <Offset>35D3A70</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-0C-00-00-00-00-E9-5B-EB-96-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1F425D2</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-99-14-69-01</ValueOn>
+      <ValueOff>C5-FA-11-40-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Chiral Crystals (on pick up)">
+    <Cheatline>
+      <Offset>35D3E50</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-48-CA-C7-40-28-3F-42-0F-00-E9-2D-31-49-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1A66F86</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C5-CE-B6-01-90</ValueOn>
+      <ValueOff>0F-48-CA-89-48-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Cargo Container Damage">
+    <Cheatline>
+      <Offset>35D3AE0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-04-00-00-C8-C2-C5-FA-10-6B-04-E9-E7-1C-25-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8257D3</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-08-E3-DA-02</ValueOn>
+      <ValueOff>C5-FA-10-6B-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Skeleton Battery">
+    <Cheatline>
+      <Offset>35D3B10</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-24-80-28-00-00-00-00-7A-44-E9-CE-AA-2B-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>188E5E5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-26-55-D4-01-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-24-80-28-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Building Durability">
+    <Cheatline>
+      <Offset>35D3B40</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-85-D8-00-00-00-80-96-18-4B-E9-07-60-99-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1F69B4E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-ED-9F-66-01-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-85-D8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

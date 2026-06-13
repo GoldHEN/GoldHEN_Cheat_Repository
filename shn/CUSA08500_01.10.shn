@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="NBA 2K18" Moder="Weysincha" Cusa="CUSA08500" Version="01.10" Process="eboot.bin">
+  <Genres Name="Sports" />
+  <Items />
+  <Cheat Text="Earn skillpoints to add 9.999.999">
+    <Cheatline>
+      <Offset>12C2F62</Offset>
+      <Section>0</Section>
+      <ValueOn>BB-7F-96-98-00-90</ValueOn>
+      <ValueOff>74-18-85-C0-74-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Make All Shots Hold R2">
+    <Cheatline>
+      <Offset>404F800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-B8-88-83-40-00-08-00-00-00-48-8B-00-48-25-00-02-00-00-B8-00-00-00-00-0F-85-3E-71-79-FD-E9-46-70-79-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>17E6864</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-97-8F-86-02</ValueOn>
+      <ValueOff>B8-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1.375x Clock Speed">
+    <Cheatline>
+      <Offset>1AD4A6C</Offset>
+      <Section>0</Section>
+      <ValueOn>48-B8-00-00-B0-3F-09-00-00-00</ValueOn>
+      <ValueOff>48-B8-00-00-80-3F-09-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

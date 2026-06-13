@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Oddworld: Stranger's Wrath HD" Moder="Reddevil82 - FW 9.00" Cusa="CUSA26454" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Mastercode Health ( must be activated )">
+    <Cheatline>
+      <Offset>6CBDF4</Offset>
+      <Section>0</Section>
+      <ValueOn>80-7B-5C-00-75-0F-C5-FA-11-43-08-C5-FA-11-43-08-E9-46-19-A5-FF-C5-FA-11-43-08-C5-FA-11-43-08-E9-37-19-A5-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11D74A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A5-E6-5A-00</ValueOn>
+      <ValueOff>C5-FA-11-43-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>205AA3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-90-A8-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health [MC]">
+    <Cheatline>
+      <Offset>6CBDFA</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-0C</ValueOn>
+      <ValueOff>C5-FA-11-43-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill [MC] ( Disable Anesthetize )">
+    <Cheatline>
+      <Offset>6CBE09</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-57-C0-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>6CBDB0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-53-24-C5-FA-11-53-20-E9-56-18-A5-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11D637</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-74-E7-5A-00</ValueOn>
+      <ValueOff>C5-FA-11-53-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>6CBDE2</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-87-E0-00-00-00-63-8B-87-E0-00-00-00-E9-E2-FC-AC-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>19BAD0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0D-03-53-00-90</ValueOn>
+      <ValueOff>8B-47-38-90-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload ( Weapon )">
+    <Cheatline>
+      <Offset>1BA337</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90</ValueOn>
+      <ValueOff>FF-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Enemies">
+    <Cheatline>
+      <Offset>8433D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-BE-AF-06-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

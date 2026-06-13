@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="MLB 17: The Show" Moder="nolberto82" Cusa="CUSA06387" Version="01.03" Process="eboot.bin">
+  <Genres Name="Sports" />
+  <Items />
+  <Cheat Text="Hold Right-Dpad To Hit Homerun">
+    <Cheatline>
+      <Offset>18C3800</Offset>
+      <Section>0</Section>
+      <ValueOn>45-89-B4-24-04-2F-00-00-48-B8-88-83-40-00-08-00-00-00-48-8B-00-48-83-E0-20-0F-85-34-6A-90-FF-E9-8A-69-90-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>11CA1A6</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-55-96-6F-00-90-90-90</ValueOn>
+      <ValueOff>45-89-B4-24-04-2F-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Warhammer 40,000: Shootas, Blood &amp; Teef" Moder="Celogamez" Cusa="CUSA31022" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Max/Infinite Health">
+    <Cheatline>
+      <Offset>7FC5FDF0</Offset>
+      <Section>0</Section>
+      <ValueOn>80-78-58-01-75-0F-C7-80-EC-01-00-00-00-00-D2-42-E9-19-D0-CC-00-C5-FA-11-80-EC-01-00-00-E9-0C-D0-CC-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8092CE16</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D5-2F-33-FF-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-80-EC-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo/Throwables">
+    <Cheatline>
+      <Offset>7FC5F8B0</Offset>
+      <Section>0</Section>
+      <ValueOn>90-E9-90-E7-1E-02</ValueOn>
+      <ValueOff>00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>81E4E041</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-6A-18-E1-FD</ValueOn>
+      <ValueOff>E8-9A-F9-8E-FE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Max Infinite Rage">
+    <Cheatline>
+      <Offset>7FC5F9A0</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-58-01-00-00-00-00-48-43-E9-DF-A4-E1-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80A79E86</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-15-5B-1E-FF-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-80-58-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Money">
+    <Cheatline>
+      <Offset>7FC5FC50</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-4C-24-F4-C7-40-38-0F-27-00-00-E9-C5-76-B1-00</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8077731E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2D-89-4E-FF-90-90</ValueOn>
+      <ValueOff>8B-4C-24-F4-89-48-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

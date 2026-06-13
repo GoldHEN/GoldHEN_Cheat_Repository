@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Captain Tsubasa: Rise of New Champions" Moder="Reddevil82 - FW 9.00" Cusa="CUSA14889" Version="01.33" Process="eboot.bin">
+  <Genres Name="Sports" />
+  <Items />
+  <Cheat Text="Max Money Points ( on gain )">
+    <Cheatline>
+      <Offset>42DE8A</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-FF-E0-F5-05</ValueOn>
+      <ValueOff>0F-42-C8-85-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Player Skill Points">
+    <Cheatline>
+      <Offset>40FC37</Offset>
+      <Section>0</Section>
+      <ValueOn>89-80-48-AE-01-00</ValueOn>
+      <ValueOff>89-B8-48-AE-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Mastercode Player: V - Zone ( must be activated )">
+    <Cheatline>
+      <Offset>1BEF800</Offset>
+      <Section>0</Section>
+      <ValueOn>48-83-F9-00-75-0E-C5-FA-11-84-11-64-01-00-00-E9-27-2B-9F-FE-48-81-F9-80-01-00-00-75-0E-C5-FA-11-84-11-64-01-00-00-E9-10-2B-9F-FE-C5-FA-11-84-11-64-01-00-00-E9-02-2B-9F-FE-C7-84-11-64-01-00-00-00-00-C8-42-C3-C7-84-11-64-01-00-00-00-00-00-00-C3-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5E2332</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C9-D4-60-01-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-84-11-64-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite V-Zone Player 1 [MC]">
+    <Cheatline>
+      <Offset>1BEF806</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-2E-00-00-00-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-84-11-64-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite V-Zone Player 2 [MC]">
+    <Cheatline>
+      <Offset>1BEF81D</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-17-00-00-00-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-84-11-64-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

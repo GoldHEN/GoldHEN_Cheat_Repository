@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lollipop Chainsaw RePOP" Moder="Saso" Cusa="CUSA48704" Version="01.09" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf HP (Juliet)">
+    <Cheatline>
+      <Offset>525F800</Offset>
+      <Section>0</Section>
+      <ValueOn>83-BD-B8-01-00-00-01-75-37-4D-85-ED-75-32-83-BD-B4-01-00-00-10-75-29-4C-8B-AD-B0-01-00-00-90-41-83-7D-08-48-75-17-41-81-BD-50-01-00-00-03-01-03-00-75-0A-90-41-8B-95-B8-06-00-00-89-16-4D-31-ED-C5-FB-2A-45-DC-E9-DF-D1-72-FD-90-90-90-90-90-90-90-90-90-90-90-90-90-90-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>298CA24</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D7-2D-8D-02</ValueOn>
+      <ValueOff>C5-FB-2A-45-DC</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf HP (Allies) / 1HK (Master Code)">
+    <Cheatline>
+      <Offset>525F98A</Offset>
+      <Section>0</Section>
+      <ValueOn>81-BD-E0-00-00-00-01-00-01-01-75-49-83-BD-DC-00-00-00-10-75-40-41-55-4C-8B-AD-D8-00-00-00-66-41-83-7D-08-08-75-2D-41-81-BD-50-01-00-00-03-01-03-00-74-0D-41-81-BD-50-01-00-00-03-01-01-00-75-13-41-83-BD-F3-08-00-00-01-75-09-41-8B-95-2C-0C-00-00-89-16-41-5D-49-8B-06-4C-89-F7-E9-96-5A-5A-FB-BA-01-00-00-00-EB-EA-90-90-90-90-90-90-90-90-90-90-90-90-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80547A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0B-A5-A5-04-90</ValueOn>
+      <ValueOff>49-8B-06-4C-89-F7</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="1 Hit Kill (MC)">
+    <Cheatline>
+      <Offset>525F9D2</Offset>
+      <Section>0</Section>
+      <ValueOn>75-16</ValueOn>
+      <ValueOff>75-09</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Star Time  (Unlimited Use) / Bullets">
+    <Cheatline>
+      <Offset>4E5F85B</Offset>
+      <Section>0</Section>
+      <ValueOn>49-63-47-44-48-3D-0C-2F-00-00-74-08-48-3D-0C-18-00-00-75-19-83-7B-08-48-75-13-81-BB-50-01-00-00-03-01-03-00-75-07-C7-04-03-63-00-00-00-48-01-D8-E9-B5-2E-5A-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>40273E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-18-D1-A5-04-90-90</ValueOn>
+      <ValueOff>49-63-47-44-48-01-D8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Platinum Medals (99) / On Spend">
+    <Cheatline>
+      <Offset>525F970</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BE-63-00-00-00-E9-B5-BE-FB-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>321B82B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-40-41-04-02</ValueOn>
+      <ValueOff>C4-62-68-F2-F1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Gold Medals (9999) /On Spend">
+    <Cheatline>
+      <Offset>525F97D</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BE-0F-27-00-00-E9-C8-BB-FB-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>321B54B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2D-44-04-02</ValueOn>
+      <ValueOff>C4-62-68-F2-F1</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

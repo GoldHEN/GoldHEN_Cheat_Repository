@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Marvel's Spider-Man" Moder="Weysincha" Cusa="CUSA11993" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite HP">
+    <Cheatline>
+      <Offset>3A9FB05</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7B-38-09-75-0A-90-90-90-90-90-E9-94-6F-CE-FD-C5-FA-11-53-70-E9-8A-6F-CE-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1786AA4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5C-90-31-02</ValueOn>
+      <ValueOff>C5-FA-11-53-70</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Focus">
+    <Cheatline>
+      <Offset>4FC17F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-A4-C3-10-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3A9FB5D</Offset>
+      <Section>0</Section>
+      <ValueOn>66-9C-50-48-C7-C0-00-00-C8-42-66-0F-6E-D8-58-C5-FA-11-9C-F3-10-01-00-00-66-9D-E9-95-C5-A5-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4FC108</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-50-3A-5A-03-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-9C-F3-10-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Skill Points">
+    <Cheatline>
+      <Offset>3A9FAF0</Offset>
+      <Section>0</Section>
+      <ValueOn>66-9C-B8-28-00-00-00-41-89-87-50-B8-00-00-66-9D-E9-40-F8-6B-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15F33E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AD-07-94-03-90-90</ValueOn>
+      <ValueOff>41-29-87-50-B8-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ressource/Web Shooter" Description="After receiving the 2 Resource">
+    <Cheatline>
+      <Offset>3A9FB1F</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-DE-44-89-E9-41-BC-63-00-00-00-E9-AD-03-CC-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>175FED7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-43-FC-33-02-90</ValueOn>
+      <ValueOff>48-89-DE-44-89-E9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="MAX LVL/EXP" Description="Go to player menu press R1  go out and back in">
+    <Cheatline>
+      <Offset>3A9FB30</Offset>
+      <Section>0</Section>
+      <ValueOn>45-8B-B4-24-48-B8-00-00-50-48-C7-C0-40-CE-EC-04-C7-00-3F-42-0F-00-58-E9-8D-EC-6B-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>15E7D1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5A-13-94-03-90-90-90</ValueOn>
+      <ValueOff>45-8B-B4-24-48-B8-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="99 x Combo">
+    <Cheatline>
+      <Offset>3A9FB4C</Offset>
+      <Section>0</Section>
+      <ValueOn>83-F8-22-B9-63-00-00-00-41-89-4E-58-E9-EB-F4-A1-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4BF041</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-06-0B-5E-03-90-90</ValueOn>
+      <ValueOff>83-F8-22-41-89-4E-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

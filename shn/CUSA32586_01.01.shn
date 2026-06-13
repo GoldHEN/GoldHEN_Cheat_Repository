@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wonder Boy Anniversary Collection" Moder="Wander FW9.00" Cusa="CUSA32586" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Master code" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Offset>502050</Offset>
+      <Section>0</Section>
+      <ValueOn>41-53-4C-8D-1C-07-49-81-FB-36-B6-7A-03-0F-84-AA-00-00-00-49-81-FB-BC-AA-7A-03-0F-84-9D-00-00-00-49-81-FB-B8-AA-7A-03-0F-84-90-00-00-00-49-81-FB-7D-B9-7A-03-0F-84-83-00-00-00-49-81-FB-7B-B9-7A-03-74-7A-49-81-FB-79-B9-7A-03-74-71-49-81-FB-77-B9-7A-03-74-68-49-81-FB-BD-1B-31-03-74-5F-49-81-FB-99-AB-7A-03-74-56-49-81-FB-2D-AB-7A-03-74-4D-49-81-FB-52-B9-7A-03-74-44-49-81-FB-86-53-31-03-74-3B-EB-39-40-B6-0C-EB-34-40-B6-14-EB-2F-66-83-C6-03-EB-29-40-B6-07-EB-24-40-B6-08-EB-1F-40-B6-05-EB-1A-40-B6-08-EB-15-40-B6-0A-EB-10-40-B6-01-EB-0B-40-B6-05-EB-06-66-BE-E0-04-EB-00-41-5B-40-88-34-07-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>16588E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BD-C7-39-00</ValueOn>
+      <ValueOff>40-88-34-07-C3</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="wonder boy in monster land Infinite Health" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Offset>50206A</Offset>
+      <Section>0</Section>
+      <ValueOn>74-6D-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-9D-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="wonder boy in monster land Infinite bomb" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Offset>502084</Offset>
+      <Section>0</Section>
+      <ValueOn>74-5E-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-83-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="wonder boy in monster land Infinite Turnado" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Offset>502091</Offset>
+      <Section>0</Section>
+      <ValueOn>74-56</ValueOn>
+      <ValueOff>74-7A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="wonder boy in monster land Infinite Fire ball" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Offset>5020A3</Offset>
+      <Section>0</Section>
+      <ValueOn>74-49</ValueOn>
+      <ValueOff>74-68</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="wonder boy in monster land Infinite Thunder" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Offset>50209A</Offset>
+      <Section>0</Section>
+      <ValueOn>74-57</ValueOn>
+      <ValueOff>74-71</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Wonder Boy Infinite Health" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Offset>50205D</Offset>
+      <Section>0</Section>
+      <ValueOn>74-75-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-AA-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Wonder Boy Infinite Lives" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Offset>5020BE</Offset>
+      <Section>0</Section>
+      <ValueOn>74-42</ValueOn>
+      <ValueOff>74-4D</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Master Code for Monster Lair/monster world III/IV" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Offset>5031A0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-53-4C-8D-1C-08-49-81-FB-00-65-31-03-74-45-90-90-90-90-90-90-49-81-FB-77-65-31-03-74-36-49-81-FB-7D-65-31-03-74-2D-49-81-FB-86-53-31-03-74-24-49-81-FB-BD-1B-31-03-74-1B-EB-19-41-B6-03-EB-14-41-B6-03-EB-0F-41-B6-0A-EB-0A-41-B6-03-EB-05-41-B6-0A-EB-00-41-5B-44-88-34-08-5B-E9-97-B7-C4-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>14E992</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-09-48-3B-00</ValueOn>
+      <ValueOff>44-88-34-08-5B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="WonderBoy Monster Lair Infinite Health" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Offset>5031D7</Offset>
+      <Section>0</Section>
+      <ValueOn>74-0C</ValueOn>
+      <ValueOff>74-1B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Monster Lair Infinite Lives" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Offset>5031CE</Offset>
+      <Section>0</Section>
+      <ValueOn>74-0B</ValueOn>
+      <ValueOff>74-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Wonder Boy in Monster World III Infinite health" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Offset>5031AD</Offset>
+      <Section>0</Section>
+      <ValueOn>74-3B</ValueOn>
+      <ValueOff>74-45</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Wonder boy in Monster World IV Max Crystals" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Offset>5031C5</Offset>
+      <Section>0</Section>
+      <ValueOn>74-28</ValueOn>
+      <ValueOff>74-2D</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Wonder Boy in Monster World IV infinite Health" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Offset>5031BC</Offset>
+      <Section>0</Section>
+      <ValueOn>74-22</ValueOn>
+      <ValueOff>74-36</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Monster World II Infinite health (No need a Master Code)" Description="What/how/when is this Cheat: Change me!">
+    <Cheatline>
+      <Offset>502D40</Offset>
+      <Section>0</Section>
+      <ValueOn>41-53-4C-8D-1C-08-49-81-FB-52-B9-7A-03-41-5B-75-0C-40-B6-A0-40-88-34-08-E9-2A-2C-C6-FF-40-88-34-08-0F-B7-F6-E9-1E-2C-C6-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>165980</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BB-D3-39-00-90-90</ValueOn>
+      <ValueOff>40-88-34-08-0F-B7-F6</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

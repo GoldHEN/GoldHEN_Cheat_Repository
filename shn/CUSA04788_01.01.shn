@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Marvel: Ultimate Alliance 2" Moder="Reddevil82 - FW 9.00" Cusa="CUSA04788" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>F0B887</Offset>
+      <Section>0</Section>
+      <ValueOn>83-7B-28-01-74-1F-83-7B-28-02-74-19-83-7B-28-03-74-13-83-7B-28-04-74-0D-C5-FA-10-83-28-06-00-00-E9-7B-4D-AC-FF-C5-FA-10-83-30-06-00-00-C5-FA-11-83-28-06-00-00-C5-FA-10-83-28-06-00-00-E9-5E-4D-AC-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>9D061F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-63-B2-53-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-83-28-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Energy">
+    <Cheatline>
+      <Offset>F0B800</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-83-40-06-00-00-C5-FA-11-83-38-06-00-00-C5-FA-10-8B-38-06-00-00-E9-59-C0-8C-FF-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7D786E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-8D-3F-73-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-8B-38-06-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Fusion">
+    <Cheatline>
+      <Offset>F0B833</Offset>
+      <Section>0</Section>
+      <ValueOn>48-8B-41-10-C7-40-38-64-00-00-00-3B-58-38-E9-EE-79-54-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>45322D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-01-86-AB-00-90-90</ValueOn>
+      <ValueOff>48-8B-41-10-3B-58-38</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Power Points">
+    <Cheatline>
+      <Offset>F0B848</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-C7-45-08-0F-27-49-0F-BF-75-08-E9-AE-D2-53-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>448B02</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-41-2D-AC-00</ValueOn>
+      <ValueOff>49-0F-BF-75-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Ability Points">
+    <Cheatline>
+      <Offset>F0B85B</Offset>
+      <Section>0</Section>
+      <ValueOn>E8-C0-5B-1B-FF-41-C7-46-0C-3F-42-0F-00-49-63-76-0C-E9-AB-D5-53-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>448E17</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3F-2A-AC-00</ValueOn>
+      <ValueOff>E8-04-86-C7-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP">
+    <Cheatline>
+      <Offset>F0B873</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FC-11-47-40-C3-C7-47-20-21-CF-55-00-E9-3B-1E-C0-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>B0D6BA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B4-E1-3F-00</ValueOn>
+      <ValueOff>C5-FC-11-47-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

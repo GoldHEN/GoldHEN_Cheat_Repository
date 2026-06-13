@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Pocky &amp; Rocky Reshrined" Moder="fbin" Cusa="CUSA28937" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Vida Infinita">
+    <Cheatline>
+      <Offset>3CFC73</Offset>
+      <Section>14</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>41-89-46-18</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="999 Vidas">
+    <Cheatline>
+      <Offset>198BF30</Offset>
+      <Section>0</Section>
+      <ValueOn>83-F9-0A-41-C7-46-24-E7-03-00-00-E9-C8-7B-CF-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>80683B01</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-2A-84-30-81-90-90</ValueOn>
+      <ValueOff>83-F9-0A-41-89-4E-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Dinheiro Infinito">
+    <Cheatline>
+      <Offset>198BFC0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-03-5E-40-41-C7-46-40-3F-42-0F-00-E9-1B-84-CF-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>806843E4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D7-7B-30-81-90-90-90</ValueOn>
+      <ValueOff>41-03-5E-40-41-89-5E-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tempo Infinito">
+    <Cheatline>
+      <Offset>E7152C</Offset>
+      <Section>14</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-80-A0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Poder Especial Infinito">
+    <Cheatline>
+      <Offset>B4AB39</Offset>
+      <Section>14</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-70-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

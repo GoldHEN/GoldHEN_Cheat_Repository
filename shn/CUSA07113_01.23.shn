@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Nioh" Moder="Wander FW9.00" Cusa="CUSA07113" Version="01.23" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health (can receive damage from falling or fire)">
+    <Cheatline>
+      <Offset>14473F0</Offset>
+      <Section>0</Section>
+      <ValueOn>48-39-C8-49-83-FB-01-75-0B-90-90-C7-43-10-0F-27-00-00-EB-04-48-89-4B-10-E9-1F-55-D5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>19C925</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C6-AA-2A-01-90-90</ValueOn>
+      <ValueOff>48-39-C8-48-89-4B-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>1447920</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-47-04-C5-FA-11-07-C5-FA-58-47-10-E9-76-6E-D5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>19E7A4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-77-91-2A-01</ValueOn>
+      <ValueOff>C5-FA-58-47-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="2 Hits kill (can die from walking into Fire)">
+    <Cheatline>
+      <Offset>1446CE0</Offset>
+      <Section>0</Section>
+      <ValueOn>48-39-C8-49-83-FB-01-75-09-C7-43-10-0F-27-00-00-EB-0B-48-C7-C1-00-00-00-00-48-89-4B-10-E9-2A-5C-D5-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>19C925</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B6-A3-2A-01-90-90</ValueOn>
+      <ValueOff>48-39-C8-48-89-4B-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Amrita (on spend)">
+    <Cheatline>
+      <Offset>1447C70</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-08-FF-E3-0B-54-C6-03-01-E9-F9-22-1F-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>639F72</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F9-DC-E0-00-90</ValueOn>
+      <ValueOff>89-43-08-C6-03-01</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="99 Items (on use)">
+    <Cheatline>
+      <Offset>1447C20</Offset>
+      <Section>0</Section>
+      <ValueOn>42-C6-84-2E-18-02-00-00-63-E9-08-83-EA-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2EFF2D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EE-7C-15-01-90-90-90-90</ValueOn>
+      <ValueOff>66-42-89-84-2E-18-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

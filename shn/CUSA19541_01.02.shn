@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Asterix &amp; Obelix XXL: Romastered" Moder="fbin" Cusa="CUSA19541" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Vida Infinita">
+    <Cheatline>
+      <Offset>8B251A</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>88-48-54</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Elixir Magico Infinito">
+    <Cheatline>
+      <Offset>1007E60</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-AC-00-00-00-00-00-A0-41-E9-93-03-7E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7E81FA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-61-FC-81-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-80-AC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Capacetes Infinito">
+    <Cheatline>
+      <Offset>1044CA0</Offset>
+      <Section>0</Section>
+      <ValueOn>81-FE-9F-86-01-00-C7-47-78-9F-86-01-00-E9-F7-30-7A-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7E7DA0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FB-CE-85-00-90-90-90-90</ValueOn>
+      <ValueOff>81-FE-9F-86-01-00-89-77-78</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1000000</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-AC-00-00-00-0F-27-00-00-E9-8E-07-7E-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7E0797</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-64-F8-81-00-90</ValueOn>
+      <ValueOff>89-83-AC-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Coroa Romana Infinita">
+    <Cheatline>
+      <Offset>1019AB0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-B6-C8-C7-44-0A-58-E7-03-00-00-E9-6D-3A-7D-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7ED526</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-85-C5-82-00-90-90</ValueOn>
+      <ValueOff>0F-B6-C8-FE-44-0A-58</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Tocha de Fogo Infinita">
+    <Cheatline>
+      <Offset>679958</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-80-E4-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

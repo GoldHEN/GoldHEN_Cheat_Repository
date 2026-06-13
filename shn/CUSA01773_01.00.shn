@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Zombie Army Trilogy" Moder="Rizla" Cusa="CUSA01773" Version="01.00" Process="eboot.bin">
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>90F89F</Offset>
+      <Section>0</Section>
+      <ValueOn>42-C7-44-28-40-F0-23-74-49-C4-A1-7A-10-44-28-40-C4-A1-7A-11-44-28-3C-E9-B5-4B-B3-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>444469</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-31-B4-4C-00-90-90</ValueOn>
+      <ValueOff>C4-A1-78-2E-44-28-3C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill">
+    <Cheatline>
+      <Offset>90F813</Offset>
+      <Section>0</Section>
+      <ValueOn>42-C7-44-28-3C-0A-D7-23-3C-C4-A1-7A-10-44-28-3C-E9-B6-35-B3-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>442DD7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-37-CA-4C-00-90-90</ValueOn>
+      <ValueOff>C4-A1-78-2E-44-28-3C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>4F2AA3</Offset>
+      <Section>0</Section>
+      <ValueOn>01-F1</ValueOn>
+      <ValueOff>29-F1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Reload">
+    <Cheatline>
+      <Offset>90F828</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-87-C0-01-00-00-89-87-BC-01-00-00-E9-FA-D3-BD-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4ECC2D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F6-2B-42-00-90</ValueOn>
+      <ValueOff>89-87-BC-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Equipment">
+    <Cheatline>
+      <Offset>90F839</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-77-48-89-77-44-E9-05-8B-BE-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4F8344</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F0-74-41-00</ValueOn>
+      <ValueOff>75-03-89-77-44</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Focus">
+    <Cheatline>
+      <Offset>90F844</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-10-00-00-70-42-C5-FA-10-4B-10-E9-FA-D1-A3-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>34CA4A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F5-2D-5C-00</ValueOn>
+      <ValueOff>C5-FA-11-4B-10</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>90F855</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-10-00-00-70-42-C5-FA-10-43-10-E9-3A-CE-A3-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>34C69B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B5-31-5C-00</ValueOn>
+      <ValueOff>C5-FA-11-43-10</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>90F866</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-10-00-00-70-42-C5-FA-10-4B-10-E9-C7-D0-A3-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>34C939</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-28-2F-5C-00</ValueOn>
+      <ValueOff>C5-FA-11-4B-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Spread">
+    <Cheatline>
+      <Offset>90F877</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-06-00-00-00-00-C4-C1-7A-10-06-E9-B5-CC-BC-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4DC538</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3A-33-43-00</ValueOn>
+      <ValueOff>C4-C1-7A-11-06</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>90F888</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-80-01-00-00-00-00-00-00-C5-FA-10-83-80-01-00-00-E9-89-EA-BC-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4DE320</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-63-15-43-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-80-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

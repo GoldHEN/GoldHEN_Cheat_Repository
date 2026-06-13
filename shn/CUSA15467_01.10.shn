@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mount &amp; Blade II: Bannerlord" Moder="DJFlameDat" Cusa="CUSA15467" Version="01.10" Process="eboot.bin">
+  <Genres Name="Strategy" />
+  <Items />
+  <Cheat Text="Inf HP + OHK">
+    <Cheatline>
+      <Offset>AC1B8AA</Offset>
+      <Section>0</Section>
+      <ValueOn>83-BB-50-02-00-00-00-75-15-F3-0F-10-8B-68-02-00-00-F3-0F-11-8B-9C-01-00-00-E9-A6-D9-6F-F9-C7-83-9C-01-00-00-00-00-00-00-E9-97-D9-6F-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>4319266</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3F-26-90-06-90-90-90</ValueOn>
+      <ValueOff>F3-0F-11-8B-9C-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Focus Points (Use a Point Once, Press Square and deactive after)">
+    <Cheatline>
+      <Offset>AC1B868</Offset>
+      <Section>0</Section>
+      <ValueOn>81-53-38-E7-03-00-00-5B-E9-9B-99-7E-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>340520B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-58-66-81-07</ValueOn>
+      <ValueOff>83-53-38-FF-5B</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Gold Coins (On Buy)">
+    <Cheatline>
+      <Offset>AC1B8D9</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-24-00-02-00-00-00-65-CD-1D-E9-33-E4-9D-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>35F9D15</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BF-1B-62-07-90-90-90</ValueOn>
+      <ValueOff>41-89-B4-24-00-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Hit Points">
+    <Cheatline>
+      <Offset>AC1B822</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-86-C4-01-00-00-64-00-00-00-E9-35-88-59-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>31B4060</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BD-77-A6-07-90-90</ValueOn>
+      <ValueOff>41-89-AE-C4-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Smith Materials (On Convert/Used)">
+    <Cheatline>
+      <Offset>AC1B888</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-01-E7-03-00-00-48-83-C4-08-E9-06-7B-04-F9</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3C63397</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EC-84-FB-06-90</ValueOn>
+      <ValueOff>89-31-48-83-C4-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Smithing Stam (On Smelt)">
+    <Cheatline>
+      <Offset>AC1B90F</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-10-F4-01-00-00-4D-85-ED-E9-76-BF-87-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>349788E</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7C-40-78-07-90</ValueOn>
+      <ValueOff>89-68-10-4D-85-ED</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Smithing Stam (On Forge)">
+    <Cheatline>
+      <Offset>AC1B8FE</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-10-F4-01-00-00-4D-85-ED-E9-B7-C3-87-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3497CBE</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3B-3C-78-07-90</ValueOn>
+      <ValueOff>89-68-10-4D-85-ED</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Smithing Stam(On Refine)">
+    <Cheatline>
+      <Offset>AC1B8EC</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-10-F4-01-00-00-48-83-C4-78-E9-4C-BC-87-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3497541</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A6-43-78-07-90-90</ValueOn>
+      <ValueOff>89-68-10-48-83-C4-78</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Add Troops (Go to Party and transfer a Troop)">
+    <Cheatline>
+      <Offset>AC1B899</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-01-96-00-00-00-48-83-C4-08-E9-B5-58-72-F8</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3341157</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-3D-A7-8D-07-90</ValueOn>
+      <ValueOff>89-31-48-83-C4-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

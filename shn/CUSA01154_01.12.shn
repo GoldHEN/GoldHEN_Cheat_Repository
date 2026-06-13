@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Metal Gear Solid V: The Phantom Pain" Moder="Weysincha" Cusa="CUSA01154" Version="01.12" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Godmode">
+    <Cheatline>
+      <Offset>10F2EFF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>29C0759</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-89-34-42</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Suppressor">
+    <Cheatline>
+      <Offset>29C0407</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>88-4C-42-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Money">
+    <Cheatline>
+      <Offset>273A050</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-1E</ValueOn>
+      <ValueOff>41-89-1E</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

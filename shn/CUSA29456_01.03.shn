@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="United Assault: Normandy '44" Moder="Saso_9.00" Cusa="CUSA29456" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Inf Health / Stamina /Ammo (Master Code)">
+    <Cheatline>
+      <Offset>56FB800</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-FF-00-75-14-41-81-3E-08-E2-0A-06-75-0B-41-83-7B-5C-11-75-10-8B-44-24-34-41-89-03-49-83-C3-04-E9-4B-4A-77-FB-41-83-7B-58-11-74-E9-EB-EB-90-41-81-7B-F4-00-00-34-42-75-E0-90-EB-E0</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E7026A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-91-B5-88-04-90-90</ValueOn>
+      <ValueOff>41-89-03-49-83-C3-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Ammo(No reload) / Grenades / Explosive (MC)">
+    <Cheatline>
+      <Offset>56FB82D</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-01</ValueOn>
+      <ValueOff>EB-EB</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Player Speed (Master Code)">
+    <Cheatline>
+      <Offset>56FB83F</Offset>
+      <Section>0</Section>
+      <ValueOn>40-08-F1-41-88-0C-07-4D-39-D0-0F-85-39-6C-7C-FB-41-83-7F-6F-11-74-05-E9-2D-6C-7C-FB-41-C6-47-06-43-E9-23-6C-7C-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>EC2481</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B9-93-83-04-90-90</ValueOn>
+      <ValueOff>40-08-F1-41-88-0C-07</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="x2 Speed (MC)">
+    <Cheatline>
+      <Offset>56FB85B</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C6-47-06-45</ValueOn>
+      <ValueOff>41-C6-47-06-43</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Normal Speed (MC)">
+    <Cheatline>
+      <Offset>56FB85B</Offset>
+      <Section>1</Section>
+      <ValueOn>41-C6-47-06-43</ValueOn>
+      <ValueOff>41-C6-47-06-47</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

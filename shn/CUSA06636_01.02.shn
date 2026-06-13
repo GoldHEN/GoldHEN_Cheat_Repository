@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="SYNDROME" Moder="Vampirexx" Cusa="CUSA06636" Version="01.02" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="FPS" />
+  <Genres Name="Horror" />
+  <Items />
+  <Cheat Text="God Mode" Description="God Mode1">
+    <Cheatline>
+      <Offset>812620</Offset>
+      <Section>16</Section>
+      <ValueOn>41-8B-87-F4-08-00-00</ValueOn>
+      <ValueOff>41-89-87-F4-08-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>814557</Offset>
+      <Section>16</Section>
+      <ValueOn>41-8B-87-F4-08-00-00</ValueOn>
+      <ValueOff>41-89-87-F4-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Stamina" Description="Inf Stamina">
+    <Cheatline>
+      <Offset>39CF7E</Offset>
+      <Section>16</Section>
+      <ValueOn>F3-45-0F-10-BF-28-01-00-00</ValueOn>
+      <ValueOff>F3-45-0F-11-BF-28-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo Gun" Description="Inf Ammo Gun">
+    <Cheatline>
+      <Offset>3B5789</Offset>
+      <Section>16</Section>
+      <ValueOn>41-8B-86-4C-02-00-00</ValueOn>
+      <ValueOff>41-89-86-40-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo ShotGun" Description="Inf Ammo ShotGun">
+    <Cheatline>
+      <Offset>81C22B</Offset>
+      <Section>16</Section>
+      <ValueOn>41-8B-86-44-09-00-00</ValueOn>
+      <ValueOff>41-89-86-44-09-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Ammo Bazooka" Description="Inf Ammo Bazooka">
+    <Cheatline>
+      <Offset>81C351</Offset>
+      <Section>16</Section>
+      <ValueOn>41-8B-86-2C-09-00-00</ValueOn>
+      <ValueOff>41-89-86-2C-09-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

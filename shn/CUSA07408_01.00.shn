@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="God of War (2018)" Moder="Rizla" Cusa="CUSA07408" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>E07852</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-78-03-00-00-00-00-6E-43-C5-FA-10-90-78-03-00-00-E9-E8-55-57-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>37CE49</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-04-AA-A8-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-90-78-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Rage">
+    <Cheatline>
+      <Offset>E07841</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-20-00-C0-79-44-C5-FA-10-43-20-E9-8A-AA-AA-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8B22D7</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-65-55-55-00</ValueOn>
+      <ValueOff>C5-F2-58-43-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Arrows">
+    <Cheatline>
+      <Offset>5614DA</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-5C-C8</ValueOn>
+      <ValueOff>C5-FA-5C-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max XP/Hacksilver/Resources">
+    <Cheatline>
+      <Offset>E0781B</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-44-36-30-FF-C9-9A-3B-41-8B-44-36-30-E9-C8-CC-A9-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8A44F0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-26-33-56-00-90</ValueOn>
+      <ValueOff>41-83-7C-36-30-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Stats/Rank on Item Change">
+    <Cheatline>
+      <Offset>E07800</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-84-82-C0-4C-00-00-00-80-A2-43-C4-C1-7A-10-84-82-C0-4C-00-00-E9-E9-26-B1-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>919EFA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-01-D9-4E-00-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-84-82-C0-4C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Items Usage Timer">
+    <Cheatline>
+      <Offset>8F1466</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-5C-05-12-3A-56-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Instant Kill Enemies">
+    <Cheatline>
+      <Offset>E0782E</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-46-20-00-00-00-00-C4-C1-7A-10-46-20-E9-0F-9C-75-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>56144A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-DF-63-8A-00-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-46-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

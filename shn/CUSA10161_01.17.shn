@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="IMMORTAL: UNCHAINED" Moder="Saso_9.00" Cusa="CUSA10161" Version="01.17" Process="eboot.bin">
+  <Genres Name="FPS" />
+  <Items />
+  <Cheat Text="Health / All (Master Code)">
+    <Cheatline>
+      <Offset>1D77800</Offset>
+      <Section>0</Section>
+      <ValueOn>49-83-F9-00-75-26-81-78-18-5F-64-61-6D-75-1D-41-51-49-B9-00-00-00-00-00-80-FD-FF-4D-33-4A-F0-74-15-41-83-39-00-41-59-75-03-4D-31-DB-4D-89-1A-8B-03-E9-89-63-4C-FF-41-59-EB-F2-48-83-F9-01-75-3F-49-83-FD-00-75-E6-41-81-7A-0C-02-80-FD-FF-75-DC-41-55-49-BD-00-00-00-00-00-80-FD-FF-4D-33-6A-08-74-19-49-39-C5-75-14-41-81-7D-1A-65-72-67-79-74-43-41-81-7D-21-61-6D-6D-6F-74-39-41-5D-EB-AD-41-81-7A-0C-02-80-FD-FF-75-A3-41-55-49-BD-00-00-00-00-00-80-FD-FF-4D-33-6A-08-74-E0-49-39-C5-75-DB-41-81-7D-1A-68-61-72-67-74-0A-41-81-7D-18-73-74-61-6D-75-C7-41-5D-8B-03-E9-02-63-4C-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>123DBBA</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-41-9C-B3-00</ValueOn>
+      <ValueOff>4D-89-1A-8B-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Ammo / Stamina / Energy / Consumable (MC)">
+    <Cheatline>
+      <Offset>1D77804</Offset>
+      <Section>0</Section>
+      <ValueOn>75-34</ValueOn>
+      <ValueOff>75-26</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

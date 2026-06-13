@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dragon Ball: Xenoverse" Moder="Rizla" Cusa="CUSA01341" Version="01.07" Process="eboot.bin">
+  <Genres Name="Fighting" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="MasterCode1">
+    <Cheatline>
+      <Offset>439387F</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-87-30-01-00-00-C4-C1-7A-11-87-30-01-00-00-C4-C1-7A-10-87-D0-00-00-00-C4-C1-7A-11-87-D0-00-00-00-C4-C1-7A-10-87-C4-00-00-00-C4-C1-7A-11-87-C4-00-00-00-E9-72-BD-CC-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>5F623</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-57-42-33-04-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-87-C4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="MasterCode2">
+    <Cheatline>
+      <Offset>43938BA</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-81-30-01-00-00-C5-FA-11-81-30-01-00-00-C5-FA-10-81-D0-00-00-00-C5-FA-11-81-D0-00-00-00-C5-FA-10-81-C4-00-00-00-C5-FA-11-81-C4-00-00-00-E9-D8-6B-02-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3BA4BF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F6-93-FD-03-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-81-C4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Zeni on Buy/Sell">
+    <Cheatline>
+      <Offset>4393800</Offset>
+      <Section>0</Section>
+      <ValueOn>B9-FF-C9-9A-3B-89-4F-20-29-C1-E9-0D-7B-05-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3EB317</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E4-84-FA-03</ValueOn>
+      <ValueOff>89-4F-20-29-C1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Points on Spend">
+    <Cheatline>
+      <Offset>439380F</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-E8-03-00-00-89-77-0C-89-F1-E9-97-14-05-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3E4CB0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5A-EB-FA-03</ValueOn>
+      <ValueOff>89-77-0C-89-F1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max LVL/EXP on Gain">
+    <Cheatline>
+      <Offset>439381E</Offset>
+      <Section>0</Section>
+      <ValueOn>BE-FF-C9-9A-3B-89-77-08-89-F1-E9-58-14-05-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3E4C80</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-99-EB-FA-03</ValueOn>
+      <ValueOff>89-77-08-89-F1</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Items on Buy When Refreshed">
+    <Cheatline>
+      <Offset>4393870</Offset>
+      <Section>0</Section>
+      <ValueOn>B8-63-00-00-00-89-46-18-85-C9-E9-73-29-05-FC</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>3E61ED</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7E-D6-FA-03</ValueOn>
+      <ValueOff>8B-46-18-85-C9</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>43938A3</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-87-C8-00-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-10-87-C4-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>43938DA</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-81-C8-00-00-00</ValueOn>
+      <ValueOff>C5-FA-10-81-C4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite KI">
+    <Cheatline>
+      <Offset>4393891</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-87-D4-00-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-10-87-D0-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>43938CA</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-81-D4-00-00-00</ValueOn>
+      <ValueOff>C5-FA-10-81-D0-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Stamina">
+    <Cheatline>
+      <Offset>439387F</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-87-34-01-00-00</ValueOn>
+      <ValueOff>C4-C1-7A-10-87-30-01-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>43938BA</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-81-34-01-00-00</ValueOn>
+      <ValueOff>C5-FA-10-81-30-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Timer">
+    <Cheatline>
+      <Offset>21B1BE</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-03</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

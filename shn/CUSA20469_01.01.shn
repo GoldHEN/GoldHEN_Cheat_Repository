@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Cuphead" Moder="B2" Cusa="CUSA20469" Version="01.01" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Adventure" />
+  <Genres Name="Shooter" />
+  <Genres Name="Platform" />
+  <Items />
+  <Cheat Text="Infinite health">
+    <Cheatline>
+      <Offset>42A3BD</Offset>
+      <Section>14</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>FF-4B-6C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Special">
+    <Cheatline>
+      <Offset>1583C10</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-40-74-00-00-48-42-C5-FA-10-40-74-E9-F0-09-1B-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>8073460C</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-FF-F5-E4-80</ValueOn>
+      <ValueOff>C5-FA-11-40-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Gold">
+    <Cheatline>
+      <Offset>1583C80</Offset>
+      <Section>0</Section>
+      <ValueOn>29-C8-B8-32-00-00-00-41-89-46-10-E9-0A-B2-14-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>806CEE94</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E7-4D-EB-80-90</ValueOn>
+      <ValueOff>29-C8-41-89-46-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf HP">
+    <Cheatline>
+      <Offset>1583B00</Offset>
+      <Section>0</Section>
+      <ValueOn>45-8B-66-68-45-89-66-6C-E9-06-DD-14-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>41980B</Offset>
+      <Section>16</Section>
+      <ValueOn>E9-F0-22-EB-80-90-90-90</ValueOn>
+      <ValueOff>44-0F-49-E3-45-89-66-6C</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Extra Special (On Use)">
+    <Cheatline>
+      <Offset>47E8F1</Offset>
+      <Section>16</Section>
+      <ValueOn>C7-40-74-00-00-48-42-E9-14-DD-FF-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>47C60C</Offset>
+      <Section>16</Section>
+      <ValueOn>E9-E0-22-00-00</ValueOn>
+      <ValueOff>C5-FA-11-40-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Plane Extra Special (On Use)">
+    <Cheatline>
+      <Offset>1584000</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-43-74-00-00-48-42-E9-13-ED-14-7F</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>41AD1A</Offset>
+      <Section>16</Section>
+      <ValueOn>E9-E1-12-EB-80</ValueOn>
+      <ValueOff>C5-FA-11-43-74</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Gold (Enter The Store To Activate)">
+    <Cheatline>
+      <Offset>1583AA0</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-84-29-D3-EF-7E-C7-40-10-28-00-00-00-48-63-58-10-E9-EC-CF-EF-7E</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1C8A98</Offset>
+      <Section>16</Section>
+      <ValueOn>E9-03-30-10-81-90-90-90-90-90</ValueOn>
+      <ValueOff>0F-84-37-03-00-00-48-63-58-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ark: Survival Evolved" Moder="DeathRGH" Cusa="CUSA06782" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Infinite Status Values ">
+    <Cheatline>
+      <Offset>FA294</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-81-7A-11-8C-BD-20-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Multiply Status Value x10 On Upgrade">
+    <Cheatline>
+      <Offset>FF1F4</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-81-7A-59-84-BD-08-01-00-00</ValueOn>
+      <ValueOff>C4-81-7A-58-84-BD-08-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>									

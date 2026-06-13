@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mitsurugi Kamui Hikae" Moder="Vampirexx" Cusa="CUSA02166" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Arcade" />
+  <Genres Name="Fighting" />
+  <Items />
+  <Cheat Text="Max Combo" Description="Max Combo">
+    <Cheatline>
+      <Offset>1DF1F</Offset>
+      <Section>0</Section>
+      <ValueOn>8B-83-78-08-00-00</ValueOn>
+      <ValueOff>89-83-78-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max SP on Pickup" Description="Max SP on Pickup">
+    <Cheatline>
+      <Offset>1D1E9</Offset>
+      <Section>0</Section>
+      <ValueOn>01-83-30-08-00-00</ValueOn>
+      <ValueOff>01-B3-30-08-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Katana Meter" Description="Inf Katana Meter">
+    <Cheatline>
+      <Offset>13A7F</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C3-90</ValueOn>
+      <ValueOff>0F-4E-D8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Health" Description="Inf Health">
+    <Cheatline>
+      <Offset>17ADE</Offset>
+      <Section>0</Section>
+      <ValueOn>45-89-F4-90</ValueOn>
+      <ValueOff>45-0F-48-E5</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

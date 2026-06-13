@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dragon Ball: Xenoverse 2" Moder="Weysincha" Cusa="CUSA05088" Version="01.00" Process="eboot.bin">
+  <Items />
+  <Cheat Text="Set Zeni to 9.999.999">
+    <Cheatline>
+      <Offset>2015691A4</Offset>
+      <Section>0</Section>
+      <ValueOn>7F-96-98-00</ValueOn>
+      <ValueOff>7F-96-98-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set TP/ZP to 9.999.999">
+    <Cheatline>
+      <Offset>2015691A8</Offset>
+      <Section>0</Section>
+      <ValueOn>7F-96-98-00</ValueOn>
+      <ValueOff>7F-96-98-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Exp to 9.999.999">
+    <Cheatline>
+      <Offset>20156C200</Offset>
+      <Section>0</Section>
+      <ValueOn>7F-96-98-00</ValueOn>
+      <ValueOff>7F-96-98-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Set Skillpoints to 999">
+    <Cheatline>
+      <Offset>20156C204</Offset>
+      <Section>0</Section>
+      <ValueOn>E7-03-00-00</ValueOn>
+      <ValueOff>E7-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

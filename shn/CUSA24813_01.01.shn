@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Balan Wonderworld" Moder="Reddevil82 - FW 9.00" Cusa="CUSA24813" Version="01.01" Process="eboot.bin">
+  <Genres Name="Adventure" />
+  <Items />
+  <Cheat Text="Mastercode Gems ( must be activated [ MC ] Cheats" Description="Mastercode Gems ( must be activated [ MC ] Cheats">
+    <Cheatline>
+      <Offset>97BBCAB</Offset>
+      <Section>0</Section>
+      <ValueOn>40-80-FE-04-48-83-F9-00-75-02-90-90-48-83-F9-03-75-02-90-90-48-83-F9-02-75-02-90-90-48-83-F9-01-75-02-90-90-48-83-F9-04-75-02-90-90-89-3C-88-E9-C2-99-E8-F7-BF-0F-27-00-00-EB-F1-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>164569A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-0C-66-17-08-90-90</ValueOn>
+      <ValueOff>40-80-FE-04-89-3C-88</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>97BBCFA</Offset>
+      <Section>0</Section>
+      <ValueOn>89-D9-48-83-F9-00-75-02-90-90-48-83-F9-01-75-02-90-90-48-83-F9-02-75-02-90-90-48-83-F9-03-75-02-90-90-48-83-F9-04-75-02-90-90-83-3C-88-00-E9-34-91-B6-F7-C7-04-88-0F-27-00-00-EB-EE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1324E5B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9A-6E-49-08-90</ValueOn>
+      <ValueOff>89-D9-83-3C-88-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health" Description="Infinite Health">
+    <Cheatline>
+      <Offset>1252BAC</Offset>
+      <Section>0</Section>
+      <ValueOn>74-6E</ValueOn>
+      <ValueOff>75-6E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Yellow Gems [ Combat - on gain ] [ MC ]" Description="Max Yellow Gems [ Combat - on gain ] [ MC ]">
+    <Cheatline>
+      <Offset>97BBCB5</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-28</ValueOn>
+      <ValueOff>90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Purple Gems [ Combat - on gain ] [ MC ]" Description="Max Purple Gems [ Combat - on gain ] [ MC ]">
+    <Cheatline>
+      <Offset>97BBCBD</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-20</ValueOn>
+      <ValueOff>90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Red Gems [ Combat - on gain ] [ MC ]" Description="Max Red Gems [ Combat - on gain ] [ MC ]">
+    <Cheatline>
+      <Offset>97BBCC5</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-18</ValueOn>
+      <ValueOff>90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Blue Gems [ Combat - on gain ] [ MC ]" Description="Max Blue Gems [ Combat - on gain ] [ MC ]">
+    <Cheatline>
+      <Offset>97BBCCD</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-10</ValueOn>
+      <ValueOff>90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Rainbow Gems [ Combat - on gain ] [ MC ]" Description="Max Rainbow Gems [ Combat - on gain ] [ MC ]">
+    <Cheatline>
+      <Offset>97BBCD5</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-08</ValueOn>
+      <ValueOff>90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Yellow Gems [ Tim Isle - on use ] [ MC ]" Description="Max Yellow Gems [ Tim Isle - on use ] [ MC ]">
+    <Cheatline>
+      <Offset>97BBD02</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-29</ValueOn>
+      <ValueOff>90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Purple Gems [ Tim Isle - on use ] [ MC ]" Description="Max Purple Gems [ Tim Isle - on use ] [ MC ]">
+    <Cheatline>
+      <Offset>97BBD1A</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-11</ValueOn>
+      <ValueOff>90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Red Gems [ Tim Isle - on use ] [ MC ]" Description="Max Red Gems [ Tim Isle - on use ] [ MC ]">
+    <Cheatline>
+      <Offset>97BBD12</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-19</ValueOn>
+      <ValueOff>90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Blue Gems [ Tim Isle - on use ] [ MC ]" Description="Max Blue Gems [ Tim Isle - on use ] [ MC ]">
+    <Cheatline>
+      <Offset>97BBD0A</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-21</ValueOn>
+      <ValueOff>90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Rainbow Gems [ Tim Isle - on use ] [ MC ]" Description="Max Rainbow Gems [ Tim Isle - on use ] [ MC ]">
+    <Cheatline>
+      <Offset>97BBD22</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-09</ValueOn>
+      <ValueOff>90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Keys" Description="Max Keys">
+    <Cheatline>
+      <Offset>97BBC91</Offset>
+      <Section>0</Section>
+      <ValueOn>66-C7-87-14-03-00-00-63-00-E9-09-9B-E8-F7</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>16457A1</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-EB-64-17-08-90-90</ValueOn>
+      <ValueOff>66-89-8F-14-03-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Costumes + All Costumes Unlocker" Description="Max Costumes + All Costumes Unlocker">
+    <Cheatline>
+      <Offset>97BBC80</Offset>
+      <Section>0</Section>
+      <ValueOn>89-F1-C7-04-88-63-00-00-00-8B-04-88-E9-FF-54-E4-F7</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>160118B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-F0-AA-1B-08</ValueOn>
+      <ValueOff>89-F1-8B-04-88</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Sub Objective Counter ( on gain )" Description="Max Sub Objective Counter ( on gain )">
+    <Cheatline>
+      <Offset>97BBCA0</Offset>
+      <Section>0</Section>
+      <ValueOn>89-B7-A8-02-00-00-E9-AF-49-B7-F7</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1330654</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-47-B6-48-08-90</ValueOn>
+      <ValueOff>89-B7-A8-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

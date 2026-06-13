@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Extinction" Moder="Rizla" Cusa="CUSA11687" Version="01.00" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>46D7800</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-87-8C-1C-00-00-00-00-C8-42-C5-FA-10-87-8C-1C-00-00-E9-B5-40-9F-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>CB8C4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-37-BF-60-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-87-8C-1C-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Rune Energy">
+    <Cheatline>
+      <Offset>46D7829</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-87-D0-11-00-00-C5-FA-11-87-CC-11-00-00-E9-BA-08-B5-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2280F0</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-34-F7-4A-04-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-87-CC-11-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Skill points">
+    <Cheatline>
+      <Offset>46D7817</Offset>
+      <Section>0</Section>
+      <ValueOn>41-BF-9F-86-01-00-44-89-B8-8C-09-00-00-E9-54-69-BD-FB</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2AE176</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9C-96-42-04-90-90</ValueOn>
+      <ValueOff>44-8B-B8-8C-09-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Earn SP on Spend">
+    <Cheatline>
+      <Offset>1DF14C</Offset>
+      <Section>0</Section>
+      <ValueOn>01-87-8C-09-00-00</ValueOn>
+      <ValueOff>89-87-8C-09-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Freeze Mission Timer">
+    <Cheatline>
+      <Offset>281DE3</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-47-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
