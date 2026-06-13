@@ -227,7 +227,7 @@
       ]
     },
     {
-      "name": "Have All Item\\\u0027s In Chest ~Swap Any Item From Inventory To Chest",
+      "name": "Have All Item\\'s In Chest ~Swap Any Item From Inventory To Chest",
       "type": "checkbox",
       "memory": [
         {
