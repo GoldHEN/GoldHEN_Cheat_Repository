@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Kingdom Hearts: HD 1.5 + 2.5 ReMIX" Moder="2pt" Cusa="CUSA05786" Version="01.04" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="RPG" />
+  <Items />
+  <Cheat Text="Inf Health">
+    <Cheatline>
+      <Offset>11617D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>41-89-9C-24-44-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Moogle Points">
+    <Cheatline>
+      <Offset>16AB98</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-58-20</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Health Sora">
+    <Cheatline>
+      <Offset>5EB800</Offset>
+      <Section>0</Section>
+      <ValueOn>66-81-F9-D8-25-74-02-89-01-C3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2A9E61</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-9A-19-34-00</ValueOn>
+      <ValueOff>89-01-C3-90-90</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Mp All">
+    <Cheatline>
+      <Offset>2A9F0B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-83-80-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2AA4F0</Offset>
+      <Section>0</Section>
+      <ValueOn>C3-90-90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C7-87-80-01-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Munny Doesn't Decrease On Spend">
+    <Cheatline>
+      <Offset>202352</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>29-98-40-24-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Drive/Summon Amount Doesn't Decrease">
+    <Cheatline>
+      <Offset>2AA253</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>88-87-B1-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Drive/Summon Timer Doesn't Decrease">
+    <Cheatline>
+      <Offset>2AA2FE</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-9B-B4-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Gummi Ship Health Doesn't Decrease">
+    <Cheatline>
+      <Offset>C9F10</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-47-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Party Level 99 (on xp gain)" Description="Wait at least until Sora is main character. Not tested before that.">
+    <Cheatline>
+      <Offset>5EB80C</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-E0-36-00-00-8F-E2-2B-00-E9-ED-FB-C7-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>26B402</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-05-04-38-00-90</ValueOn>
+      <ValueOff>89-88-E0-36-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Drive XP 50x">
+    <Cheatline>
+      <Offset>5EB81D</Offset>
+      <Section>0</Section>
+      <ValueOn>49-89-C5-41-83-45-04-32-E9-5D-8A-C7-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>264280</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-98-75-38-00-90-90</ValueOn>
+      <ValueOff>49-89-C5-45-01-75-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Summon XP 50x">
+    <Cheatline>
+      <Offset>5EB82C</Offset>
+      <Section>0</Section>
+      <ValueOn>83-83-E4-36-00-00-32-E9-6E-63-CC-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2B1B9F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-88-9C-33-00-90-90</ValueOn>
+      <ValueOff>44-01-B3-E4-36-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Sythesis Doesn't Consume Materials">
+    <Cheatline>
+      <Offset>17C623</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8C-88-34-4A-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>17C602</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>29-8C-B0-34-4A-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>17C734</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8C-88-34-4A-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>17C6E4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8C-88-34-4A-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>17C694</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>FF-8C-88-34-4A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Only Works on DUPLEX PRELUDE dump" Description="THIS WILL NEVER WORK ON UNDUB VER BY Flared">
+    <Cheatline>
+      <Offset>5E4621</Offset>
+      <Section>0</Section>
+      <ValueOn>C3-90</ValueOn>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>2AA8C0</Offset>
+      <Section>0</Section>
+      <ValueOn>89-07</ValueOn>
+      <ValueOff>39-0F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite MP">
+    <Cheatline>
+      <Offset>2A9F01</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4D-CE</ValueOn>
+      <ValueOff>0F-4E-CE</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Max Valor Form">
+    <Cheatline>
+      <Offset>25A9BD</Offset>
+      <Section>0</Section>
+      <ValueOn>89-C8</ValueOn>
+      <ValueOff>39-C8</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Valor Drive">
+    <Cheatline>
+      <Offset>2AA2F1</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-5F-EC</ValueOn>
+      <ValueOff>C5-FA-5D-EC</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="MP Charge Disabled">
+    <Cheatline>
+      <Offset>2AA502</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-87-BC-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="All Items Weapon Armor Accessories" Description="dont use magic until u havent passed the valor form tutorial from early game / your original items are untouched">
+    <Cheatline>
+      <Offset>5E4631</Offset>
+      <Section>0</Section>
+      <ValueOn>80-BC-01-80-35-00-00-00-7F-16-C6-84-01-80-35-00-00-01-0F-B6-8C-01-80-35-00-00-E9-CD-41-C8-FF-90-0F-B6-8C-01-80-35-00-00-E9-BF-41-C8-FF-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>268815</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-17-BE-37-00-90-90-90</ValueOn>
+      <ValueOff>0F-B6-8C-01-80-35-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Weapon Modifier" Description="Master Code wep">
+    <Cheatline>
+      <Offset>5E4671</Offset>
+      <Section>0</Section>
+      <ValueOn>48-89-DF-48-83-FA-03-0F-85-FE-00-00-00-49-83-FC-01-0F-85-F4-00-00-00-E9-EF-00-00-00-90-66-41-C7-07-29-00-E9-D9-00-00-00-66-41-C7-07-2A-00-E9-CE-00-00-00-66-41-C7-07-2B-00-E9-C3-00-00-00-66-41-C7-07-2D-00-E9-B8-00-00-00-66-41-C7-07-E0-01-E9-AD-00-00-00-66-41-C7-07-E1-01-E9-A2-00-00-00-66-41-C7-07-E4-01-E9-97-00-00-00-66-41-C7-07-E5-01-E9-8C-00-00-00-66-41-C7-07-E6-01-E9-81-00-00-00-66-41-C7-07-E7-01-EB-79-66-41-C7-07-E8-01-EB-71-66-41-C7-07-E9-01-EB-69-66-41-C7-07-EA-01-EB-61-66-41-C7-07-EB-01-EB-59-66-41-C7-07-EC-01-EB-51-66-41-C7-07-ED-01-EB-49-66-41-C7-07-EE-01-EB-41-66-41-C7-07-EF-01-EB-39-66-41-C7-07-F0-01-EB-31-66-41-C7-07-F1-01-EB-29-66-41-C7-07-F2-01-EB-21-66-41-C7-07-F3-01-EB-19-66-41-C7-07-F4-01-EB-11-66-41-C7-07-1F-02-EB-09-66-41-C7-07-20-02-EB-01-90-41-0F-B7-37-E9-16-4E-CC-FF-90-41-0F-B7-37-E9-0C-4E-CC-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>2A958A</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-E2-B0-33-00-90-90</ValueOn>
+      <ValueOff>48-89-DF-41-0F-B7-37</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Kingdom Key" Description="need MC wep">
+    <Cheatline>
+      <Offset>5E4688</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-04-90-90-90</ValueOn>
+      <ValueOff>E9-EF-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Exp">
+    <Cheatline>
+      <Offset>26B3F8</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4F-CF</ValueOn>
+      <ValueOff>0F-4C-CF</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Munny">
+    <Cheatline>
+      <Offset>2022FF</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-47-CB</ValueOn>
+      <ValueOff>0F-42-CB</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="99 Discard items" Description="needs 2 to work">
+    <Cheatline>
+      <Offset>268712</Offset>
+      <Section>0</Section>
+      <ValueOn>B2-63</ValueOn>
+      <ValueOff>FE-CA</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="99 Sell items" Description="you need to sell all your stocks">
+    <Cheatline>
+      <Offset>2687DD</Offset>
+      <Section>0</Section>
+      <ValueOn>C6-84-08-80-35-00-00-63</ValueOn>
+      <ValueOff>C6-84-08-80-35-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Increase Player and NPC Height" Description="Master Code hyt / some bugs like u cant talk to npc such as moogle, just turn off this cheat and exit the room, it will be fixed">
+    <Cheatline>
+      <Offset>5E47C1</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-2E-43-34-EB-24-90-81-7B-F0-90-0E-00-00-75-1A-C7-43-34-00-00-C0-3F-E9-3D-35-CA-FF-90-C7-43-34-00-00-C0-3F-E9-30-35-CA-FF-90-E9-2A-35-CA-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>287D16</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-A6-CA-35-00</ValueOn>
+      <ValueOff>C5-F8-2E-43-34</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Player Height Only" Description="need MC hyt">
+    <Cheatline>
+      <Offset>5E47C6</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-01</ValueOn>
+      <ValueOff>EB-24</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Run Speed x2">
+    <Cheatline>
+      <Offset>5E4801</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-80-34-01-00-00-00-00-80-41-C5-FA-10-80-34-01-00-00-E9-8B-84-A3-FF-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1CC9B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-61-7B-5C-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-80-34-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Attack Speed x2">
+    <Cheatline>
+      <Offset>5E4821</Offset>
+      <Section>0</Section>
+      <ValueOn>81-BB-90-FE-FF-FF-90-0E-00-00-75-18-C7-83-50-01-00-00-00-00-00-40-C5-F2-59-8B-50-01-00-00-E9-31-A8-C9-FF-90-C5-F2-59-8B-50-01-00-00-E9-23-A8-C9-FF-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>27F06D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-AF-57-36-00-90-90-90</ValueOn>
+      <ValueOff>C5-F2-59-8B-50-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Jump Vector">
+    <Cheatline>
+      <Offset>5E4861</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-38-01-00-00-00-00-7A-44-C5-FA-10-83-38-01-00-00-E9-A1-FA-C9-FF-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>284311</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4B-05-36-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-83-38-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="GhostSkin">
+    <Cheatline>
+      <Offset>5E4881</Offset>
+      <Section>0</Section>
+      <ValueOn>81-7B-F0-90-0E-00-00-75-18-C7-83-48-0A-00-00-00-00-00-3F-C5-FA-10-8B-48-0A-00-00-E9-7A-65-CA-FF-90-C5-FA-10-8B-48-0A-00-00-E9-6C-65-CA-FF-90-90</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>28AE13</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-69-9A-35-00-90-90-90</ValueOn>
+      <ValueOff>C5-FA-10-8B-48-0A-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Health" Description="The health bar still fluctuates a bit and poison can still kill you but it mostly works fine. I'm too lazy to go back and fix those issues.">
+    <Cheatline>
+      <Offset>153572</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>66-41-89-8E-C0-04-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill">
+    <Cheatline>
+      <Offset>69F800</Offset>
+      <Section>0</Section>
+      <ValueOn>66-41-C7-84-24-38-02-00-00-00-00-E9-04-E1-B4-FF</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>1ED8F5</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-06-1F-4B-00-90-90-90-90</ValueOn>
+      <ValueOff>66-41-89-84-24-38-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Munny Doesn't Decrease On Spend" Description="Also money doesn't increase on sell while this is on. Turn off before you sell, turn on before you buy.">
+    <Cheatline>
+      <Offset>32FDFB</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-88-3C-25-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf Focus" Description="The timer for aiming your focus powers is still there but the actual focus amount won't decrease.">
+    <Cheatline>
+      <Offset>121010</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-68</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>120E65</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-68</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>121044</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-43-68</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="No Ability Cooldown">
+    <Cheatline>
+      <Offset>11C5B0</Offset>
+      <Section>0</Section>
+      <ValueOn>EB-5E</ValueOn>
+      <ValueOff>73-5E</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Inf D-Link Bar">
+    <Cheatline>
+      <Offset>11FDE4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-44-24-60</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Medals Don't Decrease">
+    <Cheatline>
+      <Offset>32FE2B</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90</ValueOn>
+      <ValueOff>89-88-40-25-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

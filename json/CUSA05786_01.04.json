@@ -1,0 +1,282 @@
+{
+  "name": "Kingdom Hearts: HD 1.5 \u002B 2.5 ReMIX",
+  "id": "CUSA05786",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "2C1EE0C",
+          "on": "F4230F",
+          "off": "F4230F"
+        }
+      ]
+    },
+    {
+      "name": "Kingdom Hearts 2 HD undub 1.04",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E2A71",
+          "on": "C390",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E2A81",
+          "on": "8B4704890789C190E9176ECCFF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "2A98A0",
+          "on": "E9DC913300",
+          "off": "8B470489C1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E2B00",
+          "on": "8B838401000089838001000090E9EF63CCFF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A8EFB",
+          "on": "E9009C330090",
+          "off": "898380010000"
+        }
+      ]
+    },
+    {
+      "name": "All Keyblades (buy item on shop)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E2AA0",
+          "on": "889C088035000066C780A2350000010166C7807B3600000101C6807F36000001C7808036000001010101C7808436000001010101C7808836000001010101C7808C3600000101010190E9784BC8FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "26765F",
+          "on": "E93CB437009090",
+          "off": "889C0880350000"
+        }
+      ]
+    },
+    {
+      "name": "99 Discard Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26796D",
+          "on": "B26490",
+          "off": "83FA02"
+        }
+      ]
+    },
+    {
+      "name": "Max Exp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26A658",
+          "on": "0F4FCF",
+          "off": "0F4CCF"
+        }
+      ]
+    },
+    {
+      "name": "Max Munny",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "20175F",
+          "on": "0F4FCB",
+          "off": "0F42CB"
+        }
+      ]
+    },
+    {
+      "name": "Max Drive",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "259C1D",
+          "on": "89C8",
+          "off": "39C8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Drive Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A92EE",
+          "on": "C5FA1183B4010000",
+          "off": "C5FA119BB4010000"
+        }
+      ]
+    },
+    {
+      "name": "All Materials (synthesis shop)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E2B20",
+          "on": "41C7849E344A00006300000090E9792AB9FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1755A0",
+          "on": "E97BD54600909090909090",
+          "off": "4183BC9E344A000000740A"
+        }
+      ]
+    },
+    {
+      "name": "99 Items on Sell (Shop)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E2B40",
+          "on": "0FB6940880350000BA63000000E9C84EC8FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "267A0E",
+          "on": "E92DB137009090909090",
+          "off": "0FB694088035000029DA"
+        }
+      ]
+    },
+    {
+      "name": "Kingdom Hearts 1 HD CUSA05786 ver 1.04 (undub)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3C9A48",
+          "on": "C390",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3C9A50",
+          "on": "488B4B08448B70404489703C90E9E326D7FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "13C13D",
+          "on": "E90ED92800909090",
+          "off": "488B4B08448B7040"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3C9A70",
+          "on": "488B4B08448B78484489784490E9F7ADD7FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "144871",
+          "on": "E9FA512800909090",
+          "off": "488B4B08448B7848"
+        }
+      ]
+    },
+    {
+      "name": "All Keyblades only",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B198B",
+          "on": "752A",
+          "off": "742A"
+        }
+      ]
+    },
+    {
+      "name": "All Items / Keyblade / Accessories",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3C9A90",
+          "on": "C684189A0400000180BC189A04000000C6809E04000000C780EB04000000000000C7802A05000000000000C680810500000090E963BDDEFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B5823",
+          "on": "E968422100909090",
+          "off": "80BC189A04000000"
+        }
+      ]
+    },
+    {
+      "name": "99 Discard Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3C9AE0",
+          "on": "C68401990400006390E9E79CDEFF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1B37CE",
+          "on": "E90D6321009090",
+          "off": "FE8C0199040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Exp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "186744",
+          "on": "450F4DF7",
+          "off": "450F4EF7"
+        }
+      ]
+    },
+    {
+      "name": "Max Munny / Buy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3C9B00",
+          "on": "B99F86010089481C90E9E436E0FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1CD1ED",
+          "on": "E90EC91F00",
+          "off": "29F989481C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TylerMods",
+    "d01v"
+  ]
+}

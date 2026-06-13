@@ -1,0 +1,197 @@
+{
+  "name": "Devil May Cry: HD Collection",
+  "id": "CUSA09407",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (DMC1)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5A560",
+          "on": "668B8FA2170000E9B2584080",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "5FE17",
+          "on": "E944A7BF7F9090",
+          "off": "66898FA2170000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Devil Trigger (DMC1)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5BDF0",
+          "on": "C783CC1B000000401C46E9B66A6C80",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "3228AE",
+          "on": "E93D95937F9090",
+          "off": "448B83CC1B0000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Red Orbs (DMC1)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5BDC0",
+          "on": "C780742400003F420F00E948604080",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "61E11",
+          "on": "E9AA9FBF7F90",
+          "off": "899074240000"
+        },
+        {
+          "offset": "7FC5B730",
+          "on": "C780742400003F420F00E9443F7980",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "3EF67D",
+          "on": "E9AEC0867F90",
+          "off": "89B874240000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Health (DMC2)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5BAE0",
+          "on": "4983F900751041C7864001000010270000E9ABD63D806641899640010000E99ED63D80",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "39199",
+          "on": "E94229C27F909090",
+          "off": "6641899640010000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Devil Trigger (DMC2)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC59BB0",
+          "on": "C7831E05000010270000E924CD5980",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1F68DC",
+          "on": "E9CF32A67F9090",
+          "off": "6689831E050000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Red Orbs (DMC2)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5AB90",
+          "on": "488B0090E9EE595380",
+          "off": "000000000000000000"
+        },
+        {
+          "offset": "190581",
+          "on": "E90AA6AC7F90",
+          "off": "488B008B4078"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health/1 Hit Kill (Master Code DMC3)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5BA80",
+          "on": "4181FD002AB400750DC5FA115208E977E541800F57D2C5FA115208E96AE54180",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7A005",
+          "on": "E9761ABE7F",
+          "off": "C5FA115208"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (DMC3)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5BA89",
+          "on": "C5FA105208",
+          "off": "C5FA115208"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (DMC3)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5BA87",
+          "on": "750A",
+          "off": "750D"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Devil Trigger (DMC3)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5BEC0",
+          "on": "C787783E000000401C46E9E9905E80",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "244FB0",
+          "on": "E90B6FA17F909090",
+          "off": "C5FA1187783E0000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Red Orbs (DMC3)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5BEA0",
+          "on": "8B0482C741383F420F00E9C5E95A80",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "20A86E",
+          "on": "E92D16A57F90",
+          "off": "8B0482014138"
+        },
+        {
+          "offset": "7FC5B970",
+          "on": "85C0C741083F420F00E9F2B16B80",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "316B6B",
+          "on": "E9004E947F",
+          "off": "85C0895108"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

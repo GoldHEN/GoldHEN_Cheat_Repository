@@ -1,0 +1,22 @@
+{
+  "name": "Kingdom Hearts: HD 1.5 \u002B 2.5 ReMIX",
+  "id": "CUSA05933",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money",
+      "type": "button",
+      "memory": [
+        {
+          "offset": "2C1EE0C",
+          "on": "F4230F",
+          "off": "F4230F"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TylerMods"
+  ]
+}
