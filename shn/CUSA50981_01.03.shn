@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Beyond The Ice Palace 2" Moder="Ali-mk" Cusa="CUSA50981" Version="01.03" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>800-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Section>14</Section>
+      <Offset>83723800</Offset>
+      <ValueOn>48-83-FA-01-0F-84-0A-6C-6F-FD-E8-F1-5A-6F-FD-E9-00-6C-6F-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Absolute>True</Absolute>
+      <PS5Offset>2909BF1-Il2CppUserAssemblies.prx[0]-5</PS5Offset>
+      <Section>14</Section>
+      <Offset>80E1A40F</Offset>
+      <ValueOn>E9-EC-93-90-02</ValueOn>
+      <ValueOff>E8-EC-EE-FF-FF</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Inf-Super+Stamina">
+    <Cheatline>
+      <Offset>808E8C42</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-F4-00-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

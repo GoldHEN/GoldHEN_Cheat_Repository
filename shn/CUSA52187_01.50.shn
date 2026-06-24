@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Gal Guardians Servants of The Dark" Moder="Ali-mk" Cusa="CUSA52187" Version="01.50" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Items />
+  <Cheat Text="Invincible">
+    <Cheatline>
+      <Offset>24C9501</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>E8-4A-95-44-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Health-[100]">
+    <Cheatline>
+      <Offset>18F495F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>E8-42-7E-DB</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="Infinite-Weapon">
+    <Cheatline>
+      <Offset>18F6F3D</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-71-24</ValueOff>
+    </Cheatline>
+	<Cheatline>
+      <Offset>18F71B5</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>45-29-E7</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="one-Hit-Kill">
+    <Cheatline>
+      <Offset>234DF18</Offset>
+      <Section>0</Section>
+      <ValueOn>89-28</ValueOn>
+      <ValueOff>89-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+    <Cheat Text="MAX-Coins-999999">
+    <Cheatline>
+      <Offset>124AA1E</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>41-89-F6</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
