@@ -1,0 +1,131 @@
+{
+  "name": "Grand Theft Auto III – The Definitive Edition",
+  "id": "CUSA26613",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (WIP/Experimental)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10F1775",
+          "on": "9090909090909090",
+          "off": "C5FA119320040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinte Armour",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10F1624",
+          "on": "9090909090909090",
+          "off": "C5FA119324040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinte Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11976BF",
+          "on": "90909090",
+          "off": "41894D0C"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11976A5",
+          "on": "90909090",
+          "off": "41894508"
+        }
+      ]
+    },
+    {
+      "name": "Get $99.999.999 (Upon Mission Completion)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "57CFEC0",
+          "on": "C78410D8000000FFE0F505E981607DFB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "FA5F4A",
+          "on": "E9719F82049090",
+          "off": "018C10D8000000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Money (for Pay N Spray/Ammu-Nation)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F85F16",
+          "on": "909090909090",
+          "off": "89155CE52D05"
+        },
+        {
+          "offset": "F94E7D",
+          "on": "9090",
+          "off": "29D1"
+        }
+      ]
+    },
+    {
+      "name": "Free PainSpray",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F85EF1",
+          "on": "0F81",
+          "off": "0F82"
+        }
+      ]
+    },
+    {
+      "name": "Disable all incoming damage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10F098A",
+          "on": "0F81",
+          "off": "0F82"
+        }
+      ]
+    },
+    {
+      "name": "Disable vehicle incoming damage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "118A1AC",
+          "on": "909090909090909090",
+          "off": "C4C17A118720030000"
+        }
+      ]
+    },
+    {
+      "name": "Disable insta vehicle blowup",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "118A19A",
+          "on": "0F80",
+          "off": "0F86"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "AngelDavil88_9.00/2pt/Zubastic"
+  ]
+}
