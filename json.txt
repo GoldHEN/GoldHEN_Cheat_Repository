@@ -1130,6 +1130,7 @@ CUSA10249_01.00.json=The Last of Us™ Part II
 CUSA08798_01.11.json=Darksiders III
 CUSA11560_01.03_ac3_engine_orbis_fn.elf.json=Assassins Creed® III Remastered
 CUSA08558_01.00_2.json=Dead Rising 4: Frank's Big Package
+CUSA26613_01.04.json=Grand Theft Auto III – The Definitive Edition
 CUSA07187_01.02_2.json=Final Fantasy 7 Remake
 CUSA00018_01.21_default_mp.elf_2.json=COD: Ghosts (EX)
 CUSA09435_01.06.json=Trials Rising(TM)
