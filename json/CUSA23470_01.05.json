@@ -1,0 +1,57 @@
+{
+  "name": "Crash Bandicoot 4: It's About Time",
+  "id": "CUSA23470",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Jump in midair",
+      "description": "none",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19A7C0",
+          "on": "90909090909090",
+          "off": "41FF8638030000"
+        }
+      ]
+    },
+	{
+      "name": "Untouchable (Use with Jump in midair code)",
+      "description": "Falling into the void you'll not die, use it with the Jump in midair code. Only works when you're on foot, not when you slide.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BBB3B0",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    },
+	{
+      "name": "Untouchable - Third AkuAku mask effect",
+      "description": "Don't need the Jump in midair code, falling into the void you'll die.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BCFB73",
+          "on": "C6817001000003",
+          "off": "80B97001000003"
+        },
+		{
+          "offset": "BCFB7A",
+          "on": "C6835803000001",
+          "off": "0F948358030000"
+        },
+		{
+          "offset": "BB8BEE",
+          "on": "EB",
+          "off": "75"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "LuC-iTA"
+  ]
+}
