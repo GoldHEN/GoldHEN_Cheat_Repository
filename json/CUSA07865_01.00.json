@@ -1,0 +1,23 @@
+{
+  "name": "MotoGP™17",
+  "id": "CUSA07865",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Opponents don't drive (Read notes)",
+      "description": "Don't hurt them otherwise they'll start driving",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3B4371",
+          "on": "66C7804A010000010090909090909090",
+          "off": "0FB7804A010000F6C4010F850D010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "LuC-iTA"
+  ]
+}
