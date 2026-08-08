@@ -1,0 +1,23 @@
+{
+  "name": "MotoGP™15",
+  "id": "CUSA02041",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Opponents don't move",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "AFE1C4",
+          "on": "75F1",
+          "off": "750A"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "LuC-iTA"
+  ]
+}

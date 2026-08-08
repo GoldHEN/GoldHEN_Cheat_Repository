@@ -1,0 +1,23 @@
+{
+  "name": "Valentino Rossi The Game",
+  "id": "CUSA05164",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Opponents don't move",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "521D87",
+          "on": "41C6864A010000019090",
+          "off": "41F6864A01000002753F"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "LuC-iTA"
+  ]
+}
