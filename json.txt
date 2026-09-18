@@ -1875,3 +1875,4 @@ SLPM62562_01.00.json=Psyvariar 2 - Ultimate Final
 CUSA30888_01.01.json=Road 96
 CUSA34384_03.01_2.json=God of War Ragnarok
 CUSA05350_01.44.json=Dragon Ball: Xenoverse 2
+CUSA57547_01.08.json=Call of Duty®: Black Ops
