@@ -1,0 +1,20 @@
+{
+  "name": "Call of Duty®: Black Ops",
+  "id": "CUSA57547",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61199",
+          "on": "909090",
+          "off": "894804"
+        }
+      ]
+    }
+  ],
+  "credits": ["zReal"]
+}
