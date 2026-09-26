@@ -1189,6 +1189,7 @@ CUSA26967_01.01.shn=Tunic
 CUSA41097_01.21.shn=Afterimage
 CUSA13612_01.02.shn=Hitman: Blood Money HD
 CUSA07875_01.00.shn=Uncharted The Lost Legacy
+CUSA03467_01.01.shn=Earth Defense Force 4.1: The Shadow of New Despair
 CUSA00633_01.09.shn=battlefield-hardline
 CUSA00967_01.14.shn=Mortal Kombat X
 CUSA34766_01.11.shn=Granblue Fantasy Link
