@@ -10,7 +10,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FC00",
+          "offset": "2590500",
           "on": "00",
           "off": "00"
         }
@@ -22,13 +22,13 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FC50",
-          "on": "488B83681E0000488983701E0000E91808E9FE",
+          "offset": "2590550",
+          "on": "488B83681E0000488983701E0000E9686BE8FE",
           "off": "00000000000000000000000000000000000000"
         },
         {
-          "offset": "1410474",
-          "on": "E9D7F716019090",
+          "offset": "14170C4",
+          "on": "E9879417019090",
           "off": "488983701E0000"
         }
       ]
@@ -39,13 +39,13 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FC70",
-          "on": "C780F81F00000F2700008B88F81F0000E9CA95E3FE",
+          "offset": "2590570",
+          "on": "C780F81F00000F2700008B88F81F0000E9F9E8E2FE",
           "off": "000000000000000000000000000000000000000000"
         },
         {
-          "offset": "13B9249",
-          "on": "E9226A1C0190",
+          "offset": "13BEE78",
+          "on": "E9F3161D0190",
           "off": "8B88F81F0000"
         }
       ]
@@ -56,13 +56,13 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FC90",
-          "on": "488987701E00004883BF701E0000030F8E9584E8FE48C787701E000003000000E98584E8FE",
+          "offset": "2590590",
+          "on": "488987701E00004883BF701E0000030F8E05EAE7FE48C787701E000003000000E9F5E9E7FE",
           "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
         },
         {
-          "offset": "1408133",
-          "on": "E9587B17019090",
+          "offset": "140EFA3",
+          "on": "E9E81518019090",
           "off": "488987701E0000"
         }
       ]
@@ -73,23 +73,23 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FCC0",
-          "on": "48893D56032800488B8780000000E91B2AE9FE",
+          "offset": "25905C0",
+          "on": "48893D56FA2600488B8780000000E97B8DE8FE",
           "off": "00000000000000000000000000000000000000"
         },
         {
-          "offset": "14126E7",
-          "on": "E9D4D516019090",
+          "offset": "1419347",
+          "on": "E9747217019090",
           "off": "488B8780000000"
         },
         {
-          "offset": "257FCE0",
-          "on": "4C3B2536032800740B48C7807010000008000000488B8070100000E958E7E8FE",
+          "offset": "25905E0",
+          "on": "4C3B2536FA2600740B48C7807010000008000000488B8070100000E9A84AE8FE",
           "off": "0000000000000000000000000000000000000000000000000000000000000000"
         },
         {
-          "offset": "140E451",
-          "on": "E98A1817019090",
+          "offset": "14150A1",
+          "on": "E93AB517019090",
           "off": "488B8070100000"
         }
       ]
@@ -100,24 +100,36 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FD10",
-          "on": "488B7C0140488B0748893D08032800E90D9E87FE",
+          "offset": "2590610",
+          "on": "488B7C0140488B0748893D08FA2600E9450D87FE",
           "off": "0000000000000000000000000000000000000000"
         },
         {
-          "offset": "DF9B29",
-          "on": "E9E2617801909090",
+          "offset": "E01361",
+          "on": "E9AAF27801909090",
           "off": "488B7C0140488B07"
         },
         {
-          "offset": "257FD40",
-          "on": "4C3B35E00228000F843CEE04FFFF9040010000E931EE04FF",
+          "offset": "2590640",
+          "on": "4C3B35E0F926000F848C6204FFFF9040010000E9816204FF",
           "off": "000000000000000000000000000000000000000000000000"
         },
         {
-          "offset": "15CEB83",
-          "on": "E9B811FB0090",
+          "offset": "15D68D3",
+          "on": "E9689DFB0090",
           "off": "FF9040010000"
+        }
+      ]
+    },
+    {
+      "name": "Stealth Mode",
+      "description": "When activated, any already flagged enemy wont see you. All other NPCs wont get flagged as enemies. Compulsory battles will still be triggered. Disable this cheat if you are already in a battle, or you may not be able to complete the battle.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14AED90",
+          "on": "C3",
+          "off": "55"
         }
       ]
     },
@@ -127,13 +139,13 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FD60",
+          "offset": "2590660",
           "on": "48C704C8FFC99A3B488B04C8C3",
           "off": "00000000000000000000000000"
         },
         {
-          "offset": "6714B8",
-          "on": "E9A3E8F001",
+          "offset": "674F78",
+          "on": "E9E3B6F101",
           "off": "488B04C8C3"
         }
       ]
@@ -144,12 +156,12 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "500393",
+          "offset": "503EC3",
           "on": "909090",
           "off": "448936"
         },
         {
-          "offset": "500454",
+          "offset": "503F84",
           "on": "C70601000000",
           "off": "C70600000000"
         }
@@ -161,7 +173,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "1C5BEE",
+          "offset": "1C590E",
           "on": "C787F80000000000803F",
           "off": "C787F80000000000803F"
         }
@@ -173,7 +185,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "1C5BF4",
+          "offset": "1C5914",
           "on": "00000040",
           "off": "0000803F"
         }
@@ -185,7 +197,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "1C5BF4",
+          "offset": "1C5914",
           "on": "00004040",
           "off": "0000803F"
         }
@@ -197,7 +209,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "1C5BF4",
+          "offset": "1C5914",
           "on": "00008040",
           "off": "0000803F"
         }
@@ -209,14 +221,14 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FD80",
-          "on": "4503B770030000440FAF3505000000E9ACDC87FE01000000",
-          "off": "000000000000000000000000000000000000000000000000"
+          "offset": "2590680",
+          "on": "4103B7700300000FAF3505000000E9B34787FE01000000",
+          "off": "0000000000000000000000000000000000000000000000"
         },
         {
-          "offset": "DFDA39",
-          "on": "E9422378019090",
-          "off": "4503B770030000"
+          "offset": "E04E3F",
+          "on": "E93CB878019090",
+          "off": "4103B770030000"
         }
       ]
     },
@@ -226,7 +238,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FD94",
+          "offset": "2590693",
           "on": "64000000",
           "off": "01000000"
         }
@@ -238,7 +250,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FD94",
+          "offset": "2590693",
           "on": "E8030000",
           "off": "01000000"
         }
@@ -250,7 +262,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FD94",
+          "offset": "2590693",
           "on": "10270000",
           "off": "01000000"
         }
@@ -262,7 +274,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FD94",
+          "offset": "2590693",
           "on": "A0860100",
           "off": "01000000"
         }
@@ -274,7 +286,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FD94",
+          "offset": "2590693",
           "on": "40420F00",
           "off": "01000000"
         }
@@ -286,7 +298,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FD94",
+          "offset": "2590693",
           "on": "80969800",
           "off": "01000000"
         }
@@ -298,13 +310,13 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FDA0",
-          "on": "410397740300000FAF1505000000E994DC87FE01000000",
+          "offset": "25906A0",
+          "on": "410397740300000FAF1505000000E99A4787FE01000000",
           "off": "0000000000000000000000000000000000000000000000"
         },
         {
-          "offset": "DFDA40",
-          "on": "E95B2378019090",
+          "offset": "E04E46",
+          "on": "E955B878019090",
           "off": "41039774030000"
         }
       ]
@@ -315,7 +327,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FDB3",
+          "offset": "25906B3",
           "on": "64000000",
           "off": "01000000"
         }
@@ -327,7 +339,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FDB3",
+          "offset": "25906B3",
           "on": "E8030000",
           "off": "01000000"
         }
@@ -339,7 +351,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FDB3",
+          "offset": "25906B3",
           "on": "10270000",
           "off": "01000000"
         }
@@ -351,7 +363,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FDB3",
+          "offset": "25906B3",
           "on": "A0860100",
           "off": "01000000"
         }
@@ -363,7 +375,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FDB3",
+          "offset": "25906B3",
           "on": "40420F00",
           "off": "01000000"
         }
@@ -375,7 +387,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FDB3",
+          "offset": "25906B3",
           "on": "80969800",
           "off": "01000000"
         }
@@ -387,13 +399,13 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FDC0",
-          "on": "418B87780300000FAF0505000000E97BDC87FE01000000",
+          "offset": "25906C0",
+          "on": "418B87780300000FAF0505000000E9814787FE01000000",
           "off": "0000000000000000000000000000000000000000000000"
         },
         {
-          "offset": "DFDA47",
-          "on": "E9742378019090",
+          "offset": "E04E4D",
+          "on": "E96EB878019090",
           "off": "418B8778030000"
         }
       ]
@@ -404,7 +416,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FDD3",
+          "offset": "25906D3",
           "on": "64000000",
           "off": "01000000"
         }
@@ -416,7 +428,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FDD3",
+          "offset": "25906D3",
           "on": "E8030000",
           "off": "01000000"
         }
@@ -428,7 +440,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FDD3",
+          "offset": "25906D3",
           "on": "10270000",
           "off": "01000000"
         }
@@ -440,7 +452,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FDD3",
+          "offset": "25906D3",
           "on": "A0860100",
           "off": "01000000"
         }
@@ -452,7 +464,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FDD3",
+          "offset": "25906D3",
           "on": "40420F00",
           "off": "01000000"
         }
@@ -464,7 +476,7 @@
       "type": "checkbox",
       "memory": [
         {
-          "offset": "257FDD3",
+          "offset": "25906D3",
           "on": "80969800",
           "off": "01000000"
         }
