@@ -1,0 +1,5069 @@
+# Available Games
+
+This catalog lists 5065 unique game/version entries from the JSON, MC4, and SHN cheat files in this repository.
+
+- **.hack//G.U Last Recode [Vol.1 Rebirth]** - `CUSA07691` - version `01.00` - `JSON` - `hackGU_vol1.elf`
+- **.hack//G.U. Last Recode** - `CUSA07559` - version `01.00` - `JSON`
+- **.hack//G.U. Last Recode** - `CUSA07559` - version `01.00` - `JSON` - `hackGU_vol2.elf`
+- **[PROTOTYPE® BIOHAZARD BUNDLE]** - `CUSA06545` - version `01.00` - `JSON`
+- **[PROTOTYPE® BIOHAZARD BUNDLE]** - `CUSA06545` - version `01.00` - `SHN`
+- **[PROTOTYPE® BIOHAZARD BUNDLE]** - `CUSA06545` - version `01.00` - `MC4` - `prototype2_ps4.elf`
+- **[PROTOTYPE® BIOHAZARD BUNDLE]** - `CUSA06545` - version `01.00` - `SHN` - `prototype2_ps4.elf`
+- **[PROTOTYPE® BIOHAZARD BUNDLE]** - `CUSA06545` - version `01.00` - `MC4` - `prototype2_ps4f.elf`
+- **[PROTOTYPE® BIOHAZARD BUNDLE]** - `CUSA06545` - version `01.00` - `SHN` - `prototype2_ps4f.elf`
+- **[PROTOTYPE®2]** - `CUSA01765` - version `01.00` - `JSON`
+- **[PROTOTYPE®2]** - `CUSA01765` - version `01.00` - `MC4`
+- **[PROTOTYPE®2]** - `CUSA01765` - version `01.00` - `SHN`
+- **#KILLALLZOMBIES** - `CUSA00849` - version `01.00` - `JSON`
+- **10 Second Ninja X** - `CUSA04692` - version `01.00` - `JSON`
+- **25 to Life (NTSC)** - `SLUS21016` - version `01.00` - `JSON`
+- **25 to Life (NTSC)** - `SLUS21016` - version `01.00` - `SHN`
+- **2Dark** - `CUSA04802` - version `01.00` - `JSON`
+- **2Dark** - `CUSA04802` - version `01.00` - `MC4`
+- **2Dark** - `CUSA04802` - version `01.00` - `SHN`
+- **7 Days to Die** - `CUSA03446` - version `01.18` - `JSON`
+- **7 Days to Die** - `CUSA03446` - version `01.18` - `MC4`
+- **7 Days To Die** - `CUSA03446` - version `01.18` - `MC4`
+- **7 Days to Die** - `CUSA03446` - version `01.18` - `SHN`
+- **7 Days To Die** - `CUSA03455` - version `01.00` - `JSON`
+- **7 Days to Die** - `CUSA03455` - version `01.00` - `MC4`
+- **7 Days To Die** - `CUSA03455` - version `01.00` - `MC4`
+- **7 Days to Die** - `CUSA03455` - version `01.00` - `SHN`
+- **7 Days to Die** - `CUSA03455` - version `01.18` - `JSON`
+- **9 Monkeys of Shaolin** - `CUSA16644` - version `01.01` - `JSON`
+- **A Pixel Story** - `CUSA05957` - version `01.00` - `JSON`
+- **A Plague Tale: Innocence** - `CUSA10812` - version `01.01` - `JSON`
+- **A Plague Tale: Innocence** - `CUSA10812` - version `01.01` - `SHN`
+- **A Plague Tale: Innocence** - `CUSA10812` - version `01.06` - `JSON`
+- **A Plague Tale: Innocence** - `CUSA10812` - version `01.09` - `JSON`
+- **A.O.T. 2** - `CUSA08948` - version `01.00` - `MC4`
+- **A.O.T. 2** - `CUSA08948` - version `01.00` - `SHN`
+- **A.O.T. 2** - `CUSA08948` - version `01.10` - `JSON`
+- **Absolver Downfall** - `CUSA06282` - version `01.15` - `MC4`
+- **AC- Origins** - `CUSA08393` - version `01.00` - `MC4`
+- **AC: Origins** - `CUSA05625` - version `01.41` - `MC4`
+- **AC: Origins** - `CUSA08393` - version `01.00` - `MC4`
+- **AC: Origins** - `CUSA08393` - version `01.00` - `SHN`
+- **AC: Origins** - `CUSA08393` - version `01.41` - `JSON`
+- **AC: Origins** - `CUSA08393` - version `01.41` - `MC4`
+- **AC: Origins** - `CUSA08393` - version `01.41` - `SHN`
+- **AC: Origins** - `CUSA08393` - version `01.43` - `SHN`
+- **ac2** - `CUSA04893` - version `01.02` - `MC4` - `ScimitarAC2.elf`
+- **acb** - `CUSA04893` - version `01.02` - `MC4` - `ScimitarACB.elf`
+- **accc** - `CUSA03440` - version `01.01` - `MC4`
+- **ACE COMBAT™ 7: SKIES UNKNOWN** - `CUSA05636` - version `01.51` - `JSON`
+- **ACE COMBAT™ 7: SKIES UNKNOWN** - `CUSA05636` - version `01.51` - `SHN`
+- **ACE COMBAT™ 7: SKIES UNKNOWN** - `CUSA07202` - version `01.01` - `JSON`
+- **ACE COMBAT™ 7: SKIES UNKNOWN** - `CUSA07202` - version `02.10` - `JSON`
+- **AdVenture Capitalist** - `CUSA03234` - version `01.00` - `MC4`
+- **Adventure of Chris** - `CUSA33315` - version `01.01` - `MC4`
+- **Adventure Time: Pirates of the Enchiridion** - `CUSA10859` - version `01.05` - `JSON`
+- **Aegis of Earth: Protonovus Assault** - `CUSA04250` - version `01.00` - `JSON`
+- **Aegis of Earth: Protonovus Assault** - `CUSA04250` - version `01.00` - `MC4`
+- **Aegis of Earth: Protonovus Assault** - `CUSA04250` - version `01.00` - `SHN`
+- **Aeterna Noctis** - `CUSA31094` - version `01.03` - `JSON`
+- **Aeterna Noctis** - `CUSA31094` - version `01.03` - `MC4`
+- **Aeterna Noctis** - `CUSA31094` - version `01.03` - `SHN`
+- **Aeterna Noctis** - `CUSA31094` - version `01.05` - `MC4`
+- **Aeterna Noctis** - `CUSA31094` - version `01.05` - `SHN`
+- **Aeterna Noctis** - `CUSA32236` - version `01.05` - `MC4`
+- **Aeterno Blade** - `CUSA02876` - version `01.02` - `MC4`
+- **Afterimage** - `CUSA41097` - version `01.05` - `JSON`
+- **Afterimage** - `CUSA41097` - version `01.05` - `MC4`
+- **Afterimage** - `CUSA41097` - version `01.05` - `SHN`
+- **Afterimage** - `CUSA41097` - version `01.21` - `JSON`
+- **Afterimage** - `CUSA41097` - version `01.21` - `SHN`
+- **Agony** - `CUSA11622` - version `01.07` - `JSON`
+- **Agony** - `CUSA11622` - version `01.07` - `MC4`
+- **Agony** - `CUSA11622` - version `01.07` - `SHN`
+- **Airport Simulator - Day & Night** - `CUSA29671` - version `01.01` - `JSON`
+- **AKIBA'S TRIP: UNDEAD ＆ UNDRESSED** - `CUSA01166` - version `01.00` - `JSON`
+- **AKIBA'S TRIP: UNDEAD ＆ UNDRESSED** - `CUSA01166` - version `01.00` - `MC4`
+- **AKIBA'S TRIP: UNDEAD ＆ UNDRESSED** - `CUSA01166` - version `01.00` - `SHN`
+- **Akumajou Dracula** - `SLPM62729` - version `01.00` - `JSON`
+- **Alan Wake Remastered** - `CUSA24653` - version `01.00` - `JSON`
+- **Alan Wake Remastered** - `CUSA24653` - version `01.03` - `JSON`
+- **Alan Wake Remastered** - `CUSA24653` - version `01.05` - `MC4`
+- **Alan Wake Remastered** - `CUSA24653` - version `01.05` - `SHN`
+- **Alchemic Jousts** - `CUSA06924` - version `01.00` - `JSON`
+- **Alchemic Jousts** - `CUSA06924` - version `01.00` - `MC4`
+- **Alchemic Jousts** - `CUSA06924` - version `01.00` - `SHN`
+- **Alex Kidd in Miracle World DX** - `CUSA20239` - version `01.04` - `MC4`
+- **Alex Kidd in Miracle Worlds DX** - `CUSA20239` - version `01.04` - `MC4` - `2`
+- **Alex Kidd in Miracle Worlds DX** - `CUSA20239` - version `01.04` - `JSON`
+- **Alex Kidd in Miracle Worlds DX** - `CUSA20239` - version `01.04` - `MC4`
+- **Alex Kidd in Miracle Worlds DX** - `CUSA20239` - version `01.04` - `SHN`
+- **Alien: Isolation** - `CUSA00362` - version `01.04` - `JSON`
+- **Alien: Isolation** - `CUSA00362` - version `01.04` - `MC4`
+- **Alien: Isolation** - `CUSA00362` - version `01.04` - `SHN`
+- **Alienation** - `CUSA00062` - version `01.06` - `JSON`
+- **ALIENATION** - `CUSA00062` - version `01.06` - `MC4`
+- **Alienation** - `CUSA00062` - version `01.06` - `MC4`
+- **Alienation** - `CUSA00062` - version `01.06` - `SHN`
+- **Aliens Fireteam Elite** - `CUSA27462` - version `01.34` - `JSON`
+- **Aliens Fireteam Elite** - `CUSA27462` - version `01.34` - `MC4`
+- **Aliens Fireteam Elite** - `CUSA27462` - version `01.34` - `SHN`
+- **Aliens Fireteam Elite** - `CUSA27462` - version `01.39` - `MC4`
+- **Aliens Fireteam Elite** - `CUSA27462` - version `01.39` - `SHN`
+- **Aliens: Fireteam Elite (PS4)** - `CUSA27462` - version `01.00` - `JSON`
+- **Aliens: Fireteam Elite (PS4)** - `CUSA27462` - version `01.14` - `JSON`
+- **Aliens: Fireteam Elite (PS4)** - `CUSA27462` - version `01.32` - `JSON`
+- **Ancestors: The Humankind Odyssey** - `CUSA13248` - version `01.01` - `JSON`
+- **Animus Revenant** - `CUSA29677` - version `01.00` - `MC4`
+- **ANNO: Mutationem** - `CUSA23852` - version `05.03` - `JSON`
+- **ANNO: Mutationem** - `CUSA23852` - version `05.03` - `MC4`
+- **ANNO: Mutationem** - `CUSA23852` - version `05.03` - `SHN`
+- **Anno: Mutationem** - `CUSA23853` - version `12.10` - `JSON`
+- **Aragami 2** - `CUSA23443` - version `01.06` - `JSON`
+- **Aragami 2** - `CUSA23443` - version `01.10` - `JSON`
+- **Aragami 2** - `CUSA23443` - version `01.10` - `MC4`
+- **Aragami 2** - `CUSA23443` - version `01.10` - `SHN`
+- **Aragami 2** - `CUSA23444` - version `01.03` - `JSON`
+- **arcadegeddon** - `CUSA29785` - version `01.21` - `MC4`
+- **Arcania: The Complete Tale** - `CUSA01644` - version `01.01` - `MC4`
+- **ARK: Survival Evolved** - `CUSA06676` - version `01.64` - `JSON`
+- **ARK: Survival Evolved** - `CUSA06676` - version `01.64` - `MC4`
+- **Ark: Survival Evolved** - `CUSA06676` - version `01.64` - `MC4`
+- **ARK: Survival Evolved** - `CUSA06676` - version `01.64` - `SHN`
+- **ARK: Survival Evolved** - `CUSA06782` - version `01.00` - `JSON`
+- **ARK: Survival Evolved** - `CUSA06782` - version `01.00` - `MC4`
+- **ARK: Survival Evolved** - `CUSA06782` - version `01.00` - `SHN`
+- **Armored Core VI Fires Of Rubicon** - `CUSA32598` - version `01.01` - `MC4`
+- **Ary and the Secret of Seasons** - `CUSA13262` - version `01.04` - `JSON`
+- **Ashen** - `CUSA14332` - version `01.00` - `JSON`
+- **Assassin Odyesey** - `CUSA09303` - version `01.51` - `MC4`
+- **Assassin's Creed III Remastered** - `CUSA11560` - version `01.03` - `JSON`
+- **Assassin's Creed Mirage** - `CUSA33151` - version `01.02` - `MC4` - `2`
+- **Assassin's Creed Mirage** - `CUSA33151` - version `01.02` - `MC4`
+- **Assassin's Creed Mirage** - `CUSA33151` - version `01.02` - `SHN`
+- **Assassin's Creed Mirage** - `CUSA33151` - version `01.06` - `MC4`
+- **Assassin's Creed Mirage** - `CUSA33151` - version `01.06` - `SHN`
+- **Assassin's Creed Mirage** - `CUSA33151` - version `01.07` - `JSON`
+- **Assassin's Creed Mirage** - `CUSA33151` - version `01.07` - `MC4`
+- **Assassin's Creed Mirage** - `CUSA33151` - version `01.07` - `SHN`
+- **Assassin's Creed Mirage** - `CUSA33151` - version `01.11` - `MC4`
+- **Assassin's Creed Mirage** - `CUSA33151` - version `01.11` - `SHN`
+- **Assassin's Creed Mirage** - `CUSA33152` - version `01.07` - `JSON`
+- **Assassin's Creed Mirage** - `CUSA33152` - version `01.07` - `SHN`
+- **Assassin's Creed Mirage** - `CUSA40975` - version `01.07` - `JSON`
+- **Assassin's Creed Mirage** - `CUSA40975` - version `01.07` - `SHN`
+- **Assassin's Creed The Ezio Collection** - `CUSA04893` - version `01.00` - `JSON` - `ScimitarACR.elf`
+- **Assassin's Creed Valhalla** - `CUSA18522` - version `07.00` - `JSON`
+- **Assassin's Creed Valhalla** - `CUSA18534` - version `08.00` - `JSON`
+- **Assassin's Creed Valhalla** - `CUSA18534` - version `08.00` - `MC4`
+- **Assassin's Creed Valhalla** - `CUSA18534` - version `08.00` - `SHN`
+- **Assassin's Creed: The Ezio Collection** - `CUSA04893` - version `01.00` - `JSON`
+- **Assassin's Creed: The Ezio Collection** - `CUSA04893` - version `01.00` - `SHN`
+- **Assassin's Creed: The Ezio Collection** - `CUSA04893` - version `01.00` - `MC4` - `ScimitarAC2.elf`
+- **Assassin's Creed: The Ezio Collection** - `CUSA04893` - version `01.00` - `SHN` - `ScimitarAC2.elf`
+- **Assassin's Creed: The Ezio Collection** - `CUSA04893` - version `01.00` - `MC4` - `ScimitarACB.elf`
+- **Assassin's Creed: The Ezio Collection** - `CUSA04893` - version `01.00` - `SHN` - `ScimitarACB.elf`
+- **Assassin's Creed: The Ezio Collection** - `CUSA04893` - version `01.00` - `MC4` - `ScimitarACR.elf`
+- **Assassin's Creed: The Ezio Collection** - `CUSA04893` - version `01.00` - `SHN` - `ScimitarACR.elf`
+- **Assassin's Creed: The Ezio Collection** - `CUSA04893` - version `01.02` - `SHN`
+- **Assassin's Creed: The Ezio Collection** - `CUSA04893` - version `01.02` - `MC4` - `ScimitarAC2.elf`
+- **Assassin's Creed: The Ezio Collection** - `CUSA04893` - version `01.02` - `SHN` - `ScimitarAC2.elf`
+- **Assassin's Creed: The Ezio Collection** - `CUSA04893` - version `01.02` - `MC4` - `ScimitarACB.elf`
+- **Assassin's Creed: The Ezio Collection** - `CUSA04893` - version `01.02` - `SHN` - `ScimitarACB.elf`
+- **Assassin's Creed: The Ezio Collection** - `CUSA04893` - version `01.02` - `MC4` - `ScimitarACR.elf`
+- **Assassin's Creed: The Ezio Collection** - `CUSA04893` - version `01.02` - `SHN` - `ScimitarACR.elf`
+- **Assassin's Creed: The Ezio Collection [Assasins Creed 2]** - `CUSA04893` - version `01.00` - `JSON` - `ScimitarAC2.elf`
+- **Assassin's Creed: The Ezio Collection [Assasins Creed Brotherhood]** - `CUSA04893` - version `01.00` - `JSON` - `ScimitarACB.elf`
+- **Assassin's Creed® Mirage** - `CUSA33150` - version `01.07` - `JSON`
+- **Assassin's Creed® Mirage** - `CUSA33150` - version `01.07` - `SHN`
+- **Assassin's Creed® Mirage** - `CUSA33151` - version `01.02` - `JSON`
+- **Assassin's Creed® Origins** - `CUSA05625` - version `01.41` - `JSON`
+- **Assassin's Creed® Origins** - `CUSA05855` - version `01.41` - `JSON`
+- **Assassin's Creed® Origins** - `CUSA05855` - version `01.60` - `MC4`
+- **Assassin's Creed® Origins** - `CUSA05855` - version `01.60` - `SHN`
+- **Assassin's Creed® Unity** - `CUSA00605` - version `01.05` - `JSON`
+- **Assassin's Creed® Unity** - `CUSA00605` - version `01.05` - `MC4`
+- **Assassin's Creed® Unity** - `CUSA00605` - version `01.05` - `SHN`
+- **Assassin's Creed® Valhalla** - `CUSA18522` - version `07.10` - `JSON`
+- **Assassin's Creed® Valhalla** - `CUSA18522` - version `07.20` - `JSON`
+- **Assassin's Creed® Valhalla** - `CUSA18522` - version `07.20` - `MC4`
+- **Assassin's Creed® Valhalla** - `CUSA18522` - version `07.20` - `SHN`
+- **Assassin's Creed® Valhalla** - `CUSA18534` - version `05.10` - `JSON`
+- **Assassin's Creed® Valhalla** - `CUSA18534` - version `5.10` - `JSON`
+- **Assassin’s Creed® Chronicles: Trilogy Pack** - `CUSA03440` - version `01.00` - `JSON`
+- **Assassin’s Creed® Chronicles: Trilogy Pack** - `CUSA03440` - version `01.01` - `MC4`
+- **Assassin’s Creed® Chronicles: Trilogy Pack** - `CUSA03440` - version `01.01` - `SHN`
+- **Assassins Creed - Rogue** - `CUSA10123` - version `01.01` - `MC4`
+- **Assassins Creed - Unity** - `CUSA00606` - version `01.05` - `JSON`
+- **Assassins Creed - Unity** - `CUSA00606` - version `01.05` - `SHN`
+- **Assassins Creed Freedom Cry** - `CUSA00435` - version `01.00` - `MC4`
+- **Assassins Creed Mirage** - `CUSA33151` - version `01.02` - `MC4`
+- **Assassins Creed Valhalla** - `CUSA18534` - version `08.00` - `MC4`
+- **Assassins Creed: The Ezio Collection [Assasins Creed 2]** - `CUSA05008` - version `01.00` - `JSON` - `ScimitarAC2.elf`
+- **Assassins Creed: The Ezio Collection [Assasins Creed Brotherhood]** - `CUSA05008` - version `01.00` - `JSON` - `ScimitarACB.elf`
+- **Assassins Creed: The Ezio Collection [Assasins Creed Revelations]** - `CUSA05008` - version `01.00` - `JSON` - `ScimitarACR.elf`
+- **Assassins Creed? Freedom Cry** - `CUSA00416` - version `01.00` - `MC4`
+- **Assassins Creed® III Remastered** - `CUSA11560` - version `01.03` - `JSON` - `ac3_engine_orbis_fn.elf`
+- **Assassins Creed® IV Black Flag** - `CUSA00009` - version `01.00` - `JSON`
+- **Assassins Creed® IV Black Flag** - `CUSA00009` - version `01.04` - `JSON`
+- **Assassins Creed® IV Black Flag** - `CUSA00009` - version `01.04` - `MC4`
+- **Assassins Creed® IV Black Flag** - `CUSA00009` - version `01.04` - `SHN`
+- **Assassins Creed® Odyssey** - `CUSA09303` - version `01.01` - `JSON`
+- **Assassins Creed® Odyssey** - `CUSA09303` - version `01.51` - `JSON`
+- **Assassins Creed® Odyssey** - `CUSA09303` - version `01.51` - `MC4`
+- **Assassins Creed® Odyssey** - `CUSA09303` - version `01.51` - `SHN`
+- **Assassins Creed® Odyssey** - `CUSA09303` - version `01.54` - `JSON`
+- **Assassins Creed® Odyssey** - `CUSA09303` - version `01.56` - `JSON`
+- **Assassins Creed® Odyssey** - `CUSA09311` - version `01.56` - `JSON`
+- **Assassins Creed® Odyssey** - `CUSA12042` - version `01.51` - `JSON`
+- **Assassins Creed® Odyssey** - `CUSA12042` - version `01.54` - `JSON`
+- **Assassins Creed® Odyssey** - `CUSA12042` - version `01.56` - `JSON`
+- **Assassins Creed® Origins** - `CUSA05625` - version `01.41` - `MC4`
+- **Assassins Creed® Origins** - `CUSA05625` - version `01.41` - `SHN`
+- **Assassins Creed® Origins** - `CUSA05625` - version `01.43` - `SHN`
+- **Assassins Creed® Origins** - `CUSA05625` - version `01.44` - `JSON`
+- **Assassins Creed® Rogue Remastered** - `CUSA10123` - version `01.01` - `JSON`
+- **Assassins Creed® Rogue Remastered** - `CUSA10123` - version `01.01` - `MC4`
+- **Assassins Creed® Rogue Remastered** - `CUSA10123` - version `01.01` - `SHN`
+- **Assassins Creed® Syndicate** - `CUSA02376` - version `01.52` - `SHN` - `2`
+- **Assassins Creed® Syndicate** - `CUSA02376` - version `01.52` - `JSON`
+- **Assassins Creed® Syndicate** - `CUSA02376` - version `01.52` - `MC4`
+- **Assassins Creed® Syndicate** - `CUSA02376` - version `01.52` - `SHN`
+- **Assassins Creed® Valhalla** - `CUSA18522` - version `01.01` - `JSON`
+- **Assassins Creed® Valhalla** - `CUSA18522` - version `06.30` - `JSON`
+- **Assassins Creed® Valhalla** - `CUSA18534` - version `01.01` - `JSON`
+- **Assassins Creed® Valhalla** - `CUSA18534` - version `05.00` - `JSON`
+- **Assault Android Cactus** - `CUSA01193` - version `01.01` - `MC4`
+- **Astalon TOTE** - `CUSA25970` - version `01.04` - `MC4`
+- **Asterigos: Curse of the Stars** - `CUSA34073` - version `01.09` - `JSON`
+- **Asterix & Obelix XXL** - `CUSA19541` - version `01.02` - `JSON`
+- **Asterix & Obelix XXL** - `CUSA19541` - version `01.02` - `MC4`
+- **Asterix & Obelix XXL** - `CUSA19541` - version `01.02` - `SHN`
+- **Asterix & Obelix XXL2** - `CUSA13367` - version `01.03` - `JSON`
+- **Asterix & Obelix XXL3** - `CUSA16983` - version `01.06` - `JSON`
+- **Asterix and Obelix - Slap them all!** - `CUSA23755` - version `01.03` - `SHN` - `2`
+- **Asterix and Obelix - Slap them all!** - `CUSA23755` - version `01.03` - `JSON`
+- **Asterix and Obelix - Slap them all!** - `CUSA23755` - version `01.03` - `SHN`
+- **Asterix e Obelix XXL** - `CUSA19541` - version `01.02` - `MC4`
+- **Astroneer** - `CUSA16473` - version `01.43` - `JSON`
+- **Astroneer** - `CUSA16473` - version `01.43` - `MC4`
+- **Astroneer** - `CUSA16473` - version `01.43` - `SHN`
+- **Atelier Ryza: Ever Darkness & the Secret Hideout** - `CUSA16458` - version `01.01` - `JSON`
+- **Atelier Ryza: Ever Darkness & the Secret Hideout** - `CUSA16458` - version `01.01` - `SHN`
+- **Atelier Ryza: Ever Darkness & the Secret Hideout** - `CUSA16458` - version `01.07` - `JSON`
+- **Atelier Sophie The Alchemist of the Mysterious Book** - `CUSA05034` - version `01.00` - `MC4`
+- **Atomic Heart** - `CUSA37321` - version `01.05` - `JSON`
+- **Atomic Heart** - `CUSA37321` - version `01.05` - `MC4`
+- **Atomic Heart** - `CUSA37321` - version `01.05` - `SHN`
+- **Atomic Heart** - `CUSA37321` - version `01.08` - `JSON`
+- **Atomic Heart** - `CUSA37321` - version `01.12` - `MC4`
+- **Atomic Heart** - `CUSA37321` - version `01.12` - `SHN`
+- **Atomic Heart** - `CUSA37321` - version `01.16` - `MC4`
+- **Atomic Heart** - `CUSA37321` - version `01.16` - `SHN`
+- **Atomic Heart** - `CUSA37321` - version `01.24` - `MC4`
+- **Atomic Heart** - `CUSA37321` - version `01.24` - `SHN`
+- **Atomic Heart** - `CUSA37321` - version `01.29` - `MC4`
+- **Atomic Heart** - `CUSA37321` - version `01.29` - `SHN`
+- **Attack on Titan 2** - `CUSA08948` - version `01.00` - `JSON`
+- **Attack on Titan 2** - `CUSA08948` - version `01.00` - `MC4`
+- **Aven Colony** - `CUSA08055` - version `01.05` - `JSON`
+- **Aven Colony** - `CUSA08055` - version `01.05` - `MC4`
+- **Aven Colony** - `CUSA08055` - version `01.05` - `SHN`
+- **Axiom Verge 2** - `CUSA29346` - version `01.03` - `JSON`
+- **Axiom Verge 2** - `CUSA29346` - version `01.03` - `MC4`
+- **Axiom Verge 2** - `CUSA29346` - version `01.03` - `SHN`
+- **Back 4 Blood** - `CUSA14275` - version `01.00` - `JSON`
+- **Back 4 Blood** - `CUSA14275` - version `01.08` - `JSON`
+- **Back 4 Blood Ultimate Edition** - `CUSA14275` - version `01.11` - `JSON`
+- **Back 4 Blood Ultimate Edition** - `CUSA14275` - version `01.11` - `MC4`
+- **Back 4 Blood Ultimate Edition** - `CUSA14275` - version `01.11` - `SHN`
+- **Balan Wonderworld** - `CUSA24813` - version `01.01` - `MC4`
+- **BALAN WONDERWORLD** - `CUSA24814` - version `01.01` - `JSON`
+- **Baldo The Guardian Owls** - `CUSA27312` - version `01.00` - `JSON`
+- **Baldo The guardian owls** - `CUSA27312` - version `01.15` - `JSON`
+- **Baldo The guardian owls** - `CUSA27312` - version `01.15` - `MC4`
+- **Baldo The guardian owls** - `CUSA27312` - version `01.18` - `MC4`
+- **Baldo: The Guardian Owls** - `CUSA27312` - version `01.15` - `MC4`
+- **Baldo: The Guardian Owls** - `CUSA27312` - version `01.15` - `SHN`
+- **Baldo: The Guardian Owls** - `CUSA27312` - version `01.18` - `JSON`
+- **Baldo: The Guardian Owls** - `CUSA27312` - version `01.18` - `MC4`
+- **Baldo: The Guardian Owls** - `CUSA27312` - version `01.18` - `SHN`
+- **Baldur?s Gate : Dark Alliance** - `CUSA27997` - version `01.03` - `MC4`
+- **Baldur's Gate: Dark Alliance** - `CUSA27997` - version `01.03` - `JSON`
+- **Baldur's Gate: Dark Alliance** - `CUSA27997` - version `01.03` - `MC4`
+- **Baldur's Gate: Dark Alliance** - `CUSA27997` - version `01.03` - `SHN`
+- **Bastion** - `CUSA02057` - version `01.00` - `JSON`
+- **Bastion** - `CUSA02057` - version `01.00` - `MC4`
+- **Bastion** - `CUSA02057` - version `01.00` - `SHN`
+- **Batman -  Arkham Night** - `CUSA00135` - version `01.15` - `MC4`
+- **Batman : Arkham Knight** - `CUSA00135` - version `01.14` - `JSON`
+- **Batman : Arkham Knight** - `CUSA00135` - version `01.14` - `MC4`
+- **Batman Forever: The Arcade Game** - `SLUS00387` - version `01.00` - `JSON`
+- **Batman Forever: The Arcade Game** - `SLUS00387` - version `01.00` - `SHN`
+- **Batman: Arkham Knight** - `CUSA00133` - version `01.14` - `MC4`
+- **Batman: Return to Arkham - Arkham City** - `CUSA02000` - version `01.02` - `JSON`
+- **Batman: Return to Arkham - Arkham City** - `CUSA02000` - version `01.02` - `MC4`
+- **Batman: Return to Arkham - Arkham City** - `CUSA02000` - version `01.02` - `SHN`
+- **Batman: Return to Arkham City** - `CUSA02000` - version `01.02` - `MC4`
+- **BATMAN™: ARKHAM KNIGHT** - `CUSA00133` - version `01.14` - `JSON`
+- **BATMAN™: ARKHAM KNIGHT** - `CUSA00133` - version `01.14` - `MC4`
+- **BATMAN™: ARKHAM KNIGHT** - `CUSA00133` - version `01.14` - `SHN`
+- **BATMAN™: ARKHAM KNIGHT** - `CUSA00135` - version `01.14` - `JSON`
+- **BATMAN™: ARKHAM KNIGHT** - `CUSA00135` - version `01.14` - `MC4`
+- **BATMAN™: ARKHAM KNIGHT** - `CUSA00135` - version `01.14` - `SHN`
+- **BATMAN™: ARKHAM KNIGHT** - `CUSA00135` - version `01.15` - `JSON`
+- **BATMAN™: ARKHAM KNIGHT** - `CUSA00135` - version `01.15` - `MC4`
+- **BATMAN™: ARKHAM KNIGHT** - `CUSA00135` - version `01.15` - `SHN`
+- **Battle Axe** - `CUSA19633` - version `01.01` - `JSON`
+- **Battle Axe** - `CUSA19633` - version `01.01` - `MC4`
+- **Battle Axe** - `CUSA19633` - version `01.01` - `SHN`
+- **Battlefield 1** - `CUSA02387` - version `01.00` - `JSON`
+- **Battlefield 1** - `CUSA02429` - version `01.00` - `MC4`
+- **Battlefield 1** - `CUSA02429` - version `01.27` - `MC4`
+- **Battlefield 4** - `CUSA00049` - version `01.00` - `JSON`
+- **Battlefield 4** - `CUSA00049` - version `01.24` - `MC4`
+- **Battlefield 4™** - `CUSA00049` - version `01.24` - `JSON`
+- **Battlefield 4™** - `CUSA00049` - version `01.24` - `MC4`
+- **Battlefield 4™** - `CUSA00049` - version `01.24` - `SHN`
+- **Battlefield V** - `CUSA08724` - version `01.38` - `MC4`
+- **Battlefield™ 1** - `CUSA02429` - version `01.00` - `JSON`
+- **Battlefield™ 1** - `CUSA02429` - version `01.00` - `MC4`
+- **Battlefield™ 1** - `CUSA02429` - version `01.00` - `SHN`
+- **Battlefield™ 1** - `CUSA02429` - version `01.27` - `MC4`
+- **Battlefield™ 1** - `CUSA02429` - version `01.27` - `SHN`
+- **Battlefield™ V** - `CUSA08670` - version `01.01` - `JSON`
+- **Battlefield™ V** - `CUSA08724` - version `01.33` - `JSON`
+- **Battlefield™ V** - `CUSA08724` - version `01.38` - `JSON`
+- **Battlefield™ V** - `CUSA08724` - version `01.38` - `MC4`
+- **Battlefield™ V** - `CUSA08724` - version `01.38` - `SHN`
+- **Bayonetta** - `CUSA16163` - version `01.01` - `JSON`
+- **Bayonetta** - `CUSA16163` - version `01.01` - `SHN`
+- **Beast Quest** - `CUSA09052` - version `01.00` - `MC4`
+- **Berserk and the Band of the Hawk** - `CUSA07406` - version `01.00` - `MC4`
+- **BF1** - `CUSA02387` - version `01.27` - `JSON`
+- **Big Rumble Boxing Creed Champions** - `CUSA25617` - version `01.00` - `JSON`
+- **Biomutant** - `CUSA09848` - version `02.09` - `JSON`
+- **Biomutant** - `CUSA09848` - version `02.09` - `MC4`
+- **Biomutant** - `CUSA09848` - version `02.09` - `SHN`
+- **BioShock : The Collection** - `CUSA03979` - version `01.00` - `JSON` - `LaunchOrbis.elf`
+- **BioShock : The Collection** - `CUSA03979` - version `01.00` - `MC4` - `LaunchOrbis.elf`
+- **BioShock Infinite: The Collection** - `CUSA03980` - version `01.00` - `JSON`
+- **BioShock Infinite: The Collection** - `CUSA03980` - version `01.00` - `MC4`
+- **Bioshock Infinite: The Complete Edition** - `CUSA03980` - version `01.00` - `MC4`
+- **Bioshock Infinite: The Complete Edition** - `CUSA03980` - version `01.00` - `SHN`
+- **Bioshock Infinite: The Complete Edition** - `CUSA03980` - version `01.02` - `JSON`
+- **Bioshock Infinite: The Complete Edition** - `CUSA03980` - version `01.02` - `MC4`
+- **Bioshock Infinite: The Complete Edition** - `CUSA03980` - version `01.02` - `SHN`
+- **BioShock: The Collection** - `CUSA03979` - version `01.00` - `JSON`
+- **BioShock: The Collection** - `CUSA03979` - version `01.00` - `SHN`
+- **BioShock: The Collection** - `CUSA03979` - version `01.00` - `MC4` - `LaunchOrbis.elf`
+- **BioShock: The Collection** - `CUSA03979` - version `01.00` - `SHN` - `LaunchOrbis.elf`
+- **BioShock: The Collection** - `CUSA03979` - version `01.03` - `JSON`
+- **BioShock: The Collection** - `CUSA03979` - version `01.03` - `JSON` - `LaunchOrbis.elf`
+- **Bite - The Bullet** - `CUSA20549` - version `01.01` - `MC4`
+- **Black** - `SLES53887` - version `01.00` - `JSON`
+- **Black ops 3** - `CUSA02290` - version `01.33` - `JSON`
+- **Black ops 3** - `CUSA02290` - version `01.33` - `SHN`
+- **Blade Assault** - `CUSA35005` - version `01.01` - `JSON`
+- **Blade Assault** - `CUSA35005` - version `01.01` - `MC4`
+- **Blade Assault** - `CUSA35005` - version `01.01` - `SHN`
+- **Blade Aussault** - `CUSA35005` - version `01.01` - `MC4`
+- **Bladed Fury** - `CUSA24669` - version `01.01` - `JSON`
+- **Blasphemous** - `CUSA16261` - version `01.05` - `JSON`
+- **Blasphemous** - `CUSA16261` - version `01.08` - `MC4`
+- **Blasphemous** - `CUSA16261` - version `01.08` - `SHN`
+- **Blasphemous** - `CUSA16275` - version `01.08` - `JSON`
+- **Blasphemous** - `CUSA16275` - version `01.08` - `MC4`
+- **Blasphemous** - `CUSA16275` - version `01.08` - `SHN`
+- **Blasphemous II** - `CUSA44317` - version `01.01` - `JSON`
+- **Blasphemous II** - `CUSA44317` - version `01.01` - `MC4`
+- **Blasphemous II** - `CUSA44317` - version `01.01` - `SHN`
+- **Blasphemous II** - `CUSA44317` - version `01.02` - `MC4`
+- **Blasphemous II** - `CUSA44317` - version `01.02` - `SHN`
+- **Blaster Master Zero** - `CUSA19647` - version `01.01` - `JSON`
+- **Blaster Master Zero 2** - `CUSA19648` - version `01.04` - `JSON`
+- **Blaster Master Zero 3** - `CUSA27578` - version `01.12` - `JSON`
+- **Blazing Chrome** - `CUSA14656` - version `01.01` - `JSON`
+- **Blazing Chrome** - `CUSA14656` - version `01.01` - `MC4`
+- **Blazing Chrome** - `CUSA14656` - version `01.01` - `SHN`
+- **Blood-Rayne-Betrayal.Fresh.Bites** - `CUSA26608` - version `01.00` - `JSON`
+- **Bloodborne** - `CUSA00207` - version `01.00` - `JSON`
+- **Bloodborne** - `CUSA00208` - version `01.00` - `JSON`
+- **Bloodborne** - `CUSA00900` - version `01.00` - `JSON`
+- **Bloodborne** - `CUSA01363` - version `01.00` - `JSON`
+- **Bloodborne** - `CUSA03014` - version `01.00` - `JSON`
+- **Bloodborne** - `CUSA03173` - version `01.00` - `JSON`
+- **Bloodborne™** - `CUSA00207` - version `01.00` - `SHN`
+- **Bloodborne™** - `CUSA00207` - version `01.09` - `SHN` - `2`
+- **Bloodborne™** - `CUSA00207` - version `01.09` - `JSON`
+- **Bloodborne™** - `CUSA00207` - version `01.09` - `SHN`
+- **Bloodborne™** - `CUSA00208` - version `01.00` - `SHN`
+- **Bloodborne™** - `CUSA00208` - version `01.09` - `SHN` - `2`
+- **Bloodborne™** - `CUSA00208` - version `01.09` - `JSON`
+- **Bloodborne™** - `CUSA00208` - version `01.09` - `SHN`
+- **Bloodborne™** - `CUSA00900` - version `01.00` - `SHN`
+- **Bloodborne™** - `CUSA00900` - version `01.09` - `SHN` - `2`
+- **Bloodborne™** - `CUSA00900` - version `01.09` - `JSON`
+- **Bloodborne™** - `CUSA00900` - version `01.09` - `SHN`
+- **Bloodborne™** - `CUSA01363` - version `01.00` - `SHN`
+- **Bloodborne™** - `CUSA01363` - version `01.09` - `SHN` - `2`
+- **Bloodborne™** - `CUSA01363` - version `01.09` - `JSON`
+- **Bloodborne™** - `CUSA01363` - version `01.09` - `SHN`
+- **Bloodborne™** - `CUSA03014` - version `01.00` - `SHN`
+- **Bloodborne™** - `CUSA03014` - version `01.09` - `SHN` - `2`
+- **Bloodborne™** - `CUSA03014` - version `01.09` - `JSON`
+- **Bloodborne™** - `CUSA03014` - version `01.09` - `SHN`
+- **Bloodborne™** - `CUSA03173` - version `01.00` - `JSON`
+- **Bloodborne™** - `CUSA03173` - version `01.00` - `MC4`
+- **Bloodborne™** - `CUSA03173` - version `01.00` - `SHN`
+- **Bloodborne™** - `CUSA03173` - version `01.09` - `SHN` - `2`
+- **Bloodborne™** - `CUSA03173` - version `01.09` - `JSON`
+- **Bloodborne™** - `CUSA03173` - version `01.09` - `MC4`
+- **Bloodborne™** - `CUSA03173` - version `01.09` - `SHN`
+- **BloodRayne Betrayal Flesh bites** - `CUSA26608` - version `01.00` - `SHN`
+- **BloodRayne Betrayal Flesh bites** - `CUSA26608` - version `01.01` - `JSON`
+- **BloodRayne Betrayal Flesh bites** - `CUSA26608` - version `01.01` - `MC4`
+- **BloodRayne Betrayal Flesh bites** - `CUSA26608` - version `01.01` - `SHN`
+- **Bloodstained Ritual of the Night** - `CUSA07953` - version `01.01` - `MC4`
+- **Bloodstained: Curse of the Moon** - `CUSA12562` - version `01.01` - `JSON`
+- **Bloodstained: Curse of the Moon** - `CUSA12562` - version `01.01` - `MC4`
+- **Bloodstained: Curse of the Moon** - `CUSA12562` - version `01.01` - `SHN`
+- **Bloodstained: Ritual of the Night** - `CUSA07953` - version `01.01` - `JSON`
+- **Bloodstained: Ritual of the Night** - `CUSA07953` - version `01.01` - `MC4`
+- **Bloodstained: Ritual of the Night** - `CUSA07953` - version `01.01` - `SHN`
+- **Bloodstained: Ritual of the Night** - `CUSA07953` - version `01.40` - `JSON`
+- **Bloodstained: Ritual of the Night** - `CUSA07953` - version `01.60` - `SHN` - `2`
+- **Bloodstained: Ritual of the Night** - `CUSA07953` - version `01.60` - `SHN` - `3`
+- **Bloodstained: Ritual of the Night** - `CUSA07953` - version `01.60` - `MC4`
+- **Bloodstained: Ritual of the Night** - `CUSA07953` - version `01.60` - `SHN`
+- **Bloody Zombies** - `CUSA08543` - version `01.00` - `JSON`
+- **Bloody Zombies** - `CUSA08543` - version `01.03` - `MC4`
+- **Bloody Zombies** - `CUSA08543` - version `01.03` - `SHN`
+- **Bloons TD 5** - `CUSA08065` - version `01.01` - `JSON`
+- **Bloons TD 5** - `CUSA08065` - version `01.02` - `JSON`
+- **Blowout** - `SLUS20850` - version `01.00` - `JSON`
+- **Blowout** - `SLUS20850` - version `01.00` - `SHN`
+- **Blue Fire** - `CUSA19549` - version `01.05` - `JSON`
+- **BLUE REFLECTION: Second Light** - `CUSA25335` - version `01.05` - `MC4`
+- **Bombing Busters** - `CUSA03168` - version `01.00` - `JSON`
+- **Borderlands 3** - `CUSA08025` - version `01.00` - `JSON`
+- **Borderlands GOTY** - `CUSA10455` - version `01.07` - `JSON`
+- **Borderlands THC: Borderlands 2** - `CUSA02980` - version `01.00` - `JSON` - `MAGNOLIA.elf`
+- **Borderlands THC: Borderlands Pre-Sequel** - `CUSA02980` - version `01.00` - `JSON` - `ARBUTUS.elf`
+- **Borderlands: The Handsome Collection** - `CUSA02980` - version `01.00` - `JSON`
+- **Borderlands: The Handsome Collection** - `CUSA02980` - version `01.00` - `SHN`
+- **Borderlands: The Handsome Collection** - `CUSA02980` - version `01.00` - `MC4` - `MAGNOLIA.elf`
+- **Borderlands: The Handsome Collection** - `CUSA02980` - version `01.00` - `SHN` - `MAGNOLIA.elf`
+- **Borderlands: The Handsome Collection** - `CUSA02980` - version `01.02` - `SHN`
+- **Borderlands: The Handsome Collection** - `CUSA02980` - version `01.02` - `MC4` - `MAGNOLIA.elf`
+- **Borderlands: The Handsome Collection** - `CUSA02980` - version `01.02` - `SHN` - `MAGNOLIA.elf`
+- **Borderlands® 2 VR** - `CUSA13946` - version `01.03` - `JSON`
+- **Borderlands® 3** - `CUSA07823` - version `01.29` - `JSON`
+- **Borderlands® 3** - `CUSA07823` - version `01.29` - `MC4`
+- **Borderlands® 3** - `CUSA07823` - version `01.29` - `SHN`
+- **Borderlands® 3** - `CUSA07823` - version `01.30` - `MC4`
+- **Borderlands® 3** - `CUSA07823` - version `01.30` - `SHN`
+- **Borderlands® 3** - `CUSA08025` - version `01.01` - `JSON`
+- **Borderlands® 3** - `CUSA08025` - version `01.11` - `SHN` - `2`
+- **Borderlands® 3** - `CUSA08025` - version `01.11` - `JSON`
+- **Borderlands® 3** - `CUSA08025` - version `01.11` - `SHN`
+- **Borderlands® 3** - `CUSA08025` - version `01.16` - `JSON`
+- **Bramble the Mountain King** - `CUSA35719` - version `01.01` - `MC4`
+- **Bulletstorm** - `CUSA07188` - version `01.00` - `MC4`
+- **Bulletstorm full Clip Edition** - `CUSA07143` - version `01.04` - `MC4`
+- **Bulletstorm: Full Clip Edition** - `CUSA07143` - version `01.04` - `JSON`
+- **Bulletstorm: Full Clip Edition** - `CUSA07143` - version `01.04` - `MC4`
+- **Bulletstorm: Full Clip Edition** - `CUSA07143` - version `01.04` - `SHN`
+- **Bulletstorm: Full Clip Edition** - `CUSA07188` - version `01.00` - `JSON`
+- **Bully** - `CUSA03551` - version `01.00` - `JSON`
+- **Burnout Paradise Remastered** - `CUSA10851` - version `01.02` - `JSON`
+- **Burnout Paradise Remastered** - `CUSA10851` - version `01.02` - `SHN`
+- **Bus Simulator 21** - `CUSA14925` - version `02.21` - `JSON`
+- **Bus Simulator 21** - `CUSA14925` - version `02.22` - `JSON`
+- **Bus Simulator 21** - `CUSA14925` - version `02.22` - `MC4`
+- **Bus Simulator 21** - `CUSA14925` - version `02.22` - `SHN`
+- **Bus Simulator 21** - `CUSA14925` - version `02.28` - `JSON`
+- **Bus Simulator 21** - `CUSA14925` - version `02.28` - `MC4`
+- **Bus Simulator 21** - `CUSA14925` - version `02.28` - `SHN`
+- **C-The Contra Adventure (USA)** - `SLUS00499` - version `01.00` - `JSON`
+- **C-The Contra Adventure (USA)** - `SLUS00499` - version `01.00` - `MC4`
+- **C-The Contra Adventure (USA)** - `SLUS00499` - version `01.00` - `SHN`
+- **caladrius-Blaze** - `CUSA03698` - version `01.01` - `JSON`
+- **caladrius-Blaze** - `CUSA03698` - version `01.01` - `SHN`
+- **Call Of Duty Advanced Warfare** - `CUSA00803` - version `01.24` - `MC4` - `default.elf`
+- **Call Of Duty Black Ops Cold War** - `CUSA15010` - version `01.41` - `MC4`
+- **Call of Duty Ghosts** - `CUSA00018` - version `01.20` - `MC4` - `default.elf`
+- **Call Of Duty Ghosts** - `CUSA00018` - version `01.21` - `MC4` - `default.elf`
+- **Call Of Duty Infinite Warfare** - `CUSA04762` - version `01.25` - `MC4` - `default.elf`
+- **Call Of Duty Infinite Warfare** - `CUSA05369` - version `01.25` - `MC4` - `default.elf`
+- **Call Of Duty Modern Warfare 2 Campaign Remastered** - `CUSA09249` - version `01.00` - `MC4` - `default.elf`
+- **Call of Duty Modern Warfare 2019** - `CUSA08829` - version `01.67` - `JSON`
+- **Call of Duty Modern Warfare 2019** - `CUSA08829` - version `01.67` - `MC4`
+- **Call of Duty Modern Warfare 2019** - `CUSA08829` - version `01.67` - `SHN`
+- **Call of Duty Modern Warfare II** - `CUSA34029` - version `01.08` - `JSON` - `sp22-cod.elf`
+- **Call of Duty Modern Warfare II** - `CUSA34029` - version `01.08` - `MC4` - `sp22-cod.elf`
+- **Call Of Duty Vanguard** - `CUSA24041` - version `01.26` - `MC4`
+- **Call of Duty: Advanced Warfare** - `CUSA00803` - version `01.24` - `MC4` - `default.elf`
+- **Call of Duty: Advanced Warfare** - `CUSA00803` - version `01.24` - `SHN` - `default.elf`
+- **Call of Duty: Advanced Warfare** - `CUSA00803` - version `01.24` - `JSON`
+- **Call of Duty: Advanced Warfare** - `CUSA00803` - version `01.24` - `SHN`
+- **Call of Duty: Advanced Warfare** - `CUSA00851` - version `01.00` - `JSON`
+- **Call of Duty: Black Ops 3 Zombies** - `CUSA02624` - version `01.26` - `MC4`
+- **Call of Duty: Black Ops 4** - `CUSA12446` - version `01.26` - `JSON`
+- **Call of Duty: Black Ops 4 Zombies** - `CUSA12443` - version `01.24` - `MC4`
+- **Call of Duty: Ghosts** - `CUSA00018` - version `01.20` - `MC4` - `default.elf`
+- **Call of Duty: Ghosts** - `CUSA00018` - version `01.20` - `SHN` - `default.elf`
+- **Call of Duty: Ghosts** - `CUSA00018` - version `01.20` - `SHN`
+- **Call of Duty: Ghosts** - `CUSA00018` - version `01.21` - `MC4` - `default.elf`
+- **Call of Duty: Ghosts** - `CUSA00018` - version `01.21` - `SHN` - `default.elf`
+- **Call of Duty: Ghosts** - `CUSA00018` - version `01.21` - `JSON`
+- **Call of Duty: Ghosts** - `CUSA00018` - version `01.21` - `SHN`
+- **Call of Duty: Ghosts** - `CUSA00025` - version `01.00` - `JSON`
+- **Call of Duty: Infinite Warfare** - `CUSA04762` - version `01.25` - `MC4` - `default.elf`
+- **Call of Duty: Infinite Warfare** - `CUSA04762` - version `01.25` - `SHN` - `default.elf`
+- **Call of Duty: Infinite Warfare** - `CUSA04762` - version `01.25` - `JSON`
+- **Call of Duty: Infinite Warfare** - `CUSA04762` - version `01.25` - `SHN`
+- **Call of Duty: Infinite Warfare** - `CUSA05282` - version `01.00` - `MC4` - `default.elf`
+- **Call of Duty: Infinite Warfare** - `CUSA05282` - version `01.00` - `SHN` - `default.elf`
+- **Call of Duty: Infinite Warfare** - `CUSA05282` - version `01.00` - `JSON`
+- **Call of Duty: Infinite Warfare** - `CUSA05282` - version `01.00` - `SHN`
+- **Call of Duty: Infinite Warfare** - `CUSA05282` - version `01.24` - `MC4` - `default.elf`
+- **Call of Duty: Infinite Warfare** - `CUSA05282` - version `01.24` - `SHN` - `default.elf`
+- **Call of Duty: Infinite Warfare** - `CUSA05282` - version `01.24` - `SHN`
+- **Call of Duty: Infinite Warfare** - `CUSA05369` - version `01.25` - `MC4` - `default.elf`
+- **Call of Duty: Infinite Warfare** - `CUSA05369` - version `01.25` - `SHN` - `default.elf`
+- **Call of Duty: Infinite Warfare** - `CUSA05369` - version `01.25` - `JSON`
+- **Call of Duty: Infinite Warfare** - `CUSA05369` - version `01.25` - `SHN`
+- **Call of Duty: Modern Warfare** - `CUSA08829` - version `01.01` - `JSON`
+- **Call of Duty: Modern Warfare 2 Campaign Remastered** - `CUSA09249` - version `01.00` - `MC4` - `default.elf`
+- **Call of Duty: Modern Warfare 2 Campaign Remastered** - `CUSA09249` - version `01.00` - `SHN` - `default.elf`
+- **Call of Duty: Modern Warfare 2 Campaign Remastered** - `CUSA09249` - version `01.00` - `JSON`
+- **Call of Duty: Modern Warfare 2 Campaign Remastered** - `CUSA09249` - version `01.00` - `SHN`
+- **Call of Duty: Modern Warfare II** - `CUSA34029` - version `01.08` - `JSON`
+- **Call of Duty: Modern Warfare Remastered** - `CUSA03522` - version `01.02` - `SHN` - `default_mp.elf`
+- **Call of Duty: Modern Warfare Remastered** - `CUSA03522` - version `01.02` - `SHN` - `default.elf`
+- **Call of Duty: Modern Warfare Remastered** - `CUSA03522` - version `01.02` - `SHN`
+- **Call of Duty: Modern Warfare Remastered** - `CUSA03522` - version `01.13` - `MC4` - `default_mp.elf`
+- **Call of Duty: Modern Warfare Remastered** - `CUSA03522` - version `01.13` - `SHN` - `default_mp.elf`
+- **Call of Duty: Modern Warfare Remastered** - `CUSA03522` - version `01.13` - `MC4` - `default.elf`
+- **Call of Duty: Modern Warfare Remastered** - `CUSA03522` - version `01.13` - `SHN` - `default.elf`
+- **Call of Duty: Modern Warfare Remastered** - `CUSA03522` - version `01.13` - `JSON`
+- **Call of Duty: Modern Warfare Remastered** - `CUSA03522` - version `01.13` - `SHN`
+- **Call of Duty: WWII** - `CUSA05969` - version `01.11` - `MC4` - `default_mp.elf`
+- **Call of Duty: WWII** - `CUSA05969` - version `01.11` - `SHN` - `default_mp.elf`
+- **Call of Duty: WWII** - `CUSA05969` - version `01.11` - `JSON`
+- **Call of Duty: WWII** - `CUSA05969` - version `01.11` - `SHN`
+- **Call of Duty: WWII** - `CUSA05969` - version `01.25` - `JSON`
+- **Call of Duty® Ghosts** - `CUSA00018` - version `01.21` - `JSON` - `default.elf`
+- **Call of Duty® Ghosts** - `CUSA00025` - version `01.00` - `JSON` - `default_mp.elf`
+- **Call of Duty® Modern Warfare® III** - `CUSA34029` - version `01.08` - `SHN`
+- **Call of Duty® Modern Warfare® III** - `CUSA34029` - version `01.08` - `MC4` - `sp22-cod.elf`
+- **Call of Duty® Modern Warfare® III** - `CUSA34029` - version `01.08` - `SHN` - `sp22-cod.elf`
+- **Call of Duty® Modern Warfare® III** - `CUSA34029` - version `01.33` - `SHN`
+- **Call of Duty® Modern Warfare® III** - `CUSA34029` - version `01.33` - `JSON` - `sp23-cod.elf`
+- **Call of Duty® Modern Warfare® III** - `CUSA34029` - version `01.33` - `SHN` - `sp23-cod.elf`
+- **Call of Duty® WWII (Campaign)** - `CUSA08602` - version `01.25` - `JSON` - `default.elf`
+- **Call of Duty® WWII (Campaign)** - `CUSA08602` - version `01.25` - `SHN` - `default.elf`
+- **Call of Duty® WWII (Campaign)** - `CUSA08602` - version `01.25` - `SHN`
+- **Call of Duty®: Advanced Warfare** - `CUSA00803` - version `01.24` - `JSON` - `default.elf`
+- **Call of Duty®: Advanced Warfare** - `CUSA00851` - version `01.00` - `JSON` - `default_mp.elf`
+- **Call of Duty®: Black Ops** - `CUSA57547` - version `01.08` - `JSON`
+- **Call of Duty®: Black Ops 4** - `CUSA11100` - version `01.00` - `JSON`
+- **Call of Duty®: Black Ops 4** - `CUSA11100` - version `01.26` - `JSON`
+- **Call of Duty®: Black Ops 4** - `CUSA11100` - version `01.26` - `MC4`
+- **Call of Duty®: Black Ops 4** - `CUSA11100` - version `01.26` - `SHN`
+- **Call of Duty®: Black Ops 4** - `CUSA12433` - version `01.26` - `JSON`
+- **Call of Duty®: Black Ops 4** - `CUSA12443` - version `01.24` - `JSON`
+- **Call of Duty®: Black Ops Cold War** - `CUSA15010` - version `01.27` - `JSON`
+- **Call of Duty®: Black Ops Cold War** - `CUSA15010` - version `01.36` - `JSON`
+- **Call of Duty®: Black Ops Cold War** - `CUSA15010` - version `01.39` - `JSON`
+- **Call of Duty®: Black Ops Cold War** - `CUSA15010` - version `01.40` - `JSON`
+- **Call of Duty®: Black Ops Cold War** - `CUSA15010` - version `01.41` - `JSON`
+- **Call of Duty®: Black Ops Cold War** - `CUSA15010` - version `01.41` - `MC4`
+- **Call of Duty®: Black Ops Cold War** - `CUSA15010` - version `01.41` - `SHN`
+- **Call of Duty®: Black Ops Cold War** - `CUSA24267` - version `01.27` - `JSON`
+- **Call of Duty®: Black Ops III** - `CUSA02290` - version `01.26` - `JSON`
+- **Call of Duty®: Black Ops III** - `CUSA02290` - version `01.33` - `JSON`
+- **Call of Duty®: Black Ops III** - `CUSA02624` - version `01.33` - `JSON`
+- **Call of Duty®: Black Ops III** - `CUSA03005` - version `01.00` - `JSON`
+- **Call of Duty®: Black Ops III** - `CUSA03005` - version `01.00` - `MC4`
+- **Call of Duty®: Black Ops III** - `CUSA03005` - version `01.00` - `SHN`
+- **Call of Duty®: Infinite Warfare** - `CUSA04762` - version `01.25` - `JSON` - `default.elf`
+- **Call of Duty®: Infinite Warfare** - `CUSA05369` - version `01.25` - `JSON` - `default.elf`
+- **Call of Duty®: Modern Warfare®** - `CUSA08829` - version `01.01` - `JSON` - `default.elf`
+- **Call of Duty®: Modern Warfare® 2 Campaign Remastered** - `CUSA09249` - version `01.00` - `JSON` - `default.elf`
+- **Call of Duty®: Modern Warfare® Remastered** - `CUSA03522` - version `01.02` - `JSON` - `default.elf`
+- **Call of Duty®: Modern Warfare® Remastered** - `CUSA03522` - version `01.13` - `JSON` - `default.elf`
+- **Call of Duty®: Vanguard** - `CUSA24041` - version `01.08` - `JSON`
+- **Call of Duty®: Vanguard** - `CUSA24041` - version `01.26` - `MC4`
+- **Call of Duty®: Vanguard** - `CUSA24041` - version `01.26` - `SHN`
+- **Call of Duty®: Vanguard** - `CUSA29092` - version `01.08` - `JSON`
+- **Call of Duty®: Vanguard** - `CUSA29092` - version `01.08` - `SHN`
+- **Call of Duty®: WWII** - `CUSA05969` - version `01.25` - `JSON` - `default.elf`
+- **Call of Duty®: WWII (Multiplayer)** - `CUSA05969` - version `01.25` - `JSON` - `default_mp.elf`
+- **Captain Tsubasa - Rise of new Champion** - `CUSA14889` - version `01.33` - `JSON`
+- **Captain Tsubasa - Rise of new Champion** - `CUSA14889` - version `01.33` - `MC4`
+- **Captain Tsubasa - Rise of new Champion** - `CUSA14889` - version `01.33` - `SHN`
+- **CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS** - `CUSA14896` - version `01.02` - `JSON`
+- **Car Mechanic Simulator 2021** - `CUSA25706` - version `01.31` - `JSON`
+- **Castle Crashers Remastered** - `CUSA14409` - version `01.04` - `JSON`
+- **Castle Crashers Remastered** - `CUSA14409` - version `01.04` - `MC4`
+- **Castle Crashers Remastered** - `CUSA14409` - version `01.04` - `SHN`
+- **Castle Shikigami 2** - `SLES53518` - version `01.00` - `JSON`
+- **Castle Shikigami 2** - `SLES53518` - version `01.00` - `SHN`
+- **Castle Shikigami 2** - `SLUS20962` - version `01.00` - `JSON`
+- **Castle Shikigami 2** - `SLUS20962` - version `01.00` - `SHN`
+- **CASTLEVANIA SOTN REBORN** - `SLUS00067` - version `01.00` - `JSON`
+- **CASTLEVANIA SOTN REBORN** - `SLUS00067` - version `01.00` - `SHN`
+- **Castlevania-Curse of Darkness** - `SLUS21168` - version `01.00` - `JSON`
+- **Castlevania-Curse of Darkness** - `SLUS21168` - version `01.00` - `SHN`
+- **Cat Quest** - `CUSA09499` - version `01.00` - `JSON`
+- **Cat Quest** - `CUSA09499` - version `01.00` - `MC4`
+- **Cat Quest** - `CUSA09499` - version `01.00` - `SHN`
+- **Cat Quest II** - `CUSA16553` - version `01.09` - `JSON`
+- **Chasm** - `CUSA01273` - version `01.08` - `JSON`
+- **Chernobylite** - `CUSA28037` - version `01.01` - `JSON`
+- **Chernobylite** - `CUSA28037` - version `01.09` - `JSON`
+- **Chernobylite** - `CUSA28037` - version `01.09` - `MC4`
+- **Chernobylite** - `CUSA28037` - version `01.09` - `SHN`
+- **Chorus** - `CUSA20221` - version `01.03` - `JSON`
+- **Chorus** - `CUSA20221` - version `01.03` - `MC4`
+- **Chorus** - `CUSA20221` - version `01.03` - `SHN`
+- **Chronos Before the Ashes** - `CUSA15161` - version `01.01` - `JSON`
+- **Cities Skylines** - `CUSA06548` - version `13.00` - `MC4`
+- **Cities: Skylines** - `CUSA06407` - version `10.05` - `JSON`
+- **Cities: Skylines** - `CUSA06548` - version `10.05` - `JSON`
+- **Cities: Skylines** - `CUSA06548` - version `13.00` - `JSON`
+- **Cities: Skylines** - `CUSA06548` - version `13.00` - `MC4`
+- **Cities: Skylines** - `CUSA06548` - version `13.00` - `SHN`
+- **Clid The Snail** - `CUSA25087` - version `01.04` - `JSON`
+- **Clid the Snail** - `CUSA25087` - version `01.04` - `MC4`
+- **Clid The Snail** - `CUSA25087` - version `01.04` - `MC4`
+- **Clid The Snail** - `CUSA25087` - version `01.04` - `SHN`
+- **Clunky Hero** - `CUSA41026` - version `01.01` - `MC4`
+- **Cobra Kai: The Karate Kid Saga Continues** - `CUSA18956` - version `01.02` - `JSON`
+- **cod black ops 3** - `CUSA03005` - version `01.00` - `MC4`
+- **COD: Advanced Warfare** - `CUSA00851` - version `01.00` - `MC4` - `default_mp.elf`
+- **COD: Advanced Warfare** - `CUSA00851` - version `01.00` - `SHN` - `default_mp.elf`
+- **COD: Advanced Warfare** - `CUSA00851` - version `01.00` - `SHN`
+- **COD: Advanced Warfare** - `CUSA00851` - version `01.24` - `JSON` - `default_mp.elf`
+- **COD: Black Ops 4** - `CUSA11100` - version `01.18` - `JSON`
+- **COD: Black Ops 4** - `CUSA11100` - version `01.25` - `JSON`
+- **COD: Black Ops 4** - `CUSA12443` - version `01.24` - `JSON`
+- **COD: Black Ops 4** - `CUSA12443` - version `01.24` - `MC4`
+- **COD: Black Ops 4** - `CUSA12443` - version `01.24` - `SHN`
+- **COD: Black Ops Cold War** - `CUSA15010` - version `01.00` - `JSON`
+- **COD: Black Ops Cold War** - `CUSA15010` - version `01.27` - `JSON`
+- **COD: Black Ops III** - `CUSA02290` - version `01.00` - `JSON`
+- **COD: Black Ops III** - `CUSA02624` - version `01.26` - `JSON`
+- **COD: Black Ops III** - `CUSA02624` - version `01.26` - `MC4`
+- **COD: Black Ops III** - `CUSA02624` - version `01.26` - `SHN`
+- **COD: Black Ops III** - `CUSA02624` - version `01.33` - `JSON`
+- **COD: Ghosts** - `CUSA00025` - version `01.00` - `MC4` - `default_mp.elf`
+- **COD: Ghosts (EX)** - `CUSA00018` - version `01.21` - `JSON` - `default_mp.elf`
+- **COD: Ghosts (EX)** - `CUSA00025` - version `01.00` - `MC4` - `default_mp.elf`
+- **COD: Ghosts (EX)** - `CUSA00025` - version `01.00` - `SHN` - `default_mp.elf`
+- **COD: Ghosts (EX)** - `CUSA00025` - version `01.00` - `SHN`
+- **COD: Ghosts (EX)** - `CUSA00025` - version `01.21` - `JSON` - `default_mp.elf`
+- **COD: Ghosts (MP)** - `CUSA00018` - version `01.21` - `JSON` - `default_mp.elf`
+- **COD: Ghosts (MP)** - `CUSA00025` - version `01.20` - `JSON` - `default_mp.elf`
+- **COD: Infinite Warfare** - `CUSA05282` - version `01.00` - `JSON` - `default.elf`
+- **COD: Infinite Warfare** - `CUSA05282` - version `01.00` - `MC4` - `default.elf`
+- **COD: Modern Warfare** - `CUSA08829` - version `01.01` - `JSON` - `default.elf`
+- **COD: Modern Warfare 2 Remastered** - `CUSA07904` - version `01.00` - `JSON` - `default.elf`
+- **COD: Modern Warfare Remastered** - `CUSA03522` - version `01.13` - `JSON` - `default_mp.elf`
+- **COD: Modern Warfare Remastered** - `CUSA03522` - version `01.13` - `MC4` - `default_mp.elf`
+- **COD: World War II** - `CUSA05969` - version `01.11` - `MC4` - `default_mp.elf`
+- **COD: World War II (Campaign)** - `CUSA05969` - version `01.11` - `JSON` - `default.elf`
+- **COD: World War II (MP/ZM)** - `CUSA05969` - version `01.11` - `JSON` - `default_mp.elf`
+- **CODE VEIN** - `CUSA10246` - version `01.03` - `JSON`
+- **CODE VEIN** - `CUSA10246` - version `01.03` - `SHN`
+- **CODE VEIN** - `CUSA10246` - version `01.52` - `JSON`
+- **Construction Simulator** - `CUSA19177` - version `01.13` - `JSON`
+- **Construction Simulator** - `CUSA19177` - version `01.13` - `MC4`
+- **Construction Simulator** - `CUSA19177` - version `01.13` - `SHN`
+- **Construction Simulator** - `CUSA19177` - version `01.18` - `MC4`
+- **Construction Simulator** - `CUSA19177` - version `01.18` - `SHN`
+- **Contra - Legacy of War** - `SLUS00288` - version `01.00` - `JSON`
+- **Contra - Legacy of War** - `SLUS00288` - version `01.00` - `SHN`
+- **Contra-Shattered Soldier** - `SLUS20306` - version `01.00` - `JSON`
+- **Contra.Operation.Galuga** - `CUSA42378` - version `01.04` - `JSON`
+- **Contra.Operation.Galuga** - `CUSA42378` - version `01.04` - `MC4`
+- **Contra.Operation.Galuga** - `CUSA42378` - version `01.04` - `SHN`
+- **Control** - `CUSA11454` - version `01.04` - `JSON`
+- **Control** - `CUSA11454` - version `01.10` - `JSON`
+- **Control** - `CUSA11454` - version `01.12` - `JSON`
+- **Control** - `CUSA11454` - version `01.12` - `MC4`
+- **Control** - `CUSA11454` - version `01.12` - `SHN`
+- **Corpse Killer** - `CUSA16720` - version `01.00` - `MC4`
+- **Corpse Killer - 25th Anniversary Edition** - `CUSA16720` - version `01.00` - `JSON`
+- **Corpse Killer - 25th Anniversary Edition** - `CUSA16720` - version `01.00` - `MC4`
+- **Corpse Killer - 25th Anniversary Edition** - `CUSA16720` - version `01.00` - `SHN`
+- **Costume Quest 2** - `CUSA01202` - version `01.00` - `MC4`
+- **Cotton Reboot!** - `CUSA18012` - version `01.05` - `JSON`
+- **Cotton Reboot!** - `CUSA18012` - version `01.05` - `MC4`
+- **Cotton Reboot!** - `CUSA18012` - version `01.05` - `SHN`
+- **Crash Bandicoot 4** - `CUSA23470` - version `01.04` - `MC4`
+- **Crash Bandicoot 4: It's About Time** - `CUSA23470` - version `01.04` - `MC4`
+- **Crash Bandicoot 4: It's About Time** - `CUSA23470` - version `01.04` - `SHN`
+- **Crash Bandicoot 4: It's About Time** - `CUSA23470` - version `01.05` - `JSON`
+- **Crash Bandicoot N Sane Trilogy** - `CUSA07399` - version `01.00` - `JSON`
+- **Crash Bandicoot N Sane Trilogy** - `CUSA07399` - version `01.00` - `MC4`
+- **Crash Bandicoot N Sane Trilogy** - `CUSA07399` - version `01.00` - `SHN`
+- **Crash Bandicoot N Sane Trilogy** - `CUSA07399` - version `01.07` - `MC4`
+- **Crash Bandicoot N Sane Trilogy** - `CUSA07399` - version `01.07` - `SHN`
+- **Crash Bandicoot-The Wrath of Cortex** - `SLUS20238` - version `01.00` - `JSON`
+- **Crash Bandicoot-The Wrath of Cortex** - `SLUS20238` - version `01.00` - `SHN`
+- **Crash Bandicoot™ 4: Its About Time** - `CUSA19035` - version `01.04` - `JSON`
+- **Creature in the Well** - `CUSA17838` - version `01.01` - `JSON`
+- **CRISIS CORE FINAL FANTASY VII REUNION** - `CUSA31349` - version `01.03` - `JSON`
+- **CRISIS CORE FINAL FANTASY VII REUNION** - `CUSA31349` - version `01.03` - `MC4`
+- **CRISIS CORE FINAL FANTASY VII REUNION** - `CUSA31349` - version `01.03` - `SHN`
+- **Croc?s World 2** - `CUSA15702` - version `01.00` - `MC4`
+- **Crocs World** - `CUSA14158` - version `01.01` - `MC4`
+- **Crocs World 3** - `CUSA17858` - version `01.00` - `MC4`
+- **Crocs World Run** - `CUSA15406` - version `01.00` - `MC4`
+- **Crysis® Remastered** - `CUSA18659` - version `01.01` - `JSON`
+- **Crysis® Remastered** - `CUSA18659` - version `01.03` - `JSON`
+- **Crysis® Remastered** - `CUSA18671` - version `01.03` - `JSON`
+- **Crysis2® Remastered** - `CUSA18672` - version `01.01` - `JSON`
+- **Crysis3® Remastered** - `CUSA18673` - version `01.01` - `JSON`
+- **CRYSTAR** - `CUSA15257` - version `01.00` - `JSON`
+- **Crystar** - `CUSA15257` - version `01.00` - `MC4`
+- **CRYSTAR** - `CUSA15257` - version `01.00` - `MC4`
+- **CRYSTAR** - `CUSA15257` - version `01.00` - `SHN`
+- **CT Special Forces** - `SLES00608` - version `01.00` - `JSON`
+- **CT Special Forces** - `SLES00608` - version `01.00` - `SHN`
+- **CT Special Forces** - `SLES03986` - version `01.00` - `JSON`
+- **CT Special Forces** - `SLPM66301` - version `01.00` - `JSON`
+- **CT Special Forces** - `SLPM66301` - version `01.00` - `SHN`
+- **CT Special Forces** - `SLUS21731` - version `01.00` - `JSON`
+- **CT Special Forces** - `SLUS21731` - version `01.00` - `SHN`
+- **CT Special Forces - Back to Hell** - `SLES04123` - version `01.00` - `JSON`
+- **CT Special Forces - Back to Hell** - `SLES04123` - version `01.00` - `SHN`
+- **CT Special Forces 3 - Bioterror** - `SLES04155` - version `01.00` - `JSON`
+- **CT Special Forces 3 - Bioterror** - `SLES04155` - version `01.00` - `SHN`
+- **Cult of the Lamb** - `CUSA32184` - version `01.29` - `JSON`
+- **Cuphead** - `CUSA20469` - version `01.01` - `MC4` - `2`
+- **Cuphead** - `CUSA20469` - version `01.01` - `JSON`
+- **Cuphead** - `CUSA20469` - version `01.01` - `MC4`
+- **Cuphead** - `CUSA20469` - version `01.01` - `SHN`
+- **Cuphead** - `CUSA20499` - version `01.04` - `JSON`
+- **Cuphead** - `CUSA20499` - version `01.04` - `MC4`
+- **Cuphead** - `CUSA20499` - version `01.04` - `SHN`
+- **Cuphead** - `CUSA20499` - version `01.05` - `SHN`
+- **Cuphead (7.55)** - `CUSA20469` - version `01.01` - `JSON`
+- **Curse of the Sea Rats** - `CUSA25757` - version `01.01` - `MC4`
+- **Cursed Castilla** - `CUSA07773` - version `01.00` - `MC4`
+- **CUSA00006** - `CUSA00006` - version `01.01` - `MC4`
+- **CUSA00006** - `CUSA00006` - version `01.01` - `SHN`
+- **CUSA00190** - `CUSA00190` - version `01.81` - `MC4`
+- **CUSA00190** - `CUSA00190` - version `01.81` - `SHN`
+- **CUSA00303** - `CUSA00303` - version `01.01` - `MC4`
+- **CUSA00303** - `CUSA00303` - version `01.01` - `SHN`
+- **CUSA00303** - `CUSA00303` - version `01.02` - `MC4`
+- **CUSA00303** - `CUSA00303` - version `01.02` - `SHN`
+- **CUSA00324** - `CUSA00324` - version `01.05` - `MC4`
+- **CUSA00324** - `CUSA00324` - version `01.05` - `SHN`
+- **CUSA00373** - `CUSA00373` - version `01.00` - `MC4`
+- **CUSA00373** - `CUSA00373` - version `01.00` - `SHN`
+- **CUSA00416** - `CUSA00416` - version `01.00` - `MC4`
+- **CUSA00416** - `CUSA00416` - version `01.00` - `SHN`
+- **CUSA00435** - `CUSA00435` - version `01.00` - `MC4`
+- **CUSA00435** - `CUSA00435` - version `01.00` - `SHN`
+- **CUSA00521** - `CUSA00521` - version `01.01` - `MC4`
+- **CUSA00521** - `CUSA00521` - version `01.01` - `SHN`
+- **CUSA00628** - `CUSA00628` - version `01.03` - `MC4`
+- **CUSA00628** - `CUSA00628` - version `01.03` - `SHN`
+- **CUSA00633** - `CUSA00633` - version `01.09` - `MC4`
+- **CUSA00633** - `CUSA00633` - version `01.09` - `SHN`
+- **CUSA00856** - `CUSA00856` - version `01.04` - `MC4` - `2`
+- **CUSA00856** - `CUSA00856` - version `01.04` - `MC4`
+- **CUSA00856** - `CUSA00856` - version `01.04` - `SHN`
+- **CUSA00918** - `CUSA00918` - version `01.32` - `SHN`
+- **CUSA00918** - `CUSA00918` - version `01.33` - `SHN`
+- **CUSA00967** - `CUSA00967` - version `01.00` - `MC4`
+- **CUSA00967** - `CUSA00967` - version `01.00` - `SHN`
+- **CUSA00967** - `CUSA00967` - version `01.14` - `MC4`
+- **CUSA00967** - `CUSA00967` - version `01.14` - `SHN`
+- **CUSA01064** - `CUSA01064` - version `01.04` - `MC4`
+- **CUSA01064** - `CUSA01064` - version `01.04` - `SHN`
+- **CUSA01126** - `CUSA01126` - version `01.01` - `MC4`
+- **CUSA01126** - `CUSA01126` - version `01.01` - `SHN`
+- **CUSA01130** - `CUSA01130` - version `01.00` - `SHN`
+- **CUSA01193** - `CUSA01193` - version `01.01` - `MC4`
+- **CUSA01193** - `CUSA01193` - version `01.01` - `SHN`
+- **CUSA01200** - `CUSA01200` - version `01.02` - `MC4`
+- **CUSA01200** - `CUSA01200` - version `01.02` - `SHN`
+- **CUSA01202** - `CUSA01202` - version `01.00` - `MC4`
+- **CUSA01202** - `CUSA01202` - version `01.00` - `SHN`
+- **CUSA01326** - `CUSA01326` - version `01.01` - `MC4`
+- **CUSA01326** - `CUSA01326` - version `01.01` - `SHN`
+- **CUSA01395** - `CUSA01395` - version `01.00` - `MC4`
+- **CUSA01395** - `CUSA01395` - version `01.00` - `SHN`
+- **CUSA01395** - `CUSA01395` - version `01.01` - `MC4`
+- **CUSA01395** - `CUSA01395` - version `01.01` - `SHN`
+- **CUSA01515** - `CUSA01515` - version `01.04` - `SHN`
+- **CUSA01587** - `CUSA01587` - version `01.00` - `MC4`
+- **CUSA01587** - `CUSA01587` - version `01.00` - `SHN`
+- **CUSA01599** - `CUSA01599` - version `01.02` - `MC4`
+- **CUSA01599** - `CUSA01599` - version `01.02` - `SHN`
+- **CUSA01609** - `CUSA01609` - version `01.00` - `MC4`
+- **CUSA01609** - `CUSA01609` - version `01.00` - `SHN`
+- **CUSA01644** - `CUSA01644` - version `01.01` - `MC4`
+- **CUSA01644** - `CUSA01644` - version `01.01` - `SHN`
+- **CUSA01658** - `CUSA01658` - version `01.00` - `SHN`
+- **CUSA01671** - `CUSA01671` - version `01.00` - `MC4`
+- **CUSA01671** - `CUSA01671` - version `01.00` - `SHN`
+- **CUSA01742** - `CUSA01742` - version `01.00` - `MC4`
+- **CUSA01742** - `CUSA01742` - version `01.00` - `SHN`
+- **CUSA01766** - `CUSA01766` - version `01.00` - `SHN`
+- **CUSA01778** - `CUSA01778` - version `01.02` - `MC4`
+- **CUSA01778** - `CUSA01778` - version `01.02` - `SHN`
+- **CUSA01837** - `CUSA01837` - version `01.01` - `MC4`
+- **CUSA01837** - `CUSA01837` - version `01.01` - `SHN`
+- **CUSA01875** - `CUSA01875` - version `01.01` - `MC4`
+- **CUSA01875** - `CUSA01875` - version `01.01` - `SHN`
+- **CUSA01999** - `CUSA01999` - version `01.00` - `MC4`
+- **CUSA01999** - `CUSA01999` - version `01.00` - `SHN`
+- **CUSA02010** - `CUSA02010` - version `01.47` - `MC4`
+- **CUSA02010** - `CUSA02010` - version `01.47` - `SHN`
+- **CUSA02037** - `CUSA02037` - version `01.02` - `SHN`
+- **CUSA02166** - `CUSA02166` - version `01.00` - `MC4`
+- **CUSA02166** - `CUSA02166` - version `01.00` - `SHN`
+- **CUSA02218** - `CUSA02218` - version `01.03` - `MC4`
+- **CUSA02218** - `CUSA02218` - version `01.03` - `SHN`
+- **CUSA02230** - `CUSA02230` - version `01.03` - `MC4`
+- **CUSA02230** - `CUSA02230` - version `01.03` - `SHN`
+- **CUSA02299** - `CUSA02299` - version `01.19` - `MC4`
+- **CUSA02299** - `CUSA02299` - version `01.19` - `SHN`
+- **CUSA02344** - `CUSA02344` - version `01.02` - `SHN` - `big2-ps4_Shipping.elf`
+- **CUSA02344** - `CUSA02344` - version `01.02` - `SHN` - `big3-ps4_Shipping.elf`
+- **CUSA02344** - `CUSA02344` - version `01.02` - `SHN`
+- **CUSA02378** - `CUSA02378` - version `01.52` - `SHN` - `2`
+- **CUSA02378** - `CUSA02378` - version `01.52` - `MC4`
+- **CUSA02378** - `CUSA02378` - version `01.52` - `SHN`
+- **CUSA02389** - `CUSA02389` - version `01.54` - `MC4`
+- **CUSA02389** - `CUSA02389` - version `01.54` - `SHN`
+- **CUSA02461** - `CUSA02461` - version `01.00` - `MC4`
+- **CUSA02461** - `CUSA02461` - version `01.00` - `SHN`
+- **CUSA02468** - `CUSA02468` - version `01.00` - `MC4`
+- **CUSA02468** - `CUSA02468` - version `01.00` - `SHN`
+- **CUSA02607** - `CUSA02607` - version `01.04` - `MC4`
+- **CUSA02607** - `CUSA02607` - version `01.04` - `SHN`
+- **CUSA02638** - `CUSA02638` - version `01.02` - `MC4`
+- **CUSA02638** - `CUSA02638` - version `01.02` - `SHN`
+- **CUSA02703** - `CUSA02703` - version `01.06` - `MC4`
+- **CUSA02703** - `CUSA02703` - version `01.06` - `SHN`
+- **CUSA02769** - `CUSA02769` - version `01.01` - `MC4`
+- **CUSA02769** - `CUSA02769` - version `01.01` - `SHN`
+- **CUSA02823** - `CUSA02823` - version `01.00` - `MC4`
+- **CUSA02823** - `CUSA02823` - version `01.00` - `SHN`
+- **CUSA02826** - `CUSA02826` - version `01.00` - `SHN` - `big2-ps4_Shipping.elf`
+- **CUSA02826** - `CUSA02826` - version `01.00` - `SHN` - `big3-ps4_Shipping.elf`
+- **CUSA02826** - `CUSA02826` - version `01.00` - `SHN`
+- **CUSA02826** - `CUSA02826` - version `01.02` - `SHN` - `2`
+- **CUSA02826** - `CUSA02826` - version `01.02` - `SHN` - `big2-ps4_Shipping.elf`
+- **CUSA02826** - `CUSA02826` - version `01.02` - `SHN` - `big2-ps4_Shipping.elf_2`
+- **CUSA02826** - `CUSA02826` - version `01.02` - `SHN` - `big3-ps4_Shipping.elf`
+- **CUSA02826** - `CUSA02826` - version `01.02` - `SHN` - `big3-ps4_Shipping.elf_2`
+- **CUSA02826** - `CUSA02826` - version `01.02` - `SHN`
+- **CUSA02852** - `CUSA02852` - version `01.04` - `MC4`
+- **CUSA02852** - `CUSA02852` - version `01.04` - `SHN`
+- **CUSA02876** - `CUSA02876` - version `01.02` - `MC4`
+- **CUSA02876** - `CUSA02876` - version `01.02` - `SHN`
+- **CUSA02966** - `CUSA02966` - version `01.00` - `MC4`
+- **CUSA02966** - `CUSA02966` - version `01.00` - `SHN`
+- **CUSA03067** - `CUSA03067` - version `01.05` - `MC4`
+- **CUSA03067** - `CUSA03067` - version `01.05` - `SHN`
+- **CUSA03214** - `CUSA03214` - version `01.11` - `MC4`
+- **CUSA03214** - `CUSA03214` - version `01.11` - `SHN`
+- **CUSA03219** - `CUSA03219` - version `01.00` - `MC4`
+- **CUSA03219** - `CUSA03219` - version `01.00` - `SHN`
+- **CUSA03234** - `CUSA03234` - version `01.00` - `MC4`
+- **CUSA03234** - `CUSA03234` - version `01.00` - `SHN`
+- **CUSA03279** - `CUSA03279` - version `01.01` - `SHN`
+- **CUSA03293** - `CUSA03293` - version `01.09` - `MC4`
+- **CUSA03293** - `CUSA03293` - version `01.09` - `SHN`
+- **CUSA03388** - `CUSA03388` - version `01.00` - `MC4`
+- **CUSA03388** - `CUSA03388` - version `01.00` - `SHN`
+- **CUSA03388** - `CUSA03388` - version `01.15` - `MC4`
+- **CUSA03388** - `CUSA03388` - version `01.15` - `SHN`
+- **CUSA03467** - `CUSA03467` - version `01.00` - `MC4`
+- **CUSA03467** - `CUSA03467` - version `01.00` - `SHN`
+- **CUSA03467** - `CUSA03467` - version `01.01` - `SHN`
+- **CUSA03651** - `CUSA03651` - version `01.01` - `MC4`
+- **CUSA03651** - `CUSA03651` - version `01.01` - `SHN`
+- **CUSA03653** - `CUSA03653` - version `01.00` - `MC4`
+- **CUSA03653** - `CUSA03653` - version `01.00` - `SHN`
+- **CUSA03888** - `CUSA03888` - version `01.05` - `MC4`
+- **CUSA03888** - `CUSA03888` - version `01.05` - `SHN`
+- **CUSA03920** - `CUSA03920` - version `01.05` - `MC4`
+- **CUSA03920** - `CUSA03920` - version `01.05` - `SHN`
+- **CUSA03962** - `CUSA03962` - version `01.11` - `SHN`
+- **CUSA03986** - `CUSA03986` - version `01.02` - `MC4`
+- **CUSA03986** - `CUSA03986` - version `01.02` - `SHN`
+- **CUSA04126** - `CUSA04126` - version `01.00` - `MC4`
+- **CUSA04126** - `CUSA04126` - version `01.00` - `SHN`
+- **CUSA04282** - `CUSA04282` - version `03.15` - `MC4`
+- **CUSA04282** - `CUSA04282` - version `03.15` - `SHN`
+- **CUSA04311** - `CUSA04311` - version `01.00` - `MC4`
+- **CUSA04311** - `CUSA04311` - version `01.00` - `SHN`
+- **CUSA04323** - `CUSA04323` - version `01.07` - `MC4`
+- **CUSA04323** - `CUSA04323` - version `01.07` - `SHN`
+- **CUSA04324** - `CUSA04324` - version `01.01` - `MC4`
+- **CUSA04324** - `CUSA04324` - version `01.01` - `SHN`
+- **CUSA04408** - `CUSA04408` - version `01.18` - `MC4`
+- **CUSA04408** - `CUSA04408` - version `01.18` - `SHN`
+- **CUSA04439** - `CUSA04439` - version `01.18` - `MC4`
+- **CUSA04439** - `CUSA04439` - version `01.18` - `SHN`
+- **CUSA04531** - `CUSA04531` - version `01.00` - `MC4`
+- **CUSA04531** - `CUSA04531` - version `01.00` - `SHN`
+- **CUSA04607** - `CUSA04607` - version `01.02` - `SHN`
+- **CUSA04630** - `CUSA04630` - version `01.00` - `MC4`
+- **CUSA04630** - `CUSA04630` - version `01.00` - `SHN`
+- **CUSA04892** - `CUSA04892` - version `01.00` - `MC4`
+- **CUSA04892** - `CUSA04892` - version `01.00` - `SHN`
+- **CUSA05010** - `CUSA05010` - version `01.00` - `MC4`
+- **CUSA05010** - `CUSA05010` - version `01.00` - `SHN`
+- **CUSA05032** - `CUSA05032` - version `01.07` - `MC4`
+- **CUSA05032** - `CUSA05032` - version `01.07` - `SHN`
+- **CUSA05034** - `CUSA05034` - version `01.00` - `MC4`
+- **CUSA05034** - `CUSA05034` - version `01.00` - `SHN`
+- **CUSA05087** - `CUSA05087` - version `01.01` - `MC4`
+- **CUSA05087** - `CUSA05087` - version `01.01` - `SHN`
+- **CUSA05105** - `CUSA05105` - version `01.00` - `MC4`
+- **CUSA05105** - `CUSA05105` - version `01.00` - `SHN`
+- **CUSA05170** - `CUSA05170` - version `01.00` - `MC4`
+- **CUSA05170** - `CUSA05170` - version `01.00` - `SHN`
+- **CUSA05469** - `CUSA05469` - version `01.00` - `MC4`
+- **CUSA05469** - `CUSA05469` - version `01.00` - `SHN`
+- **CUSA05485** - `CUSA05485` - version `01.00` - `MC4`
+- **CUSA05485** - `CUSA05485` - version `01.00` - `SHN`
+- **CUSA05533** - `CUSA05533` - version `01.00` - `MC4`
+- **CUSA05533** - `CUSA05533` - version `01.00` - `SHN`
+- **CUSA05794** - `CUSA05794` - version `01.06` - `MC4`
+- **CUSA05794** - `CUSA05794` - version `01.06` - `SHN`
+- **CUSA05877** - `CUSA05877` - version `01.01` - `MC4`
+- **CUSA05877** - `CUSA05877` - version `01.01` - `SHN`
+- **CUSA05921** - `CUSA05921` - version `01.09` - `MC4`
+- **CUSA05921** - `CUSA05921` - version `01.09` - `SHN`
+- **CUSA06072** - `CUSA06072` - version `01.02` - `MC4`
+- **CUSA06072** - `CUSA06072` - version `01.02` - `SHN`
+- **CUSA06233** - `CUSA06233` - version `01.00` - `MC4`
+- **CUSA06233** - `CUSA06233` - version `01.00` - `SHN`
+- **CUSA06282** - `CUSA06282` - version `01.15` - `MC4`
+- **CUSA06282** - `CUSA06282` - version `01.15` - `SHN`
+- **CUSA06465** - `CUSA06465` - version `01.01` - `MC4`
+- **CUSA06465** - `CUSA06465` - version `01.01` - `SHN`
+- **CUSA06623** - `CUSA06623` - version `01.00` - `MC4`
+- **CUSA06623** - `CUSA06623` - version `01.00` - `SHN`
+- **CUSA06636** - `CUSA06636` - version `01.02` - `MC4`
+- **CUSA06636** - `CUSA06636` - version `01.02` - `SHN`
+- **CUSA06638** - `CUSA06638` - version `01.00` - `MC4`
+- **CUSA06638** - `CUSA06638` - version `01.00` - `SHN`
+- **CUSA06740** - `CUSA06740` - version `01.00` - `MC4`
+- **CUSA06740** - `CUSA06740` - version `01.00` - `SHN`
+- **CUSA06840** - `CUSA06840` - version `01.20` - `MC4`
+- **CUSA06840** - `CUSA06840` - version `01.20` - `SHN`
+- **CUSA07029** - `CUSA07029` - version `01.01` - `MC4`
+- **CUSA07029** - `CUSA07029` - version `01.01` - `SHN`
+- **CUSA07104** - `CUSA07104` - version `01.01` - `MC4`
+- **CUSA07104** - `CUSA07104` - version `01.01` - `SHN`
+- **CUSA07236** - `CUSA07236` - version `01.00` - `MC4`
+- **CUSA07236** - `CUSA07236` - version `01.00` - `SHN`
+- **CUSA07299** - `CUSA07299` - version `01.01` - `MC4`
+- **CUSA07299** - `CUSA07299` - version `01.01` - `SHN`
+- **CUSA07402** - `CUSA07402` - version `01.00` - `MC4`
+- **CUSA07402** - `CUSA07402` - version `01.00` - `SHN`
+- **CUSA07406** - `CUSA07406` - version `01.00` - `MC4`
+- **CUSA07406** - `CUSA07406` - version `01.00` - `SHN`
+- **CUSA07673** - `CUSA07673` - version `01.02` - `MC4`
+- **CUSA07673** - `CUSA07673` - version `01.02` - `SHN`
+- **CUSA07722** - `CUSA07722` - version `01.05` - `MC4`
+- **CUSA07722** - `CUSA07722` - version `01.05` - `SHN`
+- **CUSA07773** - `CUSA07773` - version `01.00` - `MC4`
+- **CUSA07773** - `CUSA07773` - version `01.00` - `SHN`
+- **CUSA07920** - `CUSA07920` - version `01.00` - `MC4`
+- **CUSA07920** - `CUSA07920` - version `01.00` - `SHN`
+- **CUSA07963** - `CUSA07963` - version `01.40` - `MC4`
+- **CUSA07963** - `CUSA07963` - version `01.40` - `SHN`
+- **CUSA08054** - `CUSA08054` - version `01.00` - `MC4`
+- **CUSA08054** - `CUSA08054` - version `01.00` - `SHN`
+- **CUSA08070** - `CUSA08070` - version `01.03` - `MC4`
+- **CUSA08070** - `CUSA08070` - version `01.03` - `SHN`
+- **CUSA08076** - `CUSA08076` - version `01.00` - `MC4`
+- **CUSA08076** - `CUSA08076` - version `01.00` - `SHN`
+- **CUSA08085** - `CUSA08085` - version `01.00` - `MC4`
+- **CUSA08085** - `CUSA08085` - version `01.00` - `SHN`
+- **CUSA08218** - `CUSA08218` - version `01.00` - `MC4`
+- **CUSA08218** - `CUSA08218` - version `01.00` - `SHN`
+- **CUSA08279** - `CUSA08279` - version `01.06` - `MC4`
+- **CUSA08279** - `CUSA08279` - version `01.06` - `SHN`
+- **CUSA08306** - `CUSA08306` - version `01.00` - `MC4`
+- **CUSA08306** - `CUSA08306` - version `01.00` - `SHN`
+- **CUSA08343** - `CUSA08343` - version `01.03` - `MC4`
+- **CUSA08343** - `CUSA08343` - version `01.03` - `SHN`
+- **CUSA08357** - `CUSA08357` - version `01.08` - `MC4`
+- **CUSA08357** - `CUSA08357` - version `01.08` - `SHN`
+- **CUSA08364** - `CUSA08364` - version `01.00` - `MC4`
+- **CUSA08364** - `CUSA08364` - version `01.00` - `SHN`
+- **CUSA08368** - `CUSA08368` - version `01.00` - `MC4`
+- **CUSA08368** - `CUSA08368` - version `01.00` - `SHN`
+- **CUSA08397** - `CUSA08397` - version `01.00` - `MC4`
+- **CUSA08397** - `CUSA08397` - version `01.00` - `SHN`
+- **CUSA08487** - `CUSA08487` - version `01.05` - `SHN`
+- **CUSA08490** - `CUSA08490` - version `01.02` - `MC4`
+- **CUSA08490** - `CUSA08490` - version `01.02` - `SHN`
+- **CUSA08600** - `CUSA08600` - version `01.36` - `MC4`
+- **CUSA08600** - `CUSA08600` - version `01.36` - `SHN`
+- **CUSA08781** - `CUSA08781` - version `01.03` - `MC4`
+- **CUSA08781** - `CUSA08781` - version `01.03` - `SHN`
+- **CUSA08992** - `CUSA08992` - version `01.05` - `MC4`
+- **CUSA08992** - `CUSA08992` - version `01.05` - `SHN`
+- **CUSA09052** - `CUSA09052` - version `01.00` - `MC4`
+- **CUSA09052** - `CUSA09052` - version `01.00` - `SHN`
+- **CUSA09172** - `CUSA09172` - version `01.04` - `MC4`
+- **CUSA09172** - `CUSA09172` - version `01.04` - `SHN`
+- **CUSA09884** - `CUSA09884` - version `01.51` - `SHN`
+- **CUSA09960** - `CUSA09960` - version `01.08` - `MC4`
+- **CUSA09960** - `CUSA09960` - version `01.08` - `SHN`
+- **CUSA09977** - `CUSA09977` - version `01.00` - `MC4`
+- **CUSA09977** - `CUSA09977` - version `01.00` - `SHN`
+- **CUSA09977** - `CUSA09977` - version `01.04` - `MC4`
+- **CUSA09977** - `CUSA09977` - version `01.04` - `SHN`
+- **CUSA10007** - `CUSA10007` - version `01.08` - `MC4`
+- **CUSA10007** - `CUSA10007` - version `01.08` - `SHN`
+- **CUSA10007** - `CUSA10007` - version `01.20` - `SHN`
+- **CUSA10007** - `CUSA10007` - version `01.22` - `SHN`
+- **CUSA10053** - `CUSA10053` - version `01.00` - `MC4`
+- **CUSA10053** - `CUSA10053` - version `01.00` - `SHN`
+- **CUSA10168** - `CUSA10168` - version `01.01` - `MC4`
+- **CUSA10168** - `CUSA10168` - version `01.01` - `SHN`
+- **CUSA10299** - `CUSA10299` - version `01.00` - `MC4`
+- **CUSA10299** - `CUSA10299` - version `01.00` - `SHN`
+- **CUSA10394** - `CUSA10394` - version `01.05` - `MC4`
+- **CUSA10394** - `CUSA10394` - version `01.05` - `SHN`
+- **CUSA10576** - `CUSA10576` - version `01.01` - `MC4`
+- **CUSA10576** - `CUSA10576` - version `01.01` - `SHN`
+- **CUSA10654** - `CUSA10654` - version `01.02` - `MC4`
+- **CUSA10654** - `CUSA10654` - version `01.02` - `SHN`
+- **CUSA10784** - `CUSA10784` - version `01.01` - `MC4`
+- **CUSA10784** - `CUSA10784` - version `01.01` - `SHN`
+- **CUSA10873** - `CUSA10873` - version `01.01` - `MC4`
+- **CUSA10873** - `CUSA10873` - version `01.01` - `SHN`
+- **CUSA10908** - `CUSA10908` - version `01.05` - `SHN`
+- **CUSA11120** - `CUSA11120` - version `01.04` - `MC4`
+- **CUSA11120** - `CUSA11120` - version `01.04` - `SHN`
+- **CUSA11300** - `CUSA11300` - version `01.00` - `MC4`
+- **CUSA11300** - `CUSA11300` - version `01.00` - `SHN`
+- **CUSA11300** - `CUSA11300` - version `01.01` - `MC4`
+- **CUSA11300** - `CUSA11300` - version `01.01` - `SHN`
+- **CUSA11586** - `CUSA11586` - version `01.02` - `MC4`
+- **CUSA11586** - `CUSA11586` - version `01.02` - `SHN`
+- **CUSA11597** - `CUSA11597` - version `01.00` - `MC4`
+- **CUSA11597** - `CUSA11597` - version `01.00` - `SHN`
+- **CUSA11608** - `CUSA11608` - version `01.17` - `MC4`
+- **CUSA11608** - `CUSA11608` - version `01.17` - `SHN`
+- **CUSA12010** - `CUSA12010` - version `01.02` - `MC4`
+- **CUSA12010** - `CUSA12010` - version `01.02` - `SHN`
+- **CUSA12044** - `CUSA12044` - version `01.02` - `MC4`
+- **CUSA12044** - `CUSA12044` - version `01.02` - `SHN`
+- **CUSA12064** - `CUSA12064` - version `01.08` - `MC4`
+- **CUSA12064** - `CUSA12064` - version `01.08` - `SHN`
+- **CUSA12092** - `CUSA12092` - version `01.01` - `MC4`
+- **CUSA12092** - `CUSA12092` - version `01.01` - `SHN`
+- **CUSA12126** - `CUSA12126` - version `01.02` - `MC4`
+- **CUSA12126** - `CUSA12126` - version `01.02` - `SHN`
+- **CUSA12344** - `CUSA12344` - version `01.01` - `MC4`
+- **CUSA12344** - `CUSA12344` - version `01.01` - `SHN`
+- **CUSA12434** - `CUSA12434` - version `01.26` - `MC4`
+- **CUSA12434** - `CUSA12434` - version `01.26` - `SHN`
+- **CUSA12594** - `CUSA12594` - version `01.02` - `MC4`
+- **CUSA12594** - `CUSA12594` - version `01.02` - `SHN`
+- **CUSA12641** - `CUSA12641` - version `01.09` - `SHN`
+- **CUSA13171** - `CUSA13171` - version `01.00` - `MC4`
+- **CUSA13171** - `CUSA13171` - version `01.00` - `SHN`
+- **CUSA13339** - `CUSA13339` - version `01.26` - `MC4`
+- **CUSA13339** - `CUSA13339` - version `01.26` - `SHN`
+- **CUSA13711** - `CUSA13711` - version `01.04` - `MC4`
+- **CUSA13711** - `CUSA13711` - version `01.04` - `SHN`
+- **CUSA13717** - `CUSA13717` - version `01.00` - `MC4`
+- **CUSA13717** - `CUSA13717` - version `01.00` - `SHN`
+- **CUSA14158** - `CUSA14158` - version `01.01` - `MC4`
+- **CUSA14158** - `CUSA14158` - version `01.01` - `SHN`
+- **CUSA14204** - `CUSA14204` - version `17.00` - `MC4`
+- **CUSA14204** - `CUSA14204` - version `17.00` - `SHN`
+- **CUSA14245** - `CUSA14245` - version `01.01` - `MC4`
+- **CUSA14245** - `CUSA14245` - version `01.01` - `SHN`
+- **CUSA14425** - `CUSA14425` - version `01.01` - `MC4`
+- **CUSA14425** - `CUSA14425` - version `01.01` - `SHN`
+- **CUSA14446** - `CUSA14446` - version `01.00` - `MC4`
+- **CUSA14446** - `CUSA14446` - version `01.00` - `SHN`
+- **CUSA14496** - `CUSA14496` - version `01.07` - `MC4`
+- **CUSA14496** - `CUSA14496` - version `01.07` - `SHN`
+- **CUSA14557** - `CUSA14557` - version `01.08` - `MC4`
+- **CUSA14557** - `CUSA14557` - version `01.08` - `SHN`
+- **CUSA14655** - `CUSA14655` - version `01.91` - `MC4`
+- **CUSA14655** - `CUSA14655` - version `01.91` - `SHN`
+- **CUSA14715** - `CUSA14715` - version `02.03` - `MC4`
+- **CUSA14715** - `CUSA14715` - version `02.03` - `SHN`
+- **CUSA14939** - `CUSA14939` - version `01.09` - `MC4`
+- **CUSA14939** - `CUSA14939` - version `01.09` - `SHN`
+- **CUSA15036** - `CUSA15036` - version `01.00` - `MC4`
+- **CUSA15036** - `CUSA15036` - version `01.00` - `SHN`
+- **CUSA15037** - `CUSA15037` - version `01.02` - `MC4`
+- **CUSA15037** - `CUSA15037` - version `01.02` - `SHN`
+- **CUSA15240** - `CUSA15240` - version `01.09` - `MC4` - `default.elf`
+- **CUSA15240** - `CUSA15240` - version `01.09` - `SHN` - `default.elf`
+- **CUSA15240** - `CUSA15240` - version `01.09` - `SHN`
+- **CUSA15271** - `CUSA15271` - version `02.02` - `SHN`
+- **CUSA15277** - `CUSA15277` - version `01.67` - `SHN`
+- **CUSA15278** - `CUSA15278` - version `01.67` - `SHN`
+- **CUSA15280** - `CUSA15280` - version `01.22` - `MC4` - `default.elf`
+- **CUSA15280** - `CUSA15280` - version `01.22` - `SHN` - `default.elf`
+- **CUSA15280** - `CUSA15280` - version `01.22` - `SHN`
+- **CUSA15280** - `CUSA15280` - version `01.67` - `MC4`
+- **CUSA15280** - `CUSA15280` - version `01.67` - `SHN`
+- **CUSA15406** - `CUSA15406` - version `01.00` - `MC4`
+- **CUSA15406** - `CUSA15406` - version `01.00` - `SHN`
+- **CUSA15467** - `CUSA15467` - version `01.10` - `MC4`
+- **CUSA15467** - `CUSA15467` - version `01.10` - `SHN`
+- **CUSA15536** - `CUSA15536` - version `01.67` - `SHN`
+- **CUSA15702** - `CUSA15702` - version `01.00` - `MC4`
+- **CUSA15702** - `CUSA15702` - version `01.00` - `SHN`
+- **CUSA15822** - `CUSA15822` - version `01.01` - `MC4`
+- **CUSA15822** - `CUSA15822` - version `01.01` - `SHN`
+- **CUSA15883** - `CUSA15883` - version `01.20` - `MC4`
+- **CUSA15883** - `CUSA15883` - version `01.20` - `SHN`
+- **CUSA16075** - `CUSA16075` - version `01.24` - `MC4`
+- **CUSA16075** - `CUSA16075` - version `01.24` - `SHN`
+- **CUSA16075** - `CUSA16075` - version `01.27` - `MC4`
+- **CUSA16075** - `CUSA16075` - version `01.27` - `SHN`
+- **CUSA16075** - `CUSA16075` - version `01.28` - `MC4`
+- **CUSA16075** - `CUSA16075` - version `01.28` - `SHN`
+- **CUSA16253** - `CUSA16253` - version `01.02` - `MC4`
+- **CUSA16253** - `CUSA16253` - version `01.02` - `SHN`
+- **CUSA16429** - `CUSA16429` - version `01.00` - `MC4`
+- **CUSA16429** - `CUSA16429` - version `01.00` - `SHN`
+- **CUSA16444** - `CUSA16444` - version `02.20` - `MC4`
+- **CUSA16444** - `CUSA16444` - version `02.20` - `SHN`
+- **CUSA16564** - `CUSA16564` - version `01.00` - `MC4`
+- **CUSA16564** - `CUSA16564` - version `01.00` - `SHN`
+- **CUSA16668** - `CUSA16668` - version `01.20` - `MC4`
+- **CUSA16668** - `CUSA16668` - version `01.20` - `SHN`
+- **CUSA16724** - `CUSA16724` - version `01.07` - `SHN`
+- **CUSA16932** - `CUSA16932` - version `01.03` - `MC4`
+- **CUSA16932** - `CUSA16932` - version `01.03` - `SHN`
+- **CUSA17113** - `CUSA17113` - version `01.01` - `MC4`
+- **CUSA17113** - `CUSA17113` - version `01.01` - `SHN`
+- **CUSA17196** - `CUSA17196` - version `01.60` - `MC4`
+- **CUSA17196** - `CUSA17196` - version `01.60` - `SHN`
+- **CUSA17624** - `CUSA17624` - version `01.02` - `SHN`
+- **CUSA17672** - `CUSA17672` - version `01.01` - `SHN` - `2`
+- **CUSA17672** - `CUSA17672` - version `01.01` - `MC4`
+- **CUSA17672** - `CUSA17672` - version `01.01` - `SHN`
+- **CUSA17784** - `CUSA17784` - version `01.01` - `MC4`
+- **CUSA17784** - `CUSA17784` - version `01.01` - `SHN`
+- **CUSA17858** - `CUSA17858` - version `01.00` - `MC4`
+- **CUSA17858** - `CUSA17858` - version `01.00` - `SHN`
+- **CUSA17975** - `CUSA17975` - version `01.00` - `SHN`
+- **CUSA18056** - `CUSA18056` - version `01.01` - `MC4`
+- **CUSA18056** - `CUSA18056` - version `01.01` - `SHN`
+- **CUSA18287** - `CUSA18287` - version `01.02` - `MC4`
+- **CUSA18287** - `CUSA18287` - version `01.02` - `SHN`
+- **CUSA18430** - `CUSA18430` - version `01.02` - `SHN`
+- **CUSA18653** - `CUSA18653` - version `01.07` - `SHN`
+- **CUSA18822** - `CUSA18822` - version `01.03` - `MC4`
+- **CUSA18822** - `CUSA18822` - version `01.03` - `SHN`
+- **CUSA18934** - `CUSA18934` - version `01.01` - `MC4`
+- **CUSA18934** - `CUSA18934` - version `01.01` - `SHN`
+- **CUSA19484** - `CUSA19484` - version `01.01` - `MC4`
+- **CUSA19484** - `CUSA19484` - version `01.01` - `SHN`
+- **CUSA20085** - `CUSA20085` - version `01.03` - `MC4`
+- **CUSA20085** - `CUSA20085` - version `01.03` - `SHN`
+- **CUSA20097** - `CUSA20097` - version `01.05` - `MC4`
+- **CUSA20097** - `CUSA20097` - version `01.05` - `SHN`
+- **CUSA20470** - `CUSA20470` - version `01.00` - `MC4`
+- **CUSA20470** - `CUSA20470` - version `01.00` - `SHN`
+- **CUSA20549** - `CUSA20549` - version `01.01` - `MC4`
+- **CUSA20549** - `CUSA20549` - version `01.01` - `SHN`
+- **CUSA23491** - `CUSA23491` - version `01.30` - `SHN`
+- **CUSA23501** - `CUSA23501` - version `01.07` - `SHN`
+- **CUSA23511** - `CUSA23511` - version `01.04` - `SHN`
+- **CUSA23827** - `CUSA23827` - version `01.33` - `SHN`
+- **CUSA23827** - `CUSA23827` - version `01.33` - `MC4` - `sp23-cod.elf`
+- **CUSA23827** - `CUSA23827` - version `01.33` - `SHN` - `sp23-cod.elf`
+- **CUSA24067** - `CUSA24067` - version `01.01` - `MC4`
+- **CUSA24067** - `CUSA24067` - version `01.01` - `SHN`
+- **CUSA24813** - `CUSA24813` - version `01.01` - `MC4`
+- **CUSA24813** - `CUSA24813` - version `01.01` - `SHN`
+- **CUSA25335** - `CUSA25335` - version `01.05` - `MC4`
+- **CUSA25335** - `CUSA25335` - version `01.05` - `SHN`
+- **CUSA25478** - `CUSA25478` - version `01.60` - `MC4`
+- **CUSA25478** - `CUSA25478` - version `01.60` - `SHN`
+- **CUSA25651** - `CUSA25651` - version `01.02` - `MC4`
+- **CUSA25651** - `CUSA25651` - version `01.02` - `SHN`
+- **CUSA25661** - `CUSA25661` - version `01.02` - `MC4`
+- **CUSA25661** - `CUSA25661` - version `01.02` - `SHN`
+- **CUSA25705** - `CUSA25705` - version `01.03` - `MC4`
+- **CUSA25705** - `CUSA25705` - version `01.03` - `SHN`
+- **CUSA25757** - `CUSA25757` - version `01.01` - `MC4`
+- **CUSA25757** - `CUSA25757` - version `01.01` - `SHN`
+- **CUSA25970** - `CUSA25970` - version `01.04` - `MC4`
+- **CUSA25970** - `CUSA25970` - version `01.04` - `SHN`
+- **CUSA26073** - `CUSA26073` - version `01.00` - `MC4`
+- **CUSA26073** - `CUSA26073` - version `01.00` - `SHN`
+- **CUSA26092** - `CUSA26092` - version `01.01` - `MC4`
+- **CUSA26092** - `CUSA26092` - version `01.01` - `SHN`
+- **CUSA26370** - `CUSA26370` - version `01.03` - `MC4`
+- **CUSA26370** - `CUSA26370` - version `01.03` - `SHN`
+- **CUSA26436** - `CUSA26436` - version `01.02` - `MC4`
+- **CUSA26436** - `CUSA26436` - version `01.02` - `SHN`
+- **CUSA26882** - `CUSA26882` - version `01.03` - `MC4`
+- **CUSA26882** - `CUSA26882` - version `01.03` - `SHN`
+- **CUSA26894** - `CUSA26894` - version `01.05` - `MC4`
+- **CUSA26894** - `CUSA26894` - version `01.05` - `SHN`
+- **CUSA26944** - `CUSA26944` - version `01.04` - `MC4`
+- **CUSA26944** - `CUSA26944` - version `01.04` - `SHN`
+- **CUSA27022** - `CUSA27022` - version `01.03` - `MC4`
+- **CUSA27022** - `CUSA27022` - version `01.03` - `SHN`
+- **CUSA27069** - `CUSA27069` - version `01.03` - `MC4`
+- **CUSA27069** - `CUSA27069` - version `01.03` - `SHN`
+- **CUSA27274** - `CUSA27274` - version `02.04` - `MC4`
+- **CUSA27274** - `CUSA27274` - version `02.04` - `SHN`
+- **CUSA27305** - `CUSA27305` - version `01.81` - `MC4`
+- **CUSA27305** - `CUSA27305` - version `01.81` - `SHN`
+- **CUSA27372** - `CUSA27372` - version `01.26` - `MC4`
+- **CUSA27372** - `CUSA27372` - version `01.26` - `SHN`
+- **CUSA27430** - `CUSA27430` - version `01.19` - `MC4`
+- **CUSA27430** - `CUSA27430` - version `01.19` - `SHN`
+- **CUSA27430** - `CUSA27430` - version `01.20` - `MC4`
+- **CUSA27430** - `CUSA27430` - version `01.20` - `SHN`
+- **CUSA27556** - `CUSA27556` - version `01.02` - `MC4`
+- **CUSA27556** - `CUSA27556` - version `01.02` - `SHN`
+- **CUSA27616** - `CUSA27616` - version `01.06` - `MC4`
+- **CUSA27616** - `CUSA27616` - version `01.06` - `SHN`
+- **CUSA27693** - `CUSA27693` - version `01.07` - `MC4`
+- **CUSA27693** - `CUSA27693` - version `01.07` - `SHN`
+- **CUSA27788** - `CUSA27788` - version `01.00` - `MC4`
+- **CUSA27788** - `CUSA27788` - version `01.00` - `SHN`
+- **CUSA27817** - `CUSA27817` - version `01.02` - `SHN`
+- **CUSA27833** - `CUSA27833` - version `01.01` - `MC4`
+- **CUSA27833** - `CUSA27833` - version `01.01` - `SHN`
+- **CUSA27837** - `CUSA27837` - version `01.01` - `MC4`
+- **CUSA27837** - `CUSA27837` - version `01.01` - `SHN`
+- **CUSA28260** - `CUSA28260` - version `06.01` - `MC4`
+- **CUSA28260** - `CUSA28260` - version `06.01` - `SHN`
+- **CUSA28409** - `CUSA28409` - version `01.04` - `MC4`
+- **CUSA28409** - `CUSA28409` - version `01.04` - `SHN`
+- **CUSA28469** - `CUSA28469` - version `01.03` - `MC4`
+- **CUSA28469** - `CUSA28469` - version `01.03` - `SHN`
+- **CUSA28539** - `CUSA28539` - version `01.00` - `MC4`
+- **CUSA28539** - `CUSA28539` - version `01.00` - `SHN`
+- **CUSA28907** - `CUSA28907` - version `01.02` - `MC4`
+- **CUSA28907** - `CUSA28907` - version `01.02` - `SHN`
+- **CUSA28937** - `CUSA28937` - version `01.01` - `MC4`
+- **CUSA28937** - `CUSA28937` - version `01.01` - `SHN`
+- **CUSA29504** - `CUSA29504` - version `01.03` - `MC4`
+- **CUSA29504** - `CUSA29504` - version `01.03` - `SHN`
+- **CUSA29677** - `CUSA29677` - version `01.00` - `MC4`
+- **CUSA29677** - `CUSA29677` - version `01.00` - `SHN`
+- **CUSA29772** - `CUSA29772` - version `01.01` - `SHN`
+- **CUSA29785** - `CUSA29785` - version `01.21` - `MC4`
+- **CUSA29785** - `CUSA29785` - version `01.21` - `SHN`
+- **CUSA30005** - `CUSA30005` - version `01.01` - `MC4`
+- **CUSA30005** - `CUSA30005` - version `01.01` - `SHN`
+- **CUSA30448** - `CUSA30448` - version `02.00` - `MC4`
+- **CUSA30448** - `CUSA30448` - version `02.00` - `SHN`
+- **CUSA30466** - `CUSA30466` - version `01.02` - `MC4`
+- **CUSA30466** - `CUSA30466` - version `01.02` - `SHN`
+- **CUSA30992** - `CUSA30992` - version `01.08` - `SHN`
+- **CUSA30992** - `CUSA30992` - version `01.10` - `SHN`
+- **CUSA31459** - `CUSA31459` - version `01.01` - `MC4`
+- **CUSA31459** - `CUSA31459` - version `01.01` - `SHN`
+- **CUSA31513** - `CUSA31513` - version `01.02` - `MC4`
+- **CUSA31513** - `CUSA31513` - version `01.02` - `SHN`
+- **CUSA31561** - `CUSA31561` - version `01.01` - `MC4`
+- **CUSA31561** - `CUSA31561` - version `01.01` - `SHN`
+- **CUSA31580** - `CUSA31580` - version `01.11` - `SHN`
+- **CUSA32091** - `CUSA32091` - version `01.02` - `MC4`
+- **CUSA32091** - `CUSA32091` - version `01.02` - `SHN`
+- **CUSA32586** - `CUSA32586` - version `01.01` - `MC4`
+- **CUSA32586** - `CUSA32586` - version `01.01` - `SHN`
+- **CUSA32598** - `CUSA32598` - version `01.01` - `MC4`
+- **CUSA32598** - `CUSA32598` - version `01.01` - `SHN`
+- **CUSA32599** - `CUSA32599` - version `01.08` - `MC4`
+- **CUSA32599** - `CUSA32599` - version `01.08` - `SHN`
+- **CUSA32740** - `CUSA32740` - version `01.05` - `MC4`
+- **CUSA32740** - `CUSA32740` - version `01.05` - `SHN`
+- **CUSA32809** - `CUSA32809` - version `01.10` - `SHN`
+- **CUSA32836** - `CUSA32836` - version `01.50` - `SHN`
+- **CUSA33173** - `CUSA33173` - version `01.02` - `MC4`
+- **CUSA33173** - `CUSA33173` - version `01.02` - `SHN`
+- **CUSA33315** - `CUSA33315` - version `01.01` - `MC4`
+- **CUSA33315** - `CUSA33315` - version `01.01` - `SHN`
+- **CUSA33387** - `CUSA33387` - version `01.11` - `SHN`
+- **CUSA33686** - `CUSA33686` - version `01.00` - `MC4`
+- **CUSA33686** - `CUSA33686` - version `01.00` - `SHN`
+- **CUSA33758** - `CUSA33758` - version `01.00` - `SHN`
+- **CUSA33758** - `CUSA33758` - version `01.01` - `SHN`
+- **CUSA33877** - `CUSA33877` - version `01.00` - `SHN`
+- **CUSA34062** - `CUSA34062` - version `01.01` - `MC4`
+- **CUSA34062** - `CUSA34062` - version `01.01` - `SHN`
+- **CUSA34224** - `CUSA34224` - version `01.01` - `MC4`
+- **CUSA34224** - `CUSA34224` - version `01.01` - `SHN`
+- **CUSA34255** - `CUSA34255` - version `01.09` - `MC4` - `2`
+- **CUSA34255** - `CUSA34255` - version `01.09` - `MC4`
+- **CUSA34255** - `CUSA34255` - version `01.09` - `SHN`
+- **CUSA34306** - `CUSA34306` - version `01.13` - `MC4` - `2`
+- **CUSA34306** - `CUSA34306` - version `01.13` - `MC4`
+- **CUSA34306** - `CUSA34306` - version `01.13` - `SHN`
+- **CUSA34369** - `CUSA34369` - version `01.08` - `SHN`
+- **CUSA34370** - `CUSA34370` - version `01.08` - `SHN` - `2`
+- **CUSA34370** - `CUSA34370` - version `01.08` - `SHN`
+- **CUSA34526** - `CUSA34526` - version `01.03` - `SHN`
+- **CUSA34722** - `CUSA34722` - version `01.01` - `MC4`
+- **CUSA34722** - `CUSA34722` - version `01.01` - `SHN`
+- **CUSA34734** - `CUSA34734` - version `01.01` - `SHN`
+- **CUSA35016** - `CUSA35016` - version `01.12` - `SHN`
+- **CUSA35021** - `CUSA35021` - version `01.21` - `MC4`
+- **CUSA35021** - `CUSA35021` - version `01.21` - `SHN`
+- **CUSA35028** - `CUSA35028` - version `01.01` - `MC4`
+- **CUSA35028** - `CUSA35028` - version `01.01` - `SHN`
+- **CUSA35217** - `CUSA35217` - version `01.01` - `SHN`
+- **CUSA35638** - `CUSA35638` - version `01.03` - `MC4` - `2`
+- **CUSA35638** - `CUSA35638` - version `01.03` - `MC4`
+- **CUSA35638** - `CUSA35638` - version `01.03` - `SHN`
+- **CUSA35639** - `CUSA35639` - version `01.05` - `MC4`
+- **CUSA35639** - `CUSA35639` - version `01.05` - `SHN`
+- **CUSA35639** - `CUSA35639` - version `01.07` - `MC4`
+- **CUSA35639** - `CUSA35639` - version `01.07` - `SHN`
+- **CUSA35719** - `CUSA35719` - version `01.01` - `MC4`
+- **CUSA35719** - `CUSA35719` - version `01.01` - `SHN`
+- **CUSA35771** - `CUSA35771` - version `02.03` - `MC4`
+- **CUSA35771** - `CUSA35771` - version `02.03` - `SHN`
+- **CUSA35782** - `CUSA35782` - version `01.01` - `MC4`
+- **CUSA35782** - `CUSA35782` - version `01.01` - `SHN`
+- **CUSA35974** - `CUSA35974` - version `01.51` - `SHN`
+- **CUSA36583** - `CUSA36583` - version `01.40` - `SHN` - `2`
+- **CUSA36583** - `CUSA36583` - version `01.40` - `SHN`
+- **CUSA36848** - `CUSA36848` - version `01.01` - `MC4` - `2`
+- **CUSA36848** - `CUSA36848` - version `01.01` - `MC4`
+- **CUSA36848** - `CUSA36848` - version `01.01` - `SHN`
+- **CUSA36848** - `CUSA36848` - version `01.02` - `MC4`
+- **CUSA36848** - `CUSA36848` - version `01.02` - `SHN`
+- **CUSA36848** - `CUSA36848` - version `01.05` - `MC4`
+- **CUSA36848** - `CUSA36848` - version `01.05` - `SHN`
+- **CUSA36848** - `CUSA36848` - version `01.08` - `MC4`
+- **CUSA36848** - `CUSA36848` - version `01.08` - `SHN`
+- **CUSA36876** - `CUSA36876` - version `01.04` - `MC4`
+- **CUSA36876** - `CUSA36876` - version `01.04` - `SHN`
+- **CUSA37615** - `CUSA37615` - version `01.01` - `MC4`
+- **CUSA37615** - `CUSA37615` - version `01.01` - `SHN`
+- **CUSA39370** - `CUSA39370` - version `01.12` - `MC4`
+- **CUSA39370** - `CUSA39370` - version `01.12` - `SHN`
+- **CUSA39420** - `CUSA39420` - version `01.02` - `SHN`
+- **CUSA39420** - `CUSA39420` - version `01.04` - `SHN` - `2`
+- **CUSA39420** - `CUSA39420` - version `01.04` - `MC4`
+- **CUSA39420** - `CUSA39420` - version `01.04` - `SHN`
+- **CUSA39623** - `CUSA39623` - version `01.06` - `MC4`
+- **CUSA39623** - `CUSA39623` - version `01.06` - `SHN`
+- **CUSA39623** - `CUSA39623` - version `01.08` - `MC4`
+- **CUSA39623** - `CUSA39623` - version `01.08` - `SHN`
+- **CUSA40247** - `CUSA40247` - version `01.04` - `SHN`
+- **CUSA40312** - `CUSA40312` - version `01.01` - `MC4`
+- **CUSA40312** - `CUSA40312` - version `01.01` - `SHN`
+- **CUSA40325** - `CUSA40325` - version `01.03` - `MC4`
+- **CUSA40325** - `CUSA40325` - version `01.03` - `SHN`
+- **CUSA40641** - `CUSA40641` - version `01.10` - `SHN`
+- **CUSA40653** - `CUSA40653` - version `01.10` - `SHN`
+- **CUSA41026** - `CUSA41026` - version `01.01` - `MC4`
+- **CUSA41026** - `CUSA41026` - version `01.01` - `SHN`
+- **CUSA41217** - `CUSA41217` - version `01.01` - `MC4`
+- **CUSA41217** - `CUSA41217` - version `01.01` - `SHN`
+- **CUSA41223** - `CUSA41223` - version `01.04` - `MC4`
+- **CUSA41223** - `CUSA41223` - version `01.04` - `SHN`
+- **CUSA41390** - `CUSA41390` - version `01.08` - `MC4`
+- **CUSA41390** - `CUSA41390` - version `01.08` - `SHN`
+- **CUSA41712** - `CUSA41712` - version `01.03` - `MC4`
+- **CUSA41712** - `CUSA41712` - version `01.03` - `SHN`
+- **CUSA42371** - `CUSA42371` - version `01.01` - `MC4`
+- **CUSA42371** - `CUSA42371` - version `01.01` - `SHN`
+- **CUSA42498** - `CUSA42498` - version `01.01` - `MC4`
+- **CUSA42498** - `CUSA42498` - version `01.01` - `SHN`
+- **CUSA42502** - `CUSA42502` - version `01.01` - `SHN`
+- **CUSA42503** - `CUSA42503` - version `01.02` - `MC4`
+- **CUSA42503** - `CUSA42503` - version `01.02` - `SHN`
+- **CUSA42503** - `CUSA42503` - version `01.22` - `MC4`
+- **CUSA42503** - `CUSA42503` - version `01.22` - `SHN`
+- **CUSA42539** - `CUSA42539` - version `01.00` - `MC4`
+- **CUSA42539** - `CUSA42539` - version `01.00` - `SHN`
+- **CUSA42678** - `CUSA42678` - version `01.00` - `MC4`
+- **CUSA42678** - `CUSA42678` - version `01.00` - `SHN`
+- **CUSA42722** - `CUSA42722` - version `01.02` - `MC4`
+- **CUSA42722** - `CUSA42722` - version `01.02` - `SHN`
+- **CUSA42847** - `CUSA42847` - version `01.01` - `MC4`
+- **CUSA42847** - `CUSA42847` - version `01.01` - `SHN`
+- **CUSA42936** - `CUSA42936` - version `01.09` - `MC4`
+- **CUSA42936** - `CUSA42936` - version `01.09` - `SHN`
+- **CUSA43228** - `CUSA43228` - version `01.10` - `MC4`
+- **CUSA43228** - `CUSA43228` - version `01.10` - `SHN`
+- **CUSA43394** - `CUSA43394` - version `01.01` - `MC4`
+- **CUSA43394** - `CUSA43394` - version `01.01` - `SHN`
+- **CUSA43438** - `CUSA43438` - version `01.02` - `SHN` - `2`
+- **CUSA43438** - `CUSA43438` - version `01.02` - `MC4`
+- **CUSA43438** - `CUSA43438` - version `01.02` - `SHN`
+- **CUSA43546** - `CUSA43546` - version `01.10` - `MC4`
+- **CUSA43546** - `CUSA43546` - version `01.10` - `SHN`
+- **CUSA43665** - `CUSA43665` - version `01.01` - `MC4`
+- **CUSA43665** - `CUSA43665` - version `01.01` - `SHN`
+- **CUSA43769** - `CUSA43769` - version `01.00` - `MC4`
+- **CUSA43769** - `CUSA43769` - version `01.00` - `SHN`
+- **CUSA43773** - `CUSA43773` - version `01.04` - `SHN`
+- **CUSA44067** - `CUSA44067` - version `01.02` - `MC4`
+- **CUSA44067** - `CUSA44067` - version `01.02` - `SHN`
+- **CUSA44067** - `CUSA44067` - version `01.06` - `MC4`
+- **CUSA44067** - `CUSA44067` - version `01.06` - `SHN`
+- **CUSA44067** - `CUSA44067` - version `01.07` - `MC4`
+- **CUSA44067** - `CUSA44067` - version `01.07` - `SHN`
+- **CUSA44318** - `CUSA44318` - version `01.02` - `MC4`
+- **CUSA44318** - `CUSA44318` - version `01.02` - `SHN`
+- **CUSA44689** - `CUSA44689` - version `01.02` - `MC4`
+- **CUSA44689** - `CUSA44689` - version `01.02` - `SHN`
+- **CUSA45165** - `CUSA45165` - version `01.09` - `MC4`
+- **CUSA45165** - `CUSA45165` - version `01.09` - `SHN`
+- **CUSA45205** - `CUSA45205` - version `01.02` - `MC4`
+- **CUSA45205** - `CUSA45205` - version `01.02` - `SHN`
+- **CUSA45404** - `CUSA45404` - version `01.01` - `SHN`
+- **CUSA46657** - `CUSA46657` - version `01.03` - `MC4`
+- **CUSA46657** - `CUSA46657` - version `01.03` - `SHN`
+- **CUSA46721** - `CUSA46721` - version `01.01` - `MC4`
+- **CUSA46721** - `CUSA46721` - version `01.01` - `SHN`
+- **CUSA47364** - `CUSA47364` - version `01.01` - `MC4`
+- **CUSA47364** - `CUSA47364` - version `01.01` - `SHN`
+- **CUSA48215** - `CUSA48215` - version `01.01` - `SHN`
+- **CUSA48223** - `CUSA48223` - version `01.11` - `MC4`
+- **CUSA48223** - `CUSA48223` - version `01.11` - `SHN`
+- **CUSA48381** - `CUSA48381` - version `01.02` - `MC4`
+- **CUSA48381** - `CUSA48381` - version `01.02` - `SHN`
+- **CUSA48704** - `CUSA48704` - version `01.09` - `MC4`
+- **CUSA48704** - `CUSA48704` - version `01.09` - `SHN`
+- **CUSA49320** - `CUSA49320` - version `01.05` - `MC4`
+- **CUSA49320** - `CUSA49320` - version `01.05` - `SHN`
+- **CUSA49387** - `CUSA49387` - version `01.01` - `MC4`
+- **CUSA49387** - `CUSA49387` - version `01.01` - `SHN`
+- **CUSA49799** - `CUSA49799` - version `01.01` - `MC4`
+- **CUSA49799** - `CUSA49799` - version `01.01` - `SHN`
+- **CUSA49865** - `CUSA49865` - version `01.03` - `MC4`
+- **CUSA49865** - `CUSA49865` - version `01.03` - `SHN`
+- **CUSA49939** - `CUSA49939` - version `01.10` - `SHN`
+- **CUSA50463** - `CUSA50463` - version `01.02` - `MC4`
+- **CUSA50463** - `CUSA50463` - version `01.02` - `SHN`
+- **CUSA50463** - `CUSA50463` - version `01.03` - `MC4`
+- **CUSA50463** - `CUSA50463` - version `01.03` - `SHN`
+- **CUSA50981** - `CUSA50981` - version `01.03` - `SHN`
+- **CUSA51101** - `CUSA51101` - version `01.02` - `MC4`
+- **CUSA51101** - `CUSA51101` - version `01.02` - `SHN`
+- **CUSA52187** - `CUSA52187` - version `01.50` - `SHN`
+- **CUSA52790** - `CUSA52790` - version `01.01` - `MC4`
+- **CUSA52790** - `CUSA52790` - version `01.01` - `SHN`
+- **CUSA53132** - `CUSA53132` - version `01.02` - `MC4`
+- **CUSA53132** - `CUSA53132` - version `01.02` - `SHN`
+- **CUSA54473** - `CUSA54473` - version `01.01` - `MC4`
+- **CUSA54473** - `CUSA54473` - version `01.01` - `SHN`
+- **CUSA54714** - `CUSA54714` - version `01.13` - `MC4`
+- **CUSA54714** - `CUSA54714` - version `01.13` - `SHN`
+- **CUSA55613** - `CUSA55613` - version `01.10` - `MC4`
+- **CUSA55613** - `CUSA55613` - version `01.10` - `SHN`
+- **CUSA99817** - `CUSA99817` - version `01.00` - `SHN`
+- **CUSA99900** - `CUSA99900` - version `01.00` - `SHN`
+- **Cyber Shadow** - `CUSA24216` - version `01.04` - `JSON`
+- **Cyber Shadow** - `CUSA24216` - version `01.04` - `MC4`
+- **Cyber Shadow** - `CUSA24216` - version `01.04` - `SHN`
+- **Cyberpunk 2077** - `CUSA16579` - version `01.31` - `JSON`
+- **Cyberpunk 2077** - `CUSA16579` - version `01.61` - `JSON`
+- **Cyberpunk 2077** - `CUSA16579` - version `01.61` - `MC4`
+- **Cyberpunk 2077** - `CUSA16579` - version `01.61` - `SHN`
+- **Cyberpunk 2077** - `CUSA16596` - version `01.31` - `JSON`
+- **Cyberpunk 2077** - `CUSA16596` - version `01.61` - `JSON`
+- **Cyberpunk 2077** - `CUSA16596` - version `01.61` - `MC4`
+- **Cyberpunk 2077** - `CUSA16596` - version `01.61` - `SHN`
+- **Cyberpunk 2077** - `CUSA18278` - version `01.05` - `JSON`
+- **Cyberpunk 2077** - `CUSA18278` - version `01.61` - `JSON`
+- **Cyberpunk 2077** - `CUSA18278` - version `01.61` - `SHN`
+- **Dark Alliance** - `CUSA25234` - version `01.08` - `JSON`
+- **Dark Alliance** - `CUSA25234` - version `01.08` - `SHN`
+- **Dark Souls 2** - `CUSA01589` - version `01.02` - `MC4`
+- **Dark souls 2** - `CUSA01760` - version `01.00` - `SHN`
+- **Dark souls 2** - `CUSA01760` - version `01.02` - `SHN` - `2`
+- **Dark souls 2** - `CUSA01760` - version `01.02` - `JSON`
+- **Dark souls 2** - `CUSA01760` - version `01.02` - `SHN`
+- **Dark Souls III: The Fire Fades Edition** - `CUSA07439` - version `01.00` - `MC4`
+- **Dark Souls Remastered** - `CUSA08692` - version `01.03` - `JSON`
+- **Dark Souls Remastered** - `CUSA08692` - version `01.03` - `SHN`
+- **DARK SOULS™ II: Scholar of the First Sin** - `CUSA01589` - version `01.00` - `JSON`
+- **DARK SOULS™ II: Scholar of the First Sin** - `CUSA01589` - version `01.00` - `SHN`
+- **DARK SOULS™ II: Scholar of the First Sin** - `CUSA01589` - version `01.02` - `JSON`
+- **DARK SOULS™ II: Scholar of the First Sin** - `CUSA01589` - version `01.02` - `MC4`
+- **DARK SOULS™ II: Scholar of the First Sin** - `CUSA01589` - version `01.02` - `SHN`
+- **DARK SOULS™ III: The Fire Fades™ Edition** - `CUSA07439` - version `01.00` - `JSON`
+- **DARK SOULS™ III: The Fire Fades™ Edition** - `CUSA07439` - version `01.00` - `MC4`
+- **DARK SOULS™ III: The Fire Fades™ Edition** - `CUSA07439` - version `01.00` - `SHN`
+- **DARK SOULS™ III: The Fire Fades™ Edition** - `CUSA07439` - version `01.03` - `JSON`
+- **DARK SOULS™ III: The Fire Fades™ Edition** - `CUSA07439` - version `01.03` - `MC4`
+- **DARK SOULS™ III: The Fire Fades™ Edition** - `CUSA07439` - version `01.03` - `SHN`
+- **DARK SOULS™: REMASTERED** - `CUSA08495` - version `01.03` - `JSON`
+- **DARK SOULS™: REMASTERED** - `CUSA08495` - version `01.03` - `MC4`
+- **DARK SOULS™: REMASTERED** - `CUSA08495` - version `01.03` - `SHN`
+- **DARK SOULS™: REMASTERED** - `CUSA08495` - version `05.05` - `MC4`
+- **DARK SOULS™: REMASTERED** - `CUSA08495` - version `05.05` - `SHN`
+- **Dark Thrones** - `CUSA27656` - version `01.00` - `JSON`
+- **Darksiders 2 Deathinitive Edition MERGED** - `CUSA02419` - version `01.02` - `MC4`
+- **Darksiders 3** - `CUSA08798` - version `01.11` - `MC4`
+- **Darksiders Genesis** - `CUSA12979` - version `01.03` - `JSON`
+- **Darksiders II Deathinitive Edition** - `CUSA02419` - version `01.00` - `JSON`
+- **Darksiders II Deathinitive Edition** - `CUSA02419` - version `01.00` - `MC4`
+- **Darksiders II Deathinitive Edition** - `CUSA02419` - version `01.00` - `SHN`
+- **Darksiders II Deathinitive Edition** - `CUSA02419` - version `01.02` - `MC4`
+- **Darksiders II Deathinitive Edition** - `CUSA02419` - version `01.02` - `SHN`
+- **Darksiders II Deathinitive Edition** - `CUSA02420` - version `01.02` - `JSON`
+- **Darksiders II Deathinitive Edition** - `CUSA02420` - version `01.02` - `SHN`
+- **Darksiders III** - `CUSA08798` - version `01.10` - `SHN` - `2`
+- **Darksiders III** - `CUSA08798` - version `01.10` - `JSON`
+- **Darksiders III** - `CUSA08798` - version `01.10` - `SHN`
+- **Darksiders III** - `CUSA08798` - version `01.11` - `MC4` - `2`
+- **Darksiders III** - `CUSA08798` - version `01.11` - `JSON`
+- **Darksiders III** - `CUSA08798` - version `01.11` - `MC4`
+- **Darksiders III** - `CUSA08798` - version `01.11` - `SHN`
+- **Darksiders Warmaster Edition** - `CUSA05347` - version `01.00` - `MC4`
+- **Darksiders Warmastered Edition** - `CUSA05347` - version `01.00` - `JSON`
+- **Darksiders Warmastered Edition** - `CUSA05347` - version `01.00` - `MC4`
+- **Darksiders Warmastered Edition** - `CUSA05347` - version `01.00` - `SHN`
+- **Darksiders Warmastered Edition** - `CUSA05347` - version `01.01` - `SHN` - `2`
+- **Darksiders Warmastered Edition** - `CUSA05347` - version `01.01` - `MC4`
+- **Darksiders Warmastered Edition** - `CUSA05347` - version `01.01` - `SHN`
+- **DAVE THE DIVER** - `CUSA45599` - version `01.08` - `JSON`
+- **DAVE THE DIVER** - `CUSA45599` - version `01.08` - `SHN`
+- **DAVE THE DIVER** - `CUSA45600` - version `01.08` - `JSON`
+- **DAVE THE DIVER** - `CUSA45600` - version `01.08` - `SHN`
+- **DAVE THE DIVER** - `CUSA45600` - version `01.21` - `JSON`
+- **Daymare 1998** - `CUSA17082` - version `01.01` - `JSON`
+- **Daymare: 1994 Sandcastle** - `CUSA35771` - version `2.03` - `MC4`
+- **DAYS GONE** - `CUSA08966` - version `01.00` - `MC4`
+- **DAYS GONE** - `CUSA08966` - version `01.00` - `SHN`
+- **DAYS GONE** - `CUSA08966` - version `01.81` - `JSON`
+- **DAYS GONE** - `CUSA08966` - version `01.81` - `MC4`
+- **DAYS GONE** - `CUSA08966` - version `01.81` - `SHN`
+- **DAYS GONE** - `CUSA09175` - version `01.00` - `JSON`
+- **DAYS GONE** - `CUSA09175` - version `01.51` - `JSON`
+- **DAYS GONE** - `CUSA09175` - version `01.51` - `MC4`
+- **Days Gone** - `CUSA09175` - version `01.51` - `MC4`
+- **DAYS GONE** - `CUSA09175` - version `01.51` - `SHN`
+- **DAYS GONE** - `CUSA09175` - version `01.61` - `JSON`
+- **DAYS GONE** - `CUSA09175` - version `01.80` - `JSON`
+- **DAYS GONE** - `CUSA09175` - version `01.81` - `JSON`
+- **DAYS GONE** - `CUSA09175` - version `01.81` - `MC4`
+- **DAYS GONE** - `CUSA09175` - version `01.81` - `SHN`
+- **DAYS GONE** - `CUSA09175` - version `01.84` - `MC4`
+- **DAYS GONE** - `CUSA09175` - version `01.84` - `SHN`
+- **DAYS GONE** - `CUSA09176` - version `01.81` - `JSON`
+- **DAYS GONE** - `CUSA15027` - version `01.51` - `JSON`
+- **DAYS GONE** - `CUSA15027` - version `01.81` - `JSON`
+- **DC League of Super-Pets: The Adventures of Krypto and Ace** - `CUSA30005` - version `01.01` - `MC4`
+- **de blob 2** - `CUSA10299` - version `01.00` - `MC4`
+- **Dead Cells** - `CUSA10484` - version `01.51` - `JSON`
+- **Dead Cells** - `CUSA10484` - version `01.51` - `MC4`
+- **Dead Cells** - `CUSA10484` - version `01.51` - `SHN`
+- **Dead Cells** - `CUSA11253` - version `01.17` - `JSON`
+- **DEAD CELLS** - `CUSA11253` - version `01.39` - `MC4`
+- **Dead Cells** - `CUSA11253` - version `01.39` - `MC4`
+- **Dead Cells** - `CUSA11253` - version `01.39` - `SHN`
+- **Dead Cells** - `CUSA11253` - version `01.43` - `JSON`
+- **Dead Cells** - `CUSA11253` - version `01.43` - `MC4`
+- **Dead Cells** - `CUSA11253` - version `01.43` - `SHN`
+- **Dead Cells** - `CUSA11253` - version `01.45` - `JSON`
+- **Dead Cells** - `CUSA11253` - version `01.45` - `MC4`
+- **Dead Cells** - `CUSA11253` - version `01.45` - `SHN`
+- **Dead Cells** - `CUSA11253` - version `01.51` - `JSON`
+- **Dead Island - Definitive Edition** - `CUSA03291` - version `01.03` - `JSON`
+- **Dead Island - Definitive Edition** - `CUSA03291` - version `01.03` - `MC4`
+- **Dead Island - Definitive Edition** - `CUSA03291` - version `01.03` - `SHN`
+- **Dead Island 2** - `CUSA27043` - version `01.03` - `JSON`
+- **Dead Island 2** - `CUSA27043` - version `01.07` - `MC4`
+- **Dead Island 2** - `CUSA27043` - version `01.09` - `JSON`
+- **Dead Island 2 Gold Edition** - `CUSA27043` - version `01.03` - `JSON`
+- **Dead Island 2 Gold Edition** - `CUSA27043` - version `01.03` - `MC4`
+- **Dead Island 2 Gold Edition** - `CUSA27043` - version `01.03` - `SHN`
+- **Dead Island 2 Gold Edition** - `CUSA27043` - version `01.07` - `MC4`
+- **Dead Island 2 Gold Edition** - `CUSA27043` - version `01.07` - `SHN`
+- **Dead Island 2 Gold Edition** - `CUSA27043` - version `01.09` - `SHN`
+- **Dead Island 2 Gold Edition** - `CUSA27043` - version `01.10` - `JSON`
+- **Dead Island 2 Gold Edition** - `CUSA27043` - version `01.10` - `MC4`
+- **Dead Island 2 Gold Edition** - `CUSA27043` - version `01.10` - `SHN`
+- **Dead Island Definitive Edition** - `CUSA03291` - version `01.03` - `MC4`
+- **Dead Island Riptide Definitive Edition** - `CUSA03290` - version `01.00` - `MC4`
+- **Dead Island: Riptide - Definitive Edition** - `CUSA03290` - version `01.03` - `JSON`
+- **Dead Island: Riptide - Definitive Edition** - `CUSA03290` - version `01.03` - `MC4`
+- **Dead Island: Riptide - Definitive Edition** - `CUSA03290` - version `01.03` - `SHN`
+- **Dead Nation** - `CUSA00176` - version `01.03` - `JSON`
+- **Dead Nation** - `CUSA00176` - version `01.03` - `MC4`
+- **Dead Nation** - `CUSA00176` - version `01.03` - `SHN`
+- **Dead Nations** - `CUSA00176` - version `01.03` - `MC4`
+- **DEAD OR ALIVE 6** - `CUSA12116` - version `01.18` - `JSON`
+- **DEAD OR ALIVE 6** - `CUSA12153` - version `01.30` - `JSON`
+- **DEAD OR ALIVE Xtreme 3 Fortune** - `CUSA04555` - version `01.01` - `JSON`
+- **DEAD OR ALIVE Xtreme 3 Fortune** - `CUSA04555` - version `01.01` - `MC4`
+- **DEAD OR ALIVE Xtreme 3 Fortune** - `CUSA04555` - version `01.01` - `SHN`
+- **DEAD OR ALIVE Xtreme 3 Fortune** - `CUSA04555` - version `01.16` - `JSON`
+- **DEAD OR ALIVE Xtreme 3 Fortune** - `CUSA04555` - version `01.16` - `MC4`
+- **DEAD OR ALIVE Xtreme 3 Fortune** - `CUSA04555` - version `01.16` - `SHN`
+- **DEAD OR ALIVE Xtreme 3 Fortune** - `CUSA04555` - version `01.19` - `JSON`
+- **Dead Rising** - `CUSA04513` - version `01.00` - `JSON`
+- **DEAD RISING** - `CUSA04513` - version `01.00` - `JSON`
+- **Dead Rising** - `CUSA04513` - version `01.00` - `MC4`
+- **Dead Rising** - `CUSA04513` - version `01.00` - `SHN`
+- **Dead Rising 1** - `CUSA04513` - version `01.00` - `JSON`
+- **Dead Rising 1** - `CUSA04513` - version `01.00` - `MC4`
+- **Dead Rising 2** - `CUSA04313` - version `01.00` - `JSON`
+- **Dead Rising 2** - `CUSA04313` - version `01.00` - `MC4`
+- **Dead Rising 2** - `CUSA04313` - version `01.00` - `SHN`
+- **Dead Rising 2 Off The Record** - `CUSA04273` - version `01.00` - `MC4`
+- **Dead Rising 2 Off The Record** - `CUSA04273` - version `01.02` - `MC4`
+- **Dead Rising 2: Off The Record** - `CUSA04273` - version `01.00` - `MC4`
+- **Dead Rising 2: Off The Record** - `CUSA04273` - version `01.00` - `SHN`
+- **Dead Rising 2: Off The Record** - `CUSA04273` - version `01.02` - `JSON`
+- **Dead Rising 2: Off The Record** - `CUSA04273` - version `01.02` - `MC4`
+- **Dead Rising 2: Off The Record** - `CUSA04273` - version `01.02` - `SHN`
+- **Dead Rising 4: Frank Big Package** - `CUSA08558` - version `01.00` - `MC4`
+- **Dead Rising 4: Frank Big Package** - `CUSA08558` - version `01.00` - `SHN`
+- **Dead Rising 4: Frank Big Package** - `CUSA08558` - version `01.01` - `JSON`
+- **Dead Rising 4: Frank Big Package** - `CUSA08558` - version `01.01` - `MC4`
+- **Dead Rising 4: Frank Big Package** - `CUSA08558` - version `01.01` - `SHN`
+- **Dead Rising 4: Frank's Big Package** - `CUSA08558` - version `01.00` - `JSON`
+- **Dead Rising 4: Frank\'s Big Package** - `CUSA08558` - version `01.00` - `MC4`
+- **Dead Rising 4: Frank\'s Big Package** - `CUSA08558` - version `01.01` - `MC4`
+- **Dead Rising 4: Franks Big Package** - `CUSA08558` - version `01.00` - `JSON`
+- **DeadCraft** - `CUSA29850` - version `01.04` - `JSON`
+- **DeadCraft** - `CUSA29850` - version `01.04` - `SHN`
+- **Deadpool** - `CUSA03245` - version `01.00` - `JSON`
+- **Deadpool** - `CUSA03528` - version `01.00` - `JSON`
+- **Death Standing** - `CUSA12605` - version `01.01` - `MC4`
+- **DEATH STRANDING** - `CUSA11260` - version `01.12` - `JSON`
+- **DEATH STRANDING** - `CUSA11260` - version `01.12` - `SHN`
+- **DEATH STRANDING** - `CUSA11260` - version `01.13` - `SHN` - `2`
+- **DEATH STRANDING** - `CUSA11260` - version `01.13` - `JSON`
+- **DEATH STRANDING** - `CUSA11260` - version `01.13` - `MC4`
+- **DEATH STRANDING** - `CUSA11260` - version `01.13` - `SHN`
+- **DEATH STRANDING** - `CUSA12605` - version `01.01` - `MC4`
+- **DEATH STRANDING** - `CUSA12605` - version `01.01` - `SHN`
+- **Death Stranding** - `CUSA12605` - version `01.02` - `MC4`
+- **DEATH STRANDING** - `CUSA12605` - version `01.02` - `MC4`
+- **DEATH STRANDING** - `CUSA12605` - version `01.02` - `SHN`
+- **DEATH STRANDING** - `CUSA12605` - version `01.12` - `JSON`
+- **DEATH STRANDING** - `CUSA12605` - version `01.12` - `MC4`
+- **DEATH STRANDING** - `CUSA12605` - version `01.12` - `SHN`
+- **DEATH STRANDING** - `CUSA12605` - version `01.13` - `MC4`
+- **DEATH STRANDING** - `CUSA12605` - version `01.13` - `SHN`
+- **DEATH STRANDING™** - `CUSA12605` - version `01.01` - `JSON`
+- **DEATH STRANDING™** - `CUSA12605` - version `01.02` - `JSON`
+- **Death's Door** - `CUSA30423` - version `01.01` - `JSON`
+- **Death's Door** - `CUSA30423` - version `01.01` - `MC4`
+- **Death's Door** - `CUSA30423` - version `01.01` - `SHN`
+- **Death's Door** - `CUSA30424` - version `01.01` - `JSON`
+- **Deep Rock Galactic** - `CUSA15094` - version `01.33` - `JSON`
+- **Deep Rock Galactic** - `CUSA15094` - version `01.33` - `MC4`
+- **Deep Rock Galactic** - `CUSA15094` - version `01.33` - `SHN`
+- **DEMON SLAYER** - `CUSA27306` - version `01.31` - `JSON`
+- **Demon Slayer** - `CUSA27306` - version `01.51` - `MC4`
+- **Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles** - `CUSA27306` - version `01.51` - `JSON`
+- **Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles** - `CUSA27306` - version `01.51` - `MC4`
+- **Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles** - `CUSA27306` - version `01.51` - `SHN`
+- **Demon Slayer Kimetsu no Yaiba The Hinokami Chronicles** - `CUSA27305` - version `01.81` - `MC4`
+- **Desperados III** - `CUSA11112` - version `01.01` - `JSON`
+- **Desperados III** - `CUSA11112` - version `01.05` - `JSON`
+- **Desperados III** - `CUSA11318` - version `01.05` - `JSON`
+- **Destroy All Humans!** - `CUSA14910` - version `01.01` - `JSON`
+- **Destroy All Humans!** - `CUSA14910` - version `01.06` - `JSON`
+- **Destroy All Humans! 2 - Reprobed** - `CUSA36164` - version `01.02` - `JSON`
+- **Destroy All Humans! 2 - Reprobed** - `CUSA36164` - version `01.02` - `MC4`
+- **Destroy All Humans! 2 - Reprobed** - `CUSA36164` - version `01.02` - `SHN`
+- **Destroy All Humans! 2 - Reprobed** - `CUSA36167` - version `01.02` - `JSON`
+- **Detroit: Become Human™** - `CUSA00717` - version `01.08` - `JSON`
+- **Deus Ex: Mankind Divided** - `CUSA01836` - version `01.14` - `MC4`
+- **Deus Ex: Mankind Divided™** - `CUSA01836` - version `01.14` - `JSON`
+- **Deus Ex: Mankind Divided™** - `CUSA01836` - version `01.14` - `MC4`
+- **Deus Ex: Mankind Divided™** - `CUSA01836` - version `01.14` - `SHN`
+- **Devil May Cry 3-Dantes Awakening** - `SLES54186` - version `01.00` - `JSON`
+- **Devil May Cry 3-Dantes Awakening** - `SLES54186` - version `01.00` - `SHN`
+- **Devil May Cry 4 Special Edition** - `CUSA01708` - version `01.00` - `JSON`
+- **Devil May Cry 4 Special Edition** - `CUSA01708` - version `01.00` - `MC4`
+- **Devil May Cry 4 Special Edition** - `CUSA01708` - version `01.00` - `SHN`
+- **Devil May Cry 5** - `CUSA08161` - version `01.01` - `JSON`
+- **Devil May Cry 5** - `CUSA08161` - version `01.01` - `MC4`
+- **Devil May Cry 5** - `CUSA08161` - version `01.01` - `SHN`
+- **Devil May Cry 5** - `CUSA08161` - version `01.08` - `JSON`
+- **devil may cry 5** - `CUSA08161` - version `01.08` - `MC4`
+- **Devil May Cry 5** - `CUSA08161` - version `01.08` - `MC4`
+- **Devil May Cry 5** - `CUSA08161` - version `01.08` - `SHN`
+- **Devil May Cry 5** - `CUSA08161` - version `01.10` - `MC4`
+- **Devil May Cry 5** - `CUSA08161` - version `01.10` - `SHN`
+- **Devil May Cry 5** - `CUSA08216` - version `01.10` - `JSON`
+- **Devil May Cry 5** - `CUSA08216` - version `01.10` - `MC4`
+- **Devil May Cry 5** - `CUSA08216` - version `01.10` - `SHN`
+- **Devil May Cry: HD Collection** - `CUSA09263` - version `01.00` - `JSON`
+- **Devil May Cry: HD Collection** - `CUSA09263` - version `01.01` - `MC4` - `dmc1.elf`
+- **Devil May Cry: HD Collection** - `CUSA09263` - version `01.01` - `SHN` - `dmc1.elf`
+- **Devil May Cry: HD Collection** - `CUSA09263` - version `01.01` - `MC4` - `dmc2.elf`
+- **Devil May Cry: HD Collection** - `CUSA09263` - version `01.01` - `SHN` - `dmc2.elf`
+- **Devil May Cry: HD Collection** - `CUSA09263` - version `01.01` - `MC4` - `dmc3.elf`
+- **Devil May Cry: HD Collection** - `CUSA09263` - version `01.01` - `SHN` - `dmc3.elf`
+- **Devil May Cry: HD Collection** - `CUSA09407` - version `01.00` - `JSON`
+- **Devil May Cry® HD Collection (1)** - `CUSA09407` - version `01.00` - `JSON` - `dmc1.elf`
+- **Devil May Cry® HD Collection (2)** - `CUSA09407` - version `01.00` - `JSON` - `dmc2.elf`
+- **Devil May Cry® HD Collection (3)** - `CUSA09407` - version `01.00` - `JSON` - `dmc3.elf`
+- **Devil May Cry™ HD Collection** - `CUSA09263` - version `01.00` - `JSON` - `dmc2.elf`
+- **Diablo 2 Resurrected** - `CUSA28305` - version `01.11` - `JSON`
+- **Diablo 3** - `CUSA00242` - version `01.45` - `MC4`
+- **Diablo 3: Ultimate Evil Edition** - `CUSA00242` - version `01.00` - `JSON`
+- **Diablo 3: Ultimate Evil Edition** - `CUSA00242` - version `01.25` - `MC4`
+- **Diablo 3: Ultimate Evil Edition** - `CUSA00242` - version `01.25` - `SHN`
+- **Diablo 3: Ultimate Evil Edition** - `CUSA00242` - version `01.45` - `MC4`
+- **Diablo 3: Ultimate Evil Edition** - `CUSA00242` - version `01.45` - `SHN`
+- **Diablo III Eternal Collection** - `CUSA00242` - version `01.25` - `MC4`
+- **Diablo III: Eternal Collection** - `CUSA00434` - version `01.25` - `MC4`
+- **Diablo III: Reaper of Souls – Ultimate Evil Edition** - `CUSA00433` - version `01.00` - `JSON`
+- **Diablo III: Reaper of Souls – Ultimate Evil Edition** - `CUSA00433` - version `01.40` - `JSON`
+- **Diablo III: Reaper of Souls – Ultimate Evil Edition** - `CUSA00434` - version `01.25` - `JSON`
+- **Diablo III: Reaper of Souls – Ultimate Evil Edition** - `CUSA00434` - version `01.25` - `MC4`
+- **Diablo III: Reaper of Souls – Ultimate Evil Edition** - `CUSA00434` - version `01.25` - `SHN`
+- **Digimon Next Order** - `CUSA05469` - version `01.00` - `MC4`
+- **Digimon Story Cyber Sleuth** - `CUSA02966` - version `01.00` - `MC4`
+- **DIGIMON STORY CYBER SLEUTH** - `CUSA03185` - version `01.06` - `JSON`
+- **Digimon Story Cyber Sleuth - Hacker\'s Memory** - `CUSA09977` - version `01.00` - `MC4`
+- **Digimon Story: Cyber Sleuth - Hackers Memory** - `CUSA09923` - version `01.00` - `JSON`
+- **DIGIMON SURVIVE** - `CUSA18223` - version `01.02` - `JSON`
+- **Digimon World: Next Order** - `CUSA05392` - version `01.00` - `JSON`
+- **Dino Crisis** - `SLUS00922` - version `01.00` - `SHN` - `2`
+- **Dino Crisis** - `SLUS00922` - version `01.00` - `JSON`
+- **Dino Crisis** - `SLUS00922` - version `01.00` - `SHN`
+- **Dino Crisis 2** - `SLUS01279` - version `01.00` - `JSON`
+- **Dino Crisis 2** - `SLUS01279` - version `01.00` - `SHN`
+- **DIRT 5™** - `CUSA16195` - version `06.02` - `JSON`
+- **DIRT 5™** - `CUSA16195` - version `06.02` - `MC4`
+- **DIRT 5™** - `CUSA16195` - version `06.02` - `SHN`
+- **Disgaea 1 Complete** - `CUSA13171` - version `01.00` - `MC4`
+- **Disgaea 5** - `CUSA02629` - version `01.00` - `MC4`
+- **Disgaea 5** - `CUSA02629` - version `01.01` - `MC4`
+- **Disgaea 5: Alliance of Vengeance** - `CUSA02629` - version `01.00` - `JSON`
+- **Disgaea 5: Alliance of Vengeance** - `CUSA02629` - version `01.00` - `MC4`
+- **Disgaea 5: Alliance of Vengeance** - `CUSA02629` - version `01.00` - `SHN`
+- **Disgaea 5: Alliance of Vengeance** - `CUSA02629` - version `01.01` - `MC4`
+- **Disgaea 5: Alliance of Vengeance** - `CUSA02629` - version `01.01` - `SHN`
+- **Dishonored 2** - `CUSA03603` - version `01.01` - `JSON`
+- **Dishonored 2** - `CUSA03603` - version `01.01` - `MC4`
+- **Dishonored 2** - `CUSA03603` - version `01.01` - `SHN`
+- **Dishonored 2** - `CUSA03603` - version `01.05` - `MC4`
+- **Dishonored 2** - `CUSA03603` - version `01.05` - `SHN`
+- **Dishonored 2** - `CUSA03603` - version `01.06` - `MC4`
+- **Dishonored 2** - `CUSA03603` - version `01.06` - `SHN`
+- **Dishonored 2** - `CUSA03604` - version `01.05` - `JSON`
+- **Dishonored 2** - `CUSA03604` - version `01.05` - `MC4`
+- **Dishonored 2** - `CUSA03604` - version `01.05` - `SHN`
+- **Dishonored 2** - `CUSA04806` - version `01.00` - `JSON`
+- **Dishonored 2** - `CUSA04806` - version `01.00` - `MC4`
+- **Dishonored 2** - `CUSA04806` - version `01.00` - `SHN`
+- **Dishonored: Definitive Edition** - `CUSA02231` - version `01.00` - `JSON`
+- **Dishonored: Definitive Edition** - `CUSA02231` - version `01.00` - `MC4`
+- **Dishonored: Definitive Edition** - `CUSA02231` - version `01.00` - `SHN`
+- **Dishonored: Definitive Edition** - `CUSA02231` - version `01.01` - `MC4`
+- **Dishonored: Definitive Edition** - `CUSA02231` - version `01.01` - `SHN`
+- **Dishonored®: Death of the Outsider™** - `CUSA08779` - version `01.00` - `JSON`
+- **Dishonored®: Death of the Outsider™** - `CUSA08779` - version `01.00` - `MC4`
+- **Dishonored®: Death of the Outsider™** - `CUSA08779` - version `01.00` - `SHN`
+- **Dishonored®: Death of the Outsider™** - `CUSA08779` - version `01.02` - `MC4`
+- **Dishonored®: Death of the Outsider™** - `CUSA08779` - version `01.02` - `SHN`
+- **Dishonored®: Death of the Outsider™** - `CUSA08779` - version `01.03` - `SHN`
+- **Disney Classic Games Collection** - `CUSA16975` - version `01.04` - `MC4`
+- **Disney Classic Games: Aladdin and The Lion King** - `CUSA16968` - version `01.04` - `JSON`
+- **Disney Classic Games: Aladdin and The Lion King** - `CUSA16968` - version `01.04` - `MC4`
+- **Disney Classic Games: Aladdin and The Lion King** - `CUSA16968` - version `01.04` - `SHN`
+- **Disney Classic Games: Aladdin and The Lion King** - `CUSA16975` - version `01.04` - `JSON`
+- **Disney Classic Games: Aladdin and The Lion King** - `CUSA16975` - version `01.04` - `MC4`
+- **Disney Classic Games: Aladdin and The Lion King** - `CUSA16975` - version `01.04` - `SHN`
+- **Disney Epic Mickey: Rebrushed** - `CUSA42649` - version `01.05` - `JSON`
+- **Disney Epic Mickey: Rebrushed** - `CUSA42649` - version `01.05` - `SHN`
+- **Disneys Hercules Action Game** - `SLUS00529` - version `01.00` - `JSON`
+- **Disneys Hercules Action Game** - `SLUS00529` - version `01.00` - `SHN`
+- **Divinity : Original Sin Enhanced Edition** - `CUSA02762` - version `01.00` - `JSON`
+- **Divinity : Original Sin Enhanced Edition** - `CUSA02762` - version `01.00` - `MC4`
+- **Divinity : Original Sin Enhanced Edition** - `CUSA02762` - version `01.00` - `SHN`
+- **Divinity: Original Sin 2 - Definitive Edition** - `CUSA11898` - version `01.09` - `JSON`
+- **Divinity: Original Sin 2 - Definitive Edition on Steam** - `CUSA11898` - version `01.09` - `SHN`
+- **Divinity: Original Sin 2 - Definitive Edition on Steam** - `CUSA11898` - version `01.15` - `JSON`
+- **Divinity: Original Sin 2 - Definitive Edition on Steam** - `CUSA11898` - version `01.15` - `MC4`
+- **Divinity: Original Sin 2 - Definitive Edition on Steam** - `CUSA11898` - version `01.15` - `SHN`
+- **DmC Devil May Cry: Definitive Edition** - `CUSA01022` - version `01.03` - `JSON`
+- **DmC Devil May Cry: Definitive Edition** - `CUSA01022` - version `01.03` - `MC4`
+- **DmC Devil May Cry: Definitive Edition** - `CUSA01022` - version `01.03` - `SHN`
+- **Dodonpachi Dai-Ou-Jou** - `SLPS25233` - version `01.00` - `JSON`
+- **Dodonpachi Dai-Ou-Jou** - `SLPS25233` - version `01.00` - `SHN`
+- **dol** - `CUSA27520` - version `01.05` - `MC4`
+- **Dolmen** - `CUSA27520` - version `01.05` - `JSON`
+- **Dolmen** - `CUSA27520` - version `01.05` - `MC4`
+- **Dolmen** - `CUSA27520` - version `01.05` - `SHN`
+- **Doom** - `CUSA02092` - version `01.00` - `JSON`
+- **DOOM** - `CUSA02092` - version `01.00` - `MC4`
+- **Doom** - `CUSA02092` - version `01.00` - `MC4`
+- **DOOM** - `CUSA02092` - version `01.00` - `SHN`
+- **DOOM** - `CUSA02092` - version `01.11` - `JSON`
+- **DOOM** - `CUSA02092` - version `01.11` - `MC4`
+- **DOOM** - `CUSA02092` - version `01.11` - `SHN`
+- **DOOM** - `CUSA02092` - version `01.12` - `JSON`
+- **DOOM** - `CUSA02092` - version `01.12` - `SHN`
+- **Doom 3** - `CUSA16286` - version `01.03` - `JSON`
+- **DOOM 64** - `CUSA16296` - version `01.00` - `JSON`
+- **DOOM 64** - `CUSA16296` - version `01.00` - `SHN`
+- **DOOM 64** - `CUSA16296` - version `01.01` - `JSON`
+- **DOOM Eternal** - `CUSA13275` - version `01.02` - `JSON`
+- **DOOM Eternal** - `CUSA13275` - version `01.02` - `SHN`
+- **DOOM Eternal** - `CUSA13275` - version `01.08` - `JSON`
+- **DOOM Eternal** - `CUSA13275` - version `01.08` - `MC4`
+- **Doom Eternal** - `CUSA13275` - version `01.08` - `MC4`
+- **DOOM Eternal** - `CUSA13275` - version `01.08` - `SHN`
+- **DOOM Eternal** - `CUSA13275` - version `01.23` - `JSON`
+- **DOOM Eternal** - `CUSA13275` - version `01.23` - `SHN`
+- **DOOM Eternal** - `CUSA13275` - version `01.27` - `MC4`
+- **DOOM Eternal** - `CUSA13275` - version `01.27` - `SHN`
+- **DOOM Eternal** - `CUSA13338` - version `01.02` - `JSON`
+- **DOOM Eternal** - `CUSA13338` - version `01.02` - `MC4`
+- **Doom Eternal** - `CUSA13338` - version `01.02` - `MC4`
+- **DOOM Eternal** - `CUSA13338` - version `01.02` - `SHN`
+- **DOOM Eternal** - `CUSA13338` - version `01.23` - `JSON`
+- **DOOM Eternal** - `CUSA13338` - version `01.25` - `JSON`
+- **DOOM Eternal** - `CUSA13338` - version `01.25` - `MC4`
+- **Doom Eternal** - `CUSA13338` - version `01.25` - `MC4`
+- **DOOM Eternal** - `CUSA13338` - version `01.25` - `SHN`
+- **DORAEMON STORY OF SEASONS** - `CUSA18501` - version `01.10` - `JSON`
+- **Double Dragon 4** - `CUSA07236` - version `01.00` - `MC4`
+- **Dragon Age** - `CUSA00220` - version `01.12` - `MC4`
+- **Dragon Age** - `CUSA00503` - version `01.12` - `JSON`
+- **Dragon Age** - `CUSA00503` - version `01.12` - `SHN`
+- **Dragon Age™: Inquisition** - `CUSA00220` - version `01.00` - `JSON`
+- **Dragon Age™: Inquisition** - `CUSA00220` - version `01.12` - `MC4`
+- **Dragon Age™: Inquisition** - `CUSA00220` - version `01.12` - `SHN`
+- **Dragon Ball Xenoverse** - `CUSA01341` - version `01.07` - `JSON`
+- **Dragon Ball Xenoverse** - `CUSA01341` - version `01.07` - `MC4`
+- **Dragon Ball Xenoverse** - `CUSA01341` - version `01.07` - `SHN`
+- **DRAGON BALL XENOVERSE 2** - `CUSA05088` - version `01.00` - `MC4`
+- **DRAGON BALL XENOVERSE 2** - `CUSA05088` - version `01.00` - `SHN`
+- **Dragon Ball Xenoverse 2** - `CUSA05088` - version `01.15` - `JSON`
+- **DRAGON BALL XENOVERSE 2** - `CUSA05088` - version `01.15` - `MC4`
+- **Dragon Ball Xenoverse 2** - `CUSA05088` - version `01.15` - `MC4`
+- **DRAGON BALL XENOVERSE 2** - `CUSA05088` - version `01.15` - `SHN`
+- **DRAGON BALL XENOVERSE 2** - `CUSA05088` - version `01.29` - `JSON`
+- **DRAGON BALL XENOVERSE 2** - `CUSA05088` - version `01.37` - `MC4`
+- **DRAGON BALL XENOVERSE 2** - `CUSA05088` - version `01.37` - `SHN`
+- **DRAGON BALL XENOVERSE 2** - `CUSA05088` - version `01.45` - `MC4`
+- **DRAGON BALL XENOVERSE 2** - `CUSA05088` - version `01.45` - `SHN`
+- **DRAGON BALL XENOVERSE 2** - `CUSA05350` - version `01.34` - `JSON`
+- **Dragon Ball Xenoverse 2** - `CUSA05350` - version `01.34` - `MC4`
+- **Dragon Ball Xenoverse 2** - `CUSA05350` - version `01.36` - `MC4`
+- **Dragon Ball Xenoverse 2** - `CUSA05350` - version `01.37` - `MC4`
+- **DRAGON BALL Z: KAKAROT** - `CUSA14655` - version `01.91` - `MC4`
+- **DRAGON BALL Z: KAKAROT** - `CUSA14835` - version `01.10` - `JSON`
+- **Dragon Ball Z: Kakarot** - `CUSA14835` - version `01.10` - `SHN`
+- **DRAGON BALL Z: KAKAROT** - `CUSA14835` - version `01.81` - `JSON`
+- **Dragon Ball Z: Kakarot** - `CUSA14835` - version `01.91` - `JSON`
+- **Dragon Ball Z: Kakarot** - `CUSA14835` - version `01.91` - `MC4`
+- **DRAGON BALL Z: KAKAROT** - `CUSA14835` - version `01.91` - `MC4`
+- **Dragon Ball Z: Kakarot** - `CUSA14835` - version `01.91` - `SHN`
+- **Dragon Ball: Xenoverse 2** - `CUSA05350` - version `01.34` - `MC4`
+- **Dragon Ball: Xenoverse 2** - `CUSA05350` - version `01.34` - `SHN`
+- **Dragon Ball: Xenoverse 2** - `CUSA05350` - version `01.36` - `JSON`
+- **Dragon Ball: Xenoverse 2** - `CUSA05350` - version `01.36` - `MC4`
+- **Dragon Ball: Xenoverse 2** - `CUSA05350` - version `01.36` - `SHN`
+- **Dragon Ball: Xenoverse 2** - `CUSA05350` - version `01.37` - `MC4`
+- **Dragon Ball: Xenoverse 2** - `CUSA05350` - version `01.37` - `SHN`
+- **Dragon Ball: Xenoverse 2** - `CUSA05350` - version `01.44` - `JSON`
+- **Dragon Ball: Xenoverse 2** - `CUSA05350` - version `01.50` - `MC4`
+- **Dragon Ball: Xenoverse 2** - `CUSA05350` - version `01.50` - `SHN`
+- **Dragon Quest Builders** - `CUSA05170` - version `01.00` - `MC4`
+- **DRAGON QUEST HEROES** - `CUSA02769` - version `01.01` - `MC4`
+- **Dragon Quest Heroes II** - `CUSA06740` - version `01.00` - `MC4`
+- **dragon quest xi** - `CUSA08397` - version `01.00` - `MC4`
+- **Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition** - `CUSA18600` - version `01.01` - `JSON`
+- **Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition** - `CUSA18600` - version `01.01` - `MC4`
+- **Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition** - `CUSA18600` - version `01.01` - `SHN`
+- **DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition** - `CUSA19120` - version `01.00` - `JSON`
+- **DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition** - `CUSA19120` - version `01.00` - `SHN`
+- **DRAGON QUEST XI: Echoes of an Elusive Age** - `CUSA08518` - version `01.01` - `JSON`
+- **Dragon's Dogma: Dark Arisen** - `CUSA07340` - version `01.01` - `JSON`
+- **Dragon's Dogma: Dark Arisen** - `CUSA07340` - version `01.01` - `MC4`
+- **Dragon's Dogma: Dark Arisen** - `CUSA07340` - version `01.01` - `SHN`
+- **Dragon\'s Dogma: Dark Arisen** - `CUSA07340` - version `01.01` - `MC4`
+- **Dragonball Xenoverse 2** - `CUSA05088` - version `01.00` - `JSON`
+- **Dragonball Xenoverse 2** - `CUSA05088` - version `01.00` - `MC4`
+- **Dragons Crown Pro** - `CUSA10454` - version `01.00` - `JSON`
+- **Dragons Dogma: Dark Arisen** - `CUSA07340` - version `01.00` - `JSON`
+- **Dragons Legends of The Nine Realms** - `CUSA28381` - version `01.01` - `JSON`
+- **Dying Light** - `CUSA00078` - version `01.00` - `JSON`
+- **Dying Light** - `CUSA00078` - version `01.00` - `SHN`
+- **Dying Light** - `CUSA03991` - version `01.00` - `JSON`
+- **Dying Light** - `CUSA03991` - version `01.00` - `MC4`
+- **Dying Light 2 Stay Human** - `CUSA12555` - version `01.30` - `MC4`
+- **Dying Light 2 Stay Human** - `CUSA12555` - version `01.36` - `MC4`
+- **Dying Light 2 stay Human** - `CUSA12555` - version `01.37` - `MC4`
+- **Dying Light 2 Stay Human** - `CUSA12555` - version `01.41` - `MC4`
+- **Dying Light 2 Stay Human** - `CUSA12584` - version `01.27` - `JSON`
+- **Dying Light 2 Stay Human** - `CUSA12584` - version `01.27` - `MC4`
+- **Dying Light 2 Stay Human** - `CUSA12584` - version `01.30` - `MC4`
+- **Dying Light 2 Stay Human** - `CUSA12584` - version `01.36` - `MC4`
+- **Dying Light 2 stay Human** - `CUSA12584` - version `01.37` - `MC4`
+- **Dying Light 2 Stay Human** - `CUSA12584` - version `01.41` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.00` - `JSON`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.01` - `JSON`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.01` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.01` - `SHN`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.30` - `JSON`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.30` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.30` - `SHN`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.32` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.32` - `SHN`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.33` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.33` - `SHN`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.34` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.34` - `SHN`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.36` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.36` - `SHN`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.37` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.37` - `SHN`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.41` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.41` - `SHN`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.49` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.49` - `SHN`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.61` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.61` - `SHN`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.62` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12555` - version `01.62` - `SHN`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.15` - `JSON`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.21` - `JSON`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.21` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.21` - `SHN`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.27` - `MC4` - `2`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.27` - `JSON`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.27` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.27` - `SHN`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.30` - `JSON`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.30` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.30` - `SHN`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.32` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.32` - `SHN`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.33` - `JSON`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.33` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.33` - `SHN`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.34` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.34` - `SHN`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.36` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.36` - `SHN`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.37` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.37` - `SHN`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.41` - `MC4`
+- **Dying Light 2: Stay Human** - `CUSA12584` - version `01.41` - `SHN`
+- **Dying Light: The Following – Enhanced Edition** - `CUSA03946` - version `01.00` - `JSON`
+- **Dying Light: The Following – Enhanced Edition** - `CUSA03946` - version `01.07` - `JSON`
+- **Dying Light: The Following – Enhanced Edition** - `CUSA03946` - version `01.07` - `MC4`
+- **Dying Light: The Following – Enhanced Edition** - `CUSA03946` - version `01.07` - `SHN`
+- **Dying Light: The Following – Enhanced Edition** - `CUSA03977` - version `01.19` - `JSON`
+- **Dying Light: The Following – Enhanced Edition** - `CUSA03977` - version `01.34` - `JSON`
+- **Dying Light: The Following – Enhanced Edition** - `CUSA03977` - version `01.35` - `JSON`
+- **Dying Light: The Following – Enhanced Edition** - `CUSA03991` - version `01.00` - `MC4`
+- **Dying Light: The Following – Enhanced Edition** - `CUSA03991` - version `01.00` - `SHN`
+- **Dying Light: The Following – Enhanced Edition** - `CUSA03991` - version `01.06` - `MC4`
+- **Dying Light: The Following – Enhanced Edition** - `CUSA03991` - version `01.06` - `SHN`
+- **Dying Light: The Following – Enhanced Edition** - `CUSA03991` - version `01.19` - `JSON`
+- **Dying Light: The Following – Enhanced Edition** - `CUSA03991` - version `01.33` - `JSON`
+- **Dying Light: The Following – Enhanced Edition** - `CUSA03991` - version `01.33` - `SHN`
+- **Dying Light: The Following – Enhanced Edition** - `CUSA03991` - version `01.35` - `JSON`
+- **Dying Light: The Following Enhanced Edition** - `CUSA03991` - version `01.06` - `JSON`
+- **Dying Light: The Following Enhanced Edition** - `CUSA03991` - version `01.06` - `MC4`
+- **DYNASTY WARRIORS 9** - `CUSA10421` - version `01.32` - `JSON`
+- **Dynasty Warriors 9 Empires** - `CUSA24463` - version `01.00` - `JSON`
+- **Dynasty Warriors 9 Empires** - `CUSA24463` - version `01.00` - `MC4`
+- **Dynasty Warriors 9 Empires** - `CUSA24463` - version `01.00` - `SHN`
+- **DYSMANTLE** - `CUSA15128` - version `01.04` - `JSON`
+- **DYSMANTLE** - `CUSA15128` - version `01.07` - `MC4`
+- **DYSMANTLE** - `CUSA15128` - version `01.07` - `SHN`
+- **DYSMANTLE** - `CUSA15128` - version `01.08` - `SHN`
+- **EA SPORTS FC 24** - `CUSA40325` - version `01.03` - `MC4`
+- **EA SPORTS™ UFC® 4** - `CUSA14209` - version `04.02` - `JSON`
+- **EARTH DEFENSE FORCE 4.1 The Shadow of New Despair** - `CUSA03467` - version `01.00` - `MC4`
+- **Earth Defense Force 5** - `CUSA03653` - version `01.00` - `MC4`
+- **EARTH DEFENSE FORCE: IRON RAIN** - `CUSA08778` - version `01.07` - `JSON`
+- **Earth\'s Dawn** - `CUSA05087` - version `01.01` - `MC4`
+- **Earthfall** - `CUSA12458` - version `01.10` - `JSON`
+- **Earthfall** - `CUSA12458` - version `01.10` - `MC4`
+- **Earthfall** - `CUSA12458` - version `01.10` - `SHN`
+- **Edge Of Eternity** - `CUSA20495` - version `01.00` - `JSON`
+- **Effie** - `CUSA16400` - version `01.02` - `JSON`
+- **Effie** - `CUSA16400` - version `01.02` - `MC4`
+- **Effie** - `CUSA16400` - version `01.02` - `SHN`
+- **Eiyuden Chronicle: Hundred Heroes** - `CUSA29566` - version `01.04` - `JSON`
+- **Elden Ring** - `CUSA18723` - version `01.12` - `JSON`
+- **Elden Ring** - `CUSA18723` - version `01.12` - `MC4`
+- **Elden Ring** - `CUSA18723` - version `01.13` - `JSON`
+- **Elden Ring** - `CUSA18723` - version `01.13` - `MC4`
+- **Elden Ring** - `CUSA18723` - version `01.15` - `MC4`
+- **Elden Ring** - `CUSA28863` - version `01.00` - `JSON`
+- **Elden Ring** - `CUSA28863` - version `01.05` - `JSON`
+- **Elden Ring** - `CUSA28863` - version `01.08` - `JSON`
+- **Elden Ring** - `CUSA28863` - version `01.09` - `JSON`
+- **Elden Ring** - `CUSA28863` - version `01.10` - `JSON`
+- **Elden Ring** - `CUSA28863` - version `01.12` - `JSON`
+- **Elden Ring** - `CUSA28863` - version `01.13` - `JSON`
+- **Elden Ring** - `CUSA28863` - version `01.13` - `MC4`
+- **Elden Ring** - `CUSA28863` - version `01.15` - `MC4`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18581` - version `01.17` - `JSON`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18581` - version `01.17` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18581` - version `01.18` - `JSON`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18581` - version `01.18` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18581` - version `01.19` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18581` - version `01.21` - `JSON`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18581` - version `01.21` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18581` - version `01.22` - `JSON`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18581` - version `01.22` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18723` - version `01.12` - `MC4`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18723` - version `01.12` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18723` - version `01.13` - `MC4`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18723` - version `01.13` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18723` - version `01.15` - `MC4`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18723` - version `01.15` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18723` - version `01.17` - `SHN` - `2`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18723` - version `01.17` - `JSON`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18723` - version `01.17` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18723` - version `01.18` - `SHN` - `2`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18723` - version `01.18` - `JSON`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18723` - version `01.18` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18723` - version `01.19` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18723` - version `01.21` - `JSON`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18723` - version `01.21` - `MC4`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18723` - version `01.21` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18723` - version `01.22` - `JSON`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA18723` - version `01.22` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28527` - version `01.17` - `JSON`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28527` - version `01.17` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28527` - version `01.18` - `JSON`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28527` - version `01.18` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28527` - version `01.19` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28527` - version `01.21` - `JSON`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28527` - version `01.21` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28527` - version `01.22` - `JSON`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28527` - version `01.22` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28863` - version `01.12` - `MC4`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28863` - version `01.12` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28863` - version `01.13` - `MC4`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28863` - version `01.13` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28863` - version `01.15` - `MC4`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28863` - version `01.15` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28863` - version `01.17` - `SHN` - `2`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28863` - version `01.17` - `JSON`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28863` - version `01.17` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28863` - version `01.18` - `JSON`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28863` - version `01.18` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28863` - version `01.19` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28863` - version `01.21` - `JSON`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28863` - version `01.21` - `SHN`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28863` - version `01.22` - `JSON`
+- **Elden Ring - Shadow of the Erdtree** - `CUSA28863` - version `01.22` - `SHN`
+- **Elden Ring Nightreign** - `CUSA48853` - version `01.01` - `JSON`
+- **Elden Ring Nightreign** - `CUSA48853` - version `01.01` - `SHN`
+- **Elden Ring Nightreign** - `CUSA48853` - version `01.02` - `JSON`
+- **Elden Ring Nightreign** - `CUSA48853` - version `01.02` - `SHN`
+- **Elden Ring Nightreign** - `CUSA48853` - version `01.04` - `JSON`
+- **Elden Ring Nightreign** - `CUSA48853` - version `01.04` - `SHN`
+- **Elden Ring Nightreign** - `CUSA48853` - version `01.05` - `JSON`
+- **Elden Ring Nightreign** - `CUSA48853` - version `01.05` - `SHN`
+- **Elden Ring Nightreign** - `CUSA50614` - version `01.01` - `JSON`
+- **Elden Ring Nightreign** - `CUSA50614` - version `01.01` - `SHN`
+- **Elden Ring Nightreign** - `CUSA50614` - version `01.02` - `JSON`
+- **Elden Ring Nightreign** - `CUSA50614` - version `01.02` - `SHN`
+- **Elden Ring Nightreign** - `CUSA50614` - version `01.04` - `JSON`
+- **Elden Ring Nightreign** - `CUSA50614` - version `01.04` - `SHN`
+- **Elden Ring Nightreign** - `CUSA50614` - version `01.05` - `JSON`
+- **Elden Ring Nightreign** - `CUSA50614` - version `01.05` - `SHN`
+- **Elden Ring Nightreign** - `CUSA50615` - version `01.01` - `JSON`
+- **Elden Ring Nightreign** - `CUSA50615` - version `01.01` - `SHN`
+- **Elden Ring Nightreign** - `CUSA50615` - version `01.02` - `JSON`
+- **Elden Ring Nightreign** - `CUSA50615` - version `01.02` - `SHN`
+- **Elden Ring Nightreign** - `CUSA50615` - version `01.04` - `JSON`
+- **Elden Ring Nightreign** - `CUSA50615` - version `01.04` - `SHN`
+- **Elden Ring Nightreign** - `CUSA50615` - version `01.05` - `JSON`
+- **Elden Ring Nightreign** - `CUSA50615` - version `01.05` - `SHN`
+- **Elden Ring Nightreign** - `CUSA50617` - version `01.01` - `JSON`
+- **Elden Ring Nightreign** - `CUSA50617` - version `01.01` - `SHN`
+- **Elden Ring Nightreign** - `CUSA50617` - version `01.02` - `JSON`
+- **Elden Ring Nightreign** - `CUSA50617` - version `01.02` - `SHN`
+- **Elden Ring Nightreign** - `CUSA50617` - version `01.04` - `JSON`
+- **Elden Ring Nightreign** - `CUSA50617` - version `01.04` - `SHN`
+- **Elden Ring Nightreign** - `CUSA50617` - version `01.05` - `JSON`
+- **Elden Ring Nightreign** - `CUSA50617` - version `01.05` - `SHN`
+- **Elden Ring Nightreign** - `CUSA50617` - version `01.10` - `MC4`
+- **Elden Ring Nightreign** - `CUSA50617` - version `01.10` - `SHN`
+- **Elden Ring Nightreign** - `CUSA50617` - version `01.20` - `MC4`
+- **Elden Ring Nightreign** - `CUSA50617` - version `01.20` - `SHN`
+- **ELDEN RING™** - `CUSA18723` - version `01.10` - `JSON`
+- **ELDEN RING™ Network Test Ver.** - `CUSA18880` - version `01.00` - `JSON`
+- **ELDEN RING™ Network Test Ver.** - `CUSA18880` - version `01.01` - `JSON`
+- **Eldest Souls** - `CUSA28529` - version `01.02` - `JSON`
+- **ELEX** - `CUSA04317` - version `01.03` - `JSON`
+- **ELEX** - `CUSA04317` - version `01.03` - `MC4`
+- **ELEX** - `CUSA04317` - version `01.03` - `SHN`
+- **ELEX II** - `CUSA28134` - version `01.05` - `JSON`
+- **Empire of Sin** - `CUSA17732` - version `01.01` - `JSON`
+- **EMULTOR-ps2** - `SLUS20090` - version `01.00` - `JSON`
+- **End of Eternity** - `CUSA17113` - version `01.01` - `MC4`
+- **ENDER LILIES : Quietus of the Knights** - `CUSA26114` - version `01.04` - `JSON`
+- **ENDER LILIES : Quietus of the Knights** - `CUSA26114` - version `01.04` - `MC4`
+- **ENDER LILIES : Quietus of the Knights** - `CUSA26114` - version `01.04` - `SHN`
+- **Enter The Gungeon** - `CUSA01608` - version `01.00` - `JSON`
+- **Enter the Gungeon** - `CUSA01608` - version `01.00` - `MC4`
+- **Enter The Gungeon** - `CUSA01608` - version `01.00` - `MC4`
+- **Enter the Gungeon** - `CUSA01608` - version `01.00` - `SHN`
+- **Enter The Gungeon** - `CUSA01608` - version `01.04` - `JSON`
+- **Enter the Gungeon** - `CUSA01608` - version `01.16` - `JSON`
+- **Enter the Gungeon** - `CUSA01608` - version `01.16` - `SHN`
+- **EP0001-CUSA34896_00-BGER000000000000** - `CUSA34896` - version `01.01` - `JSON`
+- **EP0001-CUSA34896_00-BGER000000000000** - `CUSA34896` - version `01.01` - `SHN`
+- **EP0082-CUSA00806_00-LARACROFT2OSIRIS** - `CUSA00806` - version `01.02` - `JSON`
+- **EP0096-CUSA40851_00-0811041933238869** - `CUSA40851` - version `01.06` - `JSON`
+- **EP0102-CUSA31498_00-STREETFIGHTER006** - `CUSA31498` - version `01.01` - `SHN`
+- **EP0102-CUSA31498_00-STREETFIGHTER006** - `CUSA31498` - version `01.15` - `JSON`
+- **EP0149-CUSA05987_00-DEATHSGAMBITEU00** - `CUSA05987` - version `01.09` - `JSON`
+- **EP0290-CUSA07188_00-BULLETSTORMFC000** - `CUSA07188` - version `01.00` - `MC4`
+- **EP0290-CUSA07188_00-BULLETSTORMFC000** - `CUSA07188` - version `01.00` - `SHN`
+- **EP0290-CUSA07188_00-BULLETSTORMFC000** - `CUSA07188` - version `01.04` - `JSON`
+- **EP0290-CUSA07188_00-BULLETSTORMFC000** - `CUSA07188` - version `01.04` - `MC4`
+- **EP0290-CUSA07188_00-BULLETSTORMFC000** - `CUSA07188` - version `01.04` - `SHN`
+- **EP2333-CUSA09919_00-OUTERWILDSSIEE00** - `CUSA09919` - version `01.15` - `JSON`
+- **EP2638-CUSA29192_00-6306706212209718** - `CUSA29192` - version `01.06` - `JSON`
+- **EP4062-CUSA17774_00-0000000000000000** - `CUSA17774` - version `01.05` - `JSON`
+- **EP4064-CUSA35761_00-DREDGE0000000000** - `CUSA35761` - version `01.08` - `JSON`
+- **EP4293-CUSA25758_00-7767648150072086** - `CUSA25758` - version `01.03` - `JSON`
+- **EP4293-CUSA25758_00-7767648150072086** - `CUSA25758` - version `01.03` - `MC4`
+- **EP4293-CUSA25758_00-7767648150072086** - `CUSA25758` - version `01.03` - `SHN`
+- **EP4467-CUSA07742_00-OUTLASTDISK00000** - `CUSA07742` - version `01.02` - `JSON`
+- **EP4800-CUSA14936_00-0000111122223334** - `CUSA14936` - version `01.03` - `JSON`
+- **EP5335-CUSA41744_00-ALISA00000000000** - `CUSA41744` - version `01.01` - `JSON`
+- **EP8918-CUSA00791_00-NPPGAMENPPGAMENP** - `CUSA00791` - version `01.10` - `JSON`
+- **Espgaluda** - `SLPS25352` - version `01.00` - `JSON`
+- **Espgaluda** - `SLPS25352` - version `01.00` - `SHN`
+- **Euro Fishing** - `CUSA06447` - version `01.00` - `JSON`
+- **Evil Below** - `CUSA29504` - version `01.03` - `MC4`
+- **Evil West** - `CUSA25569` - version `01.04` - `JSON`
+- **Evil West** - `CUSA25569` - version `01.06` - `MC4`
+- **Evil West** - `CUSA25569` - version `01.06` - `SHN`
+- **Extinction** - `CUSA11687` - version `01.00` - `JSON`
+- **Extinction** - `CUSA11687` - version `01.00` - `MC4`
+- **Extinction** - `CUSA11687` - version `01.00` - `SHN`
+- **F.I.S.T - Forged In Shadow Torch** - `CUSA28373` - version `01.20` - `MC4`
+- **F.I.S.T.** - `CUSA28373` - version `01.00` - `JSON`
+- **F.I.S.T.** - `CUSA28373` - version `01.20` - `JSON`
+- **F.I.S.T.** - `CUSA28373` - version `01.20` - `MC4`
+- **F.I.S.T.** - `CUSA28373` - version `01.20` - `SHN`
+- **Fade to Silence** - `CUSA11485` - version `01.05` - `JSON`
+- **Fade to Silence** - `CUSA11485` - version `01.05` - `MC4`
+- **Fade To Silence** - `CUSA11485` - version `01.05` - `MC4`
+- **Fade to Silence** - `CUSA11485` - version `01.05` - `SHN`
+- **Fairy Fencer F ADVENT DARK FORCE** - `CUSA04853` - version `01.00` - `JSON`
+- **FAIRY TAIL** - `CUSA17573` - version `01.05` - `JSON`
+- **Fall of Light - Darkest Edition** - `CUSA12403` - version `01.01` - `MC4`
+- **Fall of Light: Darkest Edition** - `CUSA12403` - version `01.01` - `JSON`
+- **Fall of Light: Darkest Edition** - `CUSA12403` - version `01.01` - `MC4`
+- **Fall of Light: Darkest Edition** - `CUSA12403` - version `01.01` - `SHN`
+- **Fallout 4** - `CUSA02557` - version `01.00` - `JSON`
+- **Fallout 4** - `CUSA02557` - version `01.00` - `MC4`
+- **Fallout 4** - `CUSA02557` - version `01.36` - `JSON`
+- **Fallout 4** - `CUSA02962` - version `01.22` - `JSON`
+- **Fallout 4** - `CUSA03450` - version `01.20` - `JSON`
+- **Fallout 4** - `CUSA03450` - version `01.20` - `MC4`
+- **fallout 4** - `CUSA03701` - version `01.00` - `MC4`
+- **Fallout 4 Game of the Year Edition** - `CUSA02557` - version `01.00` - `MC4`
+- **Fallout 4 Game of the Year Edition** - `CUSA02557` - version `01.00` - `SHN`
+- **Fallout 4 Game of the Year Edition** - `CUSA02557` - version `01.36` - `SHN`
+- **Fallout 4 Game of the Year Edition** - `CUSA02557` - version `01.37` - `JSON`
+- **Fallout 4 Game of the Year Edition** - `CUSA02557` - version `01.37` - `SHN`
+- **Fallout 4 Game of the Year Edition** - `CUSA02961` - version `01.37` - `JSON`
+- **Fallout 4 Game of the Year Edition** - `CUSA02961` - version `01.37` - `SHN`
+- **Fallout 4 Game of the Year Edition** - `CUSA02962` - version `01.22` - `MC4`
+- **Fallout 4 Game of the Year Edition** - `CUSA02962` - version `01.22` - `SHN`
+- **Fallout 4 Game of the Year Edition** - `CUSA02962` - version `01.37` - `JSON`
+- **Fallout 4 Game of the Year Edition** - `CUSA02962` - version `01.37` - `SHN`
+- **Fallout 4 Game of the Year Edition** - `CUSA03448` - version `01.37` - `JSON`
+- **Fallout 4 Game of the Year Edition** - `CUSA03448` - version `01.37` - `SHN`
+- **Fallout 4 Game of the Year Edition** - `CUSA03450` - version `01.20` - `MC4`
+- **Fallout 4 Game of the Year Edition** - `CUSA03450` - version `01.20` - `SHN`
+- **Fallout 4 Game of the Year Edition** - `CUSA03450` - version `01.36` - `SHN`
+- **Fallout 4 Game of the Year Edition** - `CUSA03450` - version `01.37` - `JSON`
+- **Fallout 4 Game of the Year Edition** - `CUSA03450` - version `01.37` - `SHN`
+- **Fallout 4 Game of the Year Edition** - `CUSA03613` - version `01.37` - `JSON`
+- **Fallout 4 Game of the Year Edition** - `CUSA03613` - version `01.37` - `SHN`
+- **Fallout 4 Game of the Year Edition** - `CUSA03701` - version `01.00` - `MC4`
+- **Fallout 4 Game of the Year Edition** - `CUSA03701` - version `01.00` - `SHN`
+- **Fallout 4 Game of the Year Edition** - `CUSA03701` - version `01.37` - `JSON`
+- **Fallout 4 Game of the Year Edition** - `CUSA03701` - version `01.37` - `SHN`
+- **Fantastic Night Dreams - Cotton Original** - `SLPM86461` - version `01.00` - `JSON`
+- **Fantastic Night Dreams - Cotton Original** - `SLPM86461` - version `01.00` - `SHN`
+- **Far Cry 3 Classic Edition** - `CUSA10326` - version `01.02` - `MC4`
+- **Far Cry 4** - `CUSA00496` - version `01.07` - `MC4`
+- **Far Cry 5** - `CUSA05847` - version `01.15` - `JSON`
+- **Far Cry 5** - `CUSA05847` - version `01.15` - `SHN`
+- **Far Cry 5** - `CUSA05904` - version `01.00` - `MC4`
+- **Far Cry 5** - `CUSA05904` - version `01.15` - `MC4`
+- **Far Cry 6** - `CUSA15717` - version `01.09` - `JSON`
+- **Far Cry 6** - `CUSA15717` - version `01.09` - `MC4`
+- **Far Cry 6** - `CUSA15717` - version `01.09` - `SHN`
+- **Far Cry 6** - `CUSA15717` - version `01.10` - `JSON`
+- **Far Cry 6** - `CUSA15717` - version `01.10` - `MC4`
+- **Far Cry 6** - `CUSA15717` - version `01.10` - `SHN`
+- **Far Cry Blood Classic Edition** - `CUSA29007` - version `01.00` - `MC4`
+- **Far Cry New Dawn** - `CUSA13917` - version `01.06` - `MC4`
+- **Far Cry® 3 Blood Dragon Classic Edition** - `CUSA29007` - version `01.00` - `JSON`
+- **Far Cry® 3 Blood Dragon Classic Edition** - `CUSA29007` - version `01.00` - `MC4`
+- **Far Cry® 3 Blood Dragon Classic Edition** - `CUSA29007` - version `01.00` - `SHN`
+- **Far Cry® 3 Classic Edition** - `CUSA10326` - version `01.02` - `JSON`
+- **Far Cry® 3 Classic Edition** - `CUSA10326` - version `01.02` - `MC4`
+- **Far Cry® 3 Classic Edition** - `CUSA10326` - version `01.02` - `SHN`
+- **Far Cry® 4** - `CUSA00462` - version `01.00` - `JSON`
+- **Far Cry® 4** - `CUSA00462` - version `01.07` - `SHN`
+- **Far Cry® 4** - `CUSA00462` - version `01.08` - `MC4`
+- **Far Cry® 4** - `CUSA00462` - version `01.08` - `SHN`
+- **Far Cry® 4** - `CUSA00496` - version `01.07` - `JSON`
+- **Far Cry® 4** - `CUSA00496` - version `01.07` - `MC4`
+- **Far Cry® 4** - `CUSA00496` - version `01.07` - `SHN`
+- **Far Cry® 5** - `CUSA05847` - version `01.00` - `JSON`
+- **Far Cry® 5** - `CUSA05904` - version `01.00` - `JSON`
+- **Far Cry® 5** - `CUSA05904` - version `01.00` - `MC4`
+- **Far Cry® 5** - `CUSA05904` - version `01.00` - `SHN`
+- **Far Cry® 5** - `CUSA05904` - version `01.01` - `MC4`
+- **Far Cry® 5** - `CUSA05904` - version `01.01` - `SHN`
+- **Far Cry® 5** - `CUSA05904` - version `01.12` - `JSON`
+- **Far Cry® 5** - `CUSA05904` - version `01.15` - `JSON`
+- **Far Cry® 5** - `CUSA05904` - version `01.15` - `MC4`
+- **Far Cry® 5** - `CUSA05904` - version `01.15` - `SHN`
+- **Far Cry® 5** - `CUSA05904` - version `01.19` - `MC4`
+- **Far Cry® 5** - `CUSA05904` - version `01.19` - `SHN`
+- **Far Cry® 6** - `CUSA15778` - version `01.06` - `JSON`
+- **Far Cry® 6** - `CUSA15778` - version `01.12` - `MC4`
+- **Far Cry® 6** - `CUSA15778` - version `01.12` - `SHN`
+- **Far Cry® New Dawn** - `CUSA13885` - version `01.00` - `JSON`
+- **Far Cry® New Dawn** - `CUSA13885` - version `01.05` - `JSON`
+- **Far Cry® New Dawn** - `CUSA13917` - version `01.06` - `JSON`
+- **Far Cry® New Dawn** - `CUSA13917` - version `01.06` - `MC4`
+- **Far Cry® New Dawn** - `CUSA13917` - version `01.06` - `SHN`
+- **Far Cry® Primal** - `CUSA03309` - version `01.00` - `JSON`
+- **Far Cry® Primal** - `CUSA03309` - version `01.03` - `JSON`
+- **Far Cry® Primal** - `CUSA03309` - version `01.03` - `MC4`
+- **Far Cry® Primal** - `CUSA03309` - version `01.03` - `SHN`
+- **Far CryВ® 5** - `CUSA05848` - version `01.00` - `JSON`
+- **Farcry Primal** - `CUSA03309` - version `01.03` - `MC4`
+- **Farm Together** - `CUSA13483` - version `01.35` - `JSON`
+- **Farm Together** - `CUSA13483` - version `01.35` - `MC4`
+- **Farm Together** - `CUSA13483` - version `01.35` - `SHN`
+- **Fatal Frame Mask of Lunar Eclipse** - `CUSA36876` - version `01.04` - `MC4`
+- **Fatal Frame: Maiden of Black Water** - `CUSA28986` - version `01.03` - `JSON`
+- **Fatal Frame: Maiden of Black Water** - `CUSA28986` - version `01.04` - `JSON`
+- **FIFA 17** - `CUSA03214` - version `01.11` - `MC4`
+- **Fifa 18** - `CUSA07994` - version `01.00` - `JSON`
+- **Fifa 18** - `CUSA07994` - version `01.10` - `MC4`
+- **FIFA 18** - `CUSA07994` - version `01.10` - `MC4`
+- **Fifa 18** - `CUSA07994` - version `01.10` - `SHN`
+- **FIFA 19** - `CUSA11608` - version `01.17` - `MC4`
+- **FIFA 23** - `CUSA31873` - version `01.01` - `JSON`
+- **FIFA 23** - `CUSA31873` - version `01.01` - `SHN`
+- **FIFA 23** - `CUSA31873` - version `01.02` - `JSON`
+- **FIFA22** - `CUSA27106` - version `01.00` - `JSON`
+- **Fighting Force (v1.1)** - `SLUS00433` - version `01.00` - `JSON`
+- **Fighting Force (v1.1)** - `SLUS00433` - version `01.00` - `SHN`
+- **Fimbul** - `CUSA13404` - version `01.01` - `JSON`
+- **FINAL FANTASY** - `CUSA33818` - version `01.02` - `JSON`
+- **FINAL FANTASY 12 THE ZODIAC AGE** - `CUSA05532` - version `01.07` - `MC4`
+- **Final Fantasy 7** - `CUSA01875` - version `01.01` - `MC4`
+- **Final Fantasy 7 Remake** - `CUSA07052` - version `01.02` - `JSON`
+- **Final Fantasy 7 Remake** - `CUSA07052` - version `01.02` - `SHN`
+- **Final Fantasy 7 Remake** - `CUSA07187` - version `01.02` - `JSON`
+- **Final Fantasy 7 Remake** - `CUSA07211` - version `01.01` - `MC4`
+- **Final Fantasy 7 Remake** - `CUSA07211` - version `01.01` - `SHN`
+- **Final Fantasy 7 Remake** - `CUSA07211` - version `01.02` - `JSON`
+- **Final Fantasy 7 Remake** - `CUSA07211` - version `01.02` - `SHN`
+- **FINAL FANTASY II** - `CUSA33822` - version `01.02` - `JSON`
+- **FINAL FANTASY III** - `CUSA33826` - version `01.02` - `JSON`
+- **FINAL FANTASY IV** - `CUSA33830` - version `01.03` - `JSON`
+- **FINAL FANTASY IX** - `CUSA08877` - version `01.00` - `JSON`
+- **Final Fantasy IX** - `CUSA08877` - version `01.00` - `MC4`
+- **FINAL FANTASY IX** - `CUSA08877` - version `01.00` - `MC4`
+- **FINAL FANTASY IX** - `CUSA08877` - version `01.00` - `SHN`
+- **Final Fantasy Type 0 HD** - `CUSA00937` - version `01.00` - `MC4`
+- **FINAL FANTASY TYPE-0 HD** - `CUSA00937` - version `01.00` - `JSON`
+- **FINAL FANTASY TYPE-0 HD** - `CUSA00937` - version `01.00` - `MC4`
+- **FINAL FANTASY TYPE-0 HD** - `CUSA00937` - version `01.00` - `SHN`
+- **FINAL FANTASY V** - `CUSA33834` - version `01.04` - `JSON`
+- **FINAL FANTASY VI** - `CUSA33838` - version `01.04` - `JSON`
+- **FINAL FANTASY VII REMAKE** - `CUSA07187` - version `01.01` - `SHN`
+- **FINAL FANTASY VII REMAKE** - `CUSA07187` - version `01.02` - `JSON`
+- **FINAL FANTASY VII REMAKE** - `CUSA07187` - version `01.02` - `SHN`
+- **FINAL FANTASY VII REMAKE** - `CUSA07211` - version `01.00` - `JSON`
+- **FINAL FANTASY VII REMAKE** - `CUSA07211` - version `01.01` - `JSON`
+- **Final fantasy VII remake** - `CUSA07211` - version `01.01` - `MC4`
+- **Final Fantasy X** - `CUSA01244` - version `01.00` - `MC4` - `ffx_phyreApp.elf`
+- **Final Fantasy X ** - ` X-2: HD Remaster` - version `CUSA01244` - `eboot.bin|SHN` - `01.00`
+- **Final Fantasy X ** - ` X-2: HD Remaster` - version `CUSA01244` - `ffx_phyreApp.elf|MC4` - `01.00`
+- **Final Fantasy X ** - ` X-2: HD Remaster` - version `CUSA01244` - `ffx_phyreApp.elf|SHN` - `01.00`
+- **Final Fantasy X ** - ` X-2: HD Remaster` - version `CUSA01244` - `ffx2_phyreApp.elf|MC4` - `01.00`
+- **Final Fantasy X ** - ` X-2: HD Remaster` - version `CUSA01244` - `ffx2_phyreApp.elf|SHN` - `01.00`
+- **Final Fantasy X ** - ` X-2: HD Remaster` - version `CUSA01244` - `eboot.bin|JSON` - `01.01`
+- **FINAL FANTASY X/X-2 HD Remaster** - `CUSA01244` - version `01.01` - `JSON` - `ffx_phyreApp.elf`
+- **FINAL FANTASY Ⅻ THE ZODIAC AGE** - `CUSA05531` - version `01.00` - `JSON`
+- **FINAL FANTASY Ⅻ THE ZODIAC AGE** - `CUSA05531` - version `01.00` - `MC4`
+- **FINAL FANTASY Ⅻ THE ZODIAC AGE** - `CUSA05531` - version `01.00` - `SHN`
+- **FINAL FANTASY Ⅻ THE ZODIAC AGE** - `CUSA05531` - version `01.05` - `SHN`
+- **FINAL FANTASY Ⅻ THE ZODIAC AGE** - `CUSA05532` - version `01.07` - `JSON`
+- **FINAL FANTASY Ⅻ THE ZODIAC AGE** - `CUSA05532` - version `01.07` - `MC4`
+- **FINAL FANTASY Ⅻ THE ZODIAC AGE** - `CUSA05532` - version `01.07` - `SHN`
+- **Final Fantasy XII The Zodiac Age 最终幻想12 黄道纪元** - `CUSA08116` - version `01.08` - `JSON`
+- **Final Fantasy XII: The Zodiac Age** - `CUSA05531` - version `01.00` - `MC4`
+- **Final Fantasy XV** - `CUSA01615` - version `01.00` - `JSON`
+- **Final Fantasy XV** - `CUSA01615` - version `01.00` - `MC4`
+- **FINAL FANTASY XV** - `CUSA01615` - version `01.00` - `MC4`
+- **FINAL FANTASY XV** - `CUSA01615` - version `01.00` - `SHN`
+- **Final Fantasy XV** - `CUSA01615` - version `01.23` - `JSON`
+- **FINAL FANTASY XV** - `CUSA01615` - version `01.23` - `MC4`
+- **Final Fantasy XV** - `CUSA01615` - version `01.23` - `MC4`
+- **FINAL FANTASY XV** - `CUSA01615` - version `01.23` - `SHN`
+- **FINAL FANTASY XV** - `CUSA01615` - version `01.29` - `JSON`
+- **FINAL FANTASY XV POCKET EDITION HD** - `CUSA12648` - version `01.01` - `JSON`
+- **Final Fight 1-Remake** - `CUSA99816` - version `01.00` - `JSON`
+- **Final Fight 1-Remake** - `CUSA99816` - version `01.00` - `SHN`
+- **Final Vendetta** - `CUSA32946` - version `01.00` - `MC4`
+- **Final Vendetta** - `CUSA32946` - version `01.00` - `SHN`
+- **Final Vendetta** - `CUSA32946` - version `01.02` - `JSON`
+- **Final Vendetta** - `CUSA32946` - version `01.02` - `MC4`
+- **Final Vendetta** - `CUSA32946` - version `01.02` - `SHN`
+- **Final Vendetta** - `CUSA32946` - version `1.02` - `MC4`
+- **Fist of the North Star: Lost Paradise** - `CUSA12781` - version `01.09` - `JSON`
+- **Five Nights at Freddys: Security Breach** - `CUSA24172` - version `01.11` - `JSON`
+- **Flynn: Son of Crimson** - `CUSA27766` - version `01.10` - `JSON`
+- **Forager** - `CUSA13967` - version `04.13` - `JSON`
+- **Freedom Finger** - `CUSA18507` - version `01.04` - `JSON`
+- **Friday The 13Th The Game** - `CUSA09960` - version `01.08` - `MC4`
+- **Friday The 13Th The Game** - `CUSA10007` - version `01.08` - `MC4`
+- **Frostpunk** - `CUSA15690` - version `01.02` - `JSON`
+- **Frostpunk** - `CUSA15690` - version `01.02` - `MC4`
+- **Frostpunk** - `CUSA15690` - version `01.02` - `SHN`
+- **Frozen: Snowball Fight** - `CUSA02396` - version `01.01` - `JSON`
+- **Frozen: Snowball Fight** - `CUSA02396` - version `01.01` - `MC4`
+- **Frozen: Snowball Fight** - `CUSA02396` - version `01.01` - `SHN`
+- **Frozen: Snowball Fight** - `CUSA02396` - version `01.05` - `JSON`
+- **Fury Unleashed** - `CUSA15927` - version `01.09` - `JSON`
+- **Fury Unleashed** - `CUSA15927` - version `01.10` - `JSON`
+- **G. Darius** - `SLUS00690` - version `01.00` - `JSON`
+- **G. Darius** - `SLUS00690` - version `01.00` - `SHN`
+- **Ganryu 2** - `CUSA32759` - version `01.05` - `SHN` - `2`
+- **Ganryu 2** - `CUSA32759` - version `01.05` - `JSON`
+- **Ganryu 2** - `CUSA32759` - version `01.05` - `MC4`
+- **Ganryu 2** - `CUSA32759` - version `01.05` - `SHN`
+- **Gekido - Urban Fighters** - `SLUS00970` - version `01.00` - `JSON`
+- **Gekido - Urban Fighters** - `SLUS00970` - version `01.00` - `SHN`
+- **Gene Rain : Wind Tower** - `CUSA13228` - version `01.06` - `JSON`
+- **GeneRain** - `CUSA12092` - version `01.01` - `MC4`
+- **Generation Zero** - `CUSA14212` - version `01.11` - `JSON`
+- **Generation Zero** - `CUSA14212` - version `01.11` - `SHN`
+- **Ghost 1.0** - `CUSA09728` - version `01.00` - `JSON`
+- **Ghost 1.0** - `CUSA09728` - version `01.00` - `MC4`
+- **Ghost 1.0** - `CUSA09728` - version `01.00` - `SHN`
+- **Ghost of Tsushima** - `CUSA11456` - version `01.00` - `JSON`
+- **Ghost of Tsushima** - `CUSA11456` - version `02.13` - `JSON`
+- **Ghost of Tsushima** - `CUSA11456` - version `02.18` - `JSON`
+- **Ghost Of Tsushima** - `CUSA11456` - version `02.18` - `MC4`
+- **Ghost of Tsushima** - `CUSA11456` - version `02.18` - `MC4`
+- **Ghost of Tsushima** - `CUSA11456` - version `02.18` - `SHN`
+- **Ghost of Tsushima** - `CUSA11456` - version `02.24` - `MC4`
+- **Ghost of Tsushima** - `CUSA11456` - version `02.24` - `SHN`
+- **Ghost of Tsushima** - `CUSA13233` - version `02.18` - `JSON`
+- **Ghost of Tsushima** - `CUSA13233` - version `02.18` - `SHN`
+- **Ghost of Tsushima** - `CUSA13323` - version `01.00` - `JSON`
+- **Ghost of Tsushima** - `CUSA13323` - version `01.12` - `JSON`
+- **Ghost of Tsushima** - `CUSA13323` - version `01.12` - `SHN`
+- **Ghost of Tsushima** - `CUSA13323` - version `02.13` - `JSON`
+- **Ghost of Tsushima** - `CUSA13323` - version `02.24` - `MC4`
+- **Ghost of Tsushima** - `CUSA13323` - version `02.24` - `SHN`
+- **Ghost Recon Wildlands** - `CUSA02819` - version `01.00` - `JSON`
+- **Ghost Recon Wildlands** - `CUSA02819` - version `01.00` - `MC4`
+- **Ghost Rider** - `SLUS21306` - version `01.00` - `JSON`
+- **Ghost Rider** - `SLUS21306` - version `01.00` - `SHN`
+- **Ghost Song** - `CUSA33533` - version `01.03` - `JSON`
+- **Ghost Song** - `CUSA33533` - version `01.03` - `MC4`
+- **Ghost Song** - `CUSA33533` - version `01.03` - `SHN`
+- **Ghost Song** - `CUSA33533` - version `01.05` - `JSON`
+- **Ghost Song** - `CUSA33533` - version `01.05` - `SHN`
+- **Ghostbusters** - `CUSA04312` - version `01.00` - `JSON`
+- **Ghostbusters: The Video Game Remastered** - `CUSA15493` - version `01.01` - `JSON`
+- **Ghostrunner** - `CUSA24169` - version `01.14` - `JSON`
+- **Ghosts n Goblins Resurrection** - `CUSA24159` - version `01.00` - `JSON`
+- **Ghosts n Goblins Resurrection** - `CUSA24159` - version `01.01` - `MC4`
+- **Ghosts n Goblins Resurrection** - `CUSA24159` - version `01.01` - `SHN`
+- **Ghoul Boy** - `CUSA14000` - version `01.00` - `MC4`
+- **Ghoulboy** - `CUSA14000` - version `01.00` - `JSON`
+- **Ghoulboy** - `CUSA14000` - version `01.00` - `MC4`
+- **Ghoulboy** - `CUSA14000` - version `01.00` - `SHN`
+- **Giana Sisters Twisted Dreams Director\'s Cut** - `CUSA01999` - version `01.00` - `MC4`
+- **GigaWing Generations** - `SLES53548` - version `01.00` - `JSON`
+- **GigaWing Generations** - `SLES53548` - version `01.00` - `SHN`
+- **Gintama Rumble** - `CUSA08279` - version `01.06` - `MC4`
+- **Gladiator: Blades of Fury** - `CUSA14515` - version `01.00` - `JSON`
+- **GOD EATER 2 RAGE BURST** - `CUSA01714` - version `01.00` - `JSON`
+- **GOD EATER 2 RAGE BURST** - `CUSA03370` - version `01.00` - `JSON`
+- **GOD EATER 2 RAGE BURST** - `CUSA03370` - version `01.00` - `MC4`
+- **GOD EATER 2 RAGE BURST** - `CUSA03370` - version `01.00` - `SHN`
+- **GOD EATER RESURRECTION** - `CUSA03525` - version `01.01` - `JSON`
+- **God Hand** - `SLES54490` - version `01.00` - `JSON`
+- **God of War** - `CUSA07408` - version `01.00` - `JSON`
+- **God of War** - `CUSA07408` - version `01.00` - `MC4`
+- **God of War** - `CUSA07408` - version `01.00` - `SHN`
+- **God of War** - `CUSA07408` - version `01.33` - `JSON`
+- **God of War** - `CUSA07408` - version `01.33` - `SHN`
+- **God of War** - `CUSA07408` - version `01.35` - `JSON`
+- **God of War** - `CUSA07408` - version `01.35` - `MC4`
+- **God of War** - `CUSA07408` - version `01.35` - `SHN`
+- **God of War** - `CUSA07408` - version `01.36` - `MC4`
+- **God of War** - `CUSA07408` - version `01.36` - `SHN`
+- **God of War** - `CUSA07410` - version `01.00` - `JSON`
+- **God of War** - `CUSA07410` - version `01.00` - `MC4`
+- **God of War** - `CUSA07410` - version `01.00` - `SHN`
+- **God of War** - `CUSA07410` - version `01.35` - `JSON`
+- **God of War** - `CUSA07410` - version `01.35` - `MC4`
+- **God of War** - `CUSA07410` - version `01.35` - `SHN`
+- **God of War** - `CUSA07410` - version `01.36` - `MC4`
+- **God of War** - `CUSA07410` - version `01.36` - `SHN`
+- **God of War** - `CUSA07411` - version `01.00` - `JSON`
+- **God of War** - `CUSA07411` - version `01.00` - `MC4`
+- **God of War** - `CUSA07411` - version `01.00` - `SHN`
+- **God of War** - `CUSA07411` - version `01.35` - `MC4`
+- **God of War** - `CUSA07411` - version `01.35` - `SHN`
+- **God of War** - `CUSA07412` - version `01.00` - `JSON`
+- **God of War** - `CUSA07412` - version `01.00` - `MC4`
+- **God Of War** - `CUSA07412` - version `01.00` - `MC4`
+- **God of War** - `CUSA07412` - version `01.00` - `SHN`
+- **God of War** - `CUSA07412` - version `01.33` - `JSON`
+- **God of War** - `CUSA07413` - version `01.33` - `JSON`
+- **God of War** - `SCES53133` - version `01.00` - `JSON`
+- **God of War** - `SCES53135` - version `01.00` - `JSON`
+- **God of War II** - `SCES54206` - version `01.00` - `JSON`
+- **God of War III: Remastered** - `CUSA01623` - version `01.01` - `MC4`
+- **God of War Ragnarok** - `CUSA34384` - version `02.00` - `JSON`
+- **God Of War Ragnarok** - `CUSA34384` - version `02.00` - `MC4`
+- **God Of War Ragnarok** - `CUSA34384` - version `02.00` - `SHN`
+- **God of War Ragnarok** - `CUSA34384` - version `02.04` - `JSON`
+- **God of War Ragnarok** - `CUSA34384` - version `03.00` - `JSON`
+- **God of War Ragnarok** - `CUSA34384` - version `03.01` - `JSON`
+- **God Of War Ragnarok** - `CUSA34384` - version `04.00` - `MC4`
+- **God Of War Ragnarok** - `CUSA34384` - version `04.00` - `SHN`
+- **God Of War Ragnarok** - `CUSA34384` - version `04.01` - `MC4` - `2`
+- **God Of War Ragnarok** - `CUSA34384` - version `04.01` - `MC4`
+- **God Of War Ragnarok** - `CUSA34384` - version `04.01` - `SHN`
+- **God of War Ragnarok** - `CUSA34384` - version `04.02` - `JSON`
+- **God Of War Ragnarok** - `CUSA34384` - version `04.02` - `MC4`
+- **God Of War Ragnarok** - `CUSA34384` - version `04.02` - `SHN`
+- **God Of War Ragnarok** - `CUSA34384` - version `05.01` - `MC4`
+- **God Of War Ragnarok** - `CUSA34384` - version `05.01` - `SHN`
+- **God Of War Ragnarok** - `CUSA34384` - version `05.03` - `SHN`
+- **God Of War Ragnarok** - `CUSA34384` - version `05.04` - `MC4`
+- **God Of War Ragnarok** - `CUSA34384` - version `05.04` - `SHN`
+- **God Of War Ragnarok** - `CUSA34384` - version `05.05` - `MC4`
+- **God Of War Ragnarok** - `CUSA34384` - version `05.05` - `SHN`
+- **God Of War Ragnarok** - `CUSA34384` - version `06.00` - `MC4`
+- **God Of War Ragnarok** - `CUSA34384` - version `06.00` - `SHN`
+- **God Of War Ragnarok** - `CUSA34384` - version `06.02` - `JSON`
+- **God Of War Ragnarok** - `CUSA34384` - version `06.02` - `SHN`
+- **God Of War Ragnarok** - `CUSA34384` - version `06.05` - `MC4`
+- **God Of War Ragnarok** - `CUSA34384` - version `06.05` - `SHN`
+- **God Of War Ragnarok** - `CUSA34386` - version `04.00` - `MC4`
+- **God Of War Ragnarok** - `CUSA34386` - version `04.00` - `SHN`
+- **God Of War Ragnarok** - `CUSA34386` - version `04.01` - `MC4` - `2`
+- **God Of War Ragnarok** - `CUSA34386` - version `04.01` - `MC4`
+- **God Of War Ragnarok** - `CUSA34386` - version `04.01` - `SHN`
+- **God Of War Ragnarok** - `CUSA34386` - version `04.02` - `MC4`
+- **God Of War Ragnarok** - `CUSA34386` - version `04.02` - `SHN`
+- **God Of War Ragnarok** - `CUSA34386` - version `05.01` - `MC4`
+- **God Of War Ragnarok** - `CUSA34386` - version `05.01` - `SHN`
+- **God Of War Ragnarok** - `CUSA34386` - version `05.03` - `SHN`
+- **God Of War Ragnarok** - `CUSA34386` - version `05.04` - `MC4`
+- **God Of War Ragnarok** - `CUSA34386` - version `05.04` - `SHN`
+- **God Of War Ragnarok** - `CUSA34386` - version `05.05` - `MC4`
+- **God Of War Ragnarok** - `CUSA34386` - version `05.05` - `SHN`
+- **God Of War Ragnarok** - `CUSA34386` - version `06.00` - `MC4`
+- **God Of War Ragnarok** - `CUSA34386` - version `06.00` - `SHN`
+- **God Of War Ragnarok** - `CUSA34386` - version `06.02` - `JSON`
+- **God Of War Ragnarok** - `CUSA34386` - version `06.02` - `SHN`
+- **God Of War Ragnarok** - `CUSA34386` - version `06.05` - `MC4`
+- **God Of War Ragnarok** - `CUSA34386` - version `06.05` - `SHN`
+- **God of War Ragnarok** - `CUSA34388` - version `02.00` - `JSON`
+- **God Of War Ragnarok** - `CUSA34388` - version `02.00` - `MC4`
+- **God of War Ragnarok** - `CUSA34388` - version `02.00` - `MC4`
+- **God Of War Ragnarok** - `CUSA34388` - version `02.00` - `SHN`
+- **God of War Ragnarok** - `CUSA34388` - version `02.04` - `JSON`
+- **God of War Ragnarok** - `CUSA34388` - version `03.00` - `JSON`
+- **God of War Ragnarok** - `CUSA34388` - version `03.01` - `JSON`
+- **God Of War Ragnarok** - `CUSA34388` - version `04.00` - `MC4`
+- **God Of War Ragnarok** - `CUSA34388` - version `04.00` - `SHN`
+- **God Of War Ragnarok** - `CUSA34388` - version `04.01` - `MC4` - `2`
+- **God Of War Ragnarok** - `CUSA34388` - version `04.01` - `MC4`
+- **God Of War Ragnarok** - `CUSA34388` - version `04.01` - `SHN`
+- **God Of War Ragnarok** - `CUSA34388` - version `04.02` - `MC4`
+- **God Of War Ragnarok** - `CUSA34388` - version `04.02` - `SHN`
+- **God Of War Ragnarok** - `CUSA34388` - version `05.01` - `MC4`
+- **God Of War Ragnarok** - `CUSA34388` - version `05.01` - `SHN`
+- **God Of War Ragnarok** - `CUSA34388` - version `05.03` - `SHN`
+- **God Of War Ragnarok** - `CUSA34388` - version `05.04` - `MC4`
+- **God Of War Ragnarok** - `CUSA34388` - version `05.04` - `SHN`
+- **God Of War Ragnarok** - `CUSA34388` - version `05.05` - `MC4`
+- **God Of War Ragnarok** - `CUSA34388` - version `05.05` - `SHN`
+- **God Of War Ragnarok** - `CUSA34388` - version `06.00` - `MC4`
+- **God Of War Ragnarok** - `CUSA34388` - version `06.00` - `SHN`
+- **God Of War Ragnarok** - `CUSA34388` - version `06.02` - `JSON`
+- **God Of War Ragnarok** - `CUSA34388` - version `06.02` - `SHN`
+- **God Of War Ragnarok** - `CUSA34388` - version `06.05` - `MC4`
+- **God Of War Ragnarok** - `CUSA34388` - version `06.05` - `SHN`
+- **God of War Ragnarok** - `CUSA34390` - version `02.00` - `JSON`
+- **God Of War Ragnarok** - `CUSA34390` - version `02.00` - `MC4`
+- **God of War Ragnarok** - `CUSA34390` - version `02.00` - `MC4`
+- **God Of War Ragnarok** - `CUSA34390` - version `02.00` - `SHN`
+- **God of War Ragnarok** - `CUSA34390` - version `02.04` - `JSON`
+- **God of War Ragnarok** - `CUSA34390` - version `03.00` - `JSON`
+- **God of War Ragnarok** - `CUSA34390` - version `03.01` - `JSON`
+- **God Of War Ragnarok** - `CUSA34390` - version `04.00` - `MC4`
+- **God Of War Ragnarok** - `CUSA34390` - version `04.00` - `SHN`
+- **God Of War Ragnarok** - `CUSA34390` - version `04.01` - `MC4` - `2`
+- **God Of War Ragnarok** - `CUSA34390` - version `04.01` - `MC4`
+- **God Of War Ragnarok** - `CUSA34390` - version `04.01` - `SHN`
+- **God Of War Ragnarok** - `CUSA34390` - version `04.02` - `MC4`
+- **God Of War Ragnarok** - `CUSA34390` - version `04.02` - `SHN`
+- **God Of War Ragnarok** - `CUSA34390` - version `05.01` - `MC4`
+- **God Of War Ragnarok** - `CUSA34390` - version `05.01` - `SHN`
+- **God Of War Ragnarok** - `CUSA34390` - version `05.03` - `SHN`
+- **God Of War Ragnarok** - `CUSA34390` - version `05.04` - `MC4`
+- **God Of War Ragnarok** - `CUSA34390` - version `05.04` - `SHN`
+- **God Of War Ragnarok** - `CUSA34390` - version `05.05` - `MC4`
+- **God Of War Ragnarok** - `CUSA34390` - version `05.05` - `SHN`
+- **God Of War Ragnarok** - `CUSA34390` - version `06.00` - `MC4`
+- **God Of War Ragnarok** - `CUSA34390` - version `06.00` - `SHN`
+- **God Of War Ragnarok** - `CUSA34390` - version `06.02` - `JSON`
+- **God Of War Ragnarok** - `CUSA34390` - version `06.02` - `SHN`
+- **God Of War Ragnarok** - `CUSA34390` - version `06.05` - `MC4`
+- **God Of War Ragnarok** - `CUSA34390` - version `06.05` - `SHN`
+- **God Of War Ragnarok** - `CUSA34392` - version `05.01` - `MC4`
+- **God Of War Ragnarok** - `CUSA34392` - version `05.01` - `SHN`
+- **God Of War Ragnarok** - `CUSA34392` - version `05.03` - `SHN`
+- **God Of War Ragnarok** - `CUSA34392` - version `05.04` - `SHN`
+- **God Of War Ragnarok** - `CUSA34392` - version `06.02` - `JSON`
+- **God Of War Ragnarok** - `CUSA34392` - version `06.02` - `SHN`
+- **God Of War Ragnarok** - `CUSA34394` - version `05.01` - `MC4`
+- **God Of War Ragnarok** - `CUSA34394` - version `05.01` - `SHN`
+- **God Of War Ragnarok** - `CUSA34394` - version `05.03` - `SHN`
+- **God Of War Ragnarok** - `CUSA34394` - version `05.04` - `SHN`
+- **God Of War Ragnarok** - `CUSA34394` - version `06.02` - `JSON`
+- **God Of War Ragnarok** - `CUSA34394` - version `06.02` - `SHN`
+- **God of War Ragnarök** - `CUSA34384` - version `04.00` - `JSON`
+- **God of War Ragnarök** - `CUSA34384` - version `04.01` - `MC4`
+- **God of War Ragnarök** - `CUSA34386` - version `04.00` - `JSON`
+- **God of War Ragnarök** - `CUSA34386` - version `04.01` - `MC4`
+- **God of War Ragnarök** - `CUSA34388` - version `04.01` - `MC4`
+- **God of War Ragnarök** - `CUSA34390` - version `04.00` - `JSON`
+- **God of War Ragnarök** - `CUSA34390` - version `04.01` - `MC4`
+- **God of War Ragnarok (+Valhalla DLC compatibility)** - `CUSA34384` - version `05.01` - `JSON`
+- **God of War Ragnarok (+Valhalla DLC compatibility)** - `CUSA34384` - version `05.03` - `JSON`
+- **God of War Ragnarok (+Valhalla DLC compatibility)** - `CUSA34384` - version `05.04` - `JSON`
+- **God of War Ragnarok (+Valhalla DLC compatibility)** - `CUSA34384` - version `05.05` - `JSON`
+- **God of War Ragnarok (+Valhalla DLC compatibility)** - `CUSA34386` - version `05.01` - `JSON`
+- **God of War Ragnarok (+Valhalla DLC compatibility)** - `CUSA34386` - version `05.04` - `JSON`
+- **God of War Ragnarok (+Valhalla DLC compatibility)** - `CUSA34386` - version `05.05` - `JSON`
+- **God of War Ragnarok (+Valhalla DLC compatibility)** - `CUSA34388` - version `05.01` - `JSON`
+- **God of War Ragnarok (+Valhalla DLC compatibility)** - `CUSA34388` - version `05.04` - `JSON`
+- **God of War Ragnarok (+Valhalla DLC compatibility)** - `CUSA34388` - version `05.05` - `JSON`
+- **God of War Ragnarok (+Valhalla DLC compatibility)** - `CUSA34390` - version `05.01` - `JSON`
+- **God of War Ragnarok (+Valhalla DLC compatibility)** - `CUSA34390` - version `05.04` - `JSON`
+- **God of War Ragnarok (+Valhalla DLC compatibility)** - `CUSA34390` - version `05.05` - `JSON`
+- **God of War Ragnarok (+Valhalla DLC compatibility)** - `CUSA34392` - version `05.01` - `JSON`
+- **God of War Ragnarok (+Valhalla DLC compatibility)** - `CUSA34392` - version `05.04` - `JSON`
+- **God of War Ragnarok (+Valhalla DLC compatibility)** - `CUSA34392` - version `05.05` - `JSON`
+- **God of War Ragnarok (+Valhalla DLC compatibility)** - `CUSA34394` - version `05.01` - `JSON`
+- **God of War Ragnarok (+Valhalla DLC compatibility)** - `CUSA34394` - version `05.04` - `JSON`
+- **God of War Ragnarok (+Valhalla DLC compatibility)** - `CUSA34394` - version `05.05` - `JSON`
+- **God of War: Ragnarok** - `CUSA34386` - version `04.02` - `JSON`
+- **God of War: Ragnarok** - `CUSA34388` - version `04.02` - `JSON`
+- **God of War: Ragnarok** - `CUSA34390` - version `04.02` - `JSON`
+- **God of War® III Remastered** - `CUSA01623` - version `01.01` - `JSON`
+- **God of War® III Remastered** - `CUSA01623` - version `01.01` - `MC4`
+- **God of War® III Remastered** - `CUSA01623` - version `01.01` - `SHN`
+- **God of War® III Remastered** - `CUSA01623` - version `01.02` - `JSON`
+- **God of War® III Remastered** - `CUSA01623` - version `01.02` - `MC4`
+- **God of War® III Remastered** - `CUSA01623` - version `01.02` - `SHN`
+- **God of War® III Remastered** - `CUSA01715` - version `01.02` - `JSON`
+- **God of War® III Remastered** - `CUSA01715` - version `01.02` - `MC4`
+- **God of War® III Remastered** - `CUSA01715` - version `01.02` - `SHN`
+- **Golden Force** - `CUSA25791` - version `01.06` - `JSON`
+- **Golden Force** - `CUSA25791` - version `01.06` - `MC4`
+- **Golden Force** - `CUSA25791` - version `01.06` - `SHN`
+- **Gradius III and IV** - `SLUS20040` - version `01.00` - `JSON`
+- **Gradius III and IV** - `SLUS20040` - version `01.00` - `SHN`
+- **Gran Turismo 3** - `SCUS97102` - version `01.00` - `JSON`
+- **Gran Turismo 3** - `SCUS97102` - version `01.00` - `SHN`
+- **Gran Turismo 4** - `SCUS97328` - version `01.00` - `JSON`
+- **Gran Turismo 4** - `SCUS97328` - version `01.00` - `SHN`
+- **Granblue Fantasy Link** - `CUSA34766` - version `01.05` - `SHN` - `2`
+- **Granblue Fantasy Link** - `CUSA34766` - version `01.05` - `SHN`
+- **Granblue Fantasy Link** - `CUSA34766` - version `01.11` - `JSON`
+- **Granblue Fantasy Link** - `CUSA34766` - version `01.11` - `SHN`
+- **Granblue Fantasy Link** - `CUSA34766` - version `01.31` - `SHN`
+- **Granblue Fantasy Relink** - `CUSA34766` - version `01.05` - `JSON`
+- **Grand Kingdom** - `CUSA04630` - version `01.00` - `MC4`
+- **Grand Theft Auto III – The Definitive Edition** - `CUSA26613` - version `01.00` - `JSON`
+- **Grand Theft Auto III – The Definitive Edition** - `CUSA26613` - version `01.04` - `JSON`
+- **Grand Theft Auto III – The Definitive Edition** - `CUSA26613` - version `01.06` - `SHN`
+- **Grand Theft Auto V** - `CUSA00411` - version `01.23` - `JSON`
+- **Grand Theft Auto V** - `CUSA00411` - version `01.27` - `JSON`
+- **Grand Theft Auto V** - `CUSA00411` - version `01.27` - `MC4`
+- **Grand Theft Auto V** - `CUSA00411` - version `01.33` - `JSON`
+- **Grand Theft Auto V** - `CUSA00419` - version `01.23` - `JSON`
+- **Grand Theft Auto V** - `CUSA00419` - version `01.27` - `JSON`
+- **Grand Theft Auto V** - `CUSA00419` - version `01.33` - `JSON`
+- **Grand Theft Auto V 侠盗猎车手5** - `CUSA00411` - version `01.27` - `MC4`
+- **Grand Theft Auto V 侠盗猎车手5** - `CUSA00411` - version `01.27` - `SHN`
+- **Grand Theft Auto V 侠盗猎车手5** - `CUSA00411` - version `01.49` - `JSON`
+- **Grand Theft Auto V 侠盗猎车手5** - `CUSA00419` - version `01.46` - `MC4`
+- **Grand Theft Auto V 侠盗猎车手5** - `CUSA00419` - version `01.46` - `SHN`
+- **Grand Theft Auto V 侠盗猎车手5** - `CUSA00419` - version `01.49` - `JSON`
+- **Grand Theft Auto Vice City: The Definitive Edition** - `CUSA26615` - version `01.07` - `JSON`
+- **Grand Theft Auto: San Andreas – The Definitive Edition** - `CUSA26619` - version `01.04` - `JSON`
+- **Grand Theft Auto: San Andreas – The Definitive Edition** - `CUSA26619` - version `01.04` - `SHN`
+- **Grand Theft Auto: San Andreas ? The Definitive Edition** - `CUSA26619` - version `01.04` - `JSON`
+- **Grand Theft Auto: Vice City – The Definitive Edition** - `CUSA26616` - version `01.04` - `JSON`
+- **Grand Theft Auto: Vice City – The Definitive Edition** - `CUSA26616` - version `01.06` - `SHN`
+- **Grave Danger** - `CUSA12010` - version `01.02` - `MC4`
+- **Graveyard Keeper** - `CUSA10811` - version `01.05` - `JSON`
+- **Gravity Rush 2** - `CUSA04943` - version `01.00` - `JSON`
+- **Gravity Rush 2** - `CUSA04943` - version `01.00` - `MC4`
+- **Gravity Rush 2** - `SLES53777` - version `01.00` - `JSON`
+- **Gravity Rush 2** - `SLES53777` - version `01.00` - `SHN`
+- **Gravity Rush Remastered** - `CUSA01113` - version `01.00` - `JSON`
+- **Gravity Rush Remastered** - `CUSA01113` - version `01.00` - `MC4`
+- **Gravity Rush Remastered** - `CUSA01113` - version `01.00` - `SHN`
+- **GRAVITY RUSH™ 2** - `CUSA03694` - version `01.11` - `JSON`
+- **GRAVITY RUSH™ 2** - `CUSA04943` - version `01.00` - `MC4`
+- **GRAVITY RUSH™ 2** - `CUSA04943` - version `01.00` - `SHN`
+- **GRAVITY RUSH™ 2** - `CUSA04943` - version `01.11` - `JSON`
+- **GRAVITY RUSH™ 2** - `CUSA08060` - version `01.11` - `JSON`
+- **Greak: Memories of Azur** - `CUSA31337` - version `01.01` - `JSON`
+- **Greak: Memories of Azur** - `CUSA31337` - version `01.01` - `MC4`
+- **Greak: Memories of Azur** - `CUSA31337` - version `01.01` - `SHN`
+- **GreedFall** - `CUSA14211` - version `01.05` - `JSON`
+- **GreedFall** - `CUSA14211` - version `01.08` - `JSON`
+- **Green Hell** - `CUSA26546` - version `01.03` - `JSON`
+- **Green Hell** - `CUSA26546` - version `01.03` - `MC4`
+- **Green Hell** - `CUSA26546` - version `01.03` - `SHN`
+- **Grid Legends** - `CUSA28260` - version `06.01` - `MC4`
+- **GRID Legends** - `CUSA28261` - version `03.11` - `JSON`
+- **Grid Legends** - `CUSA28261` - version `06.01` - `MC4`
+- **GRID Legends** - `CUSA28261` - version `06.01` - `MC4`
+- **GRID Legends** - `CUSA28261` - version `06.01` - `SHN`
+- **GRIME** - `CUSA27309` - version `01.12` - `JSON`
+- **Grounded** - `CUSA42556` - version `01.14` - `JSON`
+- **Gryphon Knight Epic: Definitive Edition** - `CUSA20624` - version `01.01` - `JSON`
+- **GTA V** - `CUSA00419` - version `01.46` - `MC4`
+- **Guacamelee! 2** - `CUSA07098` - version `01.04` - `JSON`
+- **Guacamelee! Super Turbo Championship Edition** - `CUSA00151` - version `01.03` - `JSON`
+- **Guardian of Lore** - `CUSA31459` - version `01.01` - `MC4`
+- **guilty gear strive** - `CUSA19210` - version `01.26` - `JSON`
+- **guilty gear strive** - `CUSA19210` - version `01.26` - `MC4`
+- **guilty gear strive** - `CUSA19210` - version `01.26` - `SHN`
+- **Gundam Breaker 3 - Break Edition** - `CUSA07651` - version `01.00` - `MC4`
+- **GUNDAM BREAKER 3 BREAK EDITION** - `CUSA07651` - version `01.00` - `JSON`
+- **GUNDAM BREAKER 3 BREAK EDITION** - `CUSA07651` - version `01.00` - `MC4`
+- **GUNDAM BREAKER 3 BREAK EDITION** - `CUSA07651` - version `01.00` - `SHN`
+- **Gungrave G.O.R.E** - `CUSA27913` - version `01.05` - `JSON`
+- **Gungrave G.O.R.E** - `CUSA27913` - version `01.05` - `MC4`
+- **Gungrave G.O.R.E** - `CUSA27913` - version `01.05` - `SHN`
+- **Guns Gore & Cannoli** - `CUSA03818` - version `01.01` - `MC4`
+- **Guns Gore and Cannoli 2** - `CUSA08413` - version `01.00` - `JSON`
+- **Guns Gore and Cannoli-2** - `CUSA08413` - version `01.03` - `JSON`
+- **Guns Gore and Cannoli-2** - `CUSA08413` - version `01.03` - `MC4`
+- **Guns Gore and Cannoli-2** - `CUSA08413` - version `01.03` - `SHN`
+- **Guns, Gore and Cannoli** - `CUSA03051` - version `01.00` - `JSON`
+- **Guns, Gore and Cannoli** - `CUSA03051` - version `01.01` - `SHN`
+- **Guns, Gore and Cannoli** - `CUSA03818` - version `01.01` - `JSON`
+- **Guns, Gore and Cannoli** - `CUSA03818` - version `01.01` - `MC4`
+- **Guns, Gore and Cannoli** - `CUSA03818` - version `01.01` - `SHN`
+- **Gunvolt Chronicles: Luminous Avenger iX** - `CUSA16446` - version `01.04` - `JSON`
+- **Gunvolt Chronicles: Luminous Avenger iX** - `CUSA16446` - version `01.04` - `MC4`
+- **Gunvolt Chronicles: Luminous Avenger iX** - `CUSA16446` - version `01.04` - `SHN`
+- **Habroxia 2** - `CUSA25058` - version `01.12` - `JSON`
+- **Habroxia 2** - `CUSA25058` - version `01.12` - `MC4`
+- **Habroxia 2** - `CUSA25058` - version `01.12` - `SHN`
+- **Hades** - `CUSA27387` - version `01.03` - `JSON`
+- **Hades** - `CUSA27387` - version `01.03` - `MC4`
+- **Hades** - `CUSA27387` - version `01.03` - `SHN`
+- **Hades** - `CUSA27973` - version `01.03` - `JSON`
+- **Hades** - `CUSA27973` - version `01.03` - `MC4`
+- **Hades** - `CUSA27973` - version `01.03` - `SHN`
+- **Harry Potter Years 1-4** - `CUSA05935` - version `01.00` - `JSON` - `harry1.elf`
+- **Harry Potter Years 1-4** - `CUSA05954` - version `01.00` - `JSON` - `harry1.elf`
+- **Harry Potter Years 5-7** - `CUSA05935` - version `01.00` - `JSON` - `harry2.elf`
+- **Harry Potter Years 5-7** - `CUSA05954` - version `01.00` - `JSON` - `harry2.elf`
+- **Harvest Moon: Light of Hope** - `CUSA10873` - version `01.01` - `MC4`
+- **Harvest Moon: One World** - `CUSA18808` - version `01.00` - `JSON`
+- **Harvest Moon: The Winds of Anthos** - `CUSA42678` - version `01.00` - `MC4`
+- **Haven** - `CUSA23384` - version `01.06` - `JSON`
+- **Haven** - `CUSA23384` - version `01.06` - `MC4`
+- **Haven** - `CUSA23384` - version `01.06` - `SHN`
+- **heart &amp; slash** - `CUSA04531` - version `01.00` - `MC4`
+- **Hell Warders** - `CUSA13537` - version `01.00` - `JSON`
+- **Hellblade: Senuas Sacrifice™** - `CUSA07527` - version `01.02` - `JSON`
+- **Hellpoint** - `CUSA17801` - version `01.01` - `JSON`
+- **Hellpoint** - `CUSA17801` - version `01.25` - `JSON`
+- **Hellpoint** - `CUSA17806` - version `01.21` - `JSON`
+- **Hellpoint** - `CUSA17806` - version `01.25` - `JSON`
+- **Hellpoint** - `CUSA17806` - version `01.25` - `MC4`
+- **Hellpoint** - `CUSA17806` - version `01.25` - `SHN`
+- **Heracles-Battle with the Gods** - `SLES53855` - version `01.00` - `JSON`
+- **Heracles-Battle with the Gods** - `SLES53855` - version `01.00` - `SHN`
+- **Heroine Anthem Zero Episode 1** - `CUSA10592` - version `01.00` - `JSON`
+- **High on Life** - `CUSA42391` - version `01.11` - `JSON`
+- **High on Life** - `CUSA42391` - version `01.11` - `MC4`
+- **High on Life** - `CUSA42391` - version `01.11` - `SHN`
+- **Hitman - Blood Money HD** - `CUSA13612` - version `01.02` - `MC4`
+- **HITMAN 3** - `CUSA18201` - version `01.13` - `JSON`
+- **HITMAN 3** - `CUSA18210` - version `01.08` - `JSON`
+- **Hitman Absolution HD** - `CUSA12650` - version `01.02` - `JSON`
+- **Hitman Go** - `CUSA04126` - version `01.00` - `MC4`
+- **Hitman: Blood Money HD** - `CUSA13612` - version `01.02` - `JSON`
+- **Hitman: Blood Money HD** - `CUSA13612` - version `01.02` - `MC4`
+- **Hitman: Blood Money HD** - `CUSA13612` - version `01.02` - `SHN`
+- **HITMAN™** - `CUSA02976` - version `01.32` - `JSON`
+- **HITMAN™** - `CUSA02976` - version `01.32` - `MC4`
+- **HITMAN™** - `CUSA02976` - version `01.32` - `SHN`
+- **HITMAN™ 2** - `CUSA12401` - version `01.21` - `JSON`
+- **Hogwarts Legacy** - `CUSA12771` - version `01.03` - `JSON`
+- **Hogwarts Legacy** - `CUSA12771` - version `01.03` - `MC4`
+- **Hogwarts Legacy** - `CUSA12771` - version `01.03` - `SHN`
+- **Hogwarts Legacy** - `CUSA12771` - version `01.05` - `JSON`
+- **Hogwarts Legacy** - `CUSA12771` - version `01.05` - `SHN`
+- **Hogwarts Legacy** - `CUSA12824` - version `01.03` - `JSON`
+- **Hogwarts Legacy** - `CUSA12824` - version `01.03` - `MC4`
+- **Hogwarts Legacy** - `CUSA12824` - version `01.03` - `SHN`
+- **Hogwarts Legacy** - `CUSA12824` - version `01.05` - `JSON`
+- **Hogwarts Legacy** - `CUSA12824` - version `01.05` - `SHN`
+- **Hokuto ga Gotoku** - `CUSA10053` - version `01.00` - `MC4`
+- **Hollow Knight** - `CUSA13285` - version `01.00` - `SHN`
+- **Hollow Knight** - `CUSA13285` - version `01.02` - `JSON`
+- **Homefront:The Revolution** - `CUSA00938` - version `01.00` - `MC4`
+- **Homefront:The Revolution** - `CUSA00938` - version `01.12` - `MC4`
+- **Homefront®: The Revolution** - `CUSA00938` - version `01.00` - `JSON`
+- **Homefront®: The Revolution** - `CUSA00938` - version `01.00` - `MC4`
+- **Homefront®: The Revolution** - `CUSA00938` - version `01.00` - `SHN`
+- **Homefront®: The Revolution** - `CUSA00938` - version `01.12` - `MC4`
+- **Homefront®: The Revolution** - `CUSA00938` - version `01.12` - `SHN`
+- **Homura** - `SLPM62685` - version `01.00` - `JSON`
+- **Homura** - `SLPM62685` - version `01.00` - `SHN`
+- **Horizon Chase Turbo** - `CUSA11275` - version `01.00` - `JSON`
+- **Horizon Chase Turbo** - `CUSA11275` - version `02.01` - `JSON`
+- **Horizon Chase Turbo** - `CUSA11275` - version `02.11` - `JSON`
+- **Horizon Chase Turbo** - `CUSA11275` - version `02.50` - `JSON`
+- **Horizon Chase Turbo** - `CUSA11275` - version `02.50` - `MC4`
+- **Horizon Chase Turbo** - `CUSA11275` - version `02.50` - `SHN`
+- **Horizon Chase Turbo** - `CUSA11275` - version `02.60` - `MC4`
+- **Horizon Chase Turbo** - `CUSA11275` - version `02.60` - `SHN`
+- **Horizon Forbbiden West** - `CUSA28561` - version `01.17` - `SHN`
+- **Horizon Forbbiden West** - `CUSA28561` - version `01.18` - `JSON`
+- **Horizon Forbbiden West** - `CUSA28561` - version `01.18` - `MC4`
+- **Horizon Forbbiden West** - `CUSA28561` - version `01.18` - `SHN`
+- **Horizon Forbidden West** - `CUSA24705` - version `01.04` - `JSON`
+- **Horizon Forbidden West** - `CUSA24705` - version `01.17` - `JSON`
+- **Horizon Forbidden West** - `CUSA24705` - version `01.18` - `JSON`
+- **Horizon Forbidden West** - `CUSA24705` - version `01.18` - `MC4`
+- **Horizon Forbidden West** - `CUSA24705` - version `01.18` - `SHN`
+- **Horizon Forbidden West** - `CUSA28561` - version `01.17` - `JSON`
+- **Horizon Forbidden West** - `CUSA28563` - version `01.18` - `JSON`
+- **Horizon Forbidden West** - `CUSA28563` - version `01.18` - `SHN`
+- **Horizon Forbidden West** - `CUSA30023` - version `01.18` - `JSON`
+- **Horizon Forbidden West** - `CUSA30023` - version `01.18` - `SHN`
+- **Horizon Zero Dawn** - `CUSA10211` - version `01.52` - `JSON`
+- **Horizon Zero Dawn** - `CUSA10213` - version `01.52` - `MC4`
+- **Horizon Zero Dawn Complete Edition** - `CUSA10212` - version `01.52` - `MC4`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA01967` - version `01.54` - `JSON`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10211` - version `01.52` - `SHN`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10211` - version `01.54` - `JSON`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10211` - version `01.54` - `SHN`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10212` - version `01.52` - `JSON`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10212` - version `01.52` - `MC4`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10212` - version `01.52` - `SHN`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10212` - version `01.54` - `JSON`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10212` - version `01.54` - `SHN`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10218` - version `01.52` - `JSON`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10218` - version `01.52` - `SHN`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10218` - version `01.54` - `JSON`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10218` - version `01.54` - `SHN`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10234` - version `01.52` - `JSON`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10234` - version `01.52` - `SHN`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10234` - version `01.54` - `JSON`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10234` - version `01.54` - `SHN`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10237` - version `01.52` - `JSON`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10237` - version `01.52` - `MC4`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10237` - version `01.52` - `SHN`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10237` - version `01.54` - `JSON`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10237` - version `01.54` - `MC4`
+- **Horizon Zero Dawn: Complete Edition** - `CUSA10237` - version `01.54` - `SHN`
+- **Horizon Zero Dawn™: Complete Edition** - `CUSA10212` - version `01.52` - `JSON`
+- **Horizon Zero Dawn™: Complete Edition** - `CUSA10213` - version `01.52` - `JSON`
+- **Horizon Zero Dawn™: Complete Edition** - `CUSA10213` - version `01.52` - `MC4`
+- **Horizon Zero Dawn™: Complete Edition** - `CUSA10213` - version `01.52` - `SHN`
+- **Horizon Zero Dawn™: Complete Edition** - `CUSA10213` - version `01.54` - `JSON`
+- **Horizon Zero Dawn™: Complete Edition** - `CUSA10213` - version `01.54` - `MC4`
+- **Horizon Zero Dawn™: Complete Edition** - `CUSA10213` - version `01.54` - `SHN`
+- **Hot Wheels Unleashed** - `CUSA25502` - version `01.07` - `JSON`
+- **Hot Wheels Unleashed** - `CUSA25502` - version `01.16` - `JSON`
+- **Hot Wheels Unleashed** - `CUSA25502` - version `01.17` - `JSON`
+- **Hot Wheels Unleashed** - `CUSA25502` - version `01.18` - `JSON`
+- **Hot Wheels Unleashed** - `CUSA25502` - version `01.19` - `JSON`
+- **Hot Wheels Unleashed** - `CUSA25502` - version `01.19` - `MC4`
+- **Hot Wheels Unleashed** - `CUSA25502` - version `01.19` - `SHN`
+- **House Flipper** - `CUSA23090` - version `03.10` - `JSON`
+- **how to surrvive 2** - `CUSA07006` - version `01.02` - `JSON`
+- **How To Survive** - `CUSA00706` - version `01.00` - `JSON`
+- **How to Survive 2** - `CUSA07006` - version `01.02` - `JSON`
+- **How to Survive: Storm Warning Edition** - `CUSA00706` - version `01.00` - `JSON`
+- **Hungry Shark® World** - `CUSA12378` - version `01.01` - `JSON`
+- **Immortal Realms: Vampire Wars** - `CUSA18685` - version `01.01` - `JSON`
+- **Immortal Unchained** - `CUSA10161` - version `01.17` - `MC4`
+- **Immortal: Unchained** - `CUSA10161` - version `01.17` - `JSON`
+- **Immortal: Unchained** - `CUSA10161` - version `01.17` - `MC4`
+- **Immortal: Unchained** - `CUSA10161` - version `01.17` - `SHN`
+- **Immortals Fenyx Rising** - `CUSA16345` - version `01.01` - `MC4`
+- **Immortals Fenyx Rising ™** - `CUSA16345` - version `01.01` - `JSON`
+- **Immortals Fenyx Rising ™** - `CUSA16345` - version `01.01` - `MC4`
+- **Immortals Fenyx Rising ™** - `CUSA16345` - version `01.01` - `SHN`
+- **Immortals Fenyx Rising ™** - `CUSA16345` - version `01.34` - `JSON`
+- **Immortals Fenyx Rising ™** - `CUSA16345` - version `01.34` - `MC4`
+- **Immortals Fenyx Rising ™** - `CUSA16345` - version `01.34` - `SHN`
+- **Imp Of The Sun** - `CUSA31561` - version `01.01` - `MC4`
+- **Indivisible** - `CUSA07000` - version `01.11` - `JSON`
+- **inFAMOUS Second Son** - `CUSA00309` - version `01.07` - `JSON`
+- **inFAMOUS Second Son** - `CUSA00309` - version `01.07` - `SHN`
+- **inFAMOUS: First Light** - `CUSA00897` - version `01.00` - `MC4`
+- **inFAMOUS: First Light** - `CUSA00897` - version `01.00` - `SHN`
+- **inFAMOUS: First Light** - `CUSA00897` - version `01.04` - `JSON`
+- **inFAMOUS: First Light** - `CUSA00897` - version `01.04` - `MC4`
+- **inFAMOUS: First Light** - `CUSA00897` - version `01.04` - `SHN`
+- **inFAMOUS: First Light** - `CUSA01064` - version `01.04` - `MC4`
+- **inFAMOUS: Second Son** - `CUSA00004` - version `01.07` - `JSON`
+- **inFAMOUS: Second Son** - `CUSA00223` - version `01.04` - `JSON`
+- **inFAMOUS: Second Son** - `CUSA00223` - version `01.04` - `MC4`
+- **inFAMOUS: Second Son** - `CUSA00223` - version `01.04` - `SHN`
+- **inFAMOUS™ First Light** - `CUSA00897` - version `01.04` - `JSON`
+- **inFAMOUS™ Second Son** - `CUSA00004` - version `01.07` - `JSON`
+- **inFAMOUS™ Second Son** - `CUSA00004` - version `01.07` - `MC4`
+- **inFAMOUS™ Second Son** - `CUSA00004` - version `01.07` - `SHN`
+- **infinity strash: dragon quest the adventure of dai!** - `CUSA35744` - version `01.02` - `JSON`
+- **infinity strash: dragon quest the adventure of dai!** - `CUSA35744` - version `01.02` - `SHN`
+- **Injustice 2 LE** - `CUSA10688` - version `01.04` - `MC4`
+- **Injustice 2: Legendary Edition** - `CUSA10688` - version `01.04` - `JSON`
+- **Injustice 2: Legendary Edition** - `CUSA10688` - version `01.04` - `MC4`
+- **Injustice 2: Legendary Edition** - `CUSA10688` - version `01.04` - `SHN`
+- **Injustice Gods Among Us Ultimate Edition** - `CUSA00051` - version `01.00` - `MC4`
+- **Injustice: Gods Among Us Ultimate Edition** - `CUSA00051` - version `01.00` - `JSON`
+- **Injustice: Gods Among Us Ultimate Edition** - `CUSA00051` - version `01.00` - `MC4`
+- **Injustice: Gods Among Us Ultimate Edition** - `CUSA00051` - version `01.00` - `SHN`
+- **Island Express** - `CUSA10654` - version `01.02` - `MC4`
+- **Jackie Chan Adventures** - `SCES52412` - version `01.00` - `JSON`
+- **Journey To The Savage Planet** - `CUSA14496` - version `01.07` - `MC4`
+- **Judgment** - `CUSA13197` - version `01.09` - `JSON`
+- **Judgment** - `CUSA13197` - version `01.09` - `MC4`
+- **Judgment** - `CUSA13197` - version `01.09` - `SHN`
+- **Jujutsu Kaisen Cursed Clash** - `CUSA35844` - version `01.01` - `JSON`
+- **JUMP FORCE** - `CUSA11638` - version `03.01` - `JSON`
+- **JUMP FORCE** - `CUSA11638` - version `03.01` - `MC4`
+- **Jump Force** - `CUSA11638` - version `03.01` - `MC4`
+- **JUMP FORCE** - `CUSA11638` - version `03.01` - `SHN`
+- **Jurassic World Evolution 2** - `CUSA27319` - version `01.03` - `JSON`
+- **Jurassic World Evolution 2** - `CUSA27321` - version `01.12` - `JSON`
+- **Jurassic World Evolution 2** - `CUSA27321` - version `01.30` - `JSON`
+- **Jurassic World Evolution 2** - `CUSA27321` - version `01.30` - `SHN`
+- **Just Cause 3** - `CUSA01493` - version `01.05` - `JSON`
+- **Just Cause 3** - `CUSA01493` - version `01.05` - `MC4`
+- **Just Cause 3** - `CUSA01493` - version `01.05` - `SHN`
+- **Just Cause 3** - `CUSA02747` - version `01.05` - `JSON`
+- **Just Cause 3** - `CUSA02748` - version `01.05` - `JSON`
+- **Just Cause 3** - `CUSA02748` - version `01.05` - `MC4`
+- **Just Cause 3** - `CUSA02748` - version `01.05` - `SHN`
+- **Just Cause 4** - `CUSA09254` - version `01.31` - `JSON`
+- **Just Cause 4** - `CUSA09254` - version `01.32` - `MC4`
+- **Just Cause 4** - `CUSA09254` - version `01.32` - `SHN`
+- **Just Cause 4** - `CUSA09264` - version `01.31` - `JSON`
+- **Just Dance® 2019 (Demo)** - `CUSA14020` - version `01.12` - `JSON`
+- **Just Die Already** - `CUSA25705` - version `01.03` - `MC4`
+- **KAMENRIDER memory of heroez** - `CUSA17374` - version `01.00` - `JSON`
+- **Kamiwaza: Way of the Thief** - `CUSA32577` - version `01.01` - `JSON`
+- **Kao the Kangaroo** - `CUSA30891` - version `01.03` - `JSON`
+- **KATANA KAMI: A Way of the Samurai Story** - `CUSA16932` - version `01.03` - `MC4`
+- **Kena Bridge Of Spirits** - `CUSA24853` - version `02.06` - `MC4`
+- **Kena Bridge Of Spirits** - `CUSA24853` - version `02.07` - `MC4`
+- **Kena Bridge Of Spirits** - `CUSA24853` - version `02.08` - `MC4`
+- **Kena: Bridge of Spirits** - `CUSA24853` - version `01.00` - `JSON`
+- **Kena: Bridge of Spirits** - `CUSA24853` - version `02.03` - `JSON`
+- **Kena: Bridge of Spirits** - `CUSA24853` - version `02.03` - `SHN`
+- **Kena: Bridge of Spirits** - `CUSA24853` - version `02.05` - `JSON`
+- **Kena: Bridge of Spirits** - `CUSA24853` - version `02.06` - `JSON`
+- **Kena: Bridge of Spirits** - `CUSA24853` - version `02.06` - `MC4`
+- **Kena: Bridge of Spirits** - `CUSA24853` - version `02.06` - `SHN`
+- **Kena: Bridge of Spirits** - `CUSA24853` - version `02.07` - `JSON`
+- **Kena: Bridge of Spirits** - `CUSA24853` - version `02.07` - `MC4`
+- **Kena: Bridge of Spirits** - `CUSA24853` - version `02.07` - `SHN`
+- **Kena: Bridge of Spirits** - `CUSA24853` - version `02.08` - `JSON`
+- **Kena: Bridge of Spirits** - `CUSA24853` - version `02.08` - `MC4`
+- **Kena: Bridge of Spirits** - `CUSA24853` - version `02.08` - `SHN`
+- **Kena: Bridge of Spirits** - `CUSA25000` - version `01.13` - `JSON`
+- **KILLALLZOMBIES** - `CUSA00856` - version `01.04` - `MC4`
+- **Killing Floor 2** - `CUSA02134` - version `01.00` - `JSON`
+- **Killing Floor 2** - `CUSA02134` - version `01.00` - `MC4`
+- **Killing Floor 2** - `CUSA02134` - version `01.00` - `SHN`
+- **Killing Floor 2** - `CUSA02134` - version `01.60` - `JSON`
+- **Killzone Shadow Fall** - `CUSA00002` - version `01.00` - `MC4`
+- **Killzone Shadow Fall** - `CUSA00191` - version `01.81` - `JSON`
+- **Killzone Shadow Fall** - `CUSA00191` - version `01.81` - `MC4`
+- **Killzone Shadow Fall** - `CUSA00191` - version `01.81` - `SHN`
+- **KILLZONE™ SHADOW FALL** - `CUSA00002` - version `01.00` - `JSON`
+- **KILLZONE™ SHADOW FALL** - `CUSA00002` - version `01.00` - `MC4`
+- **KILLZONE™ SHADOW FALL** - `CUSA00002` - version `01.00` - `SHN`
+- **KILLZONE™ SHADOW FALL** - `CUSA00002` - version `01.81` - `MC4`
+- **KILLZONE™ SHADOW FALL** - `CUSA00002` - version `01.81` - `SHN`
+- **King's Bounty II** - `CUSA26098` - version `01.07` - `JSON`
+- **Kingdom Come Deliverance Royal Edition** - `CUSA15436` - version `01.05` - `JSON`
+- **Kingdom Come Deliverance Royal Edition** - `CUSA15436` - version `01.05` - `SHN`
+- **Kingdom Come Deliverance Royal Edition** - `CUSA15436` - version `1.05` - `SHN`
+- **Kingdom Come: Deliverance** - `CUSA09682` - version `01.04` - `JSON`
+- **Kingdom Come: Deliverance** - `CUSA09682` - version `01.04` - `MC4`
+- **Kingdom Come: Deliverance** - `CUSA09682` - version `01.04` - `SHN`
+- **Kingdom Come: Deliverance Royal Edition** - `CUSA15436` - version `01.00` - `JSON`
+- **Kingdom Come: Deliverance Royal Edition** - `CUSA15436` - version `01.04` - `JSON`
+- **KINGDOM HEARTS - HD 1.5+2.5 ReMIX -** - `CUSA05786` - version `01.04` - `JSON` - `kingdom1.elf`
+- **KINGDOM HEARTS - HD 1.5+2.5 ReMIX -** - `CUSA05786` - version `01.04` - `JSON` - `kingdom2.elf`
+- **KINGDOM HEARTS - HD 1.5+2.5 ReMIX -** - `CUSA05933` - version `01.04` - `JSON` - `kingdom1.elf`
+- **KINGDOM HEARTS - HD 1.5+2.5 ReMIX -** - `CUSA05933` - version `01.04` - `JSON` - `kingdom2.elf`
+- **KINGDOM HEARTS 0.2 Birth by Sleep - A Fragmentary Passage -** - `CUSA05787` - version `01.00` - `JSON` - `kh02.elf`
+- **KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE** - `CUSA05787` - version `01.00` - `JSON` - `kh3d.elf`
+- **KINGDOM HEARTS Ⅲ** - `CUSA12025` - version `01.00` - `JSON`
+- **KINGDOM HEARTS Ⅲ** - `CUSA12025` - version `01.00` - `SHN`
+- **KINGDOM HEARTS Ⅲ** - `CUSA12025` - version `01.01` - `MC4`
+- **KINGDOM HEARTS Ⅲ** - `CUSA12025` - version `01.01` - `SHN`
+- **KINGDOM HEARTS Ⅲ** - `CUSA12025` - version `01.06` - `JSON`
+- **KINGDOM HEARTS Ⅲ** - `CUSA12025` - version `01.06` - `MC4`
+- **KINGDOM HEARTS Ⅲ** - `CUSA12025` - version `01.06` - `SHN`
+- **KINGDOM HEARTS Ⅲ** - `CUSA12025` - version `01.10` - `JSON`
+- **KINGDOM HEARTS Ⅲ** - `CUSA12025` - version `01.10` - `SHN`
+- **Kingdom Hearts: HD 1.5 + 2.5 ReMIX** - `CUSA05786` - version `01.04` - `JSON`
+- **Kingdom Hearts: HD 1.5 + 2.5 ReMIX** - `CUSA05786` - version `01.04` - `SHN`
+- **Kingdom Hearts: HD 1.5 + 2.5 ReMIX** - `CUSA05786` - version `01.04` - `SHN` - `khBBS.elf`
+- **Kingdom Hearts: HD 1.5 + 2.5 ReMIX** - `CUSA05786` - version `01.04` - `SHN` - `khRecom.elf`
+- **Kingdom Hearts: HD 1.5 + 2.5 ReMIX** - `CUSA05786` - version `01.04` - `SHN` - `kingdom2.elf`
+- **Kingdom Hearts: HD 1.5 + 2.5 ReMIX** - `CUSA05933` - version `01.00` - `SHN`
+- **Kingdom Hearts: HD 1.5 + 2.5 ReMIX** - `CUSA05933` - version `01.00` - `SHN` - `khBBS.elf`
+- **Kingdom Hearts: HD 1.5 + 2.5 ReMIX** - `CUSA05933` - version `01.00` - `SHN` - `khRecom.elf`
+- **Kingdom Hearts: HD 1.5 + 2.5 ReMIX** - `CUSA05933` - version `01.00` - `SHN` - `kingdom1.elf`
+- **Kingdom Hearts: HD 1.5 + 2.5 ReMIX** - `CUSA05933` - version `01.00` - `SHN` - `kingdom2.elf`
+- **Kingdom Hearts: HD 1.5 + 2.5 ReMIX** - `CUSA05933` - version `01.04` - `JSON`
+- **Kingdom Hearts: HD 1.5 + 2.5 ReMIX** - `CUSA05933` - version `01.04` - `SHN`
+- **Kingdom Hearts: HD 1.5 + 2.5 ReMIX** - `CUSA05933` - version `01.04` - `SHN` - `khBBS.elf`
+- **Kingdom Hearts: HD 1.5 + 2.5 ReMIX** - `CUSA05933` - version `01.04` - `SHN` - `khRecom.elf`
+- **Kingdom Hearts: HD 1.5 + 2.5 ReMIX** - `CUSA05933` - version `01.04` - `SHN` - `kingdom2.elf`
+- **Kingdom Hearts: HD 2.8 Final Chapter Prologue** - `CUSA05787` - version `01.00` - `JSON`
+- **Kingdom Hearts: HD 2.8 Final Chapter Prologue** - `CUSA05787` - version `01.00` - `MC4`
+- **Kingdom Hearts: HD 2.8 Final Chapter Prologue** - `CUSA05787` - version `01.00` - `SHN`
+- **Kingdom Hearts: HD 2.8 Final Chapter Prologue** - `CUSA05787` - version `01.00` - `SHN` - `kh3d.elf`
+- **Kingdom of Amalur: Re-Reckoning** - `CUSA17245` - version `01.12` - `JSON`
+- **Kingdoms of Amalur: Re-Reckoning** - `CUSA17245` - version `01.06` - `JSON`
+- **KNACK** - `CUSA00006` - version `01.01` - `MC4`
+- **Knack 2** - `CUSA07670` - version `01.01` - `JSON`
+- **Knack 2** - `CUSA07670` - version `01.01` - `SHN`
+- **Knack 2** - `CUSA07670` - version `01.01` - `MC4` - `game.elf`
+- **Knack 2** - `CUSA07670` - version `01.01` - `SHN` - `game.elf`
+- **Knack 2** - `CUSA08014` - version `01.01` - `JSON`
+- **Knack 2** - `CUSA08014` - version `01.01` - `SHN`
+- **KNACK 2** - `CUSA08014` - version `01.01` - `JSON` - `game.elf`
+- **Knack 2** - `CUSA08014` - version `01.01` - `MC4` - `game.elf`
+- **Knack 2** - `CUSA08014` - version `01.01` - `SHN` - `game.elf`
+- **KNACK™ 2** - `CUSA07670` - version `01.01` - `JSON` - `game.elf`
+- **Krut The Mythic Wings** - `CUSA30300` - version `01.03` - `SHN` - `2`
+- **Krut The Mythic Wings** - `CUSA30300` - version `01.03` - `JSON`
+- **Krut The Mythic Wings** - `CUSA30300` - version `01.03` - `MC4`
+- **Krut The Mythic Wings** - `CUSA30300` - version `01.03` - `SHN`
+- **Landflix Odysee** - `CUSA25931` - version `01.07` - `MC4`
+- **Landflix Odyssey** - `CUSA25931` - version `01.07` - `JSON`
+- **Landflix Odyssey** - `CUSA25931` - version `01.07` - `MC4`
+- **Landflix Odyssey** - `CUSA25931` - version `01.07` - `SHN`
+- **Lara Croft Tomb Raider-Anniversary** - `SLUS21555` - version `01.00` - `JSON`
+- **Lara Croft Tomb Raider-Anniversary** - `SLUS21555` - version `01.00` - `SHN`
+- **Lara Croft Tomb Raider-Legend** - `SLES53908` - version `01.00` - `JSON`
+- **Lara Croft Tomb Raider-Legend** - `SLES53908` - version `01.00` - `SHN`
+- **Lawn Mowing Simulator** - `CUSA29809` - version `01.02` - `JSON`
+- **LEFT ALIVE** - `CUSA11229` - version `01.03` - `JSON`
+- **LEFT ALIVE** - `CUSA11229` - version `01.03` - `SHN`
+- **Legacy of Kain Soul Reaver 1&2 Remastered** - `CUSA44836` - version `01.03` - `JSON`
+- **Legend of Mana** - `CUSA24519` - version `01.10` - `JSON`
+- **Legend of Mana** - `CUSA24519` - version `01.10` - `MC4`
+- **Legend of Mana** - `CUSA24519` - version `01.10` - `SHN`
+- **Legends of Ethernal** - `CUSA24879` - version `01.01` - `JSON`
+- **Legends of Ethernal** - `CUSA24879` - version `01.01` - `MC4`
+- **Legends of Ethernal** - `CUSA24879` - version `01.01` - `SHN`
+- **Lego - Jurassic World** - `CUSA01519` - version `01.00` - `MC4`
+- **Lego 2k Drive** - `CUSA34255` - version `01.09` - `MC4`
+- **LEGO 2K Drive** - `CUSA34255` - version `01.09` - `MC4`
+- **Lego City Undercover** - `CUSA06511` - version `01.02` - `MC4`
+- **LEGO Harry Potter Collection** - `CUSA05935` - version `01.00` - `JSON`
+- **LEGO Star Wars: The Skywalker Saga** - `CUSA13794` - version `01.09` - `JSON`
+- **LEGO® CITY UNDERCOVER** - `CUSA06511` - version `01.02` - `JSON`
+- **LEGO® CITY UNDERCOVER** - `CUSA06511` - version `01.02` - `MC4`
+- **LEGO® CITY UNDERCOVER** - `CUSA06511` - version `01.02` - `SHN`
+- **LEGO® Jurassic World™** - `CUSA01519` - version `01.00` - `JSON`
+- **LEGO® Jurassic World™** - `CUSA01519` - version `01.00` - `MC4`
+- **LEGO® Jurassic World™** - `CUSA01519` - version `01.00` - `SHN`
+- **LEGO® The Incredibles** - `CUSA09897` - version `01.03` - `JSON`
+- **Legrand Legacy Tale of the Fatebounds** - `CUSA14303` - version `01.06` - `JSON`
+- **Lies of P** - `CUSA36848` - version `01.01` - `MC4`
+- **Lies of P** - `CUSA36848` - version `01.02` - `MC4`
+- **Lies Of Pi** - `CUSA36848` - version `01.01` - `MC4`
+- **Like a Dragon Gaiden: The man who erased his name** - `CUSA43228` - version `01.10` - `MC4`
+- **Like a Dragon Infinite Wealth** - `CUSA32132` - version `01.13` - `SHN` - `2`
+- **Like a Dragon Infinite Wealth** - `CUSA32132` - version `01.13` - `JSON`
+- **Like a Dragon Infinite Wealth** - `CUSA32132` - version `01.13` - `SHN`
+- **Like a Dragon Infinite Wealth** - `CUSA32137` - version `01.13` - `SHN` - `2`
+- **Like a Dragon Infinite Wealth** - `CUSA32137` - version `01.13` - `JSON`
+- **Like a Dragon Infinite Wealth** - `CUSA32137` - version `01.13` - `SHN`
+- **Like a Dragon Infinite Wealth** - `CUSA32137` - version `01.16` - `JSON`
+- **Like a Dragon Ishin** - `CUSA32174` - version `01.01` - `JSON`
+- **Like a Dragon Ishin** - `CUSA32174` - version `01.01` - `MC4`
+- **Like a Dragon Ishin** - `CUSA32174` - version `01.01` - `SHN`
+- **Little Dragons Cafe** - `CUSA12126` - version `01.02` - `MC4`
+- **Little Dragons Café** - `CUSA12545` - version `01.02` - `JSON`
+- **Little Dragons Café** - `CUSA12545` - version `01.02` - `SHN`
+- **Little Nightmares II** - `CUSA12779` - version `01.00` - `JSON`
+- **Little Nightmares II** - `CUSA12779` - version `01.05` - `JSON`
+- **Little Witch Nobeta** - `CUSA30979` - version `01.12` - `JSON`
+- **Lord of the Rings Gollum** - `CUSA33616` - version `01.03` - `MC4`
+- **Lord of the Rings, The - The Return of the King** - `SLUS20770` - version `01.00` - `JSON`
+- **Lord of the Rings, The - The Return of the King** - `SLUS20770` - version `01.00` - `SHN`
+- **Lords of the Fallen** - `CUSA00369` - version `01.03` - `JSON`
+- **Lords of the Fallen** - `CUSA00369` - version `01.03` - `MC4`
+- **Lords of the Fallen** - `CUSA00369` - version `01.03` - `SHN`
+- **Lords of the Fallen** - `CUSA00377` - version `01.03` - `JSON`
+- **Lords of the Fallen** - `CUSA00377` - version `01.03` - `MC4`
+- **Lords of the Fallen** - `CUSA00377` - version `01.03` - `SHN`
+- **Lords of the Fallen** - `CUSA02468` - version `01.00` - `MC4`
+- **Lost Artifacts** - `CUSA14446` - version `01.00` - `MC4`
+- **Lost Artifacts Soulstone** - `CUSA13717` - version `01.00` - `MC4`
+- **Lost Artifacts Time Machine** - `CUSA14425` - version `01.01` - `MC4`
+- **Lost Judgment** - `CUSA28186` - version `01.04` - `JSON`
+- **LOST JUDGMENT：裁かれざる記憶** - `CUSA28183` - version `01.11` - `JSON`
+- **Lumberjack's Dynasty** - `CUSA32418` - version `01.05` - `JSON`
+- **Lumberjack's Dynasty** - `CUSA32418` - version `01.05` - `MC4`
+- **Lumberjack's Dynasty** - `CUSA32418` - version `01.05` - `SHN`
+- **Lumberjacks Dynasty** - `CUSA32418` - version `01.05` - `MC4`
+- **Mad Max** - `CUSA00054` - version `01.00` - `JSON`
+- **Mad Max** - `CUSA00054` - version `01.00` - `MC4`
+- **Mad Max** - `CUSA00054` - version `01.00` - `SHN`
+- **Mad Max** - `CUSA00054` - version `01.04` - `JSON`
+- **Mad Max** - `CUSA00054` - version `01.04` - `MC4`
+- **Mad Max** - `CUSA00054` - version `01.04` - `SHN`
+- **Mad Max** - `CUSA00103` - version `01.04` - `JSON`
+- **Mad Max** - `CUSA00103` - version `01.04` - `MC4`
+- **Mad Max** - `CUSA00103` - version `01.04` - `SHN`
+- **Mafia 3** - `CUSA03617` - version `01.09` - `MC4`
+- **Mafia Definitive Edition** - `CUSA18100` - version `01.03` - `JSON`
+- **Mafia Definitive Edition** - `CUSA18100` - version `01.03` - `SHN`
+- **Mafia II: Definitive Edition** - `CUSA16990` - version `01.02` - `JSON`
+- **Mafia II: Definitive Edition** - `CUSA17761` - version `01.02` - `JSON`
+- **Mafia III** - `CUSA03617` - version `01.00` - `JSON`
+- **Mafia III** - `CUSA03617` - version `01.00` - `MC4`
+- **Mafia III** - `CUSA03617` - version `01.09` - `JSON`
+- **Mafia III: Definitive Edition** - `CUSA03617` - version `01.00` - `MC4`
+- **Mafia III: Definitive Edition** - `CUSA03617` - version `01.00` - `SHN`
+- **Mafia III: Definitive Edition** - `CUSA03617` - version `01.09` - `MC4`
+- **Mafia III: Definitive Edition** - `CUSA03617` - version `01.09` - `SHN`
+- **Mafia III: Definitive Edition** - `CUSA03617` - version `01.12` - `JSON`
+- **Maid of Sker** - `CUSA14939` - version `01.09` - `MC4`
+- **Maneater** - `CUSA14519` - version `01.05` - `JSON`
+- **Maneater** - `CUSA14519` - version `01.13` - `JSON`
+- **Maneater** - `CUSA14538` - version `01.00` - `JSON`
+- **Maneater** - `CUSA14538` - version `01.13` - `JSON`
+- **Marsupilami Hoobadventure** - `CUSA27816` - version `01.01` - `JSON`
+- **Marsupilami Hoobadventure** - `CUSA27816` - version `01.01` - `MC4`
+- **Marsupilami Hoobadventure** - `CUSA27816` - version `01.01` - `SHN`
+- **Marsupilami Hoobadventure** - `CUSA27816` - version `01.02` - `MC4`
+- **Marsupilami Hoobadventure** - `CUSA27816` - version `01.02` - `SHN`
+- **Marvel Spiderman** - `CUSA11993` - version `01.19` - `MC4`
+- **Marvel Ultimate Alliance** - `CUSA04787` - version `01.01` - `MC4`
+- **Marvel Ultimate Alliance 2** - `CUSA04788` - version `01.01` - `JSON`
+- **Marvel Ultimate Alliance 2** - `CUSA04788` - version `01.01` - `MC4`
+- **Marvel Ultimate Alliance 2** - `CUSA04788` - version `01.01` - `SHN`
+- **MARVEL VS. CAPCOM: INFINITE** - `CUSA06400` - version `01.06` - `JSON`
+- **Marvel: Ultimate Alliance** - `CUSA04787` - version `01.01` - `JSON`
+- **Marvel: Ultimate Alliance** - `CUSA04787` - version `01.01` - `MC4`
+- **Marvel: Ultimate Alliance** - `CUSA04787` - version `01.01` - `SHN`
+- **Marvel's Avengers** - `CUSA14026` - version `01.12` - `JSON`
+- **Marvel's Avengers** - `CUSA14026` - version `01.78` - `JSON`
+- **Marvel's Spider-Man** - `CUSA02299` - version `01.19` - `MC4`
+- **Marvel's Spider-Man** - `CUSA11993` - version `01.01` - `MC4`
+- **Marvel's Spider-Man** - `CUSA11993` - version `01.01` - `SHN`
+- **Marvel's Spider-Man** - `CUSA11993` - version `01.17` - `MC4`
+- **Marvel's Spider-Man** - `CUSA11993` - version `01.17` - `SHN`
+- **Marvel's Spider-Man** - `CUSA11993` - version `01.19` - `JSON`
+- **Marvel's Spider-Man** - `CUSA11993` - version `01.19` - `MC4`
+- **Marvel's Spider-Man** - `CUSA11993` - version `01.19` - `SHN`
+- **Marvel's Spider-Man** - `CUSA11994` - version `01.19` - `JSON`
+- **Marvel's Spider-Man** - `CUSA11995` - version `01.17` - `JSON`
+- **Marvel's Spider-Man** - `CUSA11995` - version `01.17` - `SHN`
+- **Marvel's Spider-Man** - `CUSA11995` - version `01.19` - `JSON`
+- **Marvel's Spider-Man: Miles Morales** - `CUSA17776` - version `01.01` - `MC4`
+- **Marvel's Spider-Man: Miles Morales** - `CUSA17776` - version `01.01` - `SHN`
+- **Marvel's Spider-Man: Miles Morales** - `CUSA17776` - version `01.09` - `JSON`
+- **Marvel's Spider-Man: Miles Morales** - `CUSA17776` - version `01.09` - `MC4`
+- **Marvel's Spider-Man: Miles Morales** - `CUSA17776` - version `01.09` - `SHN`
+- **Marvel's Spider-Man: Miles Morales** - `CUSA17776` - version `01.14` - `SHN`
+- **Marvel's Spider-Man: Miles Morales** - `CUSA20177` - version `01.09` - `JSON`
+- **Marvels Avengers** - `CUSA14030` - version `01.55` - `JSON`
+- **Marvels Guardians of the Galaxy** - `CUSA24103` - version `01.05` - `JSON`
+- **Marvels Spider-Man** - `CUSA11993` - version `01.01` - `JSON`
+- **Marvels Spider-Man** - `CUSA11993` - version `01.17` - `JSON`
+- **Marvels Spider-Man: Miles Morales** - `CUSA17722` - version `01.00` - `JSON`
+- **Marvels Spider-Man: Miles Morales** - `CUSA17722` - version `01.00` - `SHN`
+- **Marvels Spider-Man: Miles Morales** - `CUSA17722` - version `01.01` - `JSON`
+- **Marvels Spider-Man: Miles Morales** - `CUSA17722` - version `01.09` - `MC4`
+- **Marvels Spider-Man: Miles Morales** - `CUSA17722` - version `01.09` - `SHN`
+- **Marvels Spider-Man: Miles Morales** - `CUSA17776` - version `01.01` - `JSON`
+- **Mass Effect - Legendary Edition** - `CUSA19500` - version `01.03` - `SHN`
+- **Mass Effect - Legendary Edition** - `CUSA19500` - version `01.03` - `JSON` - `LTCG-BioGame.elf`
+- **Mass Effect - Legendary Edition** - `CUSA19500` - version `01.03` - `SHN` - `LTCG-BioGame.elf`
+- **Mass Effect - Legendary Edition** - `CUSA19515` - version `01.03` - `JSON` - `LTCG-BioGame.elf`
+- **Mass Effect Andromeda** - `CUSA02491` - version `01.00` - `MC4`
+- **Mass Effect: Legendary Edition** - `CUSA19515` - version `01.03` - `JSON`
+- **Mass Effect: Legendary Edition** - `CUSA19515` - version `01.03` - `SHN`
+- **Mass Effect: Legendary Edition** - `CUSA19515` - version `01.03` - `SHN` - `LTCG-BioGame.elf`
+- **Mass Effect™ 1 Legendary Edition** - `CUSA19515` - version `01.03` - `JSON` - `LTCG-BioGame.elf`
+- **Mass Effect™: Andromeda** - `CUSA02491` - version `01.00` - `JSON`
+- **Mass Effect™: Andromeda** - `CUSA02491` - version `01.00` - `MC4`
+- **Mass Effect™: Andromeda** - `CUSA02491` - version `01.00` - `SHN`
+- **Mass Effect™: Andromeda** - `CUSA02491` - version `01.10` - `MC4`
+- **Mass Effect™: Andromeda** - `CUSA02491` - version `01.10` - `SHN`
+- **Matterfall** - `CUSA02475` - version `01.00` - `MC4`
+- **Matterfall™** - `CUSA02475` - version `01.00` - `MC4`
+- **Matterfall™** - `CUSA02475` - version `01.00` - `SHN`
+- **Matterfall™** - `CUSA02475` - version `01.01` - `JSON`
+- **Max and the book of chaos** - `CUSA20470` - version `01.00` - `MC4`
+- **MediEvil** - `CUSA12982` - version `01.02` - `JSON`
+- **MediEvil** - `SCUS94227` - version `01.00` - `JSON`
+- **MediEvil** - `SCUS94227` - version `01.00` - `SHN`
+- **Mega Man 11** - `CUSA10738` - version `01.00` - `JSON`
+- **Mega Man 8** - `SLES01064` - version `01.00` - `JSON`
+- **Mega Man 8** - `SLES01064` - version `01.00` - `SHN`
+- **Mega Man Battle Network Legacy Collection** - `CUSA31426` - version `01.02` - `JSON`
+- **Mega Man Battle Network Legacy Collection** - `CUSA31426` - version `01.02` - `MC4`
+- **Mega Man Battle Network Legacy Collection** - `CUSA31426` - version `01.02` - `SHN`
+- **Mega Man Battle Network Legacy Collection** - `CUSA31429` - version `01.02` - `JSON`
+- **Mega Man Battle Network Legacy Collection** - `CUSA31429` - version `01.02` - `MC4`
+- **Mega Man Battle Network Legacy Collection** - `CUSA31429` - version `01.02` - `SHN`
+- **Mega Man Battle Network Legacy Collection** - `CUSA31429` - version `01.20` - `MC4`
+- **Mega Man Battle Network Legacy Collection** - `CUSA31429` - version `01.20` - `SHN`
+- **Mega Man Battle Network Legacy Collection Vol. 1** - `CUSA31426` - version `01.02` - `MC4`
+- **Mega Man Battle Network Legacy Collection Vol. 2** - `CUSA31429` - version `01.02` - `MC4`
+- **Mega Man X3** - `SLES00503` - version `01.00` - `JSON`
+- **Mega Man X3** - `SLES00503` - version `01.00` - `SHN`
+- **Mega Man X5** - `SLUS01334` - version `01.00` - `JSON`
+- **Mega Man X5** - `SLUS01334` - version `01.00` - `SHN`
+- **Mega Man X6** - `SLUS01395` - version `01.00` - `JSON`
+- **Mega Man X6** - `SLUS01395` - version `01.00` - `SHN`
+- **Mega Man X7** - `SLUS20487` - version `01.00` - `JSON`
+- **Mega-Man-X8** - `SLUS20960` - version `01.00` - `JSON`
+- **Mega-Man-X8** - `SLUS20960` - version `01.00` - `SHN`
+- **Metal Gear Solid - Master Collection Version** - `CUSA41300` - version `01.02` - `SHN`
+- **Metal Gear Solid - Master Collection Version** - `CUSA41300` - version `01.03` - `JSON`
+- **Metal Gear Solid 2_Sons of Liberty** - `CUSA41303` - version `01.40` - `JSON`
+- **Metal Gear Solid 2_Sons of Liberty** - `CUSA41303` - version `01.40` - `SHN`
+- **Metal Gear Solid 3 Snake Eater Master Collection** - `CUSA41305` - version `01.40` - `JSON`
+- **Metal Gear Solid 3 Snake Eater Master Collection** - `CUSA41305` - version `01.40` - `SHN`
+- **Metal Gear Solid V - The Definitive Experience** - `CUSA05597` - version `01.05` - `MC4`
+- **Metal Gear Solid V - The Phantom Pain** - `CUSA01140` - version `01.16` - `MC4`
+- **Metal Gear Solid V zero** - `CUSA05662` - version `01.05` - `MC4` - `gz.elf`
+- **Metal Gear Solid V: Phantom Pain** - `CUSA01140` - version `01.16` - `JSON`
+- **Metal Gear Solid V: Phantom Pain** - `CUSA01140` - version `01.16` - `MC4`
+- **Metal Gear Solid V: Phantom Pain** - `CUSA01140` - version `01.16` - `SHN`
+- **Metal Gear Solid V: Phantom Pain** - `CUSA01154` - version `01.12` - `JSON`
+- **Metal Gear Solid V: Phantom Pain** - `CUSA01154` - version `01.12` - `MC4`
+- **Metal Gear Solid V: Phantom Pain** - `CUSA05597` - version `01.00` - `JSON`
+- **Metal Gear Solid V: Phantom Pain** - `CUSA05597` - version `01.00` - `MC4`
+- **METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE** - `CUSA05597` - version `01.00` - `JSON`
+- **METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE** - `CUSA05597` - version `01.00` - `MC4`
+- **METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE** - `CUSA05597` - version `01.00` - `SHN`
+- **METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE** - `CUSA05597` - version `01.05` - `JSON`
+- **METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE** - `CUSA05597` - version `01.05` - `MC4`
+- **METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE** - `CUSA05597` - version `01.05` - `SHN`
+- **METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE** - `CUSA05597` - version `01.09` - `JSON`
+- **METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE** - `CUSA05597` - version `01.09` - `JSON` - `gz.elf`
+- **METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE** - `CUSA05597` - version `01.11` - `JSON`
+- **METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE** - `CUSA05597` - version `01.11` - `SHN`
+- **METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE** - `CUSA05610` - version `01.11` - `JSON`
+- **Metal Gear Solid V: The Definitive Experience** - `CUSA05662` - version `01.05` - `JSON`
+- **Metal Gear Solid V: The Definitive Experience** - `CUSA05662` - version `01.05` - `SHN`
+- **METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE** - `CUSA05662` - version `01.05` - `JSON` - `gz.elf`
+- **Metal Gear Solid V: The Definitive Experience** - `CUSA05662` - version `01.05` - `MC4` - `gz.elf`
+- **Metal Gear Solid V: The Definitive Experience** - `CUSA05662` - version `01.05` - `SHN` - `gz.elf`
+- **Metal Gear Solid V: The Phantom Pain** - `CUSA01154` - version `01.12` - `MC4`
+- **Metal Gear Solid V: The Phantom Pain** - `CUSA01154` - version `01.12` - `SHN`
+- **Metal Gear Solid V: The Phantom Pain** - `CUSA01154` - version `01.16` - `JSON`
+- **Metal Gear Solid: Master Collection Vol. 1** - `CUSA41300` - version `01.02` - `JSON`
+- **Metal Slug - Super Vehicle-001** - `SLPS00950` - version `01.00` - `JSON`
+- **Metal Slug - Super Vehicle-001** - `SLPS00950` - version `01.00` - `SHN`
+- **Metal Slug 4** - `SLES53380` - version `01.00` - `JSON`
+- **Metal Slug 4** - `SLPS66666` - version `01.00` - `JSON`
+- **Metaphor ReFantazio** - `CUSA23631` - version `01.02` - `JSON`
+- **Metaphor ReFantazio** - `CUSA23631` - version `01.02` - `SHN`
+- **Metaphor ReFantazio** - `CUSA23631` - version `01.03` - `JSON`
+- **Metaphor ReFantazio** - `CUSA23631` - version `01.03` - `SHN`
+- **Metaphor ReFantazio** - `CUSA47037` - version `01.02` - `JSON`
+- **Metaphor ReFantazio** - `CUSA47037` - version `01.02` - `SHN`
+- **Metaphor ReFantazio** - `CUSA47037` - version `01.03` - `JSON`
+- **Metaphor ReFantazio** - `CUSA47037` - version `01.03` - `SHN`
+- **Metaphor ReFantazio** - `CUSA47038` - version `01.02` - `JSON`
+- **Metaphor ReFantazio** - `CUSA47038` - version `01.02` - `SHN`
+- **Metaphor ReFantazio** - `CUSA47038` - version `01.03` - `JSON`
+- **Metaphor ReFantazio** - `CUSA47038` - version `01.03` - `SHN`
+- **Metro Exodus** - `CUSA11407` - version `01.07` - `JSON`
+- **Metro Exodus** - `CUSA11407` - version `01.08` - `JSON`
+- **Metro Exodus** - `CUSA11407` - version `01.08` - `MC4`
+- **Metro Exodus** - `CUSA11407` - version `01.08` - `SHN`
+- **Metro Exodus** - `CUSA11407` - version `01.09` - `MC4`
+- **Metro Exodus** - `CUSA11407` - version `01.09` - `SHN`
+- **Metro Exodus** - `CUSA11408` - version `01.00` - `JSON`
+- **Metro Exodus 1.08 Backport 5.05 + 2 DLC** - `CUSA11407` - version `01.08` - `MC4`
+- **Metro Redux** - `CUSA00593` - version `01.00` - `MC4`
+- **Metro Redux** - `CUSA00593` - version `01.01` - `JSON`
+- **Metro Redux** - `CUSA00593` - version `01.01` - `MC4`
+- **Metro Redux** - `CUSA00593` - version `01.01` - `SHN`
+- **Metro Redux** - `CUSA00683` - version `01.00` - `JSON`
+- **Metro Redux** - `CUSA00683` - version `01.00` - `MC4`
+- **Metro Redux** - `CUSA00683` - version `01.00` - `SHN`
+- **Metro Redux** - `CUSA00683` - version `01.02` - `JSON`
+- **Metro Redux** - `CUSA00683` - version `01.02` - `SHN`
+- **Mickey Storm and the Cursed Mask** - `CUSA25924` - version `01.02` - `JSON`
+- **Mickey Storm and the Cursed Mask** - `CUSA25924` - version `01.02` - `MC4`
+- **Mickey Storm and the Cursed Mask** - `CUSA25924` - version `01.02` - `SHN`
+- **Mickey's Wild Adventure** - `SCUS00163` - version `01.00` - `JSON`
+- **Mickey's Wild Adventure** - `SCUS00163` - version `01.00` - `MC4`
+- **Mickey's Wild Adventure** - `SCUS00163` - version `01.00` - `SHN`
+- **Middle Earth shadow war** - `CUSA04402` - version `01.18` - `MC4`
+- **Middle-Earth: Shadow of Mordor** - `CUSA02152` - version `01.00` - `MC4`
+- **Middle-Earth: Shadow of Mordor** - `CUSA02152` - version `01.00` - `SHN`
+- **Middle-Earth: Shadow of Mordor** - `CUSA02152` - version `01.03` - `JSON`
+- **Middle-Earth: Shadow of Mordor** - `CUSA02152` - version `01.03` - `MC4`
+- **Middle-Earth: Shadow of Mordor** - `CUSA02152` - version `01.03` - `SHN`
+- **Middle-Earth: Shadow of War** - `CUSA04402` - version `01.11` - `JSON`
+- **Middle-earth?: Shadow of War?** - `CUSA04439` - version `01.18` - `MC4`
+- **Middle-earthâ„¢: Shadow of War** - `CUSA04408` - version `1.18` - `MC4`
+- **Middle-earth™: Shadow of Mordor™ - Game of the Year Edition** - `CUSA02152` - version `01.00` - `JSON`
+- **Middle-earth™: Shadow of Mordor™ - Game of the Year Edition** - `CUSA02152` - version `01.03` - `JSON`
+- **Middle-earth™: Shadow of War™** - `CUSA04402` - version `01.11` - `JSON`
+- **Middle-earth™: Shadow of War™** - `CUSA04402` - version `01.11` - `MC4`
+- **Middle-earth™: Shadow of War™** - `CUSA04402` - version `01.11` - `SHN`
+- **Middle-earth™: Shadow of War™** - `CUSA04402` - version `01.18` - `JSON`
+- **Middle-earth™: Shadow of War™** - `CUSA04402` - version `01.18` - `MC4`
+- **Middle-earth™: Shadow of War™** - `CUSA04402` - version `01.18` - `SHN`
+- **Minecraft** - `CUSA00265` - version `01.00` - `MC4`
+- **Minecraft** - `CUSA00265` - version `01.00` - `SHN`
+- **Minecraft** - `CUSA00265` - version `01.95` - `JSON`
+- **Minecraft** - `CUSA00265` - version `02.06` - `JSON`
+- **Minecraft** - `CUSA00265` - version `02.35` - `JSON`
+- **Minecraft** - `CUSA00265` - version `02.64` - `JSON`
+- **Minecraft** - `CUSA00265` - version `02.64` - `SHN`
+- **Minecraft** - `CUSA00283` - version `01.95` - `JSON`
+- **Minecraft** - `CUSA00283` - version `02.06` - `JSON`
+- **Minecraft** - `CUSA00283` - version `02.35` - `JSON`
+- **Minecraft** - `CUSA00283` - version `02.64` - `JSON`
+- **Minecraft** - `CUSA00744` - version `01.95` - `JSON`
+- **Minecraft** - `CUSA00744` - version `02.06` - `JSON`
+- **Minecraft** - `CUSA00744` - version `02.35` - `JSON`
+- **Minecraft** - `CUSA00744` - version `02.64` - `JSON`
+- **Minecraft Dungeons** - `CUSA18779` - version `01.01` - `JSON`
+- **Minecraft Dungeons** - `CUSA18797` - version `01.20` - `JSON`
+- **Minecraft: PlayStation®4 Edition** - `CUSA00265` - version `01.00` - `JSON`
+- **Minoria** - `CUSA19057` - version `01.04` - `JSON`
+- **Minoria** - `CUSA19057` - version `01.04` - `MC4`
+- **Minoria** - `CUSA19057` - version `01.04` - `SHN`
+- **Miraculous - Rise of the Sphinx** - `CUSA29735` - version `01.03` - `MC4`
+- **Miraculous: Rise of the Sphinx** - `CUSA29735` - version `01.03` - `JSON`
+- **Miraculous: Rise of the Sphinx** - `CUSA29735` - version `01.03` - `MC4`
+- **Miraculous: Rise of the Sphinx** - `CUSA29735` - version `01.03` - `SHN`
+- **Mirrors Edge Catalyst** - `CUSA01499` - version `01.00` - `JSON`
+- **Mirrors Edge Catalyst** - `CUSA01499` - version `01.00` - `MC4`
+- **Mirrors Edge Catalyst** - `CUSA01499` - version `01.00` - `SHN`
+- **Mitsurugi Kamae Hikae** - `CUSA02166` - version `01.00` - `MC4`
+- **MLB® The Show™ 17** - `CUSA06387` - version `01.03` - `JSON`
+- **MLB® The Show™ 17** - `CUSA06387` - version `01.03` - `MC4`
+- **MLB® The Show™ 17** - `CUSA06387` - version `01.03` - `SHN`
+- **MLB® The Show™ 17** - `CUSA06387` - version `01.13` - `MC4`
+- **MLB® The Show™ 17** - `CUSA06387` - version `01.13` - `SHN`
+- **MLB® The Show™ 18** - `CUSA09450` - version `01.00` - `JSON`
+- **MLB® The Show™ 18** - `CUSA09450` - version `01.00` - `MC4`
+- **MLB® The Show™ 18** - `CUSA09450` - version `01.00` - `SHN`
+- **MLB® The Show™ 18** - `CUSA09450` - version `01.16` - `JSON`
+- **Mobile Light Force** - `SLUS01525` - version `01.00` - `JSON`
+- **Mobile Light Force** - `SLUS01525` - version `01.00` - `SHN`
+- **MOBILE SUIT GUNDAM EXTREME VS. MAXIBOOST ON** - `CUSA18683` - version `01.15` - `JSON`
+- **MONKEY KING: HERO IS BACK** - `CUSA16298` - version `01.02` - `JSON`
+- **MONOPOLY PLUS** - `CUSA00773` - version `01.01` - `JSON`
+- **Monster Boy and the Cursed Kingdom** - `CUSA05011` - version `01.04` - `JSON`
+- **Monster Energy Supercross - The Official Videogame 5** - `CUSA28535` - version `01.13` - `JSON`
+- **Monster Energy Supercross - The Official Videogame 5** - `CUSA28535` - version `01.13` - `MC4`
+- **Monster Energy Supercross - The Official Videogame 5** - `CUSA28535` - version `01.13` - `SHN`
+- **Monster Hunter Rise Sunbreak** - `CUSA34118` - version `16.01` - `JSON`
+- **Monster Hunter Rise Sunbreak** - `CUSA34118` - version `16.01` - `SHN`
+- **Monster Hunter Rise Sunbreak** - `CUSA34119` - version `16.01` - `JSON`
+- **Monster Hunter Rise Sunbreak** - `CUSA34119` - version `16.01` - `MC4`
+- **Monster Hunter Rise Sunbreak** - `CUSA34119` - version `16.01` - `SHN`
+- **Monster Hunter Rise Sunbreak** - `CUSA34120` - version `16.01` - `JSON`
+- **Monster Hunter Rise Sunbreak** - `CUSA34120` - version `16.01` - `SHN`
+- **Monster Hunter Rise Sunbreak** - `CUSA34121` - version `16.01` - `JSON`
+- **Monster Hunter Rise Sunbreak** - `CUSA34121` - version `16.01` - `SHN`
+- **Monster Hunter Rise Sunbreak** - `CUSA40262` - version `16.01` - `JSON`
+- **Monster Hunter Rise Sunbreak** - `CUSA40262` - version `16.01` - `SHN`
+- **Monster Hunter Stories** - `CUSA43544` - version `01.10` - `JSON`
+- **MONSTER HUNTER WORLD** - `CUSA07708` - version `15.11` - `MC4`
+- **Monster Hunter World Iceborne** - `CUSA06027` - version `15.21` - `JSON`
+- **Monster Hunter World Iceborne** - `CUSA06027` - version `15.21` - `SHN`
+- **Monster Hunter World Iceborne** - `CUSA07708` - version `02.00` - `MC4`
+- **Monster Hunter World Iceborne** - `CUSA07708` - version `02.00` - `SHN`
+- **Monster Hunter World Iceborne** - `CUSA07708` - version `11.01` - `SHN`
+- **Monster Hunter World Iceborne** - `CUSA07708` - version `15.11` - `MC4`
+- **Monster Hunter World Iceborne** - `CUSA07708` - version `15.11` - `SHN`
+- **Monster Hunter World Iceborne** - `CUSA07708` - version `15.21` - `JSON`
+- **Monster Hunter World Iceborne** - `CUSA07708` - version `15.21` - `SHN`
+- **Monster Hunter World Iceborne** - `CUSA07713` - version `15.21` - `JSON`
+- **Monster Hunter World Iceborne** - `CUSA07713` - version `15.21` - `SHN`
+- **Monster Hunter World Iceborne** - `CUSA09554` - version `15.21` - `JSON`
+- **Monster Hunter World Iceborne** - `CUSA09554` - version `15.21` - `SHN`
+- **Monster Hunter World: Iceborne** - `CUSA07708` - version `11.01` - `JSON`
+- **Monster Hunter World: Iceborne** - `CUSA07708` - version `15.02` - `JSON`
+- **Monster Hunter:World** - `CUSA07708` - version `02.00` - `JSON`
+- **MOONSCARS** - `CUSA35014` - version `01.02` - `JSON`
+- **Moonscars** - `CUSA35014` - version `01.02` - `SHN`
+- **Moonscars** - `CUSA35014` - version `01.04` - `JSON`
+- **Moonscars** - `CUSA35014` - version `01.04` - `MC4`
+- **Moonscars** - `CUSA35014` - version `01.04` - `SHN`
+- **Mortal Kombat 11** - `CUSA11379` - version `01.01` - `SHN`
+- **Mortal Kombat 11** - `CUSA11379` - version `01.11` - `JSON`
+- **Mortal Kombat 11** - `CUSA11379` - version `01.11` - `SHN`
+- **Mortal Kombat 11** - `CUSA11379` - version `01.24` - `JSON`
+- **Mortal Kombat 11** - `CUSA11379` - version `01.28` - `JSON`
+- **Mortal Kombat 11** - `CUSA11379` - version `01.30` - `MC4`
+- **Mortal Kombat 11** - `CUSA11379` - version `01.30` - `SHN`
+- **Mortal Kombat 11** - `CUSA11395` - version `01.24` - `JSON`
+- **mortal kombat Shaolin Monks** - `SLUS21087` - version `01.00` - `JSON`
+- **Mortal Kombat XL** - `CUSA03589` - version `01.06` - `MC4` - `2`
+- **Mortal Kombat XL** - `CUSA03589` - version `01.06` - `JSON`
+- **Mortal Kombat XL** - `CUSA03589` - version `01.06` - `MC4`
+- **Mortal Kombat XL** - `CUSA03589` - version `01.06` - `SHN`
+- **Mortal Kombat XL** - `CUSA03679` - version `01.00` - `JSON`
+- **Mortal Kombat XL** - `CUSA03679` - version `01.00` - `MC4`
+- **Mortal Kombat XL** - `CUSA03679` - version `01.00` - `SHN`
+- **Mortal Kombat XL** - `CUSA03679` - version `01.04` - `JSON`
+- **Mortal Kombat XL** - `CUSA03679` - version `01.04` - `MC4`
+- **Mortal Kombat XL** - `CUSA03679` - version `01.04` - `SHN`
+- **Mortal Kombat XL** - `CUSA03679` - version `01.05` - `SHN` - `2`
+- **Mortal Kombat XL** - `CUSA03679` - version `01.05` - `JSON`
+- **Mortal Kombat XL** - `CUSA03679` - version `01.05` - `SHN`
+- **Mortal Shell** - `CUSA20133` - version `01.08` - `JSON`
+- **Mortal Shell** - `CUSA20133` - version `01.12` - `SHN`
+- **mortal-kombat-4** - `SLUS00605` - version `01.00` - `JSON`
+- **mortal-kombat-4** - `SLUS00605` - version `01.00` - `SHN`
+- **MotoGP™14** - `CUSA00318` - version `01.01` - `JSON`
+- **MotoGP™15** - `CUSA02041` - version `01.02` - `JSON`
+- **MotoGP™17** - `CUSA07865` - version `01.00` - `JSON`
+- **Mount & Blade: Warband** - `CUSA03263` - version `01.03` - `JSON`
+- **Moving Out** - `CUSA17675` - version `01.00` - `JSON`
+- **Moving Out** - `CUSA17675` - version `01.00` - `SHN`
+- **Musashi Samurai Legend** - `SLUS20983` - version `01.00` - `JSON`
+- **Musashi Samurai Legend** - `SLUS20983` - version `01.00` - `SHN`
+- **Mushihime-sama** - `SLPM66056` - version `01.00` - `JSON`
+- **Mushihime-sama** - `SLPM66056` - version `01.00` - `SHN`
+- **My Friend Pedro - Blood Bullets Bananas** - `CUSA18145` - version `01.01` - `JSON`
+- **My Name is Mayo 2** - `CUSA25283` - version `01.02` - `JSON`
+- **My Universe - Puppies and Kittens** - `CUSA29358` - version `01.03` - `JSON`
+- **Narcos: Rise of the Cartels** - `CUSA13757` - version `01.03` - `JSON`
+- **Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto** - `CUSA06381` - version `01.02` - `MC4`
+- **NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 ROAD TO BORUTO** - `CUSA06291` - version `01.02` - `JSON`
+- **NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 ROAD TO BORUTO** - `CUSA06381` - version `01.02` - `JSON`
+- **NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 ROAD TO BORUTO** - `CUSA06381` - version `01.02` - `MC4`
+- **NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 ROAD TO BORUTO** - `CUSA06381` - version `01.02` - `SHN`
+- **NBA 2K Playgrounds 2** - `CUSA13619` - version `01.20` - `JSON`
+- **NBA 2K17** - `CUSA05040` - version `01.00` - `JSON`
+- **NBA 2K17** - `CUSA05040` - version `01.00` - `MC4`
+- **NBA 2K17** - `CUSA05040` - version `01.00` - `SHN`
+- **NBA 2K17** - `CUSA05040` - version `01.12` - `JSON`
+- **NBA 2K17** - `CUSA05040` - version `01.12` - `MC4`
+- **NBA 2K17** - `CUSA05040` - version `01.12` - `SHN`
+- **NBA 2K18** - `CUSA08500` - version `01.10` - `JSON`
+- **NBA 2K18** - `CUSA08500` - version `01.10` - `MC4`
+- **NBA 2K18** - `CUSA08500` - version `01.10` - `SHN`
+- **NBA 2K19** - `CUSA12476` - version `01.10` - `JSON`
+- **NBA Live 18** - `CUSA06321` - version `01.11` - `JSON`
+- **NBA Live 18** - `CUSA06321` - version `01.11` - `MC4`
+- **NBA Live 18** - `CUSA06321` - version `01.11` - `SHN`
+- **Necromunda : Hired Gun** - `CUSA25453` - version `01.08` - `JSON`
+- **Necromunda Hired Gun** - `CUSA25567` - version `01.09` - `JSON`
+- **Necromunda Hired Gun** - `CUSA25567` - version `01.09` - `MC4`
+- **Necromunda Hired Gun** - `CUSA25567` - version `01.09` - `SHN`
+- **Need for Speed Payback** - `CUSA05986` - version `01.00` - `JSON`
+- **Need for Speed Payback** - `CUSA05986` - version `01.08` - `MC4`
+- **Need for Speed™ Heat** - `CUSA15090` - version `01.00` - `JSON`
+- **Need for Speed™ Heat** - `CUSA15090` - version `01.06` - `JSON`
+- **Need for Speed™ Heat** - `CUSA15090` - version `01.07` - `JSON`
+- **Need for Speed™ Heat** - `CUSA15090` - version `01.07` - `SHN`
+- **Need for Speed™ Hot Pursuit Remastered** - `CUSA23265` - version `01.01` - `JSON`
+- **Need for Speed™ Payback** - `CUSA05986` - version `01.00` - `SHN`
+- **Need for Speed™ Payback** - `CUSA05986` - version `01.08` - `JSON`
+- **Need for Speed™ Payback** - `CUSA05986` - version `01.08` - `MC4`
+- **Need for Speed™ Payback** - `CUSA05986` - version `01.08` - `SHN`
+- **Need for Speed™ Payback** - `CUSA05986` - version `01.10` - `JSON`
+- **Need for Speed™ Payback** - `CUSA05986` - version `01.10` - `SHN`
+- **Need for Speed™ Rivals** - `CUSA00168` - version `01.04` - `JSON`
+- **Need for Speed™ Rivals** - `CUSA00168` - version `01.04` - `MC4`
+- **Need for Speed™ Rivals** - `CUSA00168` - version `01.04` - `SHN`
+- **Nefarious** - `CUSA12594` - version `01.02` - `MC4`
+- **Neo : The World Ends With You** - `CUSA26377` - version `01.02` - `JSON`
+- **Neon Abyss** - `CUSA18917` - version `01.07` - `JSON`
+- **Neptunia x SENRAN KAGURA - Ninja Wars** - `CUSA29604` - version `01.02` - `JSON`
+- **Neptunia x SENRAN KAGURA - Ninja Wars** - `CUSA29604` - version `01.02` - `MC4`
+- **Neptunia x SENRAN KAGURA - Ninja Wars** - `CUSA29604` - version `01.02` - `SHN`
+- **neptunia x senran kagura ninja wars** - `CUSA28812` - version `01.02` - `MC4`
+- **neptunia x senran kagura ninja wars** - `CUSA29604` - version `01.02` - `MC4`
+- **Neptunia x SENRAN KAGURA: Ninja Wars** - `CUSA28812` - version `01.02` - `JSON`
+- **Neptunia x SENRAN KAGURA: Ninja Wars** - `CUSA28812` - version `01.02` - `MC4`
+- **Neptunia x SENRAN KAGURA: Ninja Wars** - `CUSA28812` - version `01.02` - `SHN`
+- **New Super Luckys Tale** - `CUSA20302` - version `01.00` - `JSON`
+- **Nex Machina** - `CUSA05588` - version `01.06` - `JSON`
+- **NHL™ 21** - `CUSA18182` - version `01.00` - `JSON`
+- **Ni no Kuni Wrath of the White Witch™ Remastered** - `CUSA13079` - version `01.00` - `JSON`
+- **Ni no Kuni™ II: Revenant Kingdom** - `CUSA07345` - version `04.00` - `JSON`
+- **Ni no Kuni™ II: Revenant Kingdom** - `CUSA09243` - version `01.00` - `MC4`
+- **Ni no Kuni™ II: Revenant Kingdom** - `CUSA09243` - version `01.00` - `SHN`
+- **Ni no Kuni™ II: Revenant Kingdom** - `CUSA09243` - version `01.01` - `JSON`
+- **Nier Automata** - `CUSA04480` - version `01.06` - `MC4`
+- **NieR Replicant ver.1.22474487139...** - `CUSA18742` - version `01.03` - `JSON`
+- **NieR Replicant ver.1.22474487139...** - `CUSA18742` - version `01.03` - `SHN`
+- **NieR: Automata** - `CUSA04480` - version `01.06` - `JSON`
+- **NieR: Automata** - `CUSA04480` - version `01.06` - `MC4`
+- **NieR: Automata** - `CUSA04480` - version `01.06` - `SHN`
+- **NieR: Automata** - `CUSA04551` - version `01.00` - `JSON`
+- **NieR: Automata** - `CUSA04551` - version `01.00` - `MC4`
+- **NieR: Automata** - `CUSA04551` - version `01.00` - `SHN`
+- **Nights of Azure 2: Bride of the New Moon** - `CUSA09910` - version `01.00` - `JSON`
+- **Nine Sols** - `CUSA50688` - version `01.02` - `JSON`
+- **Nine Sols** - `CUSA50688` - version `01.02` - `MC4`
+- **Nine Sols** - `CUSA50688` - version `01.02` - `SHN`
+- **Ninja - Shadow of Darkness** - `SLUS00435` - version `01.00` - `JSON`
+- **Ninja - Shadow of Darkness** - `SLUS00435` - version `01.00` - `SHN`
+- **NINJA GAIDEN 3: Razors Edge** - `CUSA24095` - version `01.01` - `JSON`
+- **NINJA GAIDEN Σ** - `CUSA25889` - version `01.02` - `JSON`
+- **NINJA GAIDEN Σ2** - `CUSA25892` - version `01.02` - `JSON`
+- **Nioh** - `CUSA07113` - version `01.23` - `JSON`
+- **Nioh** - `CUSA07113` - version `01.23` - `MC4`
+- **Nioh** - `CUSA07113` - version `01.23` - `SHN`
+- **Nioh** - `CUSA07123` - version `01.00` - `JSON`
+- **Nioh** - `CUSA07123` - version `01.00` - `MC4`
+- **Nioh** - `CUSA07123` - version `01.00` - `SHN`
+- **Nioh** - `CUSA07123` - version `01.21` - `JSON`
+- **Nioh** - `CUSA07123` - version `01.21` - `MC4`
+- **Nioh** - `CUSA07123` - version `01.21` - `SHN`
+- **Nioh 2** - `CUSA15526` - version `01.08` - `SHN` - `2`
+- **Nioh 2** - `CUSA15526` - version `01.08` - `JSON`
+- **Nioh 2** - `CUSA15526` - version `01.08` - `MC4`
+- **Nioh 2** - `CUSA15526` - version `01.08` - `SHN`
+- **Nioh 2** - `CUSA15526` - version `01.18` - `JSON`
+- **Nioh 2** - `CUSA15526` - version `01.18` - `SHN`
+- **Nioh 2** - `CUSA15526` - version `01.27` - `JSON`
+- **Nioh 2** - `CUSA15526` - version `01.27` - `SHN`
+- **Nioh 2** - `CUSA15532` - version `01.27` - `JSON`
+- **Nioh 2** - `CUSA15532` - version `01.27` - `MC4`
+- **Nioh 2** - `CUSA15532` - version `01.27` - `SHN`
+- **Nioh: Complete Edition** - `CUSA10126` - version `01.01` - `JSON`
+- **Nioh: Complete Edition** - `CUSA10126` - version `01.01` - `MC4`
+- **Nioh: Complete Edition** - `CUSA10126` - version `01.01` - `SHN`
+- **No Man's Sky** - `CUSA03952` - version `01.38` - `MC4`
+- **No Man's Sky** - `CUSA04841` - version `01.00` - `JSON`
+- **No Man's Sky** - `CUSA04841` - version `03.05` - `JSON`
+- **No Man's Sky** - `CUSA04841` - version `03.05` - `SHN`
+- **No Man's Sky** - `CUSA04841` - version `04.01` - `JSON`
+- **No Man's Sky** - `CUSA04841` - version `04.42` - `MC4`
+- **No Man's Sky** - `CUSA04841` - version `04.42` - `SHN`
+- **No Man's Sky** - `CUSA04841` - version `05.11` - `SHN`
+- **No Mans Sky** - `CUSA03952` - version `01.38` - `JSON`
+- **No Mans Sky** - `CUSA03952` - version `01.38` - `MC4`
+- **No Mans Sky** - `CUSA03952` - version `01.38` - `SHN`
+- **No Mans Sky** - `CUSA04841` - version `01.00` - `JSON`
+- **No Mans Sky** - `CUSA04841` - version `03.75` - `JSON`
+- **No Mans Sky** - `CUSA04841` - version `04.42` - `MC4`
+- **No More Heroes III** - `CUSA32167` - version `01.03` - `JSON`
+- **No More Heroes III** - `CUSA32167` - version `01.03` - `SHN`
+- **OCEANHORN** - `CUSA05010` - version `01.00` - `MC4`
+- **OCTOPATH TRAVELER II** - `CUSA36274` - version `01.02` - `JSON`
+- **Octopath Traveler II** - `CUSA36274` - version `01.02` - `MC4`
+- **Octopath Traveler II** - `CUSA36274` - version `01.02` - `SHN`
+- **Octopath Traveler II** - `CUSA36274` - version `01.11` - `JSON`
+- **Octopath traveller** - `CUSA36274` - version `01.02` - `MC4`
+- **Oddworld - Strangers** - `CUSA26454` - version `01.02` - `JSON`
+- **Oddworld - Strangers** - `CUSA26454` - version `01.02` - `MC4`
+- **Oddworld - Strangers** - `CUSA26454` - version `01.02` - `SHN`
+- **Oddworld Soulstorm Enhanced Edition** - `CUSA08126` - version `01.20` - `JSON`
+- **Oddworld Soulstorm Enhanced Edition** - `CUSA08126` - version `01.20` - `MC4`
+- **Oddworld Soulstorm Enhanced Edition** - `CUSA08126` - version `01.20` - `SHN`
+- **Oddworld: Abe's Oddysee - New 'n' Tasty** - `CUSA00326` - version `01.06` - `JSON`
+- **Odin Sphere Leifthrasir** - `CUSA05083` - version `01.00` - `JSON`
+- **Odin Sphere Leifthrasir** - `CUSA05083` - version `01.00` - `MC4`
+- **Odin Sphere Leifthrasir** - `CUSA05083` - version `01.00` - `SHN`
+- **Okami** - `CUSA08418` - version `01.00` - `JSON`
+- **Okami** - `CUSA08418` - version `01.00` - `MC4`
+- **Okami** - `CUSA08418` - version `01.00` - `SHN`
+- **Okami HD** - `CUSA08364` - version `01.00` - `MC4`
+- **ONE PIECE ODYSSEY** - `CUSA20374` - version `01.02` - `JSON`
+- **ONE PIECE WORLD SEEKER** - `CUSA14054` - version `01.04` - `JSON`
+- **ONE PIECE WORLD SEEKER** - `CUSA14054` - version `01.04` - `SHN`
+- **ONE PIECE: PIRATE WARRIORS 4** - `CUSA17196` - version `1.60` - `MC4`
+- **ONE PIECE: PIRATE WARRIORS 4** - `CUSA17226` - version `01.02` - `JSON`
+- **ONE PIECE: PIRATE WARRIORS 4** - `CUSA17226` - version `01.02` - `SHN`
+- **one punch man** - `CUSA16264` - version `01.00` - `MC4`
+- **ONE PUNCH MAN: A HERO NOBODY KNOWS** - `CUSA16264` - version `01.00` - `JSON`
+- **ONE PUNCH MAN: A HERO NOBODY KNOWS** - `CUSA16264` - version `01.00` - `MC4`
+- **ONE PUNCH MAN: A HERO NOBODY KNOWS** - `CUSA16264` - version `01.00` - `SHN`
+- **Onechanbara Z2: Chaos** - `CUSA02159` - version `01.00` - `JSON`
+- **Onechanbara Z2: Chaos** - `CUSA02159` - version `01.01` - `JSON`
+- **Onechanbara Z2: Chaos** - `CUSA02159` - version `01.01` - `MC4`
+- **Onechanbara Z2: Chaos** - `CUSA02159` - version `01.01` - `SHN`
+- **ONECHANBARA-Z2** - `CUSA02159` - version `01.01` - `MC4`
+- **Onimusha** - `CUSA11147` - version `01.01` - `MC4`
+- **Orcs must Die 3** - `CUSA27274` - version `02.04` - `MC4`
+- **Outbreak The Nightmare Chronicles** - `CUSA24065` - version `01.00` - `JSON`
+- **Outlast** - `CUSA00409` - version `01.00` - `JSON`
+- **Outlast** - `CUSA00409` - version `01.00` - `MC4`
+- **Outlast** - `CUSA00409` - version `01.00` - `SHN`
+- **Outlast** - `CUSA07712` - version `01.00` - `JSON`
+- **Outlast** - `CUSA07712` - version `01.00` - `MC4`
+- **Outlast** - `CUSA07712` - version `01.00` - `SHN`
+- **Outlast 2** - `CUSA06633` - version `01.03` - `JSON`
+- **Outlast 2** - `CUSA06633` - version `01.03` - `MC4`
+- **Outlast 2** - `CUSA06633` - version `01.03` - `SHN`
+- **outlast2** - `CUSA06623` - version `01.00` - `MC4`
+- **Outward** - `CUSA10853` - version `01.07` - `JSON`
+- **Pac-Man World Re-Pac** - `CUSA32074` - version `01.02` - `JSON`
+- **Pac-Man World Re-Pac** - `CUSA32074` - version `01.02` - `MC4`
+- **Pac-Man World Re-Pac** - `CUSA32074` - version `01.02` - `SHN`
+- **Pang Adventures** - `CUSA05906` - version `01.00` - `JSON`
+- **Pang Adventures** - `CUSA05906` - version `01.00` - `MC4`
+- **Pang Adventures** - `CUSA05906` - version `01.00` - `SHN`
+- **Panzer Dragoon Remake** - `CUSA19484` - version `01.01` - `MC4`
+- **Pathfinder: Wrath of the Righteous** - `CUSA35021` - version `01.21` - `MC4`
+- **PAW Patrol On A Roll** - `CUSA11095` - version `01.01` - `MC4`
+- **Paw Patrol: On a Roll!** - `CUSA11095` - version `01.01` - `JSON`
+- **Paw Patrol: On a Roll!** - `CUSA11095` - version `01.01` - `MC4`
+- **Paw Patrol: On a Roll!** - `CUSA11095` - version `01.01` - `SHN`
+- **Paw Paw Paw** - `CUSA24828` - version `01.01` - `JSON`
+- **PAYDAY 2: CRIMEWAVE EDITION** - `CUSA01761` - version `01.52` - `JSON`
+- **PC Building Simulator** - `CUSA14566` - version `01.50` - `JSON`
+- **PC Building Simulator** - `CUSA14566` - version `01.50` - `MC4`
+- **PC Building Simulator** - `CUSA14566` - version `01.50` - `SHN`
+- **Peggle 2** - `CUSA00743` - version `01.00` - `JSON`
+- **Peggle 2** - `CUSA00743` - version `01.00` - `MC4`
+- **Peggle 2** - `CUSA00743` - version `01.00` - `SHN`
+- **Peggle 2** - `CUSA00743` - version `01.01` - `JSON`
+- **Persona 3 Reload** - `CUSA37521` - version `01.02` - `SHN` - `2`
+- **Persona 3 Reload** - `CUSA37521` - version `01.02` - `JSON`
+- **Persona 3 Reload** - `CUSA37521` - version `01.02` - `SHN`
+- **Persona 4 Golden** - `CUSA33874` - version `01.01` - `JSON`
+- **Persona 4 Golden** - `CUSA33874` - version `01.01` - `SHN`
+- **Persona 5** - `CUSA05877` - version `01.01` - `MC4`
+- **Persona 5** - `CUSA06638` - version `01.00` - `MC4`
+- **Persona 5 Royal** - `CUSA17419` - version `01.01` - `JSON`
+- **Persona 5 Striker** - `CUSA19640` - version `01.00` - `JSON`
+- **Persona 5 Striker** - `CUSA19640` - version `01.01` - `JSON`
+- **Phantom Brave: The Lost Hero** - `CUSA47244` - version `01.01` - `JSON`
+- **Philosoma** - `SCUS94403` - version `01.00` - `JSON`
+- **Philosoma** - `SCUS94403` - version `01.00` - `SHN`
+- **Pillars of Eternity: Complete Edition** - `CUSA06880` - version `01.00` - `JSON`
+- **Planet Coaster** - `CUSA17602` - version `01.00` - `JSON`
+- **Pocky ERR** - `CUSA28937` - version `01.01` - `MC4`
+- **Police Simulator: Patrol Officers** - `CUSA19608` - version `01.08` - `JSON`
+- **Potion Permit** - `CUSA33782` - version `01.02` - `JSON`
+- **Potion Permit** - `CUSA33782` - version `01.02` - `MC4`
+- **Potion Permit** - `CUSA33782` - version `01.02` - `SHN`
+- **Power Rangers - Battle for The Grid** - `CUSA15145` - version `01.22` - `JSON`
+- **Power Rangers - Battle for The Grid** - `CUSA15284` - version `01.24` - `JSON`
+- **Power Rangers - Battle for The Grid** - `CUSA15284` - version `01.24` - `MC4`
+- **Power Rangers - Battle for The Grid** - `CUSA15284` - version `01.24` - `SHN`
+- **Power Rangers: Battle For The Grid** - `CUSA15284` - version `01.24` - `MC4`
+- **Prey** - `CUSA04482` - version `01.00` - `JSON`
+- **Prey** - `CUSA04482` - version `01.00` - `MC4`
+- **Prey** - `CUSA04482` - version `01.00` - `SHN`
+- **Prey** - `CUSA04482` - version `01.12` - `JSON`
+- **Prey** - `CUSA04493` - version `01.12` - `JSON`
+- **Prey** - `CUSA06560` - version `01.04` - `JSON`
+- **Prey** - `CUSA06560` - version `01.04` - `MC4`
+- **Prey** - `CUSA06560` - version `01.04` - `SHN`
+- **Prey** - `CUSA06560` - version `01.12` - `JSON`
+- **Prince of Persia The Lost Crown** - `CUSA36581` - version `01.01` - `SHN`
+- **Prince of Persia The Lost Crown** - `CUSA36581` - version `01.04` - `JSON`
+- **Prince of Persia The Lost Crown** - `CUSA36581` - version `01.04` - `SHN`
+- **Prince of Persia The Lost Crown** - `CUSA36581` - version `01.11` - `MC4`
+- **Prince of Persia The Lost Crown** - `CUSA36581` - version `01.11` - `SHN`
+- **Prince of Persia The Lost Crown** - `CUSA36581` - version `01.20` - `MC4`
+- **Prince of Persia The Lost Crown** - `CUSA36581` - version `01.20` - `SHN`
+- **Prince of Persia The Lost Crown** - `CUSA36581` - version `01.40` - `SHN` - `2`
+- **Prince of Persia The Lost Crown** - `CUSA36581` - version `01.40` - `MC4`
+- **Prince of Persia The Lost Crown** - `CUSA36581` - version `01.40` - `SHN`
+- **Prince of Persia The Lost Crown** - `CUSA36582` - version `01.04` - `JSON`
+- **Prince of Persia The Sands of Time** - `SLES51918` - version `01.00` - `JSON`
+- **Prince of Persia The Sands of Time** - `SLES51918` - version `01.00` - `SHN`
+- **Prince of Persia-Warrior Within** - `SLUS21022` - version `01.00` - `JSON`
+- **Prince of Persia: The Lost Crown** - `CUSA36581` - version `01.01` - `JSON`
+- **Prince of Persia: The Lost Crown** - `CUSA36582` - version `01.01` - `JSON`
+- **Prince Of Persia: The Lost Crown** - `CUSA36582` - version `01.01` - `SHN`
+- **Prince Of Persia: The Lost Crown** - `CUSA36582` - version `01.04` - `SHN`
+- **Prince Of Persia: The Lost Crown** - `CUSA36582` - version `01.11` - `JSON`
+- **Prince Of Persia: The Lost Crown** - `CUSA36582` - version `01.11` - `MC4`
+- **Prince Of Persia: The Lost Crown** - `CUSA36582` - version `01.11` - `SHN`
+- **Prince Of Persia: The Lost Crown** - `CUSA36582` - version `01.20` - `MC4`
+- **Prince Of Persia: The Lost Crown** - `CUSA36582` - version `01.20` - `SHN`
+- **Prince Of Persia: The Lost Crown** - `CUSA36582` - version `01.40` - `SHN` - `2`
+- **Prince Of Persia: The Lost Crown** - `CUSA36582` - version `01.40` - `MC4`
+- **Prince Of Persia: The Lost Crown** - `CUSA36582` - version `01.40` - `SHN`
+- **Prince Of Persia: The Lost Crown** - `CUSA36582` - version `01.41` - `MC4`
+- **Prince Of Persia: The Lost Crown** - `CUSA36582` - version `01.41` - `SHN`
+- **Prince Of Persia: The Lost Crown** - `CUSA36582` - version `01.42` - `MC4`
+- **Prince Of Persia: The Lost Crown** - `CUSA36582` - version `01.42` - `SHN`
+- **Prodeus** - `CUSA31340` - version `01.00` - `MC4`
+- **Prodeus** - `CUSA31340` - version `01.00` - `SHN`
+- **Prodeus** - `CUSA31340` - version `01.06` - `JSON`
+- **Prodeus** - `CUSA31340` - version `01.06` - `MC4`
+- **Prodeus** - `CUSA31340` - version `01.06` - `SHN`
+- **Project CARS 3** - `CUSA20100` - version `01.12` - `JSON`
+- **Project Cars 3** - `CUSA20100` - version `01.12` - `MC4`
+- **Project CARS 3** - `CUSA20100` - version `01.12` - `MC4`
+- **Project CARS 3** - `CUSA20100` - version `01.12` - `SHN`
+- **Project Warlock** - `CUSA19361` - version `01.04` - `JSON`
+- **Prototype 2** - `CUSA01765` - version `01.00` - `MC4`
+- **Prototype Biohazard Bundle 2** - `CUSA06545` - version `01.00` - `MC4` - `prototype2_ps4f.elf`
+- **Psychonauts 2** - `CUSA27145` - version `01.08` - `JSON`
+- **Psyvariar - Complete Edition** - `SLPM62139` - version `01.00` - `JSON`
+- **Psyvariar - Complete Edition** - `SLPM62139` - version `01.00` - `SHN`
+- **Psyvariar 2 - Ultimate Final** - `SLPM62562` - version `01.00` - `JSON`
+- **Psyvariar 2 - Ultimate Final** - `SLPM62562` - version `01.00` - `SHN`
+- **Pyramid Quest** - `CUSA32091` - version `01.02` - `MC4`
+- **Quake II** - `CUSA35422` - version `01.05` - `JSON`
+- **Quake II** - `CUSA35422` - version `01.05` - `SHN`
+- **R-Type Delta** - `SCES01762` - version `01.00` - `JSON`
+- **R-Type Delta** - `SCES01762` - version `01.00` - `SHN`
+- **R-Type Fina** - `SLUS20780` - version `01.00` - `JSON`
+- **R-Type Fina** - `SLUS20780` - version `01.00` - `SHN`
+- **R-TYPE FINAL 2** - `CUSA25458` - version `01.09` - `JSON`
+- **Rabi-Ribi** - `CUSA08723` - version `01.03` - `JSON`
+- **RAD** - `CUSA13879` - version `01.06` - `JSON`
+- **RAD** - `CUSA13879` - version `01.06` - `MC4`
+- **RAD** - `CUSA13879` - version `01.06` - `SHN`
+- **Radirgy Precious (Japan)** - `SLPM66405` - version `01.00` - `JSON`
+- **Radirgy Precious (Japan)** - `SLPM66405` - version `01.00` - `SHN`
+- **RAGE2** - `CUSA10300` - version `01.07` - `JSON`
+- **RAGE2** - `CUSA10300` - version `01.07` - `SHN`
+- **RAGE2** - `CUSA10300` - version `01.09` - `SHN` - `2`
+- **RAGE2** - `CUSA10300` - version `01.09` - `JSON`
+- **RAGE2** - `CUSA10300` - version `01.09` - `SHN`
+- **RAGE2** - `CUSA10300` - version `01.10` - `SHN`
+- **RAID World War II** - `CUSA08490` - version `01.02` - `MC4`
+- **Raiden DX** - `SLPS00728` - version `01.00` - `JSON`
+- **Raiden DX** - `SLPS00728` - version `01.00` - `SHN`
+- **Raiden III** - `SLES53829` - version `01.00` - `JSON`
+- **Raiden Project-The** - `SCUS94402` - version `01.00` - `JSON`
+- **Raiden Project-The** - `SCUS94402` - version `01.00` - `SHN`
+- **Raiden V Directors Cut** - `CUSA07673` - version `01.02` - `MC4`
+- **Ratchet & Clank** - `CUSA01047` - version `01.00` - `JSON`
+- **Ratchet & Clank™** - `CUSA01047` - version `01.00` - `MC4`
+- **Ratchet & Clank™** - `CUSA01047` - version `01.00` - `SHN`
+- **Ratchet & Clank™** - `CUSA01047` - version `01.07` - `JSON`
+- **Ratchet & Clank™** - `CUSA01073` - version `01.07` - `JSON`
+- **Ratchet & Clank™** - `CUSA01073` - version `01.07` - `MC4`
+- **Ratchet & Clank™** - `CUSA01073` - version `01.07` - `SHN`
+- **Ratchet & Clank™** - `CUSA01073` - version `01.09` - `JSON`
+- **Ratchet &amp; Clank** - `CUSA01047` - version `01.00` - `MC4`
+- **Ratchet and Clank** - `CUSA01073` - version `01.07` - `MC4`
+- **Ravenswatch** - `CUSA46987` - version `01.03` - `JSON`
+- **Rayman Legends** - `CUSA00031` - version `01.00` - `MC4`
+- **Rayman Legends** - `CUSA00069` - version `01.00` - `JSON`
+- **Rayman® Legends** - `CUSA00031` - version `01.00` - `SHN` - `2`
+- **Rayman® Legends** - `CUSA00031` - version `01.00` - `JSON`
+- **Rayman® Legends** - `CUSA00031` - version `01.00` - `MC4`
+- **Rayman® Legends** - `CUSA00031` - version `01.00` - `SHN`
+- **Record of Lodoss War -Deedlit in Wonder Labyrinth-** - `CUSA29366` - version `01.00` - `JSON`
+- **Red Dead Redemption** - `CUSA36843` - version `01.03` - `JSON`
+- **Red Dead Redemption** - `CUSA36843` - version `01.03` - `MC4`
+- **Red Dead Redemption** - `CUSA36843` - version `01.03` - `SHN`
+- **Red Dead Redemption** - `CUSA36843` - version `01.04` - `MC4`
+- **Red Dead Redemption** - `CUSA36843` - version `01.04` - `SHN`
+- **Red Dead Redemption 2** - `CUSA03041` - version `01.29` - `JSON`
+- **Red Dead Redemption 2** - `CUSA08519` - version `01.01` - `JSON`
+- **Red Dead Redemption 2** - `CUSA08519` - version `01.01` - `MC4`
+- **Red Dead Redemption 2** - `CUSA08519` - version `01.01` - `SHN`
+- **Red Dead Redemption 2** - `CUSA08519` - version `01.13` - `SHN` - `2`
+- **Red Dead Redemption 2** - `CUSA08519` - version `01.13` - `JSON`
+- **Red Dead Redemption 2** - `CUSA08519` - version `01.13` - `MC4`
+- **Red Dead Redemption 2** - `CUSA08519` - version `01.13` - `SHN`
+- **Red Dead Redemption 2** - `CUSA08519` - version `01.24` - `JSON`
+- **Red Dead Redemption 2** - `CUSA08519` - version `01.29` - `JSON`
+- **Red Dead Redemption 2** - `CUSA08519` - version `01.29` - `MC4`
+- **Red Dead Redemption 2** - `CUSA08519` - version `01.29` - `SHN`
+- **Red Dead Redemption II** - `CUSA03041` - version `01.29` - `SHN`
+- **Red Dead Redemption II** - `CUSA03041` - version `01.32` - `JSON`
+- **Red Ninja End of Honor** - `SLUS20714` - version `01.00` - `JSON`
+- **Remnant: From the Ashes** - `CUSA10507` - version `01.24` - `JSON`
+- **Remnant: From the Ashes** - `CUSA10507` - version `01.24` - `SHN`
+- **Remnant: From the Ashes** - `CUSA13830` - version `01.20` - `JSON`
+- **Remnant: From the Ashes** - `CUSA13830` - version `01.24` - `JSON`
+- **Remnant: From the Ashes** - `CUSA13830` - version `01.24` - `SHN`
+- **Remnant: From the Ashes** - `CUSA18442` - version `01.00` - `JSON`
+- **Remnant: From the Ashes** - `CUSA18442` - version `01.00` - `MC4`
+- **Remnant: From the Ashes** - `CUSA18442` - version `01.00` - `SHN`
+- **Remoteness** - `CUSA33686` - version `01.00` - `MC4`
+- **Resident Evil - Revelation** - `CUSA06212` - version `01.01` - `JSON`
+- **Resident Evil - Revelation** - `CUSA06212` - version `01.01` - `MC4`
+- **Resident Evil - Revelation** - `CUSA06212` - version `01.01` - `SHN`
+- **RESIDENT EVIL 2** - `CUSA09171` - version `01.00` - `JSON`
+- **RESIDENT EVIL 2** - `CUSA09171` - version `01.00` - `MC4`
+- **RESIDENT EVIL 2** - `CUSA09171` - version `01.00` - `SHN`
+- **RESIDENT EVIL 2** - `CUSA09171` - version `01.01` - `JSON`
+- **RESIDENT EVIL 2** - `CUSA09171` - version `01.04` - `SHN` - `2`
+- **RESIDENT EVIL 2** - `CUSA09171` - version `01.04` - `JSON`
+- **RESIDENT EVIL 2** - `CUSA09171` - version `01.04` - `MC4`
+- **RESIDENT EVIL 2** - `CUSA09171` - version `01.04` - `SHN`
+- **RESIDENT EVIL 2** - `CUSA09171` - version `01.05` - `JSON`
+- **RESIDENT EVIL 2** - `CUSA09171` - version `01.07` - `MC4`
+- **RESIDENT EVIL 2** - `CUSA09171` - version `01.07` - `SHN`
+- **RESIDENT EVIL 2** - `CUSA09193` - version `01.06` - `JSON`
+- **RESIDENT EVIL 2** - `CUSA09193` - version `01.06` - `MC4`
+- **RESIDENT EVIL 2** - `CUSA09193` - version `01.06` - `SHN`
+- **Resident Evil 2 - Dual Shock Ver** - `SLUS00748` - version `01.00` - `JSON`
+- **Resident Evil 2 - Dual Shock Ver** - `SLUS00748` - version `01.00` - `SHN`
+- **Resident Evil 2 Claire** - `SLUS00756` - version `01.00` - `JSON`
+- **Resident Evil 2 Claire** - `SLUS00756` - version `01.00` - `SHN`
+- **RESIDENT EVIL 3** - `CUSA09193` - version `01.05` - `JSON`
+- **RESIDENT EVIL 3** - `CUSA14123` - version `01.05` - `JSON`
+- **RESIDENT EVIL 3** - `CUSA14123` - version `01.05` - `MC4`
+- **RESIDENT EVIL 3** - `CUSA14123` - version `01.05` - `SHN`
+- **RESIDENT EVIL 3** - `CUSA14123` - version `01.07` - `MC4`
+- **RESIDENT EVIL 3** - `CUSA14123` - version `01.07` - `SHN`
+- **RESIDENT EVIL 3** - `CUSA14168` - version `01.03` - `JSON`
+- **RESIDENT EVIL 3** - `CUSA14168` - version `01.03` - `SHN`
+- **RESIDENT EVIL 3** - `CUSA14168` - version `01.05` - `JSON`
+- **RESIDENT EVIL 3** - `CUSA14168` - version `01.06` - `MC4`
+- **Resident Evil 3** - `CUSA14168` - version `01.06` - `MC4`
+- **RESIDENT EVIL 3** - `CUSA14168` - version `01.06` - `SHN`
+- **RESIDENT EVIL 3** - `CUSA14168` - version `01.07` - `SHN`
+- **Resident Evil 3 - Nemesis (USA)** - `SLUS00923` - version `01.00` - `JSON`
+- **Resident Evil 3 - Nemesis (USA)** - `SLUS00923` - version `01.00` - `SHN`
+- **Resident Evil 4** - `CUSA04885` - version `01.00` - `JSON`
+- **resident evil 4** - `CUSA04885` - version `01.00` - `MC4`
+- **resident evil 4** - `CUSA04885` - version `01.00` - `SHN`
+- **resident evil 4** - `CUSA04885` - version `01.01` - `JSON`
+- **resident evil 4** - `CUSA04885` - version `01.01` - `MC4`
+- **resident evil 4** - `CUSA04885` - version `01.01` - `SHN`
+- **Resident Evil 4** - `CUSA33388` - version `01.02` - `SHN` - `2`
+- **Resident Evil 4** - `CUSA33388` - version `01.02` - `JSON`
+- **Resident Evil 4** - `CUSA33388` - version `01.02` - `MC4`
+- **Resident Evil 4** - `CUSA33388` - version `01.02` - `SHN`
+- **Resident Evil 4** - `CUSA33388` - version `01.04` - `MC4` - `2`
+- **Resident Evil 4** - `CUSA33388` - version `01.04` - `JSON`
+- **Resident Evil 4** - `CUSA33388` - version `01.04` - `MC4`
+- **Resident Evil 4** - `CUSA33388` - version `01.04` - `SHN`
+- **Resident Evil 4** - `CUSA33388` - version `01.10` - `MC4` - `2`
+- **Resident Evil 4** - `CUSA33388` - version `01.10` - `MC4`
+- **Resident Evil 4** - `CUSA33388` - version `01.10` - `SHN`
+- **Resident Evil 4** - `CUSA33388` - version `01.11` - `MC4`
+- **Resident Evil 4** - `CUSA33388` - version `01.11` - `SHN`
+- **Resident Evil 4 Remake** - `CUSA33388` - version `01.02` - `MC4`
+- **Resident Evil 4 Remake** - `CUSA33388` - version `01.04` - `MC4`
+- **Resident Evil 4 Remake** - `CUSA33388` - version `01.10` - `MC4`
+- **Resident Evil 4 Remake** - `CUSA33388` - version `1.04` - `MC4`
+- **Resident Evil 5** - `CUSA04437` - version `01.00` - `JSON`
+- **RESIDENT EVIL 6** - `CUSA03840` - version `01.01` - `JSON`
+- **Resident Evil 6** - `CUSA03856` - version `01.00` - `JSON`
+- **RESIDENT EVIL 6** - `CUSA03856` - version `01.00` - `JSON`
+- **RESIDENT EVIL 6** - `CUSA03856` - version `01.00` - `MC4`
+- **RESIDENT EVIL 6** - `CUSA03856` - version `01.00` - `SHN`
+- **RESIDENT EVIL 6** - `CUSA03856` - version `01.01` - `JSON`
+- **RESIDENT EVIL 6** - `CUSA03856` - version `01.01` - `MC4`
+- **RESIDENT EVIL 6** - `CUSA03856` - version `01.01` - `SHN`
+- **Resident Evil 7** - `CUSA03842` - version `01.00` - `JSON`
+- **Resident Evil 7** - `CUSA03842` - version `01.00` - `MC4`
+- **Resident Evil 7** - `CUSA09643` - version `01.05` - `MC4`
+- **RESIDENT EVIL 7 biohazard** - `CUSA03842` - version `01.00` - `MC4`
+- **RESIDENT EVIL 7 biohazard** - `CUSA03842` - version `01.00` - `SHN`
+- **RESIDENT EVIL 7 biohazard** - `CUSA03842` - version `01.06` - `JSON`
+- **RESIDENT EVIL 7 biohazard** - `CUSA03842` - version `01.06` - `MC4`
+- **RESIDENT EVIL 7 biohazard** - `CUSA03842` - version `01.06` - `SHN`
+- **RESIDENT EVIL 7 biohazard** - `CUSA03842` - version `01.11` - `MC4`
+- **RESIDENT EVIL 7 biohazard** - `CUSA03842` - version `01.11` - `SHN`
+- **Resident Evil 7 Biohazard Gold Edition** - `CUSA09473` - version `01.00` - `JSON`
+- **Resident Evil 7 Biohazard Gold Edition** - `CUSA09473` - version `01.00` - `MC4`
+- **RESIDENT EVIL 7 biohazard Gold Edition** - `CUSA09473` - version `01.00` - `MC4`
+- **RESIDENT EVIL 7 biohazard Gold Edition** - `CUSA09473` - version `01.00` - `SHN`
+- **RESIDENT EVIL 7 biohazard Gold Edition** - `CUSA09473` - version `01.01` - `JSON`
+- **RESIDENT EVIL 7 biohazard Gold Edition** - `CUSA09473` - version `01.01` - `MC4`
+- **RESIDENT EVIL 7 biohazard Gold Edition** - `CUSA09473` - version `01.01` - `SHN`
+- **RESIDENT EVIL 7 biohazard Gold Edition** - `CUSA09643` - version `01.01` - `JSON`
+- **RESIDENT EVIL 7 biohazard Gold Edition** - `CUSA09643` - version `01.01` - `MC4`
+- **RESIDENT EVIL 7 biohazard Gold Edition** - `CUSA09643` - version `01.01` - `SHN`
+- **RESIDENT EVIL 7 biohazard Gold Edition** - `CUSA09643` - version `01.05` - `JSON`
+- **RESIDENT EVIL 7 biohazard Gold Edition** - `CUSA09643` - version `01.05` - `MC4`
+- **RESIDENT EVIL 7 biohazard Gold Edition** - `CUSA09643` - version `01.05` - `SHN`
+- **Resident Evil 7: Biohazard** - `CUSA03842` - version `01.06` - `MC4`
+- **Resident Evil Director's Cut** - `SLUS00551` - version `01.00` - `JSON`
+- **Resident Evil Director's Cut** - `SLUS00551` - version `01.00` - `SHN`
+- **Resident Evil Origins 0** - `CUSA02882` - version `01.00` - `JSON` - `bh0hd.elf`
+- **Resident Evil Origins 1** - `CUSA02882` - version `01.00` - `JSON` - `bh1hd.elf`
+- **Resident Evil Origins Collection** - `CUSA02882` - version `01.00` - `JSON` - `bh0hd.elf`
+- **Resident Evil Origins Collection** - `CUSA02882` - version `01.00` - `JSON` - `bh1hd.elf`
+- **Resident Evil Origins Collection** - `CUSA03178` - version `01.01` - `JSON` - `bh0hd.elf`
+- **Resident Evil Origins Collection** - `CUSA03178` - version `01.01` - `JSON` - `bh1hd.elf`
+- **Resident Evil Revelations 1** - `CUSA06314` - version `01.00` - `JSON`
+- **Resident Evil Revelations 1** - `CUSA06314` - version `01.01` - `SHN`
+- **Resident Evil Revelations 2** - `CUSA01133` - version `01.00` - `JSON`
+- **RESIDENT EVIL REVELATIONS 2** - `CUSA01133` - version `01.00` - `MC4`
+- **RESIDENT EVIL REVELATIONS 2** - `CUSA01133` - version `01.00` - `SHN`
+- **RESIDENT EVIL REVELATIONS 2** - `CUSA01133` - version `01.01` - `MC4`
+- **RESIDENT EVIL REVELATIONS 2** - `CUSA01133` - version `01.01` - `SHN`
+- **RESIDENT EVIL REVELATIONS 2** - `CUSA01133` - version `01.04` - `JSON`
+- **RESIDENT EVIL REVELATIONS 2** - `CUSA01133` - version `01.04` - `MC4`
+- **RESIDENT EVIL REVELATIONS 2** - `CUSA01133` - version `01.04` - `SHN`
+- **RESIDENT EVIL REVELATIONS 2** - `CUSA01141` - version `01.05` - `JSON`
+- **RESIDENT EVIL REVELATIONS 2** - `CUSA01141` - version `01.05` - `MC4`
+- **Resident Evil Revelations 2** - `CUSA01141` - version `01.05` - `MC4`
+- **RESIDENT EVIL REVELATIONS 2** - `CUSA01141` - version `01.05` - `SHN`
+- **RESIDENT EVIL UMBRELLA CORPS** - `CUSA03498` - version `01.06` - `JSON`
+- **Resident Evil Village** - `CUSA18008` - version `01.01` - `SHN` - `2`
+- **Resident Evil Village** - `CUSA18008` - version `01.01` - `JSON`
+- **Resident Evil Village** - `CUSA18008` - version `01.01` - `SHN`
+- **Resident Evil Village** - `CUSA18008` - version `01.11` - `JSON`
+- **Resident Evil Village** - `CUSA18008` - version `01.11` - `MC4`
+- **Resident Evil Village** - `CUSA18008` - version `01.11` - `SHN`
+- **Resident Evil Village** - `CUSA18008` - version `01.13` - `MC4`
+- **Resident Evil Village** - `CUSA18008` - version `01.13` - `SHN`
+- **Resident Evil Village** - `CUSA18008` - version `1.11` - `MC4`
+- **Resident Evil Village** - `CUSA18017` - version `01.01` - `JSON`
+- **Resident Evil Village** - `CUSA18017` - version `01.11` - `SHN` - `2`
+- **Resident Evil Village** - `CUSA18017` - version `01.11` - `JSON`
+- **Resident Evil Village** - `CUSA18017` - version `01.11` - `MC4`
+- **Resident Evil Village** - `CUSA18017` - version `01.11` - `SHN`
+- **Resident Evil Village** - `CUSA18017` - version `01.12` - `JSON`
+- **Resident Evil Village** - `CUSA18017` - version `01.12` - `SHN`
+- **Resident Evil Village** - `CUSA18017` - version `01.13` - `MC4`
+- **Resident Evil Village** - `CUSA18017` - version `01.13` - `SHN`
+- **Resident Evil-Code-Veronica X** - `SLES50306` - version `01.00` - `JSON`
+- **Resident Evil-Survivor 2** - `SLES50650` - version `01.00` - `JSON`
+- **Resident Evil-Survivor 2** - `SLES50650` - version `01.00` - `SHN`
+- **Resident Evil: Origins Collection** - `CUSA02882` - version `01.00` - `MC4` - `bh0hd.elf`
+- **Resident Evil: Origins Collection** - `CUSA02882` - version `01.00` - `SHN` - `bh0hd.elf`
+- **Resident Evil: Origins Collection** - `CUSA02882` - version `01.00` - `MC4` - `bh1hd.elf`
+- **Resident Evil: Origins Collection** - `CUSA02882` - version `01.00` - `SHN` - `bh1hd.elf`
+- **Resident Evil: Origins Collection** - `CUSA02882` - version `01.00` - `JSON`
+- **Resident Evil: Origins Collection** - `CUSA02882` - version `01.00` - `SHN`
+- **Resident Evil: Origins Collection** - `CUSA03178` - version `01.01` - `SHN` - `bh0hd.elf`
+- **Resident Evil: Origins Collection** - `CUSA03178` - version `01.01` - `SHN` - `bh1hd.elf`
+- **Resident Evil: Origins Collection** - `CUSA03178` - version `01.01` - `JSON`
+- **Resident Evil: Origins Collection** - `CUSA03178` - version `01.01` - `SHN`
+- **Resident Evil: Revelations 2** - `CUSA00924` - version `01.05` - `JSON`
+- **Resident Evil: Revelations 2** - `CUSA00924` - version `01.05` - `MC4`
+- **Resident Evil: Revelations 2** - `CUSA00924` - version `01.05` - `SHN`
+- **RESIDENT EVIL5** - `CUSA04437` - version `01.01` - `JSON`
+- **RESIDENT EVIL5** - `CUSA04437` - version `01.01` - `MC4`
+- **RESIDENT EVIL5** - `CUSA04437` - version `01.01` - `SHN`
+- **Resident Evil™** - `CUSA01067` - version `01.00` - `JSON`
+- **Resident Evil™** - `CUSA01067` - version `01.00` - `MC4`
+- **Resident Evil™** - `CUSA01067` - version `01.00` - `SHN`
+- **Resogun** - `CUSA00005` - version `01.10` - `JSON`
+- **Resogun** - `CUSA00005` - version `01.10` - `MC4`
+- **Resogun** - `CUSA00005` - version `01.10` - `SHN`
+- **RICO London** - `CUSA26491` - version `01.01` - `JSON`
+- **Ride 4** - `CUSA23918` - version `01.00` - `JSON`
+- **Ride 4** - `CUSA23918` - version `01.00` - `SHN`
+- **Rise of the Tomb Raider** - `CUSA05716` - version `01.06` - `JSON`
+- **Rise of the Tomb Raider 20 Year Celebration** - `CUSA05720` - version `01.00` - `MC4`
+- **Rise of the Tomb Raider 20 Year Celebration** - `CUSA05720` - version `01.00` - `SHN`
+- **Rise of the Tomb Raider 20 Year Celebration** - `CUSA05720` - version `01.06` - `JSON`
+- **Rise of the Tomb Raider 20 Year Celebration** - `CUSA05720` - version `01.06` - `MC4`
+- **Rise of the Tomb Raider 20 Year Celebration** - `CUSA05720` - version `01.06` - `SHN`
+- **Rise of the Tomb Raider: 20 Year Celebration** - `CUSA05716` - version `01.06` - `JSON`
+- **Rise of the Tomb Raider: 20 Year Celebration** - `CUSA05716` - version `01.06` - `MC4`
+- **Rise of the Tomb Raider: 20 Year Celebration** - `CUSA05716` - version `01.06` - `SHN`
+- **Risen** - `CUSA31481` - version `01.02` - `JSON`
+- **Risen 3: Titan Lords - Enhanced Edition** - `CUSA02017` - version `01.00` - `JSON`
+- **River City Girls** - `CUSA15883` - version `01.20` - `MC4`
+- **Road 96** - `CUSA30888` - version `01.01` - `JSON`
+- **Road Fury** - `CUSA26688` - version `01.00` - `JSON`
+- **Road Fury** - `CUSA26688` - version `01.00` - `MC4`
+- **Road Fury** - `CUSA26688` - version `01.00` - `SHN`
+- **Road Redemption** - `CUSA13020` - version `01.04` - `JSON`
+- **Rogue Aces** - `CUSA02927` - version `01.02` - `JSON`
+- **Rogue Legacy** - `CUSA00587` - version `01.00` - `JSON`
+- **Rogue Legacy 2** - `CUSA42371` - version `01.01` - `MC4`
+- **Rogue Stormers** - `CUSA06052` - version `01.03` - `JSON`
+- **Rogue Stormers** - `CUSA06052` - version `01.03` - `MC4`
+- **Rogue Stormers** - `CUSA06052` - version `01.03` - `SHN`
+- **Rogue Stormers** - `CUSA06072` - version `01.02` - `MC4`
+- **Rogue Trooper** - `SLUS21320` - version `01.00` - `JSON`
+- **Rogue Trooper** - `SLUS21320` - version `01.00` - `SHN`
+- **Rogue Trooper Redux** - `CUSA08409` - version `01.05` - `JSON`
+- **Rogue Trooper Redux** - `CUSA08409` - version `01.05` - `MC4`
+- **Rogue Trooper Redux** - `CUSA08409` - version `01.05` - `SHN`
+- **Sackboy** - `CUSA06313` - version `01.22` - `JSON`
+- **Sackboy™: A Big Adventure** - `CUSA06313` - version `01.21` - `JSON`
+- **Sackboy™: A Big Adventure** - `CUSA18886` - version `01.01` - `JSON`
+- **SaGa Frontier Remastered** - `CUSA26054` - version `01.02` - `JSON`
+- **SaGa Frontier Remastered** - `CUSA26054` - version `01.02` - `MC4`
+- **SaGa Frontier Remastered** - `CUSA26054` - version `01.02` - `SHN`
+- **Saint Seiya: Soldiers Soul** - `CUSA02437` - version `01.00` - `JSON`
+- **Saint Seiya: Soldiers Soul** - `CUSA02437` - version `01.00` - `MC4`
+- **Saint Seiya: Soldiers Soul** - `CUSA02437` - version `01.00` - `SHN`
+- **Saint Seyia** - `CUSA02437` - version `01.00` - `MC4`
+- **Saints Row** - `CUSA26458` - version `01.02` - `JSON`
+- **Saints Row** - `CUSA26458` - version `01.06` - `JSON`
+- **Saints Row Gat Outa Hell** - `CUSA00939` - version `01.00` - `JSON`
+- **Saints Row Gat Outa Hell** - `CUSA00939` - version `01.00` - `MC4`
+- **Saints Row Gat Outa Hell** - `CUSA00939` - version `01.00` - `SHN`
+- **Sairento VR** - `CUSA14557` - version `01.08` - `MC4`
+- **Sakuna: Of Rice and Ruin** - `CUSA17052` - version `01.15` - `JSON`
+- **Sakura wars** - `CUSA16429` - version `01.00` - `MC4`
+- **Salamander Deluxe Pack Plus** - `SLPM86037` - version `01.00` - `JSON`
+- **Salamander Deluxe Pack Plus** - `SLPM86037` - version `01.00` - `SHN`
+- **Salt and Sacrifice** - `CUSA33906` - version `01.08` - `JSON`
+- **Salt and Sanctuary** - `CUSA02353` - version `01.04` - `MC4`
+- **Salt and Sanctuary** - `CUSA02353` - version `01.04` - `SHN`
+- **Salt and Sanctuary** - `CUSA02353` - version `01.05` - `JSON`
+- **Salt and Sanctuary** - `CUSA02353` - version `01.05` - `MC4`
+- **salt and sanctuary** - `CUSA02353` - version `01.05` - `MC4`
+- **Salt and Sanctuary** - `CUSA02353` - version `01.05` - `SHN`
+- **Samurai Aces** - `SLES53872` - version `01.00` - `JSON`
+- **Samurai Aces** - `SLES53872` - version `01.00` - `SHN`
+- **Samurai Bringer** - `CUSA32805` - version `01.03` - `JSON`
+- **Samurai Bringer** - `CUSA32805` - version `01.03` - `MC4`
+- **Samurai Bringer** - `CUSA32805` - version `01.03` - `SHN`
+- **Samurai Bringer** - `CUSA32805` - version `1.03` - `MC4`
+- **Samurai Jack** - `CUSA16289` - version `01.02` - `JSON`
+- **Samurai Jack** - `CUSA16289` - version `01.02` - `MC4`
+- **Samurai Jack** - `CUSA16289` - version `01.02` - `SHN`
+- **Samurai Jack: Battle Through Time** - `CUSA16289` - version `01.00` - `JSON`
+- **SAMURAI SHODOWN** - `CUSA15915` - version `02.42` - `JSON`
+- **sand land** - `CUSA34697` - version `01.03` - `JSON`
+- **Sand Land** - `CUSA34697` - version `01.03` - `SHN`
+- **Sand Land** - `CUSA34697` - version `01.05` - `JSON`
+- **sand land** - `CUSA34698` - version `01.03` - `JSON`
+- **sand land** - `CUSA34698` - version `01.03` - `SHN`
+- **Scarface - The World is Yours** - `SLUS21111` - version `01.01` - `JSON`
+- **Scarface - The World is Yours** - `SLUS21111` - version `01.01` - `SHN`
+- **Scarlet Nexus** - `CUSA25132` - version `01.05` - `JSON`
+- **SCARLET NEXUS** - `CUSA25132` - version `01.05` - `JSON`
+- **Scarlet Nexus** - `CUSA25269` - version `01.05` - `JSON`
+- **SCARLET NEXUS** - `CUSA25269` - version `01.05` - `JSON`
+- **ScourgeBringer** - `CUSA25478` - version `01.60` - `MC4`
+- **SCUS97213** - `SCUS97213` - version `01.02` - `SHN`
+- **Sd Gundam G Generation Cross Rays** - `CUSA16319` - version `01.65` - `JSON`
+- **Sd Gundam G Generation Cross Rays** - `CUSA16319` - version `01.65` - `SHN`
+- **Sea of Stars** - `CUSA31579` - version `01.09` - `JSON`
+- **Secret of Mana** - `CUSA09537` - version `01.00` - `JSON`
+- **Secret of Mana** - `CUSA09537` - version `01.00` - `MC4`
+- **Secret of Mana** - `CUSA09537` - version `01.00` - `SHN`
+- **Sekiro** - `CUSA13801` - version `01.01` - `MC4`
+- **Sekiro™: Shadows Die Twice** - `CUSA12047` - version `01.05` - `JSON`
+- **Sekiro™: Shadows Die Twice** - `CUSA12047` - version `01.06` - `JSON`
+- **Sekiro™: Shadows Die Twice** - `CUSA12047` - version `01.06` - `SHN`
+- **Sekiro™: Shadows Die Twice** - `CUSA13801` - version `01.01` - `JSON`
+- **Sekiro™: Shadows Die Twice** - `CUSA13801` - version `01.01` - `MC4`
+- **Sekiro™: Shadows Die Twice** - `CUSA13801` - version `01.01` - `SHN`
+- **Sekiro™: Shadows Die Twice** - `CUSA13801` - version `01.04` - `JSON`
+- **Sekiro™: Shadows Die Twice** - `CUSA13801` - version `01.04` - `SHN`
+- **Sekiro™: Shadows Die Twice** - `CUSA13801` - version `01.05` - `JSON`
+- **Sekiro™: Shadows Die Twice** - `CUSA13801` - version `01.06` - `JSON`
+- **Sekiro™: Shadows Die Twice** - `CUSA13801` - version `01.06` - `MC4`
+- **Sekiro™: Shadows Die Twice** - `CUSA13801` - version `01.06` - `SHN`
+- **Sekiro™: Shadows Die Twice 只狼：影逝二度** - `CUSA13910` - version `01.06` - `JSON`
+- **Sekiro™: Shadows Die Twice 只狼：影逝二度** - `CUSA13910` - version `01.06` - `SHN`
+- **Sengoku Anthology** - `SLES55512` - version `01.00` - `JSON`
+- **SENRAN KAGURA Burst Re:Newal** - `CUSA11712` - version `01.02` - `JSON`
+- **Seven: Enhanced Edition** - `CUSA15019` - version `01.03` - `JSON`
+- **Shadow Blade Reload** - `CUSA03778` - version `01.02` - `JSON`
+- **Shadow of the Beast** - `CUSA02871` - version `01.00` - `MC4`
+- **Shadow of the Beast™** - `CUSA02871` - version `01.00` - `JSON`
+- **Shadow of the Beast™** - `CUSA02871` - version `01.00` - `MC4`
+- **Shadow of the Beast™** - `CUSA02871` - version `01.00` - `SHN`
+- **Shadow of the Colossus** - `CUSA08809` - version `01.00` - `JSON`
+- **Shadow of the Colossus** - `CUSA08809` - version `01.00` - `MC4`
+- **SHADOW OF THE COLOSSUS** - `CUSA08809` - version `01.01` - `MC4`
+- **SHADOW OF THE COLOSSUS™** - `CUSA08809` - version `01.00` - `MC4`
+- **SHADOW OF THE COLOSSUS™** - `CUSA08809` - version `01.00` - `SHN`
+- **SHADOW OF THE COLOSSUS™** - `CUSA08809` - version `01.01` - `JSON`
+- **SHADOW OF THE COLOSSUS™** - `CUSA08809` - version `01.01` - `MC4`
+- **SHADOW OF THE COLOSSUS™** - `CUSA08809` - version `01.01` - `SHN`
+- **Shadow of the Tomb Raider** - `CUSA10872` - version `01.00` - `JSON`
+- **Shadow of the Tomb Raider** - `CUSA10872` - version `01.00` - `MC4`
+- **Shadow of the Tomb Raider** - `CUSA10872` - version `01.00` - `SHN`
+- **Shadow of the Tomb Raider** - `CUSA10872` - version `01.01` - `JSON`
+- **Shadow of the Tomb Raider** - `CUSA10872` - version `02.00` - `JSON`
+- **Shadow of the Tomb Raider** - `CUSA10872` - version `02.01` - `JSON`
+- **Shadow of the Tomb Raider** - `CUSA10872` - version `02.01` - `MC4`
+- **Shadow Of The Tomb Raider** - `CUSA10872` - version `02.01` - `MC4`
+- **Shadow of the Tomb Raider** - `CUSA10872` - version `02.01` - `SHN`
+- **Shadow of Tomb Raider (Definitive Edition)** - `CUSA10872` - version `01.00` - `MC4`
+- **Shadow Warrior 2** - `CUSA05648` - version `01.06` - `JSON`
+- **Shadow Warrior 3** - `CUSA26357` - version `01.00` - `JSON`
+- **Shadow Warrior 3** - `CUSA26357` - version `01.00` - `MC4`
+- **Shadow Warrior 3** - `CUSA26357` - version `01.00` - `SHN`
+- **Shadow Warrior 3** - `CUSA26357` - version `01.11` - `MC4`
+- **Shadow Warrior 3** - `CUSA26357` - version `01.11` - `SHN`
+- **Shenmue** - `CUSA08355` - version `01.03` - `JSON`
+- **Shenmue III** - `CUSA12289` - version `01.01` - `JSON`
+- **Shenmue III** - `CUSA12289` - version `01.06` - `JSON`
+- **Shikhondo Soul Eater** - `CUSA11603` - version `01.00` - `JSON`
+- **Shikhondo Soul Eater** - `CUSA11603` - version `01.00` - `SHN`
+- **Shikigami no Shiro** - `SLPM62165` - version `01.00` - `JSON`
+- **Shikigami no Shiro** - `SLPM62165` - version `01.00` - `SHN`
+- **Shin Megami Tensei III Nocturne HD Remaster** - `CUSA24919` - version `01.03` - `JSON`
+- **Shing** - `CUSA19595` - version `01.12` - `MC4`
+- **Shing!** - `CUSA19595` - version `01.12` - `JSON`
+- **Shing!** - `CUSA19595` - version `01.12` - `MC4`
+- **Shing!** - `CUSA19595` - version `01.12` - `SHN`
+- **Shining Resonance Refrain** - `CUSA10882` - version `01.00` - `JSON`
+- **Shining Resonance Refrain** - `CUSA10882` - version `01.00` - `MC4`
+- **Shining Resonance Refrain** - `CUSA10882` - version `01.00` - `SHN`
+- **Shinobi** - `SLUS20459` - version `01.00` - `JSON`
+- **Shinobi** - `SLUS20459` - version `01.00` - `SHN`
+- **Shinobi Art of Vengeance Digital Deluxe Edition** - `CUSA45905` - version `01.01` - `JSON`
+- **Shinobi Art of Vengeance Digital Deluxe Edition** - `CUSA45905` - version `01.01` - `MC4`
+- **Shinobi Art of Vengeance Digital Deluxe Edition** - `CUSA45905` - version `01.01` - `SHN`
+- **Shootas, Blood & Teef** - `CUSA31022` - version `01.01` - `JSON`
+- **Shootas, Blood & Teef** - `CUSA31022` - version `01.01` - `MC4`
+- **Shootas, Blood & Teef** - `CUSA31022` - version `01.01` - `SHN`
+- **Shootas, Blood & Theef** - `CUSA31022` - version `01.01` - `MC4`
+- **Shooting Love-Trizeal** - `SLPM62726` - version `01.00` - `JSON`
+- **Shooting Love-Trizeal** - `SLPM62726` - version `01.00` - `SHN`
+- **Shovel Knight** - `CUSA01867` - version `01.07` - `JSON`
+- **Shovel Knight** - `CUSA01867` - version `01.07` - `SHN`
+- **SIFU** - `CUSA25761` - version `01.11` - `JSON`
+- **sifu** - `CUSA25761` - version `01.11` - `JSON`
+- **SIFU** - `CUSA25761` - version `01.16` - `JSON`
+- **SIFU** - `CUSA25761` - version `01.16` - `MC4`
+- **SIFU** - `CUSA25761` - version `01.16` - `SHN`
+- **SIFU** - `CUSA25761` - version `01.22` - `JSON`
+- **SIFU** - `CUSA30202` - version `01.06` - `JSON`
+- **SIGNALIS** - `CUSA34422` - version `01.01` - `JSON`
+- **Silent Hill 2** - `SLES51156` - version `01.00` - `JSON`
+- **Silent Hill 2** - `SLES51156` - version `01.00` - `SHN`
+- **Silent Hill-4-The Room** - `SLUS20873` - version `01.00` - `JSON`
+- **Silent-Hill-3** - `SLES51434` - version `01.00` - `JSON`
+- **Sims 4** - `CUSA09216` - version `01.00` - `MC4`
+- **Sims 4** - `CUSA09216` - version `01.05` - `MC4`
+- **Sine Mora EX** - `CUSA08076` - version `01.00` - `MC4`
+- **Sinner - Sacrifice for Redemption** - `CUSA11217` - version `01.01` - `MC4`
+- **SINNER: Sacrifice for Redemption** - `CUSA11217` - version `01.01` - `JSON`
+- **SINNER: Sacrifice for Redemption** - `CUSA11217` - version `01.01` - `MC4`
+- **SINNER: Sacrifice for Redemption** - `CUSA11217` - version `01.01` - `SHN`
+- **Skul** - `CUSA27428` - version `01.16` - `JSON`
+- **Skul** - `CUSA27428` - version `01.23` - `MC4`
+- **Skul** - `CUSA27428` - version `01.23` - `SHN`
+- **Skul The Hero Slayer** - `CUSA27430` - version `01.19` - `MC4`
+- **Skul the Hero Slayer** - `CUSA27430` - version `01.20` - `MC4`
+- **Sky Force Anniversary** - `CUSA04411` - version `01.03` - `JSON`
+- **Sky Force Anniversary** - `CUSA04411` - version `01.03` - `SHN`
+- **Sky Force Anniversary** - `CUSA04411` - version `01.04` - `MC4`
+- **Sky Force Anniversary** - `CUSA04411` - version `01.04` - `SHN`
+- **Sky Force Anniversary** - `CUSA04445` - version `01.00` - `JSON`
+- **Sky Force Anniversary** - `CUSA04445` - version `01.00` - `MC4`
+- **Sky Force Anniversary** - `CUSA04445` - version `01.00` - `SHN`
+- **Sky Force Anniversary** - `CUSA04445` - version `01.03` - `JSON`
+- **Sky Force Anniversary** - `CUSA04445` - version `01.03` - `SHN`
+- **Sky Force Reloaded** - `CUSA09421` - version `01.03` - `JSON`
+- **Sky Force Reloaded** - `CUSA09421` - version `01.03` - `SHN`
+- **Skyrim** - `CUSA05486` - version `01.00` - `MC4`
+- **Skyrim** - `CUSA05486` - version `01.00` - `SHN`
+- **Skyrim** - `CUSA05486` - version `01.09` - `MC4`
+- **Skyrim** - `CUSA05486` - version `01.09` - `SHN`
+- **Skyrim** - `CUSA05486` - version `01.17` - `JSON`
+- **Skyrim: The Elder Scrolls V** - `CUSA05486` - version `01.00` - `JSON`
+- **Slain Back from Hell** - `CUSA06465` - version `01.01` - `MC4`
+- **Slaps And Beans** - `CUSA12860` - version `01.04` - `JSON`
+- **Slaps and Beans 2** - `CUSA42847` - version `01.01` - `MC4`
+- **Slay the Spire** - `CUSA15289` - version `02.30` - `JSON`
+- **Slay the Spire** - `CUSA15289` - version `02.30` - `MC4`
+- **Slay the Spire** - `CUSA15289` - version `02.30` - `SHN`
+- **Sleeping Dogs** - `CUSA01004` - version `01.00` - `JSON`
+- **Sleeping Dogs: Definitive Edition** - `CUSA01004` - version `01.01` - `MC4`
+- **Sleeping Dogs: Definitive Edition** - `CUSA01004` - version `01.01` - `SHN`
+- **Sleeping Dogs: Definitive Edition** - `CUSA01004` - version `01.02` - `JSON`
+- **SLES50193** - `SLES50193` - version `01.00` - `SHN`
+- **SLES52599** - `SLES52599` - version `01.00` - `SHN`
+- **SLES53021** - `SLES53021` - version `01.00` - `SHN`
+- **SLES53874** - `SLES53874` - version `01.00` - `SHN`
+- **Slime Rancher** - `CUSA11650` - version `01.00` - `SHN`
+- **Slime Rancher** - `CUSA11650` - version `01.20` - `JSON`
+- **Slitterhead** - `CUSA47980` - version `01.02` - `JSON`
+- **SLPM62385** - `SLPM62385` - version `01.00` - `SHN`
+- **SLPS00444** - `SLPS00444` - version `01.00` - `MC4`
+- **SLPS00444** - `SLPS00444` - version `01.00` - `SHN`
+- **SLPS25674** - `SLPS25674` - version `01.00` - `SHN`
+- **SLUS00293** - `SLUS00293` - version `01.00` - `SHN`
+- **SLUS00373** - `SLUS00373` - version `01.00` - `MC4`
+- **SLUS00373** - `SLUS00373` - version `01.00` - `SHN`
+- **SLUS00974** - `SLUS00974` - version `01.00` - `MC4`
+- **SLUS00974** - `SLUS00974` - version `01.00` - `SHN`
+- **SLUS01270** - `SLUS01270` - version `01.00` - `MC4`
+- **SLUS01270** - `SLUS01270` - version `01.00` - `SHN`
+- **SLUS20151** - `SLUS20151` - version `01.00` - `SHN`
+- **SLUS20461** - `SLUS20461` - version `01.00` - `SHN`
+- **SLUS20862** - `SLUS20862` - version `01.00` - `SHN`
+- **SLUS20917** - `SLUS20917` - version `01.00` - `MC4`
+- **SLUS20917** - `SLUS20917` - version `01.00` - `SHN`
+- **SLUS20990** - `SLUS20990` - version `01.00` - `SHN`
+- **SLUS21189** - `SLUS21189` - version `01.00` - `SHN`
+- **SLUS21311** - `SLUS21311` - version `01.01` - `SHN`
+- **SLUS21550** - `SLUS21550` - version `01.00` - `SHN`
+- **SLUS42112** - `SLUS42112` - version `01.00` - `SHN`
+- **Sniper 3** - `CUSA04854` - version `01.00` - `JSON`
+- **Sniper Elite** - `SLES51820` - version `01.00` - `JSON`
+- **Sniper Elite 3** - `CUSA00378` - version `01.00` - `JSON`
+- **Sniper Elite 3** - `CUSA00378` - version `01.00` - `MC4`
+- **Sniper Elite 3** - `CUSA00378` - version `01.00` - `SHN`
+- **Sniper Elite 3 Ultimate Edition** - `CUSA01796` - version `01.00` - `MC4`
+- **Sniper Elite 3 Ultimate edition** - `CUSA01796` - version `01.00` - `MC4`
+- **Sniper Elite 3 Ultimate Edition** - `CUSA01796` - version `01.00` - `SHN`
+- **Sniper Elite 3 Ultimate Edition** - `CUSA01796` - version `01.01` - `JSON`
+- **Sniper Elite 3 Ultimate Edition** - `CUSA01796` - version `01.01` - `MC4`
+- **Sniper Elite 3 Ultimate edition** - `CUSA01796` - version `01.01` - `MC4`
+- **Sniper Elite 3 Ultimate Edition** - `CUSA01796` - version `01.01` - `SHN`
+- **Sniper Elite 4** - `CUSA04099` - version `01.00` - `JSON`
+- **Sniper Elite 4** - `CUSA04099` - version `01.15` - `JSON`
+- **Sniper Elite 4** - `CUSA04099` - version `01.15` - `MC4`
+- **Sniper Elite 4** - `CUSA04099` - version `01.15` - `SHN`
+- **Sniper Elite 4** - `CUSA04099` - version `01.20` - `JSON`
+- **Sniper Elite 4** - `CUSA04099` - version `01.20` - `MC4`
+- **Sniper Elite 4** - `CUSA04099` - version `01.20` - `SHN`
+- **Sniper Elite 4** - `CUSA04220` - version `01.20` - `JSON`
+- **Sniper Elite 4** - `CUSA04220` - version `01.20` - `MC4`
+- **Sniper Elite 4** - `CUSA04220` - version `01.20` - `SHN`
+- **Sniper Elite 5** - `CUSA16075` - version `01.24` - `MC4`
+- **Sniper Elite 5** - `CUSA16075` - version `01.27` - `MC4`
+- **Sniper Elite 5** - `CUSA16075` - version `01.28` - `MC4`
+- **Sniper Elite 5** - `CUSA16164` - version `01.06` - `JSON`
+- **Sniper Elite 5** - `CUSA16164` - version `01.17` - `JSON`
+- **Sniper Elite 5** - `CUSA16164` - version `01.17` - `MC4`
+- **Sniper Elite 5** - `CUSA16164` - version `01.17` - `SHN`
+- **Sniper Elite 5** - `CUSA16164` - version `01.23` - `JSON`
+- **Sniper Elite 5** - `CUSA16164` - version `01.23` - `MC4`
+- **Sniper Elite 5** - `CUSA16164` - version `01.23` - `SHN`
+- **Sniper Elite 5** - `CUSA16164` - version `01.24` - `JSON`
+- **Sniper Elite 5** - `CUSA16164` - version `01.24` - `MC4`
+- **Sniper Elite 5** - `CUSA16164` - version `01.24` - `SHN`
+- **Sniper Elite 5** - `CUSA16164` - version `01.27` - `MC4`
+- **Sniper Elite 5** - `CUSA16164` - version `01.27` - `SHN`
+- **Sniper Elite 5** - `CUSA16164` - version `01.28` - `MC4`
+- **Sniper Elite 5** - `CUSA16164` - version `01.28` - `SHN`
+- **Sniper Elite V2 Remastered** - `CUSA12351` - version `01.06` - `JSON`
+- **Sniper Elite V2 Remastered** - `CUSA12351` - version `01.06` - `MC4`
+- **Sniper Elite V2 Remastered** - `CUSA12351` - version `01.06` - `SHN`
+- **Sniper Ghost Warrior 3** - `CUSA04868` - version `01.09` - `JSON`
+- **Sniper Ghost Warrior Contracts** - `CUSA14619` - version `01.08` - `JSON`
+- **Sniper Ghost Warrior Contracts 2** - `CUSA20373` - version `01.05` - `JSON`
+- **Snow Runner** - `CUSA17425` - version `01.37` - `JSON`
+- **Snow Runner** - `CUSA17425` - version `01.37` - `MC4`
+- **Snow Runner** - `CUSA17425` - version `01.37` - `SHN`
+- **Snow Runner** - `CUSA17425` - version `01.40` - `MC4`
+- **Snow Runner** - `CUSA17425` - version `01.40` - `SHN`
+- **SnowRunner** - `CUSA17425` - version `01.02` - `JSON`
+- **SnowRunner** - `CUSA17438` - version `01.28` - `JSON`
+- **Sol Divide** - `SLES53873` - version `01.00` - `JSON`
+- **Sol Divide** - `SLES53873` - version `01.00` - `SHN`
+- **Solar Ash** - `CUSA26035` - version `01.04` - `JSON`
+- **Söldner-X 2: Final Prototype Definitive Edition** - `CUSA14451` - version `01.00` - `SHN`
+- **Söldner-X 2: Final Prototype Definitive Edition** - `CUSA14451` - version `01.01` - `JSON`
+- **Song of Memories** - `CUSA11047` - version `01.07` - `JSON`
+- **Song of Memories** - `CUSA11047` - version `01.07` - `SHN`
+- **Sonic Chapolin** - `SLUS18251` - version `01.00` - `JSON`
+- **Sonic Colors: Ultimate** - `CUSA19351` - version `01.05` - `JSON`
+- **SONIC FORCES** - `CUSA05674` - version `01.01` - `JSON`
+- **Sonic Forces** - `CUSA05674` - version `01.01` - `MC4`
+- **SONIC FORCES** - `CUSA05674` - version `01.01` - `MC4`
+- **SONIC FORCES** - `CUSA05674` - version `01.01` - `SHN`
+- **SONIC FRONTIER** - `CUSA28194` - version `01.30` - `MC4`
+- **SONIC FRONTIERS** - `CUSA28194` - version `01.10` - `JSON`
+- **SONIC FRONTIERS** - `CUSA28194` - version `01.30` - `MC4`
+- **SONIC FRONTIERS** - `CUSA28194` - version `01.30` - `SHN`
+- **Sonic Mania** - `CUSA07010` - version `01.04` - `JSON`
+- **Sonic Mania** - `CUSA07010` - version `01.04` - `MC4`
+- **Sonic Mania** - `CUSA07010` - version `01.04` - `SHN`
+- **Sonic Mania** - `CUSA07023` - version `01.03` - `JSON`
+- **Sonic Mania** - `CUSA07023` - version `01.03` - `MC4`
+- **Sonic Mania** - `CUSA07023` - version `01.03` - `SHN`
+- **Sonic Origins** - `CUSA30448` - version `02.00` - `MC4`
+- **Sonic Superstars** - `CUSA32740` - version `01.05` - `MC4`
+- **Soul Hackers 2** - `CUSA27730` - version `01.02` - `JSON`
+- **Soul Hackers 2** - `CUSA27730` - version `01.02` - `MC4`
+- **Soul Hackers 2** - `CUSA27730` - version `01.02` - `SHN`
+- **Souldiers** - `CUSA31798` - version `01.07` - `JSON`
+- **Souldiers** - `CUSA31798` - version `01.07` - `MC4`
+- **Souldiers** - `CUSA31798` - version `01.07` - `SHN`
+- **Souldiers** - `CUSA31798` - version `02.01` - `MC4`
+- **Souldiers** - `CUSA31798` - version `02.01` - `SHN`
+- **Soulstice** - `CUSA41712` - version `01.03` - `MC4`
+- **Source of Madness** - `CUSA32720` - version `01.02` - `JSON`
+- **Source of Madness** - `CUSA32720` - version `01.02` - `MC4`
+- **Source of Madness** - `CUSA32720` - version `01.02` - `SHN`
+- **South Park The Fractured But Whole** - `CUSA04311` - version `01.00` - `MC4`
+- **South Park The Fractured But Whole** - `CUSA04323` - version `01.07` - `MC4`
+- **South Park The Fractured But Whole** - `CUSA05485` - version `01.00` - `MC4`
+- **South Park The Stick of Truth** - `CUSA04768` - version `01.00` - `MC4`
+- **South Park™: The Stick of Truth™** - `CUSA04768` - version `01.00` - `JSON`
+- **South Park™: The Stick of Truth™** - `CUSA04768` - version `01.00` - `MC4`
+- **South Park™: The Stick of Truth™** - `CUSA04768` - version `01.00` - `SHN`
+- **Space Invaders-Invasion Day** - `SLES51746` - version `01.00` - `JSON`
+- **Space Invaders-Invasion Day** - `SLES51746` - version `01.00` - `SHN`
+- **Spider-man miles morales** - `CUSA17722` - version `01.09` - `MC4`
+- **Spider-Man Miles Morales** - `CUSA17776` - version `01.01` - `MC4`
+- **Splatter Master** - `SLES53368` - version `01.00` - `JSON`
+- **SpongeBob SquarePants: Battle For Bikini Bottom - Rehydrated** - `CUSA14898` - version `01.03` - `JSON`
+- **Spyro 2** - `SCUS94425` - version `01.00` - `SHN` - `2`
+- **Spyro 2** - `SCUS94425` - version `01.00` - `JSON`
+- **Spyro 2** - `SCUS94425` - version `01.00` - `SHN`
+- **Spyro 2** - `SLUS00977` - version `01.00` - `JSON`
+- **Spyro 2** - `SLUS00977` - version `01.00` - `SHN`
+- **Spyro 3 - Year of the dragon** - `SCUS94467` - version `01.00` - `JSON`
+- **Spyro 3 - Year of the dragon** - `SCUS94467` - version `01.00` - `SHN`
+- **Spyro 3.5 - Return to the Forgotten Realms** - `SCUS94467` - version `01.00` - `JSON`
+- **Spyro Reignited Trilogy** - `CUSA12085` - version `01.00` - `MC4`
+- **Spyro the Dragon** - `SCUS94228` - version `01.00` - `JSON`
+- **Spyro the Dragon** - `SCUS94228` - version `01.00` - `SHN`
+- **Spyro: Reignited Trilogy** - `CUSA12085` - version `01.00` - `MC4`
+- **Spyro: Reignited Trilogy** - `CUSA12085` - version `01.00` - `SHN`
+- **Spyro: Reignited Trilogy** - `CUSA12085` - version `01.03` - `JSON`
+- **STAR OCEAN THE DIVINE FORCE** - `CUSA31855` - version `01.02` - `JSON`
+- **STAR OCEAN THE DIVINE FORCE** - `CUSA31855` - version `01.02` - `MC4`
+- **STAR OCEAN THE DIVINE FORCE** - `CUSA31855` - version `01.02` - `SHN`
+- **Star Ocean The Second story R** - `CUSA40651` - version `01.01` - `MC4`
+- **Star Ocean The Second Story R** - `CUSA40651` - version `01.01` - `MC4`
+- **Star Ocean The Second Story R** - `CUSA40651` - version `01.01` - `SHN`
+- **Star Ocean The Second Story R** - `CUSA40651` - version `01.10` - `JSON`
+- **Star Ocean The Second Story R** - `CUSA40651` - version `01.10` - `MC4`
+- **Star Ocean The Second Story R** - `CUSA40651` - version `01.10` - `SHN`
+- **Star Ocean The Second Story R** - `CUSA40652` - version `01.10` - `JSON`
+- **Star Ocean The Second Story R** - `CUSA40652` - version `01.10` - `SHN`
+- **Star Ocean: Integrity and Faithlessness** - `CUSA03219` - version `01.00` - `MC4`
+- **Star Wars - Fallen Order** - `CUSA12529` - version `01.00` - `MC4`
+- **STAR WARS Battlefront II** - `CUSA05749` - version `01.07` - `JSON`
+- **STAR WARS Battlefront II** - `CUSA05749` - version `01.07` - `MC4`
+- **STAR WARS Battlefront II** - `CUSA05749` - version `01.07` - `SHN`
+- **Star Wars Jedi Fallen Order** - `CUSA12529` - version `01.01` - `JSON`
+- **STAR WARS Jedi Survivor** - `CUSA33778` - version `01.01` - `SHN`
+- **STAR WARS Jedi Survivor** - `CUSA33778` - version `01.03` - `JSON`
+- **STAR WARS Jedi Survivor** - `CUSA33778` - version `01.03` - `SHN`
+- **Star Wars Jedi: Fallen Order** - `CUSA12529` - version `01.12` - `MC4`
+- **STAR WARS Jedi: Fallen Order™** - `CUSA12529` - version `01.00` - `JSON`
+- **STAR WARS Jedi: Fallen Order™** - `CUSA12529` - version `01.00` - `MC4`
+- **STAR WARS Jedi: Fallen Order™** - `CUSA12529` - version `01.00` - `SHN`
+- **STAR WARS Jedi: Fallen Order™** - `CUSA12529` - version `01.01` - `JSON`
+- **STAR WARS Jedi: Fallen Order™** - `CUSA12529` - version `01.12` - `JSON`
+- **STAR WARS Jedi: Fallen Order™** - `CUSA12529` - version `01.12` - `MC4`
+- **STAR WARS Jedi: Fallen Order™** - `CUSA12529` - version `01.12` - `SHN`
+- **Star Wars Squadrons** - `CUSA15089` - version `01.03` - `MC4`
+- **STAR WARS™: Squadrons** - `CUSA15089` - version `01.03` - `JSON`
+- **STAR WARS™: Squadrons** - `CUSA15089` - version `01.03` - `MC4`
+- **STAR WARS™: Squadrons** - `CUSA15089` - version `01.03` - `SHN`
+- **Stardew Valley** - `CUSA06840` - version `01.20` - `MC4`
+- **Starlit Adventures** - `CUSA11941` - version `01.02` - `JSON`
+- **SteamWorld Dig** - `CUSA00521` - version `01.01` - `MC4`
+- **SteamWorld Dig2** - `CUSA11597` - version `01.00` - `MC4`
+- **Steel Dragon EX** - `SLES52482` - version `01.00` - `JSON`
+- **Stellaris: Console Edition** - `CUSA07254` - version `01.00` - `JSON`
+- **Stellaris: Console Edition** - `CUSA07254` - version `01.52` - `JSON`
+- **Stellaris: Console Edition** - `CUSA07254` - version `06.00` - `JSON`
+- **Story Of Season Friend Mineral Town** - `CUSA26005` - version `01.01` - `JSON`
+- **Strafe** - `CUSA07722` - version `01.05` - `MC4`
+- **Stranded Deep** - `CUSA18152` - version `01.01` - `JSON`
+- **Stranded Deep** - `CUSA18449` - version `01.00` - `JSON`
+- **Stranded Deep** - `CUSA18449` - version `01.12` - `JSON`
+- **Strange Brigade** - `CUSA07905` - version `01.08` - `JSON`
+- **STRANGER OF PARADISE** - `CUSA29578` - version `01.12` - `JSON`
+- **Stranger Of Paradise - Final Fantasy** - `CUSA29579` - version `01.32` - `MC4`
+- **STRANGER OF PARADISE FINAL FANTASY ORIGIN** - `CUSA29578` - version `01.04` - `JSON`
+- **STRANGER OF PARADISE FINAL FANTASY ORIGIN** - `CUSA29578` - version `01.31` - `JSON`
+- **Stranger of Paradise: Final Fantasy Origin** - `CUSA29579` - version `01.32` - `JSON`
+- **Stranger of Paradise: Final Fantasy Origin** - `CUSA29579` - version `01.32` - `MC4`
+- **Stranger of Paradise: Final Fantasy Origin** - `CUSA29579` - version `01.32` - `SHN`
+- **Stray** - `CUSA24899` - version `01.03` - `JSON`
+- **STREET FIGHTER 6** - `CUSA31498` - version `01.01` - `JSON`
+- **STREET FIGHTER V** - `CUSA01222` - version `01.00` - `JSON`
+- **Street Figther 4** - `CUSA01839` - version `01.07` - `JSON`
+- **Streets Of Rage 4** - `CUSA16221` - version `01.00` - `MC4`
+- **Streets Of Rage 4** - `CUSA16221` - version `01.00` - `SHN`
+- **Streets of Rage 4** - `CUSA16221` - version `01.01` - `JSON`
+- **Streets of Rage 4** - `CUSA16221` - version `01.03` - `JSON`
+- **Streets Of Rage 4** - `CUSA16221` - version `01.06` - `JSON`
+- **Streets Of Rage 4** - `CUSA16221` - version `01.06` - `MC4`
+- **Streets Of Rage 4** - `CUSA16221` - version `01.06` - `SHN`
+- **Streets Of Rage 4** - `CUSA16221` - version `01.09` - `JSON`
+- **Streets Of Rage 4** - `CUSA16221` - version `01.09` - `SHN`
+- **Streets of Rage 4** - `CUSA16237` - version `01.09` - `JSON`
+- **Streets Of Rage 4** - `CUSA16237` - version `01.09` - `MC4`
+- **Streets of Rage 4** - `CUSA16237` - version `01.09` - `MC4`
+- **Streets of Rage 4** - `CUSA16237` - version `01.09` - `SHN`
+- **Styx: Shards of Darkness** - `CUSA03877` - version `01.00` - `JSON`
+- **Styx: Shards of Darkness** - `CUSA03877` - version `01.00` - `MC4`
+- **Styx: Shards of Darkness** - `CUSA03877` - version `01.00` - `SHN`
+- **Styx: Shards of Darkness** - `CUSA03877` - version `01.02` - `JSON`
+- **Subdivision Infinity DX** - `CUSA14245` - version `01.01` - `MC4`
+- **Suffering-The-Ties That Bind** - `SLES53626` - version `01.00` - `JSON`
+- **Suffering, The** - `SLUS20636` - version `01.00` - `JSON`
+- **Suffering, The** - `SLUS20636` - version `01.00` - `SHN`
+- **Sundered** - `CUSA07282` - version `01.14` - `JSON`
+- **SUPER BOMBERMAN R** - `CUSA10667` - version `01.04` - `JSON`
+- **SUPER BOMBERMAN R** - `CUSA10667` - version `01.04` - `MC4`
+- **SUPER BOMBERMAN R** - `CUSA10667` - version `01.04` - `SHN`
+- **super bomberman_ CUSA10667 v1 04** - `CUSA10667` - version `01.04` - `MC4`
+- **Super Mario - 64** - `SLUS62390` - version `01.00` - `SHN` - `2`
+- **Super Mario - 64** - `SLUS62390` - version `01.00` - `JSON`
+- **Super Mario - 64** - `SLUS62390` - version `01.00` - `SHN`
+- **Super Robot Wars OG The Moon Dwellers** - `CUSA04713` - version `01.00` - `JSON`
+- **SUPER ROBOT WARS V** - `CUSA06124` - version `01.00` - `JSON`
+- **SUPER ROBOT WARS X** - `CUSA10587` - version `01.00` - `JSON`
+- **Super Star Wars** - `CUSA03292` - version `01.01` - `JSON`
+- **Super Star Wars** - `CUSA03292` - version `01.01` - `MC4`
+- **Super Star Wars** - `CUSA03292` - version `01.01` - `SHN`
+- **Super Stardust™Ultra VR** - `CUSA05951` - version `01.00` - `JSON`
+- **Superbeat: Xonic** - `CUSA06894` - version `01.00` - `JSON`
+- **Superbeat: Xonic** - `CUSA06894` - version `01.00` - `MC4`
+- **Superbeat: Xonic** - `CUSA06894` - version `01.00` - `SHN`
+- **Surviving the Aftermath** - `CUSA15495` - version `01.07` - `JSON`
+- **Surviving the Aftermath** - `CUSA15495` - version `01.07` - `MC4`
+- **Surviving the Aftermath** - `CUSA15495` - version `01.07` - `SHN`
+- **Sword and Fairy : Together Forever** - `CUSA29794` - version `01.10` - `JSON`
+- **Sword art Online - Fatal Bullet** - `CUSA10168` - version `01.01` - `MC4`
+- **SWORD ART ONLINE Alicization Lycoris** - `CUSA18374` - version `01.10` - `JSON`
+- **SWORD ART ONLINE Alicization Lycoris** - `CUSA18374` - version `03.12` - `JSON`
+- **SWORD ART ONLINE Re: Hollow Fragment** - `CUSA02560` - version `01.00` - `JSON`
+- **SWORD ART ONLINE: HOLLOW REALIZATION** - `CUSA05033` - version `03.20` - `JSON`
+- **SWORD ART ONLINE: HOLLOW REALIZATION** - `CUSA05033` - version `03.20` - `MC4`
+- **SWORD ART ONLINE: HOLLOW REALIZATION** - `CUSA05033` - version `03.20` - `SHN`
+- **Syndrome** - `CUSA06636` - version `01.02` - `MC4`
+- **Tails of Iron** - `CUSA28465` - version `01.02` - `JSON`
+- **Tails of Iron** - `CUSA28465` - version `01.02` - `MC4`
+- **Tails of Iron** - `CUSA28465` - version `01.02` - `SHN`
+- **Tales of Arise** - `CUSA17195` - version `01.00` - `JSON`
+- **Tales of Arise** - `CUSA17195` - version `01.04` - `JSON`
+- **Tales of Berseria** - `CUSA05105` - version `01.00` - `MC4`
+- **Tales of Berseria** - `CUSA05258` - version `01.00` - `JSON`
+- **Tales of Symphonia Remastered** - `CUSA29102` - version `01.01` - `JSON`
+- **Tales of Vesperia: Definitive Edition** - `CUSA12287` - version `01.00` - `JSON`
+- **Tales of Zestiria** - `CUSA02461` - version `01.00` - `MC4`
+- **Tales of Zestiria?** - `CUSA02510` - version `01.01` - `MC4`
+- **Tales of Zestiria™** - `CUSA02510` - version `01.01` - `JSON`
+- **Tales of Zestiria™** - `CUSA02510` - version `01.01` - `MC4`
+- **Tales of Zestiria™** - `CUSA02510` - version `01.01` - `SHN`
+- **Tank Mechanic Simulator** - `CUSA27693` - version `01.07` - `MC4`
+- **Tchia** - `CUSA34306` - version `01.13` - `MC4`
+- **Team Sonic Racing** - `CUSA11115` - version `01.00` - `JSON`
+- **Team Sonic Racing** - `CUSA11115` - version `01.02` - `JSON`
+- **Teenage Mutant Ninja Turtles 2** - `SLUS20981` - version `01.00` - `JSON`
+- **Teenage Mutant Ninja Turtles 2** - `SLUS20981` - version `01.00` - `SHN`
+- **teenage mutant ninja turtles shredders revenge** - `CUSA30991` - version `01.08` - `MC4`
+- **Teenage Mutant Ninja Turtles: Mutants Unleashed** - `CUSA44075` - version `01.01` - `MC4`
+- **Teenage Mutant Ninja Turtles: Mutants Unleashed** - `CUSA44075` - version `01.01` - `SHN`
+- **Teenage Mutant Ninja Turtles: Mutants Unleashed** - `CUSA44075` - version `01.03` - `JSON`
+- **Teenage Mutant Ninja Turtles™: Mutants in Manhattan** - `CUSA01843` - version `01.00` - `JSON`
+- **Tekken 7** - `CUSA06014` - version `01.00` - `JSON`
+- **Tekken 7** - `CUSA06014` - version `01.00` - `MC4`
+- **Tekken 7** - `CUSA06014` - version `01.00` - `SHN`
+- **Tekken 7** - `CUSA06014` - version `01.12` - `MC4`
+- **Tekken 7** - `CUSA06014` - version `01.12` - `SHN`
+- **Tekken 7** - `CUSA06014` - version `05.10` - `JSON`
+- **Tekken 7** - `CUSA06014` - version `05.10` - `SHN`
+- **Tekken Tag Tournamen** - `SLUS20001` - version `01.00` - `JSON`
+- **Tekken Tag Tournamen** - `SLUS20001` - version `01.00` - `SHN`
+- **TEKKEN™7** - `CUSA06014` - version `03.02` - `JSON`
+- **Tengai** - `SLES53871` - version `01.00` - `JSON`
+- **Tengai** - `SLES53871` - version `01.00` - `SHN`
+- **Terminator: Resistance** - `CUSA15306` - version `01.00` - `JSON`
+- **Terminator: Resistance** - `CUSA15306` - version `01.01` - `JSON`
+- **Terminator: Resistance** - `CUSA17812` - version `01.02` - `JSON`
+- **Terminator: Resistance** - `CUSA17812` - version `01.02` - `SHN`
+- **Terraria** - `CUSA00737` - version `01.00` - `JSON`
+- **Terraria** - `CUSA00737` - version `01.00` - `MC4`
+- **Terraria** - `CUSA00737` - version `01.00` - `SHN`
+- **Terraria** - `CUSA00737` - version `01.04` - `MC4`
+- **Terraria** - `CUSA00737` - version `01.04` - `SHN`
+- **Terraria** - `CUSA00737` - version `01.10` - `MC4`
+- **Terraria** - `CUSA00737` - version `01.10` - `SHN`
+- **Terraria** - `CUSA00740` - version `01.10` - `JSON`
+- **Terraria** - `CUSA00740` - version `01.10` - `MC4`
+- **Terraria** - `CUSA00740` - version `01.10` - `SHN`
+- **Terraria** - `CUSA00740` - version `01.28` - `JSON`
+- **Tesla Force** - `CUSA25372` - version `01.05` - `JSON`
+- **The Amazing Spider-Man 2** - `CUSA00394` - version `01.00` - `JSON`
+- **The Amazing Spider-Man 2** - `CUSA00394` - version `01.00` - `MC4`
+- **The Amazing Spider-Man 2** - `CUSA00394` - version `01.00` - `SHN`
+- **The Amazing Spider-Man 2** - `CUSA00394` - version `01.01` - `MC4`
+- **The Amazing Spider-Man 2** - `CUSA00394` - version `01.01` - `SHN`
+- **The Ascent** - `CUSA14683` - version `01.04` - `JSON`
+- **The Binding of Isaac Afterbirth Plus** - `CUSA10195` - version `01.00` - `JSON`
+- **The Binding of Isaac Afterbirth Plus** - `CUSA10195` - version `01.00` - `MC4`
+- **The Binding of Isaac Rebirth** - `CUSA01344` - version `01.06` - `JSON`
+- **The Binding of Isaac Rebirth** - `CUSA01344` - version `01.06` - `MC4`
+- **The Binding of Isaac Rebirth** - `CUSA01344` - version `01.06` - `SHN`
+- **The Binding of Isaac: Afterbirth+** - `CUSA10195` - version `01.00` - `MC4`
+- **The Binding of Isaac: Afterbirth+** - `CUSA10195` - version `01.00` - `SHN`
+- **The Binding of Isaac: Afterbirth+** - `CUSA10195` - version `01.01` - `JSON`
+- **The Binding of Isaac: Afterbirth+** - `CUSA10195` - version `01.01` - `SHN`
+- **The Binding of Isaac: Rebirth** - `CUSA00792` - version `01.16` - `JSON`
+- **The Callisto Protocol** - `CUSA27373` - version `01.07` - `JSON`
+- **The Callisto Protocol** - `CUSA27373` - version `01.07` - `MC4`
+- **The Callisto Protocol** - `CUSA27373` - version `01.07` - `SHN`
+- **The Callisto Protocol** - `CUSA27373` - version `01.12` - `JSON`
+- **The Callisto Protocol** - `CUSA27373` - version `01.12` - `MC4`
+- **The Callisto Protocol** - `CUSA27373` - version `01.12` - `SHN`
+- **The Callisto Protocol** - `CUSA27373` - version `01.14` - `MC4`
+- **The Callisto Protocol** - `CUSA27373` - version `01.14` - `SHN`
+- **The Callisto Protocol** - `CUSA27373` - version `01.23` - `MC4`
+- **The Callisto Protocol** - `CUSA27373` - version `01.23` - `SHN`
+- **The Cruel King and the Great Hero** - `CUSA28600` - version `01.00` - `JSON`
+- **The Evil Within** - `CUSA00203` - version `01.06` - `JSON`
+- **The Evil Within** - `CUSA00375` - version `01.00` - `JSON`
+- **The Evil Within** - `CUSA00375` - version `01.00` - `MC4`
+- **The Evil Within** - `CUSA00375` - version `01.00` - `SHN`
+- **The Evil Within** - `CUSA00375` - version `01.06` - `JSON`
+- **The Evil Within** - `CUSA01082` - version `01.06` - `JSON`
+- **The Evil Within** - `CUSA01082` - version `01.06` - `MC4`
+- **The Evil Within** - `CUSA01082` - version `01.06` - `SHN`
+- **The Evil Within 2** - `CUSA08974` - version `01.04` - `JSON`
+- **The Evil Within 2** - `CUSA08974` - version `01.04` - `MC4`
+- **The Evil Within 2** - `CUSA08974` - version `01.04` - `SHN`
+- **The Evil Within® 2** - `CUSA06164` - version `01.04` - `JSON`
+- **The Evil Within® 2** - `CUSA06164` - version `01.04` - `MC4`
+- **The Evil Within® 2** - `CUSA06164` - version `01.04` - `SHN`
+- **The Evil Within® 2** - `CUSA06166` - version `01.04` - `JSON`
+- **The Forest** - `CUSA12398` - version `01.01` - `JSON`
+- **The Forest** - `CUSA12398` - version `01.15` - `JSON`
+- **The Forgotten City** - `CUSA26944` - version `01.04` - `MC4`
+- **The Hong Kong Massacre** - `CUSA12943` - version `01.03` - `JSON`
+- **The Hong Kong Massacre** - `CUSA12943` - version `01.03` - `MC4`
+- **The Hong Kong Massacre** - `CUSA12943` - version `01.03` - `SHN`
+- **The Incredible Adventures of Van Helsing** - `CUSA04303` - version `01.01` - `JSON`
+- **The Incredible Adventures of Van Helsing** - `CUSA04303` - version `01.01` - `MC4`
+- **The Incredible Adventures of Van Helsing** - `CUSA04303` - version `01.01` - `SHN`
+- **The Incredible Adventures of Van Helsing II** - `CUSA09370` - version `01.03` - `JSON`
+- **The Incredible Adventures of Van Helsing II** - `CUSA09370` - version `01.03` - `MC4`
+- **The Incredible Adventures of Van Helsing II** - `CUSA09370` - version `01.03` - `SHN`
+- **The Incredible Adventures of Van Helsing III** - `CUSA15225` - version `01.03` - `JSON`
+- **The Incredible Adventures of Van Helsing III** - `CUSA15225` - version `01.03` - `MC4`
+- **The Incredible Adventures of Van Helsing III** - `CUSA15225` - version `01.03` - `SHN`
+- **The King of Fighters XIV** - `CUSA05533` - version `01.00` - `MC4`
+- **THE KING OF FIGHTERS XV** - `CUSA25272` - version `01.62` - `JSON`
+- **THE KING OF FIGHTERS XV Standard Edition** - `CUSA25272` - version `01.00` - `JSON`
+- **The Last Faith** - `CUSA35638` - version `01.03` - `MC4`
+- **The Last Of Us** - `CUSA00557` - version `01.09` - `MC4`
+- **The Last Of Us II** - `CUSA07820` - version `01.09` - `MC4`
+- **The Last Of Us II** - `CUSA10249` - version `01.09` - `MC4`
+- **The Last Of Us Remastered** - `CUSA00556` - version `01.00` - `JSON`
+- **The Last Of Us Remastered** - `CUSA00556` - version `01.00` - `MC4`
+- **The Last Of Us Remastered** - `CUSA00556` - version `01.06` - `JSON`
+- **The Last Of Us Remastered** - `CUSA00556` - version `01.06` - `MC4`
+- **The Last of Us™ Part II** - `CUSA07820` - version `01.09` - `JSON`
+- **The Last of Us™ Part II** - `CUSA07820` - version `01.09` - `MC4`
+- **The Last of Us™ Part II** - `CUSA07820` - version `01.09` - `SHN`
+- **The Last of Us™ Part II** - `CUSA10249` - version `01.00` - `JSON`
+- **The Last of Us™ Part II** - `CUSA10249` - version `01.07` - `SHN` - `2`
+- **The Last of Us™ Part II** - `CUSA10249` - version `01.07` - `SHN` - `3`
+- **The Last of Us™ Part II** - `CUSA10249` - version `01.07` - `JSON`
+- **The Last of Us™ Part II** - `CUSA10249` - version `01.07` - `SHN`
+- **The Last of Us™ Part II** - `CUSA10249` - version `01.09` - `SHN` - `2`
+- **The Last of Us™ Part II** - `CUSA10249` - version `01.09` - `JSON`
+- **The Last of Us™ Part II** - `CUSA10249` - version `01.09` - `MC4`
+- **The Last of Us™ Part II** - `CUSA10249` - version `01.09` - `SHN`
+- **The Last of Us™ Remastered** - `CUSA00552` - version `01.00` - `JSON`
+- **The Last of Us™ Remastered** - `CUSA00552` - version `01.00` - `MC4`
+- **The Last of Us™ Remastered** - `CUSA00552` - version `01.00` - `SHN`
+- **The Last of Us™ Remastered** - `CUSA00552` - version `01.09` - `JSON`
+- **The Last of Us™ Remastered** - `CUSA00552` - version `01.09` - `MC4`
+- **The Last of Us™ Remastered** - `CUSA00552` - version `01.09` - `SHN`
+- **The Last of Us™ Remastered** - `CUSA00552` - version `01.10` - `JSON`
+- **The Last of Us™ Remastered** - `CUSA00552` - version `01.10` - `MC4`
+- **The Last of Us™ Remastered** - `CUSA00552` - version `01.10` - `SHN`
+- **The Last of Us™ Remastered** - `CUSA00552` - version `01.11` - `JSON`
+- **The Last of Us™ Remastered** - `CUSA00552` - version `01.11` - `MC4`
+- **The Last of Us™ Remastered** - `CUSA00552` - version `01.11` - `SHN`
+- **The Last of Us™ Remastered** - `CUSA00556` - version `01.00` - `MC4`
+- **The Last of Us™ Remastered** - `CUSA00556` - version `01.00` - `SHN`
+- **The Last of Us™ Remastered** - `CUSA00556` - version `01.06` - `MC4`
+- **The Last of Us™ Remastered** - `CUSA00556` - version `01.06` - `SHN`
+- **The Last of Us™ Remastered** - `CUSA00556` - version `01.09` - `JSON`
+- **The Last of Us™ Remastered** - `CUSA00556` - version `01.09` - `MC4`
+- **The Last of Us™ Remastered** - `CUSA00556` - version `01.09` - `SHN`
+- **The Last of Us™ Remastered** - `CUSA00556` - version `01.11` - `JSON`
+- **The Last of Us™ Remastered** - `CUSA00556` - version `01.11` - `MC4`
+- **The Last of Us™ Remastered** - `CUSA00556` - version `01.11` - `SHN`
+- **The Last of Us™ Remastered** - `CUSA00557` - version `01.09` - `JSON`
+- **The Last of Us™ Remastered** - `CUSA00557` - version `01.09` - `MC4`
+- **The Last of Us™ Remastered** - `CUSA00557` - version `01.09` - `SHN`
+- **The Last of Us™ Remastered** - `CUSA00557` - version `01.10` - `JSON`
+- **The Last of Us™ Remastered** - `CUSA00557` - version `01.10` - `SHN`
+- **The Last of Us™ Remastered** - `CUSA00557` - version `01.11` - `JSON`
+- **THE LAST REMNANT Remastered** - `CUSA11846` - version `01.03` - `JSON`
+- **The Last Remnant Remastered** - `CUSA11846` - version `01.03` - `MC4`
+- **THE LAST REMNANT Remastered** - `CUSA11846` - version `01.03` - `MC4`
+- **THE LAST REMNANT Remastered** - `CUSA11846` - version `01.03` - `SHN`
+- **The Last Stand: Aftermath** - `CUSA29191` - version `01.01` - `JSON`
+- **The Last Stand: Aftermath** - `CUSA29192` - version `01.01` - `JSON`
+- **The Legend of Heroes: Trails into Reverie** - `CUSA28907` - version `01.02` - `MC4`
+- **The Legend of Heroes: Trails of Cold Steel** - `CUSA12365` - version `01.00` - `JSON`
+- **The Legend of Heroes: Trails of Cold Steel II** - `CUSA12566` - version `01.00` - `JSON`
+- **The Legend of Heroes: Trails of Cold Steel II** - `CUSA12566` - version `01.00` - `SHN`
+- **The Legend of Heroes: Trails of Cold Steel III** - `CUSA15119` - version `01.02` - `JSON`
+- **The Legend of Heroes: Trails of Cold Steel IV** - `CUSA19637` - version `01.01` - `JSON`
+- **The Legend of Korra** - `CUSA00731` - version `01.00` - `JSON`
+- **The Long Dark** - `CUSA08624` - version `02.16` - `JSON`
+- **The Long Dark** - `CUSA08624` - version `02.16` - `SHN`
+- **The Long Dark** - `CUSA09690` - version `01.98` - `MC4`
+- **The Lord Of The Rings - Gollum** - `CUSA33616` - version `01.03` - `MC4`
+- **The Lord of the Rings: Gollum** - `CUSA32039` - version `01.05` - `JSON`
+- **The Lord of the Rings: Gollum** - `CUSA32039` - version `01.05` - `SHN`
+- **The Lord of the Rings: Gollum** - `CUSA33616` - version `01.03` - `MC4` - `2`
+- **The Lord of the Rings: Gollum** - `CUSA33616` - version `01.03` - `JSON`
+- **The Lord of the Rings: Gollum** - `CUSA33616` - version `01.03` - `MC4`
+- **The Lord of the Rings: Gollum** - `CUSA33616` - version `01.03` - `SHN`
+- **The Mummy Demastered** - `CUSA09147` - version `01.02` - `JSON`
+- **The Mummy Demastered** - `CUSA09147` - version `01.02` - `SHN`
+- **The Ninja Saviors: Return of the Warriors** - `CUSA16564` - version `01.00` - `MC4`
+- **The Order: 1886** - `CUSA00076` - version `01.00` - `JSON`
+- **The Order: 1886** - `CUSA00076` - version `01.00` - `MC4`
+- **The Order: 1886** - `CUSA00076` - version `01.00` - `SHN`
+- **The Order: 1886** - `CUSA00100` - version `01.02` - `JSON`
+- **The Order: 1886** - `CUSA00785` - version `01.02` - `JSON`
+- **The Outer Worlds** - `CUSA13689` - version `01.01` - `JSON`
+- **The Outer Worlds** - `CUSA13689` - version `01.04` - `JSON`
+- **The Pathless** - `CUSA14330` - version `01.00` - `JSON`
+- **The Seven Deadly Sins Knights of Britannia** - `CUSA08054` - version `01.00` - `MC4`
+- **The Seven Deadly Sins Knights of Britannia** - `CUSA08070` - version `01.03` - `MC4`
+- **The Sims™ 4** - `CUSA09216` - version `01.00` - `MC4`
+- **The Sims™ 4** - `CUSA09216` - version `01.00` - `SHN`
+- **The Sims™ 4** - `CUSA09216` - version `01.05` - `JSON`
+- **The Sims™ 4** - `CUSA09216` - version `01.05` - `MC4`
+- **The Sims™ 4** - `CUSA09216` - version `01.05` - `SHN`
+- **The Sinking City** - `CUSA13152` - version `01.04` - `JSON`
+- **The Smurfs Mission Vileaf** - `CUSA26670` - version `01.03` - `JSON`
+- **The Surge** - `CUSA04849` - version `01.13` - `JSON`
+- **The Surge** - `CUSA04849` - version `01.13` - `MC4`
+- **The Surge** - `CUSA04849` - version `01.13` - `SHN`
+- **The Surge 2** - `CUSA12567` - version `01.01` - `JSON`
+- **The Surge 2** - `CUSA12567` - version `01.03` - `JSON`
+- **The Surge 2** - `CUSA12567` - version `01.10` - `JSON`
+- **The Surge 2** - `CUSA12567` - version `01.10` - `MC4`
+- **The Surge 2** - `CUSA12567` - version `01.10` - `SHN`
+- **The Survivalists** - `CUSA16146` - version `01.01` - `JSON`
+- **The Survivalists** - `CUSA16273` - version `01.06` - `JSON`
+- **The Survivalists** - `CUSA16273` - version `01.06` - `MC4`
+- **The Survivalists** - `CUSA16273` - version `01.06` - `SHN`
+- **The Swapper** - `CUSA00315` - version `01.01` - `JSON`
+- **The Swapper** - `CUSA00315` - version `01.01` - `MC4`
+- **The Swapper** - `CUSA00315` - version `01.01` - `SHN`
+- **The TakeOver** - `CUSA17160` - version `01.00` - `JSON`
+- **The TakeOver** - `CUSA17160` - version `01.02` - `JSON`
+- **The Technomancer** - `CUSA03824` - version `01.00` - `JSON`
+- **The Technomancer** - `CUSA03824` - version `01.00` - `MC4`
+- **The Technomancer** - `CUSA03824` - version `01.00` - `SHN`
+- **The Witcher 3 Wild Hunt** - `CUSA05571` - version `04.06` - `JSON`
+- **The Witcher 3 Wild Hunt** - `CUSA05571` - version `04.06` - `SHN`
+- **The Witcher 3 Wild Hunt** - `CUSA05572` - version `04.06` - `JSON`
+- **The Witcher 3 Wild Hunt** - `CUSA05572` - version `04.06` - `SHN`
+- **The Witcher 3 Wild Hunt** - `CUSA05573` - version `01.50` - `MC4`
+- **The Witcher 3 Wild Hunt** - `CUSA05573` - version `01.50` - `SHN`
+- **The Witcher 3 Wild Hunt** - `CUSA05573` - version `04.06` - `JSON`
+- **The Witcher 3 Wild Hunt** - `CUSA05573` - version `04.06` - `SHN`
+- **The Witcher 3 Wild Hunt** - `CUSA05574` - version `01.50` - `MC4`
+- **The Witcher 3 Wild Hunt** - `CUSA05574` - version `01.50` - `SHN`
+- **The Witcher 3 Wild Hunt** - `CUSA05574` - version `01.62` - `MC4`
+- **The Witcher 3 Wild Hunt** - `CUSA05574` - version `01.62` - `SHN`
+- **The Witcher 3 Wild Hunt** - `CUSA05574` - version `04.06` - `JSON`
+- **The Witcher 3 Wild Hunt** - `CUSA05574` - version `04.06` - `SHN`
+- **The Witcher 3 Wild Hunt** - `CUSA05644` - version `04.06` - `JSON`
+- **The Witcher 3 Wild Hunt** - `CUSA05644` - version `04.06` - `SHN`
+- **The Witcher 3 Wild Hunt** - `CUSA05725` - version `04.00` - `MC4` - `2`
+- **The Witcher 3 Wild Hunt** - `CUSA05725` - version `04.00` - `JSON`
+- **The Witcher 3 Wild Hunt** - `CUSA05725` - version `04.00` - `MC4`
+- **The Witcher 3 Wild Hunt** - `CUSA05725` - version `04.00` - `SHN`
+- **The Witcher 3 Wild Hunt** - `CUSA05725` - version `4.00` - `MC4`
+- **The Witcher 3: Wild Hunt - Complete Edition** - `CUSA05725` - version `04.00` - `MC4`
+- **the witcher 3: Wild Hunt - Game of the Year Edition** - `CUSA05574` - version `01.62` - `MC4`
+- **The Witcher 3: Wild Hunt – Complete Edition** - `CUSA05725` - version `01.00` - `JSON`
+- **The Witcher 3: Wild Hunt – Complete Edition** - `CUSA05725` - version `04.00` - `JSON`
+- **The Witcher 3: Wild Hunt – Game of the Year Edition** - `CUSA05574` - version `01.50` - `JSON`
+- **The Witcher 3: Wild Hunt – Game of the Year Edition** - `CUSA05574` - version `01.62` - `JSON`
+- **The Witcher III: GOTY Edition** - `CUSA05725` - version `01.30` - `JSON`
+- **THE-MESSENGER** - `SLES03986` - version `01.00` - `SHN`
+- **THE-MESSENGER** - `SLES03986` - version `02.02` - `JSON`
+- **theHunter: Call of the Wild** - `CUSA08368` - version `01.00` - `MC4`
+- **theHunter: Call of the Wild** - `CUSA08661` - version `01.33` - `JSON`
+- **theHunter: Call of the Wild** - `CUSA08661` - version `01.65` - `JSON`
+- **TheLongDark** - `CUSA09690` - version `01.98` - `JSON`
+- **TheLongDark** - `CUSA09690` - version `01.98` - `MC4`
+- **TheLongDark** - `CUSA09690` - version `01.98` - `SHN`
+- **Thief** - `CUSA00250` - version `01.00` - `JSON`
+- **Thief** - `CUSA00250` - version `01.02` - `JSON`
+- **Thief** - `CUSA00250` - version `01.02` - `MC4`
+- **Thief** - `CUSA00250` - version `01.02` - `SHN`
+- **Thief Simulator** - `CUSA20097` - version `01.05` - `MC4`
+- **This War of Mine** - `CUSA02646` - version `01.00` - `JSON`
+- **This War of Mine** - `CUSA02646` - version `01.00` - `MC4`
+- **This War of Mine** - `CUSA02646` - version `01.00` - `SHN`
+- **This War of Mine: The Little Ones** - `CUSA02696` - version `01.00` - `JSON`
+- **This War of Mine: The Little Ones** - `CUSA02696` - version `01.00` - `MC4`
+- **This War of Mine: The Little Ones** - `CUSA02696` - version `01.00` - `SHN`
+- **Thunder Force VI** - `SLPM55096` - version `01.00` - `JSON`
+- **Thunder Force VI** - `SLPM55096` - version `01.00` - `SHN`
+- **Tifanfall 2** - `CUSA04027` - version `01.13` - `MC4`
+- **Timespinner** - `CUSA11926` - version `01.04` - `JSON`
+- **Timothy Vs Aliens** - `CUSA11586` - version `01.02` - `MC4`
+- **Tiny Tina's Wonderlands** - `CUSA23766` - version `01.10` - `JSON`
+- **Tiny Tina's Wonderlands** - `CUSA23766` - version `01.10` - `MC4`
+- **Tiny Tina's Wonderlands** - `CUSA23766` - version `01.10` - `SHN`
+- **Tiny Tinas Wonderlands** - `CUSA23766` - version `01.08` - `JSON`
+- **Tiny Troopers** - `CUSA00540` - version `01.00` - `JSON`
+- **Tiny Troopers** - `CUSA00540` - version `01.00` - `MC4`
+- **Tiny Troopers** - `CUSA00540` - version `01.00` - `SHN`
+- **Titan Quest** - `CUSA08366` - version `01.00` - `JSON`
+- **Titan Quest** - `CUSA08366` - version `01.00` - `MC4`
+- **Titan Quest** - `CUSA08366` - version `01.00` - `SHN`
+- **Titanfall 2** - `CUSA04013` - version `01.13` - `MC4`
+- **Titanfall™ 2** - `CUSA04013` - version `01.13` - `JSON`
+- **Titanfall™ 2** - `CUSA04013` - version `01.13` - `MC4`
+- **Titanfall™ 2** - `CUSA04013` - version `01.13` - `SHN`
+- **Titanfall™ 2** - `CUSA04027` - version `01.13` - `JSON`
+- **Titanfall™ 2** - `CUSA04027` - version `01.13` - `MC4`
+- **Titanfall™ 2** - `CUSA04027` - version `01.13` - `SHN`
+- **TMNTSR** - `CUSA30991` - version `01.02` - `JSON`
+- **TMNTSR** - `CUSA30991` - version `01.08` - `MC4`
+- **TMNTSR** - `CUSA30991` - version `01.08` - `SHN`
+- **TMNTSR** - `CUSA30991` - version `01.10` - `MC4`
+- **TMNTSR** - `CUSA30991` - version `01.10` - `SHN`
+- **Toki** - `CUSA15162` - version `01.01` - `JSON`
+- **Tokyo Xanadu eX+** - `CUSA06978` - version `01.00` - `JSON`
+- **Tom Clancy's Ghost Recon® Wildlands** - `CUSA02819` - version `01.18` - `JSON`
+- **Tom Clancy's Ghost Recon® Wildlands** - `CUSA02902` - version `01.18` - `JSON`
+- **Tom Clancy's Ghost Recon® Wildlands** - `CUSA02902` - version `01.18` - `SHN`
+- **Tom Clancy\'s Rainbow Six Siege** - `CUSA01788` - version `01.46` - `MC4`
+- **Tom Clancys Ghost Recon® Wildlands** - `CUSA02819` - version `01.00` - `MC4`
+- **Tom Clancys Ghost Recon® Wildlands** - `CUSA02819` - version `01.00` - `SHN`
+- **Tom Clancys Ghost Recon® Wildlands** - `CUSA02819` - version `01.18` - `MC4`
+- **Tom Clancys Ghost Recon® Wildlands** - `CUSA02819` - version `01.18` - `SHN`
+- **Tom Clancys Ghost Recon® Wildlands** - `CUSA02819` - version `01.31` - `JSON`
+- **Tom Clancys Ghost Recon® Wildlands** - `CUSA02821` - version `01.29` - `JSON`
+- **Tom Clancys Rainbow Six® Siege** - `CUSA01788` - version `01.46` - `JSON`
+- **Tom Clancys Rainbow Six® Siege** - `CUSA01788` - version `01.46` - `MC4`
+- **Tom Clancys Rainbow Six® Siege** - `CUSA01788` - version `01.46` - `SHN`
+- **Tomb Raider 1,2,3 Remastered** - `CUSA43774` - version `01.01` - `SHN`
+- **Tomb Raider 1,2,3 Remastered** - `CUSA43774` - version `01.02` - `JSON`
+- **Tomb Raider 1,2,3 Remastered** - `CUSA43774` - version `01.02` - `SHN`
+- **Tomb Raider 1,2,3 Remastered** - `CUSA43774` - version `01.04` - `SHN`
+- **Tomb Raider I–III Remastered** - `CUSA43774` - version `01.01` - `JSON`
+- **Tomb Raider: Definitive Edition** - `CUSA00109` - version `01.01` - `JSON`
+- **Tomb Raider: Definitive Edition** - `CUSA00109` - version `01.01` - `MC4`
+- **Tomb Raider: Definitive Edition** - `CUSA00109` - version `01.01` - `SHN`
+- **Torchlight III** - `CUSA10227` - version `01.15` - `JSON`
+- **Tormented souls** - `CUSA29199` - version `01.00` - `JSON`
+- **Tormented souls** - `CUSA29199` - version `01.03` - `SHN`
+- **Tormented souls** - `CUSA29199` - version `99.01` - `MC4`
+- **Tormented souls** - `CUSA29199` - version `99.01` - `SHN`
+- **Toukiden 2** - `CUSA05797` - version `01.03` - `JSON`
+- **Toukiden 2** - `CUSA05797` - version `01.03` - `SHN`
+- **Toy Soldiers War Chest** - `CUSA00428` - version `01.00` - `JSON`
+- **Transformers Devastation** - `CUSA01410` - version `01.00` - `JSON`
+- **Transformers Rise of the Dark Spark** - `CUSA00472` - version `01.00` - `MC4`
+- **TRANSFORMERS: Fall of Cybertron** - `CUSA01845` - version `01.01` - `JSON`
+- **Transformers: Rise of the Dark Spark** - `CUSA00472` - version `01.00` - `JSON`
+- **Transformers: Rise of the Dark Spark** - `CUSA00472` - version `01.00` - `MC4`
+- **Transformers: Rise of the Dark Spark** - `CUSA00472` - version `01.00` - `SHN`
+- **Travis Strikes Again: No More Heroes** - `CUSA15300` - version `01.01` - `JSON`
+- **Travis Strikes Again: No More Heroes** - `CUSA15300` - version `01.01` - `SHN`
+- **Trials of Mana** - `CUSA16978` - version `01.00` - `JSON`
+- **Trials of Mana** - `CUSA17050` - version `01.00` - `JSON`
+- **Trials of Mana** - `CUSA17050` - version `01.00` - `MC4`
+- **Trials of Mana** - `CUSA17050` - version `01.00` - `SHN`
+- **Trials Rising(TM)** - `CUSA09435` - version `01.06` - `JSON`
+- **Trials Rising(TM)** - `CUSA09435` - version `01.12` - `JSON`
+- **Trine 4: The Nightmare Prince** - `CUSA09869` - version `01.02` - `JSON`
+- **Trine Enchanted Edition** - `CUSA01135` - version `01.00` - `JSON`
+- **Trine Enchanted Edition** - `CUSA01135` - version `01.00` - `MC4`
+- **Trine Enchanted Edition** - `CUSA01135` - version `01.00` - `SHN`
+- **Troll and I** - `CUSA06233` - version `01.00` - `MC4`
+- **Tropico 6** - `CUSA08154` - version `01.02` - `JSON`
+- **Tropico 6** - `CUSA08154` - version `01.02` - `MC4`
+- **Tropico 6** - `CUSA08154` - version `01.02` - `SHN`
+- **Tropico 6** - `CUSA08154` - version `19.02` - `JSON`
+- **Tropico 6** - `CUSA08154` - version `19.02` - `MC4`
+- **Tropico 6** - `CUSA08154` - version `19.02` - `SHN`
+- **Truck Driver** - `CUSA12209` - version `01.20` - `JSON`
+- **Truck Driver** - `CUSA12209` - version `01.20` - `MC4`
+- **Truck Driver** - `CUSA12209` - version `01.20` - `SHN`
+- **Tunic** - `CUSA26967` - version `01.01` - `JSON`
+- **Tunic** - `CUSA26967` - version `01.01` - `MC4`
+- **Tunic** - `CUSA26967` - version `01.01` - `SHN`
+- **Tunic** - `CUSA26967` - version `01.02` - `JSON`
+- **Turok -Dinosaur Hunter** - `CUSA20201` - version `01.02` - `JSON`
+- **Turok -Dinosaur Hunter** - `CUSA20201` - version `01.02` - `SHN`
+- **Turok-Dinosaur-2** - `CUSA25215` - version `01.01` - `JSON`
+- **Turok-Dinosaur-2** - `CUSA25215` - version `01.01` - `SHN`
+- **Turok-Dinosaur-2** - `CUSA25215` - version `01.04` - `MC4`
+- **Turok-Dinosaur-2** - `CUSA25215` - version `01.04` - `SHN`
+- **Twin Robots** - `CUSA06339` - version `01.01` - `JSON`
+- **Twin Robots** - `CUSA06339` - version `01.01` - `MC4`
+- **Twin Robots** - `CUSA06339` - version `01.01` - `SHN`
+- **Two point campus** - `CUSA24605` - version `01.12` - `JSON`
+- **Two Point Campus** - `CUSA24605` - version `01.12` - `JSON`
+- **Two Point Campus** - `CUSA24605` - version `01.12` - `MC4`
+- **Two point campus** - `CUSA24605` - version `01.12` - `MC4`
+- **Two point campus** - `CUSA24605` - version `01.12` - `SHN`
+- **Two Point Hospital** - `CUSA15884` - version `01.02` - `JSON`
+- **Ultra Age** - `CUSA14637` - version `02.02` - `JSON`
+- **UMBRELLA CORPS** - `CUSA03109` - version `01.06` - `JSON`
+- **Umbrella Corps** - `CUSA03109` - version `01.06` - `MC4`
+- **UMBRELLA CORPS** - `CUSA03109` - version `01.06` - `MC4`
+- **UMBRELLA CORPS** - `CUSA03109` - version `01.06` - `SHN`
+- **Uncharted 4** - `CUSA00917` - version `01.00` - `JSON`
+- **Uncharted 4** - `CUSA00917` - version `01.00` - `MC4`
+- **Uncharted 4** - `CUSA00917` - version `01.00` - `SHN`
+- **Uncharted 4** - `CUSA00917` - version `01.18` - `JSON`
+- **Uncharted 4** - `CUSA00917` - version `01.18` - `MC4`
+- **Uncharted 4** - `CUSA00917` - version `01.18` - `SHN`
+- **Uncharted 4** - `CUSA00917` - version `01.33` - `SHN`
+- **Uncharted 4: A Thief’s End™** - `CUSA00341` - version `01.00` - `JSON`
+- **Uncharted 4: A Thief’s End™** - `CUSA00341` - version `01.00` - `MC4`
+- **Uncharted 4: A Thief’s End™** - `CUSA00341` - version `01.00` - `SHN`
+- **Uncharted 4: A Thief’s End™** - `CUSA00341` - version `01.32` - `JSON`
+- **Uncharted 4: A Thief’s End™** - `CUSA00341` - version `01.32` - `MC4`
+- **Uncharted 4: A Thief’s End™** - `CUSA00341` - version `01.32` - `SHN`
+- **Uncharted 4: A Thief’s End™** - `CUSA00341` - version `01.33` - `JSON`
+- **Uncharted 4: A Thief’s End™** - `CUSA00341` - version `01.33` - `SHN`
+- **Uncharted Collection: Uncharted 1** - `CUSA02343` - version `01.00` - `JSON`
+- **Uncharted Collection: Uncharted 1** - `CUSA02343` - version `01.00` - `MC4`
+- **Uncharted Collection: Uncharted 1** - `CUSA02343` - version `01.02` - `JSON`
+- **Uncharted Collection: Uncharted 1** - `CUSA02343` - version `01.02` - `MC4`
+- **Uncharted Collection: Uncharted 2** - `CUSA02343` - version `01.00` - `JSON` - `big2-ps4_Shipping.elf`
+- **Uncharted Collection: Uncharted 2** - `CUSA02343` - version `01.00` - `MC4` - `big2-ps4_Shipping.elf`
+- **Uncharted Collection: Uncharted 3** - `CUSA02343` - version `01.00` - `JSON` - `big3-ps4_Shipping.elf`
+- **Uncharted Collection: Uncharted 3** - `CUSA02343` - version `01.00` - `MC4` - `big3-ps4_Shipping.elf`
+- **Uncharted The Lost Legacy** - `CUSA07875` - version `01.00` - `JSON`
+- **Uncharted: The Lost Legacy** - `CUSA09564` - version `01.00` - `JSON`
+- **Uncharted: The Lost Legacy** - `CUSA09564` - version `01.00` - `MC4`
+- **Uncharted: The Lost Legacy** - `CUSA09564` - version `01.00` - `SHN`
+- **Uncharted: The Lost Legacy** - `CUSA09564` - version `01.08` - `JSON`
+- **Uncharted: The Lost Legacy** - `CUSA09564` - version `01.08` - `MC4`
+- **Uncharted: The Lost Legacy** - `CUSA09564` - version `01.08` - `SHN`
+- **Uncharted: The Lost Legacy™** - `CUSA07737` - version `01.09` - `JSON`
+- **Uncharted: The Nathan Drake Collection** - `CUSA02343` - version `01.00` - `MC4` - `big2-ps4_Shipping.elf`
+- **Uncharted: The Nathan Drake Collection** - `CUSA02343` - version `01.00` - `SHN` - `big2-ps4_Shipping.elf`
+- **Uncharted: The Nathan Drake Collection** - `CUSA02343` - version `01.00` - `MC4` - `big3-ps4_Shipping.elf`
+- **Uncharted: The Nathan Drake Collection** - `CUSA02343` - version `01.00` - `SHN` - `big3-ps4_Shipping.elf`
+- **Uncharted: The Nathan Drake Collection** - `CUSA02343` - version `01.00` - `MC4`
+- **Uncharted: The Nathan Drake Collection** - `CUSA02343` - version `01.00` - `SHN`
+- **Uncharted: The Nathan Drake Collection** - `CUSA02343` - version `01.02` - `SHN` - `big2-ps4_Shipping.elf`
+- **Uncharted: The Nathan Drake Collection** - `CUSA02343` - version `01.02` - `SHN` - `big3-ps4_Shipping.elf`
+- **Uncharted: The Nathan Drake Collection** - `CUSA02343` - version `01.02` - `MC4`
+- **Uncharted: The Nathan Drake Collection** - `CUSA02343` - version `01.02` - `SHN`
+- **Uncharted: The Nathan Drake Collection** - `CUSA02343` - version `02.01` - `JSON`
+- **Uncharted: The Nathan Drake Collection** - `CUSA02343` - version `03.01` - `JSON`
+- **Uncharted: The Nathan Drake Collection™** - `CUSA02320` - version `01.00` - `JSON` - `big2-ps4_Shipping.elf`
+- **Uncharted: The Nathan Drake Collection™** - `CUSA02320` - version `01.00` - `SHN` - `big2-ps4_Shipping.elf`
+- **Uncharted: The Nathan Drake Collection™** - `CUSA02320` - version `01.00` - `JSON` - `big3-ps4_Shipping.elf`
+- **Uncharted: The Nathan Drake Collection™** - `CUSA02320` - version `01.00` - `SHN` - `big3-ps4_Shipping.elf`
+- **Uncharted: The Nathan Drake Collection™** - `CUSA02320` - version `01.00` - `JSON`
+- **Uncharted: The Nathan Drake Collection™** - `CUSA02320` - version `01.00` - `MC4`
+- **Uncharted: The Nathan Drake Collection™** - `CUSA02320` - version `01.00` - `SHN`
+- **Uncharted: The Nathan Drake Collection™** - `CUSA02320` - version `01.02` - `SHN` - `2`
+- **Uncharted: The Nathan Drake Collection™** - `CUSA02320` - version `01.02` - `JSON` - `big2-ps4_Shipping.elf`
+- **Uncharted: The Nathan Drake Collection™** - `CUSA02320` - version `01.02` - `SHN` - `big2-ps4_Shipping.elf`
+- **Uncharted: The Nathan Drake Collection™** - `CUSA02320` - version `01.02` - `SHN` - `big2-ps4_Shipping.elf_2`
+- **Uncharted: The Nathan Drake Collection™** - `CUSA02320` - version `01.02` - `JSON` - `big3-ps4_Shipping.elf`
+- **Uncharted: The Nathan Drake Collection™** - `CUSA02320` - version `01.02` - `SHN` - `big3-ps4_Shipping.elf`
+- **Uncharted: The Nathan Drake Collection™** - `CUSA02320` - version `01.02` - `SHN` - `big3-ps4_Shipping.elf_2`
+- **Uncharted: The Nathan Drake Collection™** - `CUSA02320` - version `01.02` - `JSON`
+- **Uncharted: The Nathan Drake Collection™** - `CUSA02320` - version `01.02` - `MC4`
+- **Uncharted: The Nathan Drake Collection™** - `CUSA02320` - version `01.02` - `SHN`
+- **Uncharted™: The Lost Legacy** - `CUSA07875` - version `01.00` - `MC4`
+- **Uncharted™: The Lost Legacy** - `CUSA07875` - version `01.00` - `SHN`
+- **Uncharted™: The Lost Legacy** - `CUSA07875` - version `01.08` - `JSON`
+- **Uncharted™: The Lost Legacy** - `CUSA07875` - version `01.08` - `MC4`
+- **Uncharted™: The Lost Legacy** - `CUSA07875` - version `01.08` - `SHN`
+- **Uncharted™: The Lost Legacy** - `CUSA07875` - version `01.09` - `SHN`
+- **Undertale** - `CUSA09415` - version `01.00` - `JSON`
+- **Undertale** - `CUSA09415` - version `01.00` - `SHN`
+- **United Assault - Normandy '44** - `CUSA29456` - version `01.03` - `JSON`
+- **United Assault - Normandy '44** - `CUSA29456` - version `01.03` - `MC4`
+- **United Assault - Normandy '44** - `CUSA29456` - version `01.03` - `SHN`
+- **Unknown 9: Awakening** - `CUSA34016` - version `01.03` - `JSON`
+- **UnMetal** - `CUSA27670` - version `01.04` - `JSON`
+- **Until Dawn™: Rush of Blood** - `CUSA02350` - version `01.00` - `JSON`
+- **UP0700-CUSA17195_00-PS4TOARISE000001** - `CUSA17195` - version `01.06` - `JSON`
+- **UP1195-CUSA06213_00-THEDEERGODPS4000** - `CUSA06213` - version `01.02` - `JSON`
+- **UP1249-CUSA26258_00-6920210578712389** - `CUSA26258` - version `01.01` - `JSON`
+- **UP2346-CUSA05796_00-RIMEGAME01NA0001** - `CUSA05796` - version `01.01` - `JSON`
+- **UP2591-CUSA05049_00-SOTD000000000000** - `CUSA05049` - version `01.06` - `JSON`
+- **UP2746-CUSA11758_00-SHAQFURETAIL2018** - `CUSA11758` - version `01.00` - `JSON`
+- **UP3643-CUSA51046_00-0000000000000000** - `CUSA51046` - version `01.10` - `JSON`
+- **UP4133-CUSA03803_00-THETECHNOMANCER0** - `CUSA03803` - version `01.04` - `JSON`
+- **UP4133-CUSA19412_00-0000000CURSEGAME** - `CUSA19412` - version `01.05` - `JSON`
+- **UP7013-CUSA32236_00-8367207855877469** - `CUSA32236` - version `01.00` - `SHN`
+- **UP7013-CUSA32236_00-8367207855877469** - `CUSA32236` - version `01.05` - `MC4`
+- **UP7013-CUSA32236_00-8367207855877469** - `CUSA32236` - version `01.05` - `SHN`
+- **UP7013-CUSA32236_00-8367207855877469** - `CUSA32236` - version `01.08` - `JSON`
+- **UP7013-CUSA32236_00-8367207855877469** - `CUSA32236` - version `01.08` - `SHN`
+- **Urban Chaos - Riot Response** - `SLUS21390` - version `01.00` - `JSON`
+- **Urban Chaos - Riot Response** - `SLUS21390` - version `01.00` - `SHN`
+- **Valentino Rossi The Game** - `CUSA05164` - version `01.01` - `JSON`
+- **Valfaris** - `CUSA17672` - version `01.01` - `MC4`
+- **Valkyria Chronicles 4** - `CUSA10633` - version `01.01` - `JSON`
+- **Valkyria Revolution** - `CUSA06810` - version `01.00` - `JSON`
+- **Valkyria Revolution** - `CUSA06810` - version `01.00` - `SHN`
+- **VALKYRIE ELYSIUM** - `CUSA33214` - version `01.02` - `JSON`
+- **VALKYRIE ELYSIUM** - `CUSA33214` - version `01.02` - `MC4`
+- **VALKYRIE ELYSIUM** - `CUSA33214` - version `01.02` - `SHN`
+- **Vampire: The Masquerade – Swansong** - `CUSA33241` - version `01.06` - `JSON`
+- **Vampire: The Masquerade – Swansong** - `CUSA33241` - version `01.06` - `MC4`
+- **Vampire: The Masquerade – Swansong** - `CUSA33241` - version `01.06` - `SHN`
+- **Vampire: The Masquerade ? Swansong** - `CUSA33241` - version `01.06` - `MC4`
+- **Vampyr** - `CUSA03293` - version `01.09` - `MC4`
+- **Vampyr** - `CUSA03468` - version `01.07` - `JSON`
+- **Vanquish** - `CUSA16161` - version `01.02` - `JSON`
+- **Vanquish** - `CUSA16161` - version `01.02` - `MC4`
+- **Vanquish** - `CUSA16161` - version `01.02` - `SHN`
+- **Wanted Dead** - `CUSA32701` - version `01.01` - `MC4`
+- **Wanted: Dead** - `CUSA32701` - version `01.01` - `JSON`
+- **Wanted: Dead** - `CUSA32701` - version `01.01` - `MC4`
+- **Wanted: Dead** - `CUSA32701` - version `01.01` - `SHN`
+- **Wasteland 2: Director's Cut** - `CUSA02431` - version `01.03` - `JSON`
+- **Wasteland 2: Director's Cut** - `CUSA02431` - version `01.03` - `MC4`
+- **Wasteland 2: Director's Cut** - `CUSA02431` - version `01.03` - `SHN`
+- **Wasteland 3** - `CUSA13339` - version `01.26` - `MC4`
+- **Watch Dogs** - `CUSA00016` - version `01.00` - `JSON`
+- **Watch Dogs** - `CUSA00016` - version `01.00` - `MC4`
+- **Watch Dogs** - `CUSA00016` - version `01.00` - `SHN`
+- **Watch Dogs (Complete Edition)** - `CUSA01395` - version `01.01` - `MC4`
+- **Watch Dogs 2** - `CUSA04294` - version `01.00` - `MC4`
+- **Watch Dogs?: Legion** - `CUSA13115` - version `01.24` - `MC4`
+- **Watch Dogs®: Legion** - `CUSA13034` - version `01.02` - `JSON`
+- **Watch Dogs®: Legion** - `CUSA13034` - version `01.24` - `SHN`
+- **Watch Dogs®: Legion** - `CUSA13115` - version `01.02` - `JSON`
+- **Watch Dogs®: Legion** - `CUSA13115` - version `01.24` - `JSON`
+- **Watch Dogs®: Legion** - `CUSA13115` - version `01.24` - `MC4`
+- **Watch Dogs®: Legion** - `CUSA13115` - version `01.24` - `SHN`
+- **WATCH_DOGS® 2** - `CUSA04294` - version `01.00` - `JSON`
+- **WATCH_DOGS® 2** - `CUSA04294` - version `01.00` - `MC4`
+- **WATCH_DOGS® 2** - `CUSA04294` - version `01.00` - `SHN`
+- **WATCH_DOGS® 2** - `CUSA04294` - version `01.05` - `JSON`
+- **WATCH_DOGS® 2** - `CUSA04294` - version `01.05` - `MC4`
+- **WATCH_DOGS® 2** - `CUSA04294` - version `01.05` - `SHN`
+- **WATCH_DOGS® 2** - `CUSA04294` - version `01.15` - `MC4`
+- **WATCH_DOGS® 2** - `CUSA04294` - version `01.15` - `SHN`
+- **WATCH_DOGS® 2** - `CUSA04294` - version `01.17` - `MC4`
+- **WATCH_DOGS® 2** - `CUSA04294` - version `01.17` - `SHN`
+- **WATCH_DOGS® 2** - `CUSA04294` - version `01.18` - `JSON`
+- **WATCH_DOGS® 2** - `CUSA04295` - version `01.17` - `JSON`
+- **WATCH_DOGS® 2** - `CUSA04295` - version `01.17` - `MC4`
+- **WATCH_DOGS® 2** - `CUSA04295` - version `01.17` - `SHN`
+- **WATCH_DOGS™** - `CUSA00016` - version `01.00` - `JSON`
+- **WATCH_DOGS™** - `CUSA00021` - version `01.00` - `JSON`
+- **We Happy Few** - `CUSA09406` - version `01.09` - `JSON`
+- **We Happy Few** - `CUSA09406` - version `01.09` - `MC4`
+- **We Happy Few** - `CUSA09406` - version `01.09` - `SHN`
+- **Weird West** - `CUSA17598` - version `01.11` - `JSON`
+- **Weird West** - `CUSA17598` - version `01.17` - `MC4`
+- **Weird West** - `CUSA17598` - version `01.17` - `SHN`
+- **Werewolf: The Apocalypse - Earthblood** - `CUSA16782` - version `01.04` - `JSON`
+- **Werewolf: The Apocalypse - Earthblood** - `CUSA16782` - version `01.04` - `MC4`
+- **Werewolf: The Apocalypse - Earthblood** - `CUSA16782` - version `01.04` - `SHN`
+- **West of Dead** - `CUSA16084` - version `01.06` - `JSON`
+- **West of Dead** - `CUSA16084` - version `01.06` - `MC4`
+- **West of Dead** - `CUSA16084` - version `01.06` - `SHN`
+- **Wife Quest** - `CUSA27782` - version `01.00` - `JSON`
+- **Wildcat Gun Machine** - `CUSA29645` - version `01.02` - `JSON`
+- **Wildcat Gun Machine** - `CUSA29645` - version `01.02` - `MC4`
+- **Wildcat Gun Machine** - `CUSA29645` - version `01.02` - `SHN`
+- **Windstorm An Unexpected Arrival** - `CUSA13711` - version `01.04` - `MC4`
+- **Windstorm The Game Start of a Great Friendship** - `CUSA10394` - version `01.05` - `MC4`
+- **Within the Blade** - `CUSA28539` - version `01.00` - `MC4`
+- **Wo Long Fallen Dynasty** - `CUSA36846` - version `01.11` - `SHN`
+- **Wo Long Fallen Dynasty** - `CUSA36846` - version `01.27` - `JSON`
+- **Wo Long Fallen Dynasty** - `CUSA36846` - version `01.27` - `MC4`
+- **Wo Long Fallen Dynasty** - `CUSA36846` - version `01.27` - `SHN`
+- **Wo Long Fallen Dynasty** - `CUSA36986` - version `01.04` - `MC4`
+- **Wo Long Fallen Dynasty** - `CUSA36986` - version `01.04` - `SHN`
+- **Wo Long Fallen Dynasty** - `CUSA36986` - version `01.11` - `MC4`
+- **Wo Long Fallen Dynasty** - `CUSA36986` - version `01.11` - `SHN`
+- **Wo Long Fallen Dynasty** - `CUSA36986` - version `01.27` - `JSON`
+- **Wo Long Fallen Dynasty** - `CUSA36986` - version `01.27` - `MC4`
+- **Wo Long Fallen Dynasty** - `CUSA36986` - version `01.27` - `SHN`
+- **Wo Long Fallen Dynasty** - `CUSA37028` - version `01.11` - `JSON`
+- **Wo Long Fallen Dynasty** - `CUSA37028` - version `01.11` - `SHN`
+- **Wo Long: Fallen Dynasty** - `CUSA36818` - version `01.11` - `JSON`
+- **Wo Long: Fallen Dynasty** - `CUSA36818` - version `01.11` - `SHN`
+- **Wo Long: Fallen Dynasty** - `CUSA36846` - version `01.11` - `JSON`
+- **Wo Long: Fallen Dynasty** - `CUSA36986` - version `01.02` - `JSON`
+- **Wo Long: Fallen Dynasty** - `CUSA36986` - version `01.11` - `JSON`
+- **Wolfenstein 2 v1.07 5.05 Backport** - `CUSA07384` - version `01.07` - `MC4`
+- **Wolfenstein II: The New Colossus** - `CUSA07377` - version `01.00` - `JSON`
+- **Wolfenstein II: The New Colossus** - `CUSA07377` - version `01.00` - `MC4`
+- **Wolfenstein II: The New Colossus** - `CUSA07377` - version `01.00` - `SHN`
+- **Wolfenstein II: The New Colossus** - `CUSA07377` - version `01.07` - `MC4`
+- **Wolfenstein II: The New Colossus** - `CUSA07377` - version `01.07` - `SHN`
+- **Wolfenstein: The New Order** - `CUSA00320` - version `01.00` - `JSON`
+- **Wolfenstein: The New Order** - `CUSA00320` - version `01.01` - `MC4`
+- **Wolfenstein: The New Order** - `CUSA00320` - version `01.01` - `SHN`
+- **Wolfenstein: Youngblood** - `CUSA13094` - version `01.00` - `JSON`
+- **Wolfenstein: Youngblood** - `CUSA13094` - version `01.06` - `JSON`
+- **Wolfenstein® II: The New Colossus™** - `CUSA07384` - version `01.07` - `JSON`
+- **Wolfenstein® II: The New Colossus™** - `CUSA07384` - version `01.07` - `MC4`
+- **Wolfenstein® II: The New Colossus™** - `CUSA07384` - version `01.07` - `SHN`
+- **Wolfenstein®: The Old Blood** - `CUSA01540` - version `01.00` - `JSON`
+- **Wolfenstein®: The Old Blood** - `CUSA01540` - version `01.01` - `JSON`
+- **Wonder Boy Anniversary Collection** - `CUSA32586` - version `01.01` - `MC4`
+- **WONDER BOY RETURNS REMIX** - `CUSA16765` - version `01.00` - `JSON`
+- **WONDER BOY RETURNS REMIX** - `CUSA16765` - version `01.01` - `MC4`
+- **WONDER BOY RETURNS REMIX** - `CUSA16765` - version `01.01` - `SHN`
+- **Wonder Boy: Asha in monster World** - `CUSA26736` - version `01.00` - `JSON`
+- **Wonder Boy: Asha in Monster World** - `CUSA26736` - version `01.01` - `JSON`
+- **Wonder Boy: Asha in Monster World** - `CUSA26736` - version `01.01` - `MC4`
+- **Wonder Boy: Asha in Monster World** - `CUSA26736` - version `01.01` - `SHN`
+- **Wonderboy - Return Remix** - `CUSA16765` - version `01.01` - `MC4`
+- **WORLD OF FINAL FANTASY** - `CUSA04647` - version `01.03` - `JSON`
+- **WORLD OF FINAL FANTASY** - `CUSA04647` - version `01.03` - `SHN`
+- **World War Z Aftermath** - `CUSA13930` - version `01.21` - `JSON`
+- **World War Z Aftermath** - `CUSA13930` - version `01.21` - `SHN`
+- **World War Z Aftermath** - `CUSA14046` - version `01.31` - `JSON`
+- **World War Z Aftermath** - `CUSA14046` - version `01.41` - `JSON`
+- **World War Z Aftermath** - `CUSA14046` - version `01.41` - `MC4`
+- **World War Z: Aftermath** - `CUSA14046` - version `01.41` - `MC4`
+- **World War Z: Aftermath** - `CUSA14046` - version `01.41` - `SHN`
+- **World War Z: Aftermath** - `CUSA14046` - version `01.52` - `JSON`
+- **World War Z: Aftermath** - `CUSA14046` - version `01.52` - `MC4`
+- **World War Z: Aftermath** - `CUSA14046` - version `01.52` - `SHN`
+- **WRC 10 FIA World Rally Championship** - `CUSA27790` - version `01.06` - `JSON`
+- **WRC Generations** - `CUSA33609` - version `01.04` - `JSON`
+- **WRC Generations** - `CUSA33609` - version `01.04` - `MC4`
+- **WRC Generations** - `CUSA33609` - version `01.04` - `SHN`
+- **Wukong** - `CUSA25298` - version `01.01` - `JSON`
+- **Wukong** - `CUSA25298` - version `01.01` - `MC4`
+- **Wukong** - `CUSA25298` - version `01.01` - `SHN`
+- **WWE 2K15** - `CUSA00781` - version `01.00` - `JSON`
+- **WWE 2K18** - `CUSA08357` - version `01.08` - `MC4`
+- **WWE 2K22** - `CUSA25882` - version `01.07` - `JSON`
+- **WWE 2K22** - `CUSA25882` - version `01.15` - `JSON`
+- **WWE 2K24** - `CUSA43272` - version `01.05` - `JSON`
+- **WWE 2K24** - `CUSA43272` - version `01.12` - `SHN`
+- **WWE2K22** - `CUSA25882` - version `01.16` - `JSON`
+- **WWE2K23** - `CUSA34179` - version `01.09` - `JSON`
+- **XII Stag** - `SLES51704` - version `01.00` - `JSON`
+- **XII Stag** - `SLES51704` - version `01.00` - `SHN`
+- **XIII Remake** - `CUSA19096` - version `01.01` - `JSON`
+- **XIII Remake** - `CUSA19096` - version `01.01` - `MC4`
+- **XIII Remake** - `CUSA19096` - version `01.01` - `SHN`
+- **Xuan Yuan Sword- The Gate of Firmament** - `CUSA06423` - version `01.05` - `MC4`
+- **Xuan Yuan Sword: the Gate of Firmament** - `CUSA06423` - version `01.05` - `JSON`
+- **Xuan Yuan Sword: the Gate of Firmament** - `CUSA06423` - version `01.05` - `MC4`
+- **Xuan Yuan Sword: the Gate of Firmament** - `CUSA06423` - version `01.05` - `SHN`
+- **Yaga** - `CUSA16523` - version `01.03` - `JSON`
+- **YAKUZA 0** - `CUSA05133` - version `01.05` - `JSON`
+- **YAKUZA 0** - `CUSA05133` - version `01.05` - `MC4`
+- **YAKUZA 0** - `CUSA05133` - version `01.05` - `SHN`
+- **Yakuza 3 Remastered** - `CUSA15360` - version `01.01` - `JSON`
+- **Yakuza 3 Remastered** - `CUSA15360` - version `01.01` - `MC4`
+- **Yakuza 3 Remastered** - `CUSA15360` - version `01.01` - `SHN`
+- **YAKUZA 4** - `CUSA15326` - version `01.01` - `JSON`
+- **Yakuza 4** - `CUSA15361` - version `01.01` - `JSON`
+- **Yakuza 4** - `CUSA15361` - version `01.01` - `MC4`
+- **Yakuza 4** - `CUSA15361` - version `01.01` - `SHN`
+- **YAKUZA 5** - `CUSA15363` - version `01.01` - `JSON`
+- **YAKUZA 5** - `CUSA15363` - version `01.01` - `SHN`
+- **Yakuza 6** - `CUSA09660` - version `01.05` - `MC4`
+- **YAKUZA 6: The Song of Life** - `CUSA09660` - version `01.05` - `JSON`
+- **YAKUZA 6: The Song of Life** - `CUSA09660` - version `01.05` - `MC4`
+- **YAKUZA 6: The Song of Life** - `CUSA09660` - version `01.05` - `SHN`
+- **Yakuza III Remastered** - `CUSA15360` - version `01.01` - `MC4`
+- **Yakuza Kiwami** - `CUSA06997` - version `01.09` - `JSON`
+- **Yakuza Kiwami** - `CUSA06997` - version `01.09` - `SHN`
+- **YAKUZA KIWAMI** - `CUSA07615` - version `01.09` - `JSON`
+- **YAKUZA KIWAMI** - `CUSA07615` - version `01.09` - `MC4`
+- **YAKUZA KIWAMI** - `CUSA07615` - version `01.09` - `SHN`
+- **YAKUZA KIWAMI 2** - `CUSA10706` - version `01.00` - `JSON`
+- **YAKUZA KIWAMI 2** - `CUSA10706` - version `01.04` - `MC4`
+- **Yakuza Kiwami 2** - `CUSA10706` - version `01.04` - `MC4`
+- **YAKUZA KIWAMI 2** - `CUSA10706` - version `01.04` - `SHN`
+- **Yakuza Like a Dragon** - `CUSA16745` - version `01.01` - `MC4`
+- **Yakuza: Like A Dragon** - `CUSA16734` - version `01.10` - `JSON`
+- **Yakuza: Like A Dragon** - `CUSA16745` - version `01.00` - `JSON`
+- **Yakuza: Like A Dragon** - `CUSA16745` - version `01.01` - `JSON`
+- **Yakuza: Like A Dragon** - `CUSA16745` - version `01.01` - `MC4`
+- **Yakuza: Like A Dragon** - `CUSA16745` - version `01.01` - `SHN`
+- **Yet Another Zombie Defense HD** - `CUSA18354` - version `01.00` - `JSON`
+- **Yokushin - GigaWing Generations** - `SLPM62602` - version `01.00` - `JSON`
+- **Yokushin - GigaWing Generations** - `SLPM62602` - version `01.00` - `SHN`
+- **Ys IX: Monstrum Nox** - `CUSA20413` - version `01.02` - `JSON`
+- **Ys IX: Monstrum Nox** - `CUSA20414` - version `01.02` - `JSON`
+- **Ys Memories of Celceta** - `CUSA18056` - version `01.01` - `MC4`
+- **Ys VIII -Lacrimosa of DANA-** - `CUSA08570` - version `01.00` - `MC4`
+- **Ys VIII -Lacrimosa of DANA-** - `CUSA08570` - version `01.00` - `SHN`
+- **Ys VIII -Lacrimosa of DANA-** - `CUSA08570` - version `01.02` - `JSON`
+- **Ys VIII -Lacrimosa of DANA-** - `CUSA08570` - version `01.02` - `MC4`
+- **Ys VIII -Lacrimosa of DANA-** - `CUSA08570` - version `01.02` - `SHN`
+- **Ys VIII: Lacrimosa of DANA** - `CUSA08570` - version `01.00` - `MC4`
+- **Yu Gi Oh Legacy of the Duelist** - `CUSA01618` - version `01.00` - `MC4`
+- **Yu-Gi-Oh! Legacy of the Duelist** - `CUSA01618` - version `01.00` - `JSON`
+- **Yu-Gi-Oh! Legacy of the Duelist** - `CUSA01618` - version `01.00` - `MC4`
+- **Yu-Gi-Oh! Legacy of the Duelist** - `CUSA01618` - version `01.00` - `SHN`
+- **Zanac X Zanac** - `SLPS03354` - version `01.00` - `JSON`
+- **Zanac X Zanac** - `SLPS03354` - version `01.00` - `SHN`
+- **Zen Pinball 2** - `CUSA00186` - version `01.16` - `JSON`
+- **Zen Pinball 2** - `CUSA00186` - version `01.16` - `MC4`
+- **Zen Pinball 2** - `CUSA00186` - version `01.16` - `SHN`
+- **Zenith** - `CUSA04324` - version `01.01` - `MC4`
+- **ZOMBI** - `CUSA03535` - version `01.00` - `JSON`
+- **ZOMBI** - `CUSA03535` - version `01.01` - `MC4`
+- **Zombi** - `CUSA03535` - version `01.01` - `MC4`
+- **ZOMBI** - `CUSA03535` - version `01.01` - `SHN`
+- **Zombie Army 4: Dead War** - `CUSA12596` - version `01.07` - `SHN` - `2`
+- **Zombie Army 4: Dead War** - `CUSA12596` - version `01.07` - `JSON`
+- **Zombie Army 4: Dead War** - `CUSA12596` - version `01.07` - `SHN`
+- **Zombie Army 4: Dead War** - `CUSA12596` - version `01.44` - `JSON`
+- **Zombie Army Trilogy** - `CUSA01345` - version `01.00` - `JSON`
+- **Zombie Army Trilogy** - `CUSA01773` - version `01.00` - `JSON`
+- **Zombie Army Trilogy** - `CUSA01773` - version `01.00` - `MC4`
+- **Zombie Army Trilogy** - `CUSA01773` - version `01.00` - `SHN`
+- **Zombie Army Trilogy** - `CUSA01837` - version `01.01` - `MC4`
+- **Zombie Driver: Immortal Edition** - `CUSA17453` - version `01.01` - `JSON`
+- **Zombieland: Double Tap - Road Trip** - `CUSA15438` - version `01.00` - `JSON`
+- **Zone of the Enders 2nd Runner MARS** - `CUSA10576` - version `01.01` - `MC4`
+- **七龍珠Z 卡卡洛特** - `CUSA14614` - version `01.10` - `JSON`
+- **七龍珠Z 卡卡洛特** - `CUSA14614` - version `01.10` - `SHN`
+- **妖怪ウォッチ4++** - `CUSA17589` - version `01.05` - `JSON`
+- **戦国BASARA4 皇** - `CUSA01159` - version `01.02` - `JSON`
+- **戦国BASARA4 皇** - `CUSA01159` - version `01.02` - `MC4`
+- **戦国BASARA4 皇** - `CUSA01159` - version `01.02` - `SHN`
+- **零 ～濡鴉之巫女～** - `CUSA28987` - version `01.04` - `JSON`
+- **鬼武者** - `CUSA11147` - version `01.00` - `JSON`
+- **鬼武者** - `CUSA11147` - version `01.01` - `MC4`
+- **鬼武者** - `CUSA11147` - version `01.01` - `SHN`

@@ -4,6 +4,20 @@ _Cheat Menu allows you bring up a Menu while in-game for you to select cheats._
 # Download Zip Database
 _Zip URL: https://github.com/GoldHEN/GoldHEN_Cheat_Repository/archive/refs/heads/main.zip_
 
+# Searchable Game Catalog
+The searchable [game catalog](../index.html) can be searched by game title, title ID, version, cheat format, or process name. To generate the website manually after updating `GAMES.md`, run:
+
+```sh
+python .ci/generate-games-website.py
+```
+
+This creates a standalone `index.html` that you can open directly in a browser. To update both `GAMES.md` and the website from the cheat files, run:
+
+```sh
+python .ci/generate-games-md.py
+python .ci/generate-games-website.py
+```
+
 # Initial Cheats Credits
 _Thanks to PS4Trainer For Initial Trainers Database and all Cheats Creators._
 

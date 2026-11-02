@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Search the GoldHEN cheat repository game catalog.">
+  <title>GoldHEN Cheat Repository - Games</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #10131a;
+      color: #eef1f7;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; }
+    main { width: min(1100px, 100% - 32px); margin: 48px auto; }
+    h1 { margin-bottom: 8px; font-size: clamp(1.8rem, 5vw, 2.6rem); }
+    p { color: #aab3c5; }
+    .search { margin: 28px 0 12px; }
+    label { display: block; margin-bottom: 8px; font-weight: 600; }
+    input {
+      width: 100%;
+      padding: 14px 16px;
+      border: 1px solid #394255;
+      border-radius: 8px;
+      background: #191e29;
+      color: inherit;
+      font: inherit;
+    }
+    input:focus { outline: 2px solid #79a8ff; outline-offset: 2px; }
+    #result-count { min-height: 1.5em; }
+    .table-wrap { overflow-x: auto; border: 1px solid #303747; border-radius: 8px; }
+    table { width: 100%; border-collapse: collapse; text-align: left; }
+    th, td { padding: 12px 14px; border-bottom: 1px solid #303747; }
+    th { position: sticky; top: 0; background: #191e29; }
+    tbody tr:last-child td { border-bottom: 0; }
+    tbody tr:hover { background: #191e29; }
+    code { color: #b7ceff; }
+    @media (max-width: 600px) {
+      main { margin: 28px auto; }
+      th, td { padding: 10px; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Available Games</h1>
+    <p>Search game titles, title IDs, versions, cheat formats, and process names.</p>
+    <div class="search">
+      <label for="game-search">Search the catalog</label>
+      <input id="game-search" type="search" autocomplete="off"
+        placeholder="Try a game name, CUSA ID, version, or format">
+    </div>
+    <p id="result-count" aria-live="polite"></p>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th scope="col">Game</th><th scope="col">Title ID</th><th scope="col">Version</th><th scope="col">Format</th><th scope="col">Process</th></tr>
+        </thead>
+        <tbody id="game-list"></tbody>
+      </table>
+    </div>
+  </main>
+  <script id="games-data" type="application/json">__GAME_DATA__</script>
+  <script>
+    const games = JSON.parse(document.getElementById("games-data").textContent);
+    const search = document.getElementById("game-search");
+    const list = document.getElementById("game-list");
+    const count = document.getElementById("result-count");
+
+    function renderGames() {
+      const query = search.value.trim().toLocaleLowerCase();
+      const matches = games.filter(game =>
+        !query || game.some(value => value.toLocaleLowerCase().includes(query))
+      );
+      const fragment = document.createDocumentFragment();
+
+      for (const [name, titleId, version, format, process] of matches) {
+        const row = document.createElement("tr");
+        for (const [index, value] of [name, titleId, version, format, process].entries()) {
+          const cell = document.createElement("td");
+          if (index > 0) {
+            const code = document.createElement("code");
+            code.textContent = value;
+            cell.append(code);
+          } else {
+            cell.textContent = value;
+          }
+          row.append(cell);
+        }
+        fragment.append(row);
+      }
+
+      list.replaceChildren(fragment);
+      count.textContent = `Showing ${matches.length.toLocaleString()} of ${games.length.toLocaleString()} game/version entries`;
+    }
+
+    search.addEventListener("input", renderGames);
+    renderGames();
+  </script>
+</body>
+</html>
