@@ -604,6 +604,7 @@ CUSA02000_01.02.json=Batman: Return to Arkham - Arkham City
 CUSA26613_01.00.json=Grand Theft Auto III – The Definitive Edition
 CUSA15161_01.01.json=Chronos Before the Ashes
 CUSA16975_01.04.json=Disney Classic Games: Aladdin and The Lion King
+CUSA32137_01.20.json=Like a Dragon Infinite Wealth
 CUSA16296_01.01.json=DOOM 64
 CUSA10213_01.52_2.json=Horizon Zero Dawn™: Complete Edition
 CUSA00900_01.09.json=Bloodborne™
