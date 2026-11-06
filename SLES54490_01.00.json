@@ -1,0 +1,44 @@
+{
+  "name": "God Hand arabic",
+  "id": "SLES54490",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "أموال لا نهائية",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80801686F2",
+          "on": "63",
+          "off": "63"
+        }
+      ]
+    },
+    {
+      "name": "صحة حديدية",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FD2C290",
+          "on": "00000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "قوة الغضب",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80801CB004",
+          "on": "0000C843",
+          "off": "0000C843"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "blackwolf0728"
+  ]
+}
