@@ -1,0 +1,39 @@
+name: Update game catalog
+
+on:
+  push:
+    paths:
+      - '*.json'
+      - 'json/**'
+      - 'mc4/**'
+      - 'shn/**'
+      - '.ci/generate-games-md.py'
+      - '.ci/generate-games-website.py'
+      - '.ci/game-catalog-template.html'
+      - '.github/workflows/game-catalog.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate Markdown and HTML catalogs
+        run: |
+          python .ci/generate-games-md.py
+          python .ci/generate-games-website.py
+
+      - name: Commit catalog updates
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add GAMES.md index.html
+          if ! git diff --cached --quiet; then
+            git commit -m "Update searchable game catalog"
+            git push
+          fi
