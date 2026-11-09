@@ -11,7 +11,7 @@ The searchable [game catalog](../index.html) can be searched by game title, titl
 python .ci/generate-games-website.py
 ```
 
-This creates a standalone `index.html` that you can open directly in a browser. To update both `GAMES.md` and the website from the cheat files, run:
+This creates a standalone `index.html` that you can open directly in a browser. GitHub Actions updates both `GAMES.md` and `index.html` when cheat data changes. To regenerate both locally from the cheat files, run:
 
 ```sh
 python .ci/generate-games-md.py
