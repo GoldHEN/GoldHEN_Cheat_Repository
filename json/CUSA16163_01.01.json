@@ -1,5 +1,5 @@
 {
-  "name": "Bayonetta",
+  "name": "Bayonetta Arabic",
   "id": "CUSA16163",
   "version": "01.01",
   "process": "eboot.bin",
@@ -7,516 +7,516 @@
     "challenged": "yes",
     "memory": [
       {
-        "offset": "DE0597",
+        "offset": "DE0577",
         "on": "89888401000050B8103D4E02678B0083F802750FA3004000000000000058E945F6C5FF83F8047509A3004000000000000058E931F6C5FF"
       },
       {
-        "offset": "A3FBF9",
+        "offset": "A3FBD9",
         "on": "E999093A0090"
       }
     ]
   },
   "mods": [
     {
-      "name": "Max Inf HP",
+      "name": "صحه لا نهائية",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "DE0541",
+          "offset": "DE0521",
           "on": "898B900700008BB39807000031C0E93AD092FF",
           "off": "00000000000000000000000000000000000000"
         },
         {
-          "offset": "70D588",
+          "offset": "70D568",
           "on": "E9B42F6D0090",
           "off": "898B90070000"
         }
       ]
     },
     {
-      "name": "Inf NPC HP",
+      "name": "شخصيات جانبيه غير قابله للقتل (NPC)",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "752C2B",
+          "offset": "752C0B",
           "on": "BE00000000",
           "off": "BE64000000"
         }
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "قتل اعداء بضربة واحده",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "056C0F",
+          "offset": "056BEF",
           "on": "31C0",
           "off": "29C8"
         }
       ]
     },
     {
-      "name": "Inf 1st Jump",
+      "name": "قفز اول لا نهائي",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "72462B",
+          "offset": "72460B",
           "on": "90909090909090",
           "off": "41FF86584E0900"
         }
       ]
     },
     {
-      "name": "Inf 2nd Jump",
+      "name": "قفز ثاني لا نهائي",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "724417",
+          "offset": "7243F7",
           "on": "EB10",
           "off": "7210"
         }
       ]
     },
     {
-      "name": "Max Inf Halos",
+      "name": "نقود لا تنتهي",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "DE052C",
+          "offset": "DE050C",
           "on": "C780A4F00000FFE0F5058BB8A4F00000E907A92EFF",
           "off": "000000000000000000000000000000000000000000"
         },
         {
-          "offset": "0CAE42",
+          "offset": "0CAE22",
           "on": "E9E556D10090",
           "off": "8BB8A4F00000"
         }
       ]
     },
     {
-      "name": "Arcade Inf Bullets",
+      "name": "طلقات لا نهائيه في لعبه الاركيد هجوم الملائكة",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "A7D49D",
+          "offset": "A7D47D",
           "on": "90909090909090",
           "off": "418986A8000000"
         }
       ]
     },
     {
-      "name": "Arcade Max Score",
+      "name": "اعلى نتيجه في لعبه اركيد هجوم الملائكة",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "DE04F7",
+          "offset": "DE04D7",
           "on": "B8E7030000418986AC000000E909C8C9FF",
           "off": "0000000000000000000000000000000000"
         },
         {
-          "offset": "A7CD0A",
+          "offset": "A7CCEA",
           "on": "E9E83736009090",
           "off": "410186AC000000"
         }
       ]
     },
     {
-      "name": "Always Max Magic",
+      "name": "سحر لا نهائي",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "DE0554",
+          "offset": "DE0534",
           "on": "8B87A0F000006BC032F30F2AC0C5FA11879CF00000C5FA10879CF00000E9D27336FF",
           "off": "00000000000000000000000000000000000000000000000000000000000000000000"
         },
         {
-          "offset": "147940",
+          "offset": "147920",
           "on": "E90F8CC900909090",
           "off": "C5FA10879CF00000"
         }
       ]
     },
     {
-      "name": "Inf Witch Time Always On",
+      "name": "تفعيل ابطاء الوقت لمده دائميه خاصيه وقت الساحرة",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "70F44E",
+          "offset": "70F42E",
           "on": "C5FA1005B29DD7FF",
           "off": "C5FA1083DC790900"
         }
       ]
     },
     {
-      "name": "Inf Witch Time when Get",
+      "name": "ابطاء الوقت لمده طويله عند تفعيل وقت الساحره",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "DE0508",
+          "offset": "DE04E8",
           "on": "C780DC7909000000A042C5FA1088DC790900E9218298FF",
           "off": "0000000000000000000000000000000000000000000000"
         },
         {
-          "offset": "768738",
+          "offset": "768718",
           "on": "E9CB7D6700909090",
           "off": "C5FA1088DC790900"
         }
       ]
     },
     {
-      "name": "Witch Time L3 On R3 Off",
+      "name": "تشغيل وقت الساحره بزر L3 واطفاؤه بزر R3",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "DE05CE",
+          "offset": "DE05AE",
           "on": "833D2B3AE2FE02750DC5FA1005298C6AFFE972EE92FFC5FA1083DC790900E965EE92FF",
           "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
         },
         {
-          "offset": "70F44E",
+          "offset": "70F42E",
           "on": "E97B116D00909090",
           "off": "C5FA1083DC790900"
         }
       ]
     },
     {
-      "name": "Inf Weapon Durability",
+      "name": "متانة الاسلحة الساقطة من الاعداء وعدم تكسرها",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "DE051F",
+          "offset": "DE04FF",
           "on": "31C089867C0D0000E9598998FF",
           "off": "00000000000000000000000000"
         },
         {
-          "offset": "768E7F",
+          "offset": "768E5F",
           "on": "E99B76670090",
           "off": "8B867C0D0000"
         }
       ]
     },
     {
-      "name": "Freeze Countdown Timer",
+      "name": "ايقاف العد التنازلي",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "16CDC5",
+          "offset": "16CDA5",
           "on": "909090",
           "off": "894F20"
         },
         {
-          "offset": "2BC08C",
+          "offset": "2BC06C",
           "on": "909090909090",
           "off": "C4C17A114710"
         }
       ]
     },
     {
-      "name": "Death Counter Always 0",
+      "name": "عداد موت الشخصيه دائما صفر",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "DE05F1",
+          "offset": "DE05D1",
           "on": "66C78441B4FD00000000E98EF0C8FF",
           "off": "000000000000000000000000000000"
         },
         {
-          "offset": "A6F686",
+          "offset": "A6F666",
           "on": "E9660F3700909090",
           "off": "66FF8441B4FD0000"
         },
         {
-          "offset": "DE0600",
+          "offset": "DE05E0",
           "on": "66C7836CFC00000000E9FFFCC5FF",
           "off": "0000000000000000000000000000"
         },
         {
-          "offset": "A40306",
+          "offset": "A402E6",
           "on": "E9F5023A009090",
           "off": "66FF836CFC0000"
         },
         {
-          "offset": "DE060E",
+          "offset": "DE05EE",
           "on": "C783E4FD000000000000E9C7FCC5FF",
           "off": "000000000000000000000000000000"
         },
         {
-          "offset": "A402DE",
+          "offset": "A402BE",
           "on": "E92B033A0090",
           "off": "FF83E4FD0000"
         }
       ]
     },
     {
-      "name": "Craft Items WO Material",
+      "name": "صناعة الاغراض والادوات بدون مواد اولية",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "DE048D",
+          "offset": "DE046D",
           "on": "C78481B8F00000620000008B8481B8F00000E944E6B1FF",
           "off": "0000000000000000000000000000000000000000000000"
         },
         {
-          "offset": "8FEAE1",
+          "offset": "8FEAC1",
           "on": "E9A7194E009090",
           "off": "8B8481B8F00000"
         }
       ]
     },
     {
-      "name": "Enemies Inf HP For Training",
+      "name": "صحه لا نهائيه للاعداء تستعمل للتدريب",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "056C11",
+          "offset": "056BF1",
           "on": "909090909090",
           "off": "898390070000"
         }
       ]
     },
     {
-      "name": "Result No Damage Taken",
+      "name": "عدم احتساب الضرر في نتيجه المرحله و صفر ضرر اثناء التقييم",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "A7AAED",
+          "offset": "A7AACD",
           "on": "90909090909090",
           "off": "410186FCFD0000"
         }
       ]
     },
     {
-      "name": "Chapter No Damages Taken",
+      "name": "عدم احتساب الضرر في نتيجه الفصل وصفر ضرر اثناء التقييم",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "A6F654",
+          "offset": "A6F634",
           "on": "909090909090",
           "off": "0198ACFD0000"
         }
       ]
     },
     {
-      "name": "Result 0:00.00 Time Cleared",
+      "name": "تقييم المرحله منتهيه بوقت 0:00:00",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "A7A9BF",
+          "offset": "A7A99F",
           "on": "8983F4FD0000",
           "off": "FF83F4FD0000"
         }
       ]
     },
     {
-      "name": "Chapter 0:00.00 Time Cleared ",
+      "name": "تقييم الفصل منتهي بوقت 0:00:00",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "A6F600",
+          "offset": "A6F5E0",
           "on": "909090909090",
           "off": "FF80A4FD0000"
         }
       ]
     },
     {
-      "name": "Combos Multiplier x99",
+      "name": "مضاعفة عدد ضربات الكومبو x99",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "DE04D2",
+          "offset": "DE04B2",
           "on": "6BC06301834C010000E9052724FF",
           "off": "00000000000000000000000000000000"
         },
         {
-          "offset": "022BDF",
+          "offset": "022BBF",
           "on": "E9EED8DB0090",
           "off": "01834C010000"
         }
       ]
     },
     {
-      "name": "Result Max 999,999 Combos",
+      "name": "نتيجه سلسلة الضربات الكومبو بعد نهايه المرحله لا نهائيه",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "DE04D2",
+          "offset": "DE04B2",
           "on": "B83F420F0089834C010000E9032724FF",
           "off": "00000000000000000000000000000000"
         },
         {
-          "offset": "022BDF",
+          "offset": "022BBF",
           "on": "E9EED8DB0090",
           "off": "01834C010000"
         }
       ]
     },
     {
-      "name": "Chapter Max 9,999,999 Combos",
+      "name": "نتيجه سلسله الضربات الكومبو بعد نهاية الفصل لا نهائية",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "DE04E2",
+          "offset": "DE04C2",
           "on": "41BA7F969800448957080F8E24EFC8FFE9EEEEC8FF",
           "off": "000000000000000000000000000000000000000000"
         },
         {
-          "offset": "A6F3DF",
+          "offset": "A6F3BF",
           "on": "E9FE10370090",
           "off": "448957087E31"
         }
       ]
     },
     {
-      "name": "Megatons Gigatons Easy Max",
+      "name": "جعل ضربات التعذيب والاهانه والضغط السريع المستمر اقصى شيء",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "0CB66F",
+          "offset": "0CB64F",
           "on": "C5FA10058171F5FF9090",
           "off": "C4A17A10843398000000"
         },
         {
-          "offset": "DE0586",
+          "offset": "DE0566",
           "on": "C7437400004041C5FA104374E90774C6FF",
           "off": "0000000000000000000000000000000000"
         },
         {
-          "offset": "A47999",
+          "offset": "A47979",
           "on": "E9E88B3900",
           "off": "C5FA104374"
         }
       ]
     },
     {
-      "name": "Megatons Gigatons Extra Time",
+      "name": "زيادة ضربات التعذيب والاهانة والضغط المستمر",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "0CB318",
+          "offset": "0CB2F8",
           "on": "FFC2",
           "off": "FFCA"
         }
       ]
     },
     {
-      "name": "Alfheim 0 Damage Taken",
+      "name": "عدم التضرر اثناء لعب التحديات والمهمات السريه في بوابه ألفهايم",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "A7AAE5",
+          "offset": "A7AAC5",
           "on": "B800000000",
           "off": "B890010000"
         }
       ]
     },
     {
-      "name": "Alfheim Always Full HP",
+      "name": "صحه لا نهائيه اثناء لعب المهمات والتحديات السريه في بوابه ألفهايم",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "70D504",
+          "offset": "70D4E4",
           "on": "909090909090",
           "off": "FF8B24890900"
         }
       ]
     },
     {
-      "name": "Unlock Sai Fung for Completing 100 Chapters",
+      "name": "فتح السلاح السري ساي فونج الذي يتطلب لعب 100 فصل",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "DE0576",
+          "offset": "DE0556",
           "on": "41C7865CEF000065000000E9F4C336FF",
           "off": "00000000000000000000000000000000"
         },
         {
-          "offset": "14C973",
+          "offset": "14C953",
           "on": "E9FE3BC9009090",
           "off": "41FF865CEF0000"
         }
       ]
     },
     {
-      "name": "Megatons Gigatons Easy Max",
+      "name": "ضربات الاهانه والتعذيب والضغط المستمر بسهوله اقصى استفادة",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "0CB679",
+          "offset": "0CB659",
           "on": "C5FA5805EBF8BA00",
           "off": "C5FA5805333ABC00"
         }
       ]
     },
     {
-      "name": "Max Halos Earned Max Halos Must Be On",
+      "name": "اقصى هالوز مكتسبه (يجب تفعيل نقود لا تنتهي اولا)",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "147E8B",
+          "offset": "147E6B",
           "on": "898FA8F00000",
           "off": "01B7A8F00000"
         }
       ]
     },
     {
-      "name": "Character Scaling 0.75",
+      "name": "تصغير حجم شخصيه بايونيتا بمقدار 0.75",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "DE061D",
+          "offset": "DE05FD",
           "on": "C783F00000000000403FC783F40000000000403FC783F80000000000403FE96A8D7FFF",
           "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
         },
         {
-          "offset": "5D93A2",
+          "offset": "5D9382",
           "on": "E976728000909090",
           "off": "C5F81183F0000000"
         }
       ]
     },
     {
-      "name": "Character Scaling 1.25",
+      "name": "تكبير حجم شخصيه بايونيتا بمقدار 1.25",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "DE061D",
+          "offset": "DE05FD",
           "on": "C783F00000000000A03FC783F40000000000A03FC783F80000000000A03FE96A8D7FFF",
           "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
         },
         {
-          "offset": "5D93A2",
+          "offset": "5D9382",
           "on": "E976728000909090",
           "off": "C5F81183F0000000"
         }
       ]
     },
     {
-      "name": "Character Scaling 1.50",
+      "name": "تكبير حجم شخصيه بايونيتا بمقدار 1.50",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "DE061D",
+          "offset": "DE05FD",
           "on": "C783F00000000000C03FC783F40000000000C03FC783F80000000000C03FE96A8D7FFF",
           "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
         },
         {
-          "offset": "5D93A2",
+          "offset": "5D9382",
           "on": "E976728000909090",
           "off": "C5F81183F0000000"
         }
       ]
     },
     {
-      "name": "Character Scaling 2.00",
+      "name": "تكبير حجم شخصيه بايونيتا بمقدار 2.00",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "DE061D",
+          "offset": "DE05FD",
           "on": "C783F000000000000040C783F400000000000040C783F800000000000040E96A8D7FFF",
           "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
         },
         {
-          "offset": "5D93A2",
+          "offset": "5D9382",
           "on": "E976728000909090",
           "off": "C5F81183F0000000"
         }
@@ -524,6 +524,6 @@
     }
   ],
   "credits": [
-    "hejran7"
+    "blackwolf0728"
   ]
 }
