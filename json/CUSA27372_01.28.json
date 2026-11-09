@@ -1,0 +1,53 @@
+{
+  "name": "The Callisto Protocol",
+  "id": "CUSA27372",
+  "version": "01.28",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "description": "Restores max HP ([rbx+0x11C]) into current HP ([rbx+0x118]) inside SetHealth. The stub is EFLAGS-safe (pushfq/popfq): the instruction right after the hook site is a 'jbe' that consumes flags set before the store, so a plain 'cmp' in the stub crashes the game. Tested on firmware 14.00.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "62388F0",
+          "on": "9C80BBB8000000067508C5FA10931C0100009DC5FA119318010000E9E7777FFB",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A300EF",
+          "on": "E9FC878004909090",
+          "off": "C5FA119318010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Credits (nothing is ever spent)",
+      "description": "Neuters the inventory remover: 'sub r12d,edx' -> 'test r12d,r12d', so a slot quantity is written back unchanged while the following 'jle' still gets correct flags. Credits are an inventory item, so this also stops weapon-upgrade costs. Consumables are not used up either. Note: your balance never rises, it only stops falling - you still cannot buy what you cannot already afford. Tested on firmware 14.00.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "185FF95",
+          "on": "4585E4",
+          "off": "4129D4"
+        }
+      ]
+    },
+    {
+      "name": "Stop Time Puzzles (Final Transmission)",
+      "description": "NOPs the write to the puzzle time-scale field ([rdi+0x20C]). Direct port of the 01.26 cheat; the instruction is unique in the image. NOT verified in game yet - no Final Transmission puzzle was reached during testing.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3DC1C91",
+          "on": "9090909090909090",
+          "off": "C5FA118F0C020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez (original 01.26 trainer)",
+    "vv198x (port to 01.28)"
+  ]
+}
