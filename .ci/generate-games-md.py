@@ -87,9 +87,42 @@ def read_games(root: Path, output: Path) -> List[Game]:
 
             if path.suffix.lower() == ".xml":
                 try:
-                    attributes = ET.parse(path).getroot().attrib
+                    xml_data = path.read_bytes()
+                    attributes = ET.fromstring(xml_data).attrib
                 except (OSError, ET.ParseError) as error:
-                    raise RuntimeError(f"Could not read {path}: {error}") from error
+                    if (
+                        isinstance(error, ET.ParseError)
+                        and not xml_data.startswith((b"\xff\xfe", b"\xfe\xff"))
+                        and b"\x00" not in xml_data[:128]
+                    ):
+                        declaration_end = xml_data.find(b"?>")
+                        declaration = xml_data[:declaration_end] if declaration_end >= 0 else b""
+                        encoding = re.search(
+                            rb"(\bencoding\s*=\s*)(['\"])utf-16\2",
+                            declaration,
+                            re.IGNORECASE,
+                        )
+                        if encoding:
+                            corrected_data = (
+                                xml_data[:encoding.start()]
+                                + re.sub(
+                                    rb"utf-16",
+                                    b"utf-8",
+                                    encoding.group(0),
+                                    flags=re.IGNORECASE,
+                                )
+                                + xml_data[encoding.end():]
+                            )
+                            try:
+                                attributes = ET.fromstring(corrected_data).attrib
+                            except ET.ParseError as corrected_error:
+                                raise RuntimeError(
+                                    f"Could not read {path}: {corrected_error}"
+                                ) from corrected_error
+                        else:
+                            raise RuntimeError(f"Could not read {path}: {error}") from error
+                    else:
+                        raise RuntimeError(f"Could not read {path}: {error}") from error
                 name = attributes.get("Game", name).strip()
                 title_id = attributes.get("Cusa", title_id).strip().upper()
                 version = attributes.get("Version", version).strip()
