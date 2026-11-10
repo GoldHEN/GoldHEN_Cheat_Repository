@@ -204,6 +204,7 @@ CUSA15361_01.01.json=Yakuza 4
 CUSA04713_01.00.json=Super Robot Wars OG The Moon Dwellers
 SLUS21016_01.00.json=25 to Life (NTSC)
 CUSA01073_01.09.json=Ratchet & Clank™
+CUSA20602_01.28.json=Spelunky 2
 CUSA33778_01.03.json=STAR WARS Jedi Survivor
 CUSA04402_01.18.json=Middle-earth™: Shadow of War™
 SCUS94227_01.00.json=MediEvil
