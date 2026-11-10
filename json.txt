@@ -1042,6 +1042,7 @@ CUSA03979_01.03_LaunchOrbis.elf.json=BioShock: The Collection
 CUSA09175_01.80_2.json=DAYS GONE
 CUSA34384_05.01_5.json=God of War Ragnarok (+Valhalla DLC compatibility)
 CUSA08809_01.01.json=SHADOW OF THE COLOSSUS™
+CUSA27372_01.28.json=The Callisto Protocol
 CUSA00552_01.00.json=The Last of Us™ Remastered
 CUSA34384_05.01_4.json=God of War Ragnarok (+Valhalla DLC compatibility)
 CUSA06407_10.05.json=Cities: Skylines
