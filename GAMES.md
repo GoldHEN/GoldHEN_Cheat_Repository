@@ -13,8 +13,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **2Dark** - `CUSA04802` - version `01.00` - `MC4`
 - **2Dark** - `CUSA04802` - version `01.00` - `SHN`
 - **7 Days to Die** - `CUSA03446` - version `01.18` - `JSON`
-- **7 Days to Die** - `CUSA03446` - version `01.18` - `MC4`
 - **7 Days To Die** - `CUSA03446` - version `01.18` - `MC4`
+- **7 Days to Die** - `CUSA03446` - version `01.18` - `MC4`
 - **7 Days to Die** - `CUSA03446` - version `01.18` - `SHN`
 - **7 Days To Die** - `CUSA03455` - version `01.00` - `JSON`
 - **7 Days To Die** - `CUSA03455` - version `01.00` - `MC4`
@@ -618,8 +618,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **Cities: Skylines** - `CUSA06548` - version `13.00` - `MC4`
 - **Cities: Skylines** - `CUSA06548` - version `13.00` - `SHN`
 - **Clid The Snail** - `CUSA25087` - version `01.04` - `JSON`
-- **Clid The Snail** - `CUSA25087` - version `01.04` - `MC4`
 - **Clid the Snail** - `CUSA25087` - version `01.04` - `MC4`
+- **Clid The Snail** - `CUSA25087` - version `01.04` - `MC4`
 - **Clid The Snail** - `CUSA25087` - version `01.04` - `SHN`
 - **Clunky Hero** - `CUSA41026` - version `01.01` - `MC4`
 - **Cobra Kai: The Karate Kid Saga Continues** - `CUSA18956` - version `01.02` - `JSON`
@@ -1553,8 +1553,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **DAYS GONE** - `CUSA08966` - version `01.81` - `SHN`
 - **DAYS GONE** - `CUSA09175` - version `01.00` - `JSON`
 - **DAYS GONE** - `CUSA09175` - version `01.51` - `JSON`
-- **Days Gone** - `CUSA09175` - version `01.51` - `MC4`
 - **DAYS GONE** - `CUSA09175` - version `01.51` - `MC4`
+- **Days Gone** - `CUSA09175` - version `01.51` - `MC4`
 - **DAYS GONE** - `CUSA09175` - version `01.51` - `SHN`
 - **DAYS GONE** - `CUSA09175` - version `01.61` - `JSON`
 - **DAYS GONE** - `CUSA09175` - version `01.80` - `JSON`
@@ -1615,8 +1615,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **DEAD OR ALIVE Xtreme 3 Fortune** - `CUSA04555` - version `01.16` - `MC4`
 - **DEAD OR ALIVE Xtreme 3 Fortune** - `CUSA04555` - version `01.16` - `SHN`
 - **DEAD OR ALIVE Xtreme 3 Fortune** - `CUSA04555` - version `01.19` - `JSON`
-- **Dead Rising** - `CUSA04513` - version `01.00` - `JSON`
 - **DEAD RISING** - `CUSA04513` - version `01.00` - `JSON`
+- **Dead Rising** - `CUSA04513` - version `01.00` - `JSON`
 - **DEAD RISING** - `CUSA04513` - version `01.00` - `MC4`
 - **DEAD RISING** - `CUSA04513` - version `01.00` - `SHN`
 - **Dead Rising 1** - `CUSA04513` - version `01.00` - `MC4`
@@ -1699,8 +1699,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **Devil May Cry 5** - `CUSA08161` - version `01.01` - `MC4`
 - **Devil May Cry 5** - `CUSA08161` - version `01.01` - `SHN`
 - **Devil May Cry 5** - `CUSA08161` - version `01.08` - `JSON`
-- **devil may cry 5** - `CUSA08161` - version `01.08` - `MC4`
 - **Devil May Cry 5** - `CUSA08161` - version `01.08` - `MC4`
+- **devil may cry 5** - `CUSA08161` - version `01.08` - `MC4`
 - **Devil May Cry 5** - `CUSA08161` - version `01.08` - `SHN`
 - **Devil May Cry 5** - `CUSA08161` - version `01.10` - `MC4`
 - **Devil May Cry 5** - `CUSA08161` - version `01.10` - `SHN`
@@ -1824,21 +1824,21 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **DOOM Eternal** - `CUSA13275` - version `01.02` - `JSON`
 - **DOOM Eternal** - `CUSA13275` - version `01.02` - `SHN`
 - **DOOM Eternal** - `CUSA13275` - version `01.08` - `JSON`
-- **DOOM Eternal** - `CUSA13275` - version `01.08` - `MC4`
 - **Doom Eternal** - `CUSA13275` - version `01.08` - `MC4`
+- **DOOM Eternal** - `CUSA13275` - version `01.08` - `MC4`
 - **DOOM Eternal** - `CUSA13275` - version `01.08` - `SHN`
 - **DOOM Eternal** - `CUSA13275` - version `01.23` - `JSON`
 - **DOOM Eternal** - `CUSA13275` - version `01.23` - `SHN`
 - **DOOM Eternal** - `CUSA13275` - version `01.27` - `MC4`
 - **DOOM Eternal** - `CUSA13275` - version `01.27` - `SHN`
 - **DOOM Eternal** - `CUSA13338` - version `01.02` - `JSON`
-- **Doom Eternal** - `CUSA13338` - version `01.02` - `MC4`
 - **DOOM Eternal** - `CUSA13338` - version `01.02` - `MC4`
+- **Doom Eternal** - `CUSA13338` - version `01.02` - `MC4`
 - **DOOM Eternal** - `CUSA13338` - version `01.02` - `SHN`
 - **DOOM Eternal** - `CUSA13338` - version `01.23` - `JSON`
 - **DOOM Eternal** - `CUSA13338` - version `01.25` - `JSON`
-- **Doom Eternal** - `CUSA13338` - version `01.25` - `MC4`
 - **DOOM Eternal** - `CUSA13338` - version `01.25` - `MC4`
+- **Doom Eternal** - `CUSA13338` - version `01.25` - `MC4`
 - **DOOM Eternal** - `CUSA13338` - version `01.25` - `SHN`
 - **DORAEMON STORY OF SEASONS** - `CUSA18501` - version `01.10` - `JSON`
 - **Double Dragon 4** - `CUSA07236` - version `01.00` - `MC4`
@@ -2297,8 +2297,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **FINAL FANTASY III** - `CUSA33826` - version `01.02` - `JSON`
 - **FINAL FANTASY IV** - `CUSA33830` - version `01.03` - `JSON`
 - **FINAL FANTASY IX** - `CUSA08877` - version `01.00` - `JSON`
-- **FINAL FANTASY IX** - `CUSA08877` - version `01.00` - `MC4`
 - **Final Fantasy IX** - `CUSA08877` - version `01.00` - `MC4`
+- **FINAL FANTASY IX** - `CUSA08877` - version `01.00` - `MC4`
 - **FINAL FANTASY IX** - `CUSA08877` - version `01.00` - `SHN`
 - **Final Fantasy Type 0 HD** - `CUSA00937` - version `01.00` - `MC4`
 - **FINAL FANTASY TYPE-0 HD** - `CUSA00937` - version `01.00` - `JSON`
@@ -2321,12 +2321,12 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **Final Fantasy XII The Zodiac Age 最终幻想12 黄道纪元** - `CUSA08116` - version `01.08` - `JSON`
 - **Final Fantasy XII: The Zodiac Age** - `CUSA05531` - version `01.00` - `MC4`
 - **Final Fantasy XV** - `CUSA01615` - version `01.00` - `JSON`
-- **FINAL FANTASY XV** - `CUSA01615` - version `01.00` - `MC4`
 - **Final Fantasy XV** - `CUSA01615` - version `01.00` - `MC4`
+- **FINAL FANTASY XV** - `CUSA01615` - version `01.00` - `MC4`
 - **FINAL FANTASY XV** - `CUSA01615` - version `01.00` - `SHN`
 - **Final Fantasy XV** - `CUSA01615` - version `01.23` - `JSON`
-- **Final Fantasy XV** - `CUSA01615` - version `01.23` - `MC4`
 - **FINAL FANTASY XV** - `CUSA01615` - version `01.23` - `MC4`
+- **Final Fantasy XV** - `CUSA01615` - version `01.23` - `MC4`
 - **FINAL FANTASY XV** - `CUSA01615` - version `01.23` - `SHN`
 - **FINAL FANTASY XV** - `CUSA01615` - version `01.29` - `JSON`
 - **FINAL FANTASY XV POCKET EDITION HD** - `CUSA12648` - version `01.01` - `JSON`
@@ -2446,8 +2446,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **God of War** - `CUSA07411` - version `01.35` - `MC4`
 - **God of War** - `CUSA07411` - version `01.35` - `SHN`
 - **God of War** - `CUSA07412` - version `01.00` - `JSON`
-- **God of War** - `CUSA07412` - version `01.00` - `MC4`
 - **God Of War** - `CUSA07412` - version `01.00` - `MC4`
+- **God of War** - `CUSA07412` - version `01.00` - `MC4`
 - **God of War** - `CUSA07412` - version `01.00` - `SHN`
 - **God of War** - `CUSA07412` - version `01.33` - `JSON`
 - **God of War** - `CUSA07413` - version `01.33` - `JSON`
@@ -2530,8 +2530,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **God Of War Ragnarok** - `CUSA34388` - version `06.05` - `MC4`
 - **God Of War Ragnarok** - `CUSA34388` - version `06.05` - `SHN`
 - **God of War Ragnarok** - `CUSA34390` - version `02.00` - `JSON`
-- **God of War Ragnarok** - `CUSA34390` - version `02.00` - `MC4`
 - **God Of War Ragnarok** - `CUSA34390` - version `02.00` - `MC4`
+- **God of War Ragnarok** - `CUSA34390` - version `02.00` - `MC4`
 - **God Of War Ragnarok** - `CUSA34390` - version `02.00` - `SHN`
 - **God of War Ragnarok** - `CUSA34390` - version `02.04` - `JSON`
 - **God of War Ragnarok** - `CUSA34390` - version `03.00` - `JSON`
@@ -2668,8 +2668,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **Green Hell** - `CUSA26546` - version `01.03` - `SHN`
 - **Grid Legends** - `CUSA28260` - version `06.01` - `MC4`
 - **GRID Legends** - `CUSA28261` - version `03.11` - `JSON`
-- **GRID Legends** - `CUSA28261` - version `06.01` - `MC4`
 - **Grid Legends** - `CUSA28261` - version `06.01` - `MC4`
+- **GRID Legends** - `CUSA28261` - version `06.01` - `MC4`
 - **GRID Legends** - `CUSA28261` - version `06.01` - `SHN`
 - **GRIME** - `CUSA27309` - version `01.12` - `JSON`
 - **Grounded** - `CUSA42556` - version `01.14` - `JSON`
@@ -3021,8 +3021,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **Legends of Ethernal** - `CUSA24879` - version `01.01` - `MC4`
 - **Legends of Ethernal** - `CUSA24879` - version `01.01` - `SHN`
 - **Lego - Jurassic World** - `CUSA01519` - version `01.00` - `MC4`
-- **LEGO 2K Drive** - `CUSA34255` - version `01.09` - `MC4`
 - **Lego 2k Drive** - `CUSA34255` - version `01.09` - `MC4`
+- **LEGO 2K Drive** - `CUSA34255` - version `01.09` - `MC4`
 - **Lego City Undercover** - `CUSA06511` - version `01.02` - `MC4`
 - **LEGO Harry Potter Collection** - `CUSA05935` - version `01.00` - `JSON`
 - **LEGO Star Wars: The Skywalker Saga** - `CUSA13794` - version `01.09` - `JSON`
@@ -3807,8 +3807,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **Resident Evil 4 Remake** - `CUSA33388` - version `1.04` - `MC4`
 - **Resident Evil 5** - `CUSA04437` - version `01.00` - `JSON`
 - **RESIDENT EVIL 6** - `CUSA03840` - version `01.01` - `JSON`
-- **Resident Evil 6** - `CUSA03856` - version `01.00` - `JSON`
 - **RESIDENT EVIL 6** - `CUSA03856` - version `01.00` - `JSON`
+- **Resident Evil 6** - `CUSA03856` - version `01.00` - `JSON`
 - **RESIDENT EVIL 6** - `CUSA03856` - version `01.00` - `MC4`
 - **RESIDENT EVIL 6** - `CUSA03856` - version `01.00` - `SHN`
 - **RESIDENT EVIL 6** - `CUSA03856` - version `01.01` - `JSON`
@@ -3865,8 +3865,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **RESIDENT EVIL REVELATIONS 2** - `CUSA01133` - version `01.04` - `MC4`
 - **RESIDENT EVIL REVELATIONS 2** - `CUSA01133` - version `01.04` - `SHN`
 - **RESIDENT EVIL REVELATIONS 2** - `CUSA01141` - version `01.05` - `JSON`
-- **Resident Evil Revelations 2** - `CUSA01141` - version `01.05` - `MC4`
 - **RESIDENT EVIL REVELATIONS 2** - `CUSA01141` - version `01.05` - `MC4`
+- **Resident Evil Revelations 2** - `CUSA01141` - version `01.05` - `MC4`
 - **RESIDENT EVIL REVELATIONS 2** - `CUSA01141` - version `01.05` - `SHN`
 - **RESIDENT EVIL UMBRELLA CORPS** - `CUSA03498` - version `01.06` - `JSON`
 - **Resident Evil Village** - `CUSA18008` - version `01.01` - `SHN` - `2`
@@ -3960,8 +3960,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **Salt and Sanctuary** - `CUSA02353` - version `01.04` - `MC4`
 - **Salt and Sanctuary** - `CUSA02353` - version `01.04` - `SHN`
 - **Salt and Sanctuary** - `CUSA02353` - version `01.05` - `JSON`
-- **Salt and Sanctuary** - `CUSA02353` - version `01.05` - `MC4`
 - **salt and sanctuary** - `CUSA02353` - version `01.05` - `MC4`
+- **Salt and Sanctuary** - `CUSA02353` - version `01.05` - `MC4`
 - **Salt and Sanctuary** - `CUSA02353` - version `01.05` - `SHN`
 - **Samurai Aces** - `SLES53872` - version `01.00` - `JSON`
 - **Samurai Aces** - `SLES53872` - version `01.00` - `SHN`
@@ -3983,8 +3983,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **Scarface - The World is Yours** - `SLUS21111` - version `01.01` - `SHN`
 - **Scarlet Nexus** - `CUSA25132` - version `01.05` - `JSON`
 - **SCARLET NEXUS** - `CUSA25132` - version `01.05` - `JSON`
-- **SCARLET NEXUS** - `CUSA25269` - version `01.05` - `JSON`
 - **Scarlet Nexus** - `CUSA25269` - version `01.05` - `JSON`
+- **SCARLET NEXUS** - `CUSA25269` - version `01.05` - `JSON`
 - **ScourgeBringer** - `CUSA25478` - version `01.60` - `MC4`
 - **SCUS97213** - `SCUS97213` - version `01.02` - `SHN`
 - **Sd Gundam G Generation Cross Rays** - `CUSA16319` - version `01.65` - `JSON`
@@ -4030,8 +4030,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **Shadow of the Tomb Raider** - `CUSA10872` - version `01.01` - `JSON`
 - **Shadow of the Tomb Raider** - `CUSA10872` - version `02.00` - `JSON`
 - **Shadow of the Tomb Raider** - `CUSA10872` - version `02.01` - `JSON`
-- **Shadow Of The Tomb Raider** - `CUSA10872` - version `02.01` - `MC4`
 - **Shadow of the Tomb Raider** - `CUSA10872` - version `02.01` - `MC4`
+- **Shadow Of The Tomb Raider** - `CUSA10872` - version `02.01` - `MC4`
 - **Shadow of the Tomb Raider** - `CUSA10872` - version `02.01` - `SHN`
 - **Shadow of Tomb Raider (Definitive Edition)** - `CUSA10872` - version `01.00` - `MC4`
 - **Shadow Warrior 2** - `CUSA05648` - version `01.06` - `JSON`
@@ -4068,8 +4068,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **Shooting Love-Trizeal** - `SLPM62726` - version `01.00` - `SHN`
 - **Shovel Knight** - `CUSA01867` - version `01.07` - `JSON`
 - **Shovel Knight** - `CUSA01867` - version `01.07` - `SHN`
-- **SIFU** - `CUSA25761` - version `01.11` - `JSON`
 - **sifu** - `CUSA25761` - version `01.11` - `JSON`
+- **SIFU** - `CUSA25761` - version `01.11` - `JSON`
 - **SIFU** - `CUSA25761` - version `01.16` - `JSON`
 - **SIFU** - `CUSA25761` - version `01.16` - `MC4`
 - **SIFU** - `CUSA25761` - version `01.16` - `SHN`
@@ -4264,8 +4264,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **STAR OCEAN THE DIVINE FORCE** - `CUSA31855` - version `01.02` - `JSON`
 - **STAR OCEAN THE DIVINE FORCE** - `CUSA31855` - version `01.02` - `MC4`
 - **STAR OCEAN THE DIVINE FORCE** - `CUSA31855` - version `01.02` - `SHN`
-- **Star Ocean The Second Story R** - `CUSA40651` - version `01.01` - `MC4`
 - **Star Ocean The Second story R** - `CUSA40651` - version `01.01` - `MC4`
+- **Star Ocean The Second Story R** - `CUSA40651` - version `01.01` - `MC4`
 - **Star Ocean The Second Story R** - `CUSA40651` - version `01.01` - `SHN`
 - **Star Ocean The Second Story R** - `CUSA40651` - version `01.10` - `JSON`
 - **Star Ocean The Second Story R** - `CUSA40651` - version `01.10` - `MC4`
@@ -4534,8 +4534,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **The Last of Us™ Remastered** - `CUSA00557` - version `01.10` - `SHN`
 - **The Last of Us™ Remastered** - `CUSA00557` - version `01.11` - `JSON`
 - **THE LAST REMNANT Remastered** - `CUSA11846` - version `01.03` - `JSON`
-- **The Last Remnant Remastered** - `CUSA11846` - version `01.03` - `MC4`
 - **THE LAST REMNANT Remastered** - `CUSA11846` - version `01.03` - `MC4`
+- **The Last Remnant Remastered** - `CUSA11846` - version `01.03` - `MC4`
 - **THE LAST REMNANT Remastered** - `CUSA11846` - version `01.03` - `SHN`
 - **The Last Stand: Aftermath** - `CUSA29191` - version `01.01` - `JSON`
 - **The Last Stand: Aftermath** - `CUSA29192` - version `01.01` - `JSON`
@@ -4742,8 +4742,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **Twin Robots** - `CUSA06339` - version `01.01` - `JSON`
 - **Twin Robots** - `CUSA06339` - version `01.01` - `MC4`
 - **Twin Robots** - `CUSA06339` - version `01.01` - `SHN`
-- **Two Point Campus** - `CUSA24605` - version `01.12` - `JSON`
 - **Two point campus** - `CUSA24605` - version `01.12` - `JSON`
+- **Two Point Campus** - `CUSA24605` - version `01.12` - `JSON`
 - **Two Point Campus** - `CUSA24605` - version `01.12` - `MC4`
 - **Two Point Campus** - `CUSA24605` - version `01.12` - `SHN`
 - **Two Point Hospital** - `CUSA15884` - version `01.02` - `JSON`
@@ -5018,8 +5018,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **YAKUZA KIWAMI** - `CUSA07615` - version `01.09` - `MC4`
 - **YAKUZA KIWAMI** - `CUSA07615` - version `01.09` - `SHN`
 - **YAKUZA KIWAMI 2** - `CUSA10706` - version `01.00` - `JSON`
-- **YAKUZA KIWAMI 2** - `CUSA10706` - version `01.04` - `MC4`
 - **Yakuza Kiwami 2** - `CUSA10706` - version `01.04` - `MC4`
+- **YAKUZA KIWAMI 2** - `CUSA10706` - version `01.04` - `MC4`
 - **YAKUZA KIWAMI 2** - `CUSA10706` - version `01.04` - `SHN`
 - **Yakuza Like a Dragon** - `CUSA16745` - version `01.01` - `MC4`
 - **Yakuza: Like A Dragon** - `CUSA16734` - version `01.10` - `JSON`
@@ -5050,8 +5050,8 @@ This catalog lists 5073 unique game/version entries from the JSON, MC4, and SHN 
 - **Zen Pinball 2** - `CUSA00186` - version `01.16` - `SHN`
 - **Zenith** - `CUSA04324` - version `01.01` - `MC4`
 - **ZOMBI** - `CUSA03535` - version `01.00` - `JSON`
-- **ZOMBI** - `CUSA03535` - version `01.01` - `MC4`
 - **Zombi** - `CUSA03535` - version `01.01` - `MC4`
+- **ZOMBI** - `CUSA03535` - version `01.01` - `MC4`
 - **ZOMBI** - `CUSA03535` - version `01.01` - `SHN`
 - **Zombie Army 4: Dead War** - `CUSA12596` - version `01.07` - `SHN` - `2`
 - **Zombie Army 4: Dead War** - `CUSA12596` - version `01.07` - `JSON`
