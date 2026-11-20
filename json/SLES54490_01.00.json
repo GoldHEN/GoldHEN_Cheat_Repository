@@ -1,22 +1,22 @@
 {
-  "name": "God Hand",
+  "name": "God Hand arabic",
   "id": "SLES54490",
   "version": "01.00",
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max-Gold-999999",
+      "name": "أموال لا نهائية",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "808016D4F2",
+          "offset": "80801686F2",
           "on": "63",
           "off": "63"
         }
       ]
     },
     {
-      "name": "Inf-Health",
+      "name": "صحة حديدية",
       "type": "checkbox",
       "memory": [
         {
@@ -27,14 +27,9 @@
       ]
     },
     {
-      "name": "Max-Tension-Gauge",
+      "name": "قوة الغضب",
       "type": "checkbox",
       "memory": [
-        {
-          "offset": "80801CFE04",
-          "on": "0000C843",
-          "off": "0000C843"
-        },
         {
           "offset": "80801CB004",
           "on": "0000C843",
@@ -44,6 +39,6 @@
     }
   ],
   "credits": [
-    "Ali-mk"
+    "blackwolf0728"
   ]
 }
