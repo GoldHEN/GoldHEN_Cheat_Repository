@@ -1,0 +1,132 @@
+{
+  "name": "Elden Ring",
+  "id": "CUSA18723",
+  "version": "01.24",
+  "process": "eboot.bin",
+  "author": "Celogamez, Nicit (ported)",
+  "mods": [
+    {
+      "name": "Mastercode (Must be ON for Infinite Health)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "300D6A0",
+          "on": "4981F804C91D03751F4189854801000041898548010000E91135E3FD41898548010000E90535E3FD41837D1C0075134189854801000041898548010000E9EB34E3FD41837D1C0275D34189854801000041898548010000E9D134E3FD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E40BC6",
+          "on": "E9D5CA1C029090",
+          "off": "41898548010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "note": "Following applies inifinite health to Player and Horse (Torrent), both must be on for infinite health to work properly",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "300D6A9",
+          "on": "418B854C010000",
+          "off": "41898548010000"
+        },
+        {
+          "offset": "300D6CF",
+          "on": "418B854C010000",
+          "off": "41898548010000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (Do not activate and use on friendly characters or enemies which should not die instantly!!!)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "300D720",
+          "on": "837F1C00741484D274104439C6730B31F690909090909090909089B748010000E9DB01E3FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E3D91A",
+          "on": "E901FE1C0290",
+          "off": "89B748010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E413D7",
+          "on": "90909090909090",
+          "off": "41898664010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite FP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "300D520",
+          "on": "418B855C01000041898558010000E9FB3CE3FD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E41227",
+          "on": "E9F4C21C029090",
+          "off": "41898558010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items/Potions/Arrows (On Pick Up/x2 To Work)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "300D620",
+          "on": "438944EC0CC701E7030000E94D7CB4FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "B55275",
+          "on": "E9A6834B02909090",
+          "off": "438944EC0C448931"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Flasks (On Use/x2 To Work)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B55259",
+          "on": "668901",
+          "off": "448931"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Runes",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "300D5A0",
+          "on": "8B09C7406CFFC99A3BE9AAAD0FFE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1108353",
+          "on": "E94852F001",
+          "off": "8B0989486C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez",
+    "Nicit (ported)"
+  ]
+}

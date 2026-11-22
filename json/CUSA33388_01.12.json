@@ -1,0 +1,26 @@
+{
+  "name": "Resident Evil 4",
+  "id": "CUSA33388",
+  "version": "01.12",
+  "process": "eboot.bin",
+  "mods": [
+    
+    {
+      
+  "name": "Master Inventory (Infinite Items, Ammo & Money) - By Bruschetta85",
+  "type": "checkbox",
+  "memory": [
+    {
+      "offset": "52687EA",
+      "on": "909090",
+      "off": "894834"
+    }
+  ]
+
+    }
+    
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}
