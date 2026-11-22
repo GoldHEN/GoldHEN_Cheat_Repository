@@ -1,0 +1,413 @@
+{
+  "name": "FINAL FANTASY Ⅻ THE ZODIAC AGE",
+  "id": "CUSA05532",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max &  Inf  HP | Vaan",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A8400",
+          "on": "664181FEC062750B8B4824894848E98F2EDCFD8B4DB0894848E9842EDCFD9090",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16B29C",
+          "on": "E95FD1230290",
+          "off": "8B4DB0894848"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16B832",
+          "on": "9090909090",
+          "off": "6644896F4C"
+        }
+      ]
+    },
+    {
+      "name": "Instant Action Bar",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A8420",
+          "on": "B860EA000041898568070000E93CDCDCFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "176066",
+          "on": "E9B52323029090",
+          "off": "41898568070000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16BC51",
+          "on": "9090909090",
+          "off": "6647891C4A"
+        }
+      ]
+    },
+    {
+      "name": "Max Items/Loot/Accessories | On Buy/Sell/Gain/Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A8440",
+          "on": "6641BB63006647891C4AE90738DCFD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "16BC51",
+          "on": "E9EAC72302",
+          "off": "6647891C4A"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gil",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A8450",
+          "on": "3B4A087C03894A084883C408E92EC8E9FD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "244C88",
+          "on": "E9C33716029090",
+          "off": "894A084883C408"
+        }
+      ]
+    },
+    {
+      "name": "Max Gil On Buy/Sell",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A8470",
+          "on": "C74208FFE0F5054883C408E90FC8E9FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "244C88",
+          "on": "E9E33716029090",
+          "off": "894A084883C408"
+        }
+      ]
+    },
+    {
+      "name": "Infinite LP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A17E2",
+          "on": "9090909090909090",
+          "off": "4189942490010000"
+        }
+      ]
+    },
+    {
+      "name": "Max LP On Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A8490",
+          "on": "BA0F2700004189942490010000E94893DFFD",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A17E2",
+          "on": "E9A96C2002909090",
+          "off": "4189942490010000"
+        }
+      ]
+    },
+    {
+      "name": "Boost EXP| x1000 Points Per Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A84B0",
+          "on": "4181C7E80300004589BD8C010000E92D47DDFD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "17CBE9",
+          "on": "E9C2B822029090",
+          "off": "4589BD8C010000"
+        }
+      ]
+    },
+    {
+      "name": "Extra EXP| x5000 Points Per Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A84D0",
+          "on": "4181C7881300004589BD8C010000E90D47DDFD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "17CBE9",
+          "on": "E9E2B822029090",
+          "off": "4589BD8C010000"
+        }
+      ]
+    },
+    {
+      "name": "Eeven More EXP| x10.000 Points Per Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A84F0",
+          "on": "4181C7102700004589BD8C010000E9ED46DDFD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "17CBE9",
+          "on": "E902B922029090",
+          "off": "4589BD8C010000"
+        }
+      ]
+    },
+    {
+      "name": "Lots Of EXP| x15.000 Points Per Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A8510",
+          "on": "4181C7983A00004589BD8C010000E9CD46DDFD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "17CBE9",
+          "on": "E922B922029090",
+          "off": "4589BD8C010000"
+        }
+      ]
+    },
+    {
+      "name": "Hella EXP| x50.000 Points Per Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A8530",
+          "on": "4181C750C300004589BD8C010000E9AD46DDFD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "17CBE9",
+          "on": "E942B922029090",
+          "off": "4589BD8C010000"
+        }
+      ]
+    },
+    {
+      "name": "EXP OVERLORD| 1 Kill = Max LvL All Characters",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A8550",
+          "on": "4181C7FFE0F5054589BD8C010000E98D46DDFD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "17CBE9",
+          "on": "E962B922029090",
+          "off": "4589BD8C010000"
+        }
+      ]
+    },
+    {
+      "name": "x5000 Clan Points Per Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A8570",
+          "on": "4181C58813000001C8448928E9A368E9FD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "23EE1F",
+          "on": "E94C971602",
+          "off": "01C8448928"
+        }
+      ]
+    },
+    {
+      "name": "x10.000 Clan Points Per Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A8590",
+          "on": "4181C51027000001C8448928E98368E9FD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "23EE1F",
+          "on": "E96C971602",
+          "off": "01C8448928"
+        }
+      ]
+    },
+    {
+      "name": "x25.000 Clan Points Per Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A85B0",
+          "on": "4181C5A861000001C8448928E96368E9FD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "23EE1F",
+          "on": "E98C971602",
+          "off": "01C8448928"
+        }
+      ]
+    },
+    {
+      "name": "500.000 Clan Points| To unlock Record Breaker Trophy ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A85D0",
+          "on": "41BD20A1070001C8448928E94468E9FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "23EE1F",
+          "on": "E9AC971602",
+          "off": "01C8448928"
+        }
+      ]
+    },
+    {
+      "name": "Clan Master| 1 Kill= Max Clan Points ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A85E0",
+          "on": "41BDFFE0F50501C8448928E93468E9FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "23EE1F",
+          "on": "E9BC971602",
+          "off": "01C8448928"
+        }
+      ]
+    },
+    {
+      "name": "Unlock All Items | Battle Only",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A85F0",
+          "on": "66C7044163000FB70C41E9E537DCFD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "16BDDE",
+          "on": "E90DC8230290",
+          "off": "89F80FB70C41"
+        }
+      ]
+    },
+    {
+      "name": "Splendor Master| Enhanced ATK",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A8600",
+          "on": "4881BD48FFFFFF9406D902750D4080C63C4088770AE9A481DCFD4088DE4088770AE99881DCFD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1707B7",
+          "on": "E9447E23029090",
+          "off": "4088DE4088770A"
+        }
+      ]
+    },
+    {
+      "name": "Falconer| Powerful ATK",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A8630",
+          "on": "4881BD48FFFFFF9406D902750D4080C6644088770AE97481DCFD4088DE4088770AE96881DCFD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1707B7",
+          "on": "E9747E23029090",
+          "off": "4088DE4088770A"
+        }
+      ]
+    },
+    {
+      "name": "Kendo Master| Double ATK",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A8660",
+          "on": "4881BD48FFFFFF9406D902750D4080C68C4088770AE94481DCFD4088DE4088770AE93881DCFD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1707B7",
+          "on": "E9A47E23029090",
+          "off": "4088DE4088770A"
+        }
+      ]
+    },
+    {
+      "name": "Shaolin Master| Supreme ATK",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A8690",
+          "on": "4881BD48FFFFFF9406D902750D4080C6C84088770AE91481DCFD4088DE4088770AE90881DCFD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1707B7",
+          "on": "E9D47E23029090",
+          "off": "4088DE4088770A"
+        }
+      ]
+    },
+    {
+      "name": "Plastic Slipper| Max ATK",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23A86C0",
+          "on": "4881BD48FFFFFF9406D902750889570AE9E980DCFD4088DE4088770AE9DD80DCFD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1707B7",
+          "on": "E9047F23029090",
+          "off": "4088DE4088770A"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "GamerX2",
+    "snk3x (01.08 port)"
+  ]
+}
