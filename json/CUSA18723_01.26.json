@@ -1,0 +1,118 @@
+{
+  "name": "Elden Ring",
+  "id": "CUSA18723",
+  "version": "01.26",
+  "process": "eboot.bin",
+  "author": "Celogamez, Nicit (ported). Ported by Daneshi and Dex",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "note": "Self-contained health hook. Player health validated in V4; Torrent may still disappear after repeated hits. Disable restores original hook; inert cave bytes remain until game restart.",
+      "memory": [
+        {
+          "offset": "300D6A0",
+          "on": "EB26909090909090904189854801000041898548010000E95127E3FD41898548010000E94527E3FD41837D1C007513418B854C01000041898548010000E92B27E3FD41837D1C0275D34189854801000041898548010000E91127E3FD",
+          "off": "EB26909090909090904189854801000041898548010000E95127E3FD41898548010000E94527E3FD41837D1C007513418B854C01000041898548010000E92B27E3FD41837D1C0275D34189854801000041898548010000E91127E3FD"
+        },
+        {
+          "offset": "E3FE06",
+          "on": "E995D81C029090",
+          "off": "41898548010000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (Do not activate and use on friendly characters or enemies which should not die instantly!!!)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "300D720",
+          "on": "837F1C00741484D274104439C6730B31F690909090909090909089B748010000E91BF4E2FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E3CB5A",
+          "on": "E9C10B1D0290",
+          "off": "89B748010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E40617",
+          "on": "90909090909090",
+          "off": "41898664010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite FP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "300D520",
+          "on": "418B855C01000041898558010000E93B2FE3FD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E40467",
+          "on": "E9B4D01C029090",
+          "off": "41898558010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items/Potions/Arrows (On Pick Up/x2 To Work)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "300D620",
+          "on": "438944EC0CC701E7030000E98D7CB4FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "B552B5",
+          "on": "E966834B02909090",
+          "off": "438944EC0C448931"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Consumables (On Use)",
+      "type": "checkbox",
+      "note": "Validated on Crimson and Cerulean Flasks and another consumable. May affect other inventory quantities; test separately from pickup cheat.",
+      "memory": [
+        {
+          "offset": "B55290",
+          "on": "4189C690",
+          "off": "440F42F0"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Runes",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "300D5A0",
+          "on": "8B09C7406CFFC99A3BE9AAAF0FFE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1108553",
+          "on": "E94850F001",
+          "off": "8B0989486C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez",
+    "Nicit (ported)",
+    "Ported by Daneshi and Dex"
+  ]
+}
