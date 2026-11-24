@@ -1,0 +1,23 @@
+{
+  "name": "Fatal Frame: Maiden of Black Water",
+  "id": "CUSA28986",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Points 999999",
+      "type": "checkbox",
+      "description": "Define points as 999999 (activate once; active again to replenish).",
+      "memory": [
+        {
+          "offset": "1EE0898",
+          "on": "3F420F00",
+          "off": "3F420F00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "phantomsystem"
+  ]
+}

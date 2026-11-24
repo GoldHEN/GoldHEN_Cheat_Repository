@@ -1,0 +1,491 @@
+{
+  "name": "Like a Dragon Infinite Wealth",
+  "id": "CUSA32137",
+  "version": "01.20",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "TRAINER INFO (read only)",
+      "description": "Please  be sure to read the comment on each individual cheat, if a comment is available. Enjoy! :-)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2590500",
+          "on": "00",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Max HP",
+      "description": "Takes effect when HP value changes during battle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2590550",
+          "on": "488B83681E0000488983701E0000E9686BE8FE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14170C4",
+          "on": "E9879417019090",
+          "off": "488983701E0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Max MP",
+      "description": "Takes effect when MP value changes during battle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2590570",
+          "on": "C780F81F00000F2700008B88F81F0000E9F9E8E2FE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "13BEE78",
+          "on": "E9F3161D0190",
+          "off": "8B88F81F0000"
+        }
+      ]
+    },
+    {
+      "name": "Easy Kill",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2590590",
+          "on": "488987701E00004883BF701E0000030F8E05EAE7FE48C787701E000003000000E9F5E9E7FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "140EFA3",
+          "on": "E9E81518019090",
+          "off": "488987701E0000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "description": "Note that when using this cheat, you may not gain XP and money upon winning the battle.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25905C0",
+          "on": "48893D56FA2600488B8780000000E97B8DE8FE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1419347",
+          "on": "E9747217019090",
+          "off": "488B8780000000"
+        },
+        {
+          "offset": "25905E0",
+          "on": "4C3B2536FA2600740B48C7807010000008000000488B8070100000E9A84AE8FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14150A1",
+          "on": "E93AB517019090",
+          "off": "488B8070100000"
+        }
+      ]
+    },
+    {
+      "name": "God Mode (Untouchable)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2590610",
+          "on": "488B7C0140488B0748893D08FA2600E9450D87FE",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E01361",
+          "on": "E9AAF27801909090",
+          "off": "488B7C0140488B07"
+        },
+        {
+          "offset": "2590640",
+          "on": "4C3B35E0F926000F848C6204FFFF9040010000E9816204FF",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15D68D3",
+          "on": "E9689DFB0090",
+          "off": "FF9040010000"
+        }
+      ]
+    },
+    {
+      "name": "Stealth Mode",
+      "description": "When activated, any already flagged enemy wont see you. All other NPCs wont get flagged as enemies. Compulsory battles will still be triggered. Disable this cheat if you are already in a battle, or you may not be able to complete the battle.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14AED90",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    },
+    {
+      "name": "Max Cash",
+      "description": "This will update your money to 999,999,999 Yen instantly when opening the menu, then the cheat can be disabled and game saved with the amount.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2590660",
+          "on": "48C704C8FFC99A3B488B04C8C3",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "674F78",
+          "on": "E9E3B6F101",
+          "off": "488B04C8C3"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items Usage",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "503EC3",
+          "on": "909090",
+          "off": "448936"
+        },
+        {
+          "offset": "503F84",
+          "on": "C70601000000",
+          "off": "C70600000000"
+        }
+      ]
+    },
+    {
+      "name": "Game Speed Multiplier (Movements) Master Code",
+      "description": "Must enable this MC first and then choose only one of the speeds below",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C590E",
+          "on": "C787F80000000000803F",
+          "off": "C787F80000000000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Speed x2 (Movements)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C5914",
+          "on": "00000040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Speed x3 (Movements)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C5914",
+          "on": "00004040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "--Speed x4 (Movements)",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C5914",
+          "on": "00008040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Exp Multiplier (Master Code)",
+      "description": "Must enable this MC first and then choose only one of the multipliers below",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2590680",
+          "on": "4103B7700300000FAF3505000000E9B34787FE01000000",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E04E3F",
+          "on": "E93CB878019090",
+          "off": "4103B770030000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x100",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2590693",
+          "on": "64000000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x1,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2590693",
+          "on": "E8030000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x10,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2590693",
+          "on": "10270000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x100,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2590693",
+          "on": "A0860100",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x1,000,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2590693",
+          "on": "40420F00",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x10,000,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2590693",
+          "on": "80969800",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "Job Exp Multiplier (Master Code)",
+      "description": "Must enable this MC first and then choose only one of the multipliers below",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25906A0",
+          "on": "410397740300000FAF1505000000E99A4787FE01000000",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E04E46",
+          "on": "E955B878019090",
+          "off": "41039774030000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x100",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25906B3",
+          "on": "64000000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x1,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25906B3",
+          "on": "E8030000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x10,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25906B3",
+          "on": "10270000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x100,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25906B3",
+          "on": "A0860100",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x1,000,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25906B3",
+          "on": "40420F00",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x10,000,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25906B3",
+          "on": "80969800",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "Cash Multiplier (Master Code)",
+      "description": "Must enable this MC first and then choose only one of the multipliers below",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25906C0",
+          "on": "418B87780300000FAF0505000000E9814787FE01000000",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E04E4D",
+          "on": "E96EB878019090",
+          "off": "418B8778030000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x100",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25906D3",
+          "on": "64000000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x1,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25906D3",
+          "on": "E8030000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x10,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25906D3",
+          "on": "10270000",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x100,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25906D3",
+          "on": "A0860100",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x1,000,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25906D3",
+          "on": "40420F00",
+          "off": "01000000"
+        }
+      ]
+    },
+    {
+      "name": "--Multiplier x10,000,000",
+      "description": "",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25906D3",
+          "on": "80969800",
+          "off": "01000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Pharaoh2k",
+    "evilboss",
+    "fakeid30"
+  ]
+}

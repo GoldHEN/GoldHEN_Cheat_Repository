@@ -1,0 +1,238 @@
+{
+  "name": "Overcooked 2",
+  "id": "CUSA10870",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Freeze Round Timer [untested]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "803C0134",
+          "on": "F20F10442410F20F5FC14D85FF",
+          "off": "F20F10442410F20F58C14D85FF"
+        },
+        {
+          "offset": "803C0835",
+          "on": "F30F5AC8F20F10442418F20F5FC1",
+          "off": "F30F5AC8F20F10442418F20F58C1"
+        }
+      ]
+    },
+    {
+      "name": "Orders Never Expire",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "803BBD3B",
+          "on": "F30F5AC9F20F5FC14D85ED0F",
+          "off": "F30F5AC9F20F5CC14D85ED0F"
+        }
+      ]
+    },
+    {
+      "name": "Instant Chop [untested]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "803D6080",
+          "on": "85C00F84D4FFFFFF498BFFBE",
+          "off": "85C00F849C010000498BFFBE"
+        }
+      ]
+    },
+    {
+      "name": "No Burning (not with Instant Cook) [untested]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8033B770",
+          "on": "000000506666662E0F1F8400",
+          "off": "000000406666662E0F1F8400"
+        },
+        {
+          "offset": "8033BA70",
+          "on": "6666A64F6666662E0F1F8400",
+          "off": "6666A63F6666662E0F1F8400"
+        },
+        {
+          "offset": "8033B230",
+          "on": "000000506666662E0F1F8400",
+          "off": "000000406666662E0F1F8400"
+        },
+        {
+          "offset": "80335C20",
+          "on": "000000506666662E0F1F8400",
+          "off": "000000406666662E0F1F8400"
+        },
+        {
+          "offset": "8033CEE0",
+          "on": "000000506666662E0F1F8400",
+          "off": "000000406666662E0F1F8400"
+        }
+      ]
+    },
+    {
+      "name": "Instant Cook + No Burning [untested]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "803376BC",
+          "on": "F30F5AC8488B442420F20F10442428F20F58C1",
+          "off": "F30F5AC8488B442420F20F10442428F20F59C1"
+        },
+        {
+          "offset": "8033B770",
+          "on": "000000506666662E0F1F8400",
+          "off": "000000406666662E0F1F8400"
+        },
+        {
+          "offset": "8033BA70",
+          "on": "6666A64F6666662E0F1F8400",
+          "off": "6666A63F6666662E0F1F8400"
+        },
+        {
+          "offset": "8033B230",
+          "on": "000000506666662E0F1F8400",
+          "off": "000000406666662E0F1F8400"
+        },
+        {
+          "offset": "80335C20",
+          "on": "000000506666662E0F1F8400",
+          "off": "000000406666662E0F1F8400"
+        },
+        {
+          "offset": "8033CEE0",
+          "on": "000000506666662E0F1F8400",
+          "off": "000000406666662E0F1F8400"
+        }
+      ]
+    },
+    {
+      "name": "No Over-Mixing [untested]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8033DB50",
+          "on": "000000506666662E0F1F8400",
+          "off": "000000406666662E0F1F8400"
+        },
+        {
+          "offset": "8033D970",
+          "on": "6666A64F6666662E0F1F8400",
+          "off": "6666A63F6666662E0F1F8400"
+        },
+        {
+          "offset": "8033D4B0",
+          "on": "000000506666662E0F1F8400",
+          "off": "000000406666662E0F1F8400"
+        }
+      ]
+    },
+    {
+      "name": "ALL IN ONE (use alone) [untested]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "803376BC",
+          "on": "F30F5AC8488B442420F20F10442428F20F58C1",
+          "off": "F30F5AC8488B442420F20F10442428F20F59C1"
+        },
+        {
+          "offset": "8033B770",
+          "on": "000000506666662E0F1F8400",
+          "off": "000000406666662E0F1F8400"
+        },
+        {
+          "offset": "8033BA70",
+          "on": "6666A64F6666662E0F1F8400",
+          "off": "6666A63F6666662E0F1F8400"
+        },
+        {
+          "offset": "8033B230",
+          "on": "000000506666662E0F1F8400",
+          "off": "000000406666662E0F1F8400"
+        },
+        {
+          "offset": "80335C20",
+          "on": "000000506666662E0F1F8400",
+          "off": "000000406666662E0F1F8400"
+        },
+        {
+          "offset": "8033CEE0",
+          "on": "000000506666662E0F1F8400",
+          "off": "000000406666662E0F1F8400"
+        },
+        {
+          "offset": "8033DB50",
+          "on": "000000506666662E0F1F8400",
+          "off": "000000406666662E0F1F8400"
+        },
+        {
+          "offset": "8033D970",
+          "on": "6666A64F6666662E0F1F8400",
+          "off": "6666A63F6666662E0F1F8400"
+        },
+        {
+          "offset": "8033D4B0",
+          "on": "000000506666662E0F1F8400",
+          "off": "000000406666662E0F1F8400"
+        },
+        {
+          "offset": "803D6080",
+          "on": "85C00F84D4FFFFFF498BFFBE",
+          "off": "85C00F849C010000498BFFBE"
+        },
+        {
+          "offset": "803BBD3B",
+          "on": "F30F5AC9F20F5FC14D85ED0F",
+          "off": "F30F5AC9F20F5CC14D85ED0F"
+        },
+        {
+          "offset": "803C0134",
+          "on": "F20F10442410F20F5FC14D85FF",
+          "off": "F20F10442410F20F58C14D85FF"
+        },
+        {
+          "offset": "803C0835",
+          "on": "F30F5AC8F20F10442418F20F5FC1",
+          "off": "F30F5AC8F20F10442418F20F58C1"
+        }
+      ]
+    },
+    {
+      "name": "3 Stars Always (not with Instant Finish)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "803C0D90",
+          "on": "B803000000C334244C8BF748",
+          "off": "4883EC184C8934244C8BF748"
+        }
+      ]
+    },
+    {
+      "name": "Instant Finish 3 Stars (not with 3 Stars)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "803C0D90",
+          "on": "B803000000C334244C8BF748",
+          "off": "4883EC184C8934244C8BF748"
+        },
+        {
+          "offset": "803C00C9",
+          "on": "400F94C0480FB6C085C00F8079000000",
+          "off": "400F94C0480FB6C085C00F8579000000"
+        },
+        {
+          "offset": "803C010C",
+          "on": "F3410F104720F30F5AC0F20F1144",
+          "off": "F3410F10471CF30F5AC0F20F1144"
+        }
+      ]
+    }
+  ],
+  "credits": []
+}
